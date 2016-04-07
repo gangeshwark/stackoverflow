@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="3" TagName="sms" Count="824" ExcerptPostId="13195" WikiPostId="13194" />
+  <row Id="4" TagName="handcent-sms" Count="18" ExcerptPostId="49294" WikiPostId="49293" />
+  <row Id="5" TagName="applications" Count="1989" ExcerptPostId="4202" WikiPostId="4201" />
+  <row Id="6" TagName="nexus-one" Count="111" ExcerptPostId="7424" WikiPostId="7423" />
+  <row Id="10" TagName="contacts" Count="899" ExcerptPostId="10986" WikiPostId="10985" />
+  <row Id="11" TagName="task-management" Count="79" ExcerptPostId="54021" WikiPostId="54020" />
+  <row Id="12" TagName="google" Count="244" ExcerptPostId="14443" WikiPostId="14442" />
+  <row Id="17" TagName="sleep" Count="19" />
+  <row Id="18" TagName="motorola-droid" Count="128" ExcerptPostId="7316" WikiPostId="7315" />
+  <row Id="19" TagName="docking-station" Count="18" ExcerptPostId="49385" WikiPostId="49384" />
+  <row Id="20" TagName="notifications" Count="726" ExcerptPostId="16778" WikiPostId="16777" />
+  <row Id="23" TagName="att" Count="45" ExcerptPostId="6281" WikiPostId="6280" />
+  <row Id="25" TagName="email" Count="471" ExcerptPostId="10579" WikiPostId="10578" />
+  <row Id="27" TagName="home-screen" Count="152" ExcerptPostId="28531" WikiPostId="28530" />
+  <row Id="28" TagName="kernel" Count="168" ExcerptPostId="14240" WikiPostId="14239" />
+  <row Id="30" TagName="roaming" Count="41" ExcerptPostId="35413" WikiPostId="35412" />
+  <row Id="31" TagName="data-traffic" Count="77" ExcerptPostId="41694" WikiPostId="41693" />
+  <row Id="33" TagName="settings" Count="685" ExcerptPostId="16776" WikiPostId="16775" />
+  <row Id="35" TagName="htc-droid-incredible" Count="81" ExcerptPostId="22298" WikiPostId="22297" />
+  <row Id="36" TagName="custom-roms" Count="559" ExcerptPostId="14120" WikiPostId="14119" />
+  <row Id="38" TagName="htc-dream" Count="32" ExcerptPostId="7325" WikiPostId="7324" />
+  <row Id="39" TagName="google-reader" Count="18" ExcerptPostId="14377" WikiPostId="14376" />
+  <row Id="40" TagName="rss" Count="19" ExcerptPostId="14367" WikiPostId="14366" />
+  <row Id="42" TagName="resource-monitoring" Count="22" ExcerptPostId="39389" WikiPostId="39388" />
+  <row Id="45" TagName="htc" Count="230" ExcerptPostId="16947" WikiPostId="16946" />
+  <row Id="46" TagName="uninstallation" Count="178" ExcerptPostId="10222" WikiPostId="10221" />
+  <row Id="47" TagName="keyboard" Count="496" ExcerptPostId="10493" WikiPostId="10492" />
+  <row Id="48" TagName="callerid" Count="33" ExcerptPostId="48514" WikiPostId="48513" />
+  <row Id="51" TagName="tablet" Count="322" ExcerptPostId="10788" WikiPostId="10787" />
+  <row Id="53" TagName="browser" Count="400" ExcerptPostId="10793" WikiPostId="10792" />
+  <row Id="54" TagName="radio-firmware" Count="35" ExcerptPostId="42937" WikiPostId="42936" />
+  <row Id="55" TagName="dictionary" Count="57" ExcerptPostId="30281" WikiPostId="30280" />
+  <row Id="57" TagName="localization" Count="135" ExcerptPostId="14125" WikiPostId="14124" />
+  <row Id="58" TagName="samsung" Count="737" ExcerptPostId="16960" WikiPostId="16959" />
+  <row Id="59" TagName="gallery" Count="186" ExcerptPostId="22607" WikiPostId="22606" />
+  <row Id="61" TagName="customization" Count="110" ExcerptPostId="39261" WikiPostId="39260" />
+  <row Id="63" TagName="bluetooth" Count="475" ExcerptPostId="10556" WikiPostId="10555" />
+  <row Id="64" TagName="files" Count="136" ExcerptPostId="46937" WikiPostId="46936" />
+  <row Id="65" TagName="freeware" Count="7" ExcerptPostId="50436" WikiPostId="50435" />
+  <row Id="66" TagName="productivity" Count="10" />
+  <row Id="67" TagName="gps" Count="295" ExcerptPostId="14030" WikiPostId="14029" />
+  <row Id="68" TagName="camera" Count="364" ExcerptPostId="10573" WikiPostId="10572" />
+  <row Id="72" TagName="music" Count="203" ExcerptPostId="48380" WikiPostId="48379" />
+  <row Id="73" TagName="security" Count="614" ExcerptPostId="14118" WikiPostId="14117" />
+  <row Id="77" TagName="clock-speed" Count="8" />
+  <row Id="81" TagName="sd-card" Count="510" ExcerptPostId="10575" WikiPostId="10574" />
+  <row Id="82" TagName="backlight" Count="21" ExcerptPostId="49298" WikiPostId="49297" />
+  <row Id="83" TagName="launcher" Count="178" ExcerptPostId="14114" WikiPostId="14113" />
+  <row Id="84" TagName="htc-hero" Count="33" ExcerptPostId="7449" WikiPostId="7448" />
+  <row Id="89" TagName="firewall" Count="44" />
+  <row Id="90" TagName="battery" Count="568" ExcerptPostId="16069" WikiPostId="16068" />
+  <row Id="91" TagName="mp3" Count="50" ExcerptPostId="16097" WikiPostId="16096" />
+  <row Id="92" TagName="pmp" Count="2" ExcerptPostId="9607" WikiPostId="9606" />
+  <row Id="93" TagName="hardware" Count="326" ExcerptPostId="14624" WikiPostId="14623" />
+  <row Id="95" TagName="terminal" Count="125" ExcerptPostId="39860" WikiPostId="39859" />
+  <row Id="97" TagName="performance" Count="190" ExcerptPostId="28207" WikiPostId="28206" />
+  <row Id="98" TagName="htc-desire" Count="318" ExcerptPostId="6688" WikiPostId="6687" />
+  <row Id="101" TagName="java" Count="30" ExcerptPostId="35443" WikiPostId="35442" />
+  <row Id="108" TagName="calls" Count="428" ExcerptPostId="22301" WikiPostId="22300" />
+  <row Id="110" TagName="manufacturers" Count="5" />
+  <row Id="111" TagName="charging" Count="488" ExcerptPostId="25687" WikiPostId="25686" />
+  <row Id="113" TagName="unrevoked" Count="12" />
+  <row Id="115" TagName="usb" Count="624" ExcerptPostId="10568" WikiPostId="10567" />
+  <row Id="116" TagName="htc-sync-3.0" Count="12" />
+  <row Id="118" TagName="screenshots" Count="97" ExcerptPostId="25049" WikiPostId="25048" />
+  <row Id="119" TagName="htc-legend" Count="12" ExcerptPostId="41244" WikiPostId="41243" />
+  <row Id="123" TagName="motorola-droid-x" Count="78" ExcerptPostId="22304" WikiPostId="22303" />
+  <row Id="124" TagName="usb-connection-mode" Count="238" ExcerptPostId="27879" WikiPostId="27878" />
+  <row Id="125" TagName="ringtone" Count="133" ExcerptPostId="14450" WikiPostId="14449" />
+  <row Id="131" TagName="profiles" Count="55" ExcerptPostId="32448" WikiPostId="32447" />
+  <row Id="132" TagName="call-screening" Count="51" ExcerptPostId="13470" WikiPostId="13469" />
+  <row Id="134" TagName="screen" Count="389" ExcerptPostId="28587" WikiPostId="28586" />
+  <row Id="136" TagName="wi-fi" Count="1342" ExcerptPostId="7381" WikiPostId="7380" />
+  <row Id="137" TagName="wifi-tethering" Count="112" ExcerptPostId="6684" WikiPostId="6683" />
+  <row Id="138" TagName="google-voice" Count="102" ExcerptPostId="14622" WikiPostId="14621" />
+  <row Id="140" TagName="power-on" Count="96" ExcerptPostId="35434" WikiPostId="35433" />
+  <row Id="141" TagName="system" Count="153" ExcerptPostId="14535" WikiPostId="14534" />
+  <row Id="147" TagName="antivirus" Count="59" ExcerptPostId="40436" WikiPostId="40435" />
+  <row Id="153" TagName="linux" Count="339" ExcerptPostId="14112" WikiPostId="14111" />
+  <row Id="158" TagName="notes" Count="35" />
+  <row Id="161" TagName="development" Count="39" ExcerptPostId="9783" WikiPostId="9782" />
+  <row Id="164" TagName="audio" Count="429" ExcerptPostId="15369" WikiPostId="15368" />
+  <row Id="165" TagName="wma" Count="4" />
+  <row Id="166" TagName="encryption" Count="281" ExcerptPostId="15366" WikiPostId="15365" />
+  <row Id="170" TagName="calendar" Count="293" ExcerptPostId="16682" WikiPostId="16681" />
+  <row Id="171" TagName="clock" Count="103" ExcerptPostId="41270" WikiPostId="41269" />
+  <row Id="172" TagName="podcast" Count="24" ExcerptPostId="14290" WikiPostId="14289" />
+  <row Id="175" TagName="app-ratings" Count="19" />
+  <row Id="176" TagName="samsung-galaxy-apollo" Count="36" ExcerptPostId="12439" WikiPostId="12438" />
+  <row Id="179" TagName="twitter" Count="55" ExcerptPostId="17008" WikiPostId="17007" />
+  <row Id="184" TagName="reboot" Count="219" ExcerptPostId="28508" WikiPostId="28507" />
+  <row Id="186" TagName="sync" Count="671" ExcerptPostId="12921" WikiPostId="12920" />
+  <row Id="188" TagName="motorola" Count="64" ExcerptPostId="17006" WikiPostId="17005" />
+  <row Id="190" TagName="streaming" Count="84" ExcerptPostId="115420" WikiPostId="115419" />
+  <row Id="193" TagName="backup" Count="619" ExcerptPostId="13191" WikiPostId="13190" />
+  <row Id="196" TagName="restore" Count="243" ExcerptPostId="13193" WikiPostId="13192" />
+  <row Id="197" TagName="weather" Count="24" />
+  <row Id="199" TagName="car-dock" Count="23" />
+</tags>
