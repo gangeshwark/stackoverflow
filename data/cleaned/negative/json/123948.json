@@ -1,0 +1,71 @@
+{
+    "Body":"I don't know much about how apk and apps in android work.Title says it all. In my specific case, I installed icon packs from a playstore app to be used along with Nova Launcher. Now I want to get rid of the app that provided the icons pack (it is occupying space). I disabled it with pm disble .. command. And the icons aren't gone. So, I guess, I'd be fine if I delted the app as well. but I am not sure. So, does uninstalling an app does more messing with the system than uninstalling it does? ",
+    "ViewCount":"68",
+    "LastActivityDate":"2015-09-23T06:00:35.483",
+    "ClosedDate":"2015-10-19T23:06:30.010",
+    "Title":"Is disabling an app functionally similar to unistalling it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"127850",
+    "CreationDate":"2015-09-23T05:54:10.960",
+    "FavoriteCount":null,
+    "Id":"123948",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-23T05:54:10.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"564cdd27-02c0-4055-be18-29158021f304",
+            "UserId":"127850",
+            "CloseReasonId":null,
+            "PostId":"123948",
+            "PostHistoryTypeId":"2",
+            "Id":"405047",
+            "Text":"I don't know much about how apk and apps in android work.Title says it all. In my specific case, I installed icon packs from a playstore app to be used along with Nova Launcher. Now I want to get rid of the app that provided the icons pack (it is occupying space). I disabled it with `pm disble ..` command. And the icons aren't gone. So, I guess, I'd be fine if I delted the app as well. but I am not sure. So, does uninstalling an app does more messing with the system than uninstalling it does? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-23T05:54:10.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"564cdd27-02c0-4055-be18-29158021f304",
+            "UserId":"127850",
+            "CloseReasonId":null,
+            "PostId":"123948",
+            "PostHistoryTypeId":"1",
+            "Id":"405048",
+            "Text":"Is disabling an app functionally similar to unistalling it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-23T05:54:10.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"564cdd27-02c0-4055-be18-29158021f304",
+            "UserId":"127850",
+            "CloseReasonId":null,
+            "PostId":"123948",
+            "PostHistoryTypeId":"3",
+            "Id":"405049",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-19T23:06:30.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"251864e0-4664-4b28-9670-a0687cf3bb45",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"123948",
+            "PostHistoryTypeId":"10",
+            "Id":"415017",
+            "Text":"{\"OriginalQuestionIds\":[64948],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

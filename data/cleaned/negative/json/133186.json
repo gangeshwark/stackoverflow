@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Huawei Ascend G6, which uses a 32GB SD card to store most app data. I now bought a Huawei Y6 to migrate to and want to retain as much app data as I can. How would I go about to transfer my apps (data) to the new device?The Y6 has Lollipop, so when booting the device, I was asked which apps to install. So I got all apps installed now. So how do I go about transferring configuration data? I assume I can't just put my SD card into the Y6 and be done with it?",
+    "ViewCount":"48",
+    "LastActivityDate":"2016-01-03T10:01:17.847",
+    "ClosedDate":"2016-01-03T11:45:47.537",
+    "Title":"How to migrate Android device, including SD card?",
+    "LastEditorUserId":"64394",
+    "Tags":"",
+    "LastEditDate":"2016-01-02T11:42:41.793",
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64394",
+    "CreationDate":"2016-01-02T11:08:49.780",
+    "FavoriteCount":null,
+    "Id":"133186",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-02T11:08:49.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"1583892f-cb6c-4054-adc7-e596b42355d6",
+            "UserId":"64394",
+            "CloseReasonId":null,
+            "PostId":"133186",
+            "PostHistoryTypeId":"2",
+            "Id":"441228",
+            "Text":"I have a Huawei Ascend G6, which uses a 32GB SD card to store most app data. I now bought a Huawei Y6 to migrate to and want to retain as much app data as I can. How would I go about to transfer my apps (data) to the new device?The Y6 has Lollipop, so when booting the device, I was asked which apps to install. So I got all apps installed now. So how do I go about transferring configuration data? I assume I can't just put my SD card into the Y6 and be done with it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-02T11:08:49.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"1583892f-cb6c-4054-adc7-e596b42355d6",
+            "UserId":"64394",
+            "CloseReasonId":null,
+            "PostId":"133186",
+            "PostHistoryTypeId":"1",
+            "Id":"441229",
+            "Text":"Best practice when migrating Android device, including SD card?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-02T11:08:49.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"1583892f-cb6c-4054-adc7-e596b42355d6",
+            "UserId":"64394",
+            "CloseReasonId":null,
+            "PostId":"133186",
+            "PostHistoryTypeId":"3",
+            "Id":"441230",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2016-01-02T11:42:41.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dca335c-8102-420d-b9fb-7d790e30160b",
+            "UserId":"64394",
+            "CloseReasonId":null,
+            "PostId":"133186",
+            "PostHistoryTypeId":"4",
+            "Id":"441239",
+            "Text":"How to migrate Android device, including SD card?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-03T11:45:47.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3698058-0d85-4598-a0c0-5afbe2fe5227",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"133186",
+            "PostHistoryTypeId":"10",
+            "Id":"441551",
+            "Text":"{\"OriginalQuestionIds\":[88563],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

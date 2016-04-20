@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my phone get the Android 2.3 update (Gingerbread)?  Is the 2.3.3 update available for Google Nexus S & Samsung Galaxy S2 available in India . I am building applications in NFC which requires it .",
+    "ViewCount":"98",
+    "LastActivityDate":"2011-07-11T09:26:43.370",
+    "ClosedDate":"2012-05-29T14:21:17.557",
+    "Title":"Is 2.3.3 update available for Google Nexus S & Samsung Galaxy S2 Phone's in India ",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6529",
+    "CreationDate":"2011-07-11T09:26:43.370",
+    "FavoriteCount":null,
+    "Id":"11355",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-11T09:26:43.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"072f56d1-f2d2-4afb-a4f4-57c1143aaf85",
+            "UserId":"6529",
+            "CloseReasonId":null,
+            "PostId":"11355",
+            "PostHistoryTypeId":"2",
+            "Id":"28348",
+            "Text":"Is the 2.3.3 update available for Google Nexus S & Samsung Galaxy S2 available in India . I am building applications in NFC which requires it ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-11T09:26:43.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"072f56d1-f2d2-4afb-a4f4-57c1143aaf85",
+            "UserId":"6529",
+            "CloseReasonId":null,
+            "PostId":"11355",
+            "PostHistoryTypeId":"1",
+            "Id":"28349",
+            "Text":"Is 2.3.3 update available for Google Nexus S & Samsung Galaxy S2 Phone's in India ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-11T09:26:43.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"072f56d1-f2d2-4afb-a4f4-57c1143aaf85",
+            "UserId":"6529",
+            "CloseReasonId":null,
+            "PostId":"11355",
+            "PostHistoryTypeId":"3",
+            "Id":"28350",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-05-29T14:21:18.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"f6cd7fb8-3611-4872-a485-138fbf7e8c0c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"11355",
+            "PostHistoryTypeId":"5",
+            "Id":"67200",
+            "Text":"> **Possible Duplicate:**  > [When will my phone get the Android 2.3 update (Gingerbread)?](http:\/\/android.stackexchange.com\/questions\/2695\/when-will-my-phone-get-the-android-2-3-update-gingerbread)  Is the 2.3.3 update available for Google Nexus S & Samsung Galaxy S2 available in India . I am building applications in NFC which requires it ."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-05-29T14:21:17.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"bec768f8-dae8-4435-91c6-d6a58ed6ba51",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"11355",
+            "PostHistoryTypeId":"10",
+            "Id":"67201",
+            "Text":"{\"OriginalQuestionIds\":[2695],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

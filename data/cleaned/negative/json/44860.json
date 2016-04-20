@@ -1,0 +1,83 @@
+{
+    "Body":"I moved from France to Italy, and it seems like my Play Store is stuck in France. The Operator is recognized correctly as Vodafone on the play store, but I still see the app recommendations in French and some Applications which should be available only in Italy are not downloadable (This item cannot be installed in your device's country)How do I get play store to recognize that I have moved to a different country. My phone is a factory unlocked Galaxy SIII GT-I9300 with stock OS, purchased in France.",
+    "ViewCount":"728",
+    "LastActivityDate":"2013-12-24T16:01:01.917",
+    "ClosedDate":"2014-04-03T06:17:47.413",
+    "Title":"Play store stuck in old country",
+    "LastEditorUserId":"440",
+    "Tags":"",
+    "LastEditDate":"2013-05-03T15:44:58.423",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17402",
+    "CreationDate":"2013-05-03T15:12:50.997",
+    "FavoriteCount":null,
+    "Id":"44860",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T15:12:50.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"8df5a362-d8f3-43c8-aed5-416fa01605d9",
+            "UserId":"17402",
+            "CloseReasonId":null,
+            "PostId":"44860",
+            "PostHistoryTypeId":"2",
+            "Id":"144208",
+            "Text":"I moved from France to Italy, and it seems like my Play Store is stuck in France. The Operator is recognized correctly as Vodafone on the play store, but I still see the app recommendations in French and some Applications which should be available only in Italy are not downloadable (This item cannot be installed in your device's country)How do I get play store to recognize that I have moved to a different country. My phone is a factory unlocked Galaxy SIII GT-I9300 with stock OS, purchased in France."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T15:12:50.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"8df5a362-d8f3-43c8-aed5-416fa01605d9",
+            "UserId":"17402",
+            "CloseReasonId":null,
+            "PostId":"44860",
+            "PostHistoryTypeId":"1",
+            "Id":"144209",
+            "Text":"Play store stuck in old country"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T15:12:50.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"8df5a362-d8f3-43c8-aed5-416fa01605d9",
+            "UserId":"17402",
+            "CloseReasonId":null,
+            "PostId":"44860",
+            "PostHistoryTypeId":"3",
+            "Id":"144210",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-05-03T15:44:58.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"065b1704-f576-4e0b-baad-cd9341f0837a",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"44860",
+            "PostHistoryTypeId":"6",
+            "Id":"144216",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-03T06:17:47.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"8d2b2e4a-90c5-4e04-bce4-2970947447bf",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"44860",
+            "PostHistoryTypeId":"10",
+            "Id":"227595",
+            "Text":"{\"OriginalQuestionIds\":[42347],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

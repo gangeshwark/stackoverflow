@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to update a tablet that has android 4.0 to the latest version (4.4.2)? I'm looking into buying a tablet. It has android 4.0 which is cheaper than the other tablets that have 4.0 (which doesn't make senec to me). ",
+    "ViewCount":"3277",
+    "LastActivityDate":"2014-04-16T18:15:12.733",
+    "ClosedDate":"2014-04-17T04:58:16.627",
+    "Title":"Tablet with android 4.0 update to the latest android OS? (currently 4.4)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"67679",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"58687",
+    "CreationDate":"2014-04-16T16:14:41.173",
+    "FavoriteCount":null,
+    "Id":"67675",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-16T16:14:41.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0f2bee3-0381-4ecd-a32e-d178dd74b8dd",
+            "UserId":"58687",
+            "CloseReasonId":null,
+            "PostId":"67675",
+            "PostHistoryTypeId":"2",
+            "Id":"230635",
+            "Text":"Is it possible to update a tablet that has android 4.0 to the latest version (4.4.2)? I'm looking into buying a tablet. It has android 4.0 which is cheaper than the other tablets that have 4.0 (which doesn't make senec to me). "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-16T16:14:41.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0f2bee3-0381-4ecd-a32e-d178dd74b8dd",
+            "UserId":"58687",
+            "CloseReasonId":null,
+            "PostId":"67675",
+            "PostHistoryTypeId":"1",
+            "Id":"230636",
+            "Text":"Tablet with android 4.0 update to the latest android OS? (currently 4.4)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-16T16:14:41.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0f2bee3-0381-4ecd-a32e-d178dd74b8dd",
+            "UserId":"58687",
+            "CloseReasonId":null,
+            "PostId":"67675",
+            "PostHistoryTypeId":"3",
+            "Id":"230637",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-17T04:58:16.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"19ca504b-1e6a-4a6f-9023-39da8eda83e5",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"67675",
+            "PostHistoryTypeId":"10",
+            "Id":"230719",
+            "Text":"{\"OriginalQuestionIds\":[56112],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

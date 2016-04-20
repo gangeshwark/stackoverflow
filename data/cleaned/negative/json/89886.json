@@ -1,0 +1,71 @@
+{
+    "Body":"Lollipop is not on my HTC and I do not know why, lollipop is 5.etc but my htc is on 3.etc",
+    "ViewCount":"30",
+    "LastActivityDate":"2014-12-05T23:43:18.593",
+    "ClosedDate":"2014-12-06T05:54:21.887",
+    "Title":"my HTC doesn't have lollipop, can you explain",
+    "LastEditorUserId":null,
+    "Tags":"<5.0-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82986",
+    "CreationDate":"2014-12-05T23:34:47.677",
+    "FavoriteCount":null,
+    "Id":"89886",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-05T23:34:47.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"858b8f35-dbcd-48f0-a3e9-3d4cdf706d1b",
+            "UserId":"82986",
+            "CloseReasonId":null,
+            "PostId":"89886",
+            "PostHistoryTypeId":"2",
+            "Id":"296271",
+            "Text":"Lollipop is not on my HTC and I do not know why, lollipop is 5.etc but my htc is on 3.etc"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-05T23:34:47.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"858b8f35-dbcd-48f0-a3e9-3d4cdf706d1b",
+            "UserId":"82986",
+            "CloseReasonId":null,
+            "PostId":"89886",
+            "PostHistoryTypeId":"1",
+            "Id":"296272",
+            "Text":"my HTC doesn't have lollipop, can you explain"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-05T23:34:47.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"858b8f35-dbcd-48f0-a3e9-3d4cdf706d1b",
+            "UserId":"82986",
+            "CloseReasonId":null,
+            "PostId":"89886",
+            "PostHistoryTypeId":"3",
+            "Id":"296273",
+            "Text":"<5.0-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-06T05:54:21.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"6225cfc7-69a3-4ab9-8a41-9ebc68fae70e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89886",
+            "PostHistoryTypeId":"10",
+            "Id":"296364",
+            "Text":"{\"OriginalQuestionIds\":[75684],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

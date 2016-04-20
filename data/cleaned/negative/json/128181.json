@@ -1,0 +1,71 @@
+{
+    "Body":"I am interested in installing Android 6.0 on my device Huawei Honor 7 (PLK-L01).At this point in time, the device name is not listed in the Android website as a supported device. Would i still be able to install it?I am really interested to understand the reasons why a certain Android-based device can't support the latest version of Android OS.Thank you for reading my questions. Any help or explanation would be greatly appreciated.",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-11-07T03:49:01.640",
+    "ClosedDate":"2015-11-07T05:07:42.830",
+    "Title":"How to install Android 6.0 If the device is not listed yet?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"135681",
+    "CreationDate":"2015-11-07T03:49:01.640",
+    "FavoriteCount":null,
+    "Id":"128181",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-07T03:49:01.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdd41a7f-d566-41c7-82f0-b4d88dfae70f",
+            "UserId":"135681",
+            "CloseReasonId":null,
+            "PostId":"128181",
+            "PostHistoryTypeId":"2",
+            "Id":"421554",
+            "Text":"I am interested in installing **Android 6.0** on my device **Huawei Honor 7 (PLK-L01)**.At this point in time, the device name is not listed in the Android website as a supported device. Would i still be able to install it?I am really interested to understand the reasons why a certain Android-based device can't support the latest version of Android OS.Thank you for reading my questions. Any help or explanation would be greatly appreciated."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-07T03:49:01.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdd41a7f-d566-41c7-82f0-b4d88dfae70f",
+            "UserId":"135681",
+            "CloseReasonId":null,
+            "PostId":"128181",
+            "PostHistoryTypeId":"1",
+            "Id":"421555",
+            "Text":"How to install Android 6.0 If the device is not listed yet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-07T03:49:01.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdd41a7f-d566-41c7-82f0-b4d88dfae70f",
+            "UserId":"135681",
+            "CloseReasonId":null,
+            "PostId":"128181",
+            "PostHistoryTypeId":"3",
+            "Id":"421556",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-07T05:07:42.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ccabc50-5b33-488a-b9e0-11a39e60adf9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"128181",
+            "PostHistoryTypeId":"10",
+            "Id":"421574",
+            "Text":"{\"OriginalQuestionIds\":[110681],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

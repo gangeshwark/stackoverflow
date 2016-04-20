@@ -1,0 +1,83 @@
+{
+    "Body":"I'm trying to access \"Market\" app to download apps.  I am getting message \"No Connection. Retry.\"  This is a new Droid 4.  I have turned off wi-fi.  I'm sure there's some setting I need to change because I've used market before but I don't know where to look or what to do",
+    "ViewCount":"76",
+    "LastActivityDate":"2012-07-06T21:30:17.387",
+    "ClosedDate":"2012-07-06T21:30:23.970",
+    "Title":"Can't access Market app on Droid 4",
+    "LastEditorUserId":"981",
+    "Tags":"",
+    "LastEditDate":"2012-07-06T21:30:17.387",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12874",
+    "CreationDate":"2012-02-25T02:32:36.523",
+    "FavoriteCount":null,
+    "Id":"19905",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-25T02:32:36.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"919e11ba-4fca-47e8-8baa-f94b3302ef61",
+            "UserId":"12874",
+            "CloseReasonId":null,
+            "PostId":"19905",
+            "PostHistoryTypeId":"2",
+            "Id":"55165",
+            "Text":"I'm trying to access \"Market\" app to download apps.  I am getting message \"No Connection. Retry.\"  This is a new Droid 4.  I have turned off wi-fi.  I'm sure there's some setting I need to change because I've used market before but I don't know where to look or what to do"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-25T02:32:36.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"919e11ba-4fca-47e8-8baa-f94b3302ef61",
+            "UserId":"12874",
+            "CloseReasonId":null,
+            "PostId":"19905",
+            "PostHistoryTypeId":"1",
+            "Id":"55166",
+            "Text":"Can't access Market app on Droid 4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-25T02:32:36.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"919e11ba-4fca-47e8-8baa-f94b3302ef61",
+            "UserId":"12874",
+            "CloseReasonId":null,
+            "PostId":"19905",
+            "PostHistoryTypeId":"3",
+            "Id":"55167",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-07-06T21:30:17.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"307e3524-35af-4ada-9509-afb024b8bba2",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"19905",
+            "PostHistoryTypeId":"6",
+            "Id":"73235",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-07-06T21:30:23.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"161d3151-a889-4674-a50d-d648f4d171a7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"19905",
+            "PostHistoryTypeId":"10",
+            "Id":"73236",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

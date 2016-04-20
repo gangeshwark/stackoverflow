@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  What is the right way to close apps in Android?  Is there any proper way as suggested by google or android official documentation to close an application in android with out using any task killer tools ....I ask this question as a android use not as developer.....",
+    "ViewCount":"1612",
+    "LastActivityDate":"2010-12-16T10:44:59.207",
+    "ClosedDate":"2010-12-16T14:18:37.040",
+    "Title":"how to close an application in android",
+    "LastEditorUserId":null,
+    "Tags":"<2.1-eclair>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1558",
+    "CreationDate":"2010-12-16T09:58:14.320",
+    "FavoriteCount":null,
+    "Id":"3717",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-16T09:58:14.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d22be8f-6359-4495-9b24-bdfc2163aad5",
+            "UserId":"1558",
+            "CloseReasonId":null,
+            "PostId":"3717",
+            "PostHistoryTypeId":"2",
+            "Id":"7644",
+            "Text":"Is there any proper way as suggested by google or android official documentation to close an application in android with out using any task killer tools ....I ask this question as a android use not as developer....."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-16T09:58:14.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d22be8f-6359-4495-9b24-bdfc2163aad5",
+            "UserId":"1558",
+            "CloseReasonId":null,
+            "PostId":"3717",
+            "PostHistoryTypeId":"1",
+            "Id":"7645",
+            "Text":"how to close an application in android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-16T09:58:14.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d22be8f-6359-4495-9b24-bdfc2163aad5",
+            "UserId":"1558",
+            "CloseReasonId":null,
+            "PostId":"3717",
+            "PostHistoryTypeId":"3",
+            "Id":"7646",
+            "Text":"<2.1-eclair>"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-16T14:18:37.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"f145aee4-2541-4172-8cad-95a4fd07c496",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"3717",
+            "PostHistoryTypeId":"10",
+            "Id":"7670",
+            "Text":"{\"OriginalQuestionIds\":[927],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-16T14:18:37.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b69d1be-cea6-421f-afb2-fde27c103e82",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3717",
+            "PostHistoryTypeId":"5",
+            "Id":"7671",
+            "Text":"> **Possible Duplicate:**  > [What is the right way to close apps in Android?](http:\/\/android.stackexchange.com\/questions\/927\/what-is-the-right-way-to-close-apps-in-android)  Is there any proper way as suggested by google or android official documentation to close an application in android with out using any task killer tools ....I ask this question as a android use not as developer....."
+        }
+    ]
+}

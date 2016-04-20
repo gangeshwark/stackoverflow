@@ -1,0 +1,71 @@
+{
+    "Body":"I'm having an issue with downloading my all applications installed in my android. It is showing as the application is can't be downloaded because of error 495 please help me out",
+    "ViewCount":"11",
+    "LastActivityDate":"2014-08-08T09:50:30.743",
+    "ClosedDate":"2014-08-08T12:23:31.747",
+    "Title":"any of my installed apps are not getting downloaded",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"69222",
+    "CreationDate":"2014-08-08T09:50:30.743",
+    "FavoriteCount":null,
+    "Id":"79075",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-08T09:50:30.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdce22f5-c23f-4ff3-8a48-6f31601446ad",
+            "UserId":"69222",
+            "CloseReasonId":null,
+            "PostId":"79075",
+            "PostHistoryTypeId":"2",
+            "Id":"260913",
+            "Text":"I'm having an issue with downloading my all applications installed in my android. It is showing as the application is can't be downloaded because of error 495 please help me out"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-08T09:50:30.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdce22f5-c23f-4ff3-8a48-6f31601446ad",
+            "UserId":"69222",
+            "CloseReasonId":null,
+            "PostId":"79075",
+            "PostHistoryTypeId":"1",
+            "Id":"260914",
+            "Text":"any of my installed apps are not getting downloaded"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-08T09:50:30.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdce22f5-c23f-4ff3-8a48-6f31601446ad",
+            "UserId":"69222",
+            "CloseReasonId":null,
+            "PostId":"79075",
+            "PostHistoryTypeId":"3",
+            "Id":"260915",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-08T12:23:31.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7044861-43bc-451c-8976-13f68334a5c8",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"79075",
+            "PostHistoryTypeId":"10",
+            "Id":"260927",
+            "Text":"{\"OriginalQuestionIds\":[23055],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

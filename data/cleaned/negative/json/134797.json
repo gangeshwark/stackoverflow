@@ -1,0 +1,71 @@
+{
+    "Body":"This is strongly related to Android market. I have once used an application which I now cannot find using the search function. Unless it was withdrawn, it must still exist and I want to find it. Obviously the search would be easier if I could just manually go through all applications I ever installed on any phone.Is that possible?",
+    "ViewCount":"93",
+    "LastActivityDate":"2016-01-20T15:28:46.517",
+    "ClosedDate":"2016-01-21T10:44:33.560",
+    "Title":"Get a list of all applications I have ever installed on any phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"134801",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46854",
+    "CreationDate":"2016-01-20T15:12:01.287",
+    "FavoriteCount":null,
+    "Id":"134797",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-20T15:12:01.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b042b7f-3a4a-45ac-be03-85f417b35b1b",
+            "UserId":"46854",
+            "CloseReasonId":null,
+            "PostId":"134797",
+            "PostHistoryTypeId":"2",
+            "Id":"447656",
+            "Text":"This is strongly related to Android market. I have once used an application which I now cannot find using the search function. Unless it was withdrawn, it must still exist and I want to find it. Obviously the search would be easier if I could just manually go through all applications I ever installed on any phone.Is that possible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-20T15:12:01.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b042b7f-3a4a-45ac-be03-85f417b35b1b",
+            "UserId":"46854",
+            "CloseReasonId":null,
+            "PostId":"134797",
+            "PostHistoryTypeId":"1",
+            "Id":"447657",
+            "Text":"Get a list of all applications I have ever installed on any phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-20T15:12:01.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b042b7f-3a4a-45ac-be03-85f417b35b1b",
+            "UserId":"46854",
+            "CloseReasonId":null,
+            "PostId":"134797",
+            "PostHistoryTypeId":"3",
+            "Id":"447658",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-21T10:44:33.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"5fb00590-2e28-4cd5-a5ed-6bdadcdfe77c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"134797",
+            "PostHistoryTypeId":"10",
+            "Id":"447989",
+            "Text":"{\"OriginalQuestionIds\":[6405],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

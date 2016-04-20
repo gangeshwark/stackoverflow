@@ -1,0 +1,71 @@
+{
+    "Body":"I setup adhoc connection in Ubuntu Linux. How can we connect android devices (2.3.3 and 4.0) to the adhoc wifi internet connection?",
+    "ViewCount":"16507",
+    "LastActivityDate":"2013-04-22T19:04:30.417",
+    "ClosedDate":"2013-06-10T13:11:09.907",
+    "Title":"Connecting to Adhoc Wifi",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24152",
+    "CreationDate":"2013-04-01T06:27:35.083",
+    "FavoriteCount":"1",
+    "Id":"42761",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-01T06:27:35.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"13e076ed-be90-4bcc-86e4-913c1114f609",
+            "UserId":"24152",
+            "CloseReasonId":null,
+            "PostId":"42761",
+            "PostHistoryTypeId":"2",
+            "Id":"135483",
+            "Text":"I setup adhoc connection in Ubuntu Linux. How can we connect android devices (2.3.3 and 4.0) to the adhoc wifi internet connection?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-01T06:27:35.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"13e076ed-be90-4bcc-86e4-913c1114f609",
+            "UserId":"24152",
+            "CloseReasonId":null,
+            "PostId":"42761",
+            "PostHistoryTypeId":"1",
+            "Id":"135484",
+            "Text":"Connecting to Adhoc Wifi"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-01T06:27:35.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"13e076ed-be90-4bcc-86e4-913c1114f609",
+            "UserId":"24152",
+            "CloseReasonId":null,
+            "PostId":"42761",
+            "PostHistoryTypeId":"3",
+            "Id":"135485",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-10T13:11:09.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"756f1829-b0e7-441f-bcd5-b0a9b3ad0fdb",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"42761",
+            "PostHistoryTypeId":"10",
+            "Id":"152097",
+            "Text":"{\"OriginalQuestionIds\":[26896],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

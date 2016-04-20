@@ -1,0 +1,71 @@
+{
+    "Body":"I am using WHAM! WG40 mobile. It's internal storage is only 120mb. How can I increase it's internal storage.",
+    "ViewCount":"67",
+    "LastActivityDate":"2015-01-06T09:15:02.857",
+    "ClosedDate":"2015-01-11T16:57:49.200",
+    "Title":"how to increase internalstorage on an Android devise",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87969",
+    "CreationDate":"2015-01-06T05:19:46.487",
+    "FavoriteCount":null,
+    "Id":"94009",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-06T05:19:46.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f4585be-1b3f-4941-885c-faddf7f6e511",
+            "UserId":"87969",
+            "CloseReasonId":null,
+            "PostId":"94009",
+            "PostHistoryTypeId":"2",
+            "Id":"308248",
+            "Text":"I am using WHAM! WG40 mobile. It's internal storage is only 120mb. How can I increase it's internal storage."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-06T05:19:46.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f4585be-1b3f-4941-885c-faddf7f6e511",
+            "UserId":"87969",
+            "CloseReasonId":null,
+            "PostId":"94009",
+            "PostHistoryTypeId":"1",
+            "Id":"308249",
+            "Text":"how to increase internalstorage on an Android devise"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-06T05:19:46.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f4585be-1b3f-4941-885c-faddf7f6e511",
+            "UserId":"87969",
+            "CloseReasonId":null,
+            "PostId":"94009",
+            "PostHistoryTypeId":"3",
+            "Id":"308250",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-11T16:57:49.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f3f2663-6e93-493c-9c58-244eb4d38a41",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"94009",
+            "PostHistoryTypeId":"10",
+            "Id":"311137",
+            "Text":"{\"OriginalQuestionIds\":[33023],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

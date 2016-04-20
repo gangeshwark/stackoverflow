@@ -1,0 +1,83 @@
+{
+    "Body":"I have downloaded an update to angry birds epic but when I opened the app it says \"Unfortunately,angry birds epic has stopped\" I keep opening it but it keeps saying that.",
+    "ViewCount":"21",
+    "LastActivityDate":"2015-08-25T15:42:53.053",
+    "ClosedDate":"2015-08-19T21:16:55.320",
+    "Title":"Unfortunately,angry birds epic has stopped",
+    "LastEditorUserId":"122250",
+    "Tags":"",
+    "LastEditDate":"2015-08-25T15:42:53.053",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122250",
+    "CreationDate":"2015-08-19T19:57:03.463",
+    "FavoriteCount":null,
+    "Id":"119773",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-19T19:57:03.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2ac4ff7-8e7f-4141-863a-22fa479464a9",
+            "UserId":"122250",
+            "CloseReasonId":null,
+            "PostId":"119773",
+            "PostHistoryTypeId":"2",
+            "Id":"392379",
+            "Text":"I have downloaded an update to angry birds epic but when I opened the app it says \"Unfortunately,angry birds epic has stopped\" I keep opening it but it keeps saying that.I've downloaded it from aptoide.Please help.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-19T19:57:03.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2ac4ff7-8e7f-4141-863a-22fa479464a9",
+            "UserId":"122250",
+            "CloseReasonId":null,
+            "PostId":"119773",
+            "PostHistoryTypeId":"1",
+            "Id":"392380",
+            "Text":"Unfortunately,angry birds epic has stopped"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-19T19:57:03.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2ac4ff7-8e7f-4141-863a-22fa479464a9",
+            "UserId":"122250",
+            "CloseReasonId":null,
+            "PostId":"119773",
+            "PostHistoryTypeId":"3",
+            "Id":"392381",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-19T21:16:55.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"c832fddf-6ecd-4058-bb24-aa91b16eabc7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"119773",
+            "PostHistoryTypeId":"10",
+            "Id":"392393",
+            "Text":"{\"OriginalQuestionIds\":[13347],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"deleted 42 characters in body",
+            "CreationDate":"2015-08-25T15:42:53.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e544e6b-0fd9-48c7-b016-7e945a06442d",
+            "UserId":"122250",
+            "CloseReasonId":null,
+            "PostId":"119773",
+            "PostHistoryTypeId":"5",
+            "Id":"394232",
+            "Text":"I have downloaded an update to angry birds epic but when I opened the app it says \"Unfortunately,angry birds epic has stopped\" I keep opening it but it keeps saying that.  "
+        }
+    ]
+}

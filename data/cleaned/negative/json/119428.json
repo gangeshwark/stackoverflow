@@ -1,0 +1,71 @@
+{
+    "Body":"I want to understand why did google play deduct Rs 50 when I tried paying paying Rs 122 for Tinder Plus app? Also the app didn't get activated and I am not sure if I should make another transaction. Is this safe? What is happening?",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-08-16T15:35:37.737",
+    "ClosedDate":"2015-08-17T13:47:46.833",
+    "Title":"Google deduction of Rs 50 for downloading tinder plus app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122444",
+    "CreationDate":"2015-08-16T15:35:37.737",
+    "FavoriteCount":null,
+    "Id":"119428",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-16T15:35:37.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb2c53bb-6e1f-4845-8fb3-faa849e6a733",
+            "UserId":"122444",
+            "CloseReasonId":null,
+            "PostId":"119428",
+            "PostHistoryTypeId":"2",
+            "Id":"391168",
+            "Text":"I want to understand why did google play deduct Rs 50 when I tried paying paying Rs 122 for Tinder Plus app? Also the app didn't get activated and I am not sure if I should make another transaction. Is this safe? What is happening?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-16T15:35:37.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb2c53bb-6e1f-4845-8fb3-faa849e6a733",
+            "UserId":"122444",
+            "CloseReasonId":null,
+            "PostId":"119428",
+            "PostHistoryTypeId":"1",
+            "Id":"391169",
+            "Text":"Google deduction of Rs 50 for downloading tinder plus app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-16T15:35:37.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb2c53bb-6e1f-4845-8fb3-faa849e6a733",
+            "UserId":"122444",
+            "CloseReasonId":null,
+            "PostId":"119428",
+            "PostHistoryTypeId":"3",
+            "Id":"391170",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-17T13:47:46.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"c934906b-4d79-4217-b12d-173b1687a51a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"119428",
+            "PostHistoryTypeId":"10",
+            "Id":"391487",
+            "Text":"{\"OriginalQuestionIds\":[48948],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

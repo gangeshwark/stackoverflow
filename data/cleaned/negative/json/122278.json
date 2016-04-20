@@ -1,0 +1,71 @@
+{
+    "Body":"I've upgraded my S3 (I9300) with CWM regarding following instruction (http:\/\/www.ibtimes.co.uk\/galaxy-s3-i9300-gets-official-port-android-4-4-4-kitkat-update-1467538). Unfortunately, I encountered status 7 error message as per attachment. Please help me how to solve this issue.",
+    "ViewCount":"18",
+    "LastActivityDate":"2015-09-05T09:54:07.417",
+    "ClosedDate":"2015-09-10T15:54:14.500",
+    "Title":"upgrade 4.4 with CWM got status 7 error",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"126155",
+    "CreationDate":"2015-09-05T09:54:07.417",
+    "FavoriteCount":null,
+    "Id":"122278",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-05T09:54:07.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"928e2070-b5d1-41bd-99f8-5db7bf668141",
+            "UserId":"126155",
+            "CloseReasonId":null,
+            "PostId":"122278",
+            "PostHistoryTypeId":"2",
+            "Id":"398915",
+            "Text":"I've upgraded my S3 (I9300) with CWM regarding following instruction (http:\/\/www.ibtimes.co.uk\/galaxy-s3-i9300-gets-official-port-android-4-4-4-kitkat-update-1467538). Unfortunately, I encountered status 7 error message as per attachment. Please help me how to solve this issue.[![enter image description here][1]][1]  [1]: http:\/\/i.stack.imgur.com\/PYmac.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-05T09:54:07.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"928e2070-b5d1-41bd-99f8-5db7bf668141",
+            "UserId":"126155",
+            "CloseReasonId":null,
+            "PostId":"122278",
+            "PostHistoryTypeId":"1",
+            "Id":"398916",
+            "Text":"upgrade 4.4 with CWM got status 7 error"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-05T09:54:07.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"928e2070-b5d1-41bd-99f8-5db7bf668141",
+            "UserId":"126155",
+            "CloseReasonId":null,
+            "PostId":"122278",
+            "PostHistoryTypeId":"3",
+            "Id":"398917",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-10T15:54:14.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad60730f-e0aa-42ca-aa2c-040c5b73b56e",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"122278",
+            "PostHistoryTypeId":"10",
+            "Id":"400615",
+            "Text":"{\"OriginalQuestionIds\":[67720],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

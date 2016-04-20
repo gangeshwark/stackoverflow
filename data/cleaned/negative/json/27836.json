@@ -1,0 +1,71 @@
+{
+    "Body":"I have a HTC One V which runs the default HTC supplied android 4.0, I have not rooted it (and I shouldn't need to for this.I occasionally come across situations where I've got a dialup (or non GSM mobile internet) or other non wireless network and wireless would be really useful. Can I connect my phone to a computer on the internet through USB with USB passthrough - which is supported, then share that through hotspot mode?  ",
+    "ViewCount":"113",
+    "LastActivityDate":"2012-08-18T01:56:17.697",
+    "ClosedDate":"2012-12-27T16:07:05.093",
+    "Title":"Can i use the Hotspot feature with a USB network connection on my HTC One V?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18239",
+    "CreationDate":"2012-08-18T01:56:17.697",
+    "FavoriteCount":null,
+    "Id":"27836",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-18T01:56:17.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"725fadbb-7a9d-4200-9e85-c2c9821f5429",
+            "UserId":"18239",
+            "CloseReasonId":null,
+            "PostId":"27836",
+            "PostHistoryTypeId":"2",
+            "Id":"81079",
+            "Text":"I have a [HTC One V][1] which runs the default HTC supplied android 4.0, I have not rooted it (and I shouldn't need to for this. I occasionally come across situations where I've got a dialup (or non GSM mobile internet) or other non wireless network and wireless would be *really* useful. Can I connect my phone to a computer on the internet through USB with USB passthrough - [which is supported][2], then share that through [hotspot mode][3]?    [1]: http:\/\/www.htc.com\/uk\/smartphones\/htc-one-v\/  [2]: http:\/\/www.htc.com\/help\/in\/howto_iframe.aspx?id=167187&type=1&p_id=439  [3]: http:\/\/www.htc.com\/help\/in\/howto_iframe.aspx?id=167202&type=1&p_id=439"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-18T01:56:17.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"725fadbb-7a9d-4200-9e85-c2c9821f5429",
+            "UserId":"18239",
+            "CloseReasonId":null,
+            "PostId":"27836",
+            "PostHistoryTypeId":"1",
+            "Id":"81080",
+            "Text":"Can i use the Hotspot feature with a USB network connection on my HTC One V?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-18T01:56:17.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"725fadbb-7a9d-4200-9e85-c2c9821f5429",
+            "UserId":"18239",
+            "CloseReasonId":null,
+            "PostId":"27836",
+            "PostHistoryTypeId":"3",
+            "Id":"81081",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-27T16:07:05.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"f386935e-dd6e-43be-b278-220547cf07d6",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"27836",
+            "PostHistoryTypeId":"10",
+            "Id":"109252",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Is there any way\/app for Android that mimics the functionality of stereo mix in Windows? ",
+    "ViewCount":"1406",
+    "LastActivityDate":"2015-01-24T14:06:58.940",
+    "ClosedDate":"2015-01-27T07:26:51.697",
+    "Title":"Stereo mix functionality in Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"96770",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87253",
+    "CreationDate":"2015-01-23T23:14:09.723",
+    "FavoriteCount":null,
+    "Id":"96742",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T23:14:09.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8c343ff-cab3-4e9a-9dac-dd11bb8b2a6f",
+            "UserId":"87253",
+            "CloseReasonId":null,
+            "PostId":"96742",
+            "PostHistoryTypeId":"2",
+            "Id":"315265",
+            "Text":"Is there any way\/app for Android that mimics the functionality of stereo mix in Windows? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T23:14:09.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8c343ff-cab3-4e9a-9dac-dd11bb8b2a6f",
+            "UserId":"87253",
+            "CloseReasonId":null,
+            "PostId":"96742",
+            "PostHistoryTypeId":"1",
+            "Id":"315266",
+            "Text":"Stereo mix functionality in Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T23:14:09.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8c343ff-cab3-4e9a-9dac-dd11bb8b2a6f",
+            "UserId":"87253",
+            "CloseReasonId":null,
+            "PostId":"96742",
+            "PostHistoryTypeId":"3",
+            "Id":"315267",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-01-27T07:26:51.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"caa2e084-471b-43f2-886c-d9619526113c",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"96742",
+            "PostHistoryTypeId":"10",
+            "Id":"316303",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

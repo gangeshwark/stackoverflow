@@ -1,0 +1,83 @@
+{
+    "Body":"Hi dear android\/linux enthusiast, first question on stackoverflow, until now I've got a lot of help just reading stackexchange.* in passive mode, thanks for all that!I want to make a keycharmap\/keylayout for my bluetooth keyboard in my android phone. I want it to behave like a dvorack-us-international keyboard. So I made all the web-research needed but I'm still missing one thing. In my PC the apostrophe key behaves as an acute key, if I press it once and then press a vowel, it writes the vowel with the acute (my native language is Spanish so I've become dependent on this \"feature\"), so I want this behavior in android.In my PC:APOSTROPHE A = \u00e1APOSTROPHE O = \u00f3APOSTROPHE Shift+A = \u00c1APOSTROPHE APOSTROPHE = \u00b4 (lonely acute)APOSTROPHE SPACE = 'Shift+APOSTROPHE A = \u00e4Shift+APOSTROPHE Shift+A = \u00c4Shift+APOSTROPHE Shift+APOSTROPHE = \u00a8 (umlaut)Shift+APOSTROPHE SPACE = \"So I made a keycharmap that has this:key APOSTROPHE {    label:                              '\\''    base:                               '\\u0301'    shift:                              '\\u0308'}(As sepecified in https:\/\/source.android.com\/devices\/tech\/input\/key-character-map-files.html#behaviors)But what I've got was this behavior:APOSTROPHE APOSTROPHE = \u00b4 (lonely acute)APOSTROPHE SPACE = \u00b4 (lonely acute)Shift+APOSTROPHE Shift+APOSTROPHE = \u00a8 (umlaut)Shift+APOSTROPHE SPACE = \u00a8 (umlaut)As you can see I'm missing the quote and double quote and I'd really like to have them.So, I tried something different:key APOSTROPHE {    label:                              '\\''    base:                               '\\u030D'    shift:                              '\\u030E'}(Looking at android sources http:\/\/omapzoom.org\/?p=platform\/frameworks\/base.git;a=blob;f=core\/java\/android\/view\/KeyCharacterMap.java;h=55dd6bb64fe65ba29c5f71ed9257ed9dbe7a3790;hb=HEAD and at unicode \"combining character\" in wikipedia)But didn't got what I wanted either. I saw that the character '\\u030E' was comment-out on the source code ok, but I had to try. So the question is:How do I get the behavior I want in android? Can't be done without modifying android sources? do I have to use key modifiers (ALT or CTRL) and stick with that?(I'm using cyanogenmod 11-20140708 based on kitkat 4.4.4 on a LG nexus 4 (mako))thanks!",
+    "ViewCount":"303",
+    "LastActivityDate":"2014-09-09T04:51:05.843",
+    "ClosedDate":"2014-11-04T14:51:45.153",
+    "Title":"How to make a key act as acute and apostrophe? dead keys problem",
+    "LastEditorUserId":"67707",
+    "Tags":"",
+    "LastEditDate":"2014-09-09T03:24:44.290",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"82223",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67707",
+    "CreationDate":"2014-07-19T16:08:23.837",
+    "FavoriteCount":null,
+    "Id":"77623",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-19T16:08:23.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"84c96239-c3e5-4ae0-9046-43c482bbc022",
+            "UserId":"67707",
+            "CloseReasonId":null,
+            "PostId":"77623",
+            "PostHistoryTypeId":"2",
+            "Id":"255842",
+            "Text":"Hi dear android\/linux enthusiast, first question on stackoverflow, until now I've get a lot of help just reading stackoverflow* in passive mode, thanks for all that!I want to make a keycharmap\/keylayout for my bluetooth keyboard in my android phone. I want it to behave like a dvorack-us-international keyboard. So I made all the web-research needed but I'm still missing one thing. In my PC the apostrophe key behaves as an acute key, if I press it once and then press a vowel, it writes the vowel with the acute (my native language is spanish so I've become dependent on this \"feature\"), so I want this behavior in android.In my PC:    APOSTROPHE A = \u00e1    APOSTROPHE O = \u00f3    APOSTROPHE Shift+A = \u00c1    APOSTROPHE APOSTROPHE = \u00b4 (lonely acute)    APOSTROPHE SPACE = '    Shift+APOSTROPHE A = \u00e4    Shift+APOSTROPHE Shift+A = \u00c4    Shift+APOSTROPHE Shift+APOSTROPHE = \u00a8 (umlaut)    Shift+APOSTROPHE SPACE = \"So I made a keycharmap that has this:    key APOSTROPHE {        label:                              '\\''        base:                               '\\u0301'        shift:                              '\\u0308'    }(As sepecified in https:\/\/source.android.com\/devices\/tech\/input\/key-character-map-files.html#behaviors)But what I've got was this behavior:    APOSTROPHE APOSTROPHE = \u00b4 (lonely acute)    APOSTROPHE SPACE = \u00b4 (lonely acute)    Shift+APOSTROPHE Shift+APOSTROPHE = \u00a8 (umlaut)    Shift+APOSTROPHE SPACE = \u00a8 (umlaut)    So, I tried something diferent:    key APOSTROPHE {        label:                              '\\''        base:                               '\\u030D'        shift:                              '\\u030E'    }(Looking at android sources http:\/\/omapzoom.org\/?p=platform\/frameworks\/base.git;a=blob;f=core\/java\/android\/view\/KeyCharacterMap.java;h=55dd6bb64fe65ba29c5f71ed9257ed9dbe7a3790;hb=HEAD and at unicode \"combining character\" in wikipedia)But didn't got what I wanted either. I saw that the characther '\\u030E' was comment-out on the source code ok, but I had to try. So the question is:How do I get the behavior I want in android? Can't be done without modifying android sources? do I have to use key modifiers (ALT or CTRL) and stick with that?(I'm using cyanogenmod 11-20140708 based on kitkat 4.4.4 on a LG nexus 4 (mako))thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-19T16:08:23.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"84c96239-c3e5-4ae0-9046-43c482bbc022",
+            "UserId":"67707",
+            "CloseReasonId":null,
+            "PostId":"77623",
+            "PostHistoryTypeId":"1",
+            "Id":"255843",
+            "Text":"How to make a key act as acute and apostrophe? dead keys problem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-19T16:08:23.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"84c96239-c3e5-4ae0-9046-43c482bbc022",
+            "UserId":"67707",
+            "CloseReasonId":null,
+            "PostId":"77623",
+            "PostHistoryTypeId":"3",
+            "Id":"255844",
+            "Text":""
+        },
+        {
+            "Comment":"added 94 characters in body",
+            "CreationDate":"2014-09-09T03:24:44.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a1832c7-a37c-4d53-a0e1-2e645f0c1820",
+            "UserId":"67707",
+            "CloseReasonId":null,
+            "PostId":"77623",
+            "PostHistoryTypeId":"5",
+            "Id":"269310",
+            "Text":"Hi dear android\/linux enthusiast, first question on stackoverflow, until now I've got a lot of help just reading stackexchange.* in passive mode, thanks for all that!I want to make a keycharmap\/keylayout for my bluetooth keyboard in my android phone. I want it to behave like a dvorack-us-international keyboard. So I made all the web-research needed but I'm still missing one thing. In my PC the apostrophe key behaves as an acute key, if I press it once and then press a vowel, it writes the vowel with the acute (my native language is Spanish so I've become dependent on this \"feature\"), so I want this behavior in android.In my PC:    APOSTROPHE A = \u00e1    APOSTROPHE O = \u00f3    APOSTROPHE Shift+A = \u00c1    APOSTROPHE APOSTROPHE = \u00b4 (lonely acute)    APOSTROPHE SPACE = '    Shift+APOSTROPHE A = \u00e4    Shift+APOSTROPHE Shift+A = \u00c4    Shift+APOSTROPHE Shift+APOSTROPHE = \u00a8 (umlaut)    Shift+APOSTROPHE SPACE = \"So I made a keycharmap that has this:    key APOSTROPHE {        label:                              '\\''        base:                               '\\u0301'        shift:                              '\\u0308'    }(As sepecified in https:\/\/source.android.com\/devices\/tech\/input\/key-character-map-files.html#behaviors)But what I've got was this behavior:    APOSTROPHE APOSTROPHE = \u00b4 (lonely acute)    APOSTROPHE SPACE = \u00b4 (lonely acute)    Shift+APOSTROPHE Shift+APOSTROPHE = \u00a8 (umlaut)    Shift+APOSTROPHE SPACE = \u00a8 (umlaut)As you can see __I'm missing the quote and double quote__ and I'd really like to have them.    So, I tried something different:    key APOSTROPHE {        label:                              '\\''        base:                               '\\u030D'        shift:                              '\\u030E'    }(Looking at android sources http:\/\/omapzoom.org\/?p=platform\/frameworks\/base.git;a=blob;f=core\/java\/android\/view\/KeyCharacterMap.java;h=55dd6bb64fe65ba29c5f71ed9257ed9dbe7a3790;hb=HEAD and at unicode \"combining character\" in wikipedia)But didn't got what I wanted either. I saw that the character '\\u030E' was comment-out on the source code ok, but I had to try. So the question is:How do I get the behavior I want in android? Can't be done without modifying android sources? do I have to use key modifiers (ALT or CTRL) and stick with that?(I'm using cyanogenmod 11-20140708 based on kitkat 4.4.4 on a LG nexus 4 (mako))thanks!"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-11-04T14:51:45.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"eba6447b-e58a-4177-9a7e-278e4a6ecb29",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"77623",
+            "PostHistoryTypeId":"10",
+            "Id":"285224",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

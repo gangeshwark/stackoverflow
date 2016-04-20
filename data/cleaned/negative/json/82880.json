@@ -1,0 +1,83 @@
+{
+    "Body":"On my old phone, Samsung Galaxy sII, there was an option to invert colors. Now I have a Nexus 5, and I don't see that option. Is there a way to invert colors on it? (i.e. have the screen show a negative image, black becomes white and white becomes black.)",
+    "ViewCount":"16",
+    "LastActivityDate":"2014-09-19T12:53:36.070",
+    "ClosedDate":"2014-09-20T19:13:53.623",
+    "Title":"Inverting screen colors on Nexus 5",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16170",
+    "CreationDate":"2014-09-19T12:53:36.070",
+    "FavoriteCount":null,
+    "Id":"82880",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-19T12:53:36.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b485365-7aa1-42db-8b0e-15111d557c08",
+            "UserId":"16170",
+            "CloseReasonId":null,
+            "PostId":"82880",
+            "PostHistoryTypeId":"2",
+            "Id":"271688",
+            "Text":"On my old phone, Samsung Galaxy sII, there was an option to invert colors. Now I have a Nexus 5, and I don't see that option. Is there a way to invert colors on it? (i.e. have the screen show a negative image, black becomes white and white becomes black.)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-19T12:53:36.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b485365-7aa1-42db-8b0e-15111d557c08",
+            "UserId":"16170",
+            "CloseReasonId":null,
+            "PostId":"82880",
+            "PostHistoryTypeId":"1",
+            "Id":"271689",
+            "Text":"Inverting screen colors on Nexus 5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-19T12:53:36.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b485365-7aa1-42db-8b0e-15111d557c08",
+            "UserId":"16170",
+            "CloseReasonId":null,
+            "PostId":"82880",
+            "PostHistoryTypeId":"3",
+            "Id":"271690",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/513028361149755392",
+            "CreationDate":"2014-09-19T18:14:27.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"742c9f11-7a9d-45e9-b95f-6dc5e40dbe94",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"82880",
+            "PostHistoryTypeId":"25",
+            "Id":"271753",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-20T19:13:53.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"0aaaba0a-5864-4a4e-9a4a-f9a98a7380cd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"82880",
+            "PostHistoryTypeId":"10",
+            "Id":"272007",
+            "Text":"{\"OriginalQuestionIds\":[61338],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Ok my phone was reset now its asking for previous Google account and I don't rember it but I'm one of those people who need step by step instructions to do something I'm getting all confused please help me.",
+    "ViewCount":"17",
+    "LastActivityDate":"2016-02-14T14:15:55.813",
+    "ClosedDate":"2016-02-14T19:43:10.060",
+    "Title":"Bypass Google verificatiin",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"151318",
+    "CreationDate":"2016-02-14T14:15:55.813",
+    "FavoriteCount":null,
+    "Id":"137040",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-14T14:15:55.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4cf7dae-258b-40e9-b727-66cb5017d210",
+            "UserId":"151318",
+            "CloseReasonId":null,
+            "PostId":"137040",
+            "PostHistoryTypeId":"2",
+            "Id":"456892",
+            "Text":"Ok my phone was reset now its asking for previous Google account and I don't rember it but I'm one of those people who need step by step instructions to do something I'm getting all confused please help me."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-14T14:15:55.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4cf7dae-258b-40e9-b727-66cb5017d210",
+            "UserId":"151318",
+            "CloseReasonId":null,
+            "PostId":"137040",
+            "PostHistoryTypeId":"1",
+            "Id":"456893",
+            "Text":"Bypass Google verificatiin"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-14T14:15:55.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4cf7dae-258b-40e9-b727-66cb5017d210",
+            "UserId":"151318",
+            "CloseReasonId":null,
+            "PostId":"137040",
+            "PostHistoryTypeId":"3",
+            "Id":"456894",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-14T19:43:10.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ed26052-dcd5-4f61-8e08-15830a47349f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"137040",
+            "PostHistoryTypeId":"10",
+            "Id":"456960",
+            "Text":"{\"OriginalQuestionIds\":[127739],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

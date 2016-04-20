@@ -1,0 +1,71 @@
+{
+    "Body":"Is it somehow possible to prevent WhatsApp from accessing the whole Android address book? I'm not happy with uploading all my contacts to Facebook's servers.Every solution would be nice, whether it involves a custom ROM, another SIM or another app.",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-04-11T23:11:24.503",
+    "ClosedDate":"2015-04-11T23:18:05.600",
+    "Title":"Prevent WhatsApp from accessing whole address book",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102048",
+    "CreationDate":"2015-04-11T23:11:24.503",
+    "FavoriteCount":null,
+    "Id":"105201",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-11T23:11:24.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"46b9ef3b-e938-4651-9c6f-3eb4a2ad0600",
+            "UserId":"102048",
+            "CloseReasonId":null,
+            "PostId":"105201",
+            "PostHistoryTypeId":"2",
+            "Id":"343700",
+            "Text":"Is it somehow possible to prevent WhatsApp from accessing the whole Android address book? I'm not happy with uploading all my contacts to Facebook's servers.Every solution would be nice, whether it involves a custom ROM, another SIM or another app."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-11T23:11:24.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"46b9ef3b-e938-4651-9c6f-3eb4a2ad0600",
+            "UserId":"102048",
+            "CloseReasonId":null,
+            "PostId":"105201",
+            "PostHistoryTypeId":"1",
+            "Id":"343701",
+            "Text":"Prevent WhatsApp from accessing whole address book"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-11T23:11:24.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"46b9ef3b-e938-4651-9c6f-3eb4a2ad0600",
+            "UserId":"102048",
+            "CloseReasonId":null,
+            "PostId":"105201",
+            "PostHistoryTypeId":"3",
+            "Id":"343702",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-11T23:18:05.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e9bdf25-508c-46cb-8c0e-2ef20bc45bc3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"105201",
+            "PostHistoryTypeId":"10",
+            "Id":"343704",
+            "Text":"{\"OriginalQuestionIds\":[61318],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

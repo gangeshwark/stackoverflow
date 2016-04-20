@@ -1,0 +1,71 @@
+{
+    "Body":"Several apps come preloaded on the tablet and I want to trash them. What's the way out?",
+    "ViewCount":"782",
+    "LastActivityDate":"2015-06-25T08:36:51.667",
+    "ClosedDate":"2015-06-25T08:39:21.740",
+    "Title":"How to remove unwanted system applications in Andriod on Samsung Tab 4 T231?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"113359",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"114129",
+    "CreationDate":"2015-06-25T08:19:30.810",
+    "FavoriteCount":null,
+    "Id":"113358",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-25T08:19:30.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"17a886c0-0d0c-401d-81fd-3b4ece6bb1d2",
+            "UserId":"114129",
+            "CloseReasonId":null,
+            "PostId":"113358",
+            "PostHistoryTypeId":"2",
+            "Id":"371488",
+            "Text":"Several apps come preloaded on the tablet and I want to trash them. What's the way out?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-25T08:19:30.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"17a886c0-0d0c-401d-81fd-3b4ece6bb1d2",
+            "UserId":"114129",
+            "CloseReasonId":null,
+            "PostId":"113358",
+            "PostHistoryTypeId":"1",
+            "Id":"371489",
+            "Text":"How to remove unwanted system applications in Andriod on Samsung Tab 4 T231?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-25T08:19:30.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"17a886c0-0d0c-401d-81fd-3b4ece6bb1d2",
+            "UserId":"114129",
+            "CloseReasonId":null,
+            "PostId":"113358",
+            "PostHistoryTypeId":"3",
+            "Id":"371490",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-25T08:39:21.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecbf3b57-6bc4-4737-b5bc-d691d37ef6b6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"113358",
+            "PostHistoryTypeId":"10",
+            "Id":"371501",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

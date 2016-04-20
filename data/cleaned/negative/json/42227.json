@@ -1,0 +1,83 @@
+{
+    "Body":"I'm really new to using Android, and I was wondering if I could back it up, reset it to see if it fixes a problem, and then restore from my backup if it doesn't work.",
+    "ViewCount":"148",
+    "LastActivityDate":"2013-03-29T17:56:33.460",
+    "ClosedDate":"2013-04-20T18:52:14.793",
+    "Title":"How do I backup my Nexus 7 and then do a hard reset",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-03-29T17:56:33.460",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"30878",
+    "CreationDate":"2013-03-24T12:53:42.703",
+    "FavoriteCount":null,
+    "Id":"42227",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-24T12:53:42.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac7db936-fd88-4bd6-8527-9f42b909b810",
+            "UserId":"30878",
+            "CloseReasonId":null,
+            "PostId":"42227",
+            "PostHistoryTypeId":"2",
+            "Id":"132916",
+            "Text":"I'm really new to using Android, and I was wondering if I could back it up, reset it to see if it fixes a problem, and then restore from my backup if it doesn't work."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-24T12:53:42.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac7db936-fd88-4bd6-8527-9f42b909b810",
+            "UserId":"30878",
+            "CloseReasonId":null,
+            "PostId":"42227",
+            "PostHistoryTypeId":"1",
+            "Id":"132917",
+            "Text":"How do I backup my Nexus 7 and then do a hard reset"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-24T12:53:42.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac7db936-fd88-4bd6-8527-9f42b909b810",
+            "UserId":"30878",
+            "CloseReasonId":null,
+            "PostId":"42227",
+            "PostHistoryTypeId":"3",
+            "Id":"132918",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-03-29T17:56:33.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"661f10b5-486a-49ee-a445-2b3f8c0d6cbc",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"42227",
+            "PostHistoryTypeId":"6",
+            "Id":"134775",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-20T18:52:14.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"110d4c88-19e9-4d2f-9cd3-260d18606b8d",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"42227",
+            "PostHistoryTypeId":"10",
+            "Id":"141183",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

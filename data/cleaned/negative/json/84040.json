@@ -1,0 +1,71 @@
+{
+    "Body":"I have posted a similar question before. But the issue remains still. So it happens after I upload my system for galaxy S3 two week ago. And after that  whenever I connect to my laptop , it wouldn't pop up the option to let me select MTP as before. And  this is what  displayed in control panel-> Hardware and Sound ->Devices and Printers http:\/\/i57.tinypic.com\/slpft1.png Does anyone know a possible solution to this?",
+    "ViewCount":"11",
+    "LastActivityDate":"2014-10-03T22:55:41.377",
+    "ClosedDate":"2014-10-05T00:57:30.500",
+    "Title":"galaxy s3 usb connection issue",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64621",
+    "CreationDate":"2014-10-03T22:55:41.377",
+    "FavoriteCount":null,
+    "Id":"84040",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-03T22:55:41.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"51083a72-50d9-4e65-b918-1829fd9bb3c8",
+            "UserId":"64621",
+            "CloseReasonId":null,
+            "PostId":"84040",
+            "PostHistoryTypeId":"2",
+            "Id":"275727",
+            "Text":"I have posted a similar question before. But the issue remains still. So it happens after I upload my system for galaxy S3 two week ago. And after that  whenever I connect to my laptop , it wouldn't pop up the option to let me select MTP as before. And  this is what  displayed in control panel-> Hardware and Sound ->Devices and Printers http:\/\/i57.tinypic.com\/slpft1.png Does anyone know a possible solution to this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-03T22:55:41.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"51083a72-50d9-4e65-b918-1829fd9bb3c8",
+            "UserId":"64621",
+            "CloseReasonId":null,
+            "PostId":"84040",
+            "PostHistoryTypeId":"1",
+            "Id":"275728",
+            "Text":"galaxy s3 usb connection issue"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-03T22:55:41.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"51083a72-50d9-4e65-b918-1829fd9bb3c8",
+            "UserId":"64621",
+            "CloseReasonId":null,
+            "PostId":"84040",
+            "PostHistoryTypeId":"3",
+            "Id":"275729",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-05T00:57:30.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"5980e95d-df9c-477f-b637-aa09bbee9e79",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84040",
+            "PostHistoryTypeId":"10",
+            "Id":"275991",
+            "Text":"{\"OriginalQuestionIds\":[83292],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"FAT32 drives can be larger than 32GB.  If I format a 64GB SDXC card as FAT32, will all 64GB be recognized by SDHC devices that proclaim a 32GB limitation?  Is the 32GB limitation \"hard coded\" or is it arbitrary?  Does the real limit vary from device to device?",
+    "ViewCount":"55",
+    "LastActivityDate":"2015-07-15T20:07:59.350",
+    "ClosedDate":"2015-07-15T20:10:13.160",
+    "Title":"Is 32GB a hard limit for SDHC, even if the FAT32 format card is >32GB?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117015",
+    "CreationDate":"2015-07-15T20:07:59.350",
+    "FavoriteCount":null,
+    "Id":"115429",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-15T20:07:59.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"3216982a-c833-4512-a924-27591eae03ea",
+            "UserId":"117015",
+            "CloseReasonId":null,
+            "PostId":"115429",
+            "PostHistoryTypeId":"2",
+            "Id":"378984",
+            "Text":"FAT32 drives can be larger than 32GB.  If I format a 64GB SDXC card as FAT32, will all 64GB be recognized by SDHC devices that proclaim a 32GB limitation?  Is the 32GB limitation \"hard coded\" or is it arbitrary?  Does the real limit vary from device to device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-15T20:07:59.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"3216982a-c833-4512-a924-27591eae03ea",
+            "UserId":"117015",
+            "CloseReasonId":null,
+            "PostId":"115429",
+            "PostHistoryTypeId":"1",
+            "Id":"378985",
+            "Text":"Is 32GB a hard limit for SDHC, even if the FAT32 format card is >32GB?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-15T20:07:59.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"3216982a-c833-4512-a924-27591eae03ea",
+            "UserId":"117015",
+            "CloseReasonId":null,
+            "PostId":"115429",
+            "PostHistoryTypeId":"3",
+            "Id":"378986",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-15T20:10:13.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"151e3639-662f-44cf-89ad-875d7a1830d9",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115429",
+            "PostHistoryTypeId":"10",
+            "Id":"378996",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

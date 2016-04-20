@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Zigo EON 5i. It runs ICS 4.0.4, has 512 MB RAM, a 1 GHz proccesor \u2013 ARM v7, Powervr and 128 MB internal memory.Can I flash and add a custom rom? And if so, which one? I need Jelly Bean.",
+    "ViewCount":"781",
+    "LastActivityDate":"2013-07-20T17:57:50.840",
+    "ClosedDate":"2014-12-15T03:27:59.640",
+    "Title":"Can i upgrade to jelly Bean?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-05-25T13:28:05.847",
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34628",
+    "CreationDate":"2013-05-25T05:02:33.280",
+    "FavoriteCount":null,
+    "Id":"46061",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-25T05:02:33.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cc8830b-af41-45e8-b422-10c2934f2d8f",
+            "UserId":"34628",
+            "CloseReasonId":null,
+            "PostId":"46061",
+            "PostHistoryTypeId":"2",
+            "Id":"148744",
+            "Text":"I have zigo eon 5i. ICS 4.0.4, 512MB ram, 1GHz proccesor \u2013 ARM v7, Powervr and internal memory 128MB. So can I flash and add a custom rom? and if can which one? i need jelly bean. Please reply me. please\u2026"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-25T05:02:33.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cc8830b-af41-45e8-b422-10c2934f2d8f",
+            "UserId":"34628",
+            "CloseReasonId":null,
+            "PostId":"46061",
+            "PostHistoryTypeId":"1",
+            "Id":"148745",
+            "Text":"Can i upgrade to jelly Bean?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-25T05:02:33.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cc8830b-af41-45e8-b422-10c2934f2d8f",
+            "UserId":"34628",
+            "CloseReasonId":null,
+            "PostId":"46061",
+            "PostHistoryTypeId":"3",
+            "Id":"148746",
+            "Text":""
+        },
+        {
+            "Comment":"fixed spelling and improved formatting, added link",
+            "CreationDate":"2013-05-25T13:28:05.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"02712fcb-e7c8-41f2-b183-e041cfa4a6b6",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"46061",
+            "PostHistoryTypeId":"5",
+            "Id":"148835",
+            "Text":"I have a [Zigo EON 5i](http:\/\/www.zigomobiles.com\/products\/eon5i.html). It runs ICS 4.0.4, has 512 MB RAM, a 1 GHz proccesor \u2013 ARM v7, Powervr and 128 MB internal memory.Can I flash and add a custom rom? And if so, which one? I need Jelly Bean."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-15T03:27:59.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"02e4b18a-4409-4369-8247-e64d799ba39f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"46061",
+            "PostHistoryTypeId":"10",
+            "Id":"300313",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"How can I change the color scheme for messaging on my my Galaxy S4 with it's newly downloaded  Lollipop 5.0.1 software?",
+    "ViewCount":"16",
+    "LastActivityDate":"2015-04-30T16:53:23.740",
+    "ClosedDate":"2015-04-30T19:18:52.797",
+    "Title":"Lollipop 5.0.1 color scheme",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104871",
+    "CreationDate":"2015-04-30T16:53:23.740",
+    "FavoriteCount":null,
+    "Id":"107122",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-30T16:53:23.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"c072f84f-e51f-468c-bc41-ab7fef9257e8",
+            "UserId":"104871",
+            "CloseReasonId":null,
+            "PostId":"107122",
+            "PostHistoryTypeId":"2",
+            "Id":"350883",
+            "Text":"How can I change the color scheme for messaging on my my Galaxy S4 with it's newly downloaded  Lollipop 5.0.1 software?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-30T16:53:23.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"c072f84f-e51f-468c-bc41-ab7fef9257e8",
+            "UserId":"104871",
+            "CloseReasonId":null,
+            "PostId":"107122",
+            "PostHistoryTypeId":"1",
+            "Id":"350884",
+            "Text":"Lollipop 5.0.1 color scheme"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-30T16:53:23.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"c072f84f-e51f-468c-bc41-ab7fef9257e8",
+            "UserId":"104871",
+            "CloseReasonId":null,
+            "PostId":"107122",
+            "PostHistoryTypeId":"3",
+            "Id":"350885",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-30T19:18:52.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd51a443-7929-4308-96c9-b427df7e7b4e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"107122",
+            "PostHistoryTypeId":"10",
+            "Id":"350937",
+            "Text":"{\"OriginalQuestionIds\":[105006],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"My MID came with an HDMI port and cable. I have not seen this on any other device. What are some uses for this?",
+    "ViewCount":"154",
+    "LastActivityDate":"2012-03-17T00:29:39.253",
+    "ClosedDate":"2012-03-17T00:45:42.093",
+    "Title":"What are some uses for the HDMI port?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"20698",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11219",
+    "CreationDate":"2012-03-17T00:25:28.330",
+    "FavoriteCount":null,
+    "Id":"20697",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-17T00:25:28.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"0cf981cc-85bb-4d47-9630-6a7956400771",
+            "UserId":"11219",
+            "CloseReasonId":null,
+            "PostId":"20697",
+            "PostHistoryTypeId":"2",
+            "Id":"57738",
+            "Text":"My MID came with an HDMI port and cable. I have not seen this on any other device. What are some uses for this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-17T00:25:28.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"0cf981cc-85bb-4d47-9630-6a7956400771",
+            "UserId":"11219",
+            "CloseReasonId":null,
+            "PostId":"20697",
+            "PostHistoryTypeId":"1",
+            "Id":"57739",
+            "Text":"What are some uses for the HDMI port?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-17T00:25:28.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"0cf981cc-85bb-4d47-9630-6a7956400771",
+            "UserId":"11219",
+            "CloseReasonId":null,
+            "PostId":"20697",
+            "PostHistoryTypeId":"3",
+            "Id":"57740",
+            "Text":""
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-03-17T00:45:42.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"e25d2428-73ad-45ed-9c00-00c1301df0f0",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20697",
+            "PostHistoryTypeId":"10",
+            "Id":"57742",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

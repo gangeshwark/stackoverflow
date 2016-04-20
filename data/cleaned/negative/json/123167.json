@@ -1,0 +1,83 @@
+{
+    "Body":"The command is used to flash a recovery. Do you have to use odin like tools to flash it or you can just use adb?Thank you",
+    "ViewCount":"1038",
+    "LastActivityDate":"2015-09-16T04:03:17.630",
+    "ClosedDate":"2015-09-24T02:09:25.963",
+    "Title":"Does \"fastboot flash recovery \" command work with any android device?",
+    "LastEditorUserId":"127398",
+    "Tags":"",
+    "LastEditDate":"2015-09-15T15:52:58.910",
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"123213",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"127398",
+    "CreationDate":"2015-09-15T15:44:10.030",
+    "FavoriteCount":null,
+    "Id":"123167",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-15T15:44:10.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"37d137a7-2194-4e63-9e59-6d4762b635d9",
+            "UserId":"127398",
+            "CloseReasonId":null,
+            "PostId":"123167",
+            "PostHistoryTypeId":"2",
+            "Id":"402185",
+            "Text":"The command is used to flash a recovery. Do you have to use odin like tools to flash it or you can just use adb?Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-15T15:44:10.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"37d137a7-2194-4e63-9e59-6d4762b635d9",
+            "UserId":"127398",
+            "CloseReasonId":null,
+            "PostId":"123167",
+            "PostHistoryTypeId":"1",
+            "Id":"402186",
+            "Text":"Does \"fastboot flash recovery \" command work with any android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-15T15:44:10.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"37d137a7-2194-4e63-9e59-6d4762b635d9",
+            "UserId":"127398",
+            "CloseReasonId":null,
+            "PostId":"123167",
+            "PostHistoryTypeId":"3",
+            "Id":"402187",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-09-15T15:52:58.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"7c187d48-ebe1-4737-8dbf-61460065a152",
+            "UserId":"127398",
+            "CloseReasonId":null,
+            "PostId":"123167",
+            "PostHistoryTypeId":"6",
+            "Id":"402199",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-24T02:09:25.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"e49808be-90bd-4a12-b510-62862239fa37",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"123167",
+            "PostHistoryTypeId":"10",
+            "Id":"405448",
+            "Text":"{\"OriginalQuestionIds\":[123098],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

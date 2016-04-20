@@ -1,0 +1,71 @@
+{
+    "Body":"I recently bought Samsung XCover 3 and I like HW part of the phone, but TouchWiz is hell. Is there any way I can get rid of it completely?I installed different launcher, which helped a lot, but many features works differently from clean Android - settings, many annoying pop-ups, speed issues ... ",
+    "ViewCount":"32",
+    "LastActivityDate":"2015-09-14T00:58:55.753",
+    "ClosedDate":"2015-09-24T00:51:44.743",
+    "Title":"Get rid of TouchWiz",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"127235",
+    "CreationDate":"2015-09-13T20:31:04.607",
+    "FavoriteCount":null,
+    "Id":"123014",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T20:31:04.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb2dbfac-9288-4046-ae76-e0a7de744362",
+            "UserId":"127235",
+            "CloseReasonId":null,
+            "PostId":"123014",
+            "PostHistoryTypeId":"2",
+            "Id":"401636",
+            "Text":"I recently bought Samsung XCover 3 and I like HW part of the phone, but TouchWiz is hell. Is there any way I can get rid of it completely?I installed different launcher, which helped a lot, but many features works differently from clean Android - settings, many annoying pop-ups, speed issues ... "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T20:31:04.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb2dbfac-9288-4046-ae76-e0a7de744362",
+            "UserId":"127235",
+            "CloseReasonId":null,
+            "PostId":"123014",
+            "PostHistoryTypeId":"1",
+            "Id":"401637",
+            "Text":"Get rid of TouchWiz"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T20:31:04.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb2dbfac-9288-4046-ae76-e0a7de744362",
+            "UserId":"127235",
+            "CloseReasonId":null,
+            "PostId":"123014",
+            "PostHistoryTypeId":"3",
+            "Id":"401638",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-24T00:51:44.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c3d6f5a-d2ad-4229-9cea-0f1dde3cb004",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"123014",
+            "PostHistoryTypeId":"10",
+            "Id":"405435",
+            "Text":"{\"OriginalQuestionIds\":[15984],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

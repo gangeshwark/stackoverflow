@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Package Install via Market sometimes fails and gives seemingly random error message  Every time i try to download a app from the android market place to my HTC desire it will download the app but wont install it, I've tried clearing the cache and data from the Market place and Download Manager. Nothing seems to be working does anyone know how to fix this problem?",
+    "ViewCount":"356",
+    "LastActivityDate":"2012-09-06T19:50:00.550",
+    "ClosedDate":"2012-12-17T09:33:59.777",
+    "Title":"Package file is invalid",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18942",
+    "CreationDate":"2012-09-06T19:50:00.550",
+    "FavoriteCount":null,
+    "Id":"28887",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T19:50:00.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"1509d48b-f9d3-4c8c-97c4-f94aeb0293d0",
+            "UserId":"18942",
+            "CloseReasonId":null,
+            "PostId":"28887",
+            "PostHistoryTypeId":"2",
+            "Id":"84642",
+            "Text":"Every time i try to download a app from the android market place to my HTC desire it will download the app but wont install it, I've tried clearing the cache and data from the Market place and Download Manager. Nothing seems to be working does anyone know how to fix this problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T19:50:00.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"1509d48b-f9d3-4c8c-97c4-f94aeb0293d0",
+            "UserId":"18942",
+            "CloseReasonId":null,
+            "PostId":"28887",
+            "PostHistoryTypeId":"1",
+            "Id":"84643",
+            "Text":"Package file is invalid"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T19:50:00.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"1509d48b-f9d3-4c8c-97c4-f94aeb0293d0",
+            "UserId":"18942",
+            "CloseReasonId":null,
+            "PostId":"28887",
+            "PostHistoryTypeId":"3",
+            "Id":"84644",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-12-17T09:33:59.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"136e9bb9-82d2-4f64-9246-69cb7c671ad3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28887",
+            "PostHistoryTypeId":"5",
+            "Id":"106838",
+            "Text":"> **Possible Duplicate:**  > [Package Install via Market sometimes fails and gives seemingly random error message](http:\/\/android.stackexchange.com\/questions\/15932\/package-install-via-market-sometimes-fails-and-gives-seemingly-random-error-mess)  Every time i try to download a app from the android market place to my HTC desire it will download the app but wont install it, I've tried clearing the cache and data from the Market place and Download Manager. Nothing seems to be working does anyone know how to fix this problem?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-12-17T09:33:59.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d98ee5e-a4c8-4444-93b3-5c6f74276c61",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"28887",
+            "PostHistoryTypeId":"10",
+            "Id":"106839",
+            "Text":"{\"OriginalQuestionIds\":[15932],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

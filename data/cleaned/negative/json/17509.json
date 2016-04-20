@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Milestone 2 with stock ROM, which I recently upgraded to official Gingerbread. Everything works nicely except for a glitch with the camera... Basically it goes like this:  I turn on the camera (I can hear some clicks as with the previous version)I point the camera at something, then press the physical shutter button or the on-screen one, or simply wait a bitThe screen shuts down as if I had pressed the power off button (I mean that the screen just turns off, not that the whole phone turns off)This happens quite randomly, but I think it never happens if I'm holding the phone in landscape mode... When it happens, it is always in portrait mode.I tried switching to another camera app but the problem is still there... Any idea?",
+    "ViewCount":"170",
+    "LastActivityDate":"2011-12-28T09:02:25.117",
+    "ClosedDate":"2012-12-28T14:41:55.160",
+    "Title":"Milestone 2, camera turns off screen after upgrade",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8129",
+    "CreationDate":"2011-12-28T09:02:25.117",
+    "FavoriteCount":null,
+    "Id":"17509",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-28T09:02:25.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"677c7870-07c7-4ca4-8e3d-72a7cacdc352",
+            "UserId":"8129",
+            "CloseReasonId":null,
+            "PostId":"17509",
+            "PostHistoryTypeId":"2",
+            "Id":"47897",
+            "Text":"I have a Milestone 2 with stock ROM, which I recently upgraded to official Gingerbread. Everything works nicely except for a glitch with the camera... Basically it goes like this:  - I turn on the camera (I can hear some clicks as with the previous version)- I point the camera at something, then press the physical shutter button or the on-screen one, or *simply wait a bit*- The screen shuts down as if I had pressed the power off button (I mean that the screen just turns off, not that the whole phone turns off)This happens quite randomly, but I *think* it never happens if I'm holding the phone in landscape mode... When it happens, it is always in portrait mode.I tried switching to another camera app but the problem is still there... Any idea?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-28T09:02:25.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"677c7870-07c7-4ca4-8e3d-72a7cacdc352",
+            "UserId":"8129",
+            "CloseReasonId":null,
+            "PostId":"17509",
+            "PostHistoryTypeId":"1",
+            "Id":"47898",
+            "Text":"Milestone 2, camera turns off screen after upgrade"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-28T09:02:25.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"677c7870-07c7-4ca4-8e3d-72a7cacdc352",
+            "UserId":"8129",
+            "CloseReasonId":null,
+            "PostId":"17509",
+            "PostHistoryTypeId":"3",
+            "Id":"47899",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/151987368122003457",
+            "CreationDate":"2011-12-28T11:26:27.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3637f5e-8ab3-4634-b970-db95287da98d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"17509",
+            "PostHistoryTypeId":"25",
+            "Id":"47901",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-28T14:41:55.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c3af76f-cb4f-4c64-9da6-967fd040ba02",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"17509",
+            "PostHistoryTypeId":"10",
+            "Id":"109561",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

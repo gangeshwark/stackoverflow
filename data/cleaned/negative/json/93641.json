@@ -1,0 +1,83 @@
+{
+    "Body":"I have some apps on my HTC One (M8) that want to have access to my camera and microphone (Yahoo Mail app).  I have seen on an iOS device that you can disable this access but still run the app.  Is there something similar in the Android world?",
+    "ViewCount":"1811",
+    "LastActivityDate":"2015-01-02T19:17:01.260",
+    "ClosedDate":"2015-01-02T19:10:59.597",
+    "Title":"How can I prevent an APP from using my phone's camera",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-01-02T19:17:01.260",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87511",
+    "CreationDate":"2015-01-02T18:37:08.967",
+    "FavoriteCount":null,
+    "Id":"93641",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-02T18:37:08.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"019026c9-3608-4b10-8e23-56e2843e6b60",
+            "UserId":"87511",
+            "CloseReasonId":null,
+            "PostId":"93641",
+            "PostHistoryTypeId":"2",
+            "Id":"307010",
+            "Text":"I have some apps on my HTC One (M8) that want to have access to my camera and microphone (Yahoo Mail app).  I have seen on an iOS device that you can disable this access but still run the app.  Is there something similar in the Android world?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-02T18:37:08.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"019026c9-3608-4b10-8e23-56e2843e6b60",
+            "UserId":"87511",
+            "CloseReasonId":null,
+            "PostId":"93641",
+            "PostHistoryTypeId":"1",
+            "Id":"307011",
+            "Text":"How can I prevent an APP from using my phone's camera"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-02T18:37:08.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"019026c9-3608-4b10-8e23-56e2843e6b60",
+            "UserId":"87511",
+            "CloseReasonId":null,
+            "PostId":"93641",
+            "PostHistoryTypeId":"3",
+            "Id":"307012",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-02T19:10:59.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"84ef0383-96cd-4655-b40e-cda533972f81",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"93641",
+            "PostHistoryTypeId":"10",
+            "Id":"307026",
+            "Text":"{\"OriginalQuestionIds\":[3091],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-01-02T19:17:01.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"1881e9b7-6ba4-42f1-9a22-df84a4931914",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"93641",
+            "PostHistoryTypeId":"6",
+            "Id":"307028",
+            "Text":""
+        }
+    ]
+}

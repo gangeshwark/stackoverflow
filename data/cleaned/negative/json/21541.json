@@ -1,0 +1,83 @@
+{
+    "Body":"Phone is Motorola Milestone (EU version of Droid), android version is 2.2.1.About a month ago I switched my email server from classic Postfix+Dovecot to Kerio Mail server. I accessed my email account via IMAP and I didn't change any email settings on my phone. After the switch, all emails that were read on server (either via email client like Outlook or via webmail) were showing up as unread in stock email client on the phone. It was annoying but I didn't give it much significance. After more than a month, stock email client started crashing after checking mail from server. My theory is that mail identifiers of new server caught up with identifiers from the old server, and it's making stock email client crazy ...Deleting data from email app and recreating the account didn't help, crashing persists...",
+    "ViewCount":"1850",
+    "LastActivityDate":"2013-06-17T19:31:07.977",
+    "ClosedDate":"2013-06-18T14:39:30.050",
+    "Title":"Stock email client crashing",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14094",
+    "CreationDate":"2012-04-08T06:50:44.813",
+    "FavoriteCount":null,
+    "Id":"21541",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-08T06:50:44.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb135476-28c5-41c1-9a23-aed8c16d78fc",
+            "UserId":"14094",
+            "CloseReasonId":null,
+            "PostId":"21541",
+            "PostHistoryTypeId":"2",
+            "Id":"60340",
+            "Text":"Phone is Motorola Milestone (EU version of Droid), android version is 2.2.1.About a month ago I switched my email server from classic Postfix+Dovecot to Kerio Mail server. I accessed my email account via IMAP and I didn't change any email settings on my phone. After the switch, all emails that were read on server (either via email client like Outlook or via webmail) were showing up as unread in stock email client on the phone. It was annoying but I didn't give it much significance. After more than a month, stock email client started crashing after checking mail from server. My theory is that mail identifiers of new server caught up with identifiers from the old server, and it's making stock email client crazy ...Deleting data from email app and recreating the account didn't help, crashing persists..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-08T06:50:44.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb135476-28c5-41c1-9a23-aed8c16d78fc",
+            "UserId":"14094",
+            "CloseReasonId":null,
+            "PostId":"21541",
+            "PostHistoryTypeId":"1",
+            "Id":"60341",
+            "Text":"Stock email client crashing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-08T06:50:44.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb135476-28c5-41c1-9a23-aed8c16d78fc",
+            "UserId":"14094",
+            "CloseReasonId":null,
+            "PostId":"21541",
+            "PostHistoryTypeId":"3",
+            "Id":"60342",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/236476353803874304",
+            "CreationDate":"2012-08-17T14:55:30.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"1bc249ab-972d-4209-9229-388717c52a79",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"21541",
+            "PostHistoryTypeId":"25",
+            "Id":"80972",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-06-18T14:39:30.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"9274df54-af1b-43d4-8bf2-5280f8ed0a37",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21541",
+            "PostHistoryTypeId":"10",
+            "Id":"153944",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"my android phone got stolen a few hours ago. the thief has already removed both the internet sims. as such, i had not installed AndroidLost or Mobile Tracker apps in the phone as it is a relatively new one. i have tried to remotely install it, but it may take time . please help out with the procedure and suggest methods to get it back. ",
+    "ViewCount":"40980",
+    "LastActivityDate":"2013-10-11T07:14:48.513",
+    "ClosedDate":"2013-10-11T12:08:04.140",
+    "Title":"my phone is stolen and sim cards removed. how to track it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"43089",
+    "CreationDate":"2013-10-11T04:24:27.257",
+    "FavoriteCount":null,
+    "Id":"54883",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-11T04:24:27.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ee67bc8-a1bc-4f13-be81-82853fcc01a4",
+            "UserId":"43089",
+            "CloseReasonId":null,
+            "PostId":"54883",
+            "PostHistoryTypeId":"2",
+            "Id":"182235",
+            "Text":"my android phone got stolen a few hours ago. the thief has already removed both the internet sims. as such, i had not installed AndroidLost or Mobile Tracker apps in the phone as it is a relatively new one. i have tried to remotely install it, but it may take time . please help out with the procedure and suggest methods to get it back. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-11T04:24:27.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ee67bc8-a1bc-4f13-be81-82853fcc01a4",
+            "UserId":"43089",
+            "CloseReasonId":null,
+            "PostId":"54883",
+            "PostHistoryTypeId":"1",
+            "Id":"182236",
+            "Text":"my phone is stolen and sim cards removed. how to track it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-11T04:24:27.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ee67bc8-a1bc-4f13-be81-82853fcc01a4",
+            "UserId":"43089",
+            "CloseReasonId":null,
+            "PostId":"54883",
+            "PostHistoryTypeId":"3",
+            "Id":"182237",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-11T12:08:04.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac66259b-ac66-4440-a58c-8663746b06cc",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"54883",
+            "PostHistoryTypeId":"10",
+            "Id":"182296",
+            "Text":"{\"OriginalQuestionIds\":[18644],\"Voters\":[{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Rooting is like jailbraking for iPhones, right... Does factory-resetting let the user know if it was\/is ever rooted by someone?",
+    "ViewCount":"16",
+    "LastActivityDate":"2015-04-13T13:30:05.767",
+    "ClosedDate":"2015-04-13T13:55:11.620",
+    "Title":"How to know if your phone has been rooted?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102222",
+    "CreationDate":"2015-04-13T13:30:05.767",
+    "FavoriteCount":null,
+    "Id":"105320",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T13:30:05.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d38e82a-064e-4087-8fc4-8985088535ba",
+            "UserId":"102222",
+            "CloseReasonId":null,
+            "PostId":"105320",
+            "PostHistoryTypeId":"2",
+            "Id":"344135",
+            "Text":"Rooting is like jailbraking for iPhones, right... Does factory-resetting let the user know if it was\/is ever rooted by someone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T13:30:05.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d38e82a-064e-4087-8fc4-8985088535ba",
+            "UserId":"102222",
+            "CloseReasonId":null,
+            "PostId":"105320",
+            "PostHistoryTypeId":"1",
+            "Id":"344136",
+            "Text":"How to know if your phone has been rooted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T13:30:05.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d38e82a-064e-4087-8fc4-8985088535ba",
+            "UserId":"102222",
+            "CloseReasonId":null,
+            "PostId":"105320",
+            "PostHistoryTypeId":"3",
+            "Id":"344137",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-13T13:55:11.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ea6836f-c4ed-4ad9-970e-967461995ace",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105320",
+            "PostHistoryTypeId":"10",
+            "Id":"344154",
+            "Text":"{\"OriginalQuestionIds\":[13335],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Hello could someone advice me a software to log all incoming and outgoing calls and text messages might be ever more options i have tried SMS Tracker application but its really easy to detect , i mean there always is a status bar witch tells that \"SMS tracker is activated \" i need a program that will be hidden and my kids wont know that i am spying on them , could someone advice my some kind of software , basically i need just call and text messages but would be good if there is even more options to track ",
+    "ViewCount":"31",
+    "LastActivityDate":"2016-02-26T19:16:32.777",
+    "ClosedDate":"2016-02-26T19:42:38.537",
+    "Title":"TEXT Message , Call, logger",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153448",
+    "CreationDate":"2016-02-26T19:16:32.777",
+    "FavoriteCount":null,
+    "Id":"138197",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T19:16:32.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"a699bf83-63dd-4847-9052-c25c47ed2ce6",
+            "UserId":"153448",
+            "CloseReasonId":null,
+            "PostId":"138197",
+            "PostHistoryTypeId":"2",
+            "Id":"461316",
+            "Text":"Hello could someone advice me a software to log all incoming and outgoing calls and text messages might be ever more options i have tried SMS Tracker application but its really easy to detect , i mean there always is a status bar witch tells that \"SMS tracker is activated \" i need a program that will be hidden and my kids wont know that i am spying on them , could someone advice my some kind of software , basically i need just call and text messages but would be good if there is even more options to track "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T19:16:32.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"a699bf83-63dd-4847-9052-c25c47ed2ce6",
+            "UserId":"153448",
+            "CloseReasonId":null,
+            "PostId":"138197",
+            "PostHistoryTypeId":"1",
+            "Id":"461317",
+            "Text":"TEXT Message , Call, logger"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T19:16:32.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"a699bf83-63dd-4847-9052-c25c47ed2ce6",
+            "UserId":"153448",
+            "CloseReasonId":null,
+            "PostId":"138197",
+            "PostHistoryTypeId":"3",
+            "Id":"461318",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-26T19:42:38.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"04c6597c-2be3-480e-be19-c61aada36e66",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138197",
+            "PostHistoryTypeId":"10",
+            "Id":"461337",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I read here that Microsoft is cashing Android handset ODMs for some patents that are allegedly used in their Android handsets. Why is Microsoft able to do that? Is this a HW or SW-based problem?",
+    "ViewCount":"33",
+    "LastActivityDate":"2015-11-02T06:45:04.060",
+    "ClosedDate":"2015-11-02T17:19:47.450",
+    "Title":"Is Microsoft charging for its patent from each Android device sold?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"30555",
+    "CreationDate":"2014-08-11T17:57:41.987",
+    "FavoriteCount":null,
+    "Id":"79290",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-11T17:57:41.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"176bda01-3134-47be-95df-ae5e5dd90cbe",
+            "UserId":"30555",
+            "CloseReasonId":null,
+            "PostId":"79290",
+            "PostHistoryTypeId":"2",
+            "Id":"261707",
+            "Text":"I [read here][1] that Microsoft is cashing Android handset ODMs for some patents that are allegedly used in their Android handsets. Why is Microsoft able to do that? Is this a HW or SW-based problem?  [1]: http:\/\/androidandme.com\/2011\/10\/news\/microsoft-now-cashing-in-on-half-of-all-android-odms\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-11T17:57:41.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"176bda01-3134-47be-95df-ae5e5dd90cbe",
+            "UserId":"30555",
+            "CloseReasonId":null,
+            "PostId":"79290",
+            "PostHistoryTypeId":"1",
+            "Id":"261708",
+            "Text":"Is Microsoft charging for its patent from each Android device sold?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-11T17:57:41.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"176bda01-3134-47be-95df-ae5e5dd90cbe",
+            "UserId":"30555",
+            "CloseReasonId":null,
+            "PostId":"79290",
+            "PostHistoryTypeId":"3",
+            "Id":"261709",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-11-02T17:19:47.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4160625-7cea-46de-a72a-4d11f8f93e9c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"79290",
+            "PostHistoryTypeId":"10",
+            "Id":"419887",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

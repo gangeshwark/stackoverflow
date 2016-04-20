@@ -1,0 +1,83 @@
+{
+    "Body":"I didn't realize that I had the 'automatically delete old messages' feature turned off and I have a lot of texts on my phone.I clicked 'delete threads' and 'select all' and the app crashed.I went back and tried 'delete threads' and just clicking one conversation, but the app crashed again.The only way it's seeming to be possible to delete my messages and speed up my phone is one by one, and I truly do not have the time or the patience to sit here and delete over 1000 text messages one by one.Does anyone have another solution to delete my messages quickly?",
+    "ViewCount":"18",
+    "LastActivityDate":"2014-01-24T14:47:53.800",
+    "ClosedDate":"2014-01-24T18:38:13.713",
+    "Title":"I can't delete my messages",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-01-24T14:47:53.800",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"51623",
+    "CreationDate":"2014-01-24T06:56:42.380",
+    "FavoriteCount":null,
+    "Id":"61866",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-24T06:56:42.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"472b078f-532b-43f3-8911-b30731996cc9",
+            "UserId":"51623",
+            "CloseReasonId":null,
+            "PostId":"61866",
+            "PostHistoryTypeId":"2",
+            "Id":"209587",
+            "Text":"I didn't realize that I had the 'automatically delete old messages' feature turned off and I have a lot of texts on my phone.I clicked 'delete threads' and 'select all' and the app crashed.I went back and tried 'delete threads' and just clicking one conversation, but the app crashed again.The only way it's seeming to be possible to delete my messages and speed up my phone is one by one, and I truly do not have the time or the patience to sit here and delete over 1000 text messages one by one.Does anyone have another solution to delete my messages quickly?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-24T06:56:42.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"472b078f-532b-43f3-8911-b30731996cc9",
+            "UserId":"51623",
+            "CloseReasonId":null,
+            "PostId":"61866",
+            "PostHistoryTypeId":"1",
+            "Id":"209588",
+            "Text":"I can't delete my messages"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-24T06:56:42.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"472b078f-532b-43f3-8911-b30731996cc9",
+            "UserId":"51623",
+            "CloseReasonId":null,
+            "PostId":"61866",
+            "PostHistoryTypeId":"3",
+            "Id":"209589",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-24T14:47:53.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a7c5fd7-61c7-4335-a941-e616f9927e4c",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"61866",
+            "PostHistoryTypeId":"6",
+            "Id":"209655",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-24T18:38:13.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"4db8e0b1-cd02-48b3-9fbb-378429d74934",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"61866",
+            "PostHistoryTypeId":"10",
+            "Id":"209698",
+            "Text":"{\"OriginalQuestionIds\":[35452],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

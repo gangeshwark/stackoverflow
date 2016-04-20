@@ -1,0 +1,71 @@
+{
+    "Body":"I accidentally wiped all the data in the internal storage of my HTC Butterfly. Due to this incident, my smartphone is unable to connect with PC. The ROM cannot be copied into phones's internal storage. Finally, I cannot recovery my phone. It is stuck in bootloader or screen flash nothing.Problems:Unable to connect phone with PCStorage card does not appear its connection with PCUnable to copy ROM Recovery.img into storage cardUnable to install Android OS on phoneFinally, it's stuck in bootloaderPlease share your knowledge and experience as well as solution to solve this matter. Thanks.",
+    "ViewCount":"13",
+    "LastActivityDate":"2014-08-18T06:50:35.657",
+    "ClosedDate":"2014-08-18T11:49:10.620",
+    "Title":"There is no os in my htc butterfly in recovery mode. Help!",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71005",
+    "CreationDate":"2014-08-18T06:50:35.657",
+    "FavoriteCount":null,
+    "Id":"80723",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-18T06:50:35.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"d276b9d5-d80d-4d38-858f-1b6c49dec2b1",
+            "UserId":"71005",
+            "CloseReasonId":null,
+            "PostId":"80723",
+            "PostHistoryTypeId":"2",
+            "Id":"264283",
+            "Text":"I accidentally wiped all the data in the internal storage of my HTC Butterfly. Due to this incident, my smartphone is unable to connect with PC. The ROM cannot be copied into phones's internal storage. Finally, I cannot recovery my phone. It is stuck in bootloader or screen flash nothing.Problems:Unable to connect phone with PCStorage card does not appear its connection with PCUnable to copy ROM Recovery.img into storage cardUnable to install Android OS on phoneFinally, it's stuck in bootloaderPlease share your knowledge and experience as well as solution to solve this matter. Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-18T06:50:35.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"d276b9d5-d80d-4d38-858f-1b6c49dec2b1",
+            "UserId":"71005",
+            "CloseReasonId":null,
+            "PostId":"80723",
+            "PostHistoryTypeId":"1",
+            "Id":"264284",
+            "Text":"There is no os in my htc butterfly in recovery mode. Help!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-18T06:50:35.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"d276b9d5-d80d-4d38-858f-1b6c49dec2b1",
+            "UserId":"71005",
+            "CloseReasonId":null,
+            "PostId":"80723",
+            "PostHistoryTypeId":"3",
+            "Id":"264285",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-18T11:49:10.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"2be9257a-04c7-404c-8629-49b62077d352",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"80723",
+            "PostHistoryTypeId":"10",
+            "Id":"264359",
+            "Text":"{\"OriginalQuestionIds\":[57824],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

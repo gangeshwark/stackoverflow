@@ -1,0 +1,71 @@
+{
+    "Body":"I am getting \"Insufficinet Space\" errors when I try to update whatsapp on my HTC desire. I am running CyanogenMod 7.My filesystem usage looks like this:df -hFilesystem                Size      Used Available Use% Mounted ontmpfs                   202.8M     32.0K    202.7M   0% \/devtmpfs                   202.8M         0    202.8M   0% \/mnt\/asectmpfs                   202.8M         0    202.8M   0% \/mnt\/obb\/dev\/block\/mtdblock3    250.0M    118.3M    131.7M  47% \/system\/dev\/block\/mtdblock5    147.6M    122.6M     25.0M  83% \/data\/dev\/block\/mmcblk0p2    961.1M     16.0M    896.3M   2% \/sd-ext\/dev\/block\/vold\/179:1                      2.6G    952.7M      1.7G  36% \/mnt\/sdcard\/dev\/block\/vold\/179:1                      2.6G    952.7M      1.7G  36% \/mnt\/secure\/asec\/dev\/block\/dm-0           3.1M      1.6M      1.5M  52% \/mnt\/asec\/com.opera.mini.android-2\/dev\/block\/dm-1           9.1M      7.2M      2.0M  78% \/mnt\/asec\/com.google.android.apps.maps-1\/dev\/block\/dm-2          16.2M     14.1M      2.1M  87% \/mnt\/asec\/com.google.android.apps.plus-1\/dev\/block\/dm-3          20.3M     18.9M      1.4M  93% \/mnt\/asec\/com.google.android.gms-1\/dev\/block\/dm-4           6.1M      4.9M      1.2M  81% \/mnt\/asec\/org.xbmc.android.remote-1\/dev\/block\/dm-5           4.1M      2.3M      1.8M  56% \/mnt\/asec\/com.google.android.gm-1\/dev\/block\/dm-6          17.2M     15.6M      1.7M  90% \/mnt\/asec\/com.whatsapp-2What I would like to know is exactly what partition I need to free up this missing space on. \/system and \/data all seem to have 25M +, and I am trying to update Whatsapp. The current Whatsapp app is just a little over 10M so should fit as far as I can see from this.I appreciate that similar questions have been asked on this site before but I have tried various solutions mentioned there already such as removing unused apps and re-mounting the cache partition to the sd card. ",
+    "ViewCount":"1012",
+    "LastActivityDate":"2014-12-27T05:41:23.797",
+    "ClosedDate":"2014-12-31T11:20:03.323",
+    "Title":"insufficient space on device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86467",
+    "CreationDate":"2014-12-26T06:02:39.563",
+    "FavoriteCount":"0",
+    "Id":"92806",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-26T06:02:39.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b4541db-d8de-4b28-8ed9-bfc34e96bf06",
+            "UserId":"86467",
+            "CloseReasonId":null,
+            "PostId":"92806",
+            "PostHistoryTypeId":"2",
+            "Id":"304245",
+            "Text":"I am getting \"Insufficinet Space\" errors when I try to update whatsapp on my HTC desire. I am running CyanogenMod 7.My filesystem usage looks like this:    df -h    Filesystem                Size      Used Available Use% Mounted on    tmpfs                   202.8M     32.0K    202.7M   0% \/dev    tmpfs                   202.8M         0    202.8M   0% \/mnt\/asec    tmpfs                   202.8M         0    202.8M   0% \/mnt\/obb    \/dev\/block\/mtdblock3    250.0M    118.3M    131.7M  47% \/system    \/dev\/block\/mtdblock5    147.6M    122.6M     25.0M  83% \/data    \/dev\/block\/mmcblk0p2    961.1M     16.0M    896.3M   2% \/sd-ext    \/dev\/block\/vold\/179:1                          2.6G    952.7M      1.7G  36% \/mnt\/sdcard    \/dev\/block\/vold\/179:1                          2.6G    952.7M      1.7G  36% \/mnt\/secure\/asec    \/dev\/block\/dm-0           3.1M      1.6M      1.5M  52% \/mnt\/asec\/com.opera.mini.android-2    \/dev\/block\/dm-1           9.1M      7.2M      2.0M  78% \/mnt\/asec\/com.google.android.apps.maps-1    \/dev\/block\/dm-2          16.2M     14.1M      2.1M  87% \/mnt\/asec\/com.google.android.apps.plus-1    \/dev\/block\/dm-3          20.3M     18.9M      1.4M  93% \/mnt\/asec\/com.google.android.gms-1    \/dev\/block\/dm-4           6.1M      4.9M      1.2M  81% \/mnt\/asec\/org.xbmc.android.remote-1    \/dev\/block\/dm-5           4.1M      2.3M      1.8M  56% \/mnt\/asec\/com.google.android.gm-1    \/dev\/block\/dm-6          17.2M     15.6M      1.7M  90% \/mnt\/asec\/com.whatsapp-2What I would like to know is exactly what partition I need to free up this missing space on. \/system and \/data all seem to have 25M +, and I am trying to update Whatsapp. The current Whatsapp app is just a little over 10M so should fit as far as I can see from this.I appreciate that similar questions have been asked on this site before but I have tried various solutions mentioned there already such as removing unused apps and re-mounting the cache partition to the sd card. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-26T06:02:39.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b4541db-d8de-4b28-8ed9-bfc34e96bf06",
+            "UserId":"86467",
+            "CloseReasonId":null,
+            "PostId":"92806",
+            "PostHistoryTypeId":"1",
+            "Id":"304246",
+            "Text":"insufficient space on device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-26T06:02:39.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b4541db-d8de-4b28-8ed9-bfc34e96bf06",
+            "UserId":"86467",
+            "CloseReasonId":null,
+            "PostId":"92806",
+            "PostHistoryTypeId":"3",
+            "Id":"304247",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-31T11:20:03.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"b82970af-dcc1-4569-a1ce-e5ff912cfab4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"92806",
+            "PostHistoryTypeId":"10",
+            "Id":"306098",
+            "Text":"{\"OriginalQuestionIds\":[92900],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"My old phone Motorola Defy had the option by calling to search for a contact just typing a number. Not sure how that feature is called but I'll give an example:If I want to call \"Alex\" i need to press 2(a bc) 5(jk l) 3(d e f) 9(w x yz) and I press the call button.Now I got the Nexus 4 and there is not such a feature, which is really annoying. Is there a custom dialer that support this feature? Or is it possible to enable it from somewhere?",
+    "ViewCount":"65",
+    "LastActivityDate":"2013-06-21T12:43:12.637",
+    "ClosedDate":"2013-06-21T18:22:26.237",
+    "Title":"search somebody from contacts with the numpads",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"47697",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36262",
+    "CreationDate":"2013-06-20T17:43:21.083",
+    "FavoriteCount":null,
+    "Id":"47651",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-20T17:43:21.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"bfe7f606-a7a1-47ce-b004-96608fa37f4d",
+            "UserId":"36262",
+            "CloseReasonId":null,
+            "PostId":"47651",
+            "PostHistoryTypeId":"2",
+            "Id":"154441",
+            "Text":"My old phone Motorola Defy had the option by calling to search for a contact just typing a number. Not sure how that feature is called but I'll give an example:If I want to call \"Alex\" i need to press 2(**a** bc) 5(jk **l**) 3(d **e** f) 9(w **x** yz) and I press the call button.Now I got the Nexus 4 and there is not such a feature, which is really annoying. Is there a custom dialer that support this feature? Or is it possible to enable it from somewhere?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-20T17:43:21.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"bfe7f606-a7a1-47ce-b004-96608fa37f4d",
+            "UserId":"36262",
+            "CloseReasonId":null,
+            "PostId":"47651",
+            "PostHistoryTypeId":"1",
+            "Id":"154442",
+            "Text":"search somebody from contacts with the numpads"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-20T17:43:21.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"bfe7f606-a7a1-47ce-b004-96608fa37f4d",
+            "UserId":"36262",
+            "CloseReasonId":null,
+            "PostId":"47651",
+            "PostHistoryTypeId":"3",
+            "Id":"154443",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-21T18:22:26.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e7ea5f9-1e62-4720-8870-2a613184ff2c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"47651",
+            "PostHistoryTypeId":"10",
+            "Id":"154654",
+            "Text":"{\"OriginalQuestionIds\":[45008],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

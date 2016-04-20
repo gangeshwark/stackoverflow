@@ -1,0 +1,71 @@
+{
+    "Body":"I'm looking for an android app that functions just like a printer: I hit PRINT on my Mac, PC, or iPhone, and a series of pages is immediately displayed on my android device.I realize there are several options for this, and I have tried many of them, but none seem to fulfill two crucial requirements:It has to really act like a printer, which means it has to immediately display the pages when I hit PRINT with no other intervention from me, including no app launching.It has to expose itself as a normal IP printer on the local network (connected via WiFi) and accept normal network print jobs.  Not going over the \"cloud\" like so many printer apps.Why? I have an eInk android device that is much more convenient that hauling around a printer and paper.",
+    "ViewCount":"2482",
+    "LastActivityDate":"2012-09-21T12:40:28.320",
+    "ClosedDate":"2013-12-04T18:39:36.890",
+    "Title":"Android as a Virtual Printer",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7124",
+    "CreationDate":"2012-08-23T18:09:00.287",
+    "FavoriteCount":"1",
+    "Id":"28165",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T18:09:00.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccc7855a-dce4-437b-b380-17f76ad96a87",
+            "UserId":"7124",
+            "CloseReasonId":null,
+            "PostId":"28165",
+            "PostHistoryTypeId":"2",
+            "Id":"82219",
+            "Text":"I'm looking for an android app that functions just like a printer: I hit PRINT on my Mac, PC, or iPhone, and a series of pages is immediately displayed on my android device.I realize there are several options for this, and I have tried many of them, but none seem to fulfill two crucial requirements:1. It has to really act like a printer, which means it has to immediately display the pages when I hit PRINT with no other intervention from me, including no app launching.2. It has to expose itself as a normal IP printer on the local network (connected via WiFi) and accept normal network print jobs.  Not going over the \"cloud\" like so many printer apps.Why? I have an eInk android device that is much more convenient that hauling around a printer and paper."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T18:09:00.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccc7855a-dce4-437b-b380-17f76ad96a87",
+            "UserId":"7124",
+            "CloseReasonId":null,
+            "PostId":"28165",
+            "PostHistoryTypeId":"1",
+            "Id":"82220",
+            "Text":"Android as a Virtual Printer"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T18:09:00.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccc7855a-dce4-437b-b380-17f76ad96a87",
+            "UserId":"7124",
+            "CloseReasonId":null,
+            "PostId":"28165",
+            "PostHistoryTypeId":"3",
+            "Id":"82221",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-12-04T18:39:36.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0db3790-49f4-4240-8abc-7957a211fa19",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"28165",
+            "PostHistoryTypeId":"10",
+            "Id":"195988",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Krampus\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23562,\"DisplayName\":\"Compro01\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

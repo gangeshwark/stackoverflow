@@ -1,0 +1,71 @@
+{
+    "Body":"I need to flash a stock ROM to my Samsung Captivate i897 as a part of unbricking process, but I can't find one. Odin one click roms don't work for me as Odin one click doesn't see my phone (regular ODIN does see the phone so I assume the drivers are ok). I need a rom that I can either install in recovery or using regular ODIN",
+    "ViewCount":"1037",
+    "LastActivityDate":"2014-09-05T05:02:34.203",
+    "ClosedDate":"2014-09-06T14:12:25.280",
+    "Title":"A stock rom for Samsung Captivate?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8833",
+    "CreationDate":"2014-09-05T02:28:57.593",
+    "FavoriteCount":null,
+    "Id":"81967",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-05T02:28:57.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fa91da6-7034-4ad7-9f87-717bd996d6f8",
+            "UserId":"8833",
+            "CloseReasonId":null,
+            "PostId":"81967",
+            "PostHistoryTypeId":"2",
+            "Id":"268392",
+            "Text":"I need to flash a stock ROM to my Samsung Captivate i897 as a part of unbricking process, but I can't find one. Odin one click roms don't work for me as Odin one click doesn't see my phone (regular ODIN does see the phone so I assume the drivers are ok). I need a rom that I can either install in recovery or using regular ODIN"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-05T02:28:57.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fa91da6-7034-4ad7-9f87-717bd996d6f8",
+            "UserId":"8833",
+            "CloseReasonId":null,
+            "PostId":"81967",
+            "PostHistoryTypeId":"1",
+            "Id":"268393",
+            "Text":"A stock rom for Samsung Captivate?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-05T02:28:57.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fa91da6-7034-4ad7-9f87-717bd996d6f8",
+            "UserId":"8833",
+            "CloseReasonId":null,
+            "PostId":"81967",
+            "PostHistoryTypeId":"3",
+            "Id":"268394",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-06T14:12:25.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd47437d-a867-4b25-8950-3c696972922a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"81967",
+            "PostHistoryTypeId":"10",
+            "Id":"268709",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

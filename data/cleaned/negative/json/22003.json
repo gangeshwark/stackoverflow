@@ -1,0 +1,83 @@
+{
+    "Body":"I received a .crt certificate to install on my new galaxy tab 10.1.How do I install it?I see that I can \"install from USB storage\" but couldn't figure out where this storage is.",
+    "ViewCount":"6004",
+    "LastActivityDate":"2013-11-04T23:38:11.387",
+    "ClosedDate":"2013-11-05T11:30:18.910",
+    "Title":"install certificates",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-11-04T23:38:11.387",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14390",
+    "CreationDate":"2012-04-19T07:15:24.770",
+    "FavoriteCount":null,
+    "Id":"22003",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T07:15:24.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"c178985c-a7ca-4d61-87b8-ceda2786a757",
+            "UserId":"14390",
+            "CloseReasonId":null,
+            "PostId":"22003",
+            "PostHistoryTypeId":"2",
+            "Id":"61728",
+            "Text":"I received a .crt certificate to install on my new galaxy tab 10.1.How do I install it?I see that I can \"install from USB storage\" but couldn't figure out where this storage is. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T07:15:24.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"c178985c-a7ca-4d61-87b8-ceda2786a757",
+            "UserId":"14390",
+            "CloseReasonId":null,
+            "PostId":"22003",
+            "PostHistoryTypeId":"1",
+            "Id":"61729",
+            "Text":"install certificates"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T07:15:24.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"c178985c-a7ca-4d61-87b8-ceda2786a757",
+            "UserId":"14390",
+            "CloseReasonId":null,
+            "PostId":"22003",
+            "PostHistoryTypeId":"3",
+            "Id":"61730",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-11-04T23:38:11.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"c925a98a-923e-46af-abcc-22d76dfe6e66",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"22003",
+            "PostHistoryTypeId":"6",
+            "Id":"187655",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-05T11:30:18.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"90a6dc1e-53ef-4e6c-bb52-4a0029b1a173",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"22003",
+            "PostHistoryTypeId":"10",
+            "Id":"187753",
+            "Text":"{\"OriginalQuestionIds\":[4053],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

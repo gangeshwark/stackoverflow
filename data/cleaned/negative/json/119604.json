@@ -1,0 +1,71 @@
+{
+    "Body":"I have 2 questions:1) I would like to align left ALL MENUES including conversations from whatsapp for example. How to do it? In fact, I went from version 2.3.1 to version 4.4, and as we know Google made this change of alignment. Is someone unknown?2) screen alerts - when, for example, I get some new Whatsup. I do not want to see any new messages are lined up, but I want it to be like it was in the previous version, it says to me, \"received 3 new messages\" Then I came in INTO the application and read them.Thanks very much!!",
+    "ViewCount":"18",
+    "LastActivityDate":"2015-08-18T07:24:20.237",
+    "ClosedDate":"2015-08-19T22:31:29.060",
+    "Title":"Left Align and Screen Alerts",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122681",
+    "CreationDate":"2015-08-18T07:24:20.237",
+    "FavoriteCount":null,
+    "Id":"119604",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T07:24:20.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"39b27a00-b1da-4481-b265-87354889323a",
+            "UserId":"122681",
+            "CloseReasonId":null,
+            "PostId":"119604",
+            "PostHistoryTypeId":"2",
+            "Id":"391811",
+            "Text":"I have 2 questions:1) I would like to align left ALL MENUES including conversations from whatsapp for example. How to do it? In fact, I went from version 2.3.1 to version 4.4, and as we know Google made this change of alignment. Is someone unknown?2) screen alerts - when, for example, I get some new Whatsup. I do not want to see any new messages are lined up, but I want it to be like it was in the previous version, it says to me, \"received 3 new messages\" Then I came in INTO the application and read them.Thanks very much!!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T07:24:20.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"39b27a00-b1da-4481-b265-87354889323a",
+            "UserId":"122681",
+            "CloseReasonId":null,
+            "PostId":"119604",
+            "PostHistoryTypeId":"1",
+            "Id":"391812",
+            "Text":"Left Align and Screen Alerts"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T07:24:20.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"39b27a00-b1da-4481-b265-87354889323a",
+            "UserId":"122681",
+            "CloseReasonId":null,
+            "PostId":"119604",
+            "PostHistoryTypeId":"3",
+            "Id":"391813",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-08-19T22:31:29.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"273fecc0-fb87-4bd5-8759-5ed8093870a1",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"119604",
+            "PostHistoryTypeId":"10",
+            "Id":"392419",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

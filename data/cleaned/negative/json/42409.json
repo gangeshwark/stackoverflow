@@ -1,0 +1,71 @@
+{
+    "Body":"How would I go about viewing the activity of an app based on what HTTP requests it is sending and receiving?For example, I have an app that gets me statistics for a video game I play. I want to know where this app is sending the request to in order to retrieve the data that is displayed within the app.",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-03-26T22:13:26.843",
+    "ClosedDate":"2013-04-20T18:54:16.257",
+    "Title":"Viewing app's internet activity by URL?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17613",
+    "CreationDate":"2013-03-26T22:13:26.843",
+    "FavoriteCount":null,
+    "Id":"42409",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-26T22:13:26.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef3579d9-5d07-4a4d-a73c-70c1dc70fb55",
+            "UserId":"17613",
+            "CloseReasonId":null,
+            "PostId":"42409",
+            "PostHistoryTypeId":"2",
+            "Id":"133768",
+            "Text":"How would I go about viewing the activity of an app based on what HTTP requests it is sending and receiving?For example, I have an app that gets me statistics for a video game I play. I want to know where this app is sending the request to in order to retrieve the data that is displayed within the app."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-26T22:13:26.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef3579d9-5d07-4a4d-a73c-70c1dc70fb55",
+            "UserId":"17613",
+            "CloseReasonId":null,
+            "PostId":"42409",
+            "PostHistoryTypeId":"1",
+            "Id":"133769",
+            "Text":"Viewing app's internet activity by URL?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-26T22:13:26.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef3579d9-5d07-4a4d-a73c-70c1dc70fb55",
+            "UserId":"17613",
+            "CloseReasonId":null,
+            "PostId":"42409",
+            "PostHistoryTypeId":"3",
+            "Id":"133770",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-20T18:54:16.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ec79493-4f9f-4480-b896-8defe02a6ba8",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"42409",
+            "PostHistoryTypeId":"10",
+            "Id":"141187",
+            "Text":"{\"OriginalQuestionIds\":[43444],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

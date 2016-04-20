@@ -1,0 +1,71 @@
+{
+    "Body":"I am very new to Android ecosystem.  I can't seem to locate this game title on Play Store.  Should it be on Google Play Store?",
+    "ViewCount":"1591",
+    "LastActivityDate":"2014-07-24T16:01:37.343",
+    "ClosedDate":"2014-07-20T00:23:50.843",
+    "Title":"World Of Tanks Blitz is not on Google Play Store",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"77598",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67670",
+    "CreationDate":"2014-07-18T22:52:14.740",
+    "FavoriteCount":null,
+    "Id":"77573",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T22:52:14.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddf58ef5-066c-4467-ba09-034c160c686a",
+            "UserId":"67670",
+            "CloseReasonId":null,
+            "PostId":"77573",
+            "PostHistoryTypeId":"2",
+            "Id":"255672",
+            "Text":"I am very new to Android ecosystem.  I can't seem to locate this game title on Play Store.  Should it be on Google Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T22:52:14.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddf58ef5-066c-4467-ba09-034c160c686a",
+            "UserId":"67670",
+            "CloseReasonId":null,
+            "PostId":"77573",
+            "PostHistoryTypeId":"1",
+            "Id":"255673",
+            "Text":"World Of Tanks Blitz is not on Google Play Store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T22:52:14.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddf58ef5-066c-4467-ba09-034c160c686a",
+            "UserId":"67670",
+            "CloseReasonId":null,
+            "PostId":"77573",
+            "PostHistoryTypeId":"3",
+            "Id":"255674",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-07-20T00:23:50.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f42cb10-5aa8-4d91-9fb8-38b3164ee29d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77573",
+            "PostHistoryTypeId":"10",
+            "Id":"255971",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

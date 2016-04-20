@@ -1,0 +1,71 @@
+{
+    "Body":"I have a GIO, unlimited browsing as well as wi-fi. When I choose the GPS Navigator app, after loading, I get the MSG 'can't get carrier name'. 'Use GPS satellites' is ON.  Are there any settings that prevent 'finding' carrier name ?I get the impression my unit is not even getting to the point of 'looking' for satellites.Any help is appreciated. ",
+    "ViewCount":"295",
+    "LastActivityDate":"2012-02-26T00:10:16.380",
+    "ClosedDate":"2013-01-01T00:26:36.110",
+    "Title":"gio gps cant find carrier name",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12901",
+    "CreationDate":"2012-02-26T00:10:16.380",
+    "FavoriteCount":null,
+    "Id":"19921",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-26T00:10:16.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dd8e3ba-6103-4a4b-9cbe-a236e71fdf86",
+            "UserId":"12901",
+            "CloseReasonId":null,
+            "PostId":"19921",
+            "PostHistoryTypeId":"2",
+            "Id":"55230",
+            "Text":"I have a GIO, unlimited browsing as well as wi-fi. When I choose the GPS Navigator app, after loading, I get the MSG 'can't get carrier name'. 'Use GPS satellites' is ON.  Are there any settings that prevent 'finding' carrier name ?I get the impression my unit is not even getting to the point of 'looking' for satellites.Any help is appreciated. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-26T00:10:16.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dd8e3ba-6103-4a4b-9cbe-a236e71fdf86",
+            "UserId":"12901",
+            "CloseReasonId":null,
+            "PostId":"19921",
+            "PostHistoryTypeId":"1",
+            "Id":"55231",
+            "Text":"gio gps cant find carrier name"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-26T00:10:16.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dd8e3ba-6103-4a4b-9cbe-a236e71fdf86",
+            "UserId":"12901",
+            "CloseReasonId":null,
+            "PostId":"19921",
+            "PostHistoryTypeId":"3",
+            "Id":"55232",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-01T00:26:36.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"8619f90a-9d61-4ced-8b4d-225023517983",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19921",
+            "PostHistoryTypeId":"10",
+            "Id":"110528",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"}]}"
+        }
+    ]
+}

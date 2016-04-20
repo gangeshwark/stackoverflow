@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  Gingerbread seems to be better in gaming on my device. I will really appreciate it if someone could point me to a stable custom rom built with gaming in mind ",
+    "ViewCount":"17",
+    "LastActivityDate":"2013-01-28T16:32:42.010",
+    "ClosedDate":"2013-01-28T16:43:37.963",
+    "Title":"looking for a stable gaming custom ROM for Xperia Neo V",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18752",
+    "CreationDate":"2013-01-28T16:32:42.010",
+    "FavoriteCount":null,
+    "Id":"38551",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-28T16:32:42.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"126e0d91-9a6c-466c-8f60-e01e53fdf5b4",
+            "UserId":"18752",
+            "CloseReasonId":null,
+            "PostId":"38551",
+            "PostHistoryTypeId":"2",
+            "Id":"118165",
+            "Text":"Gingerbread seems to be better in gaming on my device. I will really appreciate it if someone could point me to a stable custom rom built with gaming in mind "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-28T16:32:42.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"126e0d91-9a6c-466c-8f60-e01e53fdf5b4",
+            "UserId":"18752",
+            "CloseReasonId":null,
+            "PostId":"38551",
+            "PostHistoryTypeId":"1",
+            "Id":"118166",
+            "Text":"looking for a stable gaming custom ROM for Xperia Neo V"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-28T16:32:42.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"126e0d91-9a6c-466c-8f60-e01e53fdf5b4",
+            "UserId":"18752",
+            "CloseReasonId":null,
+            "PostId":"38551",
+            "PostHistoryTypeId":"3",
+            "Id":"118167",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-28T16:43:37.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"c180caaa-0604-4a6b-a3ba-4f0b44254481",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38551",
+            "PostHistoryTypeId":"5",
+            "Id":"118177",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  Gingerbread seems to be better in gaming on my device. I will really appreciate it if someone could point me to a stable custom rom built with gaming in mind "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-28T16:43:37.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"60a4e31d-d946-455a-95be-6cd46958db35",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"38551",
+            "PostHistoryTypeId":"10",
+            "Id":"118178",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

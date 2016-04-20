@@ -1,0 +1,71 @@
+{
+    "Body":"Where to download Android OEM USB Driver for Lenovo Y50 windows 8.1?The published download link at https:\/\/developer.android.com\/tools\/extras\/oem-usb.htmldoes not work: http:\/\/open.lenovo.com\/developer\/download.jsp",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-03-19T01:00:52.153",
+    "ClosedDate":"2015-03-19T02:00:43.413",
+    "Title":"Android OEM USB Driver for Lenovo",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"98729",
+    "CreationDate":"2015-03-19T01:00:52.153",
+    "FavoriteCount":null,
+    "Id":"102926",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-19T01:00:52.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c9710e7-1a83-4db2-8f94-abf156f1f0b2",
+            "UserId":"98729",
+            "CloseReasonId":null,
+            "PostId":"102926",
+            "PostHistoryTypeId":"2",
+            "Id":"335393",
+            "Text":"Where to download Android OEM USB Driver for Lenovo Y50 windows 8.1?The published download link at https:\/\/developer.android.com\/tools\/extras\/oem-usb.htmldoes not work: http:\/\/open.lenovo.com\/developer\/download.jsp"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-19T01:00:52.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c9710e7-1a83-4db2-8f94-abf156f1f0b2",
+            "UserId":"98729",
+            "CloseReasonId":null,
+            "PostId":"102926",
+            "PostHistoryTypeId":"1",
+            "Id":"335394",
+            "Text":"Android OEM USB Driver for Lenovo"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-19T01:00:52.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c9710e7-1a83-4db2-8f94-abf156f1f0b2",
+            "UserId":"98729",
+            "CloseReasonId":null,
+            "PostId":"102926",
+            "PostHistoryTypeId":"3",
+            "Id":"335395",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-19T02:00:43.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"c59db747-22ba-450f-9983-ef7f126a4fbc",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"102926",
+            "PostHistoryTypeId":"10",
+            "Id":"335406",
+            "Text":"{\"OriginalQuestionIds\":[79440],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

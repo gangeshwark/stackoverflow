@@ -1,0 +1,71 @@
+{
+    "Body":"How can I disable the app notifications of a certain app I installed from Google Play?",
+    "ViewCount":"179",
+    "LastActivityDate":"2015-06-16T09:16:55.140",
+    "ClosedDate":"2015-06-16T13:46:39.307",
+    "Title":"How to disable app notifications of a certain app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"112555",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95577",
+    "CreationDate":"2015-06-16T07:53:43.253",
+    "FavoriteCount":null,
+    "Id":"112554",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-16T07:53:43.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce19cb0d-cedf-482b-a8f5-dfadea5ede0e",
+            "UserId":"95577",
+            "CloseReasonId":null,
+            "PostId":"112554",
+            "PostHistoryTypeId":"2",
+            "Id":"368635",
+            "Text":"How can I disable the app notifications of a certain app I installed from Google Play?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-16T07:53:43.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce19cb0d-cedf-482b-a8f5-dfadea5ede0e",
+            "UserId":"95577",
+            "CloseReasonId":null,
+            "PostId":"112554",
+            "PostHistoryTypeId":"1",
+            "Id":"368636",
+            "Text":"How to disable app notifications of a certain app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-16T07:53:43.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce19cb0d-cedf-482b-a8f5-dfadea5ede0e",
+            "UserId":"95577",
+            "CloseReasonId":null,
+            "PostId":"112554",
+            "PostHistoryTypeId":"3",
+            "Id":"368637",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-16T13:46:39.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"310a80b6-58eb-49b1-811e-31e003cd2fea",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"112554",
+            "PostHistoryTypeId":"10",
+            "Id":"368784",
+            "Text":"{\"OriginalQuestionIds\":[22708],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

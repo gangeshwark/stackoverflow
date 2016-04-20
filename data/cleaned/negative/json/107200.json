@@ -1,0 +1,71 @@
+{
+    "Body":"I'm on lollipop and want to deny some apps to use the INTERNET permission.How do I block them? In the hidden app ops menu there is no INTERNET permission.Do I need another app for that?",
+    "ViewCount":"1873",
+    "LastActivityDate":"2015-05-01T14:59:45.030",
+    "ClosedDate":"2015-05-05T15:24:32.433",
+    "Title":"Block app internet access through app ops hidden menu",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104988",
+    "CreationDate":"2015-05-01T14:55:42.457",
+    "FavoriteCount":null,
+    "Id":"107200",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-01T14:55:42.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"cae8a1a9-15e3-4393-8263-e4b59ca632e6",
+            "UserId":"104988",
+            "CloseReasonId":null,
+            "PostId":"107200",
+            "PostHistoryTypeId":"2",
+            "Id":"351211",
+            "Text":"I'm on lollipop and want to deny some apps to use the INTERNET permission.  How do I block them? In the hidden app ops menu there is no INTERNET permission.  Do I need another app for that?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-01T14:55:42.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"cae8a1a9-15e3-4393-8263-e4b59ca632e6",
+            "UserId":"104988",
+            "CloseReasonId":null,
+            "PostId":"107200",
+            "PostHistoryTypeId":"1",
+            "Id":"351212",
+            "Text":"Block app internet access through app ops hidden menu"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-01T14:55:42.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"cae8a1a9-15e3-4393-8263-e4b59ca632e6",
+            "UserId":"104988",
+            "CloseReasonId":null,
+            "PostId":"107200",
+            "PostHistoryTypeId":"3",
+            "Id":"351213",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-05T15:24:32.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"eeefe7be-071e-44d3-b81b-01d7bbdb6beb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"107200",
+            "PostHistoryTypeId":"10",
+            "Id":"353435",
+            "Text":"{\"OriginalQuestionIds\":[40924],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

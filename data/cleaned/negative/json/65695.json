@@ -1,0 +1,71 @@
+{
+    "Body":"Is there tool or application that can set the brightness of the screen below the system minimum?",
+    "ViewCount":"217",
+    "LastActivityDate":"2014-03-18T09:20:14.913",
+    "ClosedDate":"2014-03-19T23:12:08.910",
+    "Title":"Brightness below system minimun",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"65713",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"56418",
+    "CreationDate":"2014-03-18T06:05:25.550",
+    "FavoriteCount":"1",
+    "Id":"65695",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-18T06:05:25.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"b6d44def-8d18-4f19-81b9-ba1c9dd883cb",
+            "UserId":"56418",
+            "CloseReasonId":null,
+            "PostId":"65695",
+            "PostHistoryTypeId":"2",
+            "Id":"223680",
+            "Text":"Is there tool or application that can set the brightness of the screen below the system minimum?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-18T06:05:25.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"b6d44def-8d18-4f19-81b9-ba1c9dd883cb",
+            "UserId":"56418",
+            "CloseReasonId":null,
+            "PostId":"65695",
+            "PostHistoryTypeId":"1",
+            "Id":"223681",
+            "Text":"Brightness below system minimun"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-18T06:05:25.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"b6d44def-8d18-4f19-81b9-ba1c9dd883cb",
+            "UserId":"56418",
+            "CloseReasonId":null,
+            "PostId":"65695",
+            "PostHistoryTypeId":"3",
+            "Id":"223682",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-19T23:12:08.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d6872d0-205f-4fc1-8ab6-2502cb84e84f",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"65695",
+            "PostHistoryTypeId":"10",
+            "Id":"224176",
+            "Text":"{\"OriginalQuestionIds\":[44270],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

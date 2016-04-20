@@ -1,0 +1,71 @@
+{
+    "Body":"Having this problem on me Samsung galaxy note 3, when downloading the Facebook app it ddownload but when it going to install the app, this window pop up saying.... Unknown error code during application install \"-24\". Pls if anyone can help me with this issue would appreciate thnks.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-03-06T19:59:56.257",
+    "ClosedDate":"2015-03-06T20:42:37.143",
+    "Title":"Unknown error code\" 24",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97083",
+    "CreationDate":"2015-03-06T19:59:56.257",
+    "FavoriteCount":null,
+    "Id":"101739",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-06T19:59:56.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"de1aede8-b281-45f3-b9bf-1e01a5d51eb0",
+            "UserId":"97083",
+            "CloseReasonId":null,
+            "PostId":"101739",
+            "PostHistoryTypeId":"2",
+            "Id":"330985",
+            "Text":"Having this problem on me Samsung galaxy note 3, when downloading the Facebook app it ddownload but when it going to install the app, this window pop up saying.... Unknown error code during application install \"-24\". Pls if anyone can help me with this issue would appreciate thnks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-06T19:59:56.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"de1aede8-b281-45f3-b9bf-1e01a5d51eb0",
+            "UserId":"97083",
+            "CloseReasonId":null,
+            "PostId":"101739",
+            "PostHistoryTypeId":"1",
+            "Id":"330986",
+            "Text":"Unknown error code\" 24"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-06T19:59:56.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"de1aede8-b281-45f3-b9bf-1e01a5d51eb0",
+            "UserId":"97083",
+            "CloseReasonId":null,
+            "PostId":"101739",
+            "PostHistoryTypeId":"3",
+            "Id":"330987",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-06T20:42:37.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"459bc59f-1793-4873-a9d5-e62d44db04f9",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"101739",
+            "PostHistoryTypeId":"10",
+            "Id":"330999",
+            "Text":"{\"OriginalQuestionIds\":[57456],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

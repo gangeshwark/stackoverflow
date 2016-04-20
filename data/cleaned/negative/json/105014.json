@@ -1,0 +1,71 @@
+{
+    "Body":"Whats the use of LOST.DIR folder actually?why does is automatically appear after every reboot?",
+    "ViewCount":"503",
+    "LastActivityDate":"2015-04-10T10:00:33.563",
+    "ClosedDate":"2015-04-09T18:49:49.580",
+    "Title":"What does the LOST.DIR folder contain?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"105015",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101575",
+    "CreationDate":"2015-04-09T18:21:28.347",
+    "FavoriteCount":null,
+    "Id":"105014",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T18:21:28.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd73ab6b-4e57-4fc7-9a97-bac2b0a51e73",
+            "UserId":"101575",
+            "CloseReasonId":null,
+            "PostId":"105014",
+            "PostHistoryTypeId":"2",
+            "Id":"342990",
+            "Text":"Whats the use of LOST.DIR folder actually?why does is automatically appear after every reboot?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T18:21:28.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd73ab6b-4e57-4fc7-9a97-bac2b0a51e73",
+            "UserId":"101575",
+            "CloseReasonId":null,
+            "PostId":"105014",
+            "PostHistoryTypeId":"1",
+            "Id":"342991",
+            "Text":"What does the LOST.DIR folder contain?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T18:21:28.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd73ab6b-4e57-4fc7-9a97-bac2b0a51e73",
+            "UserId":"101575",
+            "CloseReasonId":null,
+            "PostId":"105014",
+            "PostHistoryTypeId":"3",
+            "Id":"342992",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-09T18:49:49.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"5d120e49-6fc2-4c35-b538-13afb361ee81",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105014",
+            "PostHistoryTypeId":"10",
+            "Id":"343009",
+            "Text":"{\"OriginalQuestionIds\":[14555],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

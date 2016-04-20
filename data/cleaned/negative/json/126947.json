@@ -1,0 +1,71 @@
+{
+    "Body":"I've tried researching and I cannot find any explanation for this. About 2 weeks after Android 6 was released I did get a security update for lollipop but nothing since then. Everyone I know with a Nexus 5 has it, but I don't know anyone with a Nexus 6 besides myself. Why is my Nexus 6 not getting updated?My phone is unlocked, but I do use T-Mobile.Thanks",
+    "ViewCount":"1126",
+    "LastActivityDate":"2015-10-25T08:07:13.513",
+    "ClosedDate":"2015-11-02T16:18:25.433",
+    "Title":"Why hasn't my Nexus 6 received Android M?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"133669",
+    "CreationDate":"2015-10-24T20:04:57.443",
+    "FavoriteCount":null,
+    "Id":"126947",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-24T20:04:57.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ec3cb82-64dd-4d54-90a1-b3c06ca964c1",
+            "UserId":"133669",
+            "CloseReasonId":null,
+            "PostId":"126947",
+            "PostHistoryTypeId":"2",
+            "Id":"416811",
+            "Text":"I've tried researching and I cannot find any explanation for this. About 2 weeks after Android 6 was released I did get a security update for lollipop but nothing since then. Everyone I know with a Nexus 5 has it, but I don't know anyone with a Nexus 6 besides myself. Why is my Nexus 6 not getting updated?My phone is unlocked, but I do use T-Mobile.Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-24T20:04:57.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ec3cb82-64dd-4d54-90a1-b3c06ca964c1",
+            "UserId":"133669",
+            "CloseReasonId":null,
+            "PostId":"126947",
+            "PostHistoryTypeId":"1",
+            "Id":"416812",
+            "Text":"Why hasn't my Nexus 6 received Android M?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-24T20:04:57.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ec3cb82-64dd-4d54-90a1-b3c06ca964c1",
+            "UserId":"133669",
+            "CloseReasonId":null,
+            "PostId":"126947",
+            "PostHistoryTypeId":"3",
+            "Id":"416813",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-02T16:18:25.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ab9b477-c90e-4174-8288-15a418f188a2",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"126947",
+            "PostHistoryTypeId":"10",
+            "Id":"419821",
+            "Text":"{\"OriginalQuestionIds\":[110681],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  What\u2019s the easiest way to create a QR code for a link?  I searched the site, and I've searched google with no answer. Posting QR code images on a webpage is convenient, because a person can just point their phone at their screen to download a new app. Where can I get the QR code for an app on the Play Store?",
+    "ViewCount":"6882",
+    "LastActivityDate":"2012-11-20T14:50:18.767",
+    "ClosedDate":"2012-11-21T10:51:35.580",
+    "Title":"Where can I get the QR code for an app on the Play Store?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23436",
+    "CreationDate":"2012-11-20T09:15:19.013",
+    "FavoriteCount":null,
+    "Id":"33728",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-20T09:15:19.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"e748c964-f614-43f2-a13c-ddbfe2f9c8d2",
+            "UserId":"23436",
+            "CloseReasonId":null,
+            "PostId":"33728",
+            "PostHistoryTypeId":"2",
+            "Id":"100037",
+            "Text":"I searched the site, and I've searched google with no answer. Posting QR code images on a webpage is convenient, because a person can just point their phone at their screen to download a new app. Where can I get the QR code for an app on the Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-20T09:15:19.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"e748c964-f614-43f2-a13c-ddbfe2f9c8d2",
+            "UserId":"23436",
+            "CloseReasonId":null,
+            "PostId":"33728",
+            "PostHistoryTypeId":"1",
+            "Id":"100038",
+            "Text":"Where can I get the QR code for an app on the Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-20T09:15:19.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"e748c964-f614-43f2-a13c-ddbfe2f9c8d2",
+            "UserId":"23436",
+            "CloseReasonId":null,
+            "PostId":"33728",
+            "PostHistoryTypeId":"3",
+            "Id":"100039",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-21T10:51:35.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"fbeac866-60fe-4c7f-ab9e-68bcc5ff1a88",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33728",
+            "PostHistoryTypeId":"5",
+            "Id":"100293",
+            "Text":"> **Possible Duplicate:**  > [What\u2019s the easiest way to create a QR code for a link?](http:\/\/android.stackexchange.com\/questions\/1964\/whats-the-easiest-way-to-create-a-qr-code-for-a-link)  I searched the site, and I've searched google with no answer. Posting QR code images on a webpage is convenient, because a person can just point their phone at their screen to download a new app. Where can I get the QR code for an app on the Play Store?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-21T10:51:35.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"fab07e6c-857d-4c95-a542-bfeb1e684f45",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33728",
+            "PostHistoryTypeId":"10",
+            "Id":"100294",
+            "Text":"{\"OriginalQuestionIds\":[1964],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

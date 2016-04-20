@@ -1,0 +1,71 @@
+{
+    "Body":"I transferred all my photos to my mac using android file transfer. I had a hidden folder which i didnt notice wasnt transferred over until now. The phone has been restored to factory settings. Is there any way to recover these photos. ",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-09-09T02:15:51.230",
+    "ClosedDate":"2015-09-10T05:57:44.793",
+    "Title":"Transfered photos to computer but hidden folder didnt copy, how can i get these photos back if the phone has been wiped",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"126637",
+    "CreationDate":"2015-09-09T02:15:51.230",
+    "FavoriteCount":null,
+    "Id":"122586",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-09T02:15:51.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a3dae2e-24aa-43a6-bac8-6ba9ebc0dc55",
+            "UserId":"126637",
+            "CloseReasonId":null,
+            "PostId":"122586",
+            "PostHistoryTypeId":"2",
+            "Id":"400022",
+            "Text":"I transferred all my photos to my mac using android file transfer. I had a hidden folder which i didnt notice wasnt transferred over until now. The phone has been restored to factory settings. Is there any way to recover these photos. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-09T02:15:51.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a3dae2e-24aa-43a6-bac8-6ba9ebc0dc55",
+            "UserId":"126637",
+            "CloseReasonId":null,
+            "PostId":"122586",
+            "PostHistoryTypeId":"1",
+            "Id":"400023",
+            "Text":"Transfered photos to computer but hidden folder didnt copy, how can i get these photos back if the phone has been wiped"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-09T02:15:51.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a3dae2e-24aa-43a6-bac8-6ba9ebc0dc55",
+            "UserId":"126637",
+            "CloseReasonId":null,
+            "PostId":"122586",
+            "PostHistoryTypeId":"3",
+            "Id":"400024",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-10T05:57:44.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9f9ccb9-f4be-4e87-8402-4b36b37eac31",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"122586",
+            "PostHistoryTypeId":"10",
+            "Id":"400420",
+            "Text":"{\"OriginalQuestionIds\":[89777],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

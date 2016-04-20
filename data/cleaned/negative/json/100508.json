@@ -1,0 +1,71 @@
+{
+    "Body":"How could you scrape data from an Android app (one without an available API)?There are some apps that contain personal data I've entered that I'd like to be able to hook into and extract (rather than manual transcribing by hand).",
+    "ViewCount":"412",
+    "LastActivityDate":"2015-07-15T03:52:19.420",
+    "ClosedDate":"2015-07-15T13:53:54.480",
+    "Title":"How to scrape data from Android apps?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"115273",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24054",
+    "CreationDate":"2015-02-21T20:47:09.120",
+    "FavoriteCount":null,
+    "Id":"100508",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-21T20:47:09.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e313cee-803e-437c-8f12-b5a7d792609f",
+            "UserId":"24054",
+            "CloseReasonId":null,
+            "PostId":"100508",
+            "PostHistoryTypeId":"2",
+            "Id":"326470",
+            "Text":"How could you scrape data from an Android app (one without an available API)?There are some apps that contain personal data I've entered that I'd like to be able to hook into and extract (rather than manual transcribing by hand)."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-21T20:47:09.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e313cee-803e-437c-8f12-b5a7d792609f",
+            "UserId":"24054",
+            "CloseReasonId":null,
+            "PostId":"100508",
+            "PostHistoryTypeId":"1",
+            "Id":"326471",
+            "Text":"How to scrape data from Android apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-21T20:47:09.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e313cee-803e-437c-8f12-b5a7d792609f",
+            "UserId":"24054",
+            "CloseReasonId":null,
+            "PostId":"100508",
+            "PostHistoryTypeId":"3",
+            "Id":"326472",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2015-07-15T13:53:54.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"999f39de-7ad1-478d-a857-f4ff67405506",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100508",
+            "PostHistoryTypeId":"10",
+            "Id":"378800",
+            "Text":"{\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

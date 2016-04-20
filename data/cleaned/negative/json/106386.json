@@ -1,0 +1,83 @@
+{
+    "Body":"I know what dalvik and ART is.But my question is, when switching custom ROMs (All anything above 5.0), is it necessary to wipe the dalvik cache? Wiping the Cache is necessary but wiping dalvik (which doesnt exist in Lollipop) should be necessary or not. What impact will it cause if we wipe dalvik (something not present).In lollipop, What does the dalvik cache contain(is it an empty folder?)",
+    "ViewCount":"355",
+    "LastActivityDate":"2015-06-02T06:37:50.310",
+    "ClosedDate":"2015-07-15T13:52:30.003",
+    "Title":"Should Dalvik Cache be wiped in the case of switching Lollipop ROMs",
+    "LastEditorUserId":"103798",
+    "Tags":"",
+    "LastEditDate":"2015-06-02T06:37:50.310",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103798",
+    "CreationDate":"2015-04-23T13:50:38.397",
+    "FavoriteCount":"0",
+    "Id":"106386",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T13:50:38.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e65d760-de37-4405-a466-1aa0babe6d6d",
+            "UserId":"103798",
+            "CloseReasonId":null,
+            "PostId":"106386",
+            "PostHistoryTypeId":"2",
+            "Id":"348107",
+            "Text":"I know what dalvik and ART is.But my question is, when switching custom ROMs (All anything above 5.0), **is it necessary to wipe the dalvik cache?** Wiping the Cache is necessary but wiping dalvik (which doesnt exist in Lollipop) should be necessary or not. What impact will it cause if we wipe dalvik (something not present).Also, in lollipop, What does the dalvik cache contain(is it an empty folder?)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T13:50:38.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e65d760-de37-4405-a466-1aa0babe6d6d",
+            "UserId":"103798",
+            "CloseReasonId":null,
+            "PostId":"106386",
+            "PostHistoryTypeId":"1",
+            "Id":"348108",
+            "Text":"Should Dalvik Cache be wiped in the case of switching Lollipop ROMs"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T13:50:38.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e65d760-de37-4405-a466-1aa0babe6d6d",
+            "UserId":"103798",
+            "CloseReasonId":null,
+            "PostId":"106386",
+            "PostHistoryTypeId":"3",
+            "Id":"348109",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 2 characters in body",
+            "CreationDate":"2015-06-02T06:37:50.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"88f68299-c4be-4cc6-bdd0-e56092ea806e",
+            "UserId":"103798",
+            "CloseReasonId":null,
+            "PostId":"106386",
+            "PostHistoryTypeId":"5",
+            "Id":"363407",
+            "Text":"I know what dalvik and ART is.But my question is, when switching custom ROMs (All anything above 5.0), **is it necessary to wipe the dalvik cache?** Wiping the Cache is necessary but wiping dalvik (which doesnt exist in Lollipop) should be necessary or not. What impact will it cause if we wipe dalvik (something not present).In lollipop, What does the **dalvik** cache contain(is it an empty folder?)"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-15T13:52:30.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"31c5b236-145e-4b62-b778-a9b077c428dd",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"106386",
+            "PostHistoryTypeId":"10",
+            "Id":"378799",
+            "Text":"{\"OriginalQuestionIds\":[111525],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

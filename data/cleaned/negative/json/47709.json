@@ -1,0 +1,83 @@
+{
+    "Body":"I have:A Windows XP with internet connection.The .apk file in the computer.A USB cable.A rooted android device with sdcard.I do not have:WiFi connection for my android device.Any file explorer app in android device.",
+    "ViewCount":"1750",
+    "LastActivityDate":"2013-06-21T17:15:17.220",
+    "ClosedDate":"2013-06-21T17:28:12.683",
+    "Title":"How to install apps into android device without internet connection?",
+    "LastEditorUserId":"36306",
+    "Tags":"",
+    "LastEditDate":"2013-06-21T15:36:46.737",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36306",
+    "CreationDate":"2013-06-21T15:23:14.663",
+    "FavoriteCount":null,
+    "Id":"47709",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-21T15:23:14.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8cbd50a-1b29-4199-855d-4f967b942e99",
+            "UserId":"36306",
+            "CloseReasonId":null,
+            "PostId":"47709",
+            "PostHistoryTypeId":"2",
+            "Id":"154627",
+            "Text":"I have: 1. A Windows XP with internet connection. 2. The .apk file in the computer. 3. A USB cable. 4. An android device with sdcard.I do not have: 1. WiFi connection for my android device. 2. **Any file explorer app in android device.**"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-21T15:23:14.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8cbd50a-1b29-4199-855d-4f967b942e99",
+            "UserId":"36306",
+            "CloseReasonId":null,
+            "PostId":"47709",
+            "PostHistoryTypeId":"1",
+            "Id":"154628",
+            "Text":"How to install apps into android device without internet connection?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-21T15:23:14.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8cbd50a-1b29-4199-855d-4f967b942e99",
+            "UserId":"36306",
+            "CloseReasonId":null,
+            "PostId":"47709",
+            "PostHistoryTypeId":"3",
+            "Id":"154629",
+            "Text":""
+        },
+        {
+            "Comment":"Added more information",
+            "CreationDate":"2013-06-21T15:36:46.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7635596-db32-4747-8cb5-7ee9c5469ab3",
+            "UserId":"36306",
+            "CloseReasonId":null,
+            "PostId":"47709",
+            "PostHistoryTypeId":"5",
+            "Id":"154632",
+            "Text":"I have: 1. A Windows XP with internet connection. 2. The .apk file in the computer. 3. A USB cable. 4. A rooted android device with sdcard.I do not have: 1. WiFi connection for my android device. 2. **Any file explorer app in android device.**"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-21T17:28:12.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc1889d9-f854-4354-8c68-130889c35358",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"47709",
+            "PostHistoryTypeId":"10",
+            "Id":"154647",
+            "Text":"{\"OriginalQuestionIds\":[5566],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"So I want to run play some games on my android device. (Not something heavy)I have a Samsung Galaxy Ace GT-S5830i with android 2.3.6.  I followed a tutorial but when I tried to install the apk It says Application Not Installed.And yes , I got the right version.Please Help!",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-04-25T11:28:29.187",
+    "ClosedDate":"2015-04-25T15:38:27.880",
+    "Title":"How to install Flash Player on Samsung Galaxy Ace S5830i?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"96625",
+    "CreationDate":"2015-04-25T11:28:29.187",
+    "FavoriteCount":null,
+    "Id":"106600",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-25T11:28:29.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a2deece-b4dc-4788-ae45-b93b249b4a59",
+            "UserId":"96625",
+            "CloseReasonId":null,
+            "PostId":"106600",
+            "PostHistoryTypeId":"2",
+            "Id":"348878",
+            "Text":"So I want to run play some games on my android device. (Not something heavy)   I have a Samsung Galaxy Ace GT-S5830i with android 2.3.6.  I followed a tutorial but when I tried to install the apk It says Application Not Installed.   And yes , I got the right version.Please Help!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-25T11:28:29.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a2deece-b4dc-4788-ae45-b93b249b4a59",
+            "UserId":"96625",
+            "CloseReasonId":null,
+            "PostId":"106600",
+            "PostHistoryTypeId":"1",
+            "Id":"348879",
+            "Text":"How to install Flash Player on Samsung Galaxy Ace S5830i?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-25T11:28:29.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a2deece-b4dc-4788-ae45-b93b249b4a59",
+            "UserId":"96625",
+            "CloseReasonId":null,
+            "PostId":"106600",
+            "PostHistoryTypeId":"3",
+            "Id":"348880",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-25T15:38:27.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"061a0580-f64f-41f2-bd6b-6e38f8492a4c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"106600",
+            "PostHistoryTypeId":"10",
+            "Id":"348969",
+            "Text":"{\"OriginalQuestionIds\":[22582],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

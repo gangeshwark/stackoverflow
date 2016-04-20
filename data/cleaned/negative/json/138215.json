@@ -1,0 +1,71 @@
+{
+    "Body":"We got a bug report for a media player that is caused by some app (presumably) creating a .nomedia file in \/storage\/sdcard1\/Android\/data. If the file is manually removed, it reappears at some point. Is there a way to find out which app is doing this? The device is a Sony Xperia M2, running stock",
+    "ViewCount":"15",
+    "LastActivityDate":"2016-02-26T23:27:30.777",
+    "ClosedDate":"2016-02-27T08:34:49.090",
+    "Title":"Find out what app is creating .nomedia files",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94982",
+    "CreationDate":"2016-02-26T23:27:30.777",
+    "FavoriteCount":null,
+    "Id":"138215",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T23:27:30.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5c84152-bdc1-467b-a366-7e1e360bf2da",
+            "UserId":"94982",
+            "CloseReasonId":null,
+            "PostId":"138215",
+            "PostHistoryTypeId":"2",
+            "Id":"461389",
+            "Text":"We got a bug report for a media player that is caused by some app (presumably) creating a `.nomedia` file in `\/storage\/sdcard1\/Android\/data`. If the file is manually removed, it reappears at some point. Is there a way to find out which app is doing this? The device is a Sony Xperia M2, running stock"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T23:27:30.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5c84152-bdc1-467b-a366-7e1e360bf2da",
+            "UserId":"94982",
+            "CloseReasonId":null,
+            "PostId":"138215",
+            "PostHistoryTypeId":"1",
+            "Id":"461390",
+            "Text":"Find out what app is creating .nomedia files"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T23:27:30.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5c84152-bdc1-467b-a366-7e1e360bf2da",
+            "UserId":"94982",
+            "CloseReasonId":null,
+            "PostId":"138215",
+            "PostHistoryTypeId":"3",
+            "Id":"461391",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-27T08:34:49.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ca2dcc0-362f-4b17-accc-9466158fd8e5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138215",
+            "PostHistoryTypeId":"10",
+            "Id":"461922",
+            "Text":"{\"OriginalQuestionIds\":[34606],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Is there a way to read aloud the text shown on the screen by apps that do not support text to speech? For instance, it would be very nice to listen to the text shown by the Kindle app if you can't look at the phone all the time, but Amazon doesn't support this for more or less evil reasons. I'm wondering if there is perhaps an app or setting, for instance for blind people, that supports this anyway - preferably with an arbitrary speech engine.",
+    "ViewCount":"508",
+    "LastActivityDate":"2012-08-15T20:29:54.247",
+    "ClosedDate":"2012-10-07T22:50:55.123",
+    "Title":"Text to speech for apps that do not support it?",
+    "LastEditorUserId":"981",
+    "Tags":"",
+    "LastEditDate":"2012-06-07T13:39:18.100",
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15629",
+    "CreationDate":"2012-06-03T18:33:26.027",
+    "FavoriteCount":"1",
+    "Id":"23770",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-03T18:33:26.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"99336132-bba6-4be3-897a-152fb3fd8ad3",
+            "UserId":"15629",
+            "CloseReasonId":null,
+            "PostId":"23770",
+            "PostHistoryTypeId":"2",
+            "Id":"67848",
+            "Text":"Is there an app that can read aloud the text shown on the screen by apps that do not support text to speech? For instance, it would be very nice to listen to the text shown by the Kindle app if you can't look at the phone all the time, but Amazon doesn't support this for more or less evil reasons. Perhaps there is an app for instance for blind people that supports this anyway - preferably with an arbitrary speech engine."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-03T18:33:26.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"99336132-bba6-4be3-897a-152fb3fd8ad3",
+            "UserId":"15629",
+            "CloseReasonId":null,
+            "PostId":"23770",
+            "PostHistoryTypeId":"1",
+            "Id":"67849",
+            "Text":"Text to speech for apps that do not support it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-03T18:33:26.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"99336132-bba6-4be3-897a-152fb3fd8ad3",
+            "UserId":"15629",
+            "CloseReasonId":null,
+            "PostId":"23770",
+            "PostHistoryTypeId":"3",
+            "Id":"67850",
+            "Text":""
+        },
+        {
+            "Comment":"Re-phrase as a problem to be solved instead of a search for an app",
+            "CreationDate":"2012-06-07T13:39:18.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"a53f2c98-3295-45cb-99af-949649f2631b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"23770",
+            "PostHistoryTypeId":"5",
+            "Id":"68311",
+            "Text":"Is there a way to read aloud the text shown on the screen by apps that do not support text to speech? For instance, it would be very nice to listen to the text shown by the Kindle app if you can't look at the phone all the time, but Amazon doesn't support this for more or less evil reasons. I'm wondering if there is perhaps an app or setting, for instance for blind people, that supports this anyway - preferably with an arbitrary speech engine."
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-10-07T22:50:55.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"40ec1766-5f0c-4231-b94a-ebab29ac34f7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"23770",
+            "PostHistoryTypeId":"10",
+            "Id":"91793",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

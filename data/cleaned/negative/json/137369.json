@@ -1,0 +1,71 @@
+{
+    "Body":"I've been reading the news in the US about a court order for Apple to help the FBI bypass the security check present on devices running iOS8+. Since iOS8, Apple has stopped storing encryption keys on the cloud.I'm just wondering how does this apply to Android. I believe Nexus devices that came with Marshmallow out of the box (6P and 5x) have full disk encryption thus these will have the same security as iOS8+ devices.How about those that were upgrade to Marshmallow? I know my G3 was upgraded to Marshmallow but encryption is turned off. Also, does turning it on make a difference? Or perhaps the 6P and 5x has extra hardware so encryption keys aren't stored in the cloud?Thanks for reading and your replies :)",
+    "ViewCount":"16",
+    "LastActivityDate":"2016-02-18T00:12:19.193",
+    "ClosedDate":"2016-02-18T01:37:10.277",
+    "Title":"marshmallow and personal security\/privacy",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99392",
+    "CreationDate":"2016-02-18T00:12:19.193",
+    "FavoriteCount":null,
+    "Id":"137369",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-18T00:12:19.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"02f07cee-5f9e-4b37-b4d3-b78879705c87",
+            "UserId":"99392",
+            "CloseReasonId":null,
+            "PostId":"137369",
+            "PostHistoryTypeId":"2",
+            "Id":"458098",
+            "Text":"I've been reading the [news][1] in the US about a court order for Apple to help the FBI bypass the security check present on devices running iOS8+. Since iOS8, Apple has stopped storing encryption keys on the cloud.I'm just wondering how does this apply to Android. I believe Nexus devices that came with Marshmallow out of the box (6P and 5x) have full disk encryption thus these will have the same security as iOS8+ devices.How about those that were upgrade to Marshmallow? I know my G3 was upgraded to Marshmallow but encryption is turned off. Also, does turning it on make a difference? Or perhaps the 6P and 5x has extra hardware so encryption keys aren't stored in the cloud?Thanks for reading and your replies :)  [1]: http:\/\/www.nbcnews.com\/storyline\/san-bernardino-shooting\/judge-forces-apple-help-unlock-san-bernardino-shooter-iphone-n519701"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-18T00:12:19.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"02f07cee-5f9e-4b37-b4d3-b78879705c87",
+            "UserId":"99392",
+            "CloseReasonId":null,
+            "PostId":"137369",
+            "PostHistoryTypeId":"1",
+            "Id":"458099",
+            "Text":"marshmallow and personal security\/privacy"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-18T00:12:19.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"02f07cee-5f9e-4b37-b4d3-b78879705c87",
+            "UserId":"99392",
+            "CloseReasonId":null,
+            "PostId":"137369",
+            "PostHistoryTypeId":"3",
+            "Id":"458100",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-18T01:37:10.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8582629-e6e7-41fe-b349-4a530f4c15d9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"137369",
+            "PostHistoryTypeId":"10",
+            "Id":"458122",
+            "Text":"{\"OriginalQuestionIds\":[137362],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

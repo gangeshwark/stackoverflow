@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I uninstall applications that are locked by phone vendor?  Is it possible to uninstall stock Sprint apps (such as Sprint TV and Nascar) without rooting the phone?  If so, are there any undesirable side effects?",
+    "ViewCount":"1859",
+    "LastActivityDate":"2010-10-20T07:48:09.793",
+    "ClosedDate":"2011-07-26T17:42:51.367",
+    "Title":"Uninstall Sprint apps without rooting?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"2283",
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"382",
+    "CreationDate":"2010-09-26T03:42:22.930",
+    "FavoriteCount":null,
+    "Id":"1559",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-26T03:42:22.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea05c035-4557-4ced-88b9-4af718c3684a",
+            "UserId":"382",
+            "CloseReasonId":null,
+            "PostId":"1559",
+            "PostHistoryTypeId":"2",
+            "Id":"3028",
+            "Text":"Is it possible to uninstall stock Sprint apps (such as Sprint TV and Nascar) without rooting the phone?  If so, are there any undesirable side effects?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-26T03:42:22.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea05c035-4557-4ced-88b9-4af718c3684a",
+            "UserId":"382",
+            "CloseReasonId":null,
+            "PostId":"1559",
+            "PostHistoryTypeId":"1",
+            "Id":"3029",
+            "Text":"Uninstall Sprint apps without rooting?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-26T03:42:22.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea05c035-4557-4ced-88b9-4af718c3684a",
+            "UserId":"382",
+            "CloseReasonId":null,
+            "PostId":"1559",
+            "PostHistoryTypeId":"3",
+            "Id":"3030",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-07-26T17:42:52.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"4beac9af-6f3c-4221-a9d1-a0b41d7a7354",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"1559",
+            "PostHistoryTypeId":"5",
+            "Id":"29611",
+            "Text":"> **Possible Duplicate:**  > [How can I uninstall applications that are locked by phone vendor?](http:\/\/android.stackexchange.com\/questions\/6851\/how-can-i-uninstall-applications-that-are-locked-by-phone-vendor)  Is it possible to uninstall stock Sprint apps (such as Sprint TV and Nascar) without rooting the phone?  If so, are there any undesirable side effects?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-07-26T17:42:51.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"47d14bd2-ea79-4652-9516-cd4ab860167f",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"1559",
+            "PostHistoryTypeId":"10",
+            "Id":"29612",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

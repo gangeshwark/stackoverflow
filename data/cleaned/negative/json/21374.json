@@ -1,0 +1,71 @@
+{
+    "Body":"I'm trying to capture my Samsung Notes activity for a project documentation. I connected the phone via MHL to HDMI Bridge to a Blackmagic Intensity Extreme box with a Thunderbold connetion into the Mac. I get a green screen displayed with 1080p60 setting, but no image displayed. Capture works with the Samsung Galaxy Nexus in landscape mode. Does anyone have experience with this?",
+    "ViewCount":"149",
+    "LastActivityDate":"2012-04-04T16:11:04.767",
+    "ClosedDate":"2012-12-20T02:11:52.310",
+    "Title":"Notes capture via Blackmagic Intesity Extreme problems",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13980",
+    "CreationDate":"2012-04-04T16:11:04.767",
+    "FavoriteCount":null,
+    "Id":"21374",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-04T16:11:04.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd49df7e-95e0-4fd2-a995-0f165e3aa201",
+            "UserId":"13980",
+            "CloseReasonId":null,
+            "PostId":"21374",
+            "PostHistoryTypeId":"2",
+            "Id":"59855",
+            "Text":"I'm trying to capture my Samsung Notes activity for a project documentation. I connected the phone via MHL to HDMI Bridge to a Blackmagic Intensity Extreme box with a Thunderbold connetion into the Mac. I get a green screen displayed with 1080p60 setting, but no image displayed. Capture works with the Samsung Galaxy Nexus in landscape mode. Does anyone have experience with this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-04T16:11:04.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd49df7e-95e0-4fd2-a995-0f165e3aa201",
+            "UserId":"13980",
+            "CloseReasonId":null,
+            "PostId":"21374",
+            "PostHistoryTypeId":"1",
+            "Id":"59856",
+            "Text":"Notes capture via Blackmagic Intesity Extreme problems"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-04T16:11:04.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd49df7e-95e0-4fd2-a995-0f165e3aa201",
+            "UserId":"13980",
+            "CloseReasonId":null,
+            "PostId":"21374",
+            "PostHistoryTypeId":"3",
+            "Id":"59857",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-20T02:11:52.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"0eae56e4-b50c-4560-87bb-4c079e04c034",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21374",
+            "PostHistoryTypeId":"10",
+            "Id":"107632",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

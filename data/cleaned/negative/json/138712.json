@@ -1,0 +1,71 @@
+{
+    "Body":"in onCreateaButton3 = (ImageButton) findViewById(R.id.imageButton3);SharedPreferences sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);Boolean e = sharedPreferences.getBoolean(\"clicked3\", false);This gets executed when someone clicks on imageButtonpublic void buttonClick2(View v) {    SharedPreferences sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);    Boolean d = sharedPreferences.getBoolean(\"clicked2\", false);    if (!d) {        toggleSound.start();        aButton2.setImageResource(R.drawable.on);        sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);        SharedPreferences.Editor editor = sharedPreferences.edit();        editor.putBoolean(\"clicked2\", true);        editor.commit();    }    if(d){        toggleSound.start();        aButton2.setImageResource(R.drawable.off);        sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);        SharedPreferences.Editor editor = sharedPreferences.edit();        editor = sharedPreferences.edit();        editor.putBoolean(\"clicked2\", false);        editor.commit();    }}",
+    "ViewCount":"14",
+    "LastActivityDate":"2016-03-03T10:56:54.770",
+    "ClosedDate":"2016-03-03T15:49:16.313",
+    "Title":"How to toggle between a .gif image and a static in imageButton's src when someone clicks on it",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154179",
+    "CreationDate":"2016-03-03T10:56:54.770",
+    "FavoriteCount":null,
+    "Id":"138712",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T10:56:54.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb8342cb-838c-412d-8bf1-b64321ba8417",
+            "UserId":"154179",
+            "CloseReasonId":null,
+            "PostId":"138712",
+            "PostHistoryTypeId":"2",
+            "Id":"463643",
+            "Text":"in onCreate    aButton3 = (ImageButton) findViewById(R.id.imageButton3);    SharedPreferences sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);    Boolean e = sharedPreferences.getBoolean(\"clicked3\", false);This gets executed when someone clicks on imageButton    public void buttonClick2(View v) {        SharedPreferences sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);        Boolean d = sharedPreferences.getBoolean(\"clicked2\", false);        if (!d) {            toggleSound.start();            aButton2.setImageResource(R.drawable.on);            sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);            SharedPreferences.Editor editor = sharedPreferences.edit();            editor.putBoolean(\"clicked2\", true);            editor.commit();        }        if(d){            toggleSound.start();            aButton2.setImageResource(R.drawable.off);            sharedPreferences = getSharedPreferences(\"NAME\", Context.MODE_PRIVATE);            SharedPreferences.Editor editor = sharedPreferences.edit();            editor = sharedPreferences.edit();            editor.putBoolean(\"clicked2\", false);            editor.commit();        }    }"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T10:56:54.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb8342cb-838c-412d-8bf1-b64321ba8417",
+            "UserId":"154179",
+            "CloseReasonId":null,
+            "PostId":"138712",
+            "PostHistoryTypeId":"1",
+            "Id":"463644",
+            "Text":"How to toggle between a .gif image and a static in imageButton's src when someone clicks on it"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T10:56:54.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb8342cb-838c-412d-8bf1-b64321ba8417",
+            "UserId":"154179",
+            "CloseReasonId":null,
+            "PostId":"138712",
+            "PostHistoryTypeId":"3",
+            "Id":"463645",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-03T15:49:16.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"cad5d430-7c2e-49df-a9eb-178fc406a3db",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138712",
+            "PostHistoryTypeId":"10",
+            "Id":"463706",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

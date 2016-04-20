@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Unistall a system app without root?  Chrome is the default on Jelly Bean OS. When I bought Nexus 7 tablet it came preinstalled with JB, but when my Galaxy Nexus got upped the old stock browser is still present.How can I get rid of the stock browser on Galaxy Nexus in JB? Is it at all possible?",
+    "ViewCount":"3316",
+    "LastActivityDate":"2012-09-09T13:13:39.263",
+    "ClosedDate":"2012-09-10T07:47:41.237",
+    "Title":"Removing stock browser on Jelly Bean",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"28992",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18690",
+    "CreationDate":"2012-09-08T21:28:30.607",
+    "FavoriteCount":null,
+    "Id":"28987",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-08T21:28:30.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"8266aa10-6f1a-4f54-a253-d85b8b9e0464",
+            "UserId":"18690",
+            "CloseReasonId":null,
+            "PostId":"28987",
+            "PostHistoryTypeId":"2",
+            "Id":"84974",
+            "Text":"Chrome is the default on Jelly Bean OS. When I bought Nexus 7 tablet it came preinstalled with JB, but when my Galaxy Nexus got upped the old stock browser is still present.**How can I get rid of the stock browser on Galaxy Nexus in JB?** Is it at all possible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-08T21:28:30.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"8266aa10-6f1a-4f54-a253-d85b8b9e0464",
+            "UserId":"18690",
+            "CloseReasonId":null,
+            "PostId":"28987",
+            "PostHistoryTypeId":"1",
+            "Id":"84975",
+            "Text":"Removing stock browser on Jelly Bean"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-08T21:28:30.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"8266aa10-6f1a-4f54-a253-d85b8b9e0464",
+            "UserId":"18690",
+            "CloseReasonId":null,
+            "PostId":"28987",
+            "PostHistoryTypeId":"3",
+            "Id":"84976",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-10T07:47:41.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"38006849-b1b5-415a-87b6-7033ec86cb76",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28987",
+            "PostHistoryTypeId":"5",
+            "Id":"85238",
+            "Text":"> **Possible Duplicate:**  > [Unistall a system app without root?](http:\/\/android.stackexchange.com\/questions\/26632\/unistall-a-system-app-without-root)  Chrome is the default on Jelly Bean OS. When I bought Nexus 7 tablet it came preinstalled with JB, but when my Galaxy Nexus got upped the old stock browser is still present.**How can I get rid of the stock browser on Galaxy Nexus in JB?** Is it at all possible?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-10T07:47:41.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"1572111d-75da-4923-9109-9d6b6af88452",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28987",
+            "PostHistoryTypeId":"10",
+            "Id":"85239",
+            "Text":"{\"OriginalQuestionIds\":[26632],\"Voters\":[{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

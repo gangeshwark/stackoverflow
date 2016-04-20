@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Amazon App Store - Location of the downloaded APK  I like to grab the free app of the day but space on my phone is too precious to go though with the install. But I can't stop the download when I do purchase. Where is that download stored and how can I get rid of it?",
+    "ViewCount":"3194",
+    "LastActivityDate":"2012-02-01T18:08:14.077",
+    "ClosedDate":"2012-02-01T18:15:29.070",
+    "Title":"Where are the downloads from the Amazon Appstore stored?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"43",
+    "CreationDate":"2012-02-01T17:57:44.260",
+    "FavoriteCount":null,
+    "Id":"18989",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-01T17:57:44.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"365cecf1-c869-4b21-b55c-4671343f490f",
+            "UserId":"43",
+            "CloseReasonId":null,
+            "PostId":"18989",
+            "PostHistoryTypeId":"2",
+            "Id":"52378",
+            "Text":"I like to grab the free app of the day but space on my phone is too precious to go though with the install. But I can't stop the download when I do purchase. Where is that download stored and how can I get rid of it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-01T17:57:44.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"365cecf1-c869-4b21-b55c-4671343f490f",
+            "UserId":"43",
+            "CloseReasonId":null,
+            "PostId":"18989",
+            "PostHistoryTypeId":"1",
+            "Id":"52379",
+            "Text":"Where are the downloads from the Amazon Appstore stored?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-01T17:57:44.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"365cecf1-c869-4b21-b55c-4671343f490f",
+            "UserId":"43",
+            "CloseReasonId":null,
+            "PostId":"18989",
+            "PostHistoryTypeId":"3",
+            "Id":"52380",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-02-01T18:15:30.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb25f75e-b93f-4d25-a5ae-500f92ee4c79",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18989",
+            "PostHistoryTypeId":"5",
+            "Id":"52383",
+            "Text":"> **Possible Duplicate:**  > [Amazon App Store - Location of the downloaded APK](http:\/\/android.stackexchange.com\/questions\/10336\/amazon-app-store-location-of-the-downloaded-apk)  I like to grab the free app of the day but space on my phone is too precious to go though with the install. But I can't stop the download when I do purchase. Where is that download stored and how can I get rid of it?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-02-01T18:15:29.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"b25f3475-8545-40a8-b68b-a887d127d19a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"18989",
+            "PostHistoryTypeId":"10",
+            "Id":"52384",
+            "Text":"{\"OriginalQuestionIds\":[10336],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

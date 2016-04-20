@@ -1,0 +1,71 @@
+{
+    "Body":"As android is based on a Linux core, is it possible to use POSIX System Programming tools, techniques and libraries to program and customize the environemnt like I would have done on my Ubuntu for example ?",
+    "ViewCount":"57",
+    "LastActivityDate":"2015-07-16T02:39:33.997",
+    "ClosedDate":"2015-07-16T13:39:33.087",
+    "Title":"Android System Programming",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"115442",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117043",
+    "CreationDate":"2015-07-16T02:22:57.747",
+    "FavoriteCount":null,
+    "Id":"115441",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-16T02:22:57.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ff99a12-d400-4fd3-a489-b278cf578896",
+            "UserId":"117043",
+            "CloseReasonId":null,
+            "PostId":"115441",
+            "PostHistoryTypeId":"2",
+            "Id":"379033",
+            "Text":"As android is based on a Linux core, is it possible to use POSIX System Programming tools, techniques and libraries to program and customize the environemnt like I would have done on my Ubuntu for example ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-16T02:22:57.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ff99a12-d400-4fd3-a489-b278cf578896",
+            "UserId":"117043",
+            "CloseReasonId":null,
+            "PostId":"115441",
+            "PostHistoryTypeId":"1",
+            "Id":"379034",
+            "Text":"Android System Programming"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-16T02:22:57.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ff99a12-d400-4fd3-a489-b278cf578896",
+            "UserId":"117043",
+            "CloseReasonId":null,
+            "PostId":"115441",
+            "PostHistoryTypeId":"3",
+            "Id":"379035",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-16T13:39:33.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebadceae-f6a3-4313-8ac5-ce1a88363d05",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"115441",
+            "PostHistoryTypeId":"10",
+            "Id":"379212",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

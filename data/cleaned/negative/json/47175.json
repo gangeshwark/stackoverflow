@@ -1,0 +1,71 @@
+{
+    "Body":"Have root. Tried \"autorun manager\" app which gives option to  display system apps & uninstall, but still said \"uninstall not successful\"",
+    "ViewCount":"214",
+    "LastActivityDate":"2013-06-13T09:31:05.280",
+    "ClosedDate":"2013-06-13T13:45:08.867",
+    "Title":"How do I uninstall a system app with root?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14170",
+    "CreationDate":"2013-06-13T07:51:41.037",
+    "FavoriteCount":null,
+    "Id":"47175",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-13T07:51:41.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5488145-bbf1-4d2e-beeb-1aef1adbc09c",
+            "UserId":"14170",
+            "CloseReasonId":null,
+            "PostId":"47175",
+            "PostHistoryTypeId":"2",
+            "Id":"152735",
+            "Text":"Have root. Tried \"autorun manager\" app which gives option to  display system apps & uninstall, but still said \"uninstall not successful\""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-13T07:51:41.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5488145-bbf1-4d2e-beeb-1aef1adbc09c",
+            "UserId":"14170",
+            "CloseReasonId":null,
+            "PostId":"47175",
+            "PostHistoryTypeId":"1",
+            "Id":"152736",
+            "Text":"How do I uninstall a system app with root?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-13T07:51:41.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5488145-bbf1-4d2e-beeb-1aef1adbc09c",
+            "UserId":"14170",
+            "CloseReasonId":null,
+            "PostId":"47175",
+            "PostHistoryTypeId":"3",
+            "Id":"152737",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-13T13:45:08.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"c66c2d80-173d-451c-8426-3cabafb5159d",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"47175",
+            "PostHistoryTypeId":"10",
+            "Id":"152817",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

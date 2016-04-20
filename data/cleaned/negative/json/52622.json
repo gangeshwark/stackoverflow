@@ -1,0 +1,83 @@
+{
+    "Body":"How can I install an older version of Google Chrome on Android?I need older versions in order to test how web applications perform in each version.",
+    "ViewCount":"31",
+    "LastActivityDate":"2013-09-04T10:32:18.010",
+    "ClosedDate":"2013-09-05T07:07:40.003",
+    "Title":"How to install an older version of Google Chrome on Android?",
+    "LastEditorUserId":"40734",
+    "Tags":"",
+    "LastEditDate":"2013-09-04T10:32:18.010",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"40734",
+    "CreationDate":"2013-09-04T08:04:38.303",
+    "FavoriteCount":null,
+    "Id":"52622",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-04T08:04:38.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"7db407b1-f7be-4a91-a510-e247c3dffc84",
+            "UserId":"40734",
+            "CloseReasonId":null,
+            "PostId":"52622",
+            "PostHistoryTypeId":"2",
+            "Id":"173166",
+            "Text":"How can I install an older version of Google Chrome on Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-04T08:04:38.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"7db407b1-f7be-4a91-a510-e247c3dffc84",
+            "UserId":"40734",
+            "CloseReasonId":null,
+            "PostId":"52622",
+            "PostHistoryTypeId":"1",
+            "Id":"173167",
+            "Text":"How to install an older version of Google Chrome on Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-04T08:04:38.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"7db407b1-f7be-4a91-a510-e247c3dffc84",
+            "UserId":"40734",
+            "CloseReasonId":null,
+            "PostId":"52622",
+            "PostHistoryTypeId":"3",
+            "Id":"173168",
+            "Text":""
+        },
+        {
+            "Comment":"explained why this is necessary",
+            "CreationDate":"2013-09-04T10:32:18.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"55371193-71f1-4ff1-abc6-8962f4bc7ec6",
+            "UserId":"40734",
+            "CloseReasonId":null,
+            "PostId":"52622",
+            "PostHistoryTypeId":"5",
+            "Id":"173203",
+            "Text":"How can I install an older version of Google Chrome on Android?I need older versions in order to test how web applications perform in each version."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-05T07:07:40.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"781aa6f2-353f-4225-83ad-976c812c27b0",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"52622",
+            "PostHistoryTypeId":"10",
+            "Id":"173412",
+            "Text":"{\"OriginalQuestionIds\":[14910],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

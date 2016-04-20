@@ -1,0 +1,83 @@
+{
+    "Body":"I want to root an emulator so that I can have proper way to implement it on the real device. Is there any way to root emulator?",
+    "ViewCount":"14",
+    "LastActivityDate":"2014-10-07T07:40:17.200",
+    "ClosedDate":"2014-10-07T17:24:07.220",
+    "Title":"How to root emulator",
+    "LastEditorUserId":"71598",
+    "Tags":"",
+    "LastEditDate":"2014-10-07T07:40:17.200",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71598",
+    "CreationDate":"2014-10-07T07:32:41.023",
+    "FavoriteCount":null,
+    "Id":"84265",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-07T07:32:41.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"178c580d-5049-424e-b500-7cc5b89b53f7",
+            "UserId":"71598",
+            "CloseReasonId":null,
+            "PostId":"84265",
+            "PostHistoryTypeId":"2",
+            "Id":"276534",
+            "Text":"I want root an emulator so that I can have proper way to implement it on the real device. Is there any way to root emulator?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-07T07:32:41.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"178c580d-5049-424e-b500-7cc5b89b53f7",
+            "UserId":"71598",
+            "CloseReasonId":null,
+            "PostId":"84265",
+            "PostHistoryTypeId":"1",
+            "Id":"276535",
+            "Text":"How to root emulator"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-07T07:32:41.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"178c580d-5049-424e-b500-7cc5b89b53f7",
+            "UserId":"71598",
+            "CloseReasonId":null,
+            "PostId":"84265",
+            "PostHistoryTypeId":"3",
+            "Id":"276536",
+            "Text":""
+        },
+        {
+            "Comment":"added 3 characters in body",
+            "CreationDate":"2014-10-07T07:40:17.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"500bf581-ad4b-4eb3-95b8-26a12a63d9e7",
+            "UserId":"71598",
+            "CloseReasonId":null,
+            "PostId":"84265",
+            "PostHistoryTypeId":"5",
+            "Id":"276542",
+            "Text":"I want to root an emulator so that I can have proper way to implement it on the real device. Is there any way to root emulator?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-07T17:24:07.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"73af5d09-86e4-4498-92ac-5b0cfc54d3a1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84265",
+            "PostHistoryTypeId":"10",
+            "Id":"276686",
+            "Text":"{\"OriginalQuestionIds\":[4067],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

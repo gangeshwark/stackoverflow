@@ -1,0 +1,71 @@
+{
+    "Body":"I tried to develop apps in standard ADT - but it is very slow to respond to my clicks on the virtual smartphone..Are there other FASTER alternative IDEs to ADT and better simulator coming with it?",
+    "ViewCount":"186",
+    "LastActivityDate":"2014-09-09T06:08:30.280",
+    "ClosedDate":"2014-09-09T14:14:58.987",
+    "Title":"What are alternative IDEs to ADT eclipse ? the emulator in adt eclipse is VERY SLOW",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"72760",
+    "CreationDate":"2014-09-09T05:54:04.237",
+    "FavoriteCount":null,
+    "Id":"82229",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-09T05:54:04.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d9225fb-9d86-4d10-beb5-c6157090dd77",
+            "UserId":"72760",
+            "CloseReasonId":null,
+            "PostId":"82229",
+            "PostHistoryTypeId":"2",
+            "Id":"269345",
+            "Text":"I tried to develop apps in standard ADT - but it is very slow to respond to my clicks on the virtual smartphone..Are there other FASTER alternative IDEs to ADT and better simulator coming with it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-09T05:54:04.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d9225fb-9d86-4d10-beb5-c6157090dd77",
+            "UserId":"72760",
+            "CloseReasonId":null,
+            "PostId":"82229",
+            "PostHistoryTypeId":"1",
+            "Id":"269346",
+            "Text":"What are alternative IDEs to ADT eclipse ? the emulator in adt eclipse is VERY SLOW"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-09T05:54:04.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d9225fb-9d86-4d10-beb5-c6157090dd77",
+            "UserId":"72760",
+            "CloseReasonId":null,
+            "PostId":"82229",
+            "PostHistoryTypeId":"3",
+            "Id":"269347",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-09T14:14:58.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"d2cf4cc0-46d1-4e91-b40c-a7fd0222f708",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"82229",
+            "PostHistoryTypeId":"10",
+            "Id":"269449",
+            "Text":"{\"OriginalQuestionIds\":[12831],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I want to upgrade my s2 to lollipop but before that I want to backup my stock rom so that if in future I can reinstall it. Even tell me about best method of rooting I9100 and from where I can download lollipop for i9100. Currently I am running jellybean 4.1.2 version on my s2.You can also suggest me any other good ROM.",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-03-27T03:20:30.097",
+    "ClosedDate":"2015-03-26T20:36:31.257",
+    "Title":"Best custom rom for i9100?",
+    "LastEditorUserId":"99787",
+    "Tags":"",
+    "LastEditDate":"2015-03-27T03:20:30.097",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99787",
+    "CreationDate":"2015-03-26T19:57:14.960",
+    "FavoriteCount":null,
+    "Id":"103676",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T19:57:14.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"9880126a-eb59-49e3-b4d2-2e90b2bf6d10",
+            "UserId":"99787",
+            "CloseReasonId":null,
+            "PostId":"103676",
+            "PostHistoryTypeId":"2",
+            "Id":"338146",
+            "Text":"I want to upgrade my s2 to lollipop but before that I want to backup my stock rom so that if in future I can reinstall it. Even tell me about best method of rooting I9100 and from where I can download lollipop for i9100. Currently I am running jellybean 4.1.2 version on my s2.You can also suggest me any other good ROM."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T19:57:14.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"9880126a-eb59-49e3-b4d2-2e90b2bf6d10",
+            "UserId":"99787",
+            "CloseReasonId":null,
+            "PostId":"103676",
+            "PostHistoryTypeId":"1",
+            "Id":"338147",
+            "Text":"How to backup stock rom in i9100?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T19:57:14.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"9880126a-eb59-49e3-b4d2-2e90b2bf6d10",
+            "UserId":"99787",
+            "CloseReasonId":null,
+            "PostId":"103676",
+            "PostHistoryTypeId":"3",
+            "Id":"338148",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-26T20:36:31.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9c7da7a-c3c3-45be-a819-4ee3b917198b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"103676",
+            "PostHistoryTypeId":"10",
+            "Id":"338158",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2015-03-27T03:20:30.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"37446bd1-b817-42cc-a130-9b5ec593f934",
+            "UserId":"99787",
+            "CloseReasonId":null,
+            "PostId":"103676",
+            "PostHistoryTypeId":"4",
+            "Id":"338289",
+            "Text":"Best custom rom for i9100?"
+        }
+    ]
+}

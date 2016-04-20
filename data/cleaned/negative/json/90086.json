@@ -1,0 +1,71 @@
+{
+    "Body":"I have sold my old android mobile to a person and made sure that the mobile was completely formatted.But, when I try to view the list of devices in Play Store it is listing both my new and old mobile phones.Is it possible to remove this old phone from the list so that the other person doesn't use my account?",
+    "ViewCount":"113",
+    "LastActivityDate":"2014-12-08T05:12:42.690",
+    "ClosedDate":"2014-12-08T15:06:35.280",
+    "Title":"How to delete a Play store accpunt through system",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"83225",
+    "CreationDate":"2014-12-08T04:22:00.190",
+    "FavoriteCount":"0",
+    "Id":"90086",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-08T04:22:00.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b512437-33b3-4b5b-8efe-04a08660f9ed",
+            "UserId":"83225",
+            "CloseReasonId":null,
+            "PostId":"90086",
+            "PostHistoryTypeId":"2",
+            "Id":"296971",
+            "Text":"I have sold my old android mobile to a person and made sure that the mobile was completely formatted.But, when I try to view the list of devices in Play Store it is listing both my new and old mobile phones.Is it possible to remove this old phone from the list so that the other person doesn't use my account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-08T04:22:00.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b512437-33b3-4b5b-8efe-04a08660f9ed",
+            "UserId":"83225",
+            "CloseReasonId":null,
+            "PostId":"90086",
+            "PostHistoryTypeId":"1",
+            "Id":"296972",
+            "Text":"How to delete a Play store accpunt through system"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-08T04:22:00.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b512437-33b3-4b5b-8efe-04a08660f9ed",
+            "UserId":"83225",
+            "CloseReasonId":null,
+            "PostId":"90086",
+            "PostHistoryTypeId":"3",
+            "Id":"296973",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-08T15:06:35.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"b81add08-8546-411a-a058-2582dc495467",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"90086",
+            "PostHistoryTypeId":"10",
+            "Id":"297160",
+            "Text":"{\"OriginalQuestionIds\":[41331],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

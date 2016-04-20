@@ -1,0 +1,71 @@
+{
+    "Body":"I'm trying to figure out what's using my battery life by looking at the battery page in Settings. (I don't know if this screen is Cyanogen specific, or a stock Android feature.) Here's a recent screenshot of that page:Transcript:  Current battery level: 67%    Use since last full charge:      Android System: 3%  Screen: 2%  Cell Standby: 2%  Ironclad Tactics: 2%  Google App: 1%  Android OS: 1%  Google Play Services: 1%  (It may not be clear from the screenshot, but that's the end of the list: there's nothing off-screen.) I don't know whether those percentages are supposed to add up to 100% (logical) or to 33% (the amount of battery used so far), but either way, they actually add up to 12%. No amount of rounding error can explain that. At best, 2\/3 of my battery usage is totally unaccounted for.This is a common occurrence. I have another screenshot where my battery level is 18%, but the sum of all the used apps is only 44%.What could be using up so much battery that wouldn't show on this list? Or alternately, could some battery usage pattern could cause this screen to grossly underestimate usage of a particular app? Or could a faulty battery, that drains more quickly than it should for a given load, cause this?",
+    "ViewCount":"378",
+    "LastActivityDate":"2015-07-28T08:09:45.283",
+    "ClosedDate":"2015-07-28T14:35:23.260",
+    "Title":"Why don't the percentages on the battery chart add up to anywhere near 100%?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94287",
+    "CreationDate":"2015-07-28T05:55:09.230",
+    "FavoriteCount":null,
+    "Id":"116525",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T05:55:09.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"e72b431f-e9ba-452a-b457-9e8a7304a4a8",
+            "UserId":"94287",
+            "CloseReasonId":null,
+            "PostId":"116525",
+            "PostHistoryTypeId":"2",
+            "Id":"383257",
+            "Text":"I'm trying to figure out what's using my battery life by looking at the battery page in Settings. (I don't know if this screen is Cyanogen specific, or a stock Android feature.) Here's a recent screenshot of that page:[![Battery usage chart][1]][2]Transcript:> **Current battery level: 67%**> > Use since last full charge:> >   - Android System: 3%>   - Screen: 2%>   - Cell Standby: 2%>   - Ironclad Tactics: 2%>   - Google App: 1%>   - Android OS: 1%>   - Google Play Services: 1%(It may not be clear from the screenshot, but that's the end of the list: there's nothing off-screen.) I don't know whether those percentages are supposed to add up to 100% (logical) or to 33% (the amount of battery used so far), but either way, they actually add up to 12%. No amount of rounding error can explain that. At best, 2\/3 of my battery usage is totally unaccounted for.This is a common occurrence. I have another screenshot where my battery level is 18%, but the sum of all the used apps is only 44%.What could be using up so much battery that wouldn't show on this list? Or alternately, could some battery usage pattern could cause this screen to grossly underestimate usage of a particular app? Or could a faulty battery, that drains more quickly than it should for a given load, cause this?  [1]: http:\/\/i.stack.imgur.com\/mJQNZm.png  [2]: http:\/\/i.stack.imgur.com\/mJQNZ.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T05:55:09.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"e72b431f-e9ba-452a-b457-9e8a7304a4a8",
+            "UserId":"94287",
+            "CloseReasonId":null,
+            "PostId":"116525",
+            "PostHistoryTypeId":"1",
+            "Id":"383258",
+            "Text":"Why don't the percentages on the battery chart add up to anywhere near 100%?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T05:55:09.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"e72b431f-e9ba-452a-b457-9e8a7304a4a8",
+            "UserId":"94287",
+            "CloseReasonId":null,
+            "PostId":"116525",
+            "PostHistoryTypeId":"3",
+            "Id":"383259",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-28T14:35:23.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"3eb7b132-3793-40d4-8475-85811255bed4",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"116525",
+            "PostHistoryTypeId":"10",
+            "Id":"383405",
+            "Text":"{\"OriginalQuestionIds\":[106921],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

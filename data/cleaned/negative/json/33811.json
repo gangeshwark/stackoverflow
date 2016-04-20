@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to check which app uses GPS on Galaxy Nexus?  I have the same question as this one, except the answers provided do not work with Jelly Bean. The first answer requires an app that no longer exists - there is an app called Spare Parts+ but it does not provide GPS usage info.Using the *#*#4636#*#* code does take me to the android test mode, but it does not provide GPS usage info.Something I have installed or updated recently is initiating a GPS lookup every couple of minutes - the GPS symbol appears in the status bar.  I have an associated battery drain, which may be caused by something else, however I want to eliminate the GPS polling as a source.I have looked at logcat, but the only PID that references the GPS is the android system pid, so this tells me that the GPS was accessed, but not which app triggered the lookup.I have been through some trial and error to figure out which app it is, but without any luck.  I am looking for a more categorical way of determining which app is requesting GPS.This is on a Galaxy S2 running 4.1.2",
+    "ViewCount":"29",
+    "LastActivityDate":"2012-11-21T03:44:28.250",
+    "ClosedDate":"2012-11-27T09:56:55.223",
+    "Title":"How do I determine which app is accessing GPS in Jelly Bean",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9549",
+    "CreationDate":"2012-11-21T03:44:28.250",
+    "FavoriteCount":"1",
+    "Id":"33811",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-21T03:44:28.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c0b5c5f-7956-4ddc-ad5c-eaa059096e3a",
+            "UserId":"9549",
+            "CloseReasonId":null,
+            "PostId":"33811",
+            "PostHistoryTypeId":"2",
+            "Id":"100245",
+            "Text":"I have the same question as [this][1] one, except the answers provided do not work with Jelly Bean. The first answer requires an app that no longer exists - there is an app called Spare Parts+ but it does not provide GPS usage info.Using the `*#*#4636#*#*` code does take me to the android test mode, but it does not provide GPS usage info.Something I have installed or updated recently is initiating a GPS lookup every couple of minutes - the GPS symbol appears in the status bar.  I have an associated battery drain, which may be caused by something else, however I want to eliminate the GPS polling as a source.I have looked at logcat, but the only PID that references the GPS is the android system pid, so this tells me that the GPS was accessed, but not which app triggered the lookup.I have been through some trial and error to figure out which app it is, but without any luck.  I am looking for a more categorical way of determining which app is requesting GPS.This is on a Galaxy S2 running 4.1.2  [1]: http:\/\/android.stackexchange.com\/questions\/3858\/how-can-i-determine-which-app-is-accessing-gps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-21T03:44:28.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c0b5c5f-7956-4ddc-ad5c-eaa059096e3a",
+            "UserId":"9549",
+            "CloseReasonId":null,
+            "PostId":"33811",
+            "PostHistoryTypeId":"1",
+            "Id":"100246",
+            "Text":"How do I determine which app is accessing GPS in Jelly Bean"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-21T03:44:28.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c0b5c5f-7956-4ddc-ad5c-eaa059096e3a",
+            "UserId":"9549",
+            "CloseReasonId":null,
+            "PostId":"33811",
+            "PostHistoryTypeId":"3",
+            "Id":"100247",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-27T09:56:55.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"96402fe1-87eb-4c80-ba81-ec31dd80c5f3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33811",
+            "PostHistoryTypeId":"5",
+            "Id":"101458",
+            "Text":"> **Possible Duplicate:**  > [How to check which app uses GPS on Galaxy Nexus?](http:\/\/android.stackexchange.com\/questions\/23396\/how-to-check-which-app-uses-gps-on-galaxy-nexus)  I have the same question as [this][1] one, except the answers provided do not work with Jelly Bean. The first answer requires an app that no longer exists - there is an app called Spare Parts+ but it does not provide GPS usage info.Using the `*#*#4636#*#*` code does take me to the android test mode, but it does not provide GPS usage info.Something I have installed or updated recently is initiating a GPS lookup every couple of minutes - the GPS symbol appears in the status bar.  I have an associated battery drain, which may be caused by something else, however I want to eliminate the GPS polling as a source.I have looked at logcat, but the only PID that references the GPS is the android system pid, so this tells me that the GPS was accessed, but not which app triggered the lookup.I have been through some trial and error to figure out which app it is, but without any luck.  I am looking for a more categorical way of determining which app is requesting GPS.This is on a Galaxy S2 running 4.1.2  [1]: http:\/\/android.stackexchange.com\/questions\/3858\/how-can-i-determine-which-app-is-accessing-gps"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-27T09:56:55.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a3c3ac3-30ba-4080-beb8-f5f1b06d82bb",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33811",
+            "PostHistoryTypeId":"10",
+            "Id":"101459",
+            "Text":"{\"OriginalQuestionIds\":[23396],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

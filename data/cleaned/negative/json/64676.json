@@ -1,0 +1,71 @@
+{
+    "Body":"I've been flashing ROMs but I don't really see the difference between them. I'm on KitKat 4.4.2 for the Nexus 4.",
+    "ViewCount":"2581",
+    "LastActivityDate":"2014-03-03T10:27:09.503",
+    "ClosedDate":"2014-03-03T13:46:55.613",
+    "Title":"What is the difference between AOSP and CM\/AOKP?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54203",
+    "CreationDate":"2014-03-03T05:42:26.253",
+    "FavoriteCount":null,
+    "Id":"64676",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-03T05:42:26.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9ce724c-6bc4-4f66-8965-d63c1041143a",
+            "UserId":"54203",
+            "CloseReasonId":null,
+            "PostId":"64676",
+            "PostHistoryTypeId":"2",
+            "Id":"220103",
+            "Text":"I've been flashing ROMs but I don't really see the difference between them. I'm on KitKat 4.4.2 for the Nexus 4."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-03T05:42:26.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9ce724c-6bc4-4f66-8965-d63c1041143a",
+            "UserId":"54203",
+            "CloseReasonId":null,
+            "PostId":"64676",
+            "PostHistoryTypeId":"1",
+            "Id":"220104",
+            "Text":"What is the difference between AOSP and CM\/AOKP?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-03T05:42:26.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9ce724c-6bc4-4f66-8965-d63c1041143a",
+            "UserId":"54203",
+            "CloseReasonId":null,
+            "PostId":"64676",
+            "PostHistoryTypeId":"3",
+            "Id":"220105",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-03T13:46:55.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"205bee2b-3256-45b2-8676-24e8a478956b",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"64676",
+            "PostHistoryTypeId":"10",
+            "Id":"220230",
+            "Text":"{\"OriginalQuestionIds\":[50491],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

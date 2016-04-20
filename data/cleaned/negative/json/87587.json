@@ -1,0 +1,71 @@
+{
+    "Body":"Does anyone know if my android device manager says accurate to one mile if it could really be off by like 60+ miles. My husband claims to have been in town But his phones device manager says otherwise.it shows him not in my town but 65 miles away in the large city near us.",
+    "ViewCount":"12",
+    "LastActivityDate":"2014-11-13T16:49:06.440",
+    "ClosedDate":"2014-11-13T18:40:36.527",
+    "Title":"android location accuracy?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79994",
+    "CreationDate":"2014-11-13T16:49:06.440",
+    "FavoriteCount":null,
+    "Id":"87587",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T16:49:06.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"622db47a-0fdd-4e36-ac1c-f517a8f79f11",
+            "UserId":"79994",
+            "CloseReasonId":null,
+            "PostId":"87587",
+            "PostHistoryTypeId":"2",
+            "Id":"288094",
+            "Text":"Does anyone know if my android device manager says accurate to one mile if it could really be off by like 60+ miles. My husband claims to have been in town But his phones device manager says otherwise.it shows him not in my town but 65 miles away in the large city near us."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T16:49:06.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"622db47a-0fdd-4e36-ac1c-f517a8f79f11",
+            "UserId":"79994",
+            "CloseReasonId":null,
+            "PostId":"87587",
+            "PostHistoryTypeId":"1",
+            "Id":"288095",
+            "Text":"android location accuracy?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T16:49:06.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"622db47a-0fdd-4e36-ac1c-f517a8f79f11",
+            "UserId":"79994",
+            "CloseReasonId":null,
+            "PostId":"87587",
+            "PostHistoryTypeId":"3",
+            "Id":"288096",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-13T18:40:36.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"bde15cd8-6152-4d85-8db3-6e0d31395ad0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"87587",
+            "PostHistoryTypeId":"10",
+            "Id":"288122",
+            "Text":"{\"OriginalQuestionIds\":[44608],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

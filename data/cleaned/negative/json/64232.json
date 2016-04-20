@@ -1,0 +1,71 @@
+{
+    "Body":"I am working on a project where a .Net application stores data on phones SD card. I need to read the data and display in notification. But the problem is that my application Can't read the sd card when my phone is connected in Mass Storage mode. And .Net application can't store data im MTP mode. I dont want my android device to detach from the PC but want to read the SD card.",
+    "ViewCount":"89",
+    "LastActivityDate":"2014-02-24T10:46:26.640",
+    "ClosedDate":"2014-02-24T13:49:42.793",
+    "Title":"is there any way to read the sd card when phone connected to PC in Mass Storage Mode",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"64233",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"53389",
+    "CreationDate":"2014-02-24T10:29:26.377",
+    "FavoriteCount":null,
+    "Id":"64232",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-24T10:29:26.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"4044c594-bdea-4db1-91c7-1ebcf161f890",
+            "UserId":"53389",
+            "CloseReasonId":null,
+            "PostId":"64232",
+            "PostHistoryTypeId":"2",
+            "Id":"218373",
+            "Text":"I am working on a project where a .Net application stores data on phones SD card. I need to read the data and display in notification. But the problem is that my application Can't read the sd card when my phone is connected in Mass Storage mode. And .Net application can't store data im MTP mode. I dont want my android device to detach from the PC but want to read the SD card."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-24T10:29:26.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"4044c594-bdea-4db1-91c7-1ebcf161f890",
+            "UserId":"53389",
+            "CloseReasonId":null,
+            "PostId":"64232",
+            "PostHistoryTypeId":"1",
+            "Id":"218374",
+            "Text":"is there any way to read the sd card when phone connected to PC in Mass Storage Mode"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-24T10:29:26.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"4044c594-bdea-4db1-91c7-1ebcf161f890",
+            "UserId":"53389",
+            "CloseReasonId":null,
+            "PostId":"64232",
+            "PostHistoryTypeId":"3",
+            "Id":"218375",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-02-24T13:49:42.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a88dead-e389-4191-9db1-639ee4a8c1e6",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"64232",
+            "PostHistoryTypeId":"10",
+            "Id":"218450",
+            "Text":"{\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

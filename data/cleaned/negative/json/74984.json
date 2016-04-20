@@ -1,0 +1,83 @@
+{
+    "Body":"Can someone write or link to a clear comparison of all of Google's TV products?I have the original Logitech Revue, I have a Chromecast dongle, and now there is Android TV.What are the use-cases of each? Why 3? ",
+    "ViewCount":"3147",
+    "LastActivityDate":"2014-06-27T18:07:33.173",
+    "ClosedDate":"2014-06-29T12:13:28.893",
+    "Title":"Google TV vs Android TV vs Chromecast",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64988",
+    "CreationDate":"2014-06-27T07:41:34.413",
+    "FavoriteCount":null,
+    "Id":"74984",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-27T07:41:34.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f273cb8-8e49-4028-8c79-46ed71f296bd",
+            "UserId":"64988",
+            "CloseReasonId":null,
+            "PostId":"74984",
+            "PostHistoryTypeId":"2",
+            "Id":"249146",
+            "Text":"Can someone write or link to a clear comparison of all of Google's TV products?I have the original Logitech Revue, I have a Chromecast dongle, and now there is Android TV.What are the use-cases of each? Why 3? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-27T07:41:34.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f273cb8-8e49-4028-8c79-46ed71f296bd",
+            "UserId":"64988",
+            "CloseReasonId":null,
+            "PostId":"74984",
+            "PostHistoryTypeId":"1",
+            "Id":"249147",
+            "Text":"Google TV vs Android TV vs Chromecast"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-27T07:41:34.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f273cb8-8e49-4028-8c79-46ed71f296bd",
+            "UserId":"64988",
+            "CloseReasonId":null,
+            "PostId":"74984",
+            "PostHistoryTypeId":"3",
+            "Id":"249148",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/482657616569839617",
+            "CreationDate":"2014-06-27T22:51:57.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"e95e47f6-d3c7-41eb-8d4e-d34ee348d927",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"74984",
+            "PostHistoryTypeId":"25",
+            "Id":"249360",
+            "Text":null
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2014-06-29T12:13:28.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2356ade-4a29-462b-afd1-f38b7c3f6d02",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"74984",
+            "PostHistoryTypeId":"10",
+            "Id":"249693",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

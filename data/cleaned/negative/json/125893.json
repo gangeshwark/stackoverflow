@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Xiomi Redmi HM1SW   with android 4.3 and MIUI.I notice one month ago that some process is installing apps in my desktop that I don't selected. How can I disable this option? or kill this malware app?Thanks,",
+    "ViewCount":"89",
+    "LastActivityDate":"2015-10-19T00:58:04.287",
+    "ClosedDate":"2015-10-19T04:58:34.943",
+    "Title":"Someone is installing apps in my android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"126356",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131916",
+    "CreationDate":"2015-10-14T06:43:52.710",
+    "FavoriteCount":null,
+    "Id":"125893",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-14T06:43:52.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"b62ffecb-2f05-41e5-9126-a0ce49330897",
+            "UserId":"131916",
+            "CloseReasonId":null,
+            "PostId":"125893",
+            "PostHistoryTypeId":"2",
+            "Id":"412835",
+            "Text":"I have a Xiomi Redmi HM1SW   with android 4.3 and MIUI.I notice one month ago that some process is installing apps in my desktop that I don't selected. How can I disable this option? or kill this malware app?Thanks,"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-14T06:43:52.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"b62ffecb-2f05-41e5-9126-a0ce49330897",
+            "UserId":"131916",
+            "CloseReasonId":null,
+            "PostId":"125893",
+            "PostHistoryTypeId":"1",
+            "Id":"412836",
+            "Text":"Someone is installing apps in my android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-14T06:43:52.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"b62ffecb-2f05-41e5-9126-a0ce49330897",
+            "UserId":"131916",
+            "CloseReasonId":null,
+            "PostId":"125893",
+            "PostHistoryTypeId":"3",
+            "Id":"412837",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-10-19T04:58:34.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b82240c-0f2b-443a-9cb0-f3c7602b1d86",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"125893",
+            "PostHistoryTypeId":"10",
+            "Id":"414653",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

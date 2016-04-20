@@ -1,0 +1,83 @@
+{
+    "Body":"I'm involved in a project that will deploy approximately 400 android tablets. All the devices are on the same network. Is there an easy way to centrally manage the following:Creating and updating policies to restrict users from launching apps or updatesUpdate a custom written application Set device into kiosk mode and auto start an appAny help would be appreciated. ",
+    "ViewCount":"245",
+    "LastActivityDate":"2015-03-11T00:37:32.753",
+    "ClosedDate":"2015-03-11T06:36:16.190",
+    "Title":"Centrally managing large number of android tablets",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-03-10T17:38:30.037",
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97562",
+    "CreationDate":"2015-03-10T17:05:08.727",
+    "FavoriteCount":null,
+    "Id":"102106",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-10T17:05:08.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b9e8b22-59c4-4a68-9294-b46db863bb8c",
+            "UserId":"97562",
+            "CloseReasonId":null,
+            "PostId":"102106",
+            "PostHistoryTypeId":"2",
+            "Id":"332377",
+            "Text":"I'm involved in a project that will deploy approximately 400 android tablets. All the devices are on the same network. Is there an easy way to centrally manage the following:Creating and updating policies to restrict users from launching apps or updatesUpdate a custom written application Set device into kiosk mode and auto start an appAny help would be appreciated. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-10T17:05:08.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b9e8b22-59c4-4a68-9294-b46db863bb8c",
+            "UserId":"97562",
+            "CloseReasonId":null,
+            "PostId":"102106",
+            "PostHistoryTypeId":"1",
+            "Id":"332378",
+            "Text":"Centrally managing large number of android tablets"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-10T17:05:08.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b9e8b22-59c4-4a68-9294-b46db863bb8c",
+            "UserId":"97562",
+            "CloseReasonId":null,
+            "PostId":"102106",
+            "PostHistoryTypeId":"3",
+            "Id":"332379",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-03-10T17:38:30.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"e899b5d9-1a1d-4b0e-b7bf-6e60a0b829a1",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"102106",
+            "PostHistoryTypeId":"6",
+            "Id":"332400",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-11T06:36:16.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"84d2cd80-45d1-4e82-9cef-9de269e744bf",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"102106",
+            "PostHistoryTypeId":"10",
+            "Id":"332582",
+            "Text":"{\"OriginalQuestionIds\":[56857],\"Voters\":[{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

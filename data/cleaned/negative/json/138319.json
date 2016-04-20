@@ -1,0 +1,71 @@
+{
+    "Body":"Device powers off unable to turn on and it's not taking charge",
+    "ViewCount":"22",
+    "LastActivityDate":"2016-02-28T01:41:26.763",
+    "ClosedDate":"2016-02-28T02:38:37.520",
+    "Title":"Power issue device is unable to power on",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153653",
+    "CreationDate":"2016-02-28T01:41:26.763",
+    "FavoriteCount":null,
+    "Id":"138319",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T01:41:26.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7a93e27-5167-4f3e-b547-246b30f2b5d6",
+            "UserId":"153653",
+            "CloseReasonId":null,
+            "PostId":"138319",
+            "PostHistoryTypeId":"2",
+            "Id":"462198",
+            "Text":"Device powers off unable to turn on and it's not taking charge"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T01:41:26.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7a93e27-5167-4f3e-b547-246b30f2b5d6",
+            "UserId":"153653",
+            "CloseReasonId":null,
+            "PostId":"138319",
+            "PostHistoryTypeId":"1",
+            "Id":"462199",
+            "Text":"Power issue device is unable to power on"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T01:41:26.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7a93e27-5167-4f3e-b547-246b30f2b5d6",
+            "UserId":"153653",
+            "CloseReasonId":null,
+            "PostId":"138319",
+            "PostHistoryTypeId":"3",
+            "Id":"462200",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2016-02-28T02:38:37.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"f0f24837-bd22-4b40-a0e2-07e7e1e3699d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138319",
+            "PostHistoryTypeId":"10",
+            "Id":"462216",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

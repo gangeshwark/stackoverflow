@@ -1,0 +1,71 @@
+{
+    "Body":"I moved some apps onto my SD card because there is no space left on my phone, but according to the phone storage the app is still stored on the phone and not SD card, yet when I remove the SD card the app is also removed. Why does it do this and how to I make it not do this?",
+    "ViewCount":"17",
+    "LastActivityDate":"2015-07-06T04:51:04.650",
+    "ClosedDate":"2015-07-06T13:55:13.587",
+    "Title":"My app is moved to my SD card but still takes up space on my phone storage, why?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"115626",
+    "CreationDate":"2015-07-06T04:51:04.650",
+    "FavoriteCount":null,
+    "Id":"114411",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T04:51:04.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d9ad2b9-ced2-4ee0-808f-33d1af9a15c2",
+            "UserId":"115626",
+            "CloseReasonId":null,
+            "PostId":"114411",
+            "PostHistoryTypeId":"2",
+            "Id":"375143",
+            "Text":"I moved some apps onto my SD card because there is no space left on my phone, but according to the phone storage the app is still stored on the phone and not SD card, yet when I remove the SD card the app is also removed. Why does it do this and how to I make it not do this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T04:51:04.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d9ad2b9-ced2-4ee0-808f-33d1af9a15c2",
+            "UserId":"115626",
+            "CloseReasonId":null,
+            "PostId":"114411",
+            "PostHistoryTypeId":"1",
+            "Id":"375144",
+            "Text":"My app is moved to my SD card but still takes up space on my phone storage, why?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T04:51:04.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d9ad2b9-ced2-4ee0-808f-33d1af9a15c2",
+            "UserId":"115626",
+            "CloseReasonId":null,
+            "PostId":"114411",
+            "PostHistoryTypeId":"3",
+            "Id":"375145",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-06T13:55:13.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"435745b3-bb9e-460c-a651-65dd12809555",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114411",
+            "PostHistoryTypeId":"10",
+            "Id":"375388",
+            "Text":"{\"OriginalQuestionIds\":[14958],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

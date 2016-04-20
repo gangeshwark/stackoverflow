@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to backup an Android device?  Hi,I have a Motorola Droid that I need to send in for repair. How can I back up everything to my PC easily?The Moto Phone Portal expects you to individually download each photo. I would rather not transfer everything through wifi to my PC or to the cloud.PhotosContacts - gmail App settings? Playlists ?",
+    "ViewCount":"1032",
+    "LastActivityDate":"2010-11-23T05:36:04.153",
+    "ClosedDate":"2010-11-23T13:43:42.357",
+    "Title":"How do I back up my Motorola Droid?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"3068",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130",
+    "CreationDate":"2010-11-23T00:53:03.960",
+    "FavoriteCount":null,
+    "Id":"3062",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-23T00:53:03.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7d7c8db-2c92-40f4-b551-41b0c927a57c",
+            "UserId":"130",
+            "CloseReasonId":null,
+            "PostId":"3062",
+            "PostHistoryTypeId":"2",
+            "Id":"6198",
+            "Text":"I have a Motorola Droid that I need to send in for repair. How can I back up everything to my PC easily?The Moto Phone Portal expects you to individually download each photo. I would rather not transfer everything through wifi to my PC or to the cloud. - Photos - Contacts - gmail  - App settings?  - Playlists ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-23T00:53:03.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7d7c8db-2c92-40f4-b551-41b0c927a57c",
+            "UserId":"130",
+            "CloseReasonId":null,
+            "PostId":"3062",
+            "PostHistoryTypeId":"1",
+            "Id":"6199",
+            "Text":"How do I back up my Motorola Droid?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-23T00:53:03.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7d7c8db-2c92-40f4-b551-41b0c927a57c",
+            "UserId":"130",
+            "CloseReasonId":null,
+            "PostId":"3062",
+            "PostHistoryTypeId":"3",
+            "Id":"6200",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-11-23T13:43:42.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"481cd4cf-98a3-4aa4-9b28-8dc8170b2c28",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"3062",
+            "PostHistoryTypeId":"10",
+            "Id":"6222",
+            "Text":"{\"OriginalQuestionIds\":[390],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-11-23T13:43:42.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"57b94c5c-171d-4311-86ef-69fd68313bf0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3062",
+            "PostHistoryTypeId":"5",
+            "Id":"6223",
+            "Text":"> **Possible Duplicate:**  > [How to backup an Android device?](http:\/\/android.stackexchange.com\/questions\/390\/how-to-backup-an-android-device)  Hi,I have a Motorola Droid that I need to send in for repair. How can I back up everything to my PC easily?The Moto Phone Portal expects you to individually download each photo. I would rather not transfer everything through wifi to my PC or to the cloud. - Photos - Contacts - gmail  - App settings?  - Playlists ?"
+        }
+    ]
+}

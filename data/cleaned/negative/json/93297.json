@@ -1,0 +1,71 @@
+{
+    "Body":"I have Gigabyte GSmart Tuku T2 and it runs 4.0.4 version of android. I don't have update software option in my settings. Is there any way to update my android version to jelly bean?",
+    "ViewCount":"127",
+    "LastActivityDate":"2014-12-30T22:31:54.297",
+    "ClosedDate":"2014-12-31T02:26:03.060",
+    "Title":"Updating android version",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87087",
+    "CreationDate":"2014-12-30T20:36:39.057",
+    "FavoriteCount":null,
+    "Id":"93297",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T20:36:39.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"425f99cc-4f4c-425a-a439-faee3f01f27c",
+            "UserId":"87087",
+            "CloseReasonId":null,
+            "PostId":"93297",
+            "PostHistoryTypeId":"2",
+            "Id":"305911",
+            "Text":"I have Gigabyte GSmart Tuku T2 and it runs 4.0.4 version of android. I don't have update software option in my settings. Is there any way to update my android version to jelly bean?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T20:36:39.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"425f99cc-4f4c-425a-a439-faee3f01f27c",
+            "UserId":"87087",
+            "CloseReasonId":null,
+            "PostId":"93297",
+            "PostHistoryTypeId":"1",
+            "Id":"305912",
+            "Text":"Updating android version"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T20:36:39.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"425f99cc-4f4c-425a-a439-faee3f01f27c",
+            "UserId":"87087",
+            "CloseReasonId":null,
+            "PostId":"93297",
+            "PostHistoryTypeId":"3",
+            "Id":"305913",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-31T02:26:03.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7a956e2-10f1-4036-9a74-94be993fa959",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"93297",
+            "PostHistoryTypeId":"10",
+            "Id":"305987",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

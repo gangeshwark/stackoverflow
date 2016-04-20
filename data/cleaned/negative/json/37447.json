@@ -1,0 +1,83 @@
+{
+    "Body":"Is it possible to put on trace or  get log of all activity on android device.If so, How?Also are there any key logger application",
+    "ViewCount":"1093",
+    "LastActivityDate":"2013-01-19T21:55:58.730",
+    "ClosedDate":"2013-09-05T14:02:24.043",
+    "Title":"Trace\/log of all activity on my android device",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-01-19T21:55:58.730",
+    "CommentCount":"8",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20907",
+    "CreationDate":"2013-01-12T04:04:15.977",
+    "FavoriteCount":null,
+    "Id":"37447",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-12T04:04:15.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9b05be7-8ec1-4c65-84ab-b1d34b2025f2",
+            "UserId":"20907",
+            "CloseReasonId":null,
+            "PostId":"37447",
+            "PostHistoryTypeId":"2",
+            "Id":"113676",
+            "Text":"Is it possible to put on trace or  get log of all activity on android device.If so, How?Also are there any key logger application"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-12T04:04:15.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9b05be7-8ec1-4c65-84ab-b1d34b2025f2",
+            "UserId":"20907",
+            "CloseReasonId":null,
+            "PostId":"37447",
+            "PostHistoryTypeId":"1",
+            "Id":"113677",
+            "Text":"Trace\/log of all activity on my android device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-12T04:04:15.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9b05be7-8ec1-4c65-84ab-b1d34b2025f2",
+            "UserId":"20907",
+            "CloseReasonId":null,
+            "PostId":"37447",
+            "PostHistoryTypeId":"3",
+            "Id":"113678",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-01-19T21:55:58.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"81bacbe7-e817-4c4e-af4c-035316b7ae12",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"37447",
+            "PostHistoryTypeId":"6",
+            "Id":"115766",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-05T14:02:24.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"312953d3-bbd3-43ab-b0d1-2919cd2eab5b",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"37447",
+            "PostHistoryTypeId":"10",
+            "Id":"173486",
+            "Text":"{\"OriginalQuestionIds\":[14430],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

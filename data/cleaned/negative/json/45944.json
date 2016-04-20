@@ -1,0 +1,83 @@
+{
+    "Body":"Why is Google Play Music constantly running on my galaxy s4? I don't use any music app.NOTE this has been previously posted but the answer given does NOT workGo to Settings\u2192Apps\u2192Manage AppsGo to the All tabScroll the list until you find Google Play MusicTap the entryOn the screen which opens on the tap, you'll find a button labeledDisable -- push it.THEN it asks you to press OK or Cancel, pressing OK, then it says \"Do you want to replace this app with the factory version?A little bit of a merry-go-round, the s4 for is so full of crap that you CAN'T remove its a real JOKE - samsung are fools for thinking anyone would use have the space wasting crap on an otherwise great phone",
+    "ViewCount":"1747",
+    "LastActivityDate":"2013-05-23T23:05:11.270",
+    "ClosedDate":"2013-05-24T13:14:35.157",
+    "Title":"Google \u201cPlay Music\u201d app constantly running!",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34516",
+    "CreationDate":"2013-05-23T07:07:21.437",
+    "FavoriteCount":null,
+    "Id":"45944",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T07:07:21.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"47cdeaf3-6de7-4609-bdfe-dd04ff5b3c9b",
+            "UserId":"34516",
+            "CloseReasonId":null,
+            "PostId":"45944",
+            "PostHistoryTypeId":"2",
+            "Id":"148242",
+            "Text":"Why is Google Play Music constantly running on my galaxy s4? I don't use any music app.NOTE this has been previously posted but the answer given does NOT work 1. Go to Settings\u2192Apps\u2192Manage Apps 2. Go to the All tab 3. Scroll the list until you find Google Play Music 4. Tap the entry 5. On the screen which opens on the tap, you'll find a button labeled    Disable -- push it.THEN it asks you to press OK or Cancel, pressing OK, then it says \"Do you want to replace this app with the factory version?A little bit of a merry-go-round, the s4 for is so full of crap that you CAN'T remove its a real JOKE - samsung are fools for thinking anyone would use have the space wasting crap on an otherwise great phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T07:07:21.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"47cdeaf3-6de7-4609-bdfe-dd04ff5b3c9b",
+            "UserId":"34516",
+            "CloseReasonId":null,
+            "PostId":"45944",
+            "PostHistoryTypeId":"1",
+            "Id":"148243",
+            "Text":"Google \u201cPlay Music\u201d app constantly running!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T07:07:21.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"47cdeaf3-6de7-4609-bdfe-dd04ff5b3c9b",
+            "UserId":"34516",
+            "CloseReasonId":null,
+            "PostId":"45944",
+            "PostHistoryTypeId":"3",
+            "Id":"148244",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/337842260710404097",
+            "CreationDate":"2013-05-24T08:07:26.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"537f997a-3bc2-4878-8d2a-06a6df43a7e5",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"45944",
+            "PostHistoryTypeId":"25",
+            "Id":"148543",
+            "Text":null
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-24T13:14:35.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"11c29cf3-d813-4d63-9243-a9bb028e4732",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"45944",
+            "PostHistoryTypeId":"10",
+            "Id":"148614",
+            "Text":"{\"OriginalQuestionIds\":[45652],\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

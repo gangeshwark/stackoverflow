@@ -1,0 +1,71 @@
+{
+    "Body":"From Where does Google Play Music v5 store music locally? I can see that if I am rooted, I can access the .mp3 files which I have downloaded to play offline from my Google Play Music subscription and move it to (say) my computer.Now I know(?) that rooting is legal, but is retrieving music that I have downloaded to my Nexus 5 as part of my Play Music subscription also legal? I'm not planning on sharing the files, but only playing the music on my computer and home media player (which is not an Android TV).",
+    "ViewCount":"186",
+    "LastActivityDate":"2016-01-04T13:40:17.310",
+    "ClosedDate":"2016-01-04T15:09:59.090",
+    "Title":"Is accessing Google Play Music subscription files legal?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"144590",
+    "CreationDate":"2016-01-04T13:28:39.537",
+    "FavoriteCount":null,
+    "Id":"133341",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-04T13:28:39.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4327b3-808e-43a8-b2ad-881e547d19a0",
+            "UserId":"144590",
+            "CloseReasonId":null,
+            "PostId":"133341",
+            "PostHistoryTypeId":"2",
+            "Id":"441850",
+            "Text":"From http:\/\/android.stackexchange.com\/questions\/51665\/where-does-google-play-music-v5-store-music-locally I can see that if I am rooted, I can access the .mp3 files which I have downloaded to play offline from my Google Play Music subscription and move it to (say) my computer.Now I know(?) that rooting is legal, but is retrieving music that I have downloaded to my Nexus 5 as part of my Play Music subscription also legal? I'm not planning on sharing the files, but only playing the music on my computer and home media player (which is not an Android TV)."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-04T13:28:39.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4327b3-808e-43a8-b2ad-881e547d19a0",
+            "UserId":"144590",
+            "CloseReasonId":null,
+            "PostId":"133341",
+            "PostHistoryTypeId":"1",
+            "Id":"441851",
+            "Text":"Is accessing Google Play Music subscription files legal?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-04T13:28:39.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4327b3-808e-43a8-b2ad-881e547d19a0",
+            "UserId":"144590",
+            "CloseReasonId":null,
+            "PostId":"133341",
+            "PostHistoryTypeId":"3",
+            "Id":"441852",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-01-04T15:09:59.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"1675ef08-673a-4c63-8fe8-6006cdb71afd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"133341",
+            "PostHistoryTypeId":"10",
+            "Id":"441882",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can gmail notifications be customized by label?  I have a filter in gmail that sets some of the mail to skip the inbox and be archived (unread) under a specific label. On the desktop Gmail, this label is shown alongside my regular inbox, which makes everything nice and organized. Unfortunately, on my Gmail android app, I don't get notified of any of these e-mails that skip the inbox and go to this label. I have already set this label to be synced by the app, but I'm still not getting notifications. How can I get notified of e-mails that skip the inbox and go straight to a specific label?So far I've only found Gmail Label Notifier, but I don't need all this customization and I was hoping to find something free.",
+    "ViewCount":"533",
+    "LastActivityDate":"2011-03-22T11:59:49.697",
+    "ClosedDate":"2011-03-22T12:38:21.853",
+    "Title":"Notification of new label e-mails",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1926",
+    "CreationDate":"2011-03-21T20:31:43.030",
+    "FavoriteCount":null,
+    "Id":"7232",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T20:31:43.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"51fbe386-9d1e-4f09-85b2-bf2fcb55ffa4",
+            "UserId":"1926",
+            "CloseReasonId":null,
+            "PostId":"7232",
+            "PostHistoryTypeId":"2",
+            "Id":"16796",
+            "Text":"I have a filter in gmail that sets some of the mail to skip the inbox and be archived (unread) under a specific label. On the desktop Gmail, this label is shown alongside my regular inbox, which makes everything nice and organized. Unfortunately, on my Gmail android app, I don't get notified of any of these e-mails that skip the inbox and go to this label. I have already set this label to be synced by the app, but I'm still not getting notifications. How can I get notified of e-mails that skip the inbox and go straight to a specific label?So far I've only found [Gmail Label Notifier][1], but I don't need all this customization and I was hoping to find something free.  [1]:https:\/\/market.android.com\/details?id=org.hubris.gmailnotifierpro"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T20:31:43.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"51fbe386-9d1e-4f09-85b2-bf2fcb55ffa4",
+            "UserId":"1926",
+            "CloseReasonId":null,
+            "PostId":"7232",
+            "PostHistoryTypeId":"1",
+            "Id":"16797",
+            "Text":"Notification of new label e-mails."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T20:31:43.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"51fbe386-9d1e-4f09-85b2-bf2fcb55ffa4",
+            "UserId":"1926",
+            "CloseReasonId":null,
+            "PostId":"7232",
+            "PostHistoryTypeId":"3",
+            "Id":"16798",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-03-22T12:38:22.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"3cf675dd-5bba-40ca-80bc-b5720b875a23",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"7232",
+            "PostHistoryTypeId":"5",
+            "Id":"16854",
+            "Text":"> **Possible Duplicate:**  > [Can gmail notifications be customized by label?](http:\/\/android.stackexchange.com\/questions\/6567\/can-gmail-notifications-be-customized-by-label)  I have a filter in gmail that sets some of the mail to skip the inbox and be archived (unread) under a specific label. On the desktop Gmail, this label is shown alongside my regular inbox, which makes everything nice and organized. Unfortunately, on my Gmail android app, I don't get notified of any of these e-mails that skip the inbox and go to this label. I have already set this label to be synced by the app, but I'm still not getting notifications. How can I get notified of e-mails that skip the inbox and go straight to a specific label?So far I've only found [Gmail Label Notifier][1], but I don't need all this customization and I was hoping to find something free.  [1]:https:\/\/market.android.com\/details?id=org.hubris.gmailnotifierpro"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-03-22T12:38:21.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1b5805d-0b89-4bba-bbf6-080aa06594f0",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"7232",
+            "PostHistoryTypeId":"10",
+            "Id":"16855",
+            "Text":"{\"OriginalQuestionIds\":[6567],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

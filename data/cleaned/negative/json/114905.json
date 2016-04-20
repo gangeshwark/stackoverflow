@@ -1,0 +1,71 @@
+{
+    "Body":"I have some important sms that i would want to keep on my new phone- samsung galaxy s4 mini. I can't find how to import messages.",
+    "ViewCount":"12",
+    "LastActivityDate":"2015-07-10T11:20:02.023",
+    "ClosedDate":"2015-07-19T17:00:34.363",
+    "Title":"how do I import sms from Allview viper v1 to samsung galaxy s4 mini with android 4.4.4?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116261",
+    "CreationDate":"2015-07-10T11:20:02.023",
+    "FavoriteCount":null,
+    "Id":"114905",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-10T11:20:02.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a542c80-7b10-419d-a9c4-c59fe71397c2",
+            "UserId":"116261",
+            "CloseReasonId":null,
+            "PostId":"114905",
+            "PostHistoryTypeId":"2",
+            "Id":"377006",
+            "Text":"I have some important sms that i would want to keep on my new phone- samsung galaxy s4 mini. I can't find how to import messages."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-10T11:20:02.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a542c80-7b10-419d-a9c4-c59fe71397c2",
+            "UserId":"116261",
+            "CloseReasonId":null,
+            "PostId":"114905",
+            "PostHistoryTypeId":"1",
+            "Id":"377007",
+            "Text":"how do I import sms from Allview viper v1 to samsung galaxy s4 mini with android 4.4.4?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-10T11:20:02.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a542c80-7b10-419d-a9c4-c59fe71397c2",
+            "UserId":"116261",
+            "CloseReasonId":null,
+            "PostId":"114905",
+            "PostHistoryTypeId":"3",
+            "Id":"377008",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-19T17:00:34.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"7136ae71-430f-4125-9b24-aabf94ed33dc",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"114905",
+            "PostHistoryTypeId":"10",
+            "Id":"380249",
+            "Text":"{\"OriginalQuestionIds\":[2466],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

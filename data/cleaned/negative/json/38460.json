@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  New phone: How to transfer game progress?  I just rooted my HTC Legend and succesfuly obtained the files for a few apps from the \/data\/data directory. I am now unsure on how I should go about getting that data onto my Samsung Galaxy S3 without rooting it. Can I use adb to do this or does adb use system images or something like that in order to restore backups.Thanks.",
+    "ViewCount":"36",
+    "LastActivityDate":"2013-01-27T01:33:55.407",
+    "ClosedDate":"2013-01-28T00:16:59.090",
+    "Title":"How to get app backups to Samsung Galaxy S3",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"8",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"27176",
+    "CreationDate":"2013-01-27T01:33:55.407",
+    "FavoriteCount":null,
+    "Id":"38460",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-27T01:33:55.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"930f3c5c-bf34-41c6-b04d-f8ac67e2f34e",
+            "UserId":"27176",
+            "CloseReasonId":null,
+            "PostId":"38460",
+            "PostHistoryTypeId":"2",
+            "Id":"117782",
+            "Text":"I just rooted my HTC Legend and succesfuly obtained the files for a few apps from the \/data\/data directory. I am now unsure on how I should go about getting that data onto my Samsung Galaxy S3 without rooting it. Can I use adb to do this or does adb use system images or something like that in order to restore backups.Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-27T01:33:55.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"930f3c5c-bf34-41c6-b04d-f8ac67e2f34e",
+            "UserId":"27176",
+            "CloseReasonId":null,
+            "PostId":"38460",
+            "PostHistoryTypeId":"1",
+            "Id":"117783",
+            "Text":"How to get app backups to Samsung Galaxy S3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-27T01:33:55.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"930f3c5c-bf34-41c6-b04d-f8ac67e2f34e",
+            "UserId":"27176",
+            "CloseReasonId":null,
+            "PostId":"38460",
+            "PostHistoryTypeId":"3",
+            "Id":"117784",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-28T00:16:59.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"32ee30e2-763c-4fb3-814f-e69f08d18ad4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38460",
+            "PostHistoryTypeId":"5",
+            "Id":"117981",
+            "Text":"> **Possible Duplicate:**  > [New phone: How to transfer game progress?](http:\/\/android.stackexchange.com\/questions\/21112\/new-phone-how-to-transfer-game-progress)  I just rooted my HTC Legend and succesfuly obtained the files for a few apps from the \/data\/data directory. I am now unsure on how I should go about getting that data onto my Samsung Galaxy S3 without rooting it. Can I use adb to do this or does adb use system images or something like that in order to restore backups.Thanks."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-28T00:16:59.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e5f386e-1dbb-46d1-8b62-cc4af48c16ed",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38460",
+            "PostHistoryTypeId":"10",
+            "Id":"117982",
+            "Text":"{\"OriginalQuestionIds\":[21112],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

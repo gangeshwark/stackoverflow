@@ -1,0 +1,71 @@
+{
+    "Body":"Im using a Samsung galaxy s3 mini and my problem is that my phone uses the memory when I have got a sd card which still has got space",
+    "ViewCount":"1438",
+    "LastActivityDate":"2014-10-17T22:46:24.420",
+    "ClosedDate":"2014-10-18T03:18:24.033",
+    "Title":"i want my phone to use the sd card i put instead of the phone memory",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"75208",
+    "CreationDate":"2014-10-04T15:55:52.417",
+    "FavoriteCount":null,
+    "Id":"84085",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-04T15:55:52.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"79d9864c-9861-4a68-9489-69463dcfd99c",
+            "UserId":"75208",
+            "CloseReasonId":null,
+            "PostId":"84085",
+            "PostHistoryTypeId":"2",
+            "Id":"275890",
+            "Text":"Im using a Samsung galaxy s3 mini and my problem is that my phone uses the memory when I have got a sd card which still has got space"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-04T15:55:52.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"79d9864c-9861-4a68-9489-69463dcfd99c",
+            "UserId":"75208",
+            "CloseReasonId":null,
+            "PostId":"84085",
+            "PostHistoryTypeId":"1",
+            "Id":"275891",
+            "Text":"i want my phone to use the sd card i put instead of the phone memory"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-04T15:55:52.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"79d9864c-9861-4a68-9489-69463dcfd99c",
+            "UserId":"75208",
+            "CloseReasonId":null,
+            "PostId":"84085",
+            "PostHistoryTypeId":"3",
+            "Id":"275892",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-18T03:18:24.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b2904ab-304e-49c3-b448-f16bc2e9360a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"84085",
+            "PostHistoryTypeId":"10",
+            "Id":"279765",
+            "Text":"{\"OriginalQuestionIds\":[2305],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"What to know is there an android App which tells, which apks are consuming data live. sometimes, your phone just shows that its uploading\/downloading something but which app is doing that , that's not known.",
+    "ViewCount":"15",
+    "LastActivityDate":"2016-02-28T21:15:05.130",
+    "ClosedDate":"2016-02-28T22:48:25.823",
+    "Title":"Is there an App which tells which apks are consuming data",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153783",
+    "CreationDate":"2016-02-28T21:03:09.600",
+    "FavoriteCount":null,
+    "Id":"138384",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T21:03:09.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"920eaa41-6f76-4d57-b1e3-bd7ace38d30c",
+            "UserId":"153783",
+            "CloseReasonId":null,
+            "PostId":"138384",
+            "PostHistoryTypeId":"2",
+            "Id":"462404",
+            "Text":"What to know is there an android App which tells, which apks are consuming data live. sometimes, your phone just shows that its uploading\/downloading something but which app is doing that , that's not known."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T21:03:09.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"920eaa41-6f76-4d57-b1e3-bd7ace38d30c",
+            "UserId":"153783",
+            "CloseReasonId":null,
+            "PostId":"138384",
+            "PostHistoryTypeId":"1",
+            "Id":"462405",
+            "Text":"Is there an App which tells which apks are consuming data"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T21:03:09.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"920eaa41-6f76-4d57-b1e3-bd7ace38d30c",
+            "UserId":"153783",
+            "CloseReasonId":null,
+            "PostId":"138384",
+            "PostHistoryTypeId":"3",
+            "Id":"462406",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-28T22:48:25.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b2c17b0-0a6e-4cea-8e21-dc50c3c52b72",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138384",
+            "PostHistoryTypeId":"10",
+            "Id":"462447",
+            "Text":"{\"OriginalQuestionIds\":[3493],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

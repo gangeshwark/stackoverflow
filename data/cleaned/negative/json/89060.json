@@ -1,0 +1,71 @@
+{
+    "Body":"I cannot open my phone in Mass Storage Mode.I've tried using the MTP and PTP which were on the list on USB settings and I've tried using Eclipse in ADB (which only copies one file at the time).With MTP, the file transfer stops when it gets on a big file.With PTP, I can only see photos.There's another phone which is older and has this ability to be displayed as a drive, but why doesn't this newer one have it?Is there an app where I can transfer files over Wi-Fi maybe? Don't tell me Dropbox because NSA spies on it and it takes a lot of time to upload it there. Is there an app that bypasses settings and makes my NONROOTED phone capable of initiating Mass Storage Mode?",
+    "ViewCount":"9",
+    "LastActivityDate":"2014-11-27T23:42:39.910",
+    "ClosedDate":"2014-11-28T02:14:43.820",
+    "Title":"Cannot open Android 4.1 on PC as in mass storage mode",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81969",
+    "CreationDate":"2014-11-27T23:42:39.910",
+    "FavoriteCount":null,
+    "Id":"89060",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T23:42:39.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"1060fc35-5158-4e45-8e29-c83b5f8d3897",
+            "UserId":"81969",
+            "CloseReasonId":null,
+            "PostId":"89060",
+            "PostHistoryTypeId":"2",
+            "Id":"293349",
+            "Text":"I cannot open my phone in Mass Storage Mode.I've tried using the MTP and PTP which were on the list on USB settings and I've tried using Eclipse in ADB (which only copies one file at the time).With MTP, the file transfer stops when it gets on a big file.With PTP, I can only see photos.There's another phone which is older and has this ability to be displayed as a drive, but why doesn't this newer one have it?Is there an app where I can transfer files over Wi-Fi maybe? Don't tell me Dropbox because NSA spies on it and it takes a lot of time to upload it there. Is there an app that bypasses settings and makes my NONROOTED phone capable of initiating Mass Storage Mode?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T23:42:39.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"1060fc35-5158-4e45-8e29-c83b5f8d3897",
+            "UserId":"81969",
+            "CloseReasonId":null,
+            "PostId":"89060",
+            "PostHistoryTypeId":"1",
+            "Id":"293350",
+            "Text":"Cannot open Android 4.1 on PC as in mass storage mode"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T23:42:39.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"1060fc35-5158-4e45-8e29-c83b5f8d3897",
+            "UserId":"81969",
+            "CloseReasonId":null,
+            "PostId":"89060",
+            "PostHistoryTypeId":"3",
+            "Id":"293351",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-28T02:14:43.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"3fd2eb68-bb84-41bd-a22e-004f4fa84d47",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89060",
+            "PostHistoryTypeId":"10",
+            "Id":"293399",
+            "Text":"{\"OriginalQuestionIds\":[56090],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

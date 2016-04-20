@@ -1,0 +1,71 @@
+{
+    "Body":"I have SE xperia P, and it stopped working, or at least the display did. I can access the internal memory (where I've been saving all contacts, which i didn't back up), is it possible to find and extract them? If so, how.These file I see when i connect the phone to PC, but I have no idea where to find contacts or SMS\/MMS and such.",
+    "ViewCount":"8796",
+    "LastActivityDate":"2014-09-15T15:21:09.933",
+    "ClosedDate":"2014-09-15T20:33:54.310",
+    "Title":"Where are contacts located on Xperia P internal storage?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"73257",
+    "CreationDate":"2014-09-15T09:45:11.450",
+    "FavoriteCount":null,
+    "Id":"82605",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-15T09:45:11.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac6f01a8-2489-4eb2-a0eb-ad369ec4571b",
+            "UserId":"73257",
+            "CloseReasonId":null,
+            "PostId":"82605",
+            "PostHistoryTypeId":"2",
+            "Id":"270735",
+            "Text":"I have SE xperia P, and it stopped working, or at least the display did. I can access the internal memory (where I've been saving all contacts, which i didn't back up), is it possible to find and extract them? If so, how.![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/tA98o.pngThese file I see when i connect the phone to PC, but I have no idea where to find contacts or SMS\/MMS and such."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-15T09:45:11.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac6f01a8-2489-4eb2-a0eb-ad369ec4571b",
+            "UserId":"73257",
+            "CloseReasonId":null,
+            "PostId":"82605",
+            "PostHistoryTypeId":"1",
+            "Id":"270736",
+            "Text":"Where are contacts located on Xperia P internal storage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-15T09:45:11.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac6f01a8-2489-4eb2-a0eb-ad369ec4571b",
+            "UserId":"73257",
+            "CloseReasonId":null,
+            "PostId":"82605",
+            "PostHistoryTypeId":"3",
+            "Id":"270737",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-15T20:33:54.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"15605a12-a3ce-43cd-a5a3-633ecd9cabeb",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"82605",
+            "PostHistoryTypeId":"10",
+            "Id":"270860",
+            "Text":"{\"OriginalQuestionIds\":[41455],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

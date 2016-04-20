@@ -1,0 +1,83 @@
+{
+    "Body":"There's a sea of todo apps out there, with all kinds of bells and whistles. I only need one feature: nested lists. I should be able to start with a general goal (\"finish that course\") and specify it further (\"buy course literature\", \"turn in homework\", \"prepare bribes\" etc) without cluttering the main list. Is there any app with this feature?Except for that, I just want it to be simple. I don't need alarms, due dates, syncing, colors, etc.",
+    "ViewCount":"717",
+    "LastActivityDate":"2012-09-09T19:36:58.813",
+    "ClosedDate":"2012-09-10T07:48:49.330",
+    "Title":"Is there a TODO app with nested todo lists?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2012-09-09T19:36:58.813",
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"19039",
+    "CreationDate":"2012-09-09T17:59:37.507",
+    "FavoriteCount":null,
+    "Id":"29033",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-09T17:59:37.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"2893f958-7bd9-4c2c-a7e2-819bbcb3adf2",
+            "UserId":"19039",
+            "CloseReasonId":null,
+            "PostId":"29033",
+            "PostHistoryTypeId":"2",
+            "Id":"85103",
+            "Text":"There's a sea of todo apps out there, with all kinds of bells and whistles. I only need one feature: nested lists. I should be able to start with a general goal (\"finish that course\") and specify it further (\"buy course literature\", \"turn in homework\", \"prepare bribes\" etc) without cluttering the main list. Is there any app with this feature?Except for that, I just want it to be simple. I don't need alarms, due dates, syncing, colors, etc."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-09T17:59:37.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"2893f958-7bd9-4c2c-a7e2-819bbcb3adf2",
+            "UserId":"19039",
+            "CloseReasonId":null,
+            "PostId":"29033",
+            "PostHistoryTypeId":"1",
+            "Id":"85104",
+            "Text":"Is there a TODO app with nested todo lists?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-09T17:59:37.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"2893f958-7bd9-4c2c-a7e2-819bbcb3adf2",
+            "UserId":"19039",
+            "CloseReasonId":null,
+            "PostId":"29033",
+            "PostHistoryTypeId":"3",
+            "Id":"85105",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-09-09T19:36:58.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbf02f20-3405-4a5b-a7cc-53dca6b15c07",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"29033",
+            "PostHistoryTypeId":"6",
+            "Id":"85123",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-09-10T07:48:49.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ef552b3-323a-477e-a079-fbe800419ff1",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29033",
+            "PostHistoryTypeId":"10",
+            "Id":"85240",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

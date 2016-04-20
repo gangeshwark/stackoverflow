@@ -1,0 +1,83 @@
+{
+    "Body":"Is there any DLNA server which is able to serve subtitles for smart tv (LG 42LA620s - model 2013). I have tried Pixel Media Server and few others with no success, while PLEX on Windows is working perfect. I have an android box (MELE M8) running Andoid 4.2 and I'd like to use it as a media server",
+    "ViewCount":"6444",
+    "LastActivityDate":"2014-08-20T00:38:12.960",
+    "ClosedDate":"2014-08-20T05:20:37.333",
+    "Title":"DLNA server that handle subtitles",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"48900",
+    "CreationDate":"2013-12-20T20:05:09.103",
+    "FavoriteCount":null,
+    "Id":"59424",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-20T20:05:09.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"3319e587-d882-488c-bb39-b3a47187365a",
+            "UserId":"48900",
+            "CloseReasonId":null,
+            "PostId":"59424",
+            "PostHistoryTypeId":"2",
+            "Id":"200142",
+            "Text":"Is there any DLNA server which is able to serve subtitles for smart tv (LG 42LA620s - model 2013). I have tried Pixel Media Server and few others with no success, while PLEX on Windows is working perfect. I have an android box (MELE M8) running Andoid 4.2 and I'd like to use it as a media server"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-20T20:05:09.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"3319e587-d882-488c-bb39-b3a47187365a",
+            "UserId":"48900",
+            "CloseReasonId":null,
+            "PostId":"59424",
+            "PostHistoryTypeId":"1",
+            "Id":"200143",
+            "Text":"DLNA server that handle subtitles"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-20T20:05:09.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"3319e587-d882-488c-bb39-b3a47187365a",
+            "UserId":"48900",
+            "CloseReasonId":null,
+            "PostId":"59424",
+            "PostHistoryTypeId":"3",
+            "Id":"200144",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/414253478194978816",
+            "CreationDate":"2013-12-21T04:38:20.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9e72c40-aec7-4032-8500-e760105b8503",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"59424",
+            "PostHistoryTypeId":"25",
+            "Id":"200224",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-08-20T05:20:37.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e175475-2621-45a2-9d59-3664d61991d0",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"59424",
+            "PostHistoryTypeId":"10",
+            "Id":"264805",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

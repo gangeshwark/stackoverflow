@@ -1,0 +1,71 @@
+{
+    "Body":"In Samsung keyboard setings have 3 input languages, but can't change from one to another, slider (space) doesn't work. Although there are arrows on space bar.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-07-30T04:19:42.893",
+    "ClosedDate":"2015-07-30T11:47:48.193",
+    "Title":"Can't change language. Slider doesn't not work",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"118945",
+    "CreationDate":"2015-07-30T04:19:42.893",
+    "FavoriteCount":null,
+    "Id":"116740",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-30T04:19:42.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ce6684d-8054-44b6-ab9f-86f57f859222",
+            "UserId":"118945",
+            "CloseReasonId":null,
+            "PostId":"116740",
+            "PostHistoryTypeId":"2",
+            "Id":"384005",
+            "Text":"In Samsung keyboard setings have 3 input languages, but can't change from one to another, slider (space) doesn't work. Although there are arrows on space bar."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-30T04:19:42.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ce6684d-8054-44b6-ab9f-86f57f859222",
+            "UserId":"118945",
+            "CloseReasonId":null,
+            "PostId":"116740",
+            "PostHistoryTypeId":"1",
+            "Id":"384006",
+            "Text":"Can't change language. Slider doesn't not work"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-30T04:19:42.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ce6684d-8054-44b6-ab9f-86f57f859222",
+            "UserId":"118945",
+            "CloseReasonId":null,
+            "PostId":"116740",
+            "PostHistoryTypeId":"3",
+            "Id":"384007",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-30T11:47:48.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc5b64af-d034-43d9-8622-01837e5bfb95",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"116740",
+            "PostHistoryTypeId":"10",
+            "Id":"384067",
+            "Text":"{\"OriginalQuestionIds\":[66531],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

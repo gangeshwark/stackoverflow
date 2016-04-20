@@ -1,0 +1,71 @@
+{
+    "Body":"Occasionally when I raise the volume on my HTC-one, I get a warning message which stops me until I click 'Ok'. It's more of an annoyance than anything else. Can I disable it? I can't seem to find an option for it in the settings.This question has already been asked here, but it was over a year ago. There was no solution then, I'm wondering does anyone know if there is a solution now?",
+    "ViewCount":"26",
+    "LastActivityDate":"2014-08-07T08:50:59.033",
+    "ClosedDate":"2014-08-07T09:36:57.440",
+    "Title":"Can I disable the volume warning if I raise the volume too much?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65236",
+    "CreationDate":"2014-08-07T08:50:59.033",
+    "FavoriteCount":null,
+    "Id":"78993",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T08:50:59.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"20224557-ac74-42e4-8eec-db287a54e941",
+            "UserId":"65236",
+            "CloseReasonId":null,
+            "PostId":"78993",
+            "PostHistoryTypeId":"2",
+            "Id":"260623",
+            "Text":"Occasionally when I raise the volume on my HTC-one, I get a warning message which stops me until I click 'Ok'. It's more of an annoyance than anything else. Can I disable it? I can't seem to find an option for it in the settings.This question has already been asked [here][1], but it was over a year ago. There was no solution then, I'm wondering does anyone know if there is a solution now?  [1]: http:\/\/android.stackexchange.com\/questions\/39583\/how-can-i-disable-the-volume-warning-if-you-raise-the-volume-too-much"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T08:50:59.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"20224557-ac74-42e4-8eec-db287a54e941",
+            "UserId":"65236",
+            "CloseReasonId":null,
+            "PostId":"78993",
+            "PostHistoryTypeId":"1",
+            "Id":"260624",
+            "Text":"Can I disable the volume warning if I raise the volume too much?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T08:50:59.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"20224557-ac74-42e4-8eec-db287a54e941",
+            "UserId":"65236",
+            "CloseReasonId":null,
+            "PostId":"78993",
+            "PostHistoryTypeId":"3",
+            "Id":"260625",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-07T09:36:57.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7999fcd-4302-49ab-8dea-7e65322ab20a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"78993",
+            "PostHistoryTypeId":"10",
+            "Id":"260644",
+            "Text":"{\"OriginalQuestionIds\":[39583],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

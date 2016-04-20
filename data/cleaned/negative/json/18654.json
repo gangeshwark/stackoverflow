@@ -1,0 +1,71 @@
+{
+    "Body":"I am working on an application that does some work once per day.As part of the testing process for applications that use this functionality I generally go into Settings->Date & Timeand turn off automatic. Then press Set Date and jump the day forward by one or two, so that I can simulate a day passing and see that my application acts appropriately.On this device (Motorola Admiral) when I press Set Date I do get the date picker dialog, just as expected. However when I select a date and press the set button this date doesn't seem to get stored correctly.Sometimes the line underneath \"Set Date\" which shows what the date is set for will get updated correctly and show the date that I've just entered. But other times it will just stay displaying the current date. And in either case if I back out of the settings the system still things that it is the current date, rather than the date that I've just entered.Can anyone shed some light on what I need to do in order to be able to properly set the date manually on this device?",
+    "ViewCount":"93",
+    "LastActivityDate":"2012-01-23T18:17:40.963",
+    "ClosedDate":"2012-09-30T18:18:50.857",
+    "Title":"Motorola Admiral Set Date not functioning properly",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3009",
+    "CreationDate":"2012-01-23T18:17:40.963",
+    "FavoriteCount":null,
+    "Id":"18654",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-23T18:17:40.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"79a11e0a-1ae4-4f1b-902d-0de14d248e12",
+            "UserId":"3009",
+            "CloseReasonId":null,
+            "PostId":"18654",
+            "PostHistoryTypeId":"2",
+            "Id":"51271",
+            "Text":"I am working on an application that does some work once per day.As part of the testing process for applications that use this functionality I generally go into Settings->Date & Timeand turn off automatic. Then press Set Date and jump the day forward by one or two, so that I can simulate a day passing and see that my application acts appropriately.On this device (Motorola Admiral) when I press Set Date I do get the date picker dialog, just as expected. However when I select a date and press the set button this date doesn't seem to get stored correctly.Sometimes the line underneath \"Set Date\" which shows what the date is set for will get updated correctly and show the date that I've just entered. But other times it will just stay displaying the current date. And in either case if I back out of the settings the system still things that it is the current date, rather than the date that I've just entered.Can anyone shed some light on what I need to do in order to be able to properly set the date manually on this device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-23T18:17:40.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"79a11e0a-1ae4-4f1b-902d-0de14d248e12",
+            "UserId":"3009",
+            "CloseReasonId":null,
+            "PostId":"18654",
+            "PostHistoryTypeId":"1",
+            "Id":"51272",
+            "Text":"Motorola Admiral Set Date not functioning properly"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-23T18:17:40.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"79a11e0a-1ae4-4f1b-902d-0de14d248e12",
+            "UserId":"3009",
+            "CloseReasonId":null,
+            "PostId":"18654",
+            "PostHistoryTypeId":"3",
+            "Id":"51273",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-09-30T18:18:50.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"bad7534b-b3b6-45f8-8a58-63983fd96b04",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18654",
+            "PostHistoryTypeId":"10",
+            "Id":"90393",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

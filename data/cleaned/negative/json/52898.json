@@ -1,0 +1,83 @@
+{
+    "Body":"What are the criteria being used to decide which apps go into the trending apps lists on Google Play?When I look on the trending lists, I don't see a lot of consistency. I see apps with as little as a 1000-5000 downloads and others with 500K-1M downloads.I guess the real question is, any idea what Google takes into consideration when deciding what's trending?",
+    "ViewCount":"1894",
+    "LastActivityDate":"2015-05-15T19:40:09.277",
+    "ClosedDate":"2015-05-15T20:11:34.693",
+    "Title":"Getting into the trending list",
+    "LastEditorUserId":"44325",
+    "Tags":"",
+    "LastEditDate":"2015-05-15T19:35:13.820",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"52899",
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41042",
+    "CreationDate":"2013-09-09T01:55:42.913",
+    "FavoriteCount":null,
+    "Id":"52898",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-09T01:55:42.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf9b2491-474d-4633-85ae-298d039ff2df",
+            "UserId":"41042",
+            "CloseReasonId":null,
+            "PostId":"52898",
+            "PostHistoryTypeId":"2",
+            "Id":"174221",
+            "Text":"What are the criteria being used to decided which apps go into the trending apps lists on `Google Play`?When I look on the trading lists, I don't see a lot of consistency,  I see apps with as little as a 1000-5000 downloads and others with 500K-1M downloads.I guess the real question is, any idea what Google takes into consideration when deciding what's trending?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-09T01:55:42.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf9b2491-474d-4633-85ae-298d039ff2df",
+            "UserId":"41042",
+            "CloseReasonId":null,
+            "PostId":"52898",
+            "PostHistoryTypeId":"1",
+            "Id":"174222",
+            "Text":"Getting into the trending list"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-09T01:55:42.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf9b2491-474d-4633-85ae-298d039ff2df",
+            "UserId":"41042",
+            "CloseReasonId":null,
+            "PostId":"52898",
+            "PostHistoryTypeId":"3",
+            "Id":"174223",
+            "Text":""
+        },
+        {
+            "Comment":"typo",
+            "CreationDate":"2015-05-15T19:35:13.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee4bd942-aaaf-4af3-8f09-16165036ef17",
+            "UserId":"44325",
+            "CloseReasonId":null,
+            "PostId":"52898",
+            "PostHistoryTypeId":"5",
+            "Id":"357182",
+            "Text":"What are the criteria being used to decide which apps go into the trending apps lists on Google Play?When I look on the trending lists, I don't see a lot of consistency. I see apps with as little as a 1000-5000 downloads and others with 500K-1M downloads.I guess the real question is, any idea what Google takes into consideration when deciding what's trending?"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-15T20:11:34.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"f25aa0aa-d805-46da-bfb5-9e8fc4ea5de9",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"52898",
+            "PostHistoryTypeId":"10",
+            "Id":"357194",
+            "Text":"{\"Voters\":[{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"What is the best, non-manual, way of checking to see if an app that I do not have installed has an update?For example, I do not have Google Camera installed, but I may want to install it when a new feature I'm looking for has been added to it.Is there a site place such as Google play or Playboard that I can get an rss feed, email or another way of notification for certain apps? EDIT: I am now aware of the defunct app \"Changelog Droid\" which is no longer maintained since January 2014. \"The app is currently not maintained. There is an (unlikely to be fixed) issue with paid apps. Please don't contact me in this regard.\" So a solution beyond that would be greatly appreciated.",
+    "ViewCount":"24",
+    "LastActivityDate":"2015-04-02T21:06:24.617",
+    "ClosedDate":"2015-04-02T18:18:22.863",
+    "Title":"How can I watch for uninstalled app updates?",
+    "LastEditorUserId":"18330",
+    "Tags":"",
+    "LastEditDate":"2015-04-02T21:06:24.617",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"6",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18330",
+    "CreationDate":"2015-04-02T17:50:39.250",
+    "FavoriteCount":null,
+    "Id":"104301",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T17:50:39.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"2473ac13-37ea-4049-aa87-82937a6699fa",
+            "UserId":"18330",
+            "CloseReasonId":null,
+            "PostId":"104301",
+            "PostHistoryTypeId":"2",
+            "Id":"340395",
+            "Text":"What is the best, non-manual, way of checking to see if an app that I do **not** have installed has an update?For example, I do not have Google Camera installed, but I may want to install it when a new feature I'm looking for has been added to it.Is there a site place such as Google play or Playboard that I can get an rss feed, email or another way of notification for certain apps? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T17:50:39.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"2473ac13-37ea-4049-aa87-82937a6699fa",
+            "UserId":"18330",
+            "CloseReasonId":null,
+            "PostId":"104301",
+            "PostHistoryTypeId":"1",
+            "Id":"340396",
+            "Text":"How can I watch for uninstalled app updates?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T17:50:39.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"2473ac13-37ea-4049-aa87-82937a6699fa",
+            "UserId":"18330",
+            "CloseReasonId":null,
+            "PostId":"104301",
+            "PostHistoryTypeId":"3",
+            "Id":"340397",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-02T18:18:22.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"5aebbab4-430d-4b3a-8c34-41ddae6da6b6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"104301",
+            "PostHistoryTypeId":"10",
+            "Id":"340413",
+            "Text":"{\"OriginalQuestionIds\":[51583],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"The duplicate question is out dated.",
+            "CreationDate":"2015-04-02T21:06:24.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"b132f562-4dbb-4de4-9fc1-791ea051ca14",
+            "UserId":"18330",
+            "CloseReasonId":null,
+            "PostId":"104301",
+            "PostHistoryTypeId":"5",
+            "Id":"340487",
+            "Text":"What is the best, non-manual, way of checking to see if an app that I do **not** have installed has an update?For example, I do not have Google Camera installed, but I may want to install it when a new feature I'm looking for has been added to it.Is there a site place such as Google play or Playboard that I can get an rss feed, email or another way of notification for certain apps? EDIT: I am now aware of the defunct app \"Changelog Droid\" which is no longer maintained since January 2014. \"*The app is currently not maintained. There is an (unlikely to be fixed) issue with paid apps. Please don't contact me in this regard.*\" So a solution beyond that would be greatly appreciated."
+        }
+    ]
+}

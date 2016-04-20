@@ -1,0 +1,71 @@
+{
+    "Body":"I am going to root HTC Desire (with Android 2.2).How can I do best backup, and how can I get sure that I won't lost my whatsapp history and other files?",
+    "ViewCount":"59",
+    "LastActivityDate":"2014-11-28T06:13:57.280",
+    "ClosedDate":"2014-12-08T03:28:07.003",
+    "Title":"What should I do before root?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81805",
+    "CreationDate":"2014-11-26T19:52:33.923",
+    "FavoriteCount":"1",
+    "Id":"88945",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-26T19:52:33.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c47a08b-7a96-4192-a35e-42d6d2c77989",
+            "UserId":"81805",
+            "CloseReasonId":null,
+            "PostId":"88945",
+            "PostHistoryTypeId":"2",
+            "Id":"292970",
+            "Text":"I am going to root HTC Desire (with Android 2.2).How can I do best backup, and how can I get sure that I won't lost my whatsapp history and other files?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-26T19:52:33.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c47a08b-7a96-4192-a35e-42d6d2c77989",
+            "UserId":"81805",
+            "CloseReasonId":null,
+            "PostId":"88945",
+            "PostHistoryTypeId":"1",
+            "Id":"292971",
+            "Text":"What should I do before root?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-26T19:52:33.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c47a08b-7a96-4192-a35e-42d6d2c77989",
+            "UserId":"81805",
+            "CloseReasonId":null,
+            "PostId":"88945",
+            "PostHistoryTypeId":"3",
+            "Id":"292972",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-08T03:28:07.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ec33ff5-c264-4058-a666-df7d2b910fca",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"88945",
+            "PostHistoryTypeId":"10",
+            "Id":"296962",
+            "Text":"{\"OriginalQuestionIds\":[12766],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

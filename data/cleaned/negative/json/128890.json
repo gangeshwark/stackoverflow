@@ -1,0 +1,71 @@
+{
+    "Body":"My problem is, I cannot download apps due to the space I haven't any installed apps yet. Help me with this problem, please?",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-11-15T05:00:09.590",
+    "ClosedDate":"2015-11-15T05:27:40.660",
+    "Title":"Insufficient Phone Available",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"136841",
+    "CreationDate":"2015-11-15T05:00:09.590",
+    "FavoriteCount":null,
+    "Id":"128890",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-15T05:00:09.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"e78f91a1-165d-4bb5-ac19-e977e0892983",
+            "UserId":"136841",
+            "CloseReasonId":null,
+            "PostId":"128890",
+            "PostHistoryTypeId":"2",
+            "Id":"424310",
+            "Text":"My problem is, I cannot download apps due to the space I haven't any installed apps yet. Help me with this problem, please?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-15T05:00:09.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"e78f91a1-165d-4bb5-ac19-e977e0892983",
+            "UserId":"136841",
+            "CloseReasonId":null,
+            "PostId":"128890",
+            "PostHistoryTypeId":"1",
+            "Id":"424311",
+            "Text":"Insufficient Phone Available"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-15T05:00:09.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"e78f91a1-165d-4bb5-ac19-e977e0892983",
+            "UserId":"136841",
+            "CloseReasonId":null,
+            "PostId":"128890",
+            "PostHistoryTypeId":"3",
+            "Id":"424312",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-15T05:27:40.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"82661a02-3cee-46ff-87ee-bf1272a53133",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"128890",
+            "PostHistoryTypeId":"10",
+            "Id":"424319",
+            "Text":"{\"OriginalQuestionIds\":[23010],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

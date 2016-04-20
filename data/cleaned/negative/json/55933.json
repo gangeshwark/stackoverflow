@@ -1,0 +1,71 @@
+{
+    "Body":"My HTC Evo 3D sometimes doesn't react when i press certain areas of the screen. I noticed it happens mostly on the part where the letter 'e' is, when i'm holding the phone in landscape mode.So, i did a factory reset, wiped out SD card as well during the factory reset, and the problem still persists.It sometimes happens for a certain period of time, and it starts to work after a while.I did a line drawing test, and on some places it doesn't draw the line correctly (it is continuos but it's drawn with sharp angles, i don't know how to explain it better).I read somewhere it is most probably a hardware problem, with a digitizer. Is there any way to be sure, or is it best to take it to a repair shop?",
+    "ViewCount":"3603",
+    "LastActivityDate":"2013-10-28T16:21:39.900",
+    "ClosedDate":"2013-10-29T19:05:56.140",
+    "Title":"Possible digitizer problem?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"55935",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36365",
+    "CreationDate":"2013-10-28T15:47:23.557",
+    "FavoriteCount":null,
+    "Id":"55933",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-28T15:47:23.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca7d19d1-fed2-423a-a46f-9d39356bfc99",
+            "UserId":"36365",
+            "CloseReasonId":null,
+            "PostId":"55933",
+            "PostHistoryTypeId":"2",
+            "Id":"186011",
+            "Text":"My HTC Evo 3D sometimes doesn't react when i press certain areas of the screen. I noticed it happens mostly on the part where the letter 'e' is, when i'm holding the phone in landscape mode.So, i did a factory reset, wiped out SD card as well during the factory reset, and the problem still persists.It sometimes happens for a certain period of time, and it starts to work after a while.I did a line drawing test, and on some places it doesn't draw the line correctly (it is continuos but it's drawn with sharp angles, i don't know how to explain it better).I read somewhere it is most probably a hardware problem, with a digitizer. Is there any way to be sure, or is it best to take it to a repair shop?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-28T15:47:23.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca7d19d1-fed2-423a-a46f-9d39356bfc99",
+            "UserId":"36365",
+            "CloseReasonId":null,
+            "PostId":"55933",
+            "PostHistoryTypeId":"1",
+            "Id":"186012",
+            "Text":"Possible digitizer problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-28T15:47:23.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca7d19d1-fed2-423a-a46f-9d39356bfc99",
+            "UserId":"36365",
+            "CloseReasonId":null,
+            "PostId":"55933",
+            "PostHistoryTypeId":"3",
+            "Id":"186013",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-29T19:05:56.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f3da680-3ecb-4a4a-a83e-996c989d5279",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"55933",
+            "PostHistoryTypeId":"10",
+            "Id":"186312",
+            "Text":"{\"OriginalQuestionIds\":[52580],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

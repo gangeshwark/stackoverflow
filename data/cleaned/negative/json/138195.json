@@ -1,0 +1,71 @@
+{
+    "Body":"I got one of the ROS Android code and modified to get all the phone sensors data into ROS Master running on the PC. But my talkers(Activity Talker) are publishing in the form of strings(Three values(x,y,z) separated by commas). I want that the Accelerometer readings be published in the form of Sensor_msgs\/IMU, so that the code on my PC can directly subscribe to the topic and work upon it, without have to change the format.Is there any way that I can publish it in form of sensor_msgs\/IMU",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-02-26T19:05:39.747",
+    "ClosedDate":"2016-02-26T19:42:55.160",
+    "Title":"Converting String to sensor_msgs IMU in Android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130718",
+    "CreationDate":"2016-02-26T19:05:39.747",
+    "FavoriteCount":null,
+    "Id":"138195",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T19:05:39.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8979574-376c-44b9-8305-75e97ce32a58",
+            "UserId":"130718",
+            "CloseReasonId":null,
+            "PostId":"138195",
+            "PostHistoryTypeId":"2",
+            "Id":"461311",
+            "Text":"I got one of the ROS Android code and modified to get all the phone sensors data into ROS Master running on the PC. But my talkers(Activity Talker) are publishing in the form of strings(Three values(x,y,z) separated by commas). I want that the Accelerometer readings be published in the form of Sensor_msgs\/IMU, so that the code on my PC can directly subscribe to the topic and work upon it, without have to change the format.Is there any way that I can publish it in form of sensor_msgs\/IMU"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T19:05:39.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8979574-376c-44b9-8305-75e97ce32a58",
+            "UserId":"130718",
+            "CloseReasonId":null,
+            "PostId":"138195",
+            "PostHistoryTypeId":"1",
+            "Id":"461312",
+            "Text":"Converting String to sensor_msgs IMU in Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T19:05:39.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8979574-376c-44b9-8305-75e97ce32a58",
+            "UserId":"130718",
+            "CloseReasonId":null,
+            "PostId":"138195",
+            "PostHistoryTypeId":"3",
+            "Id":"461313",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-26T19:42:55.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"27067f88-aa3a-46db-bfbd-3ca5b3afecf6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138195",
+            "PostHistoryTypeId":"10",
+            "Id":"461338",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

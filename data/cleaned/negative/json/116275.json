@@ -1,0 +1,83 @@
+{
+    "Body":"I have connected my rooted Mi3 android phone to Ubuntu 14.0.4 using jmtpfs. I am using ~\/Desktop\/phone as my mount point. I am able to browse the Android device using Nautilus.Now I want to recover the files from my phone because I have done a factory reset. I am using the dd command to make a clone of the storage of the phone. When I try to do this I get the following error::~\/Desktop$ sudo sh -c \"dd if=~\/Desktop\/phone of=\/media\/sf_phone_recovery\/image\"dd: failed to open \u2018~\/Desktop\/phone\u2019: Permission deniedIs it because the phone has root priviliges?:~\/Desktop\/phone$ ls -ltotal 0drwxr-xr-x 29 root root 0 May 19 4441318 Internal storageI have also tried Foremost to recover files but it takes forever to run. Have important files on my phone. Help needed asap.This is the output of lsblk::~$ lsblkNAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTsda      8:0    0  14.2G  0 disk \u251c\u2500sda1   8:1    0   8.3G  0 part \/\u251c\u2500sda2   8:2    0     1K  0 part \u2514\u2500sda5   8:5    0   5.9G  0 part [SWAP]sr0     11:0    1  1024M  0 romI am running Ubuntu using VirtualBox on Mac OSX Yosemite.This is the discussion of this question at askUbuntu.com linkEDIT: There is another method for recovering your data from an Android phone that does not require access to a PC elaborated here. It involves installing an Android terminal and using the dd command to clone the required storage block of internal memory to a SD card or a pen drive (connected to your phone via a USB OTG cable).",
+    "ViewCount":"288",
+    "LastActivityDate":"2015-07-25T19:13:36.023",
+    "ClosedDate":"2015-07-26T03:10:52.683",
+    "Title":"Permission denied for \u201cdd\u201d of Android phone's file system connected over mtpfs in Ubunutu 14.0.4",
+    "LastEditorUserId":"118306",
+    "Tags":"",
+    "LastEditDate":"2015-07-25T19:13:36.023",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"116279",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"118306",
+    "CreationDate":"2015-07-25T15:46:37.633",
+    "FavoriteCount":null,
+    "Id":"116275",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-25T15:46:37.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"46558de4-6f7d-4aa7-9a8a-992006373171",
+            "UserId":"118306",
+            "CloseReasonId":null,
+            "PostId":"116275",
+            "PostHistoryTypeId":"2",
+            "Id":"382269",
+            "Text":"I have connected my rooted Mi3 android phone to Ubuntu 14.0.4 using `jmtpfs`. I am using `~\/Desktop\/phone` as my mount point. I am able to browse the Android device using `Nautilus`.Now I want to recover the files from my phone because I have done a factory reset. I am using the dd command to make a clone of the storage of the phone. When I try to do this I get the following error:    :~\/Desktop$ sudo sh -c \"dd if=~\/Desktop\/phone of=\/media\/sf_phone_recovery\/image\"    dd: failed to open \u2018~\/Desktop\/phone\u2019: Permission deniedIs it because the phone has root priviliges?    :~\/Desktop\/phone$ ls -l    total 0    drwxr-xr-x 29 root root 0 May 19 4441318 Internal storageI have also tried Foremost to recover files but it takes forever to run. Have important files on my phone. Help needed asap.This is the output of `lsblk`:    :~$ lsblk    NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT    sda      8:0    0  14.2G  0 disk     \u251c\u2500sda1   8:1    0   8.3G  0 part \/    \u251c\u2500sda2   8:2    0     1K  0 part     \u2514\u2500sda5   8:5    0   5.9G  0 part [SWAP]    sr0     11:0    1  1024M  0 romI am running Ubuntu using VirtualBox on Mac OSX Yosemite.  [1]: http:\/\/i.stack.imgur.com\/PO0iz.pngThis is the discussion of this question at askUbuntu.comhttp:\/\/askubuntu.com\/questions\/652544\/permission-denied-for-dd-of-android-phones-file-system-connected-over-mtpfs-i"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-25T15:46:37.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"46558de4-6f7d-4aa7-9a8a-992006373171",
+            "UserId":"118306",
+            "CloseReasonId":null,
+            "PostId":"116275",
+            "PostHistoryTypeId":"1",
+            "Id":"382270",
+            "Text":"Permission denied for \u201cdd\u201d of Android phone's file system connected over mtpfs in Ubunutu 14.0.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-25T15:46:37.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"46558de4-6f7d-4aa7-9a8a-992006373171",
+            "UserId":"118306",
+            "CloseReasonId":null,
+            "PostId":"116275",
+            "PostHistoryTypeId":"3",
+            "Id":"382271",
+            "Text":""
+        },
+        {
+            "Comment":"added 456 characters in body",
+            "CreationDate":"2015-07-25T19:13:36.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"67b3f316-6d83-427e-b1eb-6d28e25b974e",
+            "UserId":"118306",
+            "CloseReasonId":null,
+            "PostId":"116275",
+            "PostHistoryTypeId":"5",
+            "Id":"382334",
+            "Text":"I have connected my rooted Mi3 android phone to Ubuntu 14.0.4 using `jmtpfs`. I am using `~\/Desktop\/phone` as my mount point. I am able to browse the Android device using `Nautilus`.Now I want to recover the files from my phone because I have done a factory reset. I am using the dd command to make a clone of the storage of the phone. When I try to do this I get the following error:    :~\/Desktop$ sudo sh -c \"dd if=~\/Desktop\/phone of=\/media\/sf_phone_recovery\/image\"    dd: failed to open \u2018~\/Desktop\/phone\u2019: Permission deniedIs it because the phone has root priviliges?    :~\/Desktop\/phone$ ls -l    total 0    drwxr-xr-x 29 root root 0 May 19 4441318 Internal storageI have also tried Foremost to recover files but it takes forever to run. Have important files on my phone. Help needed asap.This is the output of `lsblk`:    :~$ lsblk    NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT    sda      8:0    0  14.2G  0 disk     \u251c\u2500sda1   8:1    0   8.3G  0 part \/    \u251c\u2500sda2   8:2    0     1K  0 part     \u2514\u2500sda5   8:5    0   5.9G  0 part [SWAP]    sr0     11:0    1  1024M  0 romI am running Ubuntu using VirtualBox on Mac OSX Yosemite.  [1]: http:\/\/i.stack.imgur.com\/PO0iz.pngThis is the discussion of this question at askUbuntu.com [link](http:\/\/askubuntu.com\/questions\/652544\/permission-denied-for-dd-of-android-phones-file-system-connected-over-mtpfs-i)EDIT: There is another method for recovering your data from an Android phone that does not require access to a PC elaborated [here](http:\/\/askubuntu.com\/questions\/652544\/permission-denied-for-dd-of-android-phones-file-system-connected-over-mtpfs-i). It involves installing an Android terminal and using the `dd` command to clone the required storage block of internal memory to a SD card or a pen drive (connected to your phone via a USB OTG cable)."
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-26T03:10:52.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3d3db3d-5a1d-46df-98fb-f3d6abf9b1b8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"116275",
+            "PostHistoryTypeId":"10",
+            "Id":"382426",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

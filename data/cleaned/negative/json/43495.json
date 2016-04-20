@@ -1,0 +1,83 @@
+{
+    "Body":"I have HTC Explorer, when I download a wallpaper from net and try to set it as wallpaper, the phone first asks me to crop it, so I crop it, but some portion from all the four sides of the cropped image is not displayed.And now the main problem, the phone has 320x480 screen resolution, I have a wallpaper from net with the same resolution, but the phone still asks me to crop it, while cropping most of the times I have to let go the image from top and bottom, the horizontal part of the image is available but vertical part needs to be cropped.More interestingly, I created a jpg file on ms paint on computer with 320x480 pix and transferred it to the phone, even then it asked me to crop it and after cropping when I saw the wallpaper to my surprise it was not what or how the original image was cropped.can you guys help me, thanx in advance. ",
+    "ViewCount":"1162",
+    "LastActivityDate":"2013-04-11T12:23:38.020",
+    "ClosedDate":"2013-04-11T14:01:40.393",
+    "Title":"HTC Explorer wallpaper display problem",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-04-11T12:23:38.020",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32031",
+    "CreationDate":"2013-04-11T10:14:52.233",
+    "FavoriteCount":null,
+    "Id":"43495",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-11T10:14:52.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"062a5917-e4a4-4904-bc20-b8f6988a3352",
+            "UserId":"32031",
+            "CloseReasonId":null,
+            "PostId":"43495",
+            "PostHistoryTypeId":"2",
+            "Id":"139055",
+            "Text":"I have HTC Explorer, when I download a wallpaper from net and try to set it as wallpaper, the phone first asks me to crop it, so I crop it, but some portion from all the four sides of the cropped image is not displayed.And now the main problem, the phone has 320x480 screen resolution, I have a wallpaper from net with the same resolution, but the phone still asks me to crop it, while cropping most of the times I have to let go the image from top and bottom, the horizontal part of the image is available but vertical part needs to be cropped.More interestingly, I created a jpg file on ms paint on computer with 320x480 pix and transferred it to the phone, even then it asked me to crop it and after cropping when I saw the wallpaper to my surprise it was not what or how the original image was cropped.can you guys help me, thanx in advance. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-11T10:14:52.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"062a5917-e4a4-4904-bc20-b8f6988a3352",
+            "UserId":"32031",
+            "CloseReasonId":null,
+            "PostId":"43495",
+            "PostHistoryTypeId":"1",
+            "Id":"139056",
+            "Text":"HTC Explorer wallpaper display problem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-11T10:14:52.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"062a5917-e4a4-4904-bc20-b8f6988a3352",
+            "UserId":"32031",
+            "CloseReasonId":null,
+            "PostId":"43495",
+            "PostHistoryTypeId":"3",
+            "Id":"139057",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-04-11T12:23:38.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2d7e788-9330-4706-ab11-95ad79a67057",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"43495",
+            "PostHistoryTypeId":"6",
+            "Id":"139087",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-11T14:01:40.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"d18d61b4-14d3-4830-92e6-58a2016b64e7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"43495",
+            "PostHistoryTypeId":"10",
+            "Id":"139141",
+            "Text":"{\"OriginalQuestionIds\":[2026],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

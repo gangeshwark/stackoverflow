@@ -1,0 +1,83 @@
+{
+    "Body":"I'm locked out of my tablet because I can't remember what my screen lock pattern is. How do I reset factory settings if I can't get into the tablet?please help this is all new to me",
+    "ViewCount":"211",
+    "LastActivityDate":"2014-12-13T16:36:20.067",
+    "ClosedDate":"2014-12-13T16:49:59.320",
+    "Title":"forgot my pattern for lock screen",
+    "LastEditorUserId":"84893",
+    "Tags":"",
+    "LastEditDate":"2014-12-13T14:55:55.853",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"84893",
+    "CreationDate":"2014-12-13T14:41:04.483",
+    "FavoriteCount":null,
+    "Id":"91601",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-13T14:41:04.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f80b221-ce74-421b-853b-b8459b0e9746",
+            "UserId":"84893",
+            "CloseReasonId":null,
+            "PostId":"91601",
+            "PostHistoryTypeId":"2",
+            "Id":"299877",
+            "Text":"I'm locked out of my tablet because I can't remember what my screen lock pattern is. How do I reset factory settings if I can't get into the tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-13T14:41:04.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f80b221-ce74-421b-853b-b8459b0e9746",
+            "UserId":"84893",
+            "CloseReasonId":null,
+            "PostId":"91601",
+            "PostHistoryTypeId":"1",
+            "Id":"299878",
+            "Text":"forgot my pattern for lock screen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-13T14:41:04.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f80b221-ce74-421b-853b-b8459b0e9746",
+            "UserId":"84893",
+            "CloseReasonId":null,
+            "PostId":"91601",
+            "PostHistoryTypeId":"3",
+            "Id":"299879",
+            "Text":""
+        },
+        {
+            "Comment":"forgot my lock  pattern and cant get into my tablet",
+            "CreationDate":"2014-12-13T14:55:55.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff106c3c-8914-4357-9860-0a7118cbeb56",
+            "UserId":"84893",
+            "CloseReasonId":null,
+            "PostId":"91601",
+            "PostHistoryTypeId":"5",
+            "Id":"299883",
+            "Text":"I'm locked out of my tablet because I can't remember what my screen lock pattern is. How do I reset factory settings if I can't get into the tablet?please help this is all new to me"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-13T16:49:59.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"f01eccd1-ca66-45ca-8a3a-56ad9600e8a1",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"91601",
+            "PostHistoryTypeId":"10",
+            "Id":"299917",
+            "Text":"{\"OriginalQuestionIds\":[18008],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

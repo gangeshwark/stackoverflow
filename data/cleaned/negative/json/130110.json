@@ -1,0 +1,71 @@
+{
+    "Body":"This is not particularly an android related question. All the phones I have used so far, don't record voice in mp3 format. Is it a limitation of the phones? Is there any benefit in recording voice in other formats than mp3? I really don't get it.",
+    "ViewCount":"56",
+    "LastActivityDate":"2015-11-28T09:13:46.517",
+    "ClosedDate":"2015-12-14T03:03:05.447",
+    "Title":"Why voice records are not saved in mp3 format?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"130112",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"138850",
+    "CreationDate":"2015-11-28T06:14:43.517",
+    "FavoriteCount":null,
+    "Id":"130110",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-28T06:14:43.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f0a47b3-257b-464c-bd60-5b96fa657a11",
+            "UserId":"138850",
+            "CloseReasonId":null,
+            "PostId":"130110",
+            "PostHistoryTypeId":"2",
+            "Id":"429057",
+            "Text":"This is not particularly an android related question. All the phones I have used so far, don't record voice in mp3 format. Is it a limitation of the phones? Is there any benefit in recording voice in other formats than mp3? I really don't get it."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-28T06:14:43.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f0a47b3-257b-464c-bd60-5b96fa657a11",
+            "UserId":"138850",
+            "CloseReasonId":null,
+            "PostId":"130110",
+            "PostHistoryTypeId":"1",
+            "Id":"429058",
+            "Text":"Why voice records are not saved in mp3 format?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-28T06:14:43.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f0a47b3-257b-464c-bd60-5b96fa657a11",
+            "UserId":"138850",
+            "CloseReasonId":null,
+            "PostId":"130110",
+            "PostHistoryTypeId":"3",
+            "Id":"429059",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-12-14T03:03:05.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"667c6c70-d2bc-4c99-a6a0-c7c279c0ce96",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"130110",
+            "PostHistoryTypeId":"10",
+            "Id":"434359",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

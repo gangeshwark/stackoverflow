@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I download an APK file from the Play Store?  Is there any working tool I could use to download app's APK file from Market to my desktop computer?I know there was a Chrome extension but it no longer works.",
+    "ViewCount":"413",
+    "LastActivityDate":"2012-08-02T12:37:28.973",
+    "ClosedDate":"2012-08-02T13:25:59.420",
+    "Title":"How do I download app's APK file from Market to my desktop computer?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12854",
+    "CreationDate":"2012-08-02T12:23:11.530",
+    "FavoriteCount":null,
+    "Id":"26866",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-02T12:23:11.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b891bcc-7068-4bad-9f15-3e967fc244b2",
+            "UserId":"12854",
+            "CloseReasonId":null,
+            "PostId":"26866",
+            "PostHistoryTypeId":"2",
+            "Id":"77949",
+            "Text":"Is there any working tool I could use to download app's APK file from Market to my desktop computer?I know there was a Chrome extension but it no longer works."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-02T12:23:11.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b891bcc-7068-4bad-9f15-3e967fc244b2",
+            "UserId":"12854",
+            "CloseReasonId":null,
+            "PostId":"26866",
+            "PostHistoryTypeId":"1",
+            "Id":"77950",
+            "Text":"How do I download app's APK file from Market to my desktop computer?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-02T12:23:11.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b891bcc-7068-4bad-9f15-3e967fc244b2",
+            "UserId":"12854",
+            "CloseReasonId":null,
+            "PostId":"26866",
+            "PostHistoryTypeId":"3",
+            "Id":"77951",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-02T13:25:59.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"76ce298a-b6f4-4fef-9359-ca3e099cfee0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26866",
+            "PostHistoryTypeId":"5",
+            "Id":"77973",
+            "Text":"> **Possible Duplicate:**  > [How can I download an APK file from the Play Store?](http:\/\/android.stackexchange.com\/questions\/12330\/how-can-i-download-an-apk-file-from-the-play-store)  Is there any working tool I could use to download app's APK file from Market to my desktop computer?I know there was a Chrome extension but it no longer works."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-02T13:25:59.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"81957aa4-e3d9-4bda-bd76-eaa0b8506d5d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"26866",
+            "PostHistoryTypeId":"10",
+            "Id":"77974",
+            "Text":"{\"OriginalQuestionIds\":[12330],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

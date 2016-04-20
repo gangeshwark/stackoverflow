@@ -1,0 +1,83 @@
+{
+    "Body":"Is it possible on Android 2.3 to enable sound alert when calling on a busy line?It shows on screen that the number being called is busy talking on one of the lines, but who looks at the screen when calling?It should be possible to enable a beeping sound or something telling me the number I am calling is talking on another line.Thanks.",
+    "ViewCount":"223",
+    "LastActivityDate":"2012-03-17T21:15:01.123",
+    "ClosedDate":"2013-01-01T05:19:37.857",
+    "Title":"Make sound when calling on a busy line",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1120",
+    "CreationDate":"2012-03-17T21:15:01.123",
+    "FavoriteCount":null,
+    "Id":"20719",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-17T21:15:01.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"e62efa17-f6ab-4fa0-918f-33dc4d7e010f",
+            "UserId":"1120",
+            "CloseReasonId":null,
+            "PostId":"20719",
+            "PostHistoryTypeId":"2",
+            "Id":"57805",
+            "Text":"Is it possible on Android 2.3 to enable sound alert when calling on a busy line?It shows on screen that the number being called is busy talking on one of the lines, but who looks at the screen when calling?It should be possible to enable a beeping sound or something telling me the number I am calling is talking on another line.Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-17T21:15:01.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"e62efa17-f6ab-4fa0-918f-33dc4d7e010f",
+            "UserId":"1120",
+            "CloseReasonId":null,
+            "PostId":"20719",
+            "PostHistoryTypeId":"1",
+            "Id":"57806",
+            "Text":"Make sound when calling on a busy line"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-17T21:15:01.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"e62efa17-f6ab-4fa0-918f-33dc4d7e010f",
+            "UserId":"1120",
+            "CloseReasonId":null,
+            "PostId":"20719",
+            "PostHistoryTypeId":"3",
+            "Id":"57807",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/181165771643305984",
+            "CreationDate":"2012-03-17T23:51:00.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"245f85ea-838d-4d13-8180-eefba9fa39c3",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"20719",
+            "PostHistoryTypeId":"25",
+            "Id":"57817",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-01T05:19:37.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"f71b1dcd-47ea-4dc7-8cbf-0368b88a956f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20719",
+            "PostHistoryTypeId":"10",
+            "Id":"110544",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

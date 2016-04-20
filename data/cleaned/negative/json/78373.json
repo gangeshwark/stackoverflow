@@ -1,0 +1,71 @@
+{
+    "Body":"Problem:When trying to purchase in-app items, google play selects the wrong google account and do not allow the user to correct it.Scenario:I have two google accounts, one private and one business. The private account is the default in google play when buying and installing apps. Though when trying an in-app purchase, the business account is choosen and cannot be changed. In my case, this prohibits me in-app purchases.Further notes:Uninstalling\/reinstalling app to be sure the correct account is used in google play has no affect.Haven't tried removing the business account and see how it affects the in-app purchases as I'm reluctant to do so. (Other way around would have been better:)Question:Have you encountered this problem and found a way to resolve\/work-around it?",
+    "ViewCount":"3540",
+    "LastActivityDate":"2014-07-30T12:49:24.663",
+    "ClosedDate":"2014-07-31T14:51:55.970",
+    "Title":"google play uses wrong account for in-app purchases",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68501",
+    "CreationDate":"2014-07-29T23:00:21.423",
+    "FavoriteCount":null,
+    "Id":"78373",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-29T23:00:21.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"a92858d7-ebd3-441c-b4ab-7b4dd361c17a",
+            "UserId":"68501",
+            "CloseReasonId":null,
+            "PostId":"78373",
+            "PostHistoryTypeId":"2",
+            "Id":"258453",
+            "Text":"Problem:When trying to purchase in-app items, google play selects the wrong google account and do not allow the user to correct it.Scenario:I have two google accounts, one private and one business. The private account is the default in google play when buying and installing apps. Though when trying an in-app purchase, the business account is choosen and cannot be changed. In my case, this prohibits me in-app purchases.Further notes:Uninstalling\/reinstalling app to be sure the correct account is used in google play has no affect.Haven't tried removing the business account and see how it affects the in-app purchases as I'm reluctant to do so. (Other way around would have been better:)Question:Have you encountered this problem and found a way to resolve\/work-around it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-29T23:00:21.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"a92858d7-ebd3-441c-b4ab-7b4dd361c17a",
+            "UserId":"68501",
+            "CloseReasonId":null,
+            "PostId":"78373",
+            "PostHistoryTypeId":"1",
+            "Id":"258454",
+            "Text":"google play uses wrong account for in-app purchases"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-29T23:00:21.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"a92858d7-ebd3-441c-b4ab-7b4dd361c17a",
+            "UserId":"68501",
+            "CloseReasonId":null,
+            "PostId":"78373",
+            "PostHistoryTypeId":"3",
+            "Id":"258455",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-31T14:51:55.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"f540419d-a704-4227-a3ae-4348d40d6f67",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"78373",
+            "PostHistoryTypeId":"10",
+            "Id":"258843",
+            "Text":"{\"OriginalQuestionIds\":[70215],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

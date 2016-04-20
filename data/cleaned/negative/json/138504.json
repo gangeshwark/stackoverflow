@@ -1,0 +1,71 @@
+{
+    "Body":"I've got one simple question, what am i doing wrong with my Eclipse (Kepler)F.e.:1) I create a new layout with button - the id of this button is \"button1\"2) Creating another layout and put into it another button is useles, becasue this another button have \"button1\" id3) Changing id of this second button to \"button_abc\" causing change the first button id?What tha heck? Can someone explain me this?Steve",
+    "ViewCount":"22",
+    "LastActivityDate":"2016-03-01T10:04:46.820",
+    "ClosedDate":"2016-03-01T10:22:29.093",
+    "Title":"Eclipse Development problem",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154011",
+    "CreationDate":"2016-03-01T08:01:11.997",
+    "FavoriteCount":null,
+    "Id":"138504",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T08:01:11.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"1af69f60-c8c1-4fe2-aaf9-18488b278a37",
+            "UserId":"154011",
+            "CloseReasonId":null,
+            "PostId":"138504",
+            "PostHistoryTypeId":"2",
+            "Id":"462874",
+            "Text":"I've got one simple question, what am i doing wrong with my Eclipse (Kepler)F.e.:1) I create a new layout with button - the id of this button is \"button1\"2) Creating another layout and put into it another button is useles, becasue this another button have \"button1\" id3) Changing id of this second button to \"button_abc\" causing change the first button id?What tha heck? Can someone explain me this?Steve"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T08:01:11.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"1af69f60-c8c1-4fe2-aaf9-18488b278a37",
+            "UserId":"154011",
+            "CloseReasonId":null,
+            "PostId":"138504",
+            "PostHistoryTypeId":"1",
+            "Id":"462875",
+            "Text":"Eclipse Development problem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T08:01:11.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"1af69f60-c8c1-4fe2-aaf9-18488b278a37",
+            "UserId":"154011",
+            "CloseReasonId":null,
+            "PostId":"138504",
+            "PostHistoryTypeId":"3",
+            "Id":"462876",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-01T10:22:29.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"56712cb9-5276-44da-9598-6309b90fdbf5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"138504",
+            "PostHistoryTypeId":"10",
+            "Id":"462902",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

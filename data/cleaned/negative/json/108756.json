@@ -1,0 +1,71 @@
+{
+    "Body":"tablet is showing a download of Qfota.  What is this?  ",
+    "ViewCount":"278",
+    "LastActivityDate":"2016-02-17T12:12:08.577",
+    "ClosedDate":"2016-02-25T20:58:49.627",
+    "Title":"My tablet is showing a download of qfota and have tried to stop it and it still continues. What is it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107829",
+    "CreationDate":"2015-05-07T22:10:10.987",
+    "FavoriteCount":null,
+    "Id":"108756",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T22:10:10.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"634f485b-3af4-4311-9f18-e74d069c00b2",
+            "UserId":"107829",
+            "CloseReasonId":null,
+            "PostId":"108756",
+            "PostHistoryTypeId":"2",
+            "Id":"354348",
+            "Text":"tablet is showing a download of Qfota.  What is this?  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T22:10:10.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"634f485b-3af4-4311-9f18-e74d069c00b2",
+            "UserId":"107829",
+            "CloseReasonId":null,
+            "PostId":"108756",
+            "PostHistoryTypeId":"1",
+            "Id":"354349",
+            "Text":"My tablet is showing a download of qfota and have tried to stop it and it still continues. What is it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T22:10:10.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"634f485b-3af4-4311-9f18-e74d069c00b2",
+            "UserId":"107829",
+            "CloseReasonId":null,
+            "PostId":"108756",
+            "PostHistoryTypeId":"3",
+            "Id":"354350",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-25T20:58:49.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5dcf566-e8b4-43b5-b6dd-2ab607b6d13b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"108756",
+            "PostHistoryTypeId":"10",
+            "Id":"461041",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

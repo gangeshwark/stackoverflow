@@ -1,0 +1,71 @@
+{
+    "Body":"Recently BBC updated their app with the new Material theme, and it completely ruined the app, I reverted back to the previous version using Titanium backup, and I want to ignore BBC app updates indefinitely for now. Much like Windows ignore update etc. Is there a way to do so in the Play Store?",
+    "ViewCount":"139",
+    "LastActivityDate":"2015-07-23T03:52:24.167",
+    "ClosedDate":"2015-07-23T05:16:54.123",
+    "Title":"How to stop one app from ever updating?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"31076",
+    "CreationDate":"2015-07-23T03:10:50.137",
+    "FavoriteCount":null,
+    "Id":"116056",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T03:10:50.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"eaa6947b-dfa0-49fb-a74b-5c262b7e2226",
+            "UserId":"31076",
+            "CloseReasonId":null,
+            "PostId":"116056",
+            "PostHistoryTypeId":"2",
+            "Id":"381409",
+            "Text":"Recently BBC updated their app with the new Material theme, and it completely ruined the app, I reverted back to the previous version using Titanium backup, and I want to ignore BBC app updates indefinitely for now. Much like Windows ignore update etc. Is there a way to do so in the Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T03:10:50.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"eaa6947b-dfa0-49fb-a74b-5c262b7e2226",
+            "UserId":"31076",
+            "CloseReasonId":null,
+            "PostId":"116056",
+            "PostHistoryTypeId":"1",
+            "Id":"381410",
+            "Text":"How to stop one app from ever updating?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T03:10:50.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"eaa6947b-dfa0-49fb-a74b-5c262b7e2226",
+            "UserId":"31076",
+            "CloseReasonId":null,
+            "PostId":"116056",
+            "PostHistoryTypeId":"3",
+            "Id":"381411",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-23T05:16:54.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc8e851f-5460-4503-8b95-f5254591e771",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"116056",
+            "PostHistoryTypeId":"10",
+            "Id":"381453",
+            "Text":"{\"OriginalQuestionIds\":[58021],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

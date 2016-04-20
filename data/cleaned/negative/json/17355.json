@@ -1,0 +1,71 @@
+{
+    "Body":"I have a following problem with Asus Transformer:When I open application (for example Smart Tags) it switch to the Chines layout. In layout configuration it shows correct one (Asus German Keyboard) The only way get German one is to switch to another layout (I have Russian too) and then switch back to German. Any Ideas?",
+    "ViewCount":"160",
+    "LastActivityDate":"2011-12-23T12:28:23.337",
+    "ClosedDate":"2012-12-30T11:24:51.750",
+    "Title":"Asus Transformer 101G layout switch problem",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10903",
+    "CreationDate":"2011-12-23T12:28:23.337",
+    "FavoriteCount":null,
+    "Id":"17355",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-23T12:28:23.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c493df3-f999-44f5-be01-7d2b7bdf62ff",
+            "UserId":"10903",
+            "CloseReasonId":null,
+            "PostId":"17355",
+            "PostHistoryTypeId":"2",
+            "Id":"47427",
+            "Text":"I have a following problem with Asus Transformer:When I open application (for example Smart Tags) it switch to the Chines layout. In layout configuration it shows correct one (Asus German Keyboard) The only way get German one is to switch to another layout (I have Russian too) and then switch back to German. Any Ideas?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-23T12:28:23.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c493df3-f999-44f5-be01-7d2b7bdf62ff",
+            "UserId":"10903",
+            "CloseReasonId":null,
+            "PostId":"17355",
+            "PostHistoryTypeId":"1",
+            "Id":"47428",
+            "Text":"Asus Transformer 101G layout switch problem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-23T12:28:23.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c493df3-f999-44f5-be01-7d2b7bdf62ff",
+            "UserId":"10903",
+            "CloseReasonId":null,
+            "PostId":"17355",
+            "PostHistoryTypeId":"3",
+            "Id":"47429",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-30T11:24:51.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"c73448c5-fea3-4f55-82c9-c2d2d4ae70fb",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"17355",
+            "PostHistoryTypeId":"10",
+            "Id":"110010",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

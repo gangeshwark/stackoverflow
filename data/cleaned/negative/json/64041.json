@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Htc Evo 3D, whose capacitive buttons stopped working. I've seen on google play there are apps (button saviour, virtual button, handy soft keys) , which would move the 4 main buttons (home, settings, search, back) to screen, but they all require root or\/and Android >=4.1.Can someone point me to an app which would suit to the criteria in the title (non-root and Android 4.0.3)?",
+    "ViewCount":"857",
+    "LastActivityDate":"2014-02-21T17:49:10.997",
+    "ClosedDate":"2014-02-21T19:30:39.117",
+    "Title":"App like \"button savior\" but for non-root and Android 4.0.3",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54352",
+    "CreationDate":"2014-02-21T17:49:10.997",
+    "FavoriteCount":null,
+    "Id":"64041",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-21T17:49:10.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ca90f33-d749-43b9-b0c4-a69215e907c0",
+            "UserId":"54352",
+            "CloseReasonId":null,
+            "PostId":"64041",
+            "PostHistoryTypeId":"2",
+            "Id":"217623",
+            "Text":"I have a Htc Evo 3D, whose capacitive buttons stopped working. I've seen on google play there are apps ([button saviour][1], [virtual button][2], [handy soft keys][3]) , which would move the 4 main buttons (home, settings, search, back) to screen, but they all require root or\/and Android >=4.1.Can someone point me to an app which would suit to the criteria in the title (non-root and Android 4.0.3)?  [1]: https:\/\/play.google.com\/store\/apps\/details?id=com.smart.swkey.nonroot&hl=en  [2]: https:\/\/play.google.com\/store\/apps\/details?id=jp.ne.neko.freewing.VirtualButton&hl=en  [3]: https:\/\/play.google.com\/store\/apps\/details?id=ca.yesoft.handysoftkeys&hl=en"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-21T17:49:10.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ca90f33-d749-43b9-b0c4-a69215e907c0",
+            "UserId":"54352",
+            "CloseReasonId":null,
+            "PostId":"64041",
+            "PostHistoryTypeId":"1",
+            "Id":"217624",
+            "Text":"App like \"button savior\" but for non-root and Android 4.0.3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-21T17:49:10.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ca90f33-d749-43b9-b0c4-a69215e907c0",
+            "UserId":"54352",
+            "CloseReasonId":null,
+            "PostId":"64041",
+            "PostHistoryTypeId":"3",
+            "Id":"217625",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-02-21T19:30:39.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"acd9d3b8-e6df-480e-b2ec-6c0556480129",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"64041",
+            "PostHistoryTypeId":"10",
+            "Id":"217645",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

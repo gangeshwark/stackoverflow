@@ -1,0 +1,71 @@
+{
+    "Body":"Phone:  Samsung Galaxy S3Carrier:  AT&T (US)Upgrade Path:  v4.2 to v4.4.2Is anyone else noticing SD card file deleting issues after the upgrade to Android v4.4.2?I use CoolReader to view files stored to  my SD card and continually delete them and add new ones.  After the updgrade, CoolReader and Astro File Manager are unable to delete files.  In fact, with Astro, the system popup appears with \"Deleting...\" and stays up until I cancel it.Only connecting to a PC with USB and opening the folders there has allowed me to delete files.Any suggestions on settings or anything else to correct this?Thanks!Bill",
+    "ViewCount":"758",
+    "LastActivityDate":"2014-06-27T19:01:17.713",
+    "ClosedDate":"2014-06-29T12:13:21.267",
+    "Title":"File deleting problems after Android v4.4.2 upgrade?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65024",
+    "CreationDate":"2014-06-27T16:10:07.327",
+    "FavoriteCount":null,
+    "Id":"75030",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-27T16:10:07.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"93690a2e-2dc0-4131-be3d-7c8c9a247491",
+            "UserId":"65024",
+            "CloseReasonId":null,
+            "PostId":"75030",
+            "PostHistoryTypeId":"2",
+            "Id":"249283",
+            "Text":"Phone:  Samsung Galaxy S3Carrier:  AT&T (US)Upgrade Path:  v4.2 to v4.4.2Is anyone else noticing SD card file deleting issues after the upgrade to Android v4.4.2?I use CoolReader to view files stored to  my SD card and continually delete them and add new ones.  After the updgrade, CoolReader and Astro File Manager are unable to delete files.  In fact, with Astro, the system popup appears with \"Deleting...\" and stays up until I cancel it.Only connecting to a PC with USB and opening the folders there has allowed me to delete files.Any suggestions on settings or anything else to correct this?Thanks!Bill"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-27T16:10:07.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"93690a2e-2dc0-4131-be3d-7c8c9a247491",
+            "UserId":"65024",
+            "CloseReasonId":null,
+            "PostId":"75030",
+            "PostHistoryTypeId":"1",
+            "Id":"249284",
+            "Text":"File deleting problems after Android v4.4.2 upgrade?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-27T16:10:07.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"93690a2e-2dc0-4131-be3d-7c8c9a247491",
+            "UserId":"65024",
+            "CloseReasonId":null,
+            "PostId":"75030",
+            "PostHistoryTypeId":"3",
+            "Id":"249285",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-29T12:13:21.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"ae687646-1d8f-4771-89f7-ce5eac4cf0ed",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"75030",
+            "PostHistoryTypeId":"10",
+            "Id":"249692",
+            "Text":"{\"OriginalQuestionIds\":[58592],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

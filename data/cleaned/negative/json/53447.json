@@ -1,0 +1,71 @@
+{
+    "Body":"I'm looking for a way to write english and french from my Android device with only one keyboard (azerty) and two spell checkers.Is this possible?",
+    "ViewCount":"19",
+    "LastActivityDate":"2013-09-18T05:08:17.477",
+    "ClosedDate":"2013-09-18T09:46:27.120",
+    "Title":"One keyboard, two languages for spelling",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41649",
+    "CreationDate":"2013-09-18T05:08:17.477",
+    "FavoriteCount":null,
+    "Id":"53447",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-18T05:08:17.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb9aa398-0b8f-4cd9-b6a5-bd83285661d7",
+            "UserId":"41649",
+            "CloseReasonId":null,
+            "PostId":"53447",
+            "PostHistoryTypeId":"2",
+            "Id":"176469",
+            "Text":"I'm looking for a way to write english and french from my Android device with only one keyboard (azerty) and two spell checkers.Is this possible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-18T05:08:17.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb9aa398-0b8f-4cd9-b6a5-bd83285661d7",
+            "UserId":"41649",
+            "CloseReasonId":null,
+            "PostId":"53447",
+            "PostHistoryTypeId":"1",
+            "Id":"176470",
+            "Text":"One keyboard, two languages for spelling"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-18T05:08:17.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb9aa398-0b8f-4cd9-b6a5-bd83285661d7",
+            "UserId":"41649",
+            "CloseReasonId":null,
+            "PostId":"53447",
+            "PostHistoryTypeId":"3",
+            "Id":"176471",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-18T09:46:27.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb93481e-2b49-411e-8039-1cc0a4e5fdfa",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"53447",
+            "PostHistoryTypeId":"10",
+            "Id":"176519",
+            "Text":"{\"OriginalQuestionIds\":[29152],\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

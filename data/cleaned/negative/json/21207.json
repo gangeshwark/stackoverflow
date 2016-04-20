@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Are there any Android browsers that support loading a Java Applet in-browser?  I am new to the tablet world. I have a Lenovo ThinkPad Tablet and I am having trouble on some websites when using the browser that you access through the world icon on the home page. I get a message that says that I have a browser problem and that java support has been turned off. I can't find where to turn this on or download if I need. I am sure this is a simple user error on my part. can someone please help me? I am able to find directions on how to fix this on safari, internet explore etc, but again I am ignorant and not figuring out if I am actually using one of thesesince the icon doesn't match..Please take pity on this naive newbie and help me!thanksSs",
+    "ViewCount":"29",
+    "LastActivityDate":"2012-03-30T20:58:53.303",
+    "ClosedDate":"2012-04-02T17:35:25.943",
+    "Title":"enabling java for Lenovo ThinkPad tablet?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13863",
+    "CreationDate":"2012-03-30T20:58:53.303",
+    "FavoriteCount":null,
+    "Id":"21207",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-30T20:58:53.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"84d3eb22-568b-4a98-b8c6-ebdd2ae0f10e",
+            "UserId":"13863",
+            "CloseReasonId":null,
+            "PostId":"21207",
+            "PostHistoryTypeId":"2",
+            "Id":"59339",
+            "Text":"I am new to the tablet world. I have a Lenovo ThinkPad Tablet and I am having trouble on some websites when using the browser that you access through the world icon on the home page. I get a message that says that I have a browser problem and that java support has been turned off. I can't find where to turn this on or download if I need. I am sure this is a simple user error on my part. can someone please help me? I am able to find directions on how to fix this on safari, internet explore etc, but again I am ignorant and not figuring out if I am actually using one of thesesince the icon doesn't match..Please take pity on this naive newbie and help me!thanksSs"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-30T20:58:53.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"84d3eb22-568b-4a98-b8c6-ebdd2ae0f10e",
+            "UserId":"13863",
+            "CloseReasonId":null,
+            "PostId":"21207",
+            "PostHistoryTypeId":"1",
+            "Id":"59340",
+            "Text":"enabling java for Lenovo ThinkPad tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-30T20:58:53.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"84d3eb22-568b-4a98-b8c6-ebdd2ae0f10e",
+            "UserId":"13863",
+            "CloseReasonId":null,
+            "PostId":"21207",
+            "PostHistoryTypeId":"3",
+            "Id":"59341",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-04-02T17:35:26.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0e1510e-afbb-4be6-a56d-742c1bd8bd78",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21207",
+            "PostHistoryTypeId":"5",
+            "Id":"59610",
+            "Text":"> **Possible Duplicate:**  > [Are there any Android browsers that support loading a Java Applet in-browser?](http:\/\/android.stackexchange.com\/questions\/987\/are-there-any-android-browsers-that-support-loading-a-java-applet-in-browser)  I am new to the tablet world. I have a Lenovo ThinkPad Tablet and I am having trouble on some websites when using the browser that you access through the world icon on the home page. I get a message that says that I have a browser problem and that java support has been turned off. I can't find where to turn this on or download if I need. I am sure this is a simple user error on my part. can someone please help me? I am able to find directions on how to fix this on safari, internet explore etc, but again I am ignorant and not figuring out if I am actually using one of thesesince the icon doesn't match..Please take pity on this naive newbie and help me!thanksSs"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-04-02T17:35:25.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8884bae-9209-4aa9-a265-041d2f31ca34",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21207",
+            "PostHistoryTypeId":"10",
+            "Id":"59611",
+            "Text":"{\"OriginalQuestionIds\":[987],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

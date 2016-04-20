@@ -1,0 +1,71 @@
+{
+    "Body":"Does anyone know of any current Android phones that do not have Bluetooth? We are trying to test our application on phones that do and don't support Bluetooth, but having a tough time finding any phones that don't have it.Any pointers to sites that may help me track this down would be appreciated.",
+    "ViewCount":"1717",
+    "LastActivityDate":"2015-03-26T12:27:03.220",
+    "ClosedDate":"2013-06-29T16:19:03.117",
+    "Title":"Any Android phones that don't support Bluetooth?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"24468",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16138",
+    "CreationDate":"2012-06-20T05:08:31.143",
+    "FavoriteCount":null,
+    "Id":"24464",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-20T05:08:31.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"532e14a4-771a-4337-8987-15a0c866d73e",
+            "UserId":"16138",
+            "CloseReasonId":null,
+            "PostId":"24464",
+            "PostHistoryTypeId":"2",
+            "Id":"70074",
+            "Text":"Does anyone know of any current Android phones that do not have Bluetooth? We are trying to test our application on phones that do and don't support Bluetooth, but having a tough time finding any phones that don't have it.Any pointers to sites that may help me track this down would be appreciated."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-20T05:08:31.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"532e14a4-771a-4337-8987-15a0c866d73e",
+            "UserId":"16138",
+            "CloseReasonId":null,
+            "PostId":"24464",
+            "PostHistoryTypeId":"1",
+            "Id":"70075",
+            "Text":"Any Android phones that don't support Bluetooth?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-20T05:08:31.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"532e14a4-771a-4337-8987-15a0c866d73e",
+            "UserId":"16138",
+            "CloseReasonId":null,
+            "PostId":"24464",
+            "PostHistoryTypeId":"3",
+            "Id":"70076",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-06-29T16:19:03.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"394ad1da-b801-498d-a40a-0de35721e604",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"24464",
+            "PostHistoryTypeId":"10",
+            "Id":"156550",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

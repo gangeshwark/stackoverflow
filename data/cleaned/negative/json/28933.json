@@ -1,0 +1,83 @@
+{
+    "Body":"So I'm aware that C2DM is deprecated and that we eventually have to switch to GCM, but I wasn't expecting them to kill it off just yet. My application is currently using C2DM, which is still working fine on devices running Android 2.3 etc. Even when the application has been completely terminated. However, on ICS, C2DM messages does not arrive at all when you terminate the app. The Google Cloud To Device messaging service does not longer show up under the running \"Google Services\".Does anyone have any official information about the removal of the C2DM service process in ICS?",
+    "ViewCount":"349",
+    "LastActivityDate":"2012-09-07T13:25:00.513",
+    "ClosedDate":"2012-09-07T17:57:44.140",
+    "Title":"Has Google officially stopped supporting C2DM notifications in ICS?",
+    "LastEditorUserId":"18969",
+    "Tags":"",
+    "LastEditDate":"2012-09-07T13:25:00.513",
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18969",
+    "CreationDate":"2012-09-07T12:54:20.740",
+    "FavoriteCount":null,
+    "Id":"28933",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T12:54:20.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"01d7e9d6-6f37-496e-ad46-4d9e78188e24",
+            "UserId":"18969",
+            "CloseReasonId":null,
+            "PostId":"28933",
+            "PostHistoryTypeId":"2",
+            "Id":"84759",
+            "Text":"So I'm aware that C2DM is deprecated and that we eventually have to switch to GCM, but I wasn't expecting them to kill it off just yet. My application is currently using C2DM, which is still working fine on devices running Android 2.3 etc. Even when the application has been completely terminated. However, on ICS, C2DM messages does not arrive at all when you terminate the app. The Google Cloud To Device messaging service does not longer show up under the running \"Google Services\".Does anyone have any official information about the removal of the C2DM service process in ICS?Is the only solution to move over to GCM if we want the device to receive messages when the app isn't running?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T12:54:20.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"01d7e9d6-6f37-496e-ad46-4d9e78188e24",
+            "UserId":"18969",
+            "CloseReasonId":null,
+            "PostId":"28933",
+            "PostHistoryTypeId":"1",
+            "Id":"84760",
+            "Text":"Has Google officially stopped supporting C2DM notifications in ICS?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T12:54:20.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"01d7e9d6-6f37-496e-ad46-4d9e78188e24",
+            "UserId":"18969",
+            "CloseReasonId":null,
+            "PostId":"28933",
+            "PostHistoryTypeId":"3",
+            "Id":"84761",
+            "Text":""
+        },
+        {
+            "Comment":"Removed the technical question",
+            "CreationDate":"2012-09-07T13:25:00.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dce29ec-e377-431f-b015-3650c54d558f",
+            "UserId":"18969",
+            "CloseReasonId":null,
+            "PostId":"28933",
+            "PostHistoryTypeId":"5",
+            "Id":"84764",
+            "Text":"So I'm aware that C2DM is deprecated and that we eventually have to switch to GCM, but I wasn't expecting them to kill it off just yet. My application is currently using C2DM, which is still working fine on devices running Android 2.3 etc. Even when the application has been completely terminated. However, on ICS, C2DM messages does not arrive at all when you terminate the app. The Google Cloud To Device messaging service does not longer show up under the running \"Google Services\".Does anyone have any official information about the removal of the C2DM service process in ICS?"
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-09-07T17:57:44.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"3de1ae7e-5110-4321-9745-69b1cffce189",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28933",
+            "PostHistoryTypeId":"10",
+            "Id":"84820",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":1250,\"DisplayName\":\"Sparx\"}]}"
+        }
+    ]
+}

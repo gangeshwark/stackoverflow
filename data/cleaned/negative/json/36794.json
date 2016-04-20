@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Autoplay video on device boot  I have a iStick from PQ Lab with Android 4.0.4 I have a problem about how to play & loop video on startup for a very long time.I am looking for one that will start playing the video as soon as the app starts.The device is going to be placed in a shop. The problem is that between 12 and 6 AM the power is switched off so the player will turn off and on in the morning.Any idea on what I should do? Maybe another solution?",
+    "ViewCount":"22",
+    "LastActivityDate":"2013-01-03T15:14:34.537",
+    "ClosedDate":"2013-01-03T18:30:38.140",
+    "Title":"play & loop video on startup",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26070",
+    "CreationDate":"2013-01-03T15:14:34.537",
+    "FavoriteCount":null,
+    "Id":"36794",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-03T15:14:34.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"119acd20-aa28-4ea7-a430-d0d40f8e390d",
+            "UserId":"26070",
+            "CloseReasonId":null,
+            "PostId":"36794",
+            "PostHistoryTypeId":"2",
+            "Id":"111270",
+            "Text":"I have a iStick from PQ Lab with Android 4.0.4 I have a problem about how to play & loop video on startup for a very long time.I am looking for one that will start playing the video as soon as the app starts.The device is going to be placed in a shop. The problem is that between 12 and 6 AM the power is switched off so the player will turn off and on in the morning.Any idea on what I should do? Maybe another solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-03T15:14:34.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"119acd20-aa28-4ea7-a430-d0d40f8e390d",
+            "UserId":"26070",
+            "CloseReasonId":null,
+            "PostId":"36794",
+            "PostHistoryTypeId":"1",
+            "Id":"111271",
+            "Text":"play & loop video on startup"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-03T15:14:34.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"119acd20-aa28-4ea7-a430-d0d40f8e390d",
+            "UserId":"26070",
+            "CloseReasonId":null,
+            "PostId":"36794",
+            "PostHistoryTypeId":"3",
+            "Id":"111272",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-03T18:30:38.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d2a9712-8487-4f57-8ea7-e55fe5e02791",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36794",
+            "PostHistoryTypeId":"5",
+            "Id":"111346",
+            "Text":"> **Possible Duplicate:**  > [Autoplay video on device boot](http:\/\/android.stackexchange.com\/questions\/23322\/autoplay-video-on-device-boot)  I have a iStick from PQ Lab with Android 4.0.4 I have a problem about how to play & loop video on startup for a very long time.I am looking for one that will start playing the video as soon as the app starts.The device is going to be placed in a shop. The problem is that between 12 and 6 AM the power is switched off so the player will turn off and on in the morning.Any idea on what I should do? Maybe another solution?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-03T18:30:38.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"4bbf9f1d-cce8-4e06-ab76-1634d386cbda",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36794",
+            "PostHistoryTypeId":"10",
+            "Id":"111347",
+            "Text":"{\"OriginalQuestionIds\":[23322],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

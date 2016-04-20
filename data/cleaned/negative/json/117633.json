@@ -1,0 +1,71 @@
+{
+    "Body":"why is it that when I run an app it says I need an sd card? even though I have 6 gb available on my phone still??",
+    "ViewCount":"70",
+    "LastActivityDate":"2015-08-11T14:44:58.013",
+    "ClosedDate":"2015-08-12T17:34:45.103",
+    "Title":"i have a lot of space on my phone but my apps say it still needs a memory card?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"120220",
+    "CreationDate":"2015-08-08T00:35:12.313",
+    "FavoriteCount":null,
+    "Id":"117633",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-08T00:35:12.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"96d56a4d-87fd-4b17-a782-78ef5635fb62",
+            "UserId":"120220",
+            "CloseReasonId":null,
+            "PostId":"117633",
+            "PostHistoryTypeId":"2",
+            "Id":"387460",
+            "Text":"why is it that when I run an app it says I need an sd card? even though I have 6 gb available on my phone still??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-08T00:35:12.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"96d56a4d-87fd-4b17-a782-78ef5635fb62",
+            "UserId":"120220",
+            "CloseReasonId":null,
+            "PostId":"117633",
+            "PostHistoryTypeId":"1",
+            "Id":"387461",
+            "Text":"i have a lot of space on my phone but my apps say it still needs a memory card?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-08T00:35:12.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"96d56a4d-87fd-4b17-a782-78ef5635fb62",
+            "UserId":"120220",
+            "CloseReasonId":null,
+            "PostId":"117633",
+            "PostHistoryTypeId":"3",
+            "Id":"387462",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-08-12T17:34:45.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b2149c8-8194-4370-a151-ffc8824a4eb3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"117633",
+            "PostHistoryTypeId":"10",
+            "Id":"389943",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

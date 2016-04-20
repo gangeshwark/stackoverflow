@@ -1,0 +1,83 @@
+{
+    "Body":"I want to pull boot.img from my phone for rooting. I am using Ubuntu 13.04 PC with android SDK and adb drivers installed. I tried to root my phone in many ways. But there are not much tools available for ubuntu. I found a website where they posted how to root android phone manually using a ubuntu pc. I need to pull boot.img for that. Can someone help me please. I am using xperia arc s (LT18i).",
+    "ViewCount":"42",
+    "LastActivityDate":"2013-09-25T07:07:05.793",
+    "ClosedDate":"2013-10-16T11:02:55.740",
+    "Title":"Pulling boot.img",
+    "LastEditorUserId":"475",
+    "Tags":"",
+    "LastEditDate":"2013-09-25T07:07:05.793",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42097",
+    "CreationDate":"2013-09-25T04:26:48.063",
+    "FavoriteCount":null,
+    "Id":"53898",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-25T04:26:48.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"85e8bc5e-b969-4f40-82ab-8e6047d7a581",
+            "UserId":"42097",
+            "CloseReasonId":null,
+            "PostId":"53898",
+            "PostHistoryTypeId":"2",
+            "Id":"178371",
+            "Text":"I want to pull boot.img from my phone for rooting. I am using Ubuntu 13.04 PC with android SDK and adb drivers installed. I tried to root my phone in many ways. But there are not much tools available for ubuntu. I found a website where they posted how to root android phone manually using a ubuntu pc. I need to pull boot.img for that. Can someone help me please. I am using xperia arc s (LT18i)."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-25T04:26:48.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"85e8bc5e-b969-4f40-82ab-8e6047d7a581",
+            "UserId":"42097",
+            "CloseReasonId":null,
+            "PostId":"53898",
+            "PostHistoryTypeId":"1",
+            "Id":"178372",
+            "Text":"Pulling boot.img"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-25T04:26:48.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"85e8bc5e-b969-4f40-82ab-8e6047d7a581",
+            "UserId":"42097",
+            "CloseReasonId":null,
+            "PostId":"53898",
+            "PostHistoryTypeId":"3",
+            "Id":"178373",
+            "Text":""
+        },
+        {
+            "Comment":"Added tag",
+            "CreationDate":"2013-09-25T07:07:05.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e9aadab-fe1d-4d76-9ff6-2e58ec831cb6",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"53898",
+            "PostHistoryTypeId":"6",
+            "Id":"178393",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-16T11:02:55.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"0908c778-aa07-44b2-b054-2382d87a0693",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"53898",
+            "PostHistoryTypeId":"10",
+            "Id":"183272",
+            "Text":"{\"OriginalQuestionIds\":[44249],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

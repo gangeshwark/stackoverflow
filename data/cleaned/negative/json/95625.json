@@ -1,0 +1,71 @@
+{
+    "Body":"Many developers speak of Android's sleep mode. When exactly the device goes into sleep mode ?What is st standby mode ?How standby and sleep mode are different (or related)?When the device goes to standby ?What are the factors deciding whether standby or sleep mode ?Is there any thing called deep sleep ? (or deep standby), If so, info on it please...What services are shut down in sleep mode ?What will happen to the shut services on device wakeup.Consider I am downloading a file using ES Downloader, and gives the hide option.Say it's a huge file like 100mb,CASE 1 :My device screen dims, then screen turns off, but not locked.CASE 2 :My device screen dims, then screen turns off, and it goes to locked state.",
+    "ViewCount":"6485",
+    "LastActivityDate":"2015-01-12T10:15:29.430",
+    "ClosedDate":"2015-01-15T11:55:30.373",
+    "Title":"What is Android's sleep mode",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"89742",
+    "CreationDate":"2015-01-12T08:55:04.067",
+    "FavoriteCount":null,
+    "Id":"95625",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-12T08:55:04.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"0eabaac8-8b1a-4b44-b4d0-6fde6d89d225",
+            "UserId":"89742",
+            "CloseReasonId":null,
+            "PostId":"95625",
+            "PostHistoryTypeId":"2",
+            "Id":"311319",
+            "Text":"Many developers speak of Android's sleep mode. When exactly the device goes into sleep mode ?What is st standby mode ?How standby and sleep mode are different (or related)?When the device goes to standby ?What are the factors deciding whether standby or sleep mode ?Is there any thing called deep sleep ? (or deep standby), If so, info on it please...What services are shut down in sleep mode ?What will happen to the shut services on device wakeup.Consider I am downloading a file using ES Downloader, and gives the hide option.Say it's a huge file like 100mb,CASE 1 :My device screen dims, then screen turns off, but not locked.CASE 2 :My device screen dims, then screen turns off, and it goes to locked state."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-12T08:55:04.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"0eabaac8-8b1a-4b44-b4d0-6fde6d89d225",
+            "UserId":"89742",
+            "CloseReasonId":null,
+            "PostId":"95625",
+            "PostHistoryTypeId":"1",
+            "Id":"311320",
+            "Text":"What is Android's sleep mode"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-12T08:55:04.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"0eabaac8-8b1a-4b44-b4d0-6fde6d89d225",
+            "UserId":"89742",
+            "CloseReasonId":null,
+            "PostId":"95625",
+            "PostHistoryTypeId":"3",
+            "Id":"311321",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2015-01-15T11:55:30.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"5fca6b41-4109-4f6a-9f8b-d42a1535cba0",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"95625",
+            "PostHistoryTypeId":"10",
+            "Id":"312329",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

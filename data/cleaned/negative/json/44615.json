@@ -1,0 +1,71 @@
+{
+    "Body":"As the title says, if I reset my rooted nexus 4 to factory settings will it be unrooted relocked and superuser uninstalled?",
+    "ViewCount":"14463",
+    "LastActivityDate":"2013-07-01T23:21:33.923",
+    "ClosedDate":"2014-07-08T14:37:39.593",
+    "Title":"Will reseting my device to factory setting unroot and remove superuser?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32995",
+    "CreationDate":"2013-04-29T17:39:36.053",
+    "FavoriteCount":null,
+    "Id":"44615",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T17:39:36.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"f90b3310-b9be-47e9-ac85-88f76465f036",
+            "UserId":"32995",
+            "CloseReasonId":null,
+            "PostId":"44615",
+            "PostHistoryTypeId":"2",
+            "Id":"143257",
+            "Text":"As the title says, if I reset my rooted nexus 4 to factory settings will it be unrooted relocked and superuser uninstalled?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T17:39:36.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"f90b3310-b9be-47e9-ac85-88f76465f036",
+            "UserId":"32995",
+            "CloseReasonId":null,
+            "PostId":"44615",
+            "PostHistoryTypeId":"1",
+            "Id":"143258",
+            "Text":"Will reseting my device to factory setting unroot and remove superuser?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T17:39:36.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"f90b3310-b9be-47e9-ac85-88f76465f036",
+            "UserId":"32995",
+            "CloseReasonId":null,
+            "PostId":"44615",
+            "PostHistoryTypeId":"3",
+            "Id":"143259",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-08T14:37:39.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b5621d7-bc1d-4c5c-9435-2f3d89bf259f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"44615",
+            "PostHistoryTypeId":"10",
+            "Id":"252143",
+            "Text":"{\"OriginalQuestionIds\":[7169],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

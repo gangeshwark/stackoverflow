@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Suggestions for syncing data to someone besides Google? Funambol?  Does anyone know any effort on Android which can sync contacts, sms or even notes\/todos to my own server? I saw similar function on Samsung GS3 \"Add account\" settings page but not sure how it works.All advice are appreciated. Preferably open source projects. Thanks!",
+    "ViewCount":"2468",
+    "LastActivityDate":"2012-09-12T07:01:26.127",
+    "ClosedDate":"2012-09-13T16:19:32.903",
+    "Title":"Sync to my own server for contacts, sms and notes?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9413",
+    "CreationDate":"2012-09-12T03:48:01.003",
+    "FavoriteCount":"3",
+    "Id":"29199",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-12T03:48:01.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"37e0dcbf-d1f3-47e2-9ee9-b8ac20164b0e",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"29199",
+            "PostHistoryTypeId":"2",
+            "Id":"85660",
+            "Text":"Does anyone know any effort on Android which can sync contacts, sms or even notes\/todos to my own server? I saw similar function on Samsung GS3 \"Add account\" settings page but not sure how it works.All advice are appreciated. Preferably open source projects. Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-12T03:48:01.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"37e0dcbf-d1f3-47e2-9ee9-b8ac20164b0e",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"29199",
+            "PostHistoryTypeId":"1",
+            "Id":"85661",
+            "Text":"Sync to my own server for contacts, sms and notes?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-12T03:48:01.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"37e0dcbf-d1f3-47e2-9ee9-b8ac20164b0e",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"29199",
+            "PostHistoryTypeId":"3",
+            "Id":"85662",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-13T16:19:32.903",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba3ae147-19a3-4546-80f5-4a1ed864c9cc",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29199",
+            "PostHistoryTypeId":"5",
+            "Id":"86067",
+            "Text":"> **Possible Duplicate:**  > [Suggestions for syncing data to someone besides Google? Funambol?](http:\/\/android.stackexchange.com\/questions\/7774\/suggestions-for-syncing-data-to-someone-besides-google-funambol)  Does anyone know any effort on Android which can sync contacts, sms or even notes\/todos to my own server? I saw similar function on Samsung GS3 \"Add account\" settings page but not sure how it works.All advice are appreciated. Preferably open source projects. Thanks!"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-13T16:19:32.903",
+            "UserDisplayName":null,
+            "RevisionGUID":"eccb4a0d-08b4-4f0c-8b50-5c227db805c6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29199",
+            "PostHistoryTypeId":"10",
+            "Id":"86068",
+            "Text":"{\"OriginalQuestionIds\":[7774],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

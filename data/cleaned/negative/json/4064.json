@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Quick Dial Shortcut with skype  Is it possible to make a desktop shortcut to dial a number with skype?",
+    "ViewCount":"323",
+    "LastActivityDate":"2010-12-26T15:30:08.963",
+    "ClosedDate":"2010-12-27T06:20:20.603",
+    "Title":"How to put a Call contact using Skype shortcut widget on the home screen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38",
+    "CreationDate":"2010-12-26T15:30:08.963",
+    "FavoriteCount":null,
+    "Id":"4064",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-26T15:30:08.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"956fa75d-b9fc-43fa-a49a-814cd637a19d",
+            "UserId":"38",
+            "CloseReasonId":null,
+            "PostId":"4064",
+            "PostHistoryTypeId":"2",
+            "Id":"8392",
+            "Text":"Is it possible to make a desktop shortcut to dial a number with skype?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-26T15:30:08.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"956fa75d-b9fc-43fa-a49a-814cd637a19d",
+            "UserId":"38",
+            "CloseReasonId":null,
+            "PostId":"4064",
+            "PostHistoryTypeId":"1",
+            "Id":"8393",
+            "Text":"How to put a Call contact using Skype shortcut widget on the home screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-26T15:30:08.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"956fa75d-b9fc-43fa-a49a-814cd637a19d",
+            "UserId":"38",
+            "CloseReasonId":null,
+            "PostId":"4064",
+            "PostHistoryTypeId":"3",
+            "Id":"8394",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-27T06:20:20.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"b67c1bb9-eebc-41fa-ac9c-2af72ab5441b",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"4064",
+            "PostHistoryTypeId":"10",
+            "Id":"8428",
+            "Text":"{\"OriginalQuestionIds\":[2171],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-27T06:20:20.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef114cf6-48f3-4a66-b8c8-efbb1ae70297",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"4064",
+            "PostHistoryTypeId":"5",
+            "Id":"8429",
+            "Text":"> **Possible Duplicate:**  > [Quick Dial Shortcut with skype](http:\/\/android.stackexchange.com\/questions\/2171\/quick-dial-shortcut-with-skype)  Is it possible to make a desktop shortcut to dial a number with skype?"
+        }
+    ]
+}

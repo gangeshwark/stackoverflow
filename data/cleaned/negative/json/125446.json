@@ -1,0 +1,83 @@
+{
+    "Body":"i want to make call, from my samsung s5 that is at my home, using my laptop. I saw an app that can do that but it uses bluetooth or wifi but i want to use my android phone from my office laptop to make a call at my office. How is it possible? is there any app?  ",
+    "ViewCount":"32",
+    "LastActivityDate":"2015-10-09T14:16:08.210",
+    "ClosedDate":"2015-10-23T00:08:09.593",
+    "Title":"using my android fone via internet can i make a call from my laptop and talk at laptop",
+    "LastEditorUserId":"131230",
+    "Tags":"",
+    "LastEditDate":"2015-10-09T14:16:08.210",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131230",
+    "CreationDate":"2015-10-09T14:09:50.077",
+    "FavoriteCount":null,
+    "Id":"125446",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-09T14:09:50.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"375067c7-2476-49af-9c3b-9b67da312c92",
+            "UserId":"131230",
+            "CloseReasonId":null,
+            "PostId":"125446",
+            "PostHistoryTypeId":"2",
+            "Id":"411091",
+            "Text":"i want to make call, from my samsung s5 that is at my home, using my laptop. I saw an app that can do that but it uses bluetooth or wifi but i want to use my android phone from my office laptop to make a call at my office. How is it possible? is there any app?  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-09T14:09:50.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"375067c7-2476-49af-9c3b-9b67da312c92",
+            "UserId":"131230",
+            "CloseReasonId":null,
+            "PostId":"125446",
+            "PostHistoryTypeId":"1",
+            "Id":"411092",
+            "Text":"using my android fone via internet can i make a call from my laptop"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-09T14:09:50.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"375067c7-2476-49af-9c3b-9b67da312c92",
+            "UserId":"131230",
+            "CloseReasonId":null,
+            "PostId":"125446",
+            "PostHistoryTypeId":"3",
+            "Id":"411093",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2015-10-09T14:16:08.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e58cbc0-3a37-459a-bee9-f0e66383ea88",
+            "UserId":"131230",
+            "CloseReasonId":null,
+            "PostId":"125446",
+            "PostHistoryTypeId":"4",
+            "Id":"411095",
+            "Text":"using my android fone via internet can i make a call from my laptop and talk at laptop"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-23T00:08:09.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"1454c494-6c7a-49af-a4d0-26652ff55b4a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125446",
+            "PostHistoryTypeId":"10",
+            "Id":"416147",
+            "Text":"{\"OriginalQuestionIds\":[3908],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

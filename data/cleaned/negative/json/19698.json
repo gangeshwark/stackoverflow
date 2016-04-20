@@ -1,0 +1,71 @@
+{
+    "Body":"I've seen what FaceNiff is able to do on unsecured Wi-Fi. So question is simple.How can i protect my phone against FaceNiff?",
+    "ViewCount":"385",
+    "LastActivityDate":"2012-02-20T15:34:42.363",
+    "ClosedDate":"2012-02-20T20:16:44.643",
+    "Title":"How can i protect from FaceNiff?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12727",
+    "CreationDate":"2012-02-20T15:34:42.363",
+    "FavoriteCount":null,
+    "Id":"19698",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T15:34:42.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e215c02-361e-493e-9f42-a76f4181f443",
+            "UserId":"12727",
+            "CloseReasonId":null,
+            "PostId":"19698",
+            "PostHistoryTypeId":"2",
+            "Id":"54595",
+            "Text":"I've seen what FaceNiff is able to do on unsecured Wi-Fi. So question is simple.How can i protect my phone against FaceNiff?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T15:34:42.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e215c02-361e-493e-9f42-a76f4181f443",
+            "UserId":"12727",
+            "CloseReasonId":null,
+            "PostId":"19698",
+            "PostHistoryTypeId":"1",
+            "Id":"54596",
+            "Text":"How can i protect from FaceNiff?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T15:34:42.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e215c02-361e-493e-9f42-a76f4181f443",
+            "UserId":"12727",
+            "CloseReasonId":null,
+            "PostId":"19698",
+            "PostHistoryTypeId":"3",
+            "Id":"54597",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-02-20T20:16:44.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"be03f73c-d79d-401a-8c94-2278a3697c28",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"19698",
+            "PostHistoryTypeId":"10",
+            "Id":"54618",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

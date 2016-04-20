@@ -1,0 +1,71 @@
+{
+    "Body":"I'm pretty paranoid with the android apps and if I think an app requires too much, unnecessary permissions, I simply don't install the app. However, I feel like I'm missing out lately. For example, I prefer to use browser for facebook, and I refuse to update my twitter client that requires excessive permissions.So how can I distinguish a possibly malicious application from a decent application that requires lots of permissions? When am I safe and when should I be suspicious installing an app?",
+    "ViewCount":"338",
+    "LastActivityDate":"2015-02-05T16:33:37.970",
+    "ClosedDate":"2015-02-09T08:46:58.473",
+    "Title":"When should I get suspicious over permission requests and when should I safely install an app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"97805",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92864",
+    "CreationDate":"2015-02-04T00:54:11.353",
+    "FavoriteCount":null,
+    "Id":"97804",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T00:54:11.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"83b30ece-e5c8-4720-9f5d-73dfba4d8379",
+            "UserId":"92864",
+            "CloseReasonId":null,
+            "PostId":"97804",
+            "PostHistoryTypeId":"2",
+            "Id":"319051",
+            "Text":"I'm pretty paranoid with the android apps and if I think an app requires too much, unnecessary permissions, I simply don't install the app. However, I feel like I'm missing out lately. For example, I prefer to use browser for facebook, and I refuse to update my twitter client that requires excessive permissions.So how can I distinguish a possibly malicious application from a decent application that requires lots of permissions? When am I safe and when should I be suspicious installing an app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T00:54:11.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"83b30ece-e5c8-4720-9f5d-73dfba4d8379",
+            "UserId":"92864",
+            "CloseReasonId":null,
+            "PostId":"97804",
+            "PostHistoryTypeId":"1",
+            "Id":"319052",
+            "Text":"When should I get suspicious over permission requests and when should I safely install an app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T00:54:11.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"83b30ece-e5c8-4720-9f5d-73dfba4d8379",
+            "UserId":"92864",
+            "CloseReasonId":null,
+            "PostId":"97804",
+            "PostHistoryTypeId":"3",
+            "Id":"319053",
+            "Text":""
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2015-02-09T08:46:58.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"c15c5cd3-820d-43de-9fd3-824aa7589424",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"97804",
+            "PostHistoryTypeId":"10",
+            "Id":"320829",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

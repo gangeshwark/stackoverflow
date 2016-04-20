@@ -1,0 +1,71 @@
+{
+    "Body":"I set up my device quite some time ago and created a Google account. Since then, I haven't had to use my password even once because my device is linked to the account.The problem is, now I would like to sign into my Google account online and I can't because I have absolutely no clue what my password is. Is there any way I can recover or even change my password from my phone?I understand the need for privacy but I really have no need for that kind of protection.",
+    "ViewCount":"154",
+    "LastActivityDate":"2015-09-10T06:47:12.963",
+    "ClosedDate":"2015-09-24T00:49:51.370",
+    "Title":"What is my Google password?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"8",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"122697",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"119313",
+    "CreationDate":"2015-09-10T01:24:28.363",
+    "FavoriteCount":null,
+    "Id":"122680",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-10T01:24:28.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"7bac163f-7e40-4ba6-a309-4a0998e42598",
+            "UserId":"119313",
+            "CloseReasonId":null,
+            "PostId":"122680",
+            "PostHistoryTypeId":"2",
+            "Id":"400362",
+            "Text":"I set up my device quite some time ago and created a Google account. Since then, I haven't had to use my password even once because my device is linked to the account.The problem is, now I would like to sign into my Google account online and I can't because I have absolutely no clue what my password is. Is there any way I can recover or even change my password from my phone?I understand the need for privacy but I really have no need for that kind of protection."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-10T01:24:28.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"7bac163f-7e40-4ba6-a309-4a0998e42598",
+            "UserId":"119313",
+            "CloseReasonId":null,
+            "PostId":"122680",
+            "PostHistoryTypeId":"1",
+            "Id":"400363",
+            "Text":"What is my Google password?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-10T01:24:28.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"7bac163f-7e40-4ba6-a309-4a0998e42598",
+            "UserId":"119313",
+            "CloseReasonId":null,
+            "PostId":"122680",
+            "PostHistoryTypeId":"3",
+            "Id":"400364",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-24T00:49:51.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f9d2821-51cf-43cf-9485-8d2a752bdcf8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"122680",
+            "PostHistoryTypeId":"10",
+            "Id":"405432",
+            "Text":"{\"OriginalQuestionIds\":[29192,36380],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

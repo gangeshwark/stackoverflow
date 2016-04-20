@@ -1,0 +1,71 @@
+{
+    "Body":"I am kinda new to android, although I have my phone since 4 months ago, I never really considered rooting my phone.can you tell me what can go wrong, why should I and why shouldn't I, how-to, ETC?thanks anyway !",
+    "ViewCount":"23",
+    "LastActivityDate":"2013-09-27T19:42:19.223",
+    "ClosedDate":"2013-09-27T19:48:12.117",
+    "Title":"Rooting - how to, and what are the consequences\\risks",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42255",
+    "CreationDate":"2013-09-27T19:42:19.223",
+    "FavoriteCount":null,
+    "Id":"54069",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T19:42:19.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"c067d684-2edc-4b95-b536-13f5dedddcf6",
+            "UserId":"42255",
+            "CloseReasonId":null,
+            "PostId":"54069",
+            "PostHistoryTypeId":"2",
+            "Id":"179042",
+            "Text":"I am kinda new to android, although I have my phone since 4 months ago, I never really considered rooting my phone.can you tell me what can go wrong, why should I and why shouldn't I, how-to, ETC?thanks anyway !"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T19:42:19.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"c067d684-2edc-4b95-b536-13f5dedddcf6",
+            "UserId":"42255",
+            "CloseReasonId":null,
+            "PostId":"54069",
+            "PostHistoryTypeId":"1",
+            "Id":"179043",
+            "Text":"Rooting - how to, and what are the consequences\\risks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T19:42:19.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"c067d684-2edc-4b95-b536-13f5dedddcf6",
+            "UserId":"42255",
+            "CloseReasonId":null,
+            "PostId":"54069",
+            "PostHistoryTypeId":"3",
+            "Id":"179044",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-27T19:48:12.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ddf31d5-0fd6-427f-847a-c9c20eb4aa4b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"54069",
+            "PostHistoryTypeId":"10",
+            "Id":"179046",
+            "Text":"{\"OriginalQuestionIds\":[164],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

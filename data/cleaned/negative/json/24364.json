@@ -1,0 +1,83 @@
+{
+    "Body":"ICS does seem to take screenshots successfully on the Galaxy Nexus, but the files are all 0-byte long in \"My Computer\\Galaxy Nexus\\Internal Storage\\Pictures\\Screenshots\".Has someone seen this? What's wrong?Thank you.",
+    "ViewCount":"549",
+    "LastActivityDate":"2012-06-18T09:22:00.350",
+    "ClosedDate":"2013-01-04T14:49:04.387",
+    "Title":"Screenshots with ICS are 0-byte long",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15581",
+    "CreationDate":"2012-06-18T09:22:00.350",
+    "FavoriteCount":null,
+    "Id":"24364",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-18T09:22:00.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"85e5b5b3-cc5b-41c6-b90e-5dbf47eff4bb",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"24364",
+            "PostHistoryTypeId":"2",
+            "Id":"69764",
+            "Text":"ICS does seem to take screenshots successfully on the Galaxy Nexus, but the files are all 0-byte long in \"My Computer\\Galaxy Nexus\\Internal Storage\\Pictures\\Screenshots\".Has someone seen this? What's wrong?Thank you."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-18T09:22:00.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"85e5b5b3-cc5b-41c6-b90e-5dbf47eff4bb",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"24364",
+            "PostHistoryTypeId":"1",
+            "Id":"69765",
+            "Text":"Screenshots with ICS are 0-byte long"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-18T09:22:00.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"85e5b5b3-cc5b-41c6-b90e-5dbf47eff4bb",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"24364",
+            "PostHistoryTypeId":"3",
+            "Id":"69766",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/214667505116004352",
+            "CreationDate":"2012-06-18T10:34:56.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"532b3a80-c073-4818-b81f-db74ee80b131",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"24364",
+            "PostHistoryTypeId":"25",
+            "Id":"69770",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-04T14:49:04.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"8fd508df-c290-47d6-94c2-73e8f3d4352e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"24364",
+            "PostHistoryTypeId":"10",
+            "Id":"111590",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"}]}"
+        }
+    ]
+}

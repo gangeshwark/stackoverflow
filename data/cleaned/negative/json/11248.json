@@ -1,0 +1,83 @@
+{
+    "Body":"Is there any Android app out there for bluetooth handsfree control which requires no internet connection ? I want to make calls, receive calls, sent messages and I want my messages to be read to me. I looked around and I found that all of them use some kind of online webservices. I am using Desire S, android 2.3.3",
+    "ViewCount":"556",
+    "LastActivityDate":"2011-07-07T05:14:51.630",
+    "ClosedDate":"2012-12-22T12:52:56.967",
+    "Title":"Suggest a bluetooth handsfree app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6441",
+    "CreationDate":"2011-07-07T04:56:03.813",
+    "FavoriteCount":null,
+    "Id":"11248",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-07T04:56:03.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bbd653a-d1d7-4434-8317-551705e61734",
+            "UserId":"6441",
+            "CloseReasonId":null,
+            "PostId":"11248",
+            "PostHistoryTypeId":"2",
+            "Id":"28047",
+            "Text":"Is there any Android app out there for bluetooth handsfree control which requires no internet connection ? I want to make calls, receive calls, sent messages and I want my messages to be read to me. I looked around and I found that all of them use some kind of online webservices. I am using Desire S, android 2.3.3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-07T04:56:03.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bbd653a-d1d7-4434-8317-551705e61734",
+            "UserId":"6441",
+            "CloseReasonId":null,
+            "PostId":"11248",
+            "PostHistoryTypeId":"1",
+            "Id":"28048",
+            "Text":"Suggest a bluetooth handsfree app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-07T04:56:03.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bbd653a-d1d7-4434-8317-551705e61734",
+            "UserId":"6441",
+            "CloseReasonId":null,
+            "PostId":"11248",
+            "PostHistoryTypeId":"3",
+            "Id":"28049",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/88947266072743936",
+            "CreationDate":"2011-07-07T12:27:35.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"b29bde55-28ba-410a-842c-ffec14788b72",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"11248",
+            "PostHistoryTypeId":"25",
+            "Id":"28079",
+            "Text":null
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-12-22T12:52:56.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"9b9ba793-0caf-4dc5-915d-ac5bae8de443",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"11248",
+            "PostHistoryTypeId":"10",
+            "Id":"108284",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Samsung Galaxy S4 mini running Android 4.2.2. The problem I face is when I want to make a regular call, Android asks whether to make the call using VoIP or normal. If I chose normal, it first goes to Skype. I have to disconnect that. Then, if I call the same number again, it does a normal voice call.I have the Skype app installed on my phone. Please advice me how to fix this problem.",
+    "ViewCount":"394",
+    "LastActivityDate":"2013-10-03T16:53:20.180",
+    "ClosedDate":"2013-10-04T21:20:49.803",
+    "Title":"voice call problem",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-10-03T16:53:20.180",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42593",
+    "CreationDate":"2013-10-03T15:01:34.607",
+    "FavoriteCount":null,
+    "Id":"54397",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-03T15:01:34.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"78bd4f46-2385-4d9e-bb05-ae23d3075e76",
+            "UserId":"42593",
+            "CloseReasonId":null,
+            "PostId":"54397",
+            "PostHistoryTypeId":"2",
+            "Id":"180336",
+            "Text":"I have Samsung s4 mini with 4.2.2 version..my problem in phone is if I make a regular call, it ask fr option whether to make a call in voip or normal.. if I chose the normal cal if first goes to skype..I have 2 disconnect that..then if I cal the same number again then it connects as a normal voice call. I have installed skype in my phone. Please advice me to fix this problem. Its so irritating. .Please help me"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-03T15:01:34.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"78bd4f46-2385-4d9e-bb05-ae23d3075e76",
+            "UserId":"42593",
+            "CloseReasonId":null,
+            "PostId":"54397",
+            "PostHistoryTypeId":"1",
+            "Id":"180337",
+            "Text":"voice call problem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-03T15:01:34.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"78bd4f46-2385-4d9e-bb05-ae23d3075e76",
+            "UserId":"42593",
+            "CloseReasonId":null,
+            "PostId":"54397",
+            "PostHistoryTypeId":"3",
+            "Id":"180338",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 8 characters in body",
+            "CreationDate":"2013-10-03T16:53:20.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e74150e-356a-4c02-8687-aecc763173ae",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"54397",
+            "PostHistoryTypeId":"5",
+            "Id":"180373",
+            "Text":"I have a *Samsung Galaxy S4 mini* running Android 4.2.2. The problem I face is when I want to make a regular call, Android asks whether to make the call using VoIP or normal. If I chose normal, it first goes to *Skype.* I have to disconnect that. Then, if I call the same number again, it does a normal voice call.I have the *Skype* app installed on my phone. Please advice me how to fix this problem."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-04T21:20:49.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"a3b52278-90ca-4162-a0be-cdfc8dc83edd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"54397",
+            "PostHistoryTypeId":"10",
+            "Id":"180719",
+            "Text":"{\"OriginalQuestionIds\":[49271],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

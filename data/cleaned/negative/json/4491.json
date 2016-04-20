@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Knowing which applications to stop  I just got a used Nexus One and I see a lot of running services and applications.  I'm wondering what negative impact there would be if I just started switching them off?  For example, obviously, I don't want to mess with \"Calendar,\" but what about \"Calendar Storage?\" If I install Handcent SMS, do I still need the Messaging-related services\/applications?  Same for Media: if I install Winamp, do I still need those?",
+    "ViewCount":"1103",
+    "LastActivityDate":"2011-01-07T19:15:30.520",
+    "ClosedDate":"2011-01-09T13:57:54.920",
+    "Title":"What running applications and services are safe to turn off?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2011-01-07T19:06:40.413",
+    "FavoriteCount":null,
+    "Id":"4491",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-07T19:06:40.413",
+            "UserDisplayName":"user1957",
+            "RevisionGUID":"1f36ea86-cd73-4da1-8fa3-7870774c8224",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"4491",
+            "PostHistoryTypeId":"2",
+            "Id":"9471",
+            "Text":"I just got a used Nexus One and I see a lot of running services and applications.  I'm wondering what negative impact there would be if I just started switching them off?  For example, obviously, I don't want to mess with \"Calendar,\" but what about \"Calendar Storage?\" If I install Handcent SMS, do I still need the Messaging-related services\/applications?  Same for Media: if I install Winamp, do I still need those?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-07T19:06:40.413",
+            "UserDisplayName":"user1957",
+            "RevisionGUID":"1f36ea86-cd73-4da1-8fa3-7870774c8224",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"4491",
+            "PostHistoryTypeId":"1",
+            "Id":"9472",
+            "Text":"What running applications and services are safe to turn off?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-07T19:06:40.413",
+            "UserDisplayName":"user1957",
+            "RevisionGUID":"1f36ea86-cd73-4da1-8fa3-7870774c8224",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"4491",
+            "PostHistoryTypeId":"3",
+            "Id":"9473",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-01-09T13:57:54.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee3dc8fb-0f77-4e0e-8702-57a3292a8e1e",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"4491",
+            "PostHistoryTypeId":"10",
+            "Id":"9574",
+            "Text":"{\"OriginalQuestionIds\":[2906],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-01-09T13:57:55.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"fedb3f79-8757-41b2-87b4-39da2ac49572",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"4491",
+            "PostHistoryTypeId":"5",
+            "Id":"9575",
+            "Text":"> **Possible Duplicate:**  > [Knowing which applications to stop](http:\/\/android.stackexchange.com\/questions\/2906\/knowing-which-applications-to-stop)  I just got a used Nexus One and I see a lot of running services and applications.  I'm wondering what negative impact there would be if I just started switching them off?  For example, obviously, I don't want to mess with \"Calendar,\" but what about \"Calendar Storage?\" If I install Handcent SMS, do I still need the Messaging-related services\/applications?  Same for Media: if I install Winamp, do I still need those?"
+        }
+    ]
+}

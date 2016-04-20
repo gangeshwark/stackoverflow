@@ -1,0 +1,83 @@
+{
+    "Body":"I was trying yesterday to flash my p1010. I found on internet that I could put jellybean but it didn't work out and now my tab is stuck on the galaxy tab logo and is not booting the system. I'm able to go to download mode as well as to recovery mode and I tried to install new firmware on my tab but I can't find the right version anywhere on samfirmware.com there is only link to chinese vesrion and i bought mine in UK in 2011. IF anyone could send me over some links to good working firmware i'd be really thankfull ...",
+    "ViewCount":"905",
+    "LastActivityDate":"2014-01-21T10:19:02.273",
+    "ClosedDate":"2014-01-22T10:04:07.930",
+    "Title":"Bricked GT P1010",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-01-21T10:04:05.723",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"51390",
+    "CreationDate":"2014-01-21T09:15:43.813",
+    "FavoriteCount":null,
+    "Id":"61649",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-21T09:15:43.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"40105ed0-6788-4649-adc4-dd96046d62a4",
+            "UserId":"51390",
+            "CloseReasonId":null,
+            "PostId":"61649",
+            "PostHistoryTypeId":"2",
+            "Id":"208735",
+            "Text":"I was trying yesterday to flash my p1010. I found on internet that I could put jellybean but it didn't work out and now my tab is stuck on the galaxy tab logo and is not booting the system. I'm able to go to download mode as well as to recovery mode and I tried to install new firmware on my tab but I can't find the right version anywhere on samfirmware.com there is only link to chinese vesrion and i bought mine in UK in 2011. IF anyone could send me over some links to good working firmware i'd be really thankfull ..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-21T09:15:43.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"40105ed0-6788-4649-adc4-dd96046d62a4",
+            "UserId":"51390",
+            "CloseReasonId":null,
+            "PostId":"61649",
+            "PostHistoryTypeId":"1",
+            "Id":"208736",
+            "Text":"Bricked GT P1010"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-21T09:15:43.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"40105ed0-6788-4649-adc4-dd96046d62a4",
+            "UserId":"51390",
+            "CloseReasonId":null,
+            "PostId":"61649",
+            "PostHistoryTypeId":"3",
+            "Id":"208737",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-21T10:04:05.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"86880a28-5143-4205-8b4c-a83370488533",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"61649",
+            "PostHistoryTypeId":"6",
+            "Id":"208747",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-22T10:04:07.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"84fc357c-f088-4553-a62f-3bb9e2d20a2b",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"61649",
+            "PostHistoryTypeId":"10",
+            "Id":"209017",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

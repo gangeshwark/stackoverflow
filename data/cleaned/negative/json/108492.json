@@ -1,0 +1,71 @@
+{
+    "Body":"my galaxy trend cannot scan the QR code because the camera somehow has a problem for not taking quality image than before, the camera image is blurred so the phone cannot scan the QR code, any alternative pliz",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-05-05T08:35:50.080",
+    "ClosedDate":"2015-05-05T08:42:32.223",
+    "Title":"Can't scan whatsapp QR code because my camera is taking blurred image",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"106449",
+    "CreationDate":"2015-05-05T08:35:50.080",
+    "FavoriteCount":null,
+    "Id":"108492",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T08:35:50.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"12cf7766-078c-4f3b-beb7-8392490dd330",
+            "UserId":"106449",
+            "CloseReasonId":null,
+            "PostId":"108492",
+            "PostHistoryTypeId":"2",
+            "Id":"353333",
+            "Text":"my galaxy trend cannot scan the QR code because the camera somehow has a problem for not taking quality image than before, the camera image is blurred so the phone cannot scan the QR code, any alternative pliz"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T08:35:50.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"12cf7766-078c-4f3b-beb7-8392490dd330",
+            "UserId":"106449",
+            "CloseReasonId":null,
+            "PostId":"108492",
+            "PostHistoryTypeId":"1",
+            "Id":"353334",
+            "Text":"Can't scan whatsapp QR code because my camera is taking blurred image"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T08:35:50.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"12cf7766-078c-4f3b-beb7-8392490dd330",
+            "UserId":"106449",
+            "CloseReasonId":null,
+            "PostId":"108492",
+            "PostHistoryTypeId":"3",
+            "Id":"353335",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-05T08:42:32.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8746803-19e7-4391-87dc-c86908108b54",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"108492",
+            "PostHistoryTypeId":"10",
+            "Id":"353342",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

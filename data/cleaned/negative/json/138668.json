@@ -1,0 +1,71 @@
+{
+    "Body":"I am using the code of http:\/\/square.github.io\/okhttp\/. What I want is: I want to get response from a server by post request. Here is the code:package com.codingpractise.www.officemanagement;import java.net.InetAddress;import java.util.ArrayList;import java.util.List;import android.app.Activity;import android.content.Context;import android.net.ConnectivityManager;import android.net.NetworkInfo;import android.os.AsyncTask;import android.os.Bundle;import android.text.method.ScrollingMovementMethod;import android.view.Menu;import android.view.MenuItem;import android.view.View;import android.widget.ProgressBar;import android.widget.TextView;import android.widget.Toast;import java.io.IOException;import okhttp3.MediaType;import okhttp3.OkHttpClient;import okhttp3.Request;import okhttp3.RequestBody;import okhttp3.Response;public class MainActivity extends Activity {    TextView output;    public static final MediaType JSON            = MediaType.parse(\"application\/json; charset=utf-8\");    OkHttpClient client = new OkHttpClient();    @Override    protected void onCreate(Bundle savedInstanceState) {        super.onCreate(savedInstanceState);        setContentView(R.layout.activity_main);\/\/      Initialize the TextView for vertical scrolling        output = (TextView) findViewById(R.id.message);        output.setMovementMethod(new ScrollingMovementMethod());    }    public void sendSalesData(View view) {        try{            if(isOnline()){                \/\/Net connection Ok               \/\/ requestData(\"http:\/\/localhost:1234\/track\/process\/data\");                String json = \"{'winCondition':'HIGH_SCORE',\"                        + \"'name':'Bowling',\"                        + \"'round':4,\"                        + \"'lastSaved':1367702411696,\"                        + \"'dateStarted':1367702378785,\"                        + \"'players':[\"                        + \"{'name':'\" + \"Sattar\" + \"','history':[10,8,6,7,8],'color':-13388315,'total':39},\"                        + \"{'name':'\" + \"Santo\" + \"','history':[6,10,5,10,10],'color':-48060,'total':41}\"                        + \"]}\";                \/\/String response = post(\"http:\/\/localhost:1234\/track\/process\/data\", json);                MainActivity  thisObj = new MainActivity();                String response = thisObj.post(\"http:\/\/localhost:1234\/track\/process\/data\", json);               System.out.println(response);               \/\/ String  response =\"Fuck\";                output.setText(response);            }            else{                output.setText(\"NO Internet connection!\");            }        }        catch (Exception e){            output.setText(e.getMessage());        }    }    protected boolean isOnline() {        ConnectivityManager cm = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);        NetworkInfo netInfo = cm.getActiveNetworkInfo();        return netInfo != null && netInfo.isConnectedOrConnecting();    }      String post(String url, String json) throws IOException {        RequestBody body = RequestBody.create(JSON, json);        Request request = new Request.Builder()                .url(url)                .post(body)                .build();        Response response = client.newCall(request).execute();        return response.body().string();    }} When a button is clicked sendSalesData() function will execute. In this function I process post request. The server response is just simple php echo code:echo 'response from server';But I get nothing when I click on this button. What problems with my code. Sorry for my bad English. ",
+    "ViewCount":"16",
+    "LastActivityDate":"2016-03-02T21:28:47.933",
+    "ClosedDate":"2016-03-02T21:37:39.543",
+    "Title":"Can't catch response by OkHttp",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154265",
+    "CreationDate":"2016-03-02T21:28:47.933",
+    "FavoriteCount":null,
+    "Id":"138668",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T21:28:47.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"9af44e99-eb95-40eb-bdc3-7cbec9b6b8a0",
+            "UserId":"154265",
+            "CloseReasonId":null,
+            "PostId":"138668",
+            "PostHistoryTypeId":"2",
+            "Id":"463464",
+            "Text":"I am using the code of http:\/\/square.github.io\/okhttp\/. What I want is: I want to get response from a server by post request. Here is the code:    package com.codingpractise.www.officemanagement;        import java.net.InetAddress;    import java.util.ArrayList;    import java.util.List;        import android.app.Activity;    import android.content.Context;    import android.net.ConnectivityManager;    import android.net.NetworkInfo;    import android.os.AsyncTask;    import android.os.Bundle;    import android.text.method.ScrollingMovementMethod;    import android.view.Menu;    import android.view.MenuItem;    import android.view.View;    import android.widget.ProgressBar;    import android.widget.TextView;    import android.widget.Toast;    import java.io.IOException;    import okhttp3.MediaType;    import okhttp3.OkHttpClient;    import okhttp3.Request;    import okhttp3.RequestBody;    import okhttp3.Response;    public class MainActivity extends Activity {            TextView output;        public static final MediaType JSON                = MediaType.parse(\"application\/json; charset=utf-8\");            OkHttpClient client = new OkHttpClient();            @Override        protected void onCreate(Bundle savedInstanceState) {            super.onCreate(savedInstanceState);            setContentView(R.layout.activity_main);                    \/\/  Initialize the TextView for vertical scrolling            output = (TextView) findViewById(R.id.message);            output.setMovementMethod(new ScrollingMovementMethod());            }                    public void sendSalesData(View view) {            try{                if(isOnline()){                    \/\/Net connection Ok                   \/\/ requestData(\"http:\/\/localhost:1234\/track\/process\/data\");                        String json = \"{'winCondition':'HIGH_SCORE',\"                            + \"'name':'Bowling',\"                            + \"'round':4,\"                            + \"'lastSaved':1367702411696,\"                            + \"'dateStarted':1367702378785,\"                            + \"'players':[\"                            + \"{'name':'\" + \"Sattar\" + \"','history':[10,8,6,7,8],'color':-13388315,'total':39},\"                            + \"{'name':'\" + \"Santo\" + \"','history':[6,10,5,10,10],'color':-48060,'total':41}\"                            + \"]}\";                    \/\/String response = post(\"http:\/\/localhost:1234\/track\/process\/data\", json);                    MainActivity  thisObj = new MainActivity();                        String response = thisObj.post(\"http:\/\/localhost:1234\/track\/process\/data\", json);                   System.out.println(response);                       \/\/ String  response =\"Fuck\";                    output.setText(response);                }                else{                    output.setText(\"NO Internet connection!\");                }            }            catch (Exception e){                output.setText(e.getMessage());            }                }            protected boolean isOnline() {            ConnectivityManager cm = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);            NetworkInfo netInfo = cm.getActiveNetworkInfo();            return netInfo != null && netInfo.isConnectedOrConnecting();        }          String post(String url, String json) throws IOException {            RequestBody body = RequestBody.create(JSON, json);            Request request = new Request.Builder()                    .url(url)                    .post(body)                    .build();            Response response = client.newCall(request).execute();            return response.body().string();        }    } When a button is clicked sendSalesData() function will execute. In this function I process post request. The server response is just simple php echo code:     echo 'response from server';But I get nothing when I click on this button. What problems with my code. Sorry for my bad English. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T21:28:47.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"9af44e99-eb95-40eb-bdc3-7cbec9b6b8a0",
+            "UserId":"154265",
+            "CloseReasonId":null,
+            "PostId":"138668",
+            "PostHistoryTypeId":"1",
+            "Id":"463465",
+            "Text":"Can't catch response by OkHttp"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T21:28:47.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"9af44e99-eb95-40eb-bdc3-7cbec9b6b8a0",
+            "UserId":"154265",
+            "CloseReasonId":null,
+            "PostId":"138668",
+            "PostHistoryTypeId":"3",
+            "Id":"463466",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-02T21:37:39.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca998792-381c-4b54-8ebe-e20a45ea86da",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138668",
+            "PostHistoryTypeId":"10",
+            "Id":"463472",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

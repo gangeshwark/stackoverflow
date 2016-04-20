@@ -1,0 +1,71 @@
+{
+    "Body":"I've searched and got many results. Some people were telling JB for Xperia U would be comming soon. Some were telling never. Is is possible to port Jelly Bean in XPERIA U? Did anyone succeed yet?",
+    "ViewCount":"25",
+    "LastActivityDate":"2013-05-09T04:57:21.430",
+    "ClosedDate":"2013-05-09T16:07:50.657",
+    "Title":"Xperia U and Jelly Bean",
+    "LastEditorUserId":null,
+    "Tags":"<4.1-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33534",
+    "CreationDate":"2013-05-09T04:57:21.430",
+    "FavoriteCount":null,
+    "Id":"45107",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-09T04:57:21.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fc05353-31f2-479a-b09d-c366032981c6",
+            "UserId":"33534",
+            "CloseReasonId":null,
+            "PostId":"45107",
+            "PostHistoryTypeId":"2",
+            "Id":"145179",
+            "Text":"I've searched and got many results. Some people were telling JB for Xperia U would be comming soon. Some were telling never. Is is possible to port Jelly Bean in XPERIA U? Did anyone succeed yet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-09T04:57:21.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fc05353-31f2-479a-b09d-c366032981c6",
+            "UserId":"33534",
+            "CloseReasonId":null,
+            "PostId":"45107",
+            "PostHistoryTypeId":"1",
+            "Id":"145180",
+            "Text":"Xperia U and Jelly Bean"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-09T04:57:21.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fc05353-31f2-479a-b09d-c366032981c6",
+            "UserId":"33534",
+            "CloseReasonId":null,
+            "PostId":"45107",
+            "PostHistoryTypeId":"3",
+            "Id":"145181",
+            "Text":"<4.1-jelly-bean>"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-09T16:07:50.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1317ba4-1a24-4dca-aa60-d331179f6175",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"45107",
+            "PostHistoryTypeId":"10",
+            "Id":"145295",
+            "Text":"{\"OriginalQuestionIds\":[24575],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

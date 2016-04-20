@@ -1,0 +1,71 @@
+{
+    "Body":"As a student researcher, I would like to know if there is an in app code to root an android kitkat device without the user knowing it(discreetly). If there is any open source app code to root a phone, then that will do the task. I have looked at many rooting apps but could not find any open source code for those.",
+    "ViewCount":"199",
+    "LastActivityDate":"2014-11-20T20:59:50.143",
+    "ClosedDate":"2014-11-20T21:35:15.797",
+    "Title":"Silently root an android kitkat phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"88358",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81002",
+    "CreationDate":"2014-11-20T20:32:54.423",
+    "FavoriteCount":null,
+    "Id":"88353",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T20:32:54.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba8ec87b-e008-4726-90cf-b8b61123afe4",
+            "UserId":"81002",
+            "CloseReasonId":null,
+            "PostId":"88353",
+            "PostHistoryTypeId":"2",
+            "Id":"290876",
+            "Text":"As a student researcher, I would like to know if there is an in app code to root an android kitkat device without the user knowing it(discreetly). If there is any open source app code to root a phone, then that will do the task. I have looked at many rooting apps but could not find any open source code for those."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T20:32:54.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba8ec87b-e008-4726-90cf-b8b61123afe4",
+            "UserId":"81002",
+            "CloseReasonId":null,
+            "PostId":"88353",
+            "PostHistoryTypeId":"1",
+            "Id":"290877",
+            "Text":"Silently root an android kitkat phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T20:32:54.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba8ec87b-e008-4726-90cf-b8b61123afe4",
+            "UserId":"81002",
+            "CloseReasonId":null,
+            "PostId":"88353",
+            "PostHistoryTypeId":"3",
+            "Id":"290878",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-11-20T21:35:15.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f9a653f-7ff3-42b2-830b-ae396517a601",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"88353",
+            "PostHistoryTypeId":"10",
+            "Id":"290891",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

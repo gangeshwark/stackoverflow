@@ -1,0 +1,83 @@
+{
+    "Body":"I have recently installed the CyanogenMod in my Samsung N700.Issues now i want to install Google apps like play store, maps etc. Learning from here i have download the .zip package and it is in my sdcard now.Issue is now i don't know how to use it, if i try to open it its says no application to handle such(zip) files.Can anyone please guide me through this?",
+    "ViewCount":"106565",
+    "LastActivityDate":"2013-10-18T14:14:57.823",
+    "ClosedDate":"2013-10-18T23:18:34.873",
+    "Title":"How to flash the gapps package after installing CyanogenMod",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"10",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"43503",
+    "CreationDate":"2013-10-18T14:03:46.277",
+    "FavoriteCount":"4",
+    "Id":"55336",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-18T14:03:46.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c59c077-0cd0-4e16-9c04-faba80d7215e",
+            "UserId":"43503",
+            "CloseReasonId":null,
+            "PostId":"55336",
+            "PostHistoryTypeId":"2",
+            "Id":"183851",
+            "Text":"I have recently installed the `CyanogenMod` in my Samsung N700.Issues now i want to install Google apps like play store, maps etc. Learning from [here][1] i have download the `.zip` package and it is in my sdcard now.Issue is now i don't know how to use it, if i try to open it its says no application to handle such(zip) files.Can anyone please guide me through this?  [1]: http:\/\/forum.cyanogenmod.com\/topic\/74512-where-is-my-google-account-stuff-why-does-play-store-crash\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-18T14:03:46.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c59c077-0cd0-4e16-9c04-faba80d7215e",
+            "UserId":"43503",
+            "CloseReasonId":null,
+            "PostId":"55336",
+            "PostHistoryTypeId":"1",
+            "Id":"183852",
+            "Text":"How to flash the gapps package after installing CyanogenMod"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-18T14:03:46.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c59c077-0cd0-4e16-9c04-faba80d7215e",
+            "UserId":"43503",
+            "CloseReasonId":null,
+            "PostId":"55336",
+            "PostHistoryTypeId":"3",
+            "Id":"183853",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/391224076964216832",
+            "CreationDate":"2013-10-18T15:27:43.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"77f1f283-98c9-4e48-a5dd-07186a1cf43d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"55336",
+            "PostHistoryTypeId":"25",
+            "Id":"183882",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-18T23:18:34.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"62f04eec-3433-4460-9388-1c9ec210f28d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"55336",
+            "PostHistoryTypeId":"10",
+            "Id":"183943",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        }
+    ]
+}

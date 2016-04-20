@@ -1,0 +1,71 @@
+{
+    "Body":"Presently I am trying to download the android 4.0 source from https:\/\/android.googlesource.com\/platform\/manifest -b android-4.0.1_r1The package and project paths are accessible here https:\/\/android.googlesource.com\/platform\/manifest\/+\/c4e4db1a85b9bea00b9fe8c6a18f9d3357adab0c\/default.xmlCurrently I am using ubuntu based curl , gitcore and repo to download the source. I tried to search but could not find any public HTTP or FTP mirrors that shares the entire source code in a compressed iso or rar file. Is anyone aware of such public mirrors.",
+    "ViewCount":"1139",
+    "LastActivityDate":"2012-07-28T15:00:32.273",
+    "ClosedDate":"2012-07-28T19:15:06.303",
+    "Title":"Are there any alternate mirrors for downloading Android Source",
+    "LastEditorUserId":null,
+    "Tags":"<4.0-ice-cream-sandwich>",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17393",
+    "CreationDate":"2012-07-28T10:30:54.017",
+    "FavoriteCount":null,
+    "Id":"26597",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-28T10:30:54.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"7226c43d-254b-4b49-a596-c7e6be50e254",
+            "UserId":"17393",
+            "CloseReasonId":null,
+            "PostId":"26597",
+            "PostHistoryTypeId":"2",
+            "Id":"77083",
+            "Text":"Presently I am trying to download the android 4.0 source from     https:\/\/android.googlesource.com\/platform\/manifest -b android-4.0.1_r1The package and project paths are accessible here `https:\/\/android.googlesource.com\/platform\/manifest\/+\/c4e4db1a85b9bea00b9fe8c6a18f9d3357adab0c\/default.xml`Currently I am using ubuntu based curl , gitcore and repo to download the source. I tried to search but could not find any public HTTP or FTP mirrors that shares the entire source code in a compressed iso or rar file. Is anyone aware of such public mirrors."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-28T10:30:54.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"7226c43d-254b-4b49-a596-c7e6be50e254",
+            "UserId":"17393",
+            "CloseReasonId":null,
+            "PostId":"26597",
+            "PostHistoryTypeId":"1",
+            "Id":"77084",
+            "Text":"Are there any alternate mirrors for downloading Android Source"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-28T10:30:54.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"7226c43d-254b-4b49-a596-c7e6be50e254",
+            "UserId":"17393",
+            "CloseReasonId":null,
+            "PostId":"26597",
+            "PostHistoryTypeId":"3",
+            "Id":"77085",
+            "Text":"<4.0-ice-cream-sandwich>"
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-07-28T19:15:06.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"72e28062-80e6-4a81-bbb1-7120f4d79309",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"26597",
+            "PostHistoryTypeId":"10",
+            "Id":"77133",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

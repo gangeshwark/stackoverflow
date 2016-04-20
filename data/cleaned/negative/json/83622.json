@@ -1,0 +1,83 @@
+{
+    "Body":"As we know, the internal nand flash have many partitions, such as for bootloader, boot, system, data,  recovery, cache, misc, but there is no partition for radio.However, one can upgrade the base-band firmware by flashing radio.img.Where is the location to store radio.img?I know the 2G\/3G's sending\/reception are done by a dedicated chip, say Cortex-R4.So I speculate: There must be a dedicated nand flash for Cortex-R4. The nand flash can only be accessed by the bootloader, and separated from the normal nand flash.Am I correct?",
+    "ViewCount":"73",
+    "LastActivityDate":"2014-10-05T06:11:44.813",
+    "ClosedDate":"2014-10-14T15:53:00.323",
+    "Title":"Is there a dedicated Nand-Flash for the base-band chip?",
+    "LastEditorUserId":"64514",
+    "Tags":"",
+    "LastEditDate":"2014-10-05T06:11:44.813",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64514",
+    "CreationDate":"2014-09-29T05:51:29.337",
+    "FavoriteCount":null,
+    "Id":"83622",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-29T05:51:29.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d437e6e-9e54-49f3-8077-cd499e553240",
+            "UserId":"64514",
+            "CloseReasonId":null,
+            "PostId":"83622",
+            "PostHistoryTypeId":"2",
+            "Id":"274289",
+            "Text":"As we know, the internal nand flash have many partitions, such as for bootloader, boot, system, data,  recovery, cache, misc, but there is no partition for radio.However, one can upgrade the base-band firmware by flashing radio.img.Where is the location to store radio.img?I know the 3G\/3G's sending\/reception are done by a dedicated chip, say Cortex-R4.So I speculate: There must be a dedicated nand flash for Cortex-R4. The nand flash can only be accessed by the bootloader, and separated from the normal nand flash.Am I correct?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-29T05:51:29.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d437e6e-9e54-49f3-8077-cd499e553240",
+            "UserId":"64514",
+            "CloseReasonId":null,
+            "PostId":"83622",
+            "PostHistoryTypeId":"1",
+            "Id":"274290",
+            "Text":"Is there a dedicated Nand-Flash for the base-band chip?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-29T05:51:29.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d437e6e-9e54-49f3-8077-cd499e553240",
+            "UserId":"64514",
+            "CloseReasonId":null,
+            "PostId":"83622",
+            "PostHistoryTypeId":"3",
+            "Id":"274291",
+            "Text":""
+        },
+        {
+            "Comment":"edited body",
+            "CreationDate":"2014-10-05T06:11:44.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"a3e50de4-4207-4e9f-97ff-7b900099882e",
+            "UserId":"64514",
+            "CloseReasonId":null,
+            "PostId":"83622",
+            "PostHistoryTypeId":"5",
+            "Id":"276044",
+            "Text":"As we know, the internal nand flash have many partitions, such as for bootloader, boot, system, data,  recovery, cache, misc, but there is no partition for radio.However, one can upgrade the base-band firmware by flashing radio.img.Where is the location to store radio.img?I know the 2G\/3G's sending\/reception are done by a dedicated chip, say Cortex-R4.So I speculate: There must be a dedicated nand flash for Cortex-R4. The nand flash can only be accessed by the bootloader, and separated from the normal nand flash.Am I correct?"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-10-14T15:53:00.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb7e3c77-f881-46fa-a986-85f5e337d849",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"83622",
+            "PostHistoryTypeId":"10",
+            "Id":"278695",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

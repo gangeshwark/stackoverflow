@@ -1,0 +1,71 @@
+{
+    "Body":"I have a tablet which runs on android 1.6 and I am curious if there is any way that I can upgrade it to a higher version android. If so, please let me know the process. I will appreciate it a lot. I do not have much knowledge on this one. I just want to know. Thank you.",
+    "ViewCount":"73",
+    "LastActivityDate":"2013-08-21T18:28:37.820",
+    "ClosedDate":"2014-12-16T22:23:05.433",
+    "Title":"Android 1.6 tablet would like to get help upgrading it to higher version",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"39788",
+    "CreationDate":"2013-08-21T09:49:54.697",
+    "FavoriteCount":null,
+    "Id":"51654",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-21T09:49:54.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"7285715d-81d4-437a-86d9-66052657b5a6",
+            "UserId":"39788",
+            "CloseReasonId":null,
+            "PostId":"51654",
+            "PostHistoryTypeId":"2",
+            "Id":"169561",
+            "Text":"I have a tablet which runs on android 1.6 and I am curious if there is any way that I can upgrade it to a higher version android. If so, please let me know the process. I will appreciate it a lot. I do not have much knowledge on this one. I just want to know. Thank you."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-21T09:49:54.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"7285715d-81d4-437a-86d9-66052657b5a6",
+            "UserId":"39788",
+            "CloseReasonId":null,
+            "PostId":"51654",
+            "PostHistoryTypeId":"1",
+            "Id":"169562",
+            "Text":"Android 1.6 tablet would like to get help upgrading it to higher version"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-21T09:49:54.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"7285715d-81d4-437a-86d9-66052657b5a6",
+            "UserId":"39788",
+            "CloseReasonId":null,
+            "PostId":"51654",
+            "PostHistoryTypeId":"3",
+            "Id":"169563",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-16T22:23:05.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e27cdfd-c81b-4cf3-83e8-7df2976e715c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"51654",
+            "PostHistoryTypeId":"10",
+            "Id":"301047",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

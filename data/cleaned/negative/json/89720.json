@@ -1,0 +1,71 @@
+{
+    "Body":"I work as a Android developer and I use my own phone for debugging as well as some other devices. Keeping the phone connected with USB will automatically charge my phone but will my battery be damaged by being connected 8~ hours at night and 8~ hours at work every day?",
+    "ViewCount":"20",
+    "LastActivityDate":"2014-12-04T11:26:52.290",
+    "ClosedDate":"2014-12-04T15:29:04.860",
+    "Title":"Will debugging damage my battery?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79682",
+    "CreationDate":"2014-12-04T11:26:52.290",
+    "FavoriteCount":null,
+    "Id":"89720",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T11:26:52.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ed53a6-c4de-4e35-9428-99c327d67149",
+            "UserId":"79682",
+            "CloseReasonId":null,
+            "PostId":"89720",
+            "PostHistoryTypeId":"2",
+            "Id":"295731",
+            "Text":"I work as a Android developer and I use my own phone for debugging as well as some other devices. Keeping the phone connected with USB will automatically charge my phone but will my battery be damaged by being connected 8~ hours at night and 8~ hours at work every day?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T11:26:52.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ed53a6-c4de-4e35-9428-99c327d67149",
+            "UserId":"79682",
+            "CloseReasonId":null,
+            "PostId":"89720",
+            "PostHistoryTypeId":"1",
+            "Id":"295732",
+            "Text":"Will debugging damage my battery?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T11:26:52.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ed53a6-c4de-4e35-9428-99c327d67149",
+            "UserId":"79682",
+            "CloseReasonId":null,
+            "PostId":"89720",
+            "PostHistoryTypeId":"3",
+            "Id":"295733",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-04T15:29:04.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"902a514c-d9b7-4d03-b0cd-424ef7f5cbb9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89720",
+            "PostHistoryTypeId":"10",
+            "Id":"295804",
+            "Text":"{\"OriginalQuestionIds\":[1020],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

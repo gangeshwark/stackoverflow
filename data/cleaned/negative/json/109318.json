@@ -1,0 +1,71 @@
+{
+    "Body":"On my Nexus 7 2013 razor device I just returned to stock 5.1 after using CM, and wanted to install 5.1.1 OTA. When clicked install, it just restarted to TWRP - but I couldn't update anything. That's why I reverted to the stock 5.1 recovery - but sideloading still fails on the following:file \"\/system\/bin\/install-recovery.sh\" doesn't have any of expected sha1 sums; checking cachefailed to stat \"\/cache\/saved.file\": No such file or directoryhow can I restore this cache file?",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-05-14T10:23:36.380",
+    "ClosedDate":"2015-05-14T12:08:53.997",
+    "Title":"OTA not installing: \/cache\/saved.file missing",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71143",
+    "CreationDate":"2015-05-14T10:23:36.380",
+    "FavoriteCount":null,
+    "Id":"109318",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-14T10:23:36.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9f273a6-8e29-40fa-aa1a-be42954505c4",
+            "UserId":"71143",
+            "CloseReasonId":null,
+            "PostId":"109318",
+            "PostHistoryTypeId":"2",
+            "Id":"356619",
+            "Text":"On my Nexus 7 2013 razor device I just returned to stock 5.1 after using CM, and wanted to install 5.1.1 OTA. When clicked install, it just restarted to TWRP - but I couldn't update anything. That's why I reverted to the stock 5.1 recovery - but sideloading still fails on the following:    file \"\/system\/bin\/install-recovery.sh\" doesn't have any of expected sha1 sums; checking cache    failed to stat \"\/cache\/saved.file\": No such file or directoryhow can I restore this cache file?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-14T10:23:36.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9f273a6-8e29-40fa-aa1a-be42954505c4",
+            "UserId":"71143",
+            "CloseReasonId":null,
+            "PostId":"109318",
+            "PostHistoryTypeId":"1",
+            "Id":"356620",
+            "Text":"OTA not installing: \/cache\/saved.file missing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-14T10:23:36.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9f273a6-8e29-40fa-aa1a-be42954505c4",
+            "UserId":"71143",
+            "CloseReasonId":null,
+            "PostId":"109318",
+            "PostHistoryTypeId":"3",
+            "Id":"356621",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-14T12:08:53.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3de7105-fcc7-4c79-9011-fe23c812c952",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"109318",
+            "PostHistoryTypeId":"10",
+            "Id":"356659",
+            "Text":"{\"OriginalQuestionIds\":[96571],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

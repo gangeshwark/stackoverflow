@@ -1,0 +1,71 @@
+{
+    "Body":"I always by accident hit the Snooze button instead of Alarm -and it is irritating, alarm starting afterwards again. Is there some better alarm -lock with better UI or how can I remove the alarm-lock \"Snooze\" that is totally useless?",
+    "ViewCount":"1077",
+    "LastActivityDate":"2012-09-09T06:02:10.713",
+    "ClosedDate":"2012-10-07T22:53:39.363",
+    "Title":"Remove Snooze -button in Android Alarm-lock",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"29004",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16903",
+    "CreationDate":"2012-09-09T05:06:56.170",
+    "FavoriteCount":null,
+    "Id":"29003",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-09T05:06:56.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd916110-f3d3-4daf-b69b-e24944bbf96c",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"29003",
+            "PostHistoryTypeId":"2",
+            "Id":"85022",
+            "Text":"I always by accident hit the Snooze button instead of Alarm -and it is irritating, alarm starting afterwards again. Is there some better alarm -lock with better UI or how can I remove the alarm-lock \"Snooze\" that is totally useless?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-09T05:06:56.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd916110-f3d3-4daf-b69b-e24944bbf96c",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"29003",
+            "PostHistoryTypeId":"1",
+            "Id":"85023",
+            "Text":"Remove Snooze -button in Android Alarm-lock"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-09T05:06:56.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd916110-f3d3-4daf-b69b-e24944bbf96c",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"29003",
+            "PostHistoryTypeId":"3",
+            "Id":"85024",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-10-07T22:53:39.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b7aad69-b64a-4f8e-a5c3-2ab968e81902",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29003",
+            "PostHistoryTypeId":"10",
+            "Id":"91797",
+            "Text":"{\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

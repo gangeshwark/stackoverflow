@@ -1,0 +1,83 @@
+{
+    "Body":"A friend of mine bought a fake iphone coming from Thailand. It have a fake iOs rom on it which is translated in English but a lot of part aren't... Is there a way to install a CyanogenMod even if the device is not supported ?Info :BB Chip             : MT6575MS Board            : mobitek75_ics2UBoot Ver.          : 2010.06Kernel Ver          : 3.0.13 (root@zonglibo-desktop) (gcc version 4.4.3 (GCC)Android Ver.        : 4.2.0SW Ver.             : ALPS.ICS2.MP.V1.20Custom Build Verno. : 1371628671Thanks !",
+    "ViewCount":"2917",
+    "LastActivityDate":"2014-02-22T04:20:23.043",
+    "ClosedDate":"2014-02-23T12:19:25.217",
+    "Title":"Force install of custom rom on unsupported device (MT6575)",
+    "LastEditorUserId":"54365",
+    "Tags":"",
+    "LastEditDate":"2014-02-22T04:20:23.043",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54365",
+    "CreationDate":"2014-02-21T20:33:51.907",
+    "FavoriteCount":null,
+    "Id":"64058",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-21T20:33:51.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b67efb2-7fee-47b4-8258-817435ff0392",
+            "UserId":"54365",
+            "CloseReasonId":null,
+            "PostId":"64058",
+            "PostHistoryTypeId":"2",
+            "Id":"217690",
+            "Text":"A friend of mine bought a fake iphone coming from Thailand. It have a fake iOs rom on it which is translated in English but a lot of part aren't... Is there a way to install a CyanogenMod even if the device is not supported ?Info :    BB Chip             : MT6575    MS Board            : mobitek75_ics2    UBoot Ver.          : 2010.06    Kernel Ver          : 3.0.13 (root@zonglibo-desktop) (gcc version 4.4.3 (GCC)    Android Ver.        : 4.2.0    SW Ver.             : ALPS.ICS2.MP.V1.20    Custom Build Verno. : 1371628671Thanks !"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-21T20:33:51.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b67efb2-7fee-47b4-8258-817435ff0392",
+            "UserId":"54365",
+            "CloseReasonId":null,
+            "PostId":"64058",
+            "PostHistoryTypeId":"1",
+            "Id":"217691",
+            "Text":"Custom rom on MT6575"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-21T20:33:51.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b67efb2-7fee-47b4-8258-817435ff0392",
+            "UserId":"54365",
+            "CloseReasonId":null,
+            "PostId":"64058",
+            "PostHistoryTypeId":"3",
+            "Id":"217692",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2014-02-22T04:20:23.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"04983572-ee03-4073-87d9-471e8003a8a2",
+            "UserId":"54365",
+            "CloseReasonId":null,
+            "PostId":"64058",
+            "PostHistoryTypeId":"4",
+            "Id":"217757",
+            "Text":"Force install of custom rom on unsupported device (MT6575)"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-23T12:19:25.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c27f568-e389-4936-87e8-f43b1227027c",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"64058",
+            "PostHistoryTypeId":"10",
+            "Id":"218089",
+            "Text":"{\"OriginalQuestionIds\":[6849,17152],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Is my android when turned on constantly sending radio data to my provider so he can track me, or only when i am actually using the network by surfing or calling someone?",
+    "ViewCount":"46",
+    "LastActivityDate":"2015-07-28T07:00:52.127",
+    "ClosedDate":"2015-07-28T14:38:35.983",
+    "Title":"Is my android when turned on constantly sending radio data to my provider?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"116534",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99573",
+    "CreationDate":"2015-07-28T05:10:33.540",
+    "FavoriteCount":null,
+    "Id":"116521",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T05:10:33.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"0afd097f-935b-418b-b05c-501a5d67158c",
+            "UserId":"99573",
+            "CloseReasonId":null,
+            "PostId":"116521",
+            "PostHistoryTypeId":"2",
+            "Id":"383241",
+            "Text":"Is my android when turned on constantly sending radio data to my provider so he can track me, or only when i am actually using the network by surfing or calling someone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T05:10:33.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"0afd097f-935b-418b-b05c-501a5d67158c",
+            "UserId":"99573",
+            "CloseReasonId":null,
+            "PostId":"116521",
+            "PostHistoryTypeId":"1",
+            "Id":"383242",
+            "Text":"Is my android when turned on constantly sending radio data to my provider?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T05:10:33.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"0afd097f-935b-418b-b05c-501a5d67158c",
+            "UserId":"99573",
+            "CloseReasonId":null,
+            "PostId":"116521",
+            "PostHistoryTypeId":"3",
+            "Id":"383243",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-28T14:38:35.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"a768c6ec-4f1c-4bce-b500-5686e8ddfacb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"116521",
+            "PostHistoryTypeId":"10",
+            "Id":"383412",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"i have a thesis project about an android application that can make a call in diffrent wifi network.. i used wifi talkie and other similar app but it only works on same wifi network.. i want to ask if there is any solution to the application like wifi talkie to be able to make a call in different wifi network without connecting to internet.. any suggestion guys? source codes or anything that can make it possible ? i need it for documentation.. thanks a lot :)  ",
+    "ViewCount":"19",
+    "LastActivityDate":"2016-02-13T18:22:40.847",
+    "ClosedDate":"2016-02-27T19:59:27.367",
+    "Title":"mobile voip over wifi",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"151190",
+    "CreationDate":"2016-02-13T18:22:40.847",
+    "FavoriteCount":"1",
+    "Id":"136994",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-13T18:22:40.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"acd4c708-98b0-48c2-99f6-039815bc0531",
+            "UserId":"151190",
+            "CloseReasonId":null,
+            "PostId":"136994",
+            "PostHistoryTypeId":"2",
+            "Id":"456665",
+            "Text":"i have a thesis project about an android application that can make a call in diffrent wifi network.. i used wifi talkie and other similar app but it only works on same wifi network.. i want to ask if there is any solution to the application like wifi talkie to be able to make a call in different wifi network without connecting to internet.. any suggestion guys? source codes or anything that can make it possible ? i need it for documentation.. thanks a lot :)  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-13T18:22:40.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"acd4c708-98b0-48c2-99f6-039815bc0531",
+            "UserId":"151190",
+            "CloseReasonId":null,
+            "PostId":"136994",
+            "PostHistoryTypeId":"1",
+            "Id":"456666",
+            "Text":"mobile voip over wifi"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-13T18:22:40.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"acd4c708-98b0-48c2-99f6-039815bc0531",
+            "UserId":"151190",
+            "CloseReasonId":null,
+            "PostId":"136994",
+            "PostHistoryTypeId":"3",
+            "Id":"456667",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T19:59:27.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9dea680-b2c0-4581-8ba7-e8fc8f4c3e83",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"136994",
+            "PostHistoryTypeId":"10",
+            "Id":"462109",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

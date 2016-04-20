@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Huawei u8160 running Cyanogenmod 7.2 .I have been looking for the fuse.ko module for my phone, but whenever I find anything ,terminal emulator tells me that it is incompatible!I want it to enable NTFS file system support using this tutorialSo I was wondering where I can find the appropriate fuse.ko module?NOTE : I've already seen this link but I don't think that's what I want.",
+    "ViewCount":"2552",
+    "LastActivityDate":"2012-09-17T12:34:16.510",
+    "ClosedDate":"2012-09-21T03:47:21.577",
+    "Title":"where can I find fuse.ko file for my huawei u8160?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"29486",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15788",
+    "CreationDate":"2012-09-16T20:06:15.617",
+    "FavoriteCount":null,
+    "Id":"29464",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-16T20:06:15.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f465d1c-a2ef-49cf-ab5a-445bbf8f14e8",
+            "UserId":"15788",
+            "CloseReasonId":null,
+            "PostId":"29464",
+            "PostHistoryTypeId":"2",
+            "Id":"87694",
+            "Text":"I have a Huawei u8160 running Cyanogenmod 7.2 .I have been looking for the fuse.ko module for my phone, but whenever I find anything ,terminal emulator tells me that it is incompatible!I want it to enable NTFS file system support using this [tutorial][1]So I was wondering where I can find the appropriate fuse.ko module?**NOTE :** I've already seen this [link ][2]but I don't think that's what I want.  [1]: http:\/\/forum.xda-developers.com\/showthread.php?p=31624796  [2]: http:\/\/fuse.sourceforge.net\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-16T20:06:15.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f465d1c-a2ef-49cf-ab5a-445bbf8f14e8",
+            "UserId":"15788",
+            "CloseReasonId":null,
+            "PostId":"29464",
+            "PostHistoryTypeId":"1",
+            "Id":"87695",
+            "Text":"where can I find fuse.ko file for my huawei u8160?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-16T20:06:15.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f465d1c-a2ef-49cf-ab5a-445bbf8f14e8",
+            "UserId":"15788",
+            "CloseReasonId":null,
+            "PostId":"29464",
+            "PostHistoryTypeId":"3",
+            "Id":"87696",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-09-21T03:47:21.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd636a16-5620-455d-819c-e0b58e9614a0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29464",
+            "PostHistoryTypeId":"10",
+            "Id":"88601",
+            "Text":"{\"Voters\":[{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

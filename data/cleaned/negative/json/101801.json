@@ -1,0 +1,71 @@
+{
+    "Body":"If a alarm is set and a Android device gets turned off (for whatever reason), does the alarm still sound?I want to generically refer to Android (latest version if it makes any difference) and we are talking about stock Android",
+    "ViewCount":"5144",
+    "LastActivityDate":"2015-03-07T15:12:35.450",
+    "ClosedDate":"2015-03-07T21:38:02.630",
+    "Title":"If a Android device is turned off, does the alarm sound?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81882",
+    "CreationDate":"2015-03-07T14:39:54.760",
+    "FavoriteCount":null,
+    "Id":"101801",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-07T14:39:54.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc327c33-d498-4968-a1e7-baa6e60a1db5",
+            "UserId":"81882",
+            "CloseReasonId":null,
+            "PostId":"101801",
+            "PostHistoryTypeId":"2",
+            "Id":"331245",
+            "Text":"If a alarm is set and a Android device gets turned off (for whatever reason), does the alarm still sound?I want to generically refer to Android (latest version if it makes any difference) and we are talking about stock Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-07T14:39:54.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc327c33-d498-4968-a1e7-baa6e60a1db5",
+            "UserId":"81882",
+            "CloseReasonId":null,
+            "PostId":"101801",
+            "PostHistoryTypeId":"1",
+            "Id":"331246",
+            "Text":"If a Android device is turned off, does the alarm sound?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-07T14:39:54.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc327c33-d498-4968-a1e7-baa6e60a1db5",
+            "UserId":"81882",
+            "CloseReasonId":null,
+            "PostId":"101801",
+            "PostHistoryTypeId":"3",
+            "Id":"331247",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-07T21:38:02.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"74015638-d1fa-4f45-8c34-d7f17d0f59fc",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"101801",
+            "PostHistoryTypeId":"10",
+            "Id":"331352",
+            "Text":"{\"OriginalQuestionIds\":[4206],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

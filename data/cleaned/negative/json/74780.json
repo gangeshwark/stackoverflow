@@ -1,0 +1,71 @@
+{
+    "Body":"I have a WiFi modem and i want control it using Android phone.If any system or phone wants to access the WiFi modem the corresponding machine IP address has to be entered in my phone and has to get approval.Is such kind of app is available (or)any other work around  ???Thanks in Advance .",
+    "ViewCount":"212",
+    "LastActivityDate":"2014-06-24T07:10:06.873",
+    "ClosedDate":"2014-06-27T09:07:28.287",
+    "Title":"Want to restrict my wifi modem though andriod phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"74782",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64718",
+    "CreationDate":"2014-06-24T06:51:35.423",
+    "FavoriteCount":null,
+    "Id":"74780",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-24T06:51:35.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2d582fc-51ec-4ba4-8d3a-a728794782f1",
+            "UserId":"64718",
+            "CloseReasonId":null,
+            "PostId":"74780",
+            "PostHistoryTypeId":"2",
+            "Id":"248472",
+            "Text":"I have a WiFi modem and i want control it using Android phone.If any system or phone wants to access the WiFi modem the corresponding machine IP address has to be entered in my phone and has to get approval.Is such kind of app is available (or)any other work around  ???Thanks in Advance ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-24T06:51:35.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2d582fc-51ec-4ba4-8d3a-a728794782f1",
+            "UserId":"64718",
+            "CloseReasonId":null,
+            "PostId":"74780",
+            "PostHistoryTypeId":"1",
+            "Id":"248473",
+            "Text":"Want to restrict my wifi modem though andriod phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-24T06:51:35.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2d582fc-51ec-4ba4-8d3a-a728794782f1",
+            "UserId":"64718",
+            "CloseReasonId":null,
+            "PostId":"74780",
+            "PostHistoryTypeId":"3",
+            "Id":"248474",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-06-27T09:07:28.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"0dc1aa4a-75fd-42b6-b5fe-005c1d6422a5",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"74780",
+            "PostHistoryTypeId":"10",
+            "Id":"249168",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

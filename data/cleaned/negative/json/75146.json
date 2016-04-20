@@ -1,0 +1,83 @@
+{
+    "Body":"I've built a garage door opener that can be triggered by a GET request (with the appropriate password, of course), and right now it's controlled by a webpage with javascript. It's possible to use this page from my phone to open the door, but it's quite a hassle to get to my browser before I can use it. What I'm after is a home screen or lock screen widget that will send off the request with the touch of a button, or an easy way to create one. I've attempted to write android apps before, and found it all very cumbersome.I have a Nexus 5, running the latest cm-11 nightly build.",
+    "ViewCount":"41",
+    "LastActivityDate":"2014-06-29T15:10:17.733",
+    "ClosedDate":"2014-07-01T09:41:41.977",
+    "Title":"Is there an easy way to to send a simple GET request from a lock screen widget?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-06-29T15:10:17.733",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"75152",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65151",
+    "CreationDate":"2014-06-29T12:52:18.347",
+    "FavoriteCount":null,
+    "Id":"75146",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-29T12:52:18.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"01179df9-4ba3-44c5-b106-c37273e3df2c",
+            "UserId":"65151",
+            "CloseReasonId":null,
+            "PostId":"75146",
+            "PostHistoryTypeId":"2",
+            "Id":"249721",
+            "Text":"I've built a garage door opener that can be triggered by a GET request (with the appropriate password, of course), and right now it's controlled by a webpage with javascript. It's possible to use this page from my phone to open the door, but it's quite a hassle to get to my browser before I can use it. What I'm after is a home screen or lock screen widget that will send off the request with the touch of a button, or an easy way to create one. I've attempted to write android apps before, and found it all very cumbersome.I have a Nexus 5, running the latest cm-11 nightly build."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-29T12:52:18.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"01179df9-4ba3-44c5-b106-c37273e3df2c",
+            "UserId":"65151",
+            "CloseReasonId":null,
+            "PostId":"75146",
+            "PostHistoryTypeId":"1",
+            "Id":"249722",
+            "Text":"Is there an easy way to to send a simple GET request from a lock screen widget?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-29T12:52:18.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"01179df9-4ba3-44c5-b106-c37273e3df2c",
+            "UserId":"65151",
+            "CloseReasonId":null,
+            "PostId":"75146",
+            "PostHistoryTypeId":"3",
+            "Id":"249723",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-06-29T15:10:17.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"36d6c5fb-e05d-431c-b216-436bb773db2c",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"75146",
+            "PostHistoryTypeId":"6",
+            "Id":"249749",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-07-01T09:41:41.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"148de5eb-b1ef-42c4-9580-c5ed745bd55a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"75146",
+            "PostHistoryTypeId":"10",
+            "Id":"250194",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

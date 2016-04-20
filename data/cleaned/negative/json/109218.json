@@ -1,0 +1,71 @@
+{
+    "Body":"i have a small question.i have installed in my farm house a SOHO router with a large omni antenna which covers about 30 acres of landeverybody on my farm have android phones. so i was looking for an app to install on all the phones so they become walkie-talkies.the only thing is that, i donot want to provide my employees with internet access (it is quite costly and i have to pay per GB). my router will provide them with static IP leases without internet access.basically i need something like this http:\/\/ipmsg.org\/index.html.en only for voice and for android.please help.",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-05-13T08:42:25.287",
+    "ClosedDate":"2015-05-13T13:43:10.977",
+    "Title":"walkie-talkie with offline router",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108502",
+    "CreationDate":"2015-05-13T08:42:25.287",
+    "FavoriteCount":null,
+    "Id":"109218",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-13T08:42:25.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"8af1c097-0680-4ed8-8480-38ee547f466c",
+            "UserId":"108502",
+            "CloseReasonId":null,
+            "PostId":"109218",
+            "PostHistoryTypeId":"2",
+            "Id":"356209",
+            "Text":"i have a small question.i have installed in my farm house a SOHO router with a large omni antenna which covers about 30 acres of landeverybody on my farm have android phones. so i was looking for an app to install on all the phones so they become walkie-talkies.the only thing is that, i donot want to provide my employees with internet access (it is quite costly and i have to pay per GB). my router will provide them with static IP leases without internet access.basically i need something like this http:\/\/ipmsg.org\/index.html.en only for voice and for android.please help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-13T08:42:25.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"8af1c097-0680-4ed8-8480-38ee547f466c",
+            "UserId":"108502",
+            "CloseReasonId":null,
+            "PostId":"109218",
+            "PostHistoryTypeId":"1",
+            "Id":"356210",
+            "Text":"walkie-talkie with offline router"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-13T08:42:25.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"8af1c097-0680-4ed8-8480-38ee547f466c",
+            "UserId":"108502",
+            "CloseReasonId":null,
+            "PostId":"109218",
+            "PostHistoryTypeId":"3",
+            "Id":"356211",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-13T13:43:10.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"c99e45e7-4cb0-4430-8a5d-c6ccaec24344",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"109218",
+            "PostHistoryTypeId":"10",
+            "Id":"356291",
+            "Text":"{\"OriginalQuestionIds\":[9727],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

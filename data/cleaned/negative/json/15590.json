@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I install an app given only its APK file?  I just made a 'Hello World' app using Eclipse. Now I'd like to know how I can actually put the app onto my phone.Must all apps be downloaded through the marketplace, or can I simply transfer it to my phone?",
+    "ViewCount":"1703",
+    "LastActivityDate":"2011-11-13T12:23:43.377",
+    "ClosedDate":"2011-11-13T13:13:54.457",
+    "Title":"How can I get an .apk file to my phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4355",
+    "CreationDate":"2011-11-13T03:52:15.703",
+    "FavoriteCount":null,
+    "Id":"15590",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-13T03:52:15.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"887717fc-ef4f-41de-b70b-877ca2325ab8",
+            "UserId":"4355",
+            "CloseReasonId":null,
+            "PostId":"15590",
+            "PostHistoryTypeId":"2",
+            "Id":"41885",
+            "Text":"I just made a 'Hello World' app using Eclipse. Now I'd like to know how I can actually put the app onto my phone.  Must all apps be downloaded through the marketplace, or can I simply transfer it to my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-13T03:52:15.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"887717fc-ef4f-41de-b70b-877ca2325ab8",
+            "UserId":"4355",
+            "CloseReasonId":null,
+            "PostId":"15590",
+            "PostHistoryTypeId":"1",
+            "Id":"41886",
+            "Text":"How can I get an .apk file to my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-13T03:52:15.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"887717fc-ef4f-41de-b70b-877ca2325ab8",
+            "UserId":"4355",
+            "CloseReasonId":null,
+            "PostId":"15590",
+            "PostHistoryTypeId":"3",
+            "Id":"41887",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-11-13T13:13:56.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce5c8b87-82a5-4fe0-841d-fa3d510688da",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"15590",
+            "PostHistoryTypeId":"5",
+            "Id":"41926",
+            "Text":"> **Possible Duplicate:**  > [How can I install an app given only its APK file?](http:\/\/android.stackexchange.com\/questions\/5566\/how-can-i-install-an-app-given-only-its-apk-file)  I just made a 'Hello World' app using Eclipse. Now I'd like to know how I can actually put the app onto my phone.  Must all apps be downloaded through the marketplace, or can I simply transfer it to my phone?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-11-13T13:13:54.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"5313b69a-a42f-4e09-8147-103d922ac9b9",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"15590",
+            "PostHistoryTypeId":"10",
+            "Id":"41927",
+            "Text":"{\"OriginalQuestionIds\":[5566],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I'm looking for an app that allows me to display some text on the screen and lets me record myself with the front camera. I have to send in a recorded interview, however I'm finding it difficult looking at the camera\/screen while glancing over my written notes.",
+    "ViewCount":"423",
+    "LastActivityDate":"2015-05-15T13:20:54.503",
+    "ClosedDate":"2015-05-15T20:13:55.580",
+    "Title":"Is it possible to record yourself while reading?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"109442",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108801",
+    "CreationDate":"2015-05-15T12:57:45.523",
+    "FavoriteCount":null,
+    "Id":"109440",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-15T12:57:45.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e55f4b7-2fde-4d8d-8f03-589ce89d9e03",
+            "UserId":"108801",
+            "CloseReasonId":null,
+            "PostId":"109440",
+            "PostHistoryTypeId":"2",
+            "Id":"357045",
+            "Text":"I'm looking for an app that allows me to display some text on the screen and lets me record myself with the front camera. I have to send in a recorded interview, however I'm finding it difficult looking at the camera\/screen while glancing over my written notes."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-15T12:57:45.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e55f4b7-2fde-4d8d-8f03-589ce89d9e03",
+            "UserId":"108801",
+            "CloseReasonId":null,
+            "PostId":"109440",
+            "PostHistoryTypeId":"1",
+            "Id":"357046",
+            "Text":"Is it possible to record yourself while reading?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-15T12:57:45.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e55f4b7-2fde-4d8d-8f03-589ce89d9e03",
+            "UserId":"108801",
+            "CloseReasonId":null,
+            "PostId":"109440",
+            "PostHistoryTypeId":"3",
+            "Id":"357047",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-15T20:13:55.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"db7f142e-0e27-437b-b1bd-accfb7d90b46",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"109440",
+            "PostHistoryTypeId":"10",
+            "Id":"357195",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

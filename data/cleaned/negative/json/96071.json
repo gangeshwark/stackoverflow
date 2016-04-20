@@ -1,0 +1,71 @@
+{
+    "Body":"I need to install about 20 tablets powered 24\/7 (24 hours, all week). Is there any problem or potencial damage about it?",
+    "ViewCount":"51",
+    "LastActivityDate":"2015-01-17T01:03:25.553",
+    "ClosedDate":"2015-01-17T04:14:55.357",
+    "Title":"Tablets always turned on (usb-powered). Problems?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"44249",
+    "CreationDate":"2015-01-17T00:58:18.167",
+    "FavoriteCount":null,
+    "Id":"96071",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-17T00:58:18.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e4bce1a-9313-4240-becb-a032009aee91",
+            "UserId":"44249",
+            "CloseReasonId":null,
+            "PostId":"96071",
+            "PostHistoryTypeId":"2",
+            "Id":"312947",
+            "Text":"I need to install about 20 tablets powered 24\/7 (24 hours, all week). Is there any problem or potencial damage about it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-17T00:58:18.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e4bce1a-9313-4240-becb-a032009aee91",
+            "UserId":"44249",
+            "CloseReasonId":null,
+            "PostId":"96071",
+            "PostHistoryTypeId":"1",
+            "Id":"312948",
+            "Text":"Tablets always turned on (usb-powered). Problems?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-17T00:58:18.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e4bce1a-9313-4240-becb-a032009aee91",
+            "UserId":"44249",
+            "CloseReasonId":null,
+            "PostId":"96071",
+            "PostHistoryTypeId":"3",
+            "Id":"312949",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-17T04:14:55.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee8359ed-d56c-400c-af7f-f2395b380b7c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"96071",
+            "PostHistoryTypeId":"10",
+            "Id":"312984",
+            "Text":"{\"OriginalQuestionIds\":[1020],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

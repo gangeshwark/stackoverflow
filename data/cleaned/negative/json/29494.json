@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I disable shortcuts from being created after install from Google Play?  Every time I install an app a shortcut gets created on my home-screen, I don't want this to happen so I am wondering if there is a way to prevent the creation of shortcuts unless I want them created.",
+    "ViewCount":"30",
+    "LastActivityDate":"2012-09-17T15:16:49.550",
+    "ClosedDate":"2012-09-17T16:05:39.337",
+    "Title":"Is there anyway I can disable the posting of app shortcuts on my home-screen when an app is installed?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34485",
+    "CreationDate":"2012-09-17T15:16:49.550",
+    "FavoriteCount":null,
+    "Id":"29494",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-17T15:16:49.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2081784-b302-420a-82f5-371783cdf392",
+            "UserId":"34485",
+            "CloseReasonId":null,
+            "PostId":"29494",
+            "PostHistoryTypeId":"2",
+            "Id":"87822",
+            "Text":"Every time I install an app a shortcut gets created on my home-screen, I don't want this to happen so I am wondering if there is a way to prevent the creation of shortcuts unless I want them created."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-17T15:16:49.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2081784-b302-420a-82f5-371783cdf392",
+            "UserId":"34485",
+            "CloseReasonId":null,
+            "PostId":"29494",
+            "PostHistoryTypeId":"1",
+            "Id":"87823",
+            "Text":"Is there anyway I can disable the posting of app shortcuts on my home-screen when an app is installed?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-17T15:16:49.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2081784-b302-420a-82f5-371783cdf392",
+            "UserId":"34485",
+            "CloseReasonId":null,
+            "PostId":"29494",
+            "PostHistoryTypeId":"3",
+            "Id":"87824",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-17T16:05:39.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"e122afea-68e7-460c-ab7a-64554b50bff8",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29494",
+            "PostHistoryTypeId":"5",
+            "Id":"87841",
+            "Text":"> **Possible Duplicate:**  > [How can I disable shortcuts from being created after install from Google Play?](http:\/\/android.stackexchange.com\/questions\/24398\/how-can-i-disable-shortcuts-from-being-created-after-install-from-google-play)  Every time I install an app a shortcut gets created on my home-screen, I don't want this to happen so I am wondering if there is a way to prevent the creation of shortcuts unless I want them created."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-17T16:05:39.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebf9d8b8-9ff7-468b-bd55-1e6bbd7fcc7b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"29494",
+            "PostHistoryTypeId":"10",
+            "Id":"87842",
+            "Text":"{\"OriginalQuestionIds\":[24398],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

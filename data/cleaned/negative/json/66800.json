@@ -1,0 +1,71 @@
+{
+    "Body":"How are International ROMs made?I have downloaded and installed a little while ago a ROM which is the best I've ever used in terms of speed, smoothness, battery life, and customization and features. However, I am unable to make calls, send SMS and MMS and use the Internet (Mobile Data) due to the fact that I am in Australia and the ROM is not an International ROM.I am a developer. However my experience in this regard is limited. How would I go about making this ROM support Australian networks? If you know anything at all I would appreciate your help on this. Even if its something as little as a keyword to search for because I have been searching for a long time and have not found a single result that was related.",
+    "ViewCount":"151",
+    "LastActivityDate":"2014-04-04T08:42:47.870",
+    "ClosedDate":"2016-02-27T05:11:05.373",
+    "Title":"Custom ROM dev and Networks",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"66818",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"48210",
+    "CreationDate":"2014-04-03T06:02:55.043",
+    "FavoriteCount":null,
+    "Id":"66800",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-03T06:02:55.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bb7ff47-4c3d-4243-901e-af7d6781511b",
+            "UserId":"48210",
+            "CloseReasonId":null,
+            "PostId":"66800",
+            "PostHistoryTypeId":"2",
+            "Id":"227591",
+            "Text":"How are International ROMs made?I have downloaded and installed a little while ago a ROM which is the best I've ever used in terms of speed, smoothness, battery life, and customization and features. However, I am unable to make calls, send SMS and MMS and use the Internet (Mobile Data) due to the fact that I am in Australia and the ROM is not an International ROM.I am a developer. However my experience in this regard is limited. How would I go about making this ROM support Australian networks? If you know anything at all I would appreciate your help on this. Even if its something as little as a keyword to search for because I have been searching for a long time and have not found a single result that was related."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-03T06:02:55.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bb7ff47-4c3d-4243-901e-af7d6781511b",
+            "UserId":"48210",
+            "CloseReasonId":null,
+            "PostId":"66800",
+            "PostHistoryTypeId":"1",
+            "Id":"227592",
+            "Text":"Custom ROM dev and Networks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-03T06:02:55.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bb7ff47-4c3d-4243-901e-af7d6781511b",
+            "UserId":"48210",
+            "CloseReasonId":null,
+            "PostId":"66800",
+            "PostHistoryTypeId":"3",
+            "Id":"227593",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T05:11:05.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"80f0c3da-2caf-4db2-8f67-6a96b84976f1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"66800",
+            "PostHistoryTypeId":"10",
+            "Id":"461734",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

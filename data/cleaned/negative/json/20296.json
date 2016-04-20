@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to backup an Android device?  I am thinking of installing a custom ROM such as CM7 on my AT&T Galaxy S2 (SGH-i777). I have already rooted it. What is the best practice for backing-up (and potentially restoring) my phone? Notes for answerers:I'm interested in step-by-step instructions to obtain a canonical answer rather than links into forum threads.Will the method described be able to recover the phone if the ROM install process fails and \"bricks\" the phone?Can the backup be moved to external storage (such as a computer) or is it only resident on the phone's internal memory. If it can be preserved off-device please describe this process as well.",
+    "ViewCount":"8645",
+    "LastActivityDate":"2012-03-05T21:14:59.393",
+    "ClosedDate":"2012-03-05T23:33:52.887",
+    "Title":"How do I back up (and restore) my phone before installing a custom ROM?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"20298",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9028",
+    "CreationDate":"2012-03-05T20:44:42.580",
+    "FavoriteCount":"3",
+    "Id":"20296",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T20:44:42.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce7a5249-e9a3-4b1c-9194-e308de31327e",
+            "UserId":"9028",
+            "CloseReasonId":null,
+            "PostId":"20296",
+            "PostHistoryTypeId":"2",
+            "Id":"56413",
+            "Text":"I am thinking of installing a custom ROM such as CM7 on my AT&T Galaxy S2 (SGH-i777). I have already rooted it. What is the best practice for backing-up (and potentially restoring) my phone? Notes for answerers: 1. I'm interested in step-by-step instructions to obtain a canonical answer rather than links into forum threads. 2. Will the method described be able to recover the phone if the ROM install process fails and \"bricks\" the phone? 3. Can the backup be moved to external storage (such as a computer) or is it only resident on the phone's internal memory. If it can be preserved off-device please describe this process as well."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T20:44:42.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce7a5249-e9a3-4b1c-9194-e308de31327e",
+            "UserId":"9028",
+            "CloseReasonId":null,
+            "PostId":"20296",
+            "PostHistoryTypeId":"1",
+            "Id":"56414",
+            "Text":"How do I back up (and restore) my phone before installing a custom ROM?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T20:44:42.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce7a5249-e9a3-4b1c-9194-e308de31327e",
+            "UserId":"9028",
+            "CloseReasonId":null,
+            "PostId":"20296",
+            "PostHistoryTypeId":"3",
+            "Id":"56415",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-05T23:33:53.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e2dde4c-983e-49c8-8507-c90394bfdbb2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20296",
+            "PostHistoryTypeId":"5",
+            "Id":"56462",
+            "Text":"> **Possible Duplicate:**  > [How to backup an Android device?](http:\/\/android.stackexchange.com\/questions\/390\/how-to-backup-an-android-device)  I am thinking of installing a custom ROM such as CM7 on my AT&T Galaxy S2 (SGH-i777). I have already rooted it. What is the best practice for backing-up (and potentially restoring) my phone? Notes for answerers: 1. I'm interested in step-by-step instructions to obtain a canonical answer rather than links into forum threads. 2. Will the method described be able to recover the phone if the ROM install process fails and \"bricks\" the phone? 3. Can the backup be moved to external storage (such as a computer) or is it only resident on the phone's internal memory. If it can be preserved off-device please describe this process as well."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-05T23:33:52.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"26ecf2ea-fec0-415a-82eb-220b7feeb3bc",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20296",
+            "PostHistoryTypeId":"10",
+            "Id":"56463",
+            "Text":"{\"OriginalQuestionIds\":[390],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

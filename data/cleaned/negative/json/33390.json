@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Restrict access to device settings  I would like to disable the settings page so that users of our android devices cannot factory reset through settings and cannot use another account for buying or installing items from google play marketplace. Probably an app on google play would be best for this unless anyone has an idea. Note: we are a school system so this is necessary to be CIPA complaint and teenagers can be an IT nightmare sometimes. Also, this is an lenovo tablet device so instructions might be different.",
+    "ViewCount":"17",
+    "LastActivityDate":"2012-11-14T17:13:08.573",
+    "ClosedDate":"2012-11-15T01:00:08.070",
+    "Title":"how to password protect settings dialog (wifi but specifically accounts part)?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23602",
+    "CreationDate":"2012-11-14T17:13:08.573",
+    "FavoriteCount":null,
+    "Id":"33390",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-14T17:13:08.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a0ce513-c875-49d5-9e91-cc00efaf82a8",
+            "UserId":"23602",
+            "CloseReasonId":null,
+            "PostId":"33390",
+            "PostHistoryTypeId":"2",
+            "Id":"98979",
+            "Text":"I would like to disable the settings page so that users of our android devices cannot factory reset through settings and cannot use another account for buying or installing items from google play marketplace. Probably an app on google play would be best for this unless anyone has an idea. Note: we are a school system so this is necessary to be CIPA complaint and teenagers can be an IT nightmare sometimes. Also, this is an lenovo tablet device so instructions might be different."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-14T17:13:08.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a0ce513-c875-49d5-9e91-cc00efaf82a8",
+            "UserId":"23602",
+            "CloseReasonId":null,
+            "PostId":"33390",
+            "PostHistoryTypeId":"1",
+            "Id":"98980",
+            "Text":"how to password protect settings dialog (wifi but specifically accounts part)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-14T17:13:08.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a0ce513-c875-49d5-9e91-cc00efaf82a8",
+            "UserId":"23602",
+            "CloseReasonId":null,
+            "PostId":"33390",
+            "PostHistoryTypeId":"3",
+            "Id":"98981",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-15T01:00:08.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"68d56daf-caac-4450-98ef-9a6d7fb4c144",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33390",
+            "PostHistoryTypeId":"5",
+            "Id":"99062",
+            "Text":"> **Possible Duplicate:**  > [Restrict access to device settings](http:\/\/android.stackexchange.com\/questions\/8536\/restrict-access-to-device-settings)  I would like to disable the settings page so that users of our android devices cannot factory reset through settings and cannot use another account for buying or installing items from google play marketplace. Probably an app on google play would be best for this unless anyone has an idea. Note: we are a school system so this is necessary to be CIPA complaint and teenagers can be an IT nightmare sometimes. Also, this is an lenovo tablet device so instructions might be different."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-15T01:00:08.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"31e39d78-40e6-41a4-9dce-249e42286861",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33390",
+            "PostHistoryTypeId":"10",
+            "Id":"99063",
+            "Text":"{\"OriginalQuestionIds\":[8536],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"}]}"
+        }
+    ]
+}

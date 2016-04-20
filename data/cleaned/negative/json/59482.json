@@ -1,0 +1,83 @@
+{
+    "Body":"On KitKat when I have a shortcut on the desktop and the app updates the shortcut on the desktop disappears, is there a way to stop this from happening?",
+    "ViewCount":"13",
+    "LastActivityDate":"2014-01-02T16:36:26.387",
+    "ClosedDate":"2013-12-22T01:08:36.953",
+    "Title":"icons disappear from desktop when app updates",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-01-02T16:36:26.387",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"48961",
+    "CreationDate":"2013-12-21T20:20:55.897",
+    "FavoriteCount":null,
+    "Id":"59482",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-21T20:20:55.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe0ab10a-4404-4b62-b744-e294a6ce79a5",
+            "UserId":"48961",
+            "CloseReasonId":null,
+            "PostId":"59482",
+            "PostHistoryTypeId":"2",
+            "Id":"200375",
+            "Text":"On KitKat when I have a shortcut on the desktop and the app updates the shortcut on the desktop disappears, is there a way to stop this from happening?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-21T20:20:55.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe0ab10a-4404-4b62-b744-e294a6ce79a5",
+            "UserId":"48961",
+            "CloseReasonId":null,
+            "PostId":"59482",
+            "PostHistoryTypeId":"1",
+            "Id":"200376",
+            "Text":"icons disappear from desktop when app updates"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-21T20:20:55.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe0ab10a-4404-4b62-b744-e294a6ce79a5",
+            "UserId":"48961",
+            "CloseReasonId":null,
+            "PostId":"59482",
+            "PostHistoryTypeId":"3",
+            "Id":"200377",
+            "Text":"<4.4.2-kitkat>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-22T01:08:36.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"a10f54ae-e928-425d-bc1b-62dbe6d88154",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"59482",
+            "PostHistoryTypeId":"10",
+            "Id":"200417",
+            "Text":"{\"OriginalQuestionIds\":[59270],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-02T16:36:26.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"cce013cb-43ce-40e7-adb1-0575bcdd30ea",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"59482",
+            "PostHistoryTypeId":"6",
+            "Id":"203410",
+            "Text":""
+        }
+    ]
+}

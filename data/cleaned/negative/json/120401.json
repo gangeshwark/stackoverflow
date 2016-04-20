@@ -1,0 +1,71 @@
+{
+    "Body":"I have Google searched this many times, but I only get \"how to make a mobile version of your website\" and such. I want to know if I am able to use my Android phone to write code\/script and view the results. If so, how would I go about it?",
+    "ViewCount":"28",
+    "LastActivityDate":"2015-08-26T22:46:49.887",
+    "ClosedDate":"2015-09-24T02:30:51.573",
+    "Title":"Create websites with Android phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"120404",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"123878",
+    "CreationDate":"2015-08-26T22:21:13.403",
+    "FavoriteCount":null,
+    "Id":"120401",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-26T22:21:13.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"bba39d03-4479-420c-8383-ea1f72bce987",
+            "UserId":"123878",
+            "CloseReasonId":null,
+            "PostId":"120401",
+            "PostHistoryTypeId":"2",
+            "Id":"394667",
+            "Text":"I have Google searched this many times, but I only get \"how to make a mobile version of your website\" and such. I want to know if I am able to use my Android phone to write code\/script and view the results. If so, how would I go about it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-26T22:21:13.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"bba39d03-4479-420c-8383-ea1f72bce987",
+            "UserId":"123878",
+            "CloseReasonId":null,
+            "PostId":"120401",
+            "PostHistoryTypeId":"1",
+            "Id":"394668",
+            "Text":"Create websites with Android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-26T22:21:13.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"bba39d03-4479-420c-8383-ea1f72bce987",
+            "UserId":"123878",
+            "CloseReasonId":null,
+            "PostId":"120401",
+            "PostHistoryTypeId":"3",
+            "Id":"394669",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-24T02:30:51.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"bbe9ab69-aa27-4eb2-ab94-aae23f006035",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"120401",
+            "PostHistoryTypeId":"10",
+            "Id":"405457",
+            "Text":"{\"OriginalQuestionIds\":[18111],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

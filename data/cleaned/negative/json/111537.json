@@ -1,0 +1,71 @@
+{
+    "Body":"I have installed androido86 on my lenovo pc and i want to download extra kernels and flash it into my pc. So where can i find them. Also how to flash them directly without using update meyhod",
+    "ViewCount":"20",
+    "LastActivityDate":"2015-06-05T09:07:08.687",
+    "ClosedDate":"2015-06-05T14:47:13.560",
+    "Title":"From where can i download Android kernels",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"110726",
+    "CreationDate":"2015-06-05T09:07:08.687",
+    "FavoriteCount":null,
+    "Id":"111537",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T09:07:08.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ab894ca-fb2b-4095-a4cb-5a14352d03f4",
+            "UserId":"110726",
+            "CloseReasonId":null,
+            "PostId":"111537",
+            "PostHistoryTypeId":"2",
+            "Id":"364718",
+            "Text":"I have installed androido86 on my lenovo pc and i want to download extra kernels and flash it into my pc. So where can i find them. Also how to flash them directly without using update meyhod"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T09:07:08.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ab894ca-fb2b-4095-a4cb-5a14352d03f4",
+            "UserId":"110726",
+            "CloseReasonId":null,
+            "PostId":"111537",
+            "PostHistoryTypeId":"1",
+            "Id":"364719",
+            "Text":"From where can i download Android kernels"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T09:07:08.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ab894ca-fb2b-4095-a4cb-5a14352d03f4",
+            "UserId":"110726",
+            "CloseReasonId":null,
+            "PostId":"111537",
+            "PostHistoryTypeId":"3",
+            "Id":"364720",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-05T14:47:13.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f0c6604-7aec-4f13-9a32-9bb954615575",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"111537",
+            "PostHistoryTypeId":"10",
+            "Id":"364789",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

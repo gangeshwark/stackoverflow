@@ -1,0 +1,71 @@
+{
+    "Body":"For some mysterious reason, after some time (1-2 days) my android screen stops blanking after the timeout in it's settings.I can't match this bug with any specific app that I run. I just know that my home screen stays on from some point and on and I have to reboot in order to bring it back to normal b behavior (screen time out after 15 secs).The setting in settings still stays on 15 sec but for some reason the phone stops using that setting and the screen stays always on.I have :Samsung galaxy S 1 (I9000)android 2.3.7CyanogenMod-7.1.0-GalaxySI know apps can have a permission to disable screen timeout, but there is no active app in foreground when this happens. Can an app with disable screen timeout still hold the screen timeout disabled after moving back to the home screen (maybe if it is still in memory and not killed yet )?Thanks",
+    "ViewCount":"339",
+    "LastActivityDate":"2012-03-05T06:12:46.430",
+    "ClosedDate":"2013-01-01T18:35:05.903",
+    "Title":"Screen timeout keeps getting disabled on my android even when no app is in the foreground. why?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13137",
+    "CreationDate":"2012-03-05T06:12:46.430",
+    "FavoriteCount":null,
+    "Id":"20248",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T06:12:46.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"6be711d9-d93d-49ae-8dca-2687096c12e0",
+            "UserId":"13137",
+            "CloseReasonId":null,
+            "PostId":"20248",
+            "PostHistoryTypeId":"2",
+            "Id":"56224",
+            "Text":"For some mysterious reason, after some time (1-2 days) my android screen stops blanking after the timeout in it's settings.I can't match this bug with any specific app that I run. I just know that my home screen stays on from some point and on and I have to reboot in order to bring it back to normal b behavior (screen time out after 15 secs).The setting in settings still stays on 15 sec but for some reason the phone stops using that setting and the screen stays always on.I have :Samsung galaxy S 1 (I9000)android 2.3.7CyanogenMod-7.1.0-GalaxySI know apps can have a permission to disable screen timeout, but there is no active app in foreground when this happens. Can an app with disable screen timeout still hold the screen timeout disabled after moving back to the home screen (maybe if it is still in memory and not killed yet )?Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T06:12:46.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"6be711d9-d93d-49ae-8dca-2687096c12e0",
+            "UserId":"13137",
+            "CloseReasonId":null,
+            "PostId":"20248",
+            "PostHistoryTypeId":"1",
+            "Id":"56225",
+            "Text":"Screen timeout keeps getting disabled on my android even when no app is in the foreground. why?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T06:12:46.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"6be711d9-d93d-49ae-8dca-2687096c12e0",
+            "UserId":"13137",
+            "CloseReasonId":null,
+            "PostId":"20248",
+            "PostHistoryTypeId":"3",
+            "Id":"56226",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-01T18:35:05.903",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9b7e8d3-928e-4261-b727-4609a746bf4c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20248",
+            "PostHistoryTypeId":"10",
+            "Id":"110655",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

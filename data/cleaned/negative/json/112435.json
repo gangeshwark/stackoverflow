@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Verizon Galaxy S3 (SCH-i535) and my parents are going to Greece soon. My mom wants to know if it will work in Greece. I know this may be an unusual question but I am not aware of what kind of networks are available in Greece. Also, I see conflicting information on the internet regarding whether the SCH-i535 has GSM radios in it (I'm just guessing that Greece networks uses GSM because I've heard that's what international networks use). My S3 is rooted. If there is some process I can use to enable this phone to work in Greece that would be great.If you need any more information just ask.",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-06-15T01:01:33.357",
+    "ClosedDate":"2015-06-15T03:00:28.840",
+    "Title":"Will my Galaxy S3 SCH-i535 work in Greece?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"112755",
+    "CreationDate":"2015-06-15T01:01:33.357",
+    "FavoriteCount":null,
+    "Id":"112435",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-15T01:01:33.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"907541ca-f750-4e73-96b7-70bc0cd5f286",
+            "UserId":"112755",
+            "CloseReasonId":null,
+            "PostId":"112435",
+            "PostHistoryTypeId":"2",
+            "Id":"368196",
+            "Text":"I have a Verizon Galaxy S3 (SCH-i535) and my parents are going to Greece soon. My mom wants to know if it will work in Greece. I know this may be an unusual question but I am not aware of what kind of networks are available in Greece. Also, I see conflicting information on the internet regarding whether the SCH-i535 has GSM radios in it (I'm just guessing that Greece networks uses GSM because I've heard that's what international networks use). My S3 is rooted. If there is some process I can use to enable this phone to work in Greece that would be great.If you need any more information just ask."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-15T01:01:33.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"907541ca-f750-4e73-96b7-70bc0cd5f286",
+            "UserId":"112755",
+            "CloseReasonId":null,
+            "PostId":"112435",
+            "PostHistoryTypeId":"1",
+            "Id":"368197",
+            "Text":"Will my Galaxy S3 SCH-i535 work in Greece?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-15T01:01:33.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"907541ca-f750-4e73-96b7-70bc0cd5f286",
+            "UserId":"112755",
+            "CloseReasonId":null,
+            "PostId":"112435",
+            "PostHistoryTypeId":"3",
+            "Id":"368198",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-15T03:00:28.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f21577b-cba4-4ff5-8e70-5d24eed175ff",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"112435",
+            "PostHistoryTypeId":"10",
+            "Id":"368227",
+            "Text":"{\"OriginalQuestionIds\":[29677],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

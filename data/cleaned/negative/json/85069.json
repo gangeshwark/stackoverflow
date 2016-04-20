@@ -1,0 +1,71 @@
+{
+    "Body":"My phone's power button is messed up. So am looking for something which will help me lock my phone and turn it on using either tapping or sliding. The knock lock app is great for locking but doesn't wake the phone. Is there an app\/something that I can install that will help me lock\/unlock without using my phones power button ? Details : Android version : 4.4.4 Phone : Nexus 4Although I dont know the pros and cons yet but I don't want to root my phone",
+    "ViewCount":"31",
+    "LastActivityDate":"2014-10-17T10:30:17.743",
+    "ClosedDate":"2014-10-18T11:45:18.063",
+    "Title":"How to lock device and turn on display using tap\/slide",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"76628",
+    "CreationDate":"2014-10-16T22:30:07.690",
+    "FavoriteCount":null,
+    "Id":"85069",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-16T22:30:07.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf1dd038-5c0d-43e9-936b-88b813084dc2",
+            "UserId":"76628",
+            "CloseReasonId":null,
+            "PostId":"85069",
+            "PostHistoryTypeId":"2",
+            "Id":"279387",
+            "Text":"My phone's power button is messed up. So am looking for something which will help me lock my phone and turn it on using either tapping or sliding. The knock lock app is great for locking but doesn't wake the phone. Is there an app\/something that I can install that will help me lock\/unlock without using my phones power button ? Details : Android version : 4.4.4 Phone : Nexus 4Although I dont know the pros and cons yet but I don't want to root my phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-16T22:30:07.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf1dd038-5c0d-43e9-936b-88b813084dc2",
+            "UserId":"76628",
+            "CloseReasonId":null,
+            "PostId":"85069",
+            "PostHistoryTypeId":"1",
+            "Id":"279388",
+            "Text":"How to lock device and turn on display using tap\/slide"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-16T22:30:07.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf1dd038-5c0d-43e9-936b-88b813084dc2",
+            "UserId":"76628",
+            "CloseReasonId":null,
+            "PostId":"85069",
+            "PostHistoryTypeId":"3",
+            "Id":"279389",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-18T11:45:18.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd564890-bc85-4ad3-aa8d-c75b5aa83584",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"85069",
+            "PostHistoryTypeId":"10",
+            "Id":"279858",
+            "Text":"{\"OriginalQuestionIds\":[9699],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Does Android  emulator run faster with eclipse? I have been using Studio and the emulator takes a lot of time to start and gets my pc hanged.Will switching to eclipse help?",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-07-10T08:28:45.967",
+    "ClosedDate":"2015-07-10T13:35:30.673",
+    "Title":"Emulator in android is very slow",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116233",
+    "CreationDate":"2015-07-10T08:28:45.967",
+    "FavoriteCount":null,
+    "Id":"114887",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-10T08:28:45.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"193254a1-828d-4eb8-990e-10d4ba3b97d7",
+            "UserId":"116233",
+            "CloseReasonId":null,
+            "PostId":"114887",
+            "PostHistoryTypeId":"2",
+            "Id":"376948",
+            "Text":"Does Android  emulator run faster with eclipse? I have been using Studio and the emulator takes a lot of time to start and gets my pc hanged.Will switching to eclipse help?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-10T08:28:45.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"193254a1-828d-4eb8-990e-10d4ba3b97d7",
+            "UserId":"116233",
+            "CloseReasonId":null,
+            "PostId":"114887",
+            "PostHistoryTypeId":"1",
+            "Id":"376949",
+            "Text":"Emulator in android is very slow"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-10T08:28:45.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"193254a1-828d-4eb8-990e-10d4ba3b97d7",
+            "UserId":"116233",
+            "CloseReasonId":null,
+            "PostId":"114887",
+            "PostHistoryTypeId":"3",
+            "Id":"376950",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-10T13:35:30.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d99b541-a701-4b4e-9ed2-2fd11f15b732",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114887",
+            "PostHistoryTypeId":"10",
+            "Id":"377051",
+            "Text":"{\"OriginalQuestionIds\":[12831],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

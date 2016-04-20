@@ -1,0 +1,83 @@
+{
+    "Body":"I rooted my nexus 5 and upgrade the developer images of Android L (build number LPV79) back in June or July. Now. I'm waiting for Android 5 OTA. Will I be getting it? How can I check when it will come? All my apps updated to Android 5 so they are not working and crushing because they are not compatible. And I'm not getting any support from Google \/ Android. Who can help me? ",
+    "ViewCount":"378",
+    "LastActivityDate":"2014-11-16T16:32:58.023",
+    "ClosedDate":"2014-11-17T08:29:00.063",
+    "Title":"Upgrade from Android L to Android 5",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"80341",
+    "CreationDate":"2014-11-16T12:51:05.213",
+    "FavoriteCount":null,
+    "Id":"87833",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-16T12:51:05.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"4541899b-4d7b-4944-9056-1080193f9391",
+            "UserId":"80341",
+            "CloseReasonId":null,
+            "PostId":"87833",
+            "PostHistoryTypeId":"2",
+            "Id":"289016",
+            "Text":"I rooted my nexus 5 and upgrade the developer images of Android L (build number LPV79) back in June or July. Now. I'm waiting for Android 5 OTA. Will I be getting it? How can I check when it will come? All my apps updated to Android 5 so they are not working and crushing because they are not compatible. And I'm not getting any support from Google \/ Android. Who can help me? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-16T12:51:05.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"4541899b-4d7b-4944-9056-1080193f9391",
+            "UserId":"80341",
+            "CloseReasonId":null,
+            "PostId":"87833",
+            "PostHistoryTypeId":"1",
+            "Id":"289017",
+            "Text":"Upgrade from Android L to Android 5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-16T12:51:05.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"4541899b-4d7b-4944-9056-1080193f9391",
+            "UserId":"80341",
+            "CloseReasonId":null,
+            "PostId":"87833",
+            "PostHistoryTypeId":"3",
+            "Id":"289018",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/534003264891543552",
+            "CreationDate":"2014-11-16T15:21:14.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"2de89de8-4e53-4efc-8815-3484a90200f5",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"87833",
+            "PostHistoryTypeId":"25",
+            "Id":"289056",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-17T08:29:00.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"354fdd5b-9a69-4812-8178-cc123330d1c2",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"87833",
+            "PostHistoryTypeId":"10",
+            "Id":"289243",
+            "Text":"{\"OriginalQuestionIds\":[78404],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

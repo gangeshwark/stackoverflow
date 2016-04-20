@@ -1,0 +1,83 @@
+{
+    "Body":"I recently coded a widget to communicate with my personal computer and execute lines of commands. The widget works completely fine but the problem i have is that android caches my no-ip hostname and since i have dynamic dns on my personal computer, i can't communicate with my computer unless i have no-ip or a similiar service.For example this is what i get when i ping from my personal computer: http:\/\/i.imgur.com\/OwODAfT.png And this is what i get when i start my widget:http:\/\/i.imgur.com\/YNELuBS.pngHow can i prevent this from happening and make my widget work with the ip which i get from pinging the domain from my pc.",
+    "ViewCount":"21",
+    "LastActivityDate":"2013-05-23T08:55:45.217",
+    "ClosedDate":"2013-05-23T10:13:11.727",
+    "Title":"Android caches no-ip forever",
+    "LastEditorUserId":"34522",
+    "Tags":"",
+    "LastEditDate":"2013-05-23T08:55:45.217",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34522",
+    "CreationDate":"2013-05-23T08:30:32.907",
+    "FavoriteCount":null,
+    "Id":"45951",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T08:30:32.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d669752-9ab4-4221-898b-6588fe5b48c3",
+            "UserId":"34522",
+            "CloseReasonId":null,
+            "PostId":"45951",
+            "PostHistoryTypeId":"2",
+            "Id":"148268",
+            "Text":"I recently coded a widget to communicate with my personal computer and execute lines of commands. The widget works completely fine but the problem i have is that android caches my no-ip hostname and since i have dynamic dns on my personal computer, i can't communicate with my computer unless i have no-ip or a similiar service.For example this is what i get when i ping from my personal computer: http:\/\/i.imgur.com\/OwODAfT.png And this is what i get when i start my widget:  http:\/\/i.imgur.com\/YNELuBS.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T08:30:32.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d669752-9ab4-4221-898b-6588fe5b48c3",
+            "UserId":"34522",
+            "CloseReasonId":null,
+            "PostId":"45951",
+            "PostHistoryTypeId":"1",
+            "Id":"148269",
+            "Text":"Android caches no-ip forever"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T08:30:32.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d669752-9ab4-4221-898b-6588fe5b48c3",
+            "UserId":"34522",
+            "CloseReasonId":null,
+            "PostId":"45951",
+            "PostHistoryTypeId":"3",
+            "Id":"148270",
+            "Text":""
+        },
+        {
+            "Comment":"added 125 characters in body",
+            "CreationDate":"2013-05-23T08:55:45.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"832321ff-f278-4b05-8c81-13d39c59b005",
+            "UserId":"34522",
+            "CloseReasonId":null,
+            "PostId":"45951",
+            "PostHistoryTypeId":"5",
+            "Id":"148278",
+            "Text":"I recently coded a widget to communicate with my personal computer and execute lines of commands. The widget works completely fine but the problem i have is that android caches my no-ip hostname and since i have dynamic dns on my personal computer, i can't communicate with my computer unless i have no-ip or a similiar service.For example this is what i get when i ping from my personal computer: http:\/\/i.imgur.com\/OwODAfT.png And this is what i get when i start my widget:  http:\/\/i.imgur.com\/YNELuBS.pngHow can i prevent this from happening and make my widget work with the ip which i get from pinging the domain from my pc."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-23T10:13:11.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e89713c-6772-4301-8757-0db932db21a1",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"45951",
+            "PostHistoryTypeId":"10",
+            "Id":"148324",
+            "Text":"{\"OriginalQuestionIds\":[12962],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

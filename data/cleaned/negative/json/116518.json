@@ -1,0 +1,71 @@
+{
+    "Body":"A new exploit is said to exploit MMS loading.  For now, there's not much end users can do to protect themselves other than to install a patch as soon as one becomes available for their specific Android device. People can also prevent MMS messages from automatically loading in Google Hangouts or other text apps. That will prevent malicious code from being automatically loaded [...]How to disable automatic loading of MMS messages?If it depends on the app, the procedure for the most popular apps would be appreciated.",
+    "ViewCount":"4642",
+    "LastActivityDate":"2015-07-28T06:48:33.070",
+    "ClosedDate":"2015-07-28T09:35:01.597",
+    "Title":"Turn off automatic loading of MMS messages",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"116530",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"501",
+    "CreationDate":"2015-07-28T04:44:31.247",
+    "FavoriteCount":"0",
+    "Id":"116518",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T04:44:31.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"4cfa71ae-7dd9-409d-9be9-bdbff7045a96",
+            "UserId":"501",
+            "CloseReasonId":null,
+            "PostId":"116518",
+            "PostHistoryTypeId":"2",
+            "Id":"383232",
+            "Text":"A [new exploit][1] is said to exploit MMS loading.> For now, there's not much end users can do to protect themselves other than to install a patch as soon as one becomes available for their specific Android device. People can also prevent MMS messages from automatically loading in Google Hangouts or other text apps. That will prevent malicious code from being automatically loaded [...]How to disable automatic loading of MMS messages?If it depends on the app, the procedure for the most popular apps would be appreciated.  [1]: http:\/\/arstechnica.com\/security\/2015\/07\/950-million-android-phones-can-be-hijacked-by-malicious-text-messages\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T04:44:31.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"4cfa71ae-7dd9-409d-9be9-bdbff7045a96",
+            "UserId":"501",
+            "CloseReasonId":null,
+            "PostId":"116518",
+            "PostHistoryTypeId":"1",
+            "Id":"383233",
+            "Text":"Turn off automatic loading of MMS messages"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T04:44:31.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"4cfa71ae-7dd9-409d-9be9-bdbff7045a96",
+            "UserId":"501",
+            "CloseReasonId":null,
+            "PostId":"116518",
+            "PostHistoryTypeId":"3",
+            "Id":"383234",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-28T09:35:01.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a766c8c-130b-4c09-be07-aeefd9419827",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"116518",
+            "PostHistoryTypeId":"10",
+            "Id":"383298",
+            "Text":"{\"OriginalQuestionIds\":[116473],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

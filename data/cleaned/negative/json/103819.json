@@ -1,0 +1,83 @@
+{
+    "Body":"My phone (Note3) has a large amount of ram, but there are always lots of applications that can run back ground which can easily consume  more than 90% of your memory.It's really annoying to manually clean them time to time.Can I set it up so that if I click home button then I will end current app completely?",
+    "ViewCount":"40",
+    "LastActivityDate":"2015-03-28T10:09:22.797",
+    "ClosedDate":"2015-03-28T16:31:30.367",
+    "Title":"How to disable android applications from running back ground automatically",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2015-03-28T05:08:04.360",
+    "FavoriteCount":null,
+    "Id":"103819",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/895020\/how-to-disable-android-applications-from-running-back-ground-automatically",
+            "CreationDate":"2015-03-28T10:09:22.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d5bb409-0457-4576-b42a-86ff91825cd4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"103819",
+            "PostHistoryTypeId":"36",
+            "Id":"338693",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T05:08:04.360",
+            "UserDisplayName":"Fisher",
+            "RevisionGUID":"872f9903-4e6e-4c7c-b466-c77495e6877d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"103819",
+            "PostHistoryTypeId":"2",
+            "Id":"338696",
+            "Text":"My phone (Note3) has a large amount of ram, but there are always lots of applications that can run back ground which can easily consume  more than 90% of your memory. It's really annoying to manually clean them time to time.Can I set it up so that if I click home button then I will end current app completely?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T05:08:04.360",
+            "UserDisplayName":"Fisher",
+            "RevisionGUID":"872f9903-4e6e-4c7c-b466-c77495e6877d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"103819",
+            "PostHistoryTypeId":"1",
+            "Id":"338697",
+            "Text":"How to disable android applications from running back ground automatically"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T05:08:04.360",
+            "UserDisplayName":"Fisher",
+            "RevisionGUID":"872f9903-4e6e-4c7c-b466-c77495e6877d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"103819",
+            "PostHistoryTypeId":"3",
+            "Id":"338698",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-28T16:31:30.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"73a03efc-fe94-4f26-84ed-87af9c5140ef",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103819",
+            "PostHistoryTypeId":"10",
+            "Id":"338838",
+            "Text":"{\"OriginalQuestionIds\":[30332],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

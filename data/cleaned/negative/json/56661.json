@@ -1,0 +1,83 @@
+{
+    "Body":"I have Android 4.1.2 on Samsung galaxy S2I install an app and get this error:unknown error during appliaction install -24googling this line should clearing Google play cache might helpbut it didn't work for me. Any other solution?",
+    "ViewCount":"1168",
+    "LastActivityDate":"2014-03-05T16:47:30.060",
+    "ClosedDate":"2014-09-13T19:56:50.647",
+    "Title":"unknown error code -24",
+    "LastEditorUserId":"25036",
+    "Tags":"",
+    "LastEditDate":"2013-11-09T21:20:10.790",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25036",
+    "CreationDate":"2013-11-09T10:23:35.500",
+    "FavoriteCount":null,
+    "Id":"56661",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-09T10:23:35.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd8e08d0-11eb-4039-8060-9072c904b2d8",
+            "UserId":"25036",
+            "CloseReasonId":null,
+            "PostId":"56661",
+            "PostHistoryTypeId":"2",
+            "Id":"188809",
+            "Text":"I have Android 4.1.2 on Samsung galaxy S2I install an app and get this error:unknown error during appliaction install -24googling this line should clearing Google play cache might helpbut I was wondering if there is another solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-09T10:23:35.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd8e08d0-11eb-4039-8060-9072c904b2d8",
+            "UserId":"25036",
+            "CloseReasonId":null,
+            "PostId":"56661",
+            "PostHistoryTypeId":"1",
+            "Id":"188810",
+            "Text":"unknown error code -24"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-09T10:23:35.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd8e08d0-11eb-4039-8060-9072c904b2d8",
+            "UserId":"25036",
+            "CloseReasonId":null,
+            "PostId":"56661",
+            "PostHistoryTypeId":"3",
+            "Id":"188811",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 3 characters in body",
+            "CreationDate":"2013-11-09T21:20:10.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f5d717a-9826-4fc6-8ed1-9aaa8baa5a26",
+            "UserId":"25036",
+            "CloseReasonId":null,
+            "PostId":"56661",
+            "PostHistoryTypeId":"5",
+            "Id":"189892",
+            "Text":"I have Android 4.1.2 on Samsung galaxy S2I install an app and get this error:unknown error during appliaction install -24googling this line should clearing Google play cache might helpbut it didn't work for me. Any other solution?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-13T19:56:50.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4ca5acf-4dea-4802-bda2-edd855dcc40b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"56661",
+            "PostHistoryTypeId":"10",
+            "Id":"270436",
+            "Text":"{\"OriginalQuestionIds\":[57456],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

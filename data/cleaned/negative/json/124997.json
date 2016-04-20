@@ -1,0 +1,83 @@
+{
+    "Body":"Say I am playing clash of clans or boom beach. A crash in the middle of an attack could be very fatal.What happen is I was playing and then suddenly the screen go back to the home screen. No other apps are running. I can click the multi task button (or whatever button in bottom right) and the original apps shows up. However, it seems to be a crash because if I select it it reloads.Does android have event logs I can check. What's going on? I got 4 GB memory. It's asus zenphone 2",
+    "ViewCount":"116",
+    "LastActivityDate":"2015-10-05T13:11:23.297",
+    "ClosedDate":"2015-11-10T18:09:14.963",
+    "Title":"My android apps sometimes crash",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129285",
+    "CreationDate":"2015-10-05T08:27:00.540",
+    "FavoriteCount":"0",
+    "Id":"124997",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T08:27:00.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"5111382d-f3d5-4701-a2d6-a476007c3390",
+            "UserId":"129285",
+            "CloseReasonId":null,
+            "PostId":"124997",
+            "PostHistoryTypeId":"2",
+            "Id":"409359",
+            "Text":"Say I am playing clash of clans or boom beach. A crash in the middle of an attack could be very fatal.What happen is I was playing and then suddenly the screen go back to the home screen. No other apps are running. I can click the multi task button (or whatever button in bottom right) and the original apps shows up. However, it seems to be a crash because if I select it it reloads.Does android have event logs I can check. What's going on? I got 4 GB memory. It's asus zenphone 2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T08:27:00.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"5111382d-f3d5-4701-a2d6-a476007c3390",
+            "UserId":"129285",
+            "CloseReasonId":null,
+            "PostId":"124997",
+            "PostHistoryTypeId":"1",
+            "Id":"409360",
+            "Text":"My android apps sometimes crash"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T08:27:00.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"5111382d-f3d5-4701-a2d6-a476007c3390",
+            "UserId":"129285",
+            "CloseReasonId":null,
+            "PostId":"124997",
+            "PostHistoryTypeId":"3",
+            "Id":"409361",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-10T18:09:14.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"865d37e0-d52a-43fc-83b9-0bdcf2e58b41",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"124997",
+            "PostHistoryTypeId":"10",
+            "Id":"422722",
+            "Text":"{\"OriginalQuestionIds\":[14430],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"from http:\/\/android.stackexchange.com\/questions\/125338\/how-to-display-log-events-in-android",
+            "CreationDate":"2015-11-10T18:10:19.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"a760ecab-91e8-4b3d-9ae3-73b05f2c33dc",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"124997",
+            "PostHistoryTypeId":"38",
+            "Id":"422729",
+            "Text":null
+        }
+    ]
+}

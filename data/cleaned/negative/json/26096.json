@@ -1,0 +1,71 @@
+{
+    "Body":"Has anybody measured\/found some accuracy tests for the face detection functions in Android SDK?By example, what percent of a random image database can it correctly recognize? How does it handle difficult scenarios like noise, partially ocluded faces or poor lighting conditions?I am interested in facts and\/or relevant statistics, not just opinions.",
+    "ViewCount":"426",
+    "LastActivityDate":"2012-07-19T19:55:19.527",
+    "ClosedDate":"2012-12-19T14:57:47.930",
+    "Title":"Face detector accuracy tests",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17160",
+    "CreationDate":"2012-07-19T06:29:29.223",
+    "FavoriteCount":null,
+    "Id":"26096",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T06:29:29.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"983fb26c-9ced-425f-aa07-6442af8434a2",
+            "UserId":"17160",
+            "CloseReasonId":null,
+            "PostId":"26096",
+            "PostHistoryTypeId":"2",
+            "Id":"75489",
+            "Text":"Has anybody measured\/found some accuracy tests for the face detection functions in Android SDK?By example, what percent of a random image database can it correctly recognize? How does it handle difficult scenarios like noise, partially ocluded faces or poor lighting conditions?I am interested in facts and\/or relevant statistics, not just opinions."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T06:29:29.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"983fb26c-9ced-425f-aa07-6442af8434a2",
+            "UserId":"17160",
+            "CloseReasonId":null,
+            "PostId":"26096",
+            "PostHistoryTypeId":"1",
+            "Id":"75490",
+            "Text":"Face detector accuracy tests"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T06:29:29.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"983fb26c-9ced-425f-aa07-6442af8434a2",
+            "UserId":"17160",
+            "CloseReasonId":null,
+            "PostId":"26096",
+            "PostHistoryTypeId":"3",
+            "Id":"75491",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T14:57:47.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e07f34e-2ace-4eee-9c12-90b2e13bcde6",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"26096",
+            "PostHistoryTypeId":"10",
+            "Id":"107446",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

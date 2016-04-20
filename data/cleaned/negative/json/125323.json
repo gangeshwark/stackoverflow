@@ -1,0 +1,71 @@
+{
+    "Body":"I tried removing google account and wiping play store and play services data. But problem not solved. Even after factory reset problem persists. I own redmi 2 rooted device.",
+    "ViewCount":"53",
+    "LastActivityDate":"2015-10-08T07:36:19.150",
+    "ClosedDate":"2015-10-19T23:00:59.010",
+    "Title":"Error 491 regarding playstro app update and download",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131035",
+    "CreationDate":"2015-10-08T07:36:19.150",
+    "FavoriteCount":null,
+    "Id":"125323",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T07:36:19.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6ea1f0e-60a4-4f38-bae3-ed7c39d18c1c",
+            "UserId":"131035",
+            "CloseReasonId":null,
+            "PostId":"125323",
+            "PostHistoryTypeId":"2",
+            "Id":"410582",
+            "Text":"I tried removing google account and wiping play store and play services data. But problem not solved. Even after factory reset problem persists. I own redmi 2 rooted device."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T07:36:19.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6ea1f0e-60a4-4f38-bae3-ed7c39d18c1c",
+            "UserId":"131035",
+            "CloseReasonId":null,
+            "PostId":"125323",
+            "PostHistoryTypeId":"1",
+            "Id":"410583",
+            "Text":"Error 491 regarding playstro app update and download"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T07:36:19.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6ea1f0e-60a4-4f38-bae3-ed7c39d18c1c",
+            "UserId":"131035",
+            "CloseReasonId":null,
+            "PostId":"125323",
+            "PostHistoryTypeId":"3",
+            "Id":"410584",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-19T23:00:59.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"1dca422b-a211-4ed6-bbbf-6c4b9a8fa4e7",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125323",
+            "PostHistoryTypeId":"10",
+            "Id":"415012",
+            "Text":"{\"OriginalQuestionIds\":[83432],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"My question is whether I can wipe my phone off after changing my google password as I do not remember the password and my phone has been lost. So in this case, if I change my password how will it get updated on the phone? Kindly help me with this asap. Thank you. ",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-05-25T22:19:33.847",
+    "ClosedDate":"2015-06-09T16:26:48.233",
+    "Title":"Remote factory reset after changing google password",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"110095",
+    "CreationDate":"2015-05-25T22:19:33.847",
+    "FavoriteCount":null,
+    "Id":"110329",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-25T22:19:33.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba6cc75f-9553-4334-9835-6c4bb9df1167",
+            "UserId":"110095",
+            "CloseReasonId":null,
+            "PostId":"110329",
+            "PostHistoryTypeId":"2",
+            "Id":"360397",
+            "Text":"My question is whether I can wipe my phone off after changing my google password as I do not remember the password and my phone has been lost. So in this case, if I change my password how will it get updated on the phone? Kindly help me with this asap. Thank you. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-25T22:19:33.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba6cc75f-9553-4334-9835-6c4bb9df1167",
+            "UserId":"110095",
+            "CloseReasonId":null,
+            "PostId":"110329",
+            "PostHistoryTypeId":"1",
+            "Id":"360398",
+            "Text":"Remote factory reset after changing google password"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-25T22:19:33.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba6cc75f-9553-4334-9835-6c4bb9df1167",
+            "UserId":"110095",
+            "CloseReasonId":null,
+            "PostId":"110329",
+            "PostHistoryTypeId":"3",
+            "Id":"360399",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-09T16:26:48.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"df7bf283-2c1c-4200-92bf-eca7ed40313f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"110329",
+            "PostHistoryTypeId":"10",
+            "Id":"366396",
+            "Text":"{\"OriginalQuestionIds\":[51252],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

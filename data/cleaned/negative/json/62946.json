@@ -1,0 +1,71 @@
+{
+    "Body":"When I search only one word (which isn't URL) in address bar, Firefox treats it as URL and Website Unavailable notification is displayed with OpenDNS search page. How to replace OpenDNS with Google here?",
+    "ViewCount":"221",
+    "LastActivityDate":"2014-02-07T16:22:37.840",
+    "ClosedDate":"2015-06-25T22:48:30.540",
+    "Title":"How to search one word in Firefox address bar with Google, not OpenDNS?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3303",
+    "CreationDate":"2014-02-07T16:22:37.840",
+    "FavoriteCount":null,
+    "Id":"62946",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-07T16:22:37.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"200dec27-c114-4541-9d39-35251e7bfc61",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"62946",
+            "PostHistoryTypeId":"2",
+            "Id":"213733",
+            "Text":"When I search only *one word* (which isn't URL) in address bar, Firefox treats it as URL and `Website Unavailable` notification is displayed with OpenDNS search page. How to replace OpenDNS with Google here?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-07T16:22:37.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"200dec27-c114-4541-9d39-35251e7bfc61",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"62946",
+            "PostHistoryTypeId":"1",
+            "Id":"213734",
+            "Text":"How to search one word in Firefox address bar with Google, not OpenDNS?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-07T16:22:37.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"200dec27-c114-4541-9d39-35251e7bfc61",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"62946",
+            "PostHistoryTypeId":"3",
+            "Id":"213735",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-25T22:48:30.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"a000cadc-ba82-419c-8ba8-42df6a2d4c4d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"62946",
+            "PostHistoryTypeId":"10",
+            "Id":"371769",
+            "Text":"{\"OriginalQuestionIds\":[49301],\"Voters\":[{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I use shell commands and interact with the Linux system underneath?  I want execute linux commands on my android (Froyo).How can i do it? any idea?Should I root for that or any applications for execute linux commands.",
+    "ViewCount":"195",
+    "LastActivityDate":"2012-09-25T15:53:19.970",
+    "ClosedDate":"2012-09-18T13:38:40.243",
+    "Title":"execute linux commands on android froyo",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13818",
+    "CreationDate":"2012-09-18T12:31:12.243",
+    "FavoriteCount":null,
+    "Id":"29538",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-18T12:31:12.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"1669f9ed-ea55-4ecb-b8fa-daa2a7ce6452",
+            "UserId":"13818",
+            "CloseReasonId":null,
+            "PostId":"29538",
+            "PostHistoryTypeId":"2",
+            "Id":"87978",
+            "Text":"I want execute linux commands on my android (Froyo).How can i do it? any idea?Should I root for that or any applications for execute linux commands."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-18T12:31:12.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"1669f9ed-ea55-4ecb-b8fa-daa2a7ce6452",
+            "UserId":"13818",
+            "CloseReasonId":null,
+            "PostId":"29538",
+            "PostHistoryTypeId":"1",
+            "Id":"87979",
+            "Text":"execute linux commands on android froyo"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-18T12:31:12.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"1669f9ed-ea55-4ecb-b8fa-daa2a7ce6452",
+            "UserId":"13818",
+            "CloseReasonId":null,
+            "PostId":"29538",
+            "PostHistoryTypeId":"3",
+            "Id":"87980",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-18T13:38:40.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b3c8092-112f-4f23-932e-f16eabc3abf0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29538",
+            "PostHistoryTypeId":"5",
+            "Id":"87994",
+            "Text":"> **Possible Duplicate:**  > [How can I use shell commands and interact with the Linux system underneath?](http:\/\/android.stackexchange.com\/questions\/285\/how-can-i-use-shell-commands-and-interact-with-the-linux-system-underneath)  I want execute linux commands on my android (Froyo).How can i do it? any idea?Should I root for that or any applications for execute linux commands."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-18T13:38:40.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"5d99f3a7-0779-421b-ba7c-c87d527df08c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"29538",
+            "PostHistoryTypeId":"10",
+            "Id":"87995",
+            "Text":"{\"OriginalQuestionIds\":[285],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

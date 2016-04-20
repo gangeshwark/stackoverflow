@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I use dual boot in my Android mobile phone?  Is it possible to dual boot my android mobile(HTC Sensation) with window mango? So that I can use either one of them. I'm not feeling secured with android OS right now.",
+    "ViewCount":"424",
+    "LastActivityDate":"2012-04-04T13:23:30.763",
+    "ClosedDate":"2012-04-04T19:18:14.957",
+    "Title":"Dual booting mobile",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13967",
+    "CreationDate":"2012-04-04T12:30:19.083",
+    "FavoriteCount":null,
+    "Id":"21369",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-04T12:30:19.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"42aec0bd-7a29-4686-b3a8-4748efdef9cc",
+            "UserId":"13967",
+            "CloseReasonId":null,
+            "PostId":"21369",
+            "PostHistoryTypeId":"2",
+            "Id":"59834",
+            "Text":"Is it possible to dual boot my android mobile(HTC Sensation) with window mango? So that I can use either one of them. I'm not feeling secured with android OS right now."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-04T12:30:19.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"42aec0bd-7a29-4686-b3a8-4748efdef9cc",
+            "UserId":"13967",
+            "CloseReasonId":null,
+            "PostId":"21369",
+            "PostHistoryTypeId":"1",
+            "Id":"59835",
+            "Text":"Dual booting mobile"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-04T12:30:19.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"42aec0bd-7a29-4686-b3a8-4748efdef9cc",
+            "UserId":"13967",
+            "CloseReasonId":null,
+            "PostId":"21369",
+            "PostHistoryTypeId":"3",
+            "Id":"59836",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-04-04T19:18:16.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"49b2978b-5ebf-4d57-9cd9-59a43c058396",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21369",
+            "PostHistoryTypeId":"5",
+            "Id":"59878",
+            "Text":"> **Possible Duplicate:**  > [Can I use dual boot in my Android mobile phone?](http:\/\/android.stackexchange.com\/questions\/13069\/can-i-use-dual-boot-in-my-android-mobile-phone)  Is it possible to dual boot my android mobile(HTC Sensation) with window mango? So that I can use either one of them. I'm not feeling secured with android OS right now."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-04-04T19:18:14.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"99330fff-6f96-406b-961b-1e03aed63602",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21369",
+            "PostHistoryTypeId":"10",
+            "Id":"59879",
+            "Text":"{\"OriginalQuestionIds\":[13069],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

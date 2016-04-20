@@ -1,0 +1,83 @@
+{
+    "Body":"Something I am having much difficulty with is creating a wi-fi hotspot on my Samsung s3 but without using mobile data for it. In other words, I connect to a PC using Bluetooth, and using the internet from the PC.I now want to create a wi-fi hotspot on my S3 using sharing this internet connection.Note that when using mobile data, this works fine, but it can't seem to share my Bluetooth internet from the PC. Any ideas if this is even possible i.e. creating a wi-fi hotspot that share internet other than mobile data.My reasons for this is that the wi-fi hotspot created by the computer is much slower\/worse than that made by my S3.",
+    "ViewCount":"17",
+    "LastActivityDate":"2013-10-08T09:35:00.330",
+    "ClosedDate":"2013-10-11T12:07:46.980",
+    "Title":"Wi-Fi hotspot tethering without using mobile data",
+    "LastEditorUserId":"23379",
+    "Tags":"",
+    "LastEditDate":"2013-10-08T09:35:00.330",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42872",
+    "CreationDate":"2013-10-08T09:12:05.147",
+    "FavoriteCount":null,
+    "Id":"54660",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-08T09:12:05.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"95635e63-8cf1-4361-b2ad-d807c914ab09",
+            "UserId":"42872",
+            "CloseReasonId":null,
+            "PostId":"54660",
+            "PostHistoryTypeId":"2",
+            "Id":"181408",
+            "Text":"Something I am having much difficulty with is creating a wi-fi hotspot on my Samsung s3 but without using mobile data for it. In other words, I connect to a PC using bluetooth, and using the internet from the PC.I now want to create a wi-fi hotspot on my S3 using sharing this internet connection.Note that when using mobile data, this works fine, but it can't seem to share my bluetooth internet from the PC. Any ideas if this is even possible i.e. creating a wi-fi hotspot that share internet other than mobile data.My reasons for this is that the wi-fi hotspot created by the computer is much slower\/worse than that made by my S3.Regards,Riaan"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-08T09:12:05.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"95635e63-8cf1-4361-b2ad-d807c914ab09",
+            "UserId":"42872",
+            "CloseReasonId":null,
+            "PostId":"54660",
+            "PostHistoryTypeId":"1",
+            "Id":"181409",
+            "Text":"Wi-Fi hotspot tethering without using mobile data"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-08T09:12:05.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"95635e63-8cf1-4361-b2ad-d807c914ab09",
+            "UserId":"42872",
+            "CloseReasonId":null,
+            "PostId":"54660",
+            "PostHistoryTypeId":"3",
+            "Id":"181410",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 19 characters in body",
+            "CreationDate":"2013-10-08T09:35:00.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"436146a3-fabb-4192-a2f1-b9a27d0de158",
+            "UserId":"23379",
+            "CloseReasonId":null,
+            "PostId":"54660",
+            "PostHistoryTypeId":"5",
+            "Id":"181431",
+            "Text":"Something I am having much difficulty with is creating a wi-fi hotspot on my Samsung s3 but without using mobile data for it. In other words, I connect to a PC using Bluetooth, and using the internet from the PC.I now want to create a wi-fi hotspot on my S3 using sharing this internet connection.Note that when using mobile data, this works fine, but it can't seem to share my Bluetooth internet from the PC. Any ideas if this is even possible i.e. creating a wi-fi hotspot that share internet other than mobile data.My reasons for this is that the wi-fi hotspot created by the computer is much slower\/worse than that made by my S3."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-11T12:07:46.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"bbb7b5f3-638b-43ed-a971-b824babc206b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"54660",
+            "PostHistoryTypeId":"10",
+            "Id":"182295",
+            "Text":"{\"OriginalQuestionIds\":[37141],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

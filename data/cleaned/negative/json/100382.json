@@ -1,0 +1,71 @@
+{
+    "Body":"I see the list of internet word searches every I go to google play. No matter what settings I use the words are still there. Show searches I made on the device. But only in google playstore. It could become embarrassing. I cleared data for all application I could find use history and cache cleaners. Nothing works.",
+    "ViewCount":"125",
+    "LastActivityDate":"2015-02-20T16:00:34.220",
+    "ClosedDate":"2015-02-24T14:58:07.587",
+    "Title":"unable to remove google play store search history",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95180",
+    "CreationDate":"2015-02-20T13:30:38.460",
+    "FavoriteCount":null,
+    "Id":"100382",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T13:30:38.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd59e3d3-27b2-4d6a-8d52-0ab7347cb01e",
+            "UserId":"95180",
+            "CloseReasonId":null,
+            "PostId":"100382",
+            "PostHistoryTypeId":"2",
+            "Id":"325974",
+            "Text":"I see the list of internet word searches every I go to google play. No matter what settings I use the words are still there. Show searches I made on the device. But only in google playstore. It could become embarrassing. I cleared data for all application I could find use history and cache cleaners. Nothing works."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T13:30:38.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd59e3d3-27b2-4d6a-8d52-0ab7347cb01e",
+            "UserId":"95180",
+            "CloseReasonId":null,
+            "PostId":"100382",
+            "PostHistoryTypeId":"1",
+            "Id":"325975",
+            "Text":"unable to remove google play store search history"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T13:30:38.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd59e3d3-27b2-4d6a-8d52-0ab7347cb01e",
+            "UserId":"95180",
+            "CloseReasonId":null,
+            "PostId":"100382",
+            "PostHistoryTypeId":"3",
+            "Id":"325976",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-24T14:58:07.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"af83022a-d3ac-4629-83c0-f46c3b77cd62",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"100382",
+            "PostHistoryTypeId":"10",
+            "Id":"327379",
+            "Text":"{\"OriginalQuestionIds\":[2137],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

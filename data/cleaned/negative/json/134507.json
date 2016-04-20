@@ -1,0 +1,83 @@
+{
+    "Body":"I have begun doing Android development a few months ago and it still blows my mind why an end-user that buys an Android machine cannot is is not allowed to have full access to it (aka root acccess), except through unsupported and dangerous hacks that grant root permission. For example, I want to send raw wifi packets for my current development idea, but the SDK doesn't allow this (for \"security\" resons?). An Android phone is a Linux machine after all, so what is going on?! My question is about the way Android is designed and distributed. I've read that people seem to say there is a malware risk, but isn't the risk just as high on a normal PC?",
+    "ViewCount":"72",
+    "LastActivityDate":"2016-01-17T15:02:41.323",
+    "ClosedDate":"2016-01-17T18:09:33.387",
+    "Title":"Why don't Android phones come rooted from stock?",
+    "LastEditorUserId":"133342",
+    "Tags":"",
+    "LastEditDate":"2016-01-17T04:49:03.390",
+    "CommentCount":"5",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"134509",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"133342",
+    "CreationDate":"2016-01-17T04:34:46.423",
+    "FavoriteCount":null,
+    "Id":"134507",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-17T04:34:46.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea52f9db-cf94-4072-8196-5af01a760055",
+            "UserId":"133342",
+            "CloseReasonId":null,
+            "PostId":"134507",
+            "PostHistoryTypeId":"2",
+            "Id":"446468",
+            "Text":"I have begun doing Android development a few months ago and it still blows my mind why and end-user that buys an Android machine cannot is is not allowed to have full access to it (aka root acccess), except through unsupported and dangerous hacks that grant root permission. For example, I want to send raw wifi packets for my current development idea, but the SDK doesn't allow this (for \"security\" resons?). An Android phone is a Linux machine after all, so what is going on?! My question is about the way Android is designed and distributed. I've read that people seem to say there is a malware risk, but isn't the risk just as high on a normal PC?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-17T04:34:46.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea52f9db-cf94-4072-8196-5af01a760055",
+            "UserId":"133342",
+            "CloseReasonId":null,
+            "PostId":"134507",
+            "PostHistoryTypeId":"1",
+            "Id":"446469",
+            "Text":"Why don't Android phones come rooted from stock?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-17T04:34:46.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea52f9db-cf94-4072-8196-5af01a760055",
+            "UserId":"133342",
+            "CloseReasonId":null,
+            "PostId":"134507",
+            "PostHistoryTypeId":"3",
+            "Id":"446470",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 1 character in body",
+            "CreationDate":"2016-01-17T04:49:03.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd88d406-5f7d-4aac-a74f-0030b6c9b2e3",
+            "UserId":"133342",
+            "CloseReasonId":null,
+            "PostId":"134507",
+            "PostHistoryTypeId":"5",
+            "Id":"446472",
+            "Text":"I have begun doing Android development a few months ago and it still blows my mind why an end-user that buys an Android machine cannot is is not allowed to have full access to it (aka root acccess), except through unsupported and dangerous hacks that grant root permission. For example, I want to send raw wifi packets for my current development idea, but the SDK doesn't allow this (for \"security\" resons?). An Android phone is a Linux machine after all, so what is going on?! My question is about the way Android is designed and distributed. I've read that people seem to say there is a malware risk, but isn't the risk just as high on a normal PC?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-17T18:09:33.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"18761dde-8c3a-467a-a6a9-a05658cf0a4e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"134507",
+            "PostHistoryTypeId":"10",
+            "Id":"446632",
+            "Text":"{\"OriginalQuestionIds\":[130755],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

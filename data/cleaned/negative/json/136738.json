@@ -1,0 +1,83 @@
+{
+    "Body":"how i can share my PC Internet Connection with Android via USB(With out Rooting)? please tell me",
+    "ViewCount":"15",
+    "LastActivityDate":"2016-02-10T18:36:26.740",
+    "ClosedDate":"2016-02-10T19:35:14.367",
+    "Title":"Share my PC Internet Connection with Android via USB",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2016-02-10T18:36:26.740",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150715",
+    "CreationDate":"2016-02-10T18:04:57.063",
+    "FavoriteCount":null,
+    "Id":"136738",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-10T18:04:57.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"67091aa9-8360-4df5-8fde-9d70905601ff",
+            "UserId":"150715",
+            "CloseReasonId":null,
+            "PostId":"136738",
+            "PostHistoryTypeId":"2",
+            "Id":"455608",
+            "Text":"how i can share my PC Internet Connection with Android via USB(With out Rooting)? please tell me"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-10T18:04:57.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"67091aa9-8360-4df5-8fde-9d70905601ff",
+            "UserId":"150715",
+            "CloseReasonId":null,
+            "PostId":"136738",
+            "PostHistoryTypeId":"1",
+            "Id":"455609",
+            "Text":"Share my PC Internet Connection with Android via USB"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-10T18:04:57.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"67091aa9-8360-4df5-8fde-9d70905601ff",
+            "UserId":"150715",
+            "CloseReasonId":null,
+            "PostId":"136738",
+            "PostHistoryTypeId":"3",
+            "Id":"455610",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-02-10T18:36:26.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"a03454da-9a86-4f4d-bdce-c3f1400b5fa9",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"136738",
+            "PostHistoryTypeId":"6",
+            "Id":"455621",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-10T19:35:14.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"559d1a54-d303-4bc3-87e1-cf3a7091bca9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"136738",
+            "PostHistoryTypeId":"10",
+            "Id":"455643",
+            "Text":"{\"OriginalQuestionIds\":[73168],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

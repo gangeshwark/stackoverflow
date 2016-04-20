@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Internal hard disk partitions (sda2) not showing in android system  Hi i have Asus EeePc with android 4.0 operating system .There is about 250 GB of total space (seen in bios setting), but only 4 Gb internal storage is been access by the file system in which android is deployed.Rest of the space is invisible .There is sda1,sda2 & sda3 partition but only sda1 is mount. How to access other ?Also mount command show sda1 detail mot other.",
+    "ViewCount":"13",
+    "LastActivityDate":"2012-11-07T11:25:33.610",
+    "ClosedDate":"2012-11-07T14:30:15.567",
+    "Title":"Asus Eee Pc with android 4.0 doesn't show internal disk in file system",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23276",
+    "CreationDate":"2012-11-07T11:25:33.610",
+    "FavoriteCount":null,
+    "Id":"33054",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-07T11:25:33.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"53aede9c-f93b-4b3a-99f8-3bf4c63adcb4",
+            "UserId":"23276",
+            "CloseReasonId":null,
+            "PostId":"33054",
+            "PostHistoryTypeId":"2",
+            "Id":"97943",
+            "Text":"Hi i have Asus EeePc with android 4.0 operating system .There is about 250 GB of total space (seen in bios setting), but only 4 Gb internal storage is been access by the file system in which android is deployed.Rest of the space is invisible .There is sda1,sda2 & sda3 partition but only sda1 is mount. How to access other ?Also mount command show sda1 detail mot other."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-07T11:25:33.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"53aede9c-f93b-4b3a-99f8-3bf4c63adcb4",
+            "UserId":"23276",
+            "CloseReasonId":null,
+            "PostId":"33054",
+            "PostHistoryTypeId":"1",
+            "Id":"97944",
+            "Text":"Asus Eee Pc with android 4.0 doesn't show internal disk in file system"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-07T11:25:33.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"53aede9c-f93b-4b3a-99f8-3bf4c63adcb4",
+            "UserId":"23276",
+            "CloseReasonId":null,
+            "PostId":"33054",
+            "PostHistoryTypeId":"3",
+            "Id":"97945",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-07T14:30:15.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9403a83-aa17-4ed9-9757-956c5b202305",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33054",
+            "PostHistoryTypeId":"5",
+            "Id":"97976",
+            "Text":"> **Possible Duplicate:**  > [Internal hard disk partitions (sda2) not showing in android system](http:\/\/android.stackexchange.com\/questions\/32979\/internal-hard-disk-partitions-sda2-not-showing-in-android-system)  Hi i have Asus EeePc with android 4.0 operating system .There is about 250 GB of total space (seen in bios setting), but only 4 Gb internal storage is been access by the file system in which android is deployed.Rest of the space is invisible .There is sda1,sda2 & sda3 partition but only sda1 is mount. How to access other ?Also mount command show sda1 detail mot other."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-07T14:30:15.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"81c1195d-8a04-4634-93a0-eeb27beded5d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"33054",
+            "PostHistoryTypeId":"10",
+            "Id":"97977",
+            "Text":"{\"OriginalQuestionIds\":[32979],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I wish to get the pathname for an application I am creating and have installed via Eclipse and ADB.  My application is installed as I see an icon that I can invoke to launch successfully my application.  I also see a file: \/data\/app\/com.mydomain.myapp-36.apk however, if I try to invoke that file from the shell I get an error of can't execute: permission denied, even though I am root.  I notice that for sshDroid, I can invoke it from the shell using the path: \/data\/data\/berserker.android.apps.sshdroid\/dropbear\/ssh but I find no corresponding path for my application \/data\/data\/com.mydomain.myapp\/ as that directory only contains the subdirectories: cache, files, and lib.Is there something I can do when building on installing my application so that my application can be invoked from the shell, or do I just need help locating the pathname for my application?",
+    "ViewCount":"48",
+    "LastActivityDate":"2015-04-23T05:29:13.740",
+    "ClosedDate":"2015-04-23T12:30:35.040",
+    "Title":"What is the pathname to my application executable?",
+    "LastEditorUserId":"542",
+    "Tags":"",
+    "LastEditDate":"2015-04-23T00:57:35.737",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"106334",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"542",
+    "CreationDate":"2015-04-23T00:27:00.170",
+    "FavoriteCount":null,
+    "Id":"106311",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T00:27:00.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"22edf500-c6e8-4ab7-91a0-aac586587e17",
+            "UserId":"542",
+            "CloseReasonId":null,
+            "PostId":"106311",
+            "PostHistoryTypeId":"2",
+            "Id":"347843",
+            "Text":"I wish to get the pathname for an application I am creating and have installed via Eclipse and ADB.  My application is installed as I see an icon that I can invoke to launch successfully my application.  I also see a file: `\/data\/app\/com.mydomain.myapp-36.apk` however, if I try to invoke that file from the shell I get an error of `can't execute: permission denied`, even though I am root.  I notice that for sshDroid, I can invoke it from the shell using the path: `\/data\/data\/berserker.android.apps.sshdroid\/dropbear\/ssh` but I find no corresponding path for my application `\/data\/data\/com.mydomain.myapp\/` as that directory only contains the subdirectories: `cache`, `files`, and `lib`.Is there something I can do when building on installing my application so that my application can be invoked from the shell, or do I just need help locating the pathname for my application?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T00:27:00.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"22edf500-c6e8-4ab7-91a0-aac586587e17",
+            "UserId":"542",
+            "CloseReasonId":null,
+            "PostId":"106311",
+            "PostHistoryTypeId":"1",
+            "Id":"347844",
+            "Text":"What is the pathname to my application executable?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T00:27:00.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"22edf500-c6e8-4ab7-91a0-aac586587e17",
+            "UserId":"542",
+            "CloseReasonId":null,
+            "PostId":"106311",
+            "PostHistoryTypeId":"3",
+            "Id":"347845",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-04-23T00:57:35.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"43a77672-f45f-43b8-b32e-49ee72facb64",
+            "UserId":"542",
+            "CloseReasonId":null,
+            "PostId":"106311",
+            "PostHistoryTypeId":"6",
+            "Id":"347855",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-04-23T12:30:35.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"55782c5e-26cc-43f8-ad6f-bb17bd2604c4",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"106311",
+            "PostHistoryTypeId":"10",
+            "Id":"348066",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

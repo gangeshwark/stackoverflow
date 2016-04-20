@@ -1,0 +1,83 @@
+{
+    "Body":"I am using an Alcatel One Touch on Jellybean 4.2.2.  It says that 103mb is open on phone storage in the data screen in settings, and it says it has 154mb open on the device the applications menu.  I also have 6.3gb free on the SD card.  I cannot download any apps, even with a 4mb one it tells me I have insufficient space on the device.  I have already gone through the insufficient storage wiki, or whatever it was called.  \/I asked a new one because I am unable to solve it from any other questions.\/",
+    "ViewCount":"35",
+    "LastActivityDate":"2014-10-14T21:03:20.880",
+    "ClosedDate":"2014-10-14T17:45:17.577",
+    "Title":"Insufficient Storage on Device",
+    "LastEditorUserId":"76264",
+    "Tags":"",
+    "LastEditDate":"2014-10-14T21:03:20.880",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"76264",
+    "CreationDate":"2014-10-14T04:55:30.967",
+    "FavoriteCount":null,
+    "Id":"84838",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T04:55:30.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"6992d5d2-2969-434d-8080-941aa4a151dc",
+            "UserId":"76264",
+            "CloseReasonId":null,
+            "PostId":"84838",
+            "PostHistoryTypeId":"2",
+            "Id":"278512",
+            "Text":"I am using an Alcatel One Touch on Jellybean 4.2.2.  It says that 103mb is open on phone storage in the data screen in settings, and it says it has 154mb open on the device the applications menu.  I also have 6.3gb free on the SD card.  I cannot download any apps, even with a 4mb one it tells me I have insufficient space on the device.  I have already gone through the insufficient storage wiki, or whatever it was called.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T04:55:30.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"6992d5d2-2969-434d-8080-941aa4a151dc",
+            "UserId":"76264",
+            "CloseReasonId":null,
+            "PostId":"84838",
+            "PostHistoryTypeId":"1",
+            "Id":"278513",
+            "Text":"Insufficient Storage on Device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T04:55:30.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"6992d5d2-2969-434d-8080-941aa4a151dc",
+            "UserId":"76264",
+            "CloseReasonId":null,
+            "PostId":"84838",
+            "PostHistoryTypeId":"3",
+            "Id":"278514",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-14T17:45:17.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"01d57e4a-8a45-4ebe-ae43-63bd3bdc0a42",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84838",
+            "PostHistoryTypeId":"10",
+            "Id":"278716",
+            "Text":"{\"OriginalQuestionIds\":[23010],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"added 77 characters in body",
+            "CreationDate":"2014-10-14T21:03:20.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"f78536a2-02e9-411e-ad9e-4c72ed1dddc0",
+            "UserId":"76264",
+            "CloseReasonId":null,
+            "PostId":"84838",
+            "PostHistoryTypeId":"5",
+            "Id":"278764",
+            "Text":"I am using an Alcatel One Touch on Jellybean 4.2.2.  It says that 103mb is open on phone storage in the data screen in settings, and it says it has 154mb open on the device the applications menu.  I also have 6.3gb free on the SD card.  I cannot download any apps, even with a 4mb one it tells me I have insufficient space on the device.  I have already gone through the insufficient storage wiki, or whatever it was called.  \/I asked a new one because I am unable to solve it from any other questions.\/"
+        }
+    ]
+}

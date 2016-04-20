@@ -1,0 +1,71 @@
+{
+    "Body":"If I buy a phone that has the android OS 4.1 on it, can I upgrade to kitkat (4.4)?   The reason I'm asking is I currently have a froyo os version of android and I wanted to buy a newer phone for just development purposes.  I didn't want to shell out 500 bucks for a new phone or possibly tablet since I will only be using the phone for development purposes.  Or if anyone knows a tablet or phone that is able to do this that isn't hundreds and hundreds of dollars.",
+    "ViewCount":"18",
+    "LastActivityDate":"2014-03-28T17:39:31.203",
+    "ClosedDate":"2014-03-28T22:46:33.603",
+    "Title":"Upgrade from version to version",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"57258",
+    "CreationDate":"2014-03-28T17:39:31.203",
+    "FavoriteCount":null,
+    "Id":"66431",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-28T17:39:31.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb151123-5c0a-459b-a578-be2ed55ee286",
+            "UserId":"57258",
+            "CloseReasonId":null,
+            "PostId":"66431",
+            "PostHistoryTypeId":"2",
+            "Id":"226259",
+            "Text":"If I buy a phone that has the android OS 4.1 on it, can I upgrade to kitkat (4.4)?   The reason I'm asking is I currently have a froyo os version of android and I wanted to buy a newer phone for just development purposes.  I didn't want to shell out 500 bucks for a new phone or possibly tablet since I will only be using the phone for development purposes.  Or if anyone knows a tablet or phone that is able to do this that isn't hundreds and hundreds of dollars."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-28T17:39:31.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb151123-5c0a-459b-a578-be2ed55ee286",
+            "UserId":"57258",
+            "CloseReasonId":null,
+            "PostId":"66431",
+            "PostHistoryTypeId":"1",
+            "Id":"226260",
+            "Text":"Upgrade from version to version"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-28T17:39:31.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb151123-5c0a-459b-a578-be2ed55ee286",
+            "UserId":"57258",
+            "CloseReasonId":null,
+            "PostId":"66431",
+            "PostHistoryTypeId":"3",
+            "Id":"226261",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-28T22:46:33.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a40aa16-3b93-44b5-a01e-288eb668c989",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"66431",
+            "PostHistoryTypeId":"10",
+            "Id":"226296",
+            "Text":"{\"OriginalQuestionIds\":[53064],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

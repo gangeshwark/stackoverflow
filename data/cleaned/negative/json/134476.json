@@ -1,0 +1,71 @@
+{
+    "Body":"It's a Moto G 3rd generation with Marshmallow. On the SD card there are pictures and videos that I'd like to backup. On the phone I can browse the contents of the SD card just fine. When plugged into Windows, I see that there's 17Gb of storage used, but the card appears empty. It happens on both Windows 7 and Windows 10. Thanks for your help.",
+    "ViewCount":"56",
+    "LastActivityDate":"2016-01-16T17:20:46.703",
+    "ClosedDate":"2016-01-21T19:23:19.507",
+    "Title":"SD card appears empty on computer",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81973",
+    "CreationDate":"2016-01-16T17:20:46.703",
+    "FavoriteCount":null,
+    "Id":"134476",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-16T17:20:46.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"74124193-00eb-4ec7-95c9-0c529a56b80c",
+            "UserId":"81973",
+            "CloseReasonId":null,
+            "PostId":"134476",
+            "PostHistoryTypeId":"2",
+            "Id":"446345",
+            "Text":"It's a Moto G 3rd generation with Marshmallow. On the SD card there are pictures and videos that I'd like to backup. On the phone I can browse the contents of the SD card just fine. When plugged into Windows, I see that there's 17Gb of storage used, but the card appears empty. It happens on both Windows 7 and Windows 10. Thanks for your help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-16T17:20:46.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"74124193-00eb-4ec7-95c9-0c529a56b80c",
+            "UserId":"81973",
+            "CloseReasonId":null,
+            "PostId":"134476",
+            "PostHistoryTypeId":"1",
+            "Id":"446346",
+            "Text":"SD card appears empty on computer"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-16T17:20:46.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"74124193-00eb-4ec7-95c9-0c529a56b80c",
+            "UserId":"81973",
+            "CloseReasonId":null,
+            "PostId":"134476",
+            "PostHistoryTypeId":"3",
+            "Id":"446347",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-21T19:23:19.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"037fd502-622e-400f-b70c-a91c2ca76f07",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"134476",
+            "PostHistoryTypeId":"10",
+            "Id":"448150",
+            "Text":"{\"OriginalQuestionIds\":[134230],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

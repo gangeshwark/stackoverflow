@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Will I lose any apps \/ data if I upgrade my phone\u2019s OS?  For example if you upgrade from Froyo to Gingerbread, do messages, contacts, files get reset\/deleted?",
+    "ViewCount":"5144",
+    "LastActivityDate":"2012-10-30T21:24:11.143",
+    "ClosedDate":"2012-10-30T21:52:21.793",
+    "Title":"Do messages, contacts, files get deleted when you upgrade your Android version?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"32671",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14890",
+    "CreationDate":"2012-10-30T18:51:56.280",
+    "FavoriteCount":null,
+    "Id":"32659",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-30T18:51:56.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea1c9df5-655e-4a79-905b-8fcbaba233b1",
+            "UserId":"14890",
+            "CloseReasonId":null,
+            "PostId":"32659",
+            "PostHistoryTypeId":"2",
+            "Id":"96603",
+            "Text":"For example if you upgrade from Froyo to Gingerbread, do messages, contacts, files get reset\/deleted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-30T18:51:56.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea1c9df5-655e-4a79-905b-8fcbaba233b1",
+            "UserId":"14890",
+            "CloseReasonId":null,
+            "PostId":"32659",
+            "PostHistoryTypeId":"1",
+            "Id":"96604",
+            "Text":"Do messages, contacts, files get deleted when you upgrade your Android version?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-30T18:51:56.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea1c9df5-655e-4a79-905b-8fcbaba233b1",
+            "UserId":"14890",
+            "CloseReasonId":null,
+            "PostId":"32659",
+            "PostHistoryTypeId":"3",
+            "Id":"96605",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-30T21:52:21.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"9787036c-7763-45e1-b883-8e5703660c59",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32659",
+            "PostHistoryTypeId":"5",
+            "Id":"96641",
+            "Text":"> **Possible Duplicate:**  > [Will I lose any apps \/ data if I upgrade my phone\u2019s OS?](http:\/\/android.stackexchange.com\/questions\/25847\/will-i-lose-any-apps-data-if-i-upgrade-my-phones-os)  For example if you upgrade from Froyo to Gingerbread, do messages, contacts, files get reset\/deleted?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-30T21:52:21.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"662442da-8f6a-4b07-bc84-f5ce05660bf3",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"32659",
+            "PostHistoryTypeId":"10",
+            "Id":"96642",
+            "Text":"{\"OriginalQuestionIds\":[25847],\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

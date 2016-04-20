@@ -1,0 +1,71 @@
+{
+    "Body":"I am currently running an HTC One (M8), rooted, stock 5.1 Android Lollipop. If I upgraded to a CM build, would I notice any significant performance increase? Once in a while, 5.1 lags like crap; I don't think they completely fixed the memory leak...so would a CM ROM fix stuff like this? Their latest build for my phone came out yesterday, but it's only a nightly build, all of them are...So bottom line, should I flash the nightly Cyanogenmod ROM, if I'm looking for stability, speed, and maybe a bit more customization?",
+    "ViewCount":"1428",
+    "LastActivityDate":"2015-05-30T10:19:44.507",
+    "ClosedDate":"2015-05-30T15:15:09.663",
+    "Title":"Would Cyanogenmod be faster than stock Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"110844",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108895",
+    "CreationDate":"2015-05-30T06:22:22.337",
+    "FavoriteCount":null,
+    "Id":"110828",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-30T06:22:22.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"9409175b-89ff-41cb-bdf6-87b2d8efd18f",
+            "UserId":"108895",
+            "CloseReasonId":null,
+            "PostId":"110828",
+            "PostHistoryTypeId":"2",
+            "Id":"362264",
+            "Text":"I am currently running an HTC One (M8), rooted, stock 5.1 Android Lollipop. If I upgraded to a CM build, would I notice any significant performance increase? Once in a while, 5.1 lags like crap; I don't think they completely fixed the memory leak...so would a CM ROM fix stuff like this? Their latest build for my phone came out yesterday, but it's only a nightly build, all of them are...So bottom line, should I flash the nightly Cyanogenmod ROM, if I'm looking for stability, speed, and maybe a bit more customization?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-30T06:22:22.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"9409175b-89ff-41cb-bdf6-87b2d8efd18f",
+            "UserId":"108895",
+            "CloseReasonId":null,
+            "PostId":"110828",
+            "PostHistoryTypeId":"1",
+            "Id":"362265",
+            "Text":"Would Cyanogenmod be faster than stock Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-30T06:22:22.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"9409175b-89ff-41cb-bdf6-87b2d8efd18f",
+            "UserId":"108895",
+            "CloseReasonId":null,
+            "PostId":"110828",
+            "PostHistoryTypeId":"3",
+            "Id":"362266",
+            "Text":""
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2015-05-30T15:15:09.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"478568f2-8c61-47c9-8654-e57d667f6214",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"110828",
+            "PostHistoryTypeId":"10",
+            "Id":"362404",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

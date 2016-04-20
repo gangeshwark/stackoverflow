@@ -1,0 +1,71 @@
+{
+    "Body":"I have an android next book tablet. I have a 16 GB SD card in it. Why is it still telling me I have insufficient space? How can I make things download straight to the SD card and not the internal storage?",
+    "ViewCount":"548",
+    "LastActivityDate":"2015-02-25T17:34:38.970",
+    "ClosedDate":"2015-03-06T20:37:36.843",
+    "Title":"insufficient space?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95736",
+    "CreationDate":"2015-02-24T15:54:15.103",
+    "FavoriteCount":null,
+    "Id":"100768",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-24T15:54:15.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"871e637e-002a-4082-a23b-54daa0624e3f",
+            "UserId":"95736",
+            "CloseReasonId":null,
+            "PostId":"100768",
+            "PostHistoryTypeId":"2",
+            "Id":"327386",
+            "Text":"I have an android next book tablet. I have a 16 GB SD card in it. Why is it still telling me I have insufficient space? How can I make things download straight to the SD card and not the internal storage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-24T15:54:15.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"871e637e-002a-4082-a23b-54daa0624e3f",
+            "UserId":"95736",
+            "CloseReasonId":null,
+            "PostId":"100768",
+            "PostHistoryTypeId":"1",
+            "Id":"327387",
+            "Text":"insufficient space?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-24T15:54:15.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"871e637e-002a-4082-a23b-54daa0624e3f",
+            "UserId":"95736",
+            "CloseReasonId":null,
+            "PostId":"100768",
+            "PostHistoryTypeId":"3",
+            "Id":"327388",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-06T20:37:36.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"10c1f4ac-9b58-47c7-b16f-d81988b2cf50",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100768",
+            "PostHistoryTypeId":"10",
+            "Id":"330996",
+            "Text":"{\"OriginalQuestionIds\":[43517],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

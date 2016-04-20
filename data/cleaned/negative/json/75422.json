@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a way to get the contacts out of my smartphone using linux command line? im not being able to use the touch screen since my galaxy s2 fell on the floor and its screen went black.",
+    "ViewCount":"23",
+    "LastActivityDate":"2014-07-03T05:43:40.477",
+    "ClosedDate":"2014-07-03T07:47:59.647",
+    "Title":"Get Contacts only using command line",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47340",
+    "CreationDate":"2014-07-03T03:52:25.403",
+    "FavoriteCount":null,
+    "Id":"75422",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-03T03:52:25.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"ceeaf7ed-c39f-4fb1-bfea-bdac75dd0c3b",
+            "UserId":"47340",
+            "CloseReasonId":null,
+            "PostId":"75422",
+            "PostHistoryTypeId":"2",
+            "Id":"250688",
+            "Text":"Is there a way to get the contacts out of my smartphone using linux command line? im not being able to use the touch screen since my galaxy s2 fell on the floor and its screen went black."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-03T03:52:25.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"ceeaf7ed-c39f-4fb1-bfea-bdac75dd0c3b",
+            "UserId":"47340",
+            "CloseReasonId":null,
+            "PostId":"75422",
+            "PostHistoryTypeId":"1",
+            "Id":"250689",
+            "Text":"Get Contacts only using command line"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-03T03:52:25.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"ceeaf7ed-c39f-4fb1-bfea-bdac75dd0c3b",
+            "UserId":"47340",
+            "CloseReasonId":null,
+            "PostId":"75422",
+            "PostHistoryTypeId":"3",
+            "Id":"250690",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-03T07:47:59.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"549706cd-c915-455c-9624-481e332cdf86",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"75422",
+            "PostHistoryTypeId":"10",
+            "Id":"250733",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Which is better when sharing internet from mobile to laptop? tethering or hotspot?",
+    "ViewCount":"23",
+    "LastActivityDate":"2016-03-04T15:05:47.777",
+    "ClosedDate":"2016-03-04T18:23:51.013",
+    "Title":"Which is better when sharing internet from mobile to laptop? tethering or hotspot?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154506",
+    "CreationDate":"2016-03-04T09:55:31.660",
+    "FavoriteCount":null,
+    "Id":"138781",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T09:55:31.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"494ba04f-0d30-4180-810b-876abed90e3c",
+            "UserId":"154506",
+            "CloseReasonId":null,
+            "PostId":"138781",
+            "PostHistoryTypeId":"2",
+            "Id":"463907",
+            "Text":"Which is better when sharing internet from mobile to laptop? tethering or hotspot?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T09:55:31.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"494ba04f-0d30-4180-810b-876abed90e3c",
+            "UserId":"154506",
+            "CloseReasonId":null,
+            "PostId":"138781",
+            "PostHistoryTypeId":"1",
+            "Id":"463908",
+            "Text":"Which is better when sharing internet from mobile to laptop? tethering or hotspot?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T09:55:31.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"494ba04f-0d30-4180-810b-876abed90e3c",
+            "UserId":"154506",
+            "CloseReasonId":null,
+            "PostId":"138781",
+            "PostHistoryTypeId":"3",
+            "Id":"463909",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2016-03-04T18:23:51.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"d80c3cdd-509e-4c23-9162-42e326447976",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138781",
+            "PostHistoryTypeId":"10",
+            "Id":"464037",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

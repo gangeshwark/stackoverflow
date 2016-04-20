@@ -1,0 +1,71 @@
+{
+    "Body":"I'm using Android 2.3 and uninstalled dropbox. Then I wanted it back, but dropbox 3.01, the only official version available, is meant to work only from Android 4 on. Where can I find an old, trustable version of the dropbox 2.x that works for my phone?",
+    "ViewCount":"1945",
+    "LastActivityDate":"2015-07-16T17:37:24.110",
+    "ClosedDate":"2015-07-16T21:22:22.883",
+    "Title":"Where can I find an old version of dropbox app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"115497",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"115606",
+    "CreationDate":"2015-07-16T17:30:29.197",
+    "FavoriteCount":"1",
+    "Id":"115496",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-16T17:30:29.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b270e4a-77f9-4039-9fe6-1bae3e760221",
+            "UserId":"115606",
+            "CloseReasonId":null,
+            "PostId":"115496",
+            "PostHistoryTypeId":"2",
+            "Id":"379310",
+            "Text":"I'm using Android 2.3 and uninstalled dropbox. Then I wanted it back, but dropbox 3.01, the only official version available, is meant to work only from Android 4 on. Where can I find an old, trustable version of the dropbox 2.x that works for my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-16T17:30:29.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b270e4a-77f9-4039-9fe6-1bae3e760221",
+            "UserId":"115606",
+            "CloseReasonId":null,
+            "PostId":"115496",
+            "PostHistoryTypeId":"1",
+            "Id":"379311",
+            "Text":"Where can I find an old version of dropbox app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-16T17:30:29.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b270e4a-77f9-4039-9fe6-1bae3e760221",
+            "UserId":"115606",
+            "CloseReasonId":null,
+            "PostId":"115496",
+            "PostHistoryTypeId":"3",
+            "Id":"379312",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-16T21:22:22.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d9a8021-a54c-4227-af7f-741f2b3b357d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"115496",
+            "PostHistoryTypeId":"10",
+            "Id":"379374",
+            "Text":"{\"OriginalQuestionIds\":[14910],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

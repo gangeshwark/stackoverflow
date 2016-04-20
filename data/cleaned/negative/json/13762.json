@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I install Android on my non-Android device?  I did look at this Can I install Android on my non-Android device?But my question is a little bit different.I am trying to install Android on Sony Ericsson Satio (Symbian S60).Can it be done? If yes, then the question is how?Are there guides\/installers\/tools available?Thanks,Aseem Chiplonkar",
+    "ViewCount":"1034",
+    "LastActivityDate":"2011-09-23T10:55:02.507",
+    "ClosedDate":"2011-09-23T15:59:56.937",
+    "Title":"How can I install Android built from source on a bare device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7466",
+    "CreationDate":"2011-09-23T07:28:33.233",
+    "FavoriteCount":null,
+    "Id":"13762",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-23T07:28:33.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"3710ae15-9a62-4350-af9f-0b4484622f38",
+            "UserId":"7466",
+            "CloseReasonId":null,
+            "PostId":"13762",
+            "PostHistoryTypeId":"2",
+            "Id":"36255",
+            "Text":"I did look at this http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-deviceBut my question is a little bit different.I am trying to install Android on Sony Ericsson Satio (Symbian S60).Can it be done? If yes, then the question is how?Are there guides\/installers\/tools available?Thanks,Aseem Chiplonkar"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-23T07:28:33.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"3710ae15-9a62-4350-af9f-0b4484622f38",
+            "UserId":"7466",
+            "CloseReasonId":null,
+            "PostId":"13762",
+            "PostHistoryTypeId":"1",
+            "Id":"36256",
+            "Text":"How can I install Android built from source on a bare device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-23T07:28:33.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"3710ae15-9a62-4350-af9f-0b4484622f38",
+            "UserId":"7466",
+            "CloseReasonId":null,
+            "PostId":"13762",
+            "PostHistoryTypeId":"3",
+            "Id":"36257",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-09-23T15:59:57.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"b1df4ff4-99a7-4377-8feb-fee2eb8ccde3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"13762",
+            "PostHistoryTypeId":"5",
+            "Id":"36309",
+            "Text":"> **Possible Duplicate:**  > [Can I install Android on my non-Android device?](http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-device)  I did look at this http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-deviceBut my question is a little bit different.I am trying to install Android on Sony Ericsson Satio (Symbian S60).Can it be done? If yes, then the question is how?Are there guides\/installers\/tools available?Thanks,Aseem Chiplonkar"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-09-23T15:59:56.937",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c8c48e1-99b7-444e-a973-3afdac0b547d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"13762",
+            "PostHistoryTypeId":"10",
+            "Id":"36310",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

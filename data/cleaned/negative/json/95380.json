@@ -1,0 +1,71 @@
+{
+    "Body":"I just found that my \/sdcard\/DCIM\/.thumbnails folder grew to more than 40GB. Two .thumbdata3 files each large 20GB.My Galaxy S3 has only 16GB of internal storage. These files prevent me from backing up my sdcard to SFTP.I think I can safely delete these files, but where do they come from? And how to check if there are any strange ghosts left?",
+    "ViewCount":"122",
+    "LastActivityDate":"2015-01-09T14:42:24.310",
+    "ClosedDate":"2015-01-11T15:10:17.203",
+    "Title":"40GB of thumbnails in a 16GB device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7813",
+    "CreationDate":"2015-01-09T13:48:36.450",
+    "FavoriteCount":null,
+    "Id":"95380",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-09T13:48:36.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ad2577b-d7e7-493d-a71d-5f0e0af08bd2",
+            "UserId":"7813",
+            "CloseReasonId":null,
+            "PostId":"95380",
+            "PostHistoryTypeId":"2",
+            "Id":"310479",
+            "Text":"I just found that my `\/sdcard\/DCIM\/.thumbnails` folder grew to more than 40GB. Two `.thumbdata3` files each large 20GB.My Galaxy S3 has only 16GB of internal storage. These files prevent me from backing up my sdcard to SFTP.I think I can safely delete these files, but where do they come from? And how to check if there are any strange ghosts left?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-09T13:48:36.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ad2577b-d7e7-493d-a71d-5f0e0af08bd2",
+            "UserId":"7813",
+            "CloseReasonId":null,
+            "PostId":"95380",
+            "PostHistoryTypeId":"1",
+            "Id":"310480",
+            "Text":"40GB of thumbnails in a 16GB device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-09T13:48:36.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ad2577b-d7e7-493d-a71d-5f0e0af08bd2",
+            "UserId":"7813",
+            "CloseReasonId":null,
+            "PostId":"95380",
+            "PostHistoryTypeId":"3",
+            "Id":"310481",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-11T15:10:17.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"f42ed89f-5316-45c9-9840-4d1c4d996538",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"95380",
+            "PostHistoryTypeId":"10",
+            "Id":"311105",
+            "Text":"{\"OriginalQuestionIds\":[63993],\"Voters\":[{\"Id\":7813,\"DisplayName\":\"djechelon\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23379,\"DisplayName\":\"Sid\"}]}"
+        }
+    ]
+}

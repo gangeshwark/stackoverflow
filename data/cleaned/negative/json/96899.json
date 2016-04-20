@@ -1,0 +1,83 @@
+{
+    "Body":"I would like install Xposed framework. My device is running Android L (5.0.2). The Xposed framework is compatible with android 5?",
+    "ViewCount":"8385",
+    "LastActivityDate":"2015-01-25T22:12:15.733",
+    "ClosedDate":"2015-01-26T04:57:15.103",
+    "Title":"Xposed framework on android L (5.0.2)",
+    "LastEditorUserId":"1951",
+    "Tags":"",
+    "LastEditDate":"2015-01-25T22:12:15.733",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"96900",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"28245",
+    "CreationDate":"2015-01-25T21:55:34.067",
+    "FavoriteCount":null,
+    "Id":"96899",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-25T21:55:34.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2f52949-c14b-4dc2-8580-21127fee5211",
+            "UserId":"28245",
+            "CloseReasonId":null,
+            "PostId":"96899",
+            "PostHistoryTypeId":"2",
+            "Id":"315811",
+            "Text":"I would like install Xposed framework. My device is running Android L (5.0.2). The Xposed framework is compatible with android 5?Thank you for your help!Cheers,Ken"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-25T21:55:34.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2f52949-c14b-4dc2-8580-21127fee5211",
+            "UserId":"28245",
+            "CloseReasonId":null,
+            "PostId":"96899",
+            "PostHistoryTypeId":"1",
+            "Id":"315812",
+            "Text":"Xposed framework on android L (5.0.2)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-25T21:55:34.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2f52949-c14b-4dc2-8580-21127fee5211",
+            "UserId":"28245",
+            "CloseReasonId":null,
+            "PostId":"96899",
+            "PostHistoryTypeId":"3",
+            "Id":"315813",
+            "Text":""
+        },
+        {
+            "Comment":"Removed signature.",
+            "CreationDate":"2015-01-25T22:12:15.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"f084f6d6-2fb9-4181-9b32-c82eccbb0fce",
+            "UserId":"1951",
+            "CloseReasonId":null,
+            "PostId":"96899",
+            "PostHistoryTypeId":"5",
+            "Id":"315816",
+            "Text":"I would like install Xposed framework. My device is running Android L (5.0.2). The Xposed framework is compatible with android 5?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-26T04:57:15.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"38fc4ff6-6a82-4405-b0e8-deb21c267470",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"96899",
+            "PostHistoryTypeId":"10",
+            "Id":"315897",
+            "Text":"{\"OriginalQuestionIds\":[92702,66258],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I'm a developer working on an Android app. I want to sell in-app purchases for this app.I seem to have the purchasing working, with a test add-on set up but I can't find where the add-on is saved to on my tablet once the purchase is complete.Whereabouts would it be saved to, assuming that it is transferred automatically once the purchase process is complete?",
+    "ViewCount":"41",
+    "LastActivityDate":"2015-05-12T19:31:57.000",
+    "ClosedDate":"2015-05-14T12:10:37.307",
+    "Title":"Where do in-app purchases end up?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108283",
+    "CreationDate":"2015-05-11T16:50:09.870",
+    "FavoriteCount":null,
+    "Id":"109068",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-11T16:50:09.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"0addbb2e-d2bb-465e-8a58-652be6b110e0",
+            "UserId":"108283",
+            "CloseReasonId":null,
+            "PostId":"109068",
+            "PostHistoryTypeId":"2",
+            "Id":"355672",
+            "Text":"I'm a developer working on an Android app. I want to sell in-app purchases for this app.I seem to have the purchasing working, with a test add-on set up but I can't find where the add-on is saved to on my tablet once the purchase is complete.Whereabouts would it be saved to, assuming that it is transferred automatically once the purchase process is complete?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-11T16:50:09.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"0addbb2e-d2bb-465e-8a58-652be6b110e0",
+            "UserId":"108283",
+            "CloseReasonId":null,
+            "PostId":"109068",
+            "PostHistoryTypeId":"1",
+            "Id":"355673",
+            "Text":"Where do in-app purchases end up?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-11T16:50:09.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"0addbb2e-d2bb-465e-8a58-652be6b110e0",
+            "UserId":"108283",
+            "CloseReasonId":null,
+            "PostId":"109068",
+            "PostHistoryTypeId":"3",
+            "Id":"355674",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-14T12:10:37.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dfeaf91-2424-44c2-a714-3d83c77e163e",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"109068",
+            "PostHistoryTypeId":"10",
+            "Id":"356663",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Before I made the system update on Android I could simply unlock my phone with my pattern. Now I have to unlock it swyping the lock up and then entering my pattern. Is there any way to JUST have the pattern unlocking screen?",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-04-15T14:53:35.637",
+    "ClosedDate":"2015-04-15T15:33:39.287",
+    "Title":"Is it possible to *not* have a lock screen, only the pattern screen on the new android lollipop system?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102544",
+    "CreationDate":"2015-04-15T14:53:35.637",
+    "FavoriteCount":null,
+    "Id":"105541",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-15T14:53:35.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"06399717-5562-40cb-84f4-3b3e805dbe0c",
+            "UserId":"102544",
+            "CloseReasonId":null,
+            "PostId":"105541",
+            "PostHistoryTypeId":"2",
+            "Id":"344965",
+            "Text":"Before I made the system update on Android I could simply unlock my phone with my pattern. Now I have to unlock it swyping the lock up and then entering my pattern. Is there any way to JUST have the pattern unlocking screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-15T14:53:35.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"06399717-5562-40cb-84f4-3b3e805dbe0c",
+            "UserId":"102544",
+            "CloseReasonId":null,
+            "PostId":"105541",
+            "PostHistoryTypeId":"1",
+            "Id":"344966",
+            "Text":"Is it possible to *not* have a lock screen, only the pattern screen on the new android lollipop system?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-15T14:53:35.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"06399717-5562-40cb-84f4-3b3e805dbe0c",
+            "UserId":"102544",
+            "CloseReasonId":null,
+            "PostId":"105541",
+            "PostHistoryTypeId":"3",
+            "Id":"344967",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-15T15:33:39.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"256b1800-8d62-414f-9df7-742d106860ed",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105541",
+            "PostHistoryTypeId":"10",
+            "Id":"345007",
+            "Text":"{\"OriginalQuestionIds\":[87897],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

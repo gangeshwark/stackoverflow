@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  I'm planning to wipe my phone and in the process I also decided to try some alternative ROM.From what I understand MIUI 4 and CyanogenMod 9 should be ICS based, but I can't find these ROMs in a pure form. On XDADevelopers forums, there is gazilion of MIUI and CM ROMS, but all of them seem to have some custom modifications.I want to go for something reasonably stable right now. So where do I find some ICS ROMs for Desire HD without crazy modifications?",
+    "ViewCount":"117",
+    "LastActivityDate":"2012-01-27T12:44:30.290",
+    "ClosedDate":"2012-01-27T17:11:23.223",
+    "Title":"ICS on Desire HD",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1103",
+    "CreationDate":"2012-01-27T12:44:30.290",
+    "FavoriteCount":null,
+    "Id":"18827",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-27T12:44:30.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"f78af0e7-3940-43ed-aa0d-bb3990278bba",
+            "UserId":"1103",
+            "CloseReasonId":null,
+            "PostId":"18827",
+            "PostHistoryTypeId":"2",
+            "Id":"51807",
+            "Text":"I'm planning to wipe my phone and in the process I also decided to try some alternative ROM.From what I understand MIUI 4 and CyanogenMod 9 should be ICS based, but I can't find these ROMs in a pure form. On XDADevelopers forums, there is gazilion of MIUI and CM ROMS, but all of them seem to have some custom modifications.I want to go for something reasonably stable right now. So where do I find some ICS ROMs for Desire HD without crazy modifications?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-27T12:44:30.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"f78af0e7-3940-43ed-aa0d-bb3990278bba",
+            "UserId":"1103",
+            "CloseReasonId":null,
+            "PostId":"18827",
+            "PostHistoryTypeId":"1",
+            "Id":"51808",
+            "Text":"ICS on Desire HD"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-27T12:44:30.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"f78af0e7-3940-43ed-aa0d-bb3990278bba",
+            "UserId":"1103",
+            "CloseReasonId":null,
+            "PostId":"18827",
+            "PostHistoryTypeId":"3",
+            "Id":"51809",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-01-27T17:11:24.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"615f7fef-1f92-415b-8062-565a5a8407e0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18827",
+            "PostHistoryTypeId":"5",
+            "Id":"51840",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  I'm planning to wipe my phone and in the process I also decided to try some alternative ROM.From what I understand MIUI 4 and CyanogenMod 9 should be ICS based, but I can't find these ROMs in a pure form. On XDADevelopers forums, there is gazilion of MIUI and CM ROMS, but all of them seem to have some custom modifications.I want to go for something reasonably stable right now. So where do I find some ICS ROMs for Desire HD without crazy modifications?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-01-27T17:11:23.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"83baf7f2-7694-41a8-9a7d-f113bfa82f80",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"18827",
+            "PostHistoryTypeId":"10",
+            "Id":"51841",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

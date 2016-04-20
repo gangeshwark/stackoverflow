@@ -1,0 +1,83 @@
+{
+    "Body":"Opera Mobile comes with some pre-loaded speed dials which annoy me. So, I remove them all leaving speed dials added by me. But, whenever I restart Opera Mobile after that, those default speed dials are restored. How to counter this?",
+    "ViewCount":"606",
+    "LastActivityDate":"2012-10-14T03:33:10.477",
+    "ClosedDate":"2012-10-16T13:44:53.907",
+    "Title":"How to remove all of default speed dials of Opera Mobile?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"9",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"31799",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3303",
+    "CreationDate":"2012-10-13T01:07:05.923",
+    "FavoriteCount":null,
+    "Id":"30768",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-13T01:07:05.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7e8edd3-6882-415a-aff9-8ec9ba732f82",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"30768",
+            "PostHistoryTypeId":"2",
+            "Id":"92652",
+            "Text":"Opera Mobile comes with some pre-loaded speed dials which annoy me. So, I remove them all leaving speed dials added by me. But, whenever I restart Opera Mobile after that, those default speed dials are restored. How to counter this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-13T01:07:05.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7e8edd3-6882-415a-aff9-8ec9ba732f82",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"30768",
+            "PostHistoryTypeId":"1",
+            "Id":"92653",
+            "Text":"How to remove all of default speed dials of Opera Mobile?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-13T01:07:05.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7e8edd3-6882-415a-aff9-8ec9ba732f82",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"30768",
+            "PostHistoryTypeId":"3",
+            "Id":"92654",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/257088685131051008",
+            "CreationDate":"2012-10-13T12:01:33.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"d7b529b6-4d29-4ea5-8ee3-0874197a7a6a",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"30768",
+            "PostHistoryTypeId":"25",
+            "Id":"92700",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-16T13:44:53.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"d22a4a9b-8327-486f-bb5d-232bdaed0d8d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"30768",
+            "PostHistoryTypeId":"10",
+            "Id":"94058",
+            "Text":"{\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have downloaded several apps from google play on my surface but they are no where to be found. I have tried search and poked around download files but nothing. Should it really be this hard? Seems ridiculous.",
+    "ViewCount":"99",
+    "LastActivityDate":"2015-11-22T14:50:20.460",
+    "ClosedDate":"2015-11-23T02:05:32.950",
+    "Title":"where are my downloaded google play apps? i cannot find them in apps on my surface",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"137982",
+    "CreationDate":"2015-11-22T14:36:03.043",
+    "FavoriteCount":null,
+    "Id":"129600",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-22T14:36:03.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"647e537f-4b86-4e2d-8c11-c20b723d54af",
+            "UserId":"137982",
+            "CloseReasonId":null,
+            "PostId":"129600",
+            "PostHistoryTypeId":"2",
+            "Id":"427062",
+            "Text":"I have downloaded several apps from google play on my surface but they are no where to be found. I have tried search and poked around download files but nothing. Should it really be this hard? Seems ridiculous."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-22T14:36:03.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"647e537f-4b86-4e2d-8c11-c20b723d54af",
+            "UserId":"137982",
+            "CloseReasonId":null,
+            "PostId":"129600",
+            "PostHistoryTypeId":"1",
+            "Id":"427063",
+            "Text":"where are my downloaded google play apps? i cannot find them in apps on my surface"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-22T14:36:03.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"647e537f-4b86-4e2d-8c11-c20b723d54af",
+            "UserId":"137982",
+            "CloseReasonId":null,
+            "PostId":"129600",
+            "PostHistoryTypeId":"3",
+            "Id":"427064",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-23T02:05:32.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"be8ab371-a4e1-4908-b905-da48cecb1991",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"129600",
+            "PostHistoryTypeId":"10",
+            "Id":"427235",
+            "Text":"{\"OriginalQuestionIds\":[47580],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

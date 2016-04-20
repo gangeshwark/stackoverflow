@@ -1,0 +1,83 @@
+{
+    "Body":"I have some beginner's questions for clarifying some concepts in Android phone.I am using a non-branded phone (ASK SP404) running Android 4.0.3. The Android OS in the phone comes from the manufacturer and it is non-rooted. I could use normal apps from Google Play but not the more powerful ones that need root privilege. Recently, I want to find a way to backup and restore my phone's rom (like Norton Ghost). However, from my previous thread : Could a non-root Android 4.0.3 smartphone's rom be backup?, I know that this operation seems impossible without some serious tweakings of my phone. \"Tweaking\" involves risks so I want to clarify some concepts before performing such potentially danger tasks.My questions are : Does every Android phone has a Boot Partition, a Recovery Partition and a Rom Partition ? (Boot Partition stores the Linux Kernel, Recovery Partition stores the BootLoader and the Rom Partition stores the other Android system and application files)Is every Android phone's BootLoader locked ? How could I tell whether it is locked or not ? (Supplementary Info : I could go into the Factory Mode of my phone by turning on my device with \"power on\" + \"home\" key, the Factory Mode has the following menu items :Factory ModeFull TestItem TestTest ReportVersionRebootIt seems that my BootLoader does not let me to backup\/update my phone's rom. I can't tell whether it is locked. Moreover, when I enter the \"Version\" option, the following information is listed :IMEI1 : 35958561001666IMEI2 : 35958561001666S\/N code :MT01234567890123456710SW Ver. : HTC_A100_V401Custom Build Verno : 1331982298I am not sure whether this phone has used a HTC A100's firmware rom ! ]Must I unlock the BootLoader if I want to update my phone with a custom rom (e.g. CyanogenMod) ? What exactly is the meaning of \"unlock\" ?Must I unlock the BootLoader if I just want to root my phone to run some rom backup programs such as \"romdump\", \"titanium backup\" etc ? If not, would I void my phone's warranty by just rooting my phone ?I know that the \"SuperOneClick\" program could be used to root many Android 2.2\/2.3 phones. Could this program be used to root an Android 4.0.3 phone ?If the \"SuperOneClick\" rooting process fails somewhere along its way, would the failure hurt my phone and brick it ?That's all my concerns before I would actually perform some serious tweakings to my phone. I am sorry if I have asked too many naive questions and\/or I am looking for too much, but I hope the answer(s) in this discussion may be beneficial to other Android tweaking beginners.Thanks for your attention. Any suggestion ?",
+    "ViewCount":"5104",
+    "LastActivityDate":"2012-07-14T16:47:36.950",
+    "ClosedDate":"2013-08-01T11:37:41.683",
+    "Title":"Beginner's questions on tweaking non-branded Android phone (rooting, update recovery, update rom)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16909",
+    "CreationDate":"2012-07-14T09:48:17.877",
+    "FavoriteCount":"0",
+    "Id":"25822",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T09:48:17.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee68425f-a9a2-467c-8143-542d2f1f6998",
+            "UserId":"16909",
+            "CloseReasonId":null,
+            "PostId":"25822",
+            "PostHistoryTypeId":"2",
+            "Id":"74662",
+            "Text":"I have some beginner's questions for clarifying some concepts in Android phone.I am using a non-branded phone (ASK SP404) running Android 4.0.3. The Android OS in the phone comes from the manufacturer and it is non-rooted. I could use normal apps from Google Play but not the more powerful ones that need root privilege. Recently, I want to find a way to backup and restore my phone's rom (like Norton Ghost). However, from my previous thread : [Could a non-root Android 4.0.3 smartphone's rom be backup?](http:\/\/android.stackexchange.com\/questions\/25698\/could-a-non-root-android-4-0-3-smartphones-rom-be-backup), I know that this operation seems impossible without some serious tweakings of my phone. \"Tweaking\" involves risks so I want to clarify some concepts before performing such potentially danger tasks.My questions are : 1.  Does every Android phone has a Boot Partition, a Recovery Partition and a Rom Partition ? (Boot Partition stores the Linux Kernel, Recovery Partition stores the BootLoader and the Rom Partition stores the other Android system and application files)2. Is every Android phone's BootLoader locked ? How could I tell whether it is locked or not ? (Supplementary Info : I could go into the Factory Mode of my phone by turning on my device with \"power on\" + \"home\" key, the Factory Mode has the following menu items :        Factory Mode        Full Test        Item Test        Test Report        Version        RebootIt seems that my BootLoader does not let me to backup\/update my phone's rom. I can't tell whether it is locked. Moreover, when I enter the \"Version\" option, the following information is listed :        IMEI1 : 35958561001666        IMEI2 : 35958561001666        S\/N code :        MT012345678901234567        10        SW Ver. : HTC_A100_V401        Custom Build Verno : 1331982298I am not sure whether this phone has used a HTC A100's firmware rom ! ]3.  Must I unlock the BootLoader if I want to update my phone with a custom rom (e.g. CyanogenMod) ? What exactly is the meaning of \"unlock\" ?4.  Must I unlock the BootLoader if I just want to root my phone to run some rom backup programs such as \"romdump\", \"titanium backup\" etc ? If not, would I void my phone's warranty by just rooting my phone ?5.  I know that the \"SuperOneClick\" program could be used to root many Android 2.2\/2.3 phones. Could this program be used to root an Android 4.0.3 phone ?6.  If the \"SuperOneClick\" rooting process fails somewhere along its way, would the failure hurt my phone and brick it ?That's all my concerns before I would actually perform some serious tweakings to my phone. I am sorry if I have asked too many naive questions and\/or I am looking for too much, but I hope the answer(s) in this discussion may be beneficial to other Android tweaking beginners.Thanks for your attention. Any suggestion ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T09:48:17.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee68425f-a9a2-467c-8143-542d2f1f6998",
+            "UserId":"16909",
+            "CloseReasonId":null,
+            "PostId":"25822",
+            "PostHistoryTypeId":"1",
+            "Id":"74663",
+            "Text":"Beginner's questions on tweaking non-branded Android phone (rooting, update recovery, update rom)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T09:48:17.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee68425f-a9a2-467c-8143-542d2f1f6998",
+            "UserId":"16909",
+            "CloseReasonId":null,
+            "PostId":"25822",
+            "PostHistoryTypeId":"3",
+            "Id":"74664",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/224361484044615680",
+            "CreationDate":"2012-07-15T04:35:20.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7e75f84-4c2b-4718-b7cb-a833ca15255d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"25822",
+            "PostHistoryTypeId":"25",
+            "Id":"74758",
+            "Text":null
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2013-08-01T11:37:41.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"8acfe181-ee09-4583-a62a-731b0e216f92",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25822",
+            "PostHistoryTypeId":"10",
+            "Id":"164689",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

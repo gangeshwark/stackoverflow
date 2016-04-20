@@ -1,0 +1,83 @@
+{
+    "Body":"Bought a factory refurbished Nexus 4 today. It started with jellybean on the first boot, a few updates later it gets to 4.4.4. Now it tells me that my system is up to date. I have another Nexus 4 running Lollipop 5.0.1. I am on T-Mobile if that maters.",
+    "ViewCount":"307",
+    "LastActivityDate":"2015-01-08T08:26:57.280",
+    "ClosedDate":"2015-01-11T16:57:37.870",
+    "Title":"Nexus 4 won't upgrade to Lollipop",
+    "LastEditorUserId":"4187",
+    "Tags":"",
+    "LastEditDate":"2015-01-08T01:05:21.427",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4187",
+    "CreationDate":"2015-01-08T00:49:31.160",
+    "FavoriteCount":null,
+    "Id":"95224",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-08T00:49:31.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3f993bd-3f62-4193-bcb3-2f4b1c46e574",
+            "UserId":"4187",
+            "CloseReasonId":null,
+            "PostId":"95224",
+            "PostHistoryTypeId":"2",
+            "Id":"309937",
+            "Text":"Bought a factory refurbished Nexus 4. It started with jellybean on the first boot, a few updates later it gets to 4.4.4. Now it tells me that my system is up to date. I have another Nexus 4 running Lollipop. I am on T-Mobile if that maters."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-08T00:49:31.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3f993bd-3f62-4193-bcb3-2f4b1c46e574",
+            "UserId":"4187",
+            "CloseReasonId":null,
+            "PostId":"95224",
+            "PostHistoryTypeId":"1",
+            "Id":"309938",
+            "Text":"Nexus 4 won't upgrade to Lollipop"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-08T00:49:31.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3f993bd-3f62-4193-bcb3-2f4b1c46e574",
+            "UserId":"4187",
+            "CloseReasonId":null,
+            "PostId":"95224",
+            "PostHistoryTypeId":"3",
+            "Id":"309939",
+            "Text":""
+        },
+        {
+            "Comment":"added 12 characters in body",
+            "CreationDate":"2015-01-08T01:05:21.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfd32d4d-3ace-437b-83f5-8288e28d804f",
+            "UserId":"4187",
+            "CloseReasonId":null,
+            "PostId":"95224",
+            "PostHistoryTypeId":"5",
+            "Id":"309941",
+            "Text":"Bought a factory refurbished Nexus 4 today. It started with jellybean on the first boot, a few updates later it gets to 4.4.4. Now it tells me that my system is up to date. I have another Nexus 4 running Lollipop 5.0.1. I am on T-Mobile if that maters."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-11T16:57:37.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a73948e-976a-4e05-bdef-97b9dce6c181",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"95224",
+            "PostHistoryTypeId":"10",
+            "Id":"311136",
+            "Text":"{\"OriginalQuestionIds\":[93962],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

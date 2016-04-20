@@ -1,0 +1,71 @@
+{
+    "Body":"I want to put my Android device in a fixed position, and have the device's camera continuously scan for and respond to QR codes. For example,I have a few QR codes. I want to be able to put the first QR code in front of the device's camera, and have the device perform the action attached to the QR code (e.g. open a web page). Later on, I'll put a second QR code in front of the device, and it will respond to that QR code. There should be no manual intervention as far as scanning for new QR codes, nor for performing the action in the QR code.Does such an app exist?",
+    "ViewCount":"1550",
+    "LastActivityDate":"2012-11-05T18:58:10.240",
+    "ClosedDate":"2013-03-22T12:26:20.543",
+    "Title":"Is there an app for Android that will continuously and automatically scan for QR codes?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8888",
+    "CreationDate":"2011-10-17T23:15:04.813",
+    "FavoriteCount":null,
+    "Id":"14687",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-17T23:15:04.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"4af46962-5a46-448d-bebc-4942119f345a",
+            "UserId":"8888",
+            "CloseReasonId":null,
+            "PostId":"14687",
+            "PostHistoryTypeId":"2",
+            "Id":"39013",
+            "Text":"I want to put my Android device in a fixed position, and have the device's camera continuously scan for and respond to QR codes. For example,I have a few QR codes. I want to be able to put the first QR code in front of the device's camera, and have the device perform the action attached to the QR code (e.g. open a web page). Later on, I'll put a second QR code in front of the device, and it will respond to that QR code. There should be no manual intervention as far as scanning for new QR codes, nor for performing the action in the QR code.Does such an app exist?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-17T23:15:04.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"4af46962-5a46-448d-bebc-4942119f345a",
+            "UserId":"8888",
+            "CloseReasonId":null,
+            "PostId":"14687",
+            "PostHistoryTypeId":"1",
+            "Id":"39014",
+            "Text":"Is there an app for Android that will continuously and automatically scan for QR codes?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-17T23:15:04.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"4af46962-5a46-448d-bebc-4942119f345a",
+            "UserId":"8888",
+            "CloseReasonId":null,
+            "PostId":"14687",
+            "PostHistoryTypeId":"3",
+            "Id":"39015",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-03-22T12:26:20.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfe5ea25-9a07-4415-8471-b6759b62d9d1",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"14687",
+            "PostHistoryTypeId":"10",
+            "Id":"132313",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

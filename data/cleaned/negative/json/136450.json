@@ -1,0 +1,83 @@
+{
+    "Body":"I want to view the page source in Chrome for Android the time I check its html, css, js, etc... (for instance to see whether WAI-ARIA tags are present and their organization).Is this possible or do I need to install and use a different browser to view the page source?",
+    "ViewCount":"18",
+    "LastActivityDate":"2016-02-07T18:28:36.410",
+    "ClosedDate":"2016-02-07T18:34:35.930",
+    "Title":"Chrome for Android: view page source?",
+    "LastEditorUserId":"114115",
+    "Tags":"",
+    "LastEditDate":"2016-02-07T18:28:36.410",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"114115",
+    "CreationDate":"2016-02-07T17:48:05.143",
+    "FavoriteCount":null,
+    "Id":"136450",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-07T17:48:05.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"da86afd7-1521-437d-aba0-e2736b95501a",
+            "UserId":"114115",
+            "CloseReasonId":null,
+            "PostId":"136450",
+            "PostHistoryTypeId":"2",
+            "Id":"454452",
+            "Text":"I want to view the page source in Chrome for Android the time I check its html, css, js, etc... (for instance to see whether WAI-RIA tags are present and their organization).Is this possible or do I need to install and use a different browser to view the page source?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-07T17:48:05.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"da86afd7-1521-437d-aba0-e2736b95501a",
+            "UserId":"114115",
+            "CloseReasonId":null,
+            "PostId":"136450",
+            "PostHistoryTypeId":"1",
+            "Id":"454453",
+            "Text":"Chrome for Android: view page source?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-07T17:48:05.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"da86afd7-1521-437d-aba0-e2736b95501a",
+            "UserId":"114115",
+            "CloseReasonId":null,
+            "PostId":"136450",
+            "PostHistoryTypeId":"3",
+            "Id":"454454",
+            "Text":""
+        },
+        {
+            "Comment":"added 1 character in body",
+            "CreationDate":"2016-02-07T18:28:36.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"93a9f5f0-d3e8-4226-a875-495e32c7f5a5",
+            "UserId":"114115",
+            "CloseReasonId":null,
+            "PostId":"136450",
+            "PostHistoryTypeId":"5",
+            "Id":"454464",
+            "Text":"I want to view the page source in Chrome for Android the time I check its html, css, js, etc... (for instance to see whether WAI-ARIA tags are present and their organization).Is this possible or do I need to install and use a different browser to view the page source?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-07T18:34:35.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"01fdff28-5d0a-4b55-baa9-4b1c04db3016",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"136450",
+            "PostHistoryTypeId":"10",
+            "Id":"454465",
+            "Text":"{\"OriginalQuestionIds\":[5039],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"In iOS, it's possible to tap on the status bar to scroll to top and automatically go to the beginning of a list. Is there such feature in android as well? I am looking for a way to go to the beginning of a large list without needing to tediously swiping my finger down repeatedly thousands of times.",
+    "ViewCount":"16",
+    "LastActivityDate":"2013-06-24T04:54:30.067",
+    "ClosedDate":"2013-06-24T06:29:25.810",
+    "Title":"How to quickly scroll to top in android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14499",
+    "CreationDate":"2013-06-24T04:54:30.067",
+    "FavoriteCount":null,
+    "Id":"47833",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-24T04:54:30.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"d23bc522-f82e-4f28-b45b-cae92d00e3a9",
+            "UserId":"14499",
+            "CloseReasonId":null,
+            "PostId":"47833",
+            "PostHistoryTypeId":"2",
+            "Id":"155033",
+            "Text":"In iOS, it's possible to tap on the status bar to scroll to top and automatically go to the beginning of a list. Is there such feature in android as well? I am looking for a way to go to the beginning of a large list without needing to tediously swiping my finger down repeatedly thousands of times."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-24T04:54:30.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"d23bc522-f82e-4f28-b45b-cae92d00e3a9",
+            "UserId":"14499",
+            "CloseReasonId":null,
+            "PostId":"47833",
+            "PostHistoryTypeId":"1",
+            "Id":"155034",
+            "Text":"How to quickly scroll to top in android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-24T04:54:30.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"d23bc522-f82e-4f28-b45b-cae92d00e3a9",
+            "UserId":"14499",
+            "CloseReasonId":null,
+            "PostId":"47833",
+            "PostHistoryTypeId":"3",
+            "Id":"155035",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-24T06:29:25.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"48ad17ca-3389-47ea-8d5f-05d535a4fdcb",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"47833",
+            "PostHistoryTypeId":"10",
+            "Id":"155045",
+            "Text":"{\"OriginalQuestionIds\":[39230],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

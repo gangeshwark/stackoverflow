@@ -1,0 +1,71 @@
+{
+    "Body":"while a new software are installed on the android phone , it may ask permission to acccess the gallery, sms internet and some whare like that.Is it possible to control and limit  the apps accesses like firewall?thanks",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-05-20T14:52:56.377",
+    "ClosedDate":"2015-05-20T15:04:46.437",
+    "Title":"limit the installed application access to the SMS , wifi, internet",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"109456",
+    "CreationDate":"2015-05-20T14:52:56.377",
+    "FavoriteCount":null,
+    "Id":"109902",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-20T14:52:56.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"99d34e9c-1695-4f8c-82b6-0b30505b0a16",
+            "UserId":"109456",
+            "CloseReasonId":null,
+            "PostId":"109902",
+            "PostHistoryTypeId":"2",
+            "Id":"358776",
+            "Text":"while a new software are installed on the android phone , it may ask permission to acccess the gallery, sms internet and some whare like that.Is it possible to control and limit  the apps accesses like firewall?thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-20T14:52:56.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"99d34e9c-1695-4f8c-82b6-0b30505b0a16",
+            "UserId":"109456",
+            "CloseReasonId":null,
+            "PostId":"109902",
+            "PostHistoryTypeId":"1",
+            "Id":"358777",
+            "Text":"limit the installed application access to the SMS , wifi, internet"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-20T14:52:56.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"99d34e9c-1695-4f8c-82b6-0b30505b0a16",
+            "UserId":"109456",
+            "CloseReasonId":null,
+            "PostId":"109902",
+            "PostHistoryTypeId":"3",
+            "Id":"358778",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-20T15:04:46.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"626008ab-e84f-40ec-9a4f-0bfb944476dc",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"109902",
+            "PostHistoryTypeId":"10",
+            "Id":"358780",
+            "Text":"{\"OriginalQuestionIds\":[3091],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

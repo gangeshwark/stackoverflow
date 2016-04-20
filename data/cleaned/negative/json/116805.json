@@ -1,0 +1,71 @@
+{
+    "Body":"How do you collapse expanded notifications? In KitKat you would drag down then up. I can't figure it out for lollipop though.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-07-30T22:01:03.333",
+    "ClosedDate":"2015-07-31T02:21:29.023",
+    "Title":"How do you collapse expanded notifications on Lollipop?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"119065",
+    "CreationDate":"2015-07-30T22:01:03.333",
+    "FavoriteCount":null,
+    "Id":"116805",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-30T22:01:03.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd8c7b52-c851-471e-a8de-b7aab9bd06c4",
+            "UserId":"119065",
+            "CloseReasonId":null,
+            "PostId":"116805",
+            "PostHistoryTypeId":"2",
+            "Id":"384294",
+            "Text":"How do you collapse expanded notifications? In KitKat you would drag down then up. I can't figure it out for lollipop though."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-30T22:01:03.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd8c7b52-c851-471e-a8de-b7aab9bd06c4",
+            "UserId":"119065",
+            "CloseReasonId":null,
+            "PostId":"116805",
+            "PostHistoryTypeId":"1",
+            "Id":"384295",
+            "Text":"How do you collapse expanded notifications on Lollipop?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-30T22:01:03.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd8c7b52-c851-471e-a8de-b7aab9bd06c4",
+            "UserId":"119065",
+            "CloseReasonId":null,
+            "PostId":"116805",
+            "PostHistoryTypeId":"3",
+            "Id":"384296",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-31T02:21:29.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"b82c7435-1094-439d-8bbb-7724b12a8a49",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"116805",
+            "PostHistoryTypeId":"10",
+            "Id":"384336",
+            "Text":"{\"OriginalQuestionIds\":[90365],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

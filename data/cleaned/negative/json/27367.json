@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why can't the su binary simply be copied (techical response please)  What is the difference between flashing device with root ROM and simple pushing su utility to device using adb without flashing it?If I don't need to launch applications which need a root functionality, but just need to relocate some files in android file system, using su, do I need to flash my device?",
+    "ViewCount":"336",
+    "LastActivityDate":"2012-08-10T12:06:12.860",
+    "ClosedDate":"2012-08-10T18:44:42.087",
+    "Title":"Difference between ways of rooting device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"27370",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6278",
+    "CreationDate":"2012-08-10T11:49:53.403",
+    "FavoriteCount":null,
+    "Id":"27367",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-10T11:49:53.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"c44830a1-8a5c-41c0-8ef4-990abb6a9f93",
+            "UserId":"6278",
+            "CloseReasonId":null,
+            "PostId":"27367",
+            "PostHistoryTypeId":"2",
+            "Id":"79404",
+            "Text":"What is the difference between flashing device with root ROM and simple pushing su utility to device using adb without flashing it?If I don't need to launch applications which need a root functionality, but just need to relocate some files in android file system, using su, do I need to flash my device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-10T11:49:53.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"c44830a1-8a5c-41c0-8ef4-990abb6a9f93",
+            "UserId":"6278",
+            "CloseReasonId":null,
+            "PostId":"27367",
+            "PostHistoryTypeId":"1",
+            "Id":"79405",
+            "Text":"Difference between ways of rooting device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-10T11:49:53.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"c44830a1-8a5c-41c0-8ef4-990abb6a9f93",
+            "UserId":"6278",
+            "CloseReasonId":null,
+            "PostId":"27367",
+            "PostHistoryTypeId":"3",
+            "Id":"79406",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-10T18:44:42.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff6ee759-8a34-4ec2-9351-1642869fd794",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27367",
+            "PostHistoryTypeId":"5",
+            "Id":"79489",
+            "Text":"> **Possible Duplicate:**  > [Why can't the su binary simply be copied (techical response please)](http:\/\/android.stackexchange.com\/questions\/27321\/why-cant-the-su-binary-simply-be-copied-techical-response-please)  What is the difference between flashing device with root ROM and simple pushing su utility to device using adb without flashing it?If I don't need to launch applications which need a root functionality, but just need to relocate some files in android file system, using su, do I need to flash my device?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-10T18:44:42.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd2d4da1-5e1f-4b83-94c7-6078468676c8",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"27367",
+            "PostHistoryTypeId":"10",
+            "Id":"79490",
+            "Text":"{\"OriginalQuestionIds\":[27321],\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

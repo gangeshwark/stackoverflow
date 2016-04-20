@@ -1,0 +1,71 @@
+{
+    "Body":"i am new to android, and learning android through tutorials. i am making a project in which i want to upload files from android app to asp.net website. can anyone give me a link to a good tutorial that completely explains the both side server and client.i have a little confusion about how to achieve this. i have 2 question if anyone can give me some answers.On the asp.net website part, what to do, i know of webservice.... and read about asp.net web api, restful api, can anyone suggest which is the best and easy to use.and according to the asp.net website what to do in the android app",
+    "ViewCount":"12",
+    "LastActivityDate":"2016-03-02T01:42:19.467",
+    "ClosedDate":"2016-03-02T13:12:49.730",
+    "Title":"Android App Upload Files to ASp.net website",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"143357",
+    "CreationDate":"2016-03-02T01:42:19.467",
+    "FavoriteCount":null,
+    "Id":"138573",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T01:42:19.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"f13c8310-20d5-4632-af05-f625d3c47b12",
+            "UserId":"143357",
+            "CloseReasonId":null,
+            "PostId":"138573",
+            "PostHistoryTypeId":"2",
+            "Id":"463121",
+            "Text":"i am new to android, and learning android through tutorials. i am making a project in which i want to upload files from android app to asp.net website.  - can anyone give me a link to a good tutorial that completely explains the both side server and client.i have a little confusion about how to achieve this. i have 2 question if anyone can give me some answers. 1. On the asp.net website part, what to do, i know of webservice.... and read about asp.net web api, restful api, can anyone suggest which is the best and easy to use. 2. and according to the asp.net website what to do in the android app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T01:42:19.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"f13c8310-20d5-4632-af05-f625d3c47b12",
+            "UserId":"143357",
+            "CloseReasonId":null,
+            "PostId":"138573",
+            "PostHistoryTypeId":"1",
+            "Id":"463122",
+            "Text":"Android App Upload Files to ASp.net website"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T01:42:19.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"f13c8310-20d5-4632-af05-f625d3c47b12",
+            "UserId":"143357",
+            "CloseReasonId":null,
+            "PostId":"138573",
+            "PostHistoryTypeId":"3",
+            "Id":"463123",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-02T13:12:49.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"d6343312-240d-4493-ade4-8c94f086c288",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"138573",
+            "PostHistoryTypeId":"10",
+            "Id":"463308",
+            "Text":"{\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Samsung Galaxy Note N7000. An Android update was promoted. I started with the update download, but canceled it at 36 MB (total update size:110 mb) because of slow network. After that, whenever I try downloading it, the download stops at the 36 Mb(exactly at 35.88 where I had previously canceled it).Interestingly, it is the same case with app downloads also, from Google Play.Device: Samsung galaxy note - GT-N7000.Android version: 4.0.3Thanks.",
+    "ViewCount":"210",
+    "LastActivityDate":"2012-09-28T04:06:04.273",
+    "ClosedDate":"2012-10-13T21:00:08.090",
+    "Title":"Android update not proceeding beyond the point of earlier cancellation",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2012-09-28T04:06:04.273",
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18121",
+    "CreationDate":"2012-08-14T17:48:35.370",
+    "FavoriteCount":null,
+    "Id":"27617",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-14T17:48:35.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd2e156a-29b0-47b7-baec-a61a80e554b9",
+            "UserId":"18121",
+            "CloseReasonId":null,
+            "PostId":"27617",
+            "PostHistoryTypeId":"2",
+            "Id":"80225",
+            "Text":"I have a Samsung Galaxy Note N7000. An Android update was promoted. I started with the update download, but canceled it at 36 MB (total update size:110 mb) because of slow network. After that, whenever I try downloading it, the download stops at the 36 Mb(exactly at 35.88 where I had previously canceled it).Interestingly, it is the same case with app downloads also, from Google Play.Device: Samsung galaxy note - GT-N7000.Android version: 4.0.3Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-14T17:48:35.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd2e156a-29b0-47b7-baec-a61a80e554b9",
+            "UserId":"18121",
+            "CloseReasonId":null,
+            "PostId":"27617",
+            "PostHistoryTypeId":"1",
+            "Id":"80226",
+            "Text":"Android update not proceeding beyond the point of earlier cancellation"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-14T17:48:35.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd2e156a-29b0-47b7-baec-a61a80e554b9",
+            "UserId":"18121",
+            "CloseReasonId":null,
+            "PostId":"27617",
+            "PostHistoryTypeId":"3",
+            "Id":"80227",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-09-28T04:06:04.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"1be71ae2-f12a-4c67-ad2a-653d8088e9fd",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"27617",
+            "PostHistoryTypeId":"6",
+            "Id":"89894",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-13T21:00:08.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3710689-b9cc-4cee-9b5e-6a7f5a4fc21c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27617",
+            "PostHistoryTypeId":"10",
+            "Id":"93736",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

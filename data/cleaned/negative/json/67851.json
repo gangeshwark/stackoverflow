@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to run a \"Hello World\" app on my Motorola Droid Maxx. I am using Eclipse with the ADT bundle under Ubuntu 14.0.4. I am able to run the app on my old device, a Samsung Droid Charge, but when I try to select my new device using the Android Device Chooser, it tells me that the target is unknown. I have enabled USB debugging, and I have checked \"Connect as Media device (MTP)\". What is the next step to resolve this issue?",
+    "ViewCount":"159",
+    "LastActivityDate":"2014-04-19T17:11:08.170",
+    "ClosedDate":"2014-04-23T08:12:24.743",
+    "Title":"Device Chooser cannot detect Droid Maxx?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"58911",
+    "CreationDate":"2014-04-19T16:53:27.543",
+    "FavoriteCount":null,
+    "Id":"67851",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-19T16:53:27.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4b12ca7-8cc7-45ab-ab9a-7bb81f5dddee",
+            "UserId":"58911",
+            "CloseReasonId":null,
+            "PostId":"67851",
+            "PostHistoryTypeId":"2",
+            "Id":"231310",
+            "Text":"I am trying to run a \"Hello World\" app on my Motorola Droid Maxx. I am using Eclipse with the ADT bundle under Ubuntu 14.0.4. I am able to run the app on my old device, a Samsung Droid Charge, but when I try to select my new device using the Android Device Chooser, it tells me that the target is unknown. I have enabled USB debugging, and I have checked \"Connect as Media device (MTP)\". What is the next step to resolve this issue?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-19T16:53:27.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4b12ca7-8cc7-45ab-ab9a-7bb81f5dddee",
+            "UserId":"58911",
+            "CloseReasonId":null,
+            "PostId":"67851",
+            "PostHistoryTypeId":"1",
+            "Id":"231311",
+            "Text":"Device Chooser cannot detect Droid Maxx?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-19T16:53:27.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4b12ca7-8cc7-45ab-ab9a-7bb81f5dddee",
+            "UserId":"58911",
+            "CloseReasonId":null,
+            "PostId":"67851",
+            "PostHistoryTypeId":"3",
+            "Id":"231312",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-04-23T08:12:24.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"15f30a07-6c39-4b97-8bc0-468bd7d61572",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"67851",
+            "PostHistoryTypeId":"10",
+            "Id":"231960",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

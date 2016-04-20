@@ -1,0 +1,71 @@
+{
+    "Body":"My device (Samsung S4 mini i9195) carries a 4.2.2 version. When I ask for a software update manually, it says that the latest version is already installed. How can I force it to accept the actual latest version (4.4.2) as depicted in this page?",
+    "ViewCount":"69",
+    "LastActivityDate":"2014-06-24T17:09:59.707",
+    "ClosedDate":"2014-06-26T02:59:49.413",
+    "Title":"How can I get the newer version of android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42842",
+    "CreationDate":"2014-06-24T14:02:34.880",
+    "FavoriteCount":null,
+    "Id":"74811",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-24T14:02:34.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"7647ab54-3a91-4914-83fb-ef384bc6013e",
+            "UserId":"42842",
+            "CloseReasonId":null,
+            "PostId":"74811",
+            "PostHistoryTypeId":"2",
+            "Id":"248551",
+            "Text":"My device (Samsung S4 mini i9195) carries a 4.2.2 version. When I ask for a software update manually, it says that the latest version is already installed. How can I force it to accept the actual latest version (4.4.2) as depicted in this [page][1]?  [1]: http:\/\/live.samsung-updates.com\/index.php?device=GT-I9195"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-24T14:02:34.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"7647ab54-3a91-4914-83fb-ef384bc6013e",
+            "UserId":"42842",
+            "CloseReasonId":null,
+            "PostId":"74811",
+            "PostHistoryTypeId":"1",
+            "Id":"248552",
+            "Text":"How can I get the newer version of android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-24T14:02:34.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"7647ab54-3a91-4914-83fb-ef384bc6013e",
+            "UserId":"42842",
+            "CloseReasonId":null,
+            "PostId":"74811",
+            "PostHistoryTypeId":"3",
+            "Id":"248553",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-26T02:59:49.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"f0f18b13-a0ed-48db-81ab-9862ff11c084",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"74811",
+            "PostHistoryTypeId":"10",
+            "Id":"248864",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

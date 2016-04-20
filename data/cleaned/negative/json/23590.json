@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my device get the Android 4.0 update (Ice Cream Sandwich)?  I've never even used Android before, and I've been given this Nexus One for app development by my supervisor.I'd like to get it updated to Android 4.0 from 2.3.x, but I'm not sure how and I can't find clear-cut instructions.Can it even be done?",
+    "ViewCount":"28",
+    "LastActivityDate":"2012-05-29T16:57:03.117",
+    "ClosedDate":"2012-05-29T18:54:21.720",
+    "Title":"Can I update my Nexus One to Android 4.0, and how do I do it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15480",
+    "CreationDate":"2012-05-29T16:57:03.117",
+    "FavoriteCount":null,
+    "Id":"23590",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-29T16:57:03.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a8016a4-2df4-418b-b1a9-58c6879a4501",
+            "UserId":"15480",
+            "CloseReasonId":null,
+            "PostId":"23590",
+            "PostHistoryTypeId":"2",
+            "Id":"67212",
+            "Text":"I've never even used Android before, and I've been given this Nexus One for app development by my supervisor.I'd like to get it updated to Android 4.0 from 2.3.x, but I'm not sure how and I can't find clear-cut instructions.Can it even be done?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-29T16:57:03.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a8016a4-2df4-418b-b1a9-58c6879a4501",
+            "UserId":"15480",
+            "CloseReasonId":null,
+            "PostId":"23590",
+            "PostHistoryTypeId":"1",
+            "Id":"67213",
+            "Text":"Can I update my Nexus One to Android 4.0, and how do I do it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-29T16:57:03.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a8016a4-2df4-418b-b1a9-58c6879a4501",
+            "UserId":"15480",
+            "CloseReasonId":null,
+            "PostId":"23590",
+            "PostHistoryTypeId":"3",
+            "Id":"67214",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-05-29T18:54:23.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a3e19bd-57c9-4496-9462-b95ebfd0c2b1",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"23590",
+            "PostHistoryTypeId":"5",
+            "Id":"67233",
+            "Text":"> **Possible Duplicate:**  > [When will my device get the Android 4.0 update (Ice Cream Sandwich)?](http:\/\/android.stackexchange.com\/questions\/14766\/when-will-my-device-get-the-android-4-0-update-ice-cream-sandwich)  I've never even used Android before, and I've been given this Nexus One for app development by my supervisor.I'd like to get it updated to Android 4.0 from 2.3.x, but I'm not sure how and I can't find clear-cut instructions.Can it even be done?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-05-29T18:54:21.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"b1f95abe-0539-4645-b227-f48d659ace56",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"23590",
+            "PostHistoryTypeId":"10",
+            "Id":"67234",
+            "Text":"{\"OriginalQuestionIds\":[14766],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

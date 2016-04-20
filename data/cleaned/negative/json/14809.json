@@ -1,0 +1,83 @@
+{
+    "Body":"Is there an app that can search emails by subject, sender or body text through the IMAP4 protocol?Alternatively, is there an app that caches the email headers for all messages and searches them locally?",
+    "ViewCount":"766",
+    "LastActivityDate":"2012-08-17T23:06:34.027",
+    "ClosedDate":"2012-12-30T09:39:51.507",
+    "Title":"How can I search for emails on an IMAP (or exchange) server?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"6",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8282",
+    "CreationDate":"2011-10-20T17:04:57.753",
+    "FavoriteCount":null,
+    "Id":"14809",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-20T17:04:57.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1a5ba96-789f-4785-9366-2e3d4872c5aa",
+            "UserId":"8282",
+            "CloseReasonId":null,
+            "PostId":"14809",
+            "PostHistoryTypeId":"2",
+            "Id":"39402",
+            "Text":"Is there an app that can search emails by subject, sender or body text through the IMAP4 protocol?Alternatively, is there an app that caches the email headers for all messages and searches them locally?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-20T17:04:57.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1a5ba96-789f-4785-9366-2e3d4872c5aa",
+            "UserId":"8282",
+            "CloseReasonId":null,
+            "PostId":"14809",
+            "PostHistoryTypeId":"1",
+            "Id":"39403",
+            "Text":"How can I search for emails on an IMAP (or exchange) server?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-20T17:04:57.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1a5ba96-789f-4785-9366-2e3d4872c5aa",
+            "UserId":"8282",
+            "CloseReasonId":null,
+            "PostId":"14809",
+            "PostHistoryTypeId":"3",
+            "Id":"39404",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/127098241920679936",
+            "CreationDate":"2011-10-20T19:05:57.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"63680977-53c9-49f1-8c0a-c59373cc1d7b",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"14809",
+            "PostHistoryTypeId":"25",
+            "Id":"39416",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-30T09:39:51.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"459c69ba-99c0-4a61-9c8c-6bd0564f14fe",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"14809",
+            "PostHistoryTypeId":"10",
+            "Id":"109992",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

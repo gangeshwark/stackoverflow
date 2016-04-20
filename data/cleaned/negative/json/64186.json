@@ -1,0 +1,71 @@
+{
+    "Body":"On my Android Gingerbread device (keep in mind that it is the pratically extinct Walkman, which is basically Android's attempt at a iPod) my wifi keeps on going white, and when it happens I can't use Text+ and stuff like that. I have no idea why, but it keeps on doing that. When its green though, it lets me go on it. It toggles from normal connection to only games, basically. Anyone know why my wifi won't work?",
+    "ViewCount":"44",
+    "LastActivityDate":"2014-02-23T20:23:24.917",
+    "ClosedDate":"2014-02-25T23:46:36.323",
+    "Title":"Wifi not working too well.. :c",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54512",
+    "CreationDate":"2014-02-23T19:43:30.383",
+    "FavoriteCount":null,
+    "Id":"64186",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-23T19:43:30.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d153496-0444-49cb-80b0-25f6d337d342",
+            "UserId":"54512",
+            "CloseReasonId":null,
+            "PostId":"64186",
+            "PostHistoryTypeId":"2",
+            "Id":"218194",
+            "Text":"On my Android Gingerbread device (keep in mind that it is the pratically extinct Walkman, which is basically Android's attempt at a iPod) my wifi keeps on going white, and when it happens I can't use Text+ and stuff like that. I have no idea why, but it keeps on doing that. When its green though, it lets me go on it. It toggles from normal connection to only games, basically. Anyone know why my wifi won't work?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-23T19:43:30.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d153496-0444-49cb-80b0-25f6d337d342",
+            "UserId":"54512",
+            "CloseReasonId":null,
+            "PostId":"64186",
+            "PostHistoryTypeId":"1",
+            "Id":"218195",
+            "Text":"Wifi not working too well.. :c"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-23T19:43:30.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d153496-0444-49cb-80b0-25f6d337d342",
+            "UserId":"54512",
+            "CloseReasonId":null,
+            "PostId":"64186",
+            "PostHistoryTypeId":"3",
+            "Id":"218196",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-25T23:46:36.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"00a9eca8-8ced-4fe0-a5f9-1cbcdb0a1e91",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"64186",
+            "PostHistoryTypeId":"10",
+            "Id":"218793",
+            "Text":"{\"OriginalQuestionIds\":[9642],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

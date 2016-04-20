@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to prevent a user from factory resetting their Android phone. How can i do this?Or better still, I would like the factory reset to not do a factory reset, but instead, just re-run the initial set up wizard, thus not affecting any apps already installed. This way it seems like a factory reset has been done.The phone is a Samsung S4If anyone can assist, I would be a very grateful concerned parent.Thanks",
+    "ViewCount":"22",
+    "LastActivityDate":"2014-12-01T10:10:40.430",
+    "ClosedDate":"2014-12-03T01:36:49.183",
+    "Title":"Emulating a factory reset",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82360",
+    "CreationDate":"2014-12-01T10:10:40.430",
+    "FavoriteCount":"1",
+    "Id":"89374",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-01T10:10:40.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"824f9166-3131-4d2a-8628-d2bd7f5b8a3d",
+            "UserId":"82360",
+            "CloseReasonId":null,
+            "PostId":"89374",
+            "PostHistoryTypeId":"2",
+            "Id":"294464",
+            "Text":"I would like to prevent a user from factory resetting their Android phone. How can i do this?Or better still, I would like the factory reset to not do a factory reset, but instead, just re-run the initial set up wizard, thus not affecting any apps already installed. This way it seems like a factory reset has been done.The phone is a Samsung S4If anyone can assist, I would be a very grateful concerned parent.Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-01T10:10:40.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"824f9166-3131-4d2a-8628-d2bd7f5b8a3d",
+            "UserId":"82360",
+            "CloseReasonId":null,
+            "PostId":"89374",
+            "PostHistoryTypeId":"1",
+            "Id":"294465",
+            "Text":"Emulating a factory reset"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-01T10:10:40.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"824f9166-3131-4d2a-8628-d2bd7f5b8a3d",
+            "UserId":"82360",
+            "CloseReasonId":null,
+            "PostId":"89374",
+            "PostHistoryTypeId":"3",
+            "Id":"294466",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-03T01:36:49.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d36148a-1019-481d-aa67-8ea9018d6fc0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89374",
+            "PostHistoryTypeId":"10",
+            "Id":"295245",
+            "Text":"{\"OriginalQuestionIds\":[89043],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

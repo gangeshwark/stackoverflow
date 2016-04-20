@@ -1,0 +1,71 @@
+{
+    "Body":"On my Motorola Moto G XT1068 with 5.0.2 whenever I'd turn on \"location\" it would ask permission to use high accuracy mode, and if I remember rightly, send information to Google. I always chose disagree because I don't want to do this.Today I was helping a friend trial an app and in order to get it to function properly I was forced agree to this. Now I have two problems:When I turn location on it always defaults to high accuracy, I cannot get it to default to device onlyI have no idea how to revoke this permission that I agreed toSo, my questions are: 1. How can I get it to default to device only? 2. How can I revoke this permission?Ideally I don't want to have to do a factory reset.And yes, I know, I shouldn't have said yes if I didn't agree, but silly me assumed I could easily revoke this permission.",
+    "ViewCount":"51",
+    "LastActivityDate":"2016-01-09T00:43:00.777",
+    "ClosedDate":"2016-01-21T00:00:13.097",
+    "Title":"Set default location mode to device only",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"7",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"145391",
+    "CreationDate":"2016-01-09T00:43:00.777",
+    "FavoriteCount":null,
+    "Id":"133776",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-09T00:43:00.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"2937de6a-de13-4828-963b-99e5e0c43903",
+            "UserId":"145391",
+            "CloseReasonId":null,
+            "PostId":"133776",
+            "PostHistoryTypeId":"2",
+            "Id":"443639",
+            "Text":"On my Motorola Moto G XT1068 with 5.0.2 whenever I'd turn on \"location\" it would ask permission to use high accuracy mode, and if I remember rightly, send information to Google. I always chose disagree because I don't want to do this.Today I was helping a friend trial an app and in order to get it to function properly I was forced agree to this. Now I have two problems:1. When I turn location on it *always* defaults to high accuracy, I cannot get it to default to device only2. I have no idea how to revoke this permission that I agreed toSo, my questions are: 1. How can I get it to default to device only? 2. How can I revoke this permission?Ideally I don't want to have to do a factory reset.And yes, I know, I shouldn't have said yes if I didn't agree, but silly me assumed I could easily revoke this permission. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-09T00:43:00.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"2937de6a-de13-4828-963b-99e5e0c43903",
+            "UserId":"145391",
+            "CloseReasonId":null,
+            "PostId":"133776",
+            "PostHistoryTypeId":"1",
+            "Id":"443640",
+            "Text":"Set default location mode to device only"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-09T00:43:00.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"2937de6a-de13-4828-963b-99e5e0c43903",
+            "UserId":"145391",
+            "CloseReasonId":null,
+            "PostId":"133776",
+            "PostHistoryTypeId":"3",
+            "Id":"443641",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-21T00:00:13.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f3dc990-6588-419f-b82c-7673e04501fa",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"133776",
+            "PostHistoryTypeId":"10",
+            "Id":"447836",
+            "Text":"{\"OriginalQuestionIds\":[84486],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

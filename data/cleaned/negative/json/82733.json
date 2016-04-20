@@ -1,0 +1,83 @@
+{
+    "Body":"I've recently bought a Tesla H7 tablet. Since it's a 'local' brand, I don't expect to see any updates, and I was wandering how could I find some other (cyanogen, or other) ROMs to update the software myself (currently, it's 4.2.2).Do I search for roms that match the CPU\/resolution\/ram\/... does it need to match every specification, or only in part?",
+    "ViewCount":"34",
+    "LastActivityDate":"2014-09-17T13:22:57.833",
+    "ClosedDate":"2014-09-28T15:47:26.203",
+    "Title":"How to find custom ROMs for rare android devices?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-09-17T13:22:57.833",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"73433",
+    "CreationDate":"2014-09-17T10:28:17.757",
+    "FavoriteCount":null,
+    "Id":"82733",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-17T10:28:17.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9c9da16-53e7-4714-80c5-719ccc750d6d",
+            "UserId":"73433",
+            "CloseReasonId":null,
+            "PostId":"82733",
+            "PostHistoryTypeId":"2",
+            "Id":"271216",
+            "Text":"I've recently bought a [Tesla H7][1] tablet. Since it's a 'local' brand, I don't expect to see any updates, and I was wandering how could I find some other (cyanogen, or other) ROMs to update the software myself (currently, it's 4.2.2).Do I search for roms that match the CPU\/resolution\/ram\/... does it need to match every specification, or only in part?  [1]: http:\/\/www.tesla.info\/en\/technical-specifications-h7\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-17T10:28:17.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9c9da16-53e7-4714-80c5-719ccc750d6d",
+            "UserId":"73433",
+            "CloseReasonId":null,
+            "PostId":"82733",
+            "PostHistoryTypeId":"1",
+            "Id":"271217",
+            "Text":"How to find custom ROMs for rare android devices?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-17T10:28:17.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9c9da16-53e7-4714-80c5-719ccc750d6d",
+            "UserId":"73433",
+            "CloseReasonId":null,
+            "PostId":"82733",
+            "PostHistoryTypeId":"3",
+            "Id":"271218",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-09-17T13:22:57.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"a4d4befe-2481-48e6-8572-359e6e09f96c",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"82733",
+            "PostHistoryTypeId":"6",
+            "Id":"271276",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-28T15:47:26.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"c6ea1e94-e8fe-4ddc-bb32-a6f1cfe174a2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"82733",
+            "PostHistoryTypeId":"10",
+            "Id":"274138",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I try to download a pdf on an https server (with an authenfication) but this is unsuccessful with Chrome or LG Browser.This is ok with Firefox.I found this answer\/comment :Unable to download from an authenticated webserver.Is there a solution for a non-power user ?",
+    "ViewCount":"11",
+    "LastActivityDate":"2014-03-08T10:36:33.557",
+    "ClosedDate":"2014-03-11T07:44:22.583",
+    "Title":"PDF on a https server can not be downloaded with Chrome",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"55590",
+    "CreationDate":"2014-03-08T10:36:33.557",
+    "FavoriteCount":null,
+    "Id":"65086",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-08T10:36:33.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c72e46a6-d0fb-4c69-917b-dd2eeb680a90",
+            "UserId":"55590",
+            "CloseReasonId":null,
+            "PostId":"65086",
+            "PostHistoryTypeId":"2",
+            "Id":"221494",
+            "Text":"I try to download a pdf on an https server (with an authenfication) but this is unsuccessful with Chrome or LG Browser.This is ok with Firefox.I found this answer\/comment :http:\/\/android.stackexchange.com\/questions\/25750\/unable-to-download-from-an-authenticated-webserver#comment55798_41024.Is there a solution for a non-power user ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-08T10:36:33.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c72e46a6-d0fb-4c69-917b-dd2eeb680a90",
+            "UserId":"55590",
+            "CloseReasonId":null,
+            "PostId":"65086",
+            "PostHistoryTypeId":"1",
+            "Id":"221495",
+            "Text":"PDF on a https server can not be downloaded with Chrome"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-08T10:36:33.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c72e46a6-d0fb-4c69-917b-dd2eeb680a90",
+            "UserId":"55590",
+            "CloseReasonId":null,
+            "PostId":"65086",
+            "PostHistoryTypeId":"3",
+            "Id":"221496",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-11T07:44:22.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"c735097f-3b99-4e39-9418-8f6312e3a28b",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"65086",
+            "PostHistoryTypeId":"10",
+            "Id":"222050",
+            "Text":"{\"OriginalQuestionIds\":[25750],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

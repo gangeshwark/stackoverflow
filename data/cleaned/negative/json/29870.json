@@ -1,0 +1,71 @@
+{
+    "Body":"I have an Lg Optimus one(LG-P509) running CyanogenMod7 stable. Apparently there is a bug with the camera device. If the screen is turned off while the camera is active, the camera won't initialize again. If I try to start the camera up, it freezes up and crashes with a \"Camera not responding\" popup. It kicks me back to the home screen afterwards.The camera is usable again after a reboot, however it can still happen again. I've found that the bug is not limited to the stock camera app, it still happens with other apps that use the camera.I thought that if it's possible to reload the device for the camera with the command line, I could automate it with a script. I just can't seem to find any documentation on the subject.What do I need to do to accomplish this?",
+    "ViewCount":"409",
+    "LastActivityDate":"2012-09-24T17:10:01.820",
+    "ClosedDate":"2012-09-25T08:21:35.493",
+    "Title":"How can I reboot the Camera device using the command line on a rooted phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20604",
+    "CreationDate":"2012-09-24T17:10:01.820",
+    "FavoriteCount":null,
+    "Id":"29870",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T17:10:01.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"96a65a87-8e01-429c-b59a-f6bf1afadbad",
+            "UserId":"20604",
+            "CloseReasonId":null,
+            "PostId":"29870",
+            "PostHistoryTypeId":"2",
+            "Id":"89225",
+            "Text":"I have an Lg Optimus one(LG-P509) running CyanogenMod7 stable. Apparently there is a bug with the camera device. If the screen is turned off while the camera is active, the camera won't initialize again. If I try to start the camera up, it freezes up and crashes with a \"Camera not responding\" popup. It kicks me back to the home screen afterwards.The camera is usable again after a reboot, however it can still happen again. I've found that the bug is not limited to the stock camera app, it still happens with other apps that use the camera.I thought that if it's possible to reload the device for the camera with the command line, I could automate it with a script. I just can't seem to find any documentation on the subject.What do I need to do to accomplish this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T17:10:01.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"96a65a87-8e01-429c-b59a-f6bf1afadbad",
+            "UserId":"20604",
+            "CloseReasonId":null,
+            "PostId":"29870",
+            "PostHistoryTypeId":"1",
+            "Id":"89226",
+            "Text":"How can I reboot the Camera device using the command line on a rooted phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T17:10:01.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"96a65a87-8e01-429c-b59a-f6bf1afadbad",
+            "UserId":"20604",
+            "CloseReasonId":null,
+            "PostId":"29870",
+            "PostHistoryTypeId":"3",
+            "Id":"89227",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-09-25T08:21:35.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e38c147-f331-42d3-9540-24ae028d28da",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29870",
+            "PostHistoryTypeId":"10",
+            "Id":"89314",
+            "Text":"{\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

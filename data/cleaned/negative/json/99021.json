@@ -1,0 +1,71 @@
+{
+    "Body":"The guy I bought my phone off of said there was a problem with the note 2, where i should not leave my phone plugged in all the time becuase the battery could overheat of whatever.. So I dont have it plugged in at night when I'm sleeping, but I just want to know if it's ok for having the phone fully charged and still on the charger for.. Let's say 10 hours?",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-02-17T03:56:29.573",
+    "ClosedDate":"2015-02-17T04:16:28.687",
+    "Title":"Can I leave my note 2 charging?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94679",
+    "CreationDate":"2015-02-17T03:56:29.573",
+    "FavoriteCount":null,
+    "Id":"99021",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T03:56:29.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"88811773-01a1-49e9-a61e-689ed5bf78ef",
+            "UserId":"94679",
+            "CloseReasonId":null,
+            "PostId":"99021",
+            "PostHistoryTypeId":"2",
+            "Id":"323679",
+            "Text":"The guy I bought my phone off of said there was a problem with the note 2, where i should not leave my phone plugged in all the time becuase the battery could overheat of whatever.. So I dont have it plugged in at night when I'm sleeping, but I just want to know if it's ok for having the phone fully charged and still on the charger for.. Let's say 10 hours?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T03:56:29.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"88811773-01a1-49e9-a61e-689ed5bf78ef",
+            "UserId":"94679",
+            "CloseReasonId":null,
+            "PostId":"99021",
+            "PostHistoryTypeId":"1",
+            "Id":"323680",
+            "Text":"Can I leave my note 2 charging?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T03:56:29.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"88811773-01a1-49e9-a61e-689ed5bf78ef",
+            "UserId":"94679",
+            "CloseReasonId":null,
+            "PostId":"99021",
+            "PostHistoryTypeId":"3",
+            "Id":"323681",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-17T04:16:28.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"e584ae43-34bc-44fa-923f-de51335a108a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"99021",
+            "PostHistoryTypeId":"10",
+            "Id":"323687",
+            "Text":"{\"OriginalQuestionIds\":[1020],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

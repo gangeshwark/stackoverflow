@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  I am looking for a very scaled down version of Android similar to CyanogenMod but with much less apps. I think just the OS , a basic landing screen and App Store. Is anyone aware of such ROMs ? ",
+    "ViewCount":"779",
+    "LastActivityDate":"2012-07-25T18:28:46.733",
+    "ClosedDate":"2012-07-25T19:19:23.303",
+    "Title":"Is there a known custom Android ROM without apps bloating",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"26464",
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17393",
+    "CreationDate":"2012-07-25T18:01:25.850",
+    "FavoriteCount":null,
+    "Id":"26461",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-25T18:01:25.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e7f0eff-9051-4a84-893c-3b9790815d54",
+            "UserId":"17393",
+            "CloseReasonId":null,
+            "PostId":"26461",
+            "PostHistoryTypeId":"2",
+            "Id":"76634",
+            "Text":"I am looking for a very scaled down version of Android similar to CyanogenMod but with much less apps. I think just the OS , a basic landing screen and App Store. Is anyone aware of such ROMs ? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-25T18:01:25.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e7f0eff-9051-4a84-893c-3b9790815d54",
+            "UserId":"17393",
+            "CloseReasonId":null,
+            "PostId":"26461",
+            "PostHistoryTypeId":"1",
+            "Id":"76635",
+            "Text":"Is there a known custom Android ROM without apps bloating"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-25T18:01:25.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e7f0eff-9051-4a84-893c-3b9790815d54",
+            "UserId":"17393",
+            "CloseReasonId":null,
+            "PostId":"26461",
+            "PostHistoryTypeId":"3",
+            "Id":"76636",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-25T19:19:23.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"b966981e-6fe7-4280-b7ca-b7bf92116d7d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26461",
+            "PostHistoryTypeId":"5",
+            "Id":"76660",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  I am looking for a very scaled down version of Android similar to CyanogenMod but with much less apps. I think just the OS , a basic landing screen and App Store. Is anyone aware of such ROMs ? "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-25T19:19:23.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c00d4e2-cbfc-4b31-8b21-3df21881c2ac",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"26461",
+            "PostHistoryTypeId":"10",
+            "Id":"76661",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

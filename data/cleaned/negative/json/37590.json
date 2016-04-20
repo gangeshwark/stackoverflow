@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I remove unwanted app icons from the screen?  I have a Samsung GS3, and every few days new shortcuts show up on my home screen. How can I stop them from being added? I un-checked Play > Settings > Auto-Add Widgets and they still keep showing up. What is causing this?",
+    "ViewCount":"4643",
+    "LastActivityDate":"2013-01-14T05:37:48.627",
+    "ClosedDate":"2013-01-16T20:00:48.310",
+    "Title":"Android Automatically Adds Shortcuts To Home Screen",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"37592",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26699",
+    "CreationDate":"2013-01-14T04:29:53.053",
+    "FavoriteCount":null,
+    "Id":"37590",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-14T04:29:53.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdd86a14-8de7-4cf0-bfcd-90c226126538",
+            "UserId":"26699",
+            "CloseReasonId":null,
+            "PostId":"37590",
+            "PostHistoryTypeId":"2",
+            "Id":"114201",
+            "Text":"I have a Samsung GS3, and every few days new shortcuts show up on my home screen. How can I stop them from being added? I un-checked `Play > Settings > Auto-Add Widgets` and they still keep showing up. What is causing this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-14T04:29:53.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdd86a14-8de7-4cf0-bfcd-90c226126538",
+            "UserId":"26699",
+            "CloseReasonId":null,
+            "PostId":"37590",
+            "PostHistoryTypeId":"1",
+            "Id":"114202",
+            "Text":"Android Automatically Adds Shortcuts To Home Screen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-14T04:29:53.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdd86a14-8de7-4cf0-bfcd-90c226126538",
+            "UserId":"26699",
+            "CloseReasonId":null,
+            "PostId":"37590",
+            "PostHistoryTypeId":"3",
+            "Id":"114203",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-16T20:00:48.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d5032bb-160d-4049-9df5-798d77724493",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"37590",
+            "PostHistoryTypeId":"5",
+            "Id":"114961",
+            "Text":"> **Possible Duplicate:**  > [How can I remove unwanted app icons from the screen?](http:\/\/android.stackexchange.com\/questions\/37327\/how-can-i-remove-unwanted-app-icons-from-the-screen)  I have a Samsung GS3, and every few days new shortcuts show up on my home screen. How can I stop them from being added? I un-checked `Play > Settings > Auto-Add Widgets` and they still keep showing up. What is causing this?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-16T20:00:48.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"28579b7b-31de-4be0-a452-2f7279430775",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"37590",
+            "PostHistoryTypeId":"10",
+            "Id":"114962",
+            "Text":"{\"OriginalQuestionIds\":[37327],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

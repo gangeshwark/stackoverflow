@@ -1,0 +1,83 @@
+{
+    "Body":"I'm looking for a stable ROM for a HTC Desire on Android 4.x. This is for quite an important task, as I am supposed to be testing an application he has written that only works on 4.x+.Is anyone able to help me here? If so many thanks.EDIT: This has been flagged as already answered, I understand there are probably many answers for HTC Desire ROMS with ICS or Jelly Bean, this question is trying to gauge opinion on which one is the most stable. Thanks",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-04-30T09:05:47.253",
+    "ClosedDate":"2013-04-30T02:01:43.930",
+    "Title":"Stable Android 4.x ROM for HTC Desire GSM",
+    "LastEditorUserId":"33126",
+    "Tags":"",
+    "LastEditDate":"2013-04-30T09:05:47.253",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33126",
+    "CreationDate":"2013-04-29T23:04:26.567",
+    "FavoriteCount":null,
+    "Id":"44632",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T23:04:26.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"c37b634d-e505-4abf-8ab0-d6ae92c29d0d",
+            "UserId":"33126",
+            "CloseReasonId":null,
+            "PostId":"44632",
+            "PostHistoryTypeId":"2",
+            "Id":"143314",
+            "Text":"I'm looking for a stable ROM for a HTC Desire on Android 4.x. This is for quite an important task, as I am supposed to be testing an application he has written that only works on 4.x+.Is anyone able to help me here? If so many thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T23:04:26.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"c37b634d-e505-4abf-8ab0-d6ae92c29d0d",
+            "UserId":"33126",
+            "CloseReasonId":null,
+            "PostId":"44632",
+            "PostHistoryTypeId":"1",
+            "Id":"143315",
+            "Text":"Stable Android 4.x ROM for HTC Desire GSM"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T23:04:26.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"c37b634d-e505-4abf-8ab0-d6ae92c29d0d",
+            "UserId":"33126",
+            "CloseReasonId":null,
+            "PostId":"44632",
+            "PostHistoryTypeId":"3",
+            "Id":"143316",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-30T02:01:43.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"70a0c86c-973d-48a6-b52f-5b5b06ed8015",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"44632",
+            "PostHistoryTypeId":"10",
+            "Id":"143327",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"Explained why this question is different.",
+            "CreationDate":"2013-04-30T09:05:47.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"1327dcbb-1571-46bf-9b4f-8f4193a05ba8",
+            "UserId":"33126",
+            "CloseReasonId":null,
+            "PostId":"44632",
+            "PostHistoryTypeId":"5",
+            "Id":"143415",
+            "Text":"I'm looking for a stable ROM for a HTC Desire on Android 4.x. This is for quite an important task, as I am supposed to be testing an application he has written that only works on 4.x+.Is anyone able to help me here? If so many thanks.EDIT: This has been flagged as already answered, I understand there are probably many answers for HTC Desire ROMS with ICS or Jelly Bean, this question is trying to gauge opinion on which one is the most stable. Thanks"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"My cell phone seems to charge slowly, especially at my home (I've tried different outlets).  But recently I was in a coffee bar, and it seemed to charge a lot - a lot! - faster.  I was using the same charger. (My phone is an inexpensive Samsung Galaxy phone, I paid like $50 for it.)  ",
+    "ViewCount":"179",
+    "LastActivityDate":"2015-11-07T21:05:57.667",
+    "ClosedDate":"2015-11-18T05:51:00.217",
+    "Title":"Why does my phone charge more quickly at some outlets than at others (with the same charger)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"135617",
+    "CreationDate":"2015-11-06T16:28:54.887",
+    "FavoriteCount":"1",
+    "Id":"128144",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-06T16:28:54.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"1b48e557-1529-42b0-9cba-16f6a60e2018",
+            "UserId":"135617",
+            "CloseReasonId":null,
+            "PostId":"128144",
+            "PostHistoryTypeId":"2",
+            "Id":"421361",
+            "Text":"My cell phone seems to charge slowly, especially at my home (I've tried different outlets).  But recently I was in a coffee bar, and it seemed to charge a lot - a lot! - faster.  I was using the same charger. (My phone is an inexpensive Samsung Galaxy phone, I paid like $50 for it.)  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-06T16:28:54.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"1b48e557-1529-42b0-9cba-16f6a60e2018",
+            "UserId":"135617",
+            "CloseReasonId":null,
+            "PostId":"128144",
+            "PostHistoryTypeId":"1",
+            "Id":"421362",
+            "Text":"Why does my phone charge more quickly at some outlets than at others (with the same charger)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-06T16:28:54.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"1b48e557-1529-42b0-9cba-16f6a60e2018",
+            "UserId":"135617",
+            "CloseReasonId":null,
+            "PostId":"128144",
+            "PostHistoryTypeId":"3",
+            "Id":"421363",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-11-18T05:51:00.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"f86a8bfc-642d-4d56-ada8-c70360520971",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"128144",
+            "PostHistoryTypeId":"10",
+            "Id":"425405",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

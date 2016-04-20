@@ -1,0 +1,71 @@
+{
+    "Body":"The OTA update for Android 5.0 has just been released in my country, and I'm facing an error when I try to install it. My phone reboot as usual for an OTA update, and then I see a bugdroid icon with a red sign with \"error\" written under it. No error message or code, nothing.If that helps in any way, the phone is an LG Nexus 4 rooted with SuperSU installed.Do you know what could prevent me from updating ?Luxim",
+    "ViewCount":"68",
+    "LastActivityDate":"2014-11-27T16:40:37.160",
+    "ClosedDate":"2014-11-28T02:46:49.657",
+    "Title":"Android Lollipop OTA Update Error (Nexus 4)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81933",
+    "CreationDate":"2014-11-27T16:40:37.160",
+    "FavoriteCount":null,
+    "Id":"89032",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T16:40:37.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"9640c13e-f908-4966-8354-e03e74739449",
+            "UserId":"81933",
+            "CloseReasonId":null,
+            "PostId":"89032",
+            "PostHistoryTypeId":"2",
+            "Id":"293236",
+            "Text":"The OTA update for Android 5.0 has just been released in my country, and I'm facing an error when I try to install it. My phone reboot as usual for an OTA update, and then I see a bugdroid icon with a red sign with \"error\" written under it. No error message or code, nothing.If that helps in any way, the phone is an LG Nexus 4 rooted with SuperSU installed.Do you know what could prevent me from updating ?Luxim"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T16:40:37.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"9640c13e-f908-4966-8354-e03e74739449",
+            "UserId":"81933",
+            "CloseReasonId":null,
+            "PostId":"89032",
+            "PostHistoryTypeId":"1",
+            "Id":"293237",
+            "Text":"Android Lollipop OTA Update Error (Nexus 4)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T16:40:37.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"9640c13e-f908-4966-8354-e03e74739449",
+            "UserId":"81933",
+            "CloseReasonId":null,
+            "PostId":"89032",
+            "PostHistoryTypeId":"3",
+            "Id":"293238",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-28T02:46:49.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd39c0c6-13fb-4a14-9df1-d49fe51375f7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89032",
+            "PostHistoryTypeId":"10",
+            "Id":"293405",
+            "Text":"{\"OriginalQuestionIds\":[1960],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

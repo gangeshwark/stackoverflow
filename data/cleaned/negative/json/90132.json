@@ -1,0 +1,83 @@
+{
+    "Body":"I've run across the specifications for this Android device, the HTC One V. On the PhoneArena site, the specs have it that the phone has both a proximity sensor and a light sensor. I thought a proximity sensor uses light to detect proximity. What is the difference between these two? ",
+    "ViewCount":"1775",
+    "LastActivityDate":"2014-12-09T04:08:47.770",
+    "ClosedDate":"2015-01-22T18:10:14.117",
+    "Title":"What is the difference between a proximity sensor and a light sensor?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-12-09T04:08:47.770",
+    "CommentCount":"2",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"90144",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41884",
+    "CreationDate":"2014-12-08T14:49:28.213",
+    "FavoriteCount":null,
+    "Id":"90132",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-08T14:49:28.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"f32f63e2-5c27-41f0-bc60-febcda782837",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"90132",
+            "PostHistoryTypeId":"2",
+            "Id":"297151",
+            "Text":"I've run across the specifications for [this android device, the HTC One V](http:\/\/www.phonearena.com\/phones\/HTC-One-V_id6850). On the PhoneArena site, the specs have it that the phone has both a proximity sensor and a light sensor. I thought a proximity sensor uses light to detect proximity.What is the difference between these two? Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-08T14:49:28.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"f32f63e2-5c27-41f0-bc60-febcda782837",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"90132",
+            "PostHistoryTypeId":"1",
+            "Id":"297152",
+            "Text":"What is the difference between a proximity sensor and a light sensor?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-08T14:49:28.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"f32f63e2-5c27-41f0-bc60-febcda782837",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"90132",
+            "PostHistoryTypeId":"3",
+            "Id":"297153",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 8 characters in body",
+            "CreationDate":"2014-12-09T04:08:47.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"7918b6b2-f792-486f-ad77-b66e1ced7554",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"90132",
+            "PostHistoryTypeId":"5",
+            "Id":"297345",
+            "Text":"I've run across the specifications for [this Android device, the HTC One V](http:\/\/www.phonearena.com\/phones\/HTC-One-V_id6850). On the PhoneArena site, the specs have it that the phone has both a proximity sensor and a light sensor. I thought a proximity sensor uses light to detect proximity. What is the difference between these two? "
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-01-22T18:10:14.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"cce74303-6ca3-4a54-a5f9-d0b3e56fc4ba",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"90132",
+            "PostHistoryTypeId":"10",
+            "Id":"314815",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

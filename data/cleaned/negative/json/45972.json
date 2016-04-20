@@ -1,0 +1,71 @@
+{
+    "Body":"I want to create a backup of application data (game highscores etc.) for Android version 2.3.6, before I try to root. How to do it?Helium (Carbon) and Z4Root aren't compatible with my OS version \/ device.",
+    "ViewCount":"21",
+    "LastActivityDate":"2013-05-23T14:51:28.140",
+    "ClosedDate":"2013-05-24T14:36:28.863",
+    "Title":"Backup Android 2.3.6 app data before rooting",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34539",
+    "CreationDate":"2013-05-23T14:39:29.967",
+    "FavoriteCount":null,
+    "Id":"45972",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T14:39:29.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"25af54a6-18c4-43d7-858f-b6eaffae1231",
+            "UserId":"34539",
+            "CloseReasonId":null,
+            "PostId":"45972",
+            "PostHistoryTypeId":"2",
+            "Id":"148372",
+            "Text":"I want to create a backup of application data (game highscores etc.) for Android version 2.3.6, before I try to root. How to do it?Helium (Carbon) and Z4Root aren't compatible with my OS version \/ device."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T14:39:29.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"25af54a6-18c4-43d7-858f-b6eaffae1231",
+            "UserId":"34539",
+            "CloseReasonId":null,
+            "PostId":"45972",
+            "PostHistoryTypeId":"1",
+            "Id":"148373",
+            "Text":"Backup Android 2.3.6 app data before rooting"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T14:39:29.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"25af54a6-18c4-43d7-858f-b6eaffae1231",
+            "UserId":"34539",
+            "CloseReasonId":null,
+            "PostId":"45972",
+            "PostHistoryTypeId":"3",
+            "Id":"148374",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-24T14:36:28.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3826635-9f0a-4251-b0ee-291e65533489",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"45972",
+            "PostHistoryTypeId":"10",
+            "Id":"148634",
+            "Text":"{\"OriginalQuestionIds\":[5667],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

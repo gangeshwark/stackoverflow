@@ -1,0 +1,71 @@
+{
+    "Body":"How Do we find what level of Android permission is required for a specific permission.Lets say we have android.permission.SET_ACTIVITY_WATCHER(docs)What permission group does it fall into?(docs)RegularDangerousSystem or SignedSigned ",
+    "ViewCount":"15",
+    "LastActivityDate":"2013-12-29T09:56:13.587",
+    "ClosedDate":"2013-12-29T19:22:50.873",
+    "Title":"Android permission and ProtectionLevel",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46784",
+    "CreationDate":"2013-12-29T09:56:13.587",
+    "FavoriteCount":null,
+    "Id":"60030",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-29T09:56:13.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"e674c16e-48f5-4bb7-848b-8690f201cccd",
+            "UserId":"46784",
+            "CloseReasonId":null,
+            "PostId":"60030",
+            "PostHistoryTypeId":"2",
+            "Id":"202428",
+            "Text":"How Do we find what level of Android permission is required for a specific permission.Lets say we have `android.permission.SET_ACTIVITY_WATCHER`([docs][1])What permission group does it fall into?([docs][2])- Regular- Dangerous- System or Signed- Signed   [1]: http:\/\/developer.android.com\/reference\/android\/Manifest.permission.html#SET_ACTIVITY_WATCHER  [2]: http:\/\/developer.android.com\/guide\/topics\/manifest\/permission-element.html"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-29T09:56:13.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"e674c16e-48f5-4bb7-848b-8690f201cccd",
+            "UserId":"46784",
+            "CloseReasonId":null,
+            "PostId":"60030",
+            "PostHistoryTypeId":"1",
+            "Id":"202429",
+            "Text":"Android permission and ProtectionLevel"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-29T09:56:13.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"e674c16e-48f5-4bb7-848b-8690f201cccd",
+            "UserId":"46784",
+            "CloseReasonId":null,
+            "PostId":"60030",
+            "PostHistoryTypeId":"3",
+            "Id":"202430",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-29T19:22:50.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c6d030e-692a-4d11-97ec-5cb6cff96f04",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"60030",
+            "PostHistoryTypeId":"10",
+            "Id":"202512",
+            "Text":"{\"OriginalQuestionIds\":[38388],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

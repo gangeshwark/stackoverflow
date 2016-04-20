@@ -1,0 +1,71 @@
+{
+    "Body":"My mobile is Micromax Canvas HD Plus .It has 4 GB inbuilt memory and 16 GB external memory card.I have selected SD Card as default location to install apps but still when I try to install app from Play Store it shows above error.My SD Card is nearly empty.I searched a lot .Uninstalling Play store updates,Clearing Cache nothing worked.",
+    "ViewCount":"487",
+    "LastActivityDate":"2015-03-09T09:35:36.093",
+    "ClosedDate":"2015-03-09T14:12:28.937",
+    "Title":"\"There is insufficient space on the device\"--This is not duplicate",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97361",
+    "CreationDate":"2015-03-09T08:24:57.900",
+    "FavoriteCount":null,
+    "Id":"101967",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-09T08:24:57.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2aed2f9-e19a-4f58-ab30-de8c00bcebb6",
+            "UserId":"97361",
+            "CloseReasonId":null,
+            "PostId":"101967",
+            "PostHistoryTypeId":"2",
+            "Id":"331828",
+            "Text":"My mobile is Micromax Canvas HD Plus .It has 4 GB inbuilt memory and 16 GB external memory card.I have selected SD Card as default location to install apps but still when I try to install app from Play Store it shows above error.My SD Card is nearly empty.I searched a lot .Uninstalling Play store updates,Clearing Cache nothing worked."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-09T08:24:57.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2aed2f9-e19a-4f58-ab30-de8c00bcebb6",
+            "UserId":"97361",
+            "CloseReasonId":null,
+            "PostId":"101967",
+            "PostHistoryTypeId":"1",
+            "Id":"331829",
+            "Text":"\"There is insufficient space on the device\"--This is not duplicate"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-09T08:24:57.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2aed2f9-e19a-4f58-ab30-de8c00bcebb6",
+            "UserId":"97361",
+            "CloseReasonId":null,
+            "PostId":"101967",
+            "PostHistoryTypeId":"3",
+            "Id":"331830",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-09T14:12:28.937",
+            "UserDisplayName":null,
+            "RevisionGUID":"f0bab0bb-fc10-4398-94c4-8974995c4848",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"101967",
+            "PostHistoryTypeId":"10",
+            "Id":"331943",
+            "Text":"{\"OriginalQuestionIds\":[2065],\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

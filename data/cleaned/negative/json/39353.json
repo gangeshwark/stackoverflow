@@ -1,0 +1,83 @@
+{
+    "Body":"Is it possible, or is there an app, to remote desktop into an android device from a Windows or Mac computer?  I would like to be able to see and control the screen.",
+    "ViewCount":"1388",
+    "LastActivityDate":"2013-02-10T18:17:33.857",
+    "ClosedDate":"2013-02-10T18:23:24.353",
+    "Title":"Remote desktop into an Android device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"57643",
+    "CreationDate":"2013-02-10T11:21:26.673",
+    "FavoriteCount":null,
+    "Id":"39353",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/549107\/remote-desktop-into-an-android-device",
+            "CreationDate":"2013-02-10T18:17:33.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"4faa6bd1-7b13-4040-a76c-c9aea4771ac5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"39353",
+            "PostHistoryTypeId":"36",
+            "Id":"121385",
+            "Text":""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-10T11:21:26.673",
+            "UserDisplayName":"Alexis K",
+            "RevisionGUID":"5956c6a9-df72-432e-a348-0a82520ae0fb",
+            "UserId":"57643",
+            "CloseReasonId":null,
+            "PostId":"39353",
+            "PostHistoryTypeId":"2",
+            "Id":"121388",
+            "Text":"Is it possible, or is there an app, to remote desktop into an android device from a Windows or Mac computer?  I would like to be able to see and control the screen."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-10T11:21:26.673",
+            "UserDisplayName":"Alexis K",
+            "RevisionGUID":"5956c6a9-df72-432e-a348-0a82520ae0fb",
+            "UserId":"57643",
+            "CloseReasonId":null,
+            "PostId":"39353",
+            "PostHistoryTypeId":"1",
+            "Id":"121389",
+            "Text":"Remote desktop into an Android device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-10T11:21:26.673",
+            "UserDisplayName":"Alexis K",
+            "RevisionGUID":"5956c6a9-df72-432e-a348-0a82520ae0fb",
+            "UserId":"57643",
+            "CloseReasonId":null,
+            "PostId":"39353",
+            "PostHistoryTypeId":"3",
+            "Id":"121390",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-10T18:23:24.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"828d465b-5731-4c0c-92d3-5f39844f5a95",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"39353",
+            "PostHistoryTypeId":"10",
+            "Id":"121391",
+            "Text":"{\"OriginalQuestionIds\":[4251],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

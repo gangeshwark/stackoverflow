@@ -1,0 +1,71 @@
+{
+    "Body":"I have an unrooted Galaxy Tab 10.1 (GT-P5113) running Android 4.2.2I want to upgrade the Android version there, however, I have no idea how.Right now the tablet claims it is up-to-date, but we all know it is not - Android 4.2.2 is old.Samsung Kies refuses to upgrade the firmware with the message \"gt-p5113 does not support initialising\".Is there a way to upgrade the Android version on this tablet (while still keeping it usable, obviously) ? Preferably without rooting, but I will root it if there is no other choice.I am OK completely resetting it.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-01-28T05:17:19.230",
+    "ClosedDate":"2015-01-28T15:36:30.427",
+    "Title":"Is it possible to upgrade the Galaxy Tab 10.1 (GT-P5113) from 4.2.2 to a higher Android version?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91907",
+    "CreationDate":"2015-01-28T05:17:19.230",
+    "FavoriteCount":null,
+    "Id":"97108",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-28T05:17:19.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7631e40-df4a-4c12-ab43-bf0a6bc8aa8f",
+            "UserId":"91907",
+            "CloseReasonId":null,
+            "PostId":"97108",
+            "PostHistoryTypeId":"2",
+            "Id":"316629",
+            "Text":"I have an unrooted Galaxy Tab 10.1 (GT-P5113) running Android 4.2.2I want to upgrade the Android version there, however, I have no idea how.Right now the tablet claims it is up-to-date, but we all know it is not - Android 4.2.2 is old.Samsung Kies refuses to upgrade the firmware with the message \"gt-p5113 does not support initialising\".Is there a way to upgrade the Android version on this tablet (while still keeping it usable, obviously) ? Preferably without rooting, but I will root it if there is no other choice.I am OK completely resetting it."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-28T05:17:19.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7631e40-df4a-4c12-ab43-bf0a6bc8aa8f",
+            "UserId":"91907",
+            "CloseReasonId":null,
+            "PostId":"97108",
+            "PostHistoryTypeId":"1",
+            "Id":"316630",
+            "Text":"Is it possible to upgrade the Galaxy Tab 10.1 (GT-P5113) from 4.2.2 to a higher Android version?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-28T05:17:19.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7631e40-df4a-4c12-ab43-bf0a6bc8aa8f",
+            "UserId":"91907",
+            "CloseReasonId":null,
+            "PostId":"97108",
+            "PostHistoryTypeId":"3",
+            "Id":"316631",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-28T15:36:30.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"abe678c2-ff8a-45cc-a7b9-479e88c850cf",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"97108",
+            "PostHistoryTypeId":"10",
+            "Id":"316751",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

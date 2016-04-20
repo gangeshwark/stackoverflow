@@ -1,0 +1,83 @@
+{
+    "Body":"Samsung Galaxy S RelayAndroid 4.4.4Cyanogenmod 11I've tried many different solutions to sync my phone's SD cards with a computer over Wi-Fi, leaving them to run overnight because there's so much data (~30 GB), but in the morning the phone is slow and unresponsive, warm to the touch, apps like Gentle Alarm don't work, etc.  It becomes so slow that when I try to use it, it eventually stops responding completely and reboots itself.  I've tried:FolderSyncSyncthingSamba on phoneFTP server on phoneSSHDroid on phone and SyncBack on computerAt first I assumed it was because the apps were flawed, so I tried different solutions, but now I'm thinking it's a more fundamental OS problem, like accessing too many files at a time or sending too much data over the network causes the phone to become unstable?  Maybe a memory leak or it opens files and never closes them or something?  How can I diagnose this and make it workable?  When I look at CPU\/memory usage, it seems normal?  (Though it reboots while I'm trying to check, so a CPU\/memory usage logger would be better.)",
+    "ViewCount":"46",
+    "LastActivityDate":"2016-02-25T16:32:26.993",
+    "ClosedDate":"2016-02-25T21:02:57.820",
+    "Title":"Syncing entire SD card makes phone hot\/unresponsive",
+    "LastEditorUserId":"693",
+    "Tags":"",
+    "LastEditDate":"2016-02-25T16:32:26.993",
+    "CommentCount":"12",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"693",
+    "CreationDate":"2016-02-25T16:04:39.433",
+    "FavoriteCount":null,
+    "Id":"138097",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T16:04:39.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"14bebd59-6745-4095-a764-e0a03a8395b4",
+            "UserId":"693",
+            "CloseReasonId":null,
+            "PostId":"138097",
+            "PostHistoryTypeId":"2",
+            "Id":"460957",
+            "Text":"- Samsung Galaxy S Relay- Android 4.4.4- Cyanogenmod 11-20160221-NIGHTLY-apexqtmoI've tried many different solutions to sync my phone's SD cards with a computer over Wi-Fi, leaving them to run overnight because there's so much data (~30 GB), but in the morning the phone is slow and unresponsive, warm to the touch, apps like Gentle Alarm don't work, etc.  It becomes so slow that when I try to use it, it eventually stops responding completely and reboots itself.  I've tried:- FolderSync- Syncthing- Samba on phone- FTP server on phone- SSHDroid on phone and SyncBack on computerAt first I assumed it was because the apps were flawed, so I tried different solutions, but now I'm thinking it's a more fundamental OS problem, like accessing too many files at a time or sending too much data over the network causes the phone to become unstable?  Maybe a memory leak or it opens files and never closes them or something?  How can I diagnose this and make it workable?  When I look at CPU\/memory usage, it seems normal?  (Though it reboots while I'm trying to check, so a CPU\/memory usage logger would be better.)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T16:04:39.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"14bebd59-6745-4095-a764-e0a03a8395b4",
+            "UserId":"693",
+            "CloseReasonId":null,
+            "PostId":"138097",
+            "PostHistoryTypeId":"1",
+            "Id":"460958",
+            "Text":"Syncing entire SD card makes phone hot\/unresponsive"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T16:04:39.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"14bebd59-6745-4095-a764-e0a03a8395b4",
+            "UserId":"693",
+            "CloseReasonId":null,
+            "PostId":"138097",
+            "PostHistoryTypeId":"3",
+            "Id":"460959",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 26 characters in body",
+            "CreationDate":"2016-02-25T16:32:26.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"782e3624-a40a-48b7-9692-9d602a1a488b",
+            "UserId":"693",
+            "CloseReasonId":null,
+            "PostId":"138097",
+            "PostHistoryTypeId":"5",
+            "Id":"460983",
+            "Text":"- Samsung Galaxy S Relay- Android 4.4.4- Cyanogenmod 11I've tried many different solutions to sync my phone's SD cards with a computer over Wi-Fi, leaving them to run overnight because there's so much data (~30 GB), but in the morning the phone is slow and unresponsive, warm to the touch, apps like Gentle Alarm don't work, etc.  It becomes so slow that when I try to use it, it eventually stops responding completely and reboots itself.  I've tried:- FolderSync- Syncthing- Samba on phone- FTP server on phone- SSHDroid on phone and SyncBack on computerAt first I assumed it was because the apps were flawed, so I tried different solutions, but now I'm thinking it's a more fundamental OS problem, like accessing too many files at a time or sending too much data over the network causes the phone to become unstable?  Maybe a memory leak or it opens files and never closes them or something?  How can I diagnose this and make it workable?  When I look at CPU\/memory usage, it seems normal?  (Though it reboots while I'm trying to check, so a CPU\/memory usage logger would be better.)"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-25T21:02:57.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"31dfb013-e4fc-49b1-b225-dad6ee532dd3",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138097",
+            "PostHistoryTypeId":"10",
+            "Id":"461047",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

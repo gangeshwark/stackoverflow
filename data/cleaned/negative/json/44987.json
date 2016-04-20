@@ -1,0 +1,83 @@
+{
+    "Body":"Got an SGH-i547C (the Canadian version) that's not booting up after I tried installing the Liquid Smooth ROM. Since I've already posted the same thing on xda-developers forum and reddit and I'm kind of desperate for an answer, I might as well ask you guys. Here's the whole story, straight from xda-devs:  Hi all,    I bought a Samsung Galaxy Rugby Pro LTE SGH-i547C (the Canadian version, with Telus) about a month ago, but now it won't turn on (although I can get into Download mode).    Full story: Yesterday I decided to root it (after unlocking it through Telus), and today I wanted to install the Liquid Smooth ROM, as it looked pretty sweet, but that didn't go as planned. After following the steps the first time, nothing happened to the phone's interface, so I did it a second time. This time, when it rebooted at the end of the installation, It got past the first two screens (name of model, and just \"Samsung\"), then it turned off.    What I've tried so far: First I tried applying the stock images (about 10 Mb, from http:\/\/forum.xda-developers.com\/showthread.php?p=34463311#post34463311) through ODIN, but that made no difference, except that in one of the boot modes, instead of the Clockwork interface I, get the default interface (the background having an Android alien on its back, and a red triangle with an exclamation point above it). In these interfaces, I also wiped pretty much all that I could wipe, but to no avail.    Next I tried applying two of the stock ODIN images (500-600 Mb, from the same link) through ODIN, but when it starts with the SMD, I get a message \"SMD header check fail: boot.img\" on my phone, and ODIN thinks for a while, then stops, saying 1 fails and 0 successes.    So here I am, asking for help. Would any of you have any ideas, or explanations (in layman's terms!) of what has happened \/ what I should do to get my phone useable again? Thanks in advance.    P.S. Also, I should mention I'm doing all the accessing through VMWare Fusion running Windows XP, on Mac OS 10.7.5Thanks for any and all opinions on this!",
+    "ViewCount":"632",
+    "LastActivityDate":"2013-12-03T01:42:33.943",
+    "ClosedDate":"2013-12-03T18:52:19.023",
+    "Title":"Galaxy Rugby LTE not turning on after failed custom ROM install",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33526",
+    "CreationDate":"2013-05-07T03:22:18.140",
+    "FavoriteCount":null,
+    "Id":"44987",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-07T03:22:18.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"21852146-a425-45ad-a155-4222556231e8",
+            "UserId":"33526",
+            "CloseReasonId":null,
+            "PostId":"44987",
+            "PostHistoryTypeId":"2",
+            "Id":"144756",
+            "Text":"Got an SGH-i547C (the Canadian version) that's not booting up after I tried installing the Liquid Smooth ROM. Since I've already posted the same thing on [xda-developers forum](http:\/\/forum.xda-developers.com\/showthread.php?p=41127455#post41127455) and [reddit](http:\/\/www.reddit.com\/r\/AndroidQuestions\/comments\/1du4j8\/galaxy_rugby_pro_not_turning_on_after_failed_rom\/) and I'm kind of desperate for an answer, I might as well ask you guys. Here's the whole story, straight from xda-devs:>Hi all,>>I bought a Samsung Galaxy Rugby Pro LTE SGH-i547C (the Canadian version, with Telus) about a month ago, but now it won't turn on (although I can get into Download mode).>>Full story: Yesterday I decided to root it (after unlocking it through Telus), and today I wanted to install the Liquid Smooth ROM, as it looked pretty sweet, but that didn't go as planned. After following the steps the first time, nothing happened to the phone's interface, so I did it a second time. This time, when it rebooted at the end of the installation, It got past the first two screens (name of model, and just \"Samsung\"), then it turned off.>>What I've tried so far: First I tried applying the stock images (about 10 Mb, from http:\/\/forum.xda-developers.com\/showthread.php?p=34463311#post34463311) through ODIN, but that made no difference, except that in one of the boot modes, instead of the Clockwork interface I, get the default interface (the background having an Android alien on its back, and a red triangle with an exclamation point above it). In these interfaces, I also wiped pretty much all that I could wipe, but to no avail.>>Next I tried applying two of the stock ODIN images (500-600 Mb, from the same link) through ODIN, but when it starts with the SMD, I get a message \"SMD header check fail: boot.img\" on my phone, and ODIN thinks for a while, then stops, saying 1 fails and 0 successes.>>So here I am, asking for help. Would any of you have any ideas, or explanations (in layman's terms!) of what has happened \/ what I should do to get my phone useable again? Thanks in advance.>>>P.S. Also, I should mention I'm doing all the accessing through VMWare Fusion running Windows XP, on Mac OS 10.7.5Thanks for any and all opinions on this!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-07T03:22:18.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"21852146-a425-45ad-a155-4222556231e8",
+            "UserId":"33526",
+            "CloseReasonId":null,
+            "PostId":"44987",
+            "PostHistoryTypeId":"1",
+            "Id":"144757",
+            "Text":"Galaxy Rugby LTE not turning on after failed custom ROM install"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-07T03:22:18.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"21852146-a425-45ad-a155-4222556231e8",
+            "UserId":"33526",
+            "CloseReasonId":null,
+            "PostId":"44987",
+            "PostHistoryTypeId":"3",
+            "Id":"144758",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/331636094976282624",
+            "CreationDate":"2013-05-07T05:06:21.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef928f25-bc5f-4901-9c84-c581942539c1",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"44987",
+            "PostHistoryTypeId":"25",
+            "Id":"144775",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-12-03T18:52:19.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f1c55c7-9df1-41ab-9357-41606aa235c0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"44987",
+            "PostHistoryTypeId":"10",
+            "Id":"195738",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

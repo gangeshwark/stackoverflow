@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to make an Android phone a hotspot and make it use wireless connection?Is there any programmatical control over DHCP?",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-07-10T14:09:48.187",
+    "ClosedDate":"2013-07-10T16:21:23.913",
+    "Title":"Android phone as hotspot and using wireless connection",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"37340",
+    "CreationDate":"2013-07-10T14:09:48.187",
+    "FavoriteCount":null,
+    "Id":"48906",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-10T14:09:48.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"866d55cf-bf19-4406-b307-879f93193906",
+            "UserId":"37340",
+            "CloseReasonId":null,
+            "PostId":"48906",
+            "PostHistoryTypeId":"2",
+            "Id":"159140",
+            "Text":"Is it possible to make an Android phone a hotspot and make it use wireless connection?Is there any programmatical control over DHCP?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-10T14:09:48.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"866d55cf-bf19-4406-b307-879f93193906",
+            "UserId":"37340",
+            "CloseReasonId":null,
+            "PostId":"48906",
+            "PostHistoryTypeId":"1",
+            "Id":"159141",
+            "Text":"Android phone as hotspot and using wireless connection"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-10T14:09:48.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"866d55cf-bf19-4406-b307-879f93193906",
+            "UserId":"37340",
+            "CloseReasonId":null,
+            "PostId":"48906",
+            "PostHistoryTypeId":"3",
+            "Id":"159142",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-10T16:21:23.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"299ab53d-f088-429c-a32b-2ed37e915801",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"48906",
+            "PostHistoryTypeId":"10",
+            "Id":"159167",
+            "Text":"{\"OriginalQuestionIds\":[12616],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

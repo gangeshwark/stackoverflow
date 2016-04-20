@@ -1,0 +1,71 @@
+{
+    "Body":"If a ROM is compatible for a device of screen 4.5 inch 2GB RAM and quad core processor. Should the same ROM will compatible for a device with, 4.5 inch, 4GB RAM, Quad Core Processor ?",
+    "ViewCount":"18",
+    "LastActivityDate":"2016-03-01T14:46:15.073",
+    "ClosedDate":"2016-03-01T21:01:12.740",
+    "Title":"Swapping ROM from different Device to Device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"93106",
+    "CreationDate":"2016-03-01T14:46:15.073",
+    "FavoriteCount":null,
+    "Id":"138532",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T14:46:15.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"97421b1b-ff59-4f74-acc6-585008889a15",
+            "UserId":"93106",
+            "CloseReasonId":null,
+            "PostId":"138532",
+            "PostHistoryTypeId":"2",
+            "Id":"462965",
+            "Text":"If a ROM is compatible for a device of screen 4.5 inch 2GB RAM and quad core processor. Should the same ROM will compatible for a device with, 4.5 inch, 4GB RAM, Quad Core Processor ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T14:46:15.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"97421b1b-ff59-4f74-acc6-585008889a15",
+            "UserId":"93106",
+            "CloseReasonId":null,
+            "PostId":"138532",
+            "PostHistoryTypeId":"1",
+            "Id":"462966",
+            "Text":"Swapping ROM from different Device to Device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T14:46:15.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"97421b1b-ff59-4f74-acc6-585008889a15",
+            "UserId":"93106",
+            "CloseReasonId":null,
+            "PostId":"138532",
+            "PostHistoryTypeId":"3",
+            "Id":"462967",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-01T21:01:12.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"b6758936-ba5e-4748-a85a-4a4174320635",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138532",
+            "PostHistoryTypeId":"10",
+            "Id":"463069",
+            "Text":"{\"OriginalQuestionIds\":[35925,82579],\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

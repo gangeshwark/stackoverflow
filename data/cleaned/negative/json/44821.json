@@ -1,0 +1,83 @@
+{
+    "Body":"Even I have seen duplicated thread as in: Cannot unlock tablet as have no internet connection?But Here's my situation:I have wifi\/data turned off. I have the developer option turned on and my laptop does recognized the device with usb plugged in. (As I'm android developer)I'm using unrooted Nexus 4 .Is there any way of unlock the screen using adb way, i.e: turn on the wifi? If no luck I would probably go with hard reset.",
+    "ViewCount":"873",
+    "LastActivityDate":"2013-05-03T03:13:26.323",
+    "ClosedDate":"2013-05-03T14:22:07.133",
+    "Title":"How to unlock pattern on Nexus 4 [Developer Option: ON]",
+    "LastEditorUserId":"32878",
+    "Tags":"",
+    "LastEditDate":"2013-05-03T03:13:26.323",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32878",
+    "CreationDate":"2013-05-03T02:39:47.067",
+    "FavoriteCount":null,
+    "Id":"44821",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T02:39:47.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"78b29eef-515d-4301-aa13-6b9e825eee94",
+            "UserId":"32878",
+            "CloseReasonId":null,
+            "PostId":"44821",
+            "PostHistoryTypeId":"2",
+            "Id":"144049",
+            "Text":"Even I have seen duplicated thread as in: http:\/\/android.stackexchange.com\/questions\/35847\/cannot-unlock-tablet-as-have-no-internet-connectionBut Here's my situation: 1. I have wifi\/data turned off.  2. I have the developer option turned on and my laptop does recognized the device with usb plugged in. (As I'm android developer) 4. I'm using unrooted Nexus 4 .----------Is there any way of unlock the screen using adb way? If no luck I would probably go with hard reset."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T02:39:47.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"78b29eef-515d-4301-aa13-6b9e825eee94",
+            "UserId":"32878",
+            "CloseReasonId":null,
+            "PostId":"44821",
+            "PostHistoryTypeId":"1",
+            "Id":"144050",
+            "Text":"How to unlock pattern on Nexus 4 [Developer Option: ON]"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T02:39:47.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"78b29eef-515d-4301-aa13-6b9e825eee94",
+            "UserId":"32878",
+            "CloseReasonId":null,
+            "PostId":"44821",
+            "PostHistoryTypeId":"3",
+            "Id":"144051",
+            "Text":""
+        },
+        {
+            "Comment":"added 23 characters in body",
+            "CreationDate":"2013-05-03T03:13:26.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"01f8968a-8b0d-40be-91ec-5f6e051d6cde",
+            "UserId":"32878",
+            "CloseReasonId":null,
+            "PostId":"44821",
+            "PostHistoryTypeId":"5",
+            "Id":"144056",
+            "Text":"Even I have seen duplicated thread as in: http:\/\/android.stackexchange.com\/questions\/35847\/cannot-unlock-tablet-as-have-no-internet-connectionBut Here's my situation: 1. I have wifi\/data turned off.  2. I have the developer option turned on and my laptop does recognized the device with usb plugged in. (As I'm android developer) 4. I'm using unrooted Nexus 4 .----------Is there any way of unlock the screen using adb way, i.e: turn on the wifi? If no luck I would probably go with hard reset."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-03T14:22:07.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"474529bf-78d1-4afc-a0f5-877557b00d3a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"44821",
+            "PostHistoryTypeId":"10",
+            "Id":"144191",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

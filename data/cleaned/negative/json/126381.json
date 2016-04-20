@@ -1,0 +1,71 @@
+{
+    "Body":"I am afraid of using whatsapp just to avoid so many unwanted messages or unnecessary people contacting you. Just wondering, is it possible that am visible on whatsapp to ONLY some people (all my contacts shouldn't come to know)?",
+    "ViewCount":"98",
+    "LastActivityDate":"2015-10-19T05:07:17.997",
+    "ClosedDate":"2015-10-22T19:42:11.490",
+    "Title":"Visible to only some people on Whatsapp?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"132711",
+    "CreationDate":"2015-10-19T03:44:14.490",
+    "FavoriteCount":null,
+    "Id":"126381",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T03:44:14.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"dba434e6-505f-43bf-b850-117789c34a1e",
+            "UserId":"132711",
+            "CloseReasonId":null,
+            "PostId":"126381",
+            "PostHistoryTypeId":"2",
+            "Id":"414628",
+            "Text":"I am afraid of using whatsapp just to avoid so many unwanted messages or unnecessary people contacting you. Just wondering, is it possible that am visible on whatsapp to ONLY some people (all my contacts shouldn't come to know)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T03:44:14.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"dba434e6-505f-43bf-b850-117789c34a1e",
+            "UserId":"132711",
+            "CloseReasonId":null,
+            "PostId":"126381",
+            "PostHistoryTypeId":"1",
+            "Id":"414629",
+            "Text":"Visible to only some people on Whatsapp?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T03:44:14.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"dba434e6-505f-43bf-b850-117789c34a1e",
+            "UserId":"132711",
+            "CloseReasonId":null,
+            "PostId":"126381",
+            "PostHistoryTypeId":"3",
+            "Id":"414630",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-10-22T19:42:11.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2f3d7f4-6bba-494f-bf07-455ca7801526",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"126381",
+            "PostHistoryTypeId":"10",
+            "Id":"416058",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

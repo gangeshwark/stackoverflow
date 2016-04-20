@@ -1,0 +1,71 @@
+{
+    "Body":"I have an android 4.4.2 device and permission manager app enabled.I have facebook messenger installed for example and i deny it permission to read my sms or phone contacts. It works, but keeps displaying \"Messenger is denied \" in the center bottom lower screen for ages. Sometimes i need to reboot my device to make it go away. absolutely annoying",
+    "ViewCount":"1662",
+    "LastActivityDate":"2015-10-07T03:22:12.753",
+    "ClosedDate":"2015-10-07T08:15:08.893",
+    "Title":"How can i disable android permission manager notification?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130583",
+    "CreationDate":"2015-10-05T16:45:14.287",
+    "FavoriteCount":"1",
+    "Id":"125043",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T16:45:14.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7bcd0fd-3161-401c-9aeb-a1a1643429c5",
+            "UserId":"130583",
+            "CloseReasonId":null,
+            "PostId":"125043",
+            "PostHistoryTypeId":"2",
+            "Id":"409564",
+            "Text":"I have an android 4.4.2 device and permission manager app enabled.I have facebook messenger installed for example and i deny it permission to read my sms or phone contacts. It works, but keeps displaying \"Messenger is denied \" in the center bottom lower screen for ages. Sometimes i need to reboot my device to make it go away. *absolutely annoying*"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T16:45:14.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7bcd0fd-3161-401c-9aeb-a1a1643429c5",
+            "UserId":"130583",
+            "CloseReasonId":null,
+            "PostId":"125043",
+            "PostHistoryTypeId":"1",
+            "Id":"409565",
+            "Text":"How can i disable android permission manager notification?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T16:45:14.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7bcd0fd-3161-401c-9aeb-a1a1643429c5",
+            "UserId":"130583",
+            "CloseReasonId":null,
+            "PostId":"125043",
+            "PostHistoryTypeId":"3",
+            "Id":"409566",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-07T08:15:08.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fb900fb-ff62-4384-b0e7-47eaeb4556ee",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"125043",
+            "PostHistoryTypeId":"10",
+            "Id":"410166",
+            "Text":"{\"OriginalQuestionIds\":[111082],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

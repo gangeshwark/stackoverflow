@@ -1,0 +1,71 @@
+{
+    "Body":"I want record screen on my andriod phone. Without root permission. How can i do that. ( Galaxy s3 mini. Jelly bean. ) ",
+    "ViewCount":"3247",
+    "LastActivityDate":"2015-02-17T22:37:40.990",
+    "ClosedDate":"2015-02-16T11:44:26.530",
+    "Title":"How to record screen on andriod",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94531",
+    "CreationDate":"2015-02-16T07:12:44.473",
+    "FavoriteCount":null,
+    "Id":"98921",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-16T07:12:44.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"bad27d97-224c-4f54-ab54-86433ef5542c",
+            "UserId":"94531",
+            "CloseReasonId":null,
+            "PostId":"98921",
+            "PostHistoryTypeId":"2",
+            "Id":"323295",
+            "Text":"I want record screen on my andriod phone. Without root permission. How can i do that. ( Galaxy s3 mini. Jelly bean. ) "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-16T07:12:44.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"bad27d97-224c-4f54-ab54-86433ef5542c",
+            "UserId":"94531",
+            "CloseReasonId":null,
+            "PostId":"98921",
+            "PostHistoryTypeId":"1",
+            "Id":"323296",
+            "Text":"How to record screen on andriod"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-16T07:12:44.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"bad27d97-224c-4f54-ab54-86433ef5542c",
+            "UserId":"94531",
+            "CloseReasonId":null,
+            "PostId":"98921",
+            "PostHistoryTypeId":"3",
+            "Id":"323297",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-16T11:44:26.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b134e7b-1569-438a-b7f2-96c16a68c5d2",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"98921",
+            "PostHistoryTypeId":"10",
+            "Id":"323374",
+            "Text":"{\"OriginalQuestionIds\":[2951],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}
