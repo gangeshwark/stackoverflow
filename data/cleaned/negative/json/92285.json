@@ -1,0 +1,83 @@
+{
+    "Body":"I cannot find an app that could crop a video on Android -- that's not trimming, for which there are many, but zooming on an area and cropping the rest. Is there such an app out there?",
+    "ViewCount":"701",
+    "LastActivityDate":"2014-12-27T18:57:24.587",
+    "ClosedDate":"2015-01-08T20:23:59.413",
+    "Title":"Crop a video on Android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12228",
+    "CreationDate":"2014-12-20T21:16:37.963",
+    "FavoriteCount":null,
+    "Id":"92285",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T21:16:37.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1e579bc-2673-4da7-a75a-732c7e23c478",
+            "UserId":"12228",
+            "CloseReasonId":null,
+            "PostId":"92285",
+            "PostHistoryTypeId":"2",
+            "Id":"302475",
+            "Text":"I cannot find an app that could **crop** a video on Android -- that's not trimming, for which there are many, but zooming on an area and cropping the rest. Is there such an app out there?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T21:16:37.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1e579bc-2673-4da7-a75a-732c7e23c478",
+            "UserId":"12228",
+            "CloseReasonId":null,
+            "PostId":"92285",
+            "PostHistoryTypeId":"1",
+            "Id":"302476",
+            "Text":"Crop a video on Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T21:16:37.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1e579bc-2673-4da7-a75a-732c7e23c478",
+            "UserId":"12228",
+            "CloseReasonId":null,
+            "PostId":"92285",
+            "PostHistoryTypeId":"3",
+            "Id":"302477",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/546625924578680832",
+            "CreationDate":"2014-12-21T11:19:10.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"54cb9659-1eee-42d3-8835-6071847ef782",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"92285",
+            "PostHistoryTypeId":"25",
+            "Id":"302624",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-01-08T20:23:59.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5ad9494-4d96-4547-9226-e94d80d291d0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"92285",
+            "PostHistoryTypeId":"10",
+            "Id":"310217",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

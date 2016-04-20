@@ -1,0 +1,71 @@
+{
+    "Body":"I recently have gone from IPhone to Android. And my Google Play store is under an old email that has deleted its self. I have a purchased app that I need for school on this account, is there a way that I can change the email on my GooglePlay account without having to make a new account?",
+    "ViewCount":"218",
+    "LastActivityDate":"2014-12-10T20:55:03.533",
+    "ClosedDate":"2014-12-12T13:14:43.550",
+    "Title":"How to change the Google Play email",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"83543",
+    "CreationDate":"2014-12-10T15:50:30.093",
+    "FavoriteCount":null,
+    "Id":"90322",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-10T15:50:30.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"406ff1f8-6d69-4825-9b0b-617dd3b41ae3",
+            "UserId":"83543",
+            "CloseReasonId":null,
+            "PostId":"90322",
+            "PostHistoryTypeId":"2",
+            "Id":"297846",
+            "Text":"I recently have gone from IPhone to Android. And my Google Play store is under an old email that has deleted its self. I have a purchased app that I need for school on this account, is there a way that I can change the email on my GooglePlay account without having to make a new account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-10T15:50:30.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"406ff1f8-6d69-4825-9b0b-617dd3b41ae3",
+            "UserId":"83543",
+            "CloseReasonId":null,
+            "PostId":"90322",
+            "PostHistoryTypeId":"1",
+            "Id":"297847",
+            "Text":"How to change the Google Play email"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-10T15:50:30.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"406ff1f8-6d69-4825-9b0b-617dd3b41ae3",
+            "UserId":"83543",
+            "CloseReasonId":null,
+            "PostId":"90322",
+            "PostHistoryTypeId":"3",
+            "Id":"297848",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-12T13:14:43.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"b90ec66f-5e88-4de6-a0e3-2e242636bab0",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"90322",
+            "PostHistoryTypeId":"10",
+            "Id":"299520",
+            "Text":"{\"OriginalQuestionIds\":[42562],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

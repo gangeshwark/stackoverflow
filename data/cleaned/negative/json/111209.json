@@ -1,0 +1,71 @@
+{
+    "Body":"Since morning I've been observing \"block\" like symbol (top right) in my android mobile beside alarm symbol. Please see following image,I've marked red color border around the block symbol. What does that symbol signify? How do I remove it? I've tried rebooting my phone, but it still shows that symbol.I understand all other symbols(from right to left, battery, mobile networks, wifi, alarm, \"block\"). I've checked, that no apps are running. The symbol on the top left corner is because of call recorder app and it doesn't show that symbol. So, it is not because of call recorder app. I'm using lollilop version of android.",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-06-02T14:03:30.713",
+    "ClosedDate":"2015-06-02T14:14:19.093",
+    "Title":"What block symbol in android?",
+    "LastEditorUserId":null,
+    "Tags":"<5.1-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104051",
+    "CreationDate":"2015-06-02T14:03:30.713",
+    "FavoriteCount":null,
+    "Id":"111209",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-02T14:03:30.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"b32ab383-f627-4558-8504-b87ca398d970",
+            "UserId":"104051",
+            "CloseReasonId":null,
+            "PostId":"111209",
+            "PostHistoryTypeId":"2",
+            "Id":"363546",
+            "Text":"Since morning I've been observing \"block\" like symbol (top right) in my android mobile beside alarm symbol. Please see following image,![enter image description here][1]I've marked red color border around the block symbol. What does that symbol signify? How do I remove it? I've tried rebooting my phone, but it still shows that symbol.I understand all other symbols(from right to left, battery, mobile networks, wifi, alarm, \"block\"). I've checked, that no apps are running. The symbol on the top left corner is because of call recorder app and it doesn't show that symbol. So, it is not because of call recorder app. I'm using lollilop version of android.  [1]: http:\/\/i.stack.imgur.com\/mrG6K.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-02T14:03:30.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"b32ab383-f627-4558-8504-b87ca398d970",
+            "UserId":"104051",
+            "CloseReasonId":null,
+            "PostId":"111209",
+            "PostHistoryTypeId":"1",
+            "Id":"363547",
+            "Text":"What block symbol in android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-02T14:03:30.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"b32ab383-f627-4558-8504-b87ca398d970",
+            "UserId":"104051",
+            "CloseReasonId":null,
+            "PostId":"111209",
+            "PostHistoryTypeId":"3",
+            "Id":"363548",
+            "Text":"<5.1-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-02T14:14:19.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8a3c1c8-72ae-426a-a109-e92d1fca2f7b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"111209",
+            "PostHistoryTypeId":"10",
+            "Id":"363559",
+            "Text":"{\"OriginalQuestionIds\":[98431],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

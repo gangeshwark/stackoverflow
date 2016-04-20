@@ -1,0 +1,71 @@
+{
+    "Body":"On my android device the display has broken down, whereas the device itself is working. Without recovering the display, which I don't know how to do, how can I control and utilize my device? Via ssh? How exactly? Or what are other ways to utilize it including programming, downloading something from the internet on a regular basic, using it as a web server?",
+    "ViewCount":"12",
+    "LastActivityDate":"2016-01-30T04:26:46.423",
+    "ClosedDate":"2016-01-30T21:15:49.843",
+    "Title":"The display has broken down but the device itself is working, how can I control or utilize it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"29975",
+    "CreationDate":"2016-01-30T04:26:46.423",
+    "FavoriteCount":null,
+    "Id":"135694",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-30T04:26:46.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecbe5a52-6dd3-4f03-a9ee-c765f916d227",
+            "UserId":"29975",
+            "CloseReasonId":null,
+            "PostId":"135694",
+            "PostHistoryTypeId":"2",
+            "Id":"451502",
+            "Text":"On my android device the display has broken down, whereas the device itself is working. Without recovering the display, which I don't know how to do, how can I control and utilize my device? Via ssh? How exactly? Or what are other ways to utilize it including programming, downloading something from the internet on a regular basic, using it as a web server?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-30T04:26:46.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecbe5a52-6dd3-4f03-a9ee-c765f916d227",
+            "UserId":"29975",
+            "CloseReasonId":null,
+            "PostId":"135694",
+            "PostHistoryTypeId":"1",
+            "Id":"451503",
+            "Text":"The display has broken down but the device itself is working, how can I control or utilize it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-30T04:26:46.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecbe5a52-6dd3-4f03-a9ee-c765f916d227",
+            "UserId":"29975",
+            "CloseReasonId":null,
+            "PostId":"135694",
+            "PostHistoryTypeId":"3",
+            "Id":"451504",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-30T21:15:49.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"2555b2ee-6cdc-40e7-aec3-08001f1aab74",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"135694",
+            "PostHistoryTypeId":"10",
+            "Id":"451755",
+            "Text":"{\"OriginalQuestionIds\":[42105],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

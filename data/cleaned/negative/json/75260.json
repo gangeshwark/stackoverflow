@@ -1,0 +1,71 @@
+{
+    "Body":"I am using whatsapp on Samsung ace. Now I want to use whatsapp in my new HTC one. How can I transfer my my all chat histories from old phone to new phone?",
+    "ViewCount":"16601",
+    "LastActivityDate":"2014-07-01T09:09:30.120",
+    "ClosedDate":"2014-07-01T10:11:35.170",
+    "Title":"How can i transfer my whatsapp chat history to my new phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65282",
+    "CreationDate":"2014-07-01T07:09:18.507",
+    "FavoriteCount":null,
+    "Id":"75260",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T07:09:18.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"5321d0c3-3bda-4229-a547-9f28c54d450e",
+            "UserId":"65282",
+            "CloseReasonId":null,
+            "PostId":"75260",
+            "PostHistoryTypeId":"2",
+            "Id":"250126",
+            "Text":"I am using whatsapp on Samsung ace. Now I want to use whatsapp in my new HTC one. How can I transfer my my all chat histories from old phone to new phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T07:09:18.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"5321d0c3-3bda-4229-a547-9f28c54d450e",
+            "UserId":"65282",
+            "CloseReasonId":null,
+            "PostId":"75260",
+            "PostHistoryTypeId":"1",
+            "Id":"250127",
+            "Text":"How can i transfer my whatsapp chat history to my new phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T07:09:18.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"5321d0c3-3bda-4229-a547-9f28c54d450e",
+            "UserId":"65282",
+            "CloseReasonId":null,
+            "PostId":"75260",
+            "PostHistoryTypeId":"3",
+            "Id":"250128",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-01T10:11:35.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c930531-5445-4e19-a66d-bf94bd57c04e",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"75260",
+            "PostHistoryTypeId":"10",
+            "Id":"250218",
+            "Text":"{\"OriginalQuestionIds\":[74973],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

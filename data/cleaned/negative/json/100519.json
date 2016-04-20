@@ -1,0 +1,71 @@
+{
+    "Body":"I was wondering if there's a way that I can download apps from google play to my external sd card because every time I try downloading a game or a app it says \"sorry, there's not enough storage on the device\" and I have a 32gb sd card in and I tried going to applacation manager and moving apps manualy but some don't allow  me to move to my sd card and i have my default write disk on sd card and I have a samsung galaxy s5 mini",
+    "ViewCount":"283",
+    "LastActivityDate":"2015-02-23T15:18:42.893",
+    "ClosedDate":"2015-03-03T23:12:41.870",
+    "Title":"internal to external",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95371",
+    "CreationDate":"2015-02-22T00:50:32.017",
+    "FavoriteCount":null,
+    "Id":"100519",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-22T00:50:32.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"fddcc164-2a03-4e5c-93de-7c0484be8c5b",
+            "UserId":"95371",
+            "CloseReasonId":null,
+            "PostId":"100519",
+            "PostHistoryTypeId":"2",
+            "Id":"326506",
+            "Text":"I was wondering if there's a way that I can download apps from google play to my external sd card because every time I try downloading a game or a app it says \"sorry, there's not enough storage on the device\" and I have a 32gb sd card in and I tried going to applacation manager and moving apps manualy but some don't allow  me to move to my sd card and i have my default write disk on sd card and I have a samsung galaxy s5 mini"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-22T00:50:32.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"fddcc164-2a03-4e5c-93de-7c0484be8c5b",
+            "UserId":"95371",
+            "CloseReasonId":null,
+            "PostId":"100519",
+            "PostHistoryTypeId":"1",
+            "Id":"326507",
+            "Text":"internal to external"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-22T00:50:32.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"fddcc164-2a03-4e5c-93de-7c0484be8c5b",
+            "UserId":"95371",
+            "CloseReasonId":null,
+            "PostId":"100519",
+            "PostHistoryTypeId":"3",
+            "Id":"326508",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-03T23:12:41.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"8580ccfc-0254-45f1-9964-4ca0902d6f41",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100519",
+            "PostHistoryTypeId":"10",
+            "Id":"329942",
+            "Text":"{\"OriginalQuestionIds\":[50252],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

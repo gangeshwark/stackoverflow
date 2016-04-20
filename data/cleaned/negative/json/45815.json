@@ -1,0 +1,83 @@
+{
+    "Body":"I want more granular control over permissions. I\u2019m fine with applications having some permissions, but I want to be in charge and have more granular control.Can this be done on Android? I know iOS has this for some things like contacts and calendar data. The user is prompted before the application gets access to these sensitive datasets.Technically, I can see this working by denying API access when the application tries to access it.",
+    "ViewCount":"1634",
+    "LastActivityDate":"2013-05-21T08:37:25.740",
+    "ClosedDate":"2013-05-21T14:11:56.687",
+    "Title":"Setting custom permissions per-application",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23686",
+    "CreationDate":"2013-05-20T22:11:51.280",
+    "FavoriteCount":"2",
+    "Id":"45815",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-20T22:11:51.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"118aa9f8-1c5e-4585-a47e-4d4b53f26819",
+            "UserId":"23686",
+            "CloseReasonId":null,
+            "PostId":"45815",
+            "PostHistoryTypeId":"2",
+            "Id":"147756",
+            "Text":"I want more granular control over permissions. I\u2019m fine with applications having some permissions, but I want to be in charge and have more granular control.Can this be done on Android? I know iOS has this for some things like contacts and calendar data. The user is prompted before the application gets access to these sensitive datasets.Technically, I can see this working by denying API access when the application tries to access it."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-20T22:11:51.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"118aa9f8-1c5e-4585-a47e-4d4b53f26819",
+            "UserId":"23686",
+            "CloseReasonId":null,
+            "PostId":"45815",
+            "PostHistoryTypeId":"1",
+            "Id":"147757",
+            "Text":"Setting custom permissions per-application"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-20T22:11:51.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"118aa9f8-1c5e-4585-a47e-4d4b53f26819",
+            "UserId":"23686",
+            "CloseReasonId":null,
+            "PostId":"45815",
+            "PostHistoryTypeId":"3",
+            "Id":"147758",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/336664481146998784",
+            "CreationDate":"2013-05-21T02:07:21.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"00d4865e-fdf4-4abe-ae95-99fa11a49be3",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"45815",
+            "PostHistoryTypeId":"25",
+            "Id":"147778",
+            "Text":null
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-21T14:11:56.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8694908-9dc3-4530-9d6e-7cd485765b45",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"45815",
+            "PostHistoryTypeId":"10",
+            "Id":"147895",
+            "Text":"{\"OriginalQuestionIds\":[3091],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Is it just my phone (Nexus 5, 5.1) or did the battery usage graph become useless in Lollipop?I've attached a graph from today that, at first (and second) glance, makes no sense at all. This is after about an hour of sitting idle with the screen off.If someone could please explain what's going on I'd really appreciate it.",
+    "ViewCount":"62",
+    "LastActivityDate":"2015-04-29T09:08:23.627",
+    "ClosedDate":"2015-04-30T19:18:06.347",
+    "Title":"Why is the battery usage graph so useless?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-04-29T09:08:23.627",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101136",
+    "CreationDate":"2015-04-05T23:12:46.003",
+    "FavoriteCount":null,
+    "Id":"104583",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-05T23:12:46.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"7053f423-0a1e-4995-a231-bace4a7af039",
+            "UserId":"101136",
+            "CloseReasonId":null,
+            "PostId":"104583",
+            "PostHistoryTypeId":"2",
+            "Id":"341429",
+            "Text":"Is it just my phone (Nexus 5, 5.1) or did the battery usage graph become useless in Lollipop?I've attached a graph from today that, at first (and second) glance, makes no sense at all. This is after about an hour of sitting idle with the screen off.![a graph from today][1]If someone could please explain what's going on I'd really appreciate it.  [1]: http:\/\/i.stack.imgur.com\/q8Y1o.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-05T23:12:46.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"7053f423-0a1e-4995-a231-bace4a7af039",
+            "UserId":"101136",
+            "CloseReasonId":null,
+            "PostId":"104583",
+            "PostHistoryTypeId":"1",
+            "Id":"341430",
+            "Text":"Why is the battery usage graph so useless?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-05T23:12:46.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"7053f423-0a1e-4995-a231-bace4a7af039",
+            "UserId":"101136",
+            "CloseReasonId":null,
+            "PostId":"104583",
+            "PostHistoryTypeId":"3",
+            "Id":"341431",
+            "Text":""
+        },
+        {
+            "Comment":"image resized (and linked)",
+            "CreationDate":"2015-04-29T09:08:23.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"c973286e-c0bd-48ef-a09f-d1d5b8f9b86d",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"104583",
+            "PostHistoryTypeId":"5",
+            "Id":"350364",
+            "Text":"Is it just my phone (Nexus 5, 5.1) or did the battery usage graph become useless in Lollipop?I've attached a graph from today that, at first (and second) glance, makes no sense at all. This is after about an hour of sitting idle with the screen off.[![a graph from today][1]][2]If someone could please explain what's going on I'd really appreciate it.  [1]: http:\/\/i.stack.imgur.com\/q8Y1om.jpg  [2]: http:\/\/i.stack.imgur.com\/q8Y1o.jpg"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-30T19:18:06.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"cadba105-1949-4ade-8429-7a3c07764d7b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104583",
+            "PostHistoryTypeId":"10",
+            "Id":"350935",
+            "Text":"{\"OriginalQuestionIds\":[106921],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

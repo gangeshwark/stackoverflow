@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Any VNC solutions for an unrooted device?  I want to connect my phone to my computer via USB, and be able to send keystrokes to phone, and send phone's video output to computer screen. It's easy, i check out several tutorials, but i DON'T want to root my phone, i don't want to void my warranty. Is there ANY way to send keystrokes to Android phone from any \"third-party\" device, or to send phone's video output to computer without rooting the phone?",
+    "ViewCount":"277",
+    "LastActivityDate":"2011-03-02T15:20:57.767",
+    "ClosedDate":"2011-03-03T17:55:46.507",
+    "Title":"How to avoid rooting my phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2011-03-02T15:20:57.767",
+    "FavoriteCount":null,
+    "Id":"6540",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-02T15:20:57.767",
+            "UserDisplayName":"user3225",
+            "RevisionGUID":"ee081777-230e-4e43-91a9-e6bd38a83707",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"6540",
+            "PostHistoryTypeId":"2",
+            "Id":"14916",
+            "Text":"I want to connect my phone to my computer via USB, and be able to send keystrokes to phone, and send phone's video output to computer screen. It's easy, i check out several tutorials, but i DON'T want to root my phone, i don't want to void my warranty. Is there ANY way to send keystrokes to Android phone from any \"third-party\" device, or to send phone's video output to computer without rooting the phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-02T15:20:57.767",
+            "UserDisplayName":"user3225",
+            "RevisionGUID":"ee081777-230e-4e43-91a9-e6bd38a83707",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"6540",
+            "PostHistoryTypeId":"1",
+            "Id":"14917",
+            "Text":"How to avoid rooting my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-02T15:20:57.767",
+            "UserDisplayName":"user3225",
+            "RevisionGUID":"ee081777-230e-4e43-91a9-e6bd38a83707",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"6540",
+            "PostHistoryTypeId":"3",
+            "Id":"14918",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-03-03T17:55:46.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"69b0810d-177b-441a-aaad-5a28c2fb5ce9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"6540",
+            "PostHistoryTypeId":"5",
+            "Id":"15040",
+            "Text":"> **Possible Duplicate:**  > [Any VNC solutions for an unrooted device?](http:\/\/android.stackexchange.com\/questions\/1931\/any-vnc-solutions-for-an-unrooted-device)  I want to connect my phone to my computer via USB, and be able to send keystrokes to phone, and send phone's video output to computer screen. It's easy, i check out several tutorials, but i DON'T want to root my phone, i don't want to void my warranty. Is there ANY way to send keystrokes to Android phone from any \"third-party\" device, or to send phone's video output to computer without rooting the phone?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-03-03T17:55:46.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"a61e41b4-0a07-4bf8-aed0-6061de2edaf8",
+            "UserId":"137",
+            "CloseReasonId":null,
+            "PostId":"6540",
+            "PostHistoryTypeId":"10",
+            "Id":"15041",
+            "Text":"{\"OriginalQuestionIds\":[1931],\"Voters\":[{\"Id\":137,\"DisplayName\":\"Matt\"}]}"
+        }
+    ]
+}

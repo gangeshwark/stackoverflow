@@ -1,0 +1,83 @@
+{
+    "Body":"I'm trying to partition my SD card with a ~31gb FAT32 partition and a 1024mb ext3 partition for A2SD. I've tried making the partitions with CMW-Alpharev Recovery v2.5.1.8 and with gParted (on a bootable live USB stick) and neither works. Basically, whenever I try to create a second partition on the card, the second (or later) partition doesn't work anywhere. It's not recognized by my phone, Windows or gParted (even right after parttitioning). The first partition does work, though. So if the ext3 is first, the FAT32 doesn't work and vice versa.I have no clue as to what could be causing this or how to fix it, any suggestions?",
+    "ViewCount":"618",
+    "LastActivityDate":"2013-03-19T19:42:09.293",
+    "ClosedDate":"2015-02-14T20:53:38.900",
+    "Title":"Problem with creating an ext3 partition on SD card",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-03-19T19:42:09.293",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9541",
+    "CreationDate":"2011-11-10T21:09:00.027",
+    "FavoriteCount":null,
+    "Id":"15497",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-10T21:09:00.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"4dcb7e14-4b2d-4f57-b453-5cfa79a8d5d6",
+            "UserId":"9541",
+            "CloseReasonId":null,
+            "PostId":"15497",
+            "PostHistoryTypeId":"2",
+            "Id":"41532",
+            "Text":"I'm trying to partition my SD card with a ~31gb FAT32 partition and a 1024mb ext3 partition for A2SD. I've tried making the partitions with CMW-Alpharev Recovery v2.5.1.8 and with gParted (on a bootable live USB stick) and neither works. Basically, whenever I try to create a second partition on the card, the second (or later) partition doesn't work anywhere. It's not recognized by my phone, Windows or gParted (even right after parttitioning). The first partition does work, though. So if the ext3 is first, the FAT32 doesn't work and vice versa.I have no clue as to what could be causing this or how to fix it, any suggestions?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-10T21:09:00.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"4dcb7e14-4b2d-4f57-b453-5cfa79a8d5d6",
+            "UserId":"9541",
+            "CloseReasonId":null,
+            "PostId":"15497",
+            "PostHistoryTypeId":"1",
+            "Id":"41533",
+            "Text":"Problem with creating an ext3 partition on SD card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-10T21:09:00.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"4dcb7e14-4b2d-4f57-b453-5cfa79a8d5d6",
+            "UserId":"9541",
+            "CloseReasonId":null,
+            "PostId":"15497",
+            "PostHistoryTypeId":"3",
+            "Id":"41534",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-03-19T19:42:09.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"82c71925-1412-4dd9-a4c4-783b3ac835ff",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"15497",
+            "PostHistoryTypeId":"6",
+            "Id":"131437",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-14T20:53:38.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb9e6abe-5952-45a1-9eea-e9ed16bf25db",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"15497",
+            "PostHistoryTypeId":"10",
+            "Id":"322903",
+            "Text":"{\"OriginalQuestionIds\":[6435],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

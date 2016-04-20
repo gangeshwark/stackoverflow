@@ -1,0 +1,71 @@
+{
+    "Body":"i am having LAVA IRIS 349 running android 2.3.6 and iwant to update android to higher version is there any way to update android without flashing custom rom. i also rooted my device.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-06-10T13:31:33.447",
+    "ClosedDate":"2015-06-10T13:41:03.087",
+    "Title":"is there a way to update android version without flashing a custom rom",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"112200",
+    "CreationDate":"2015-06-10T13:31:33.447",
+    "FavoriteCount":null,
+    "Id":"112047",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-10T13:31:33.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2535243-f889-4173-8054-65a3bf9ae6da",
+            "UserId":"112200",
+            "CloseReasonId":null,
+            "PostId":"112047",
+            "PostHistoryTypeId":"2",
+            "Id":"366791",
+            "Text":"i am having LAVA IRIS 349 running android 2.3.6 and iwant to update android to higher version is there any way to update android without flashing custom rom. i also rooted my device."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-10T13:31:33.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2535243-f889-4173-8054-65a3bf9ae6da",
+            "UserId":"112200",
+            "CloseReasonId":null,
+            "PostId":"112047",
+            "PostHistoryTypeId":"1",
+            "Id":"366792",
+            "Text":"is there a way to update android version without flashing a custom rom"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-10T13:31:33.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2535243-f889-4173-8054-65a3bf9ae6da",
+            "UserId":"112200",
+            "CloseReasonId":null,
+            "PostId":"112047",
+            "PostHistoryTypeId":"3",
+            "Id":"366793",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-10T13:41:03.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce648822-5847-4b71-b2d2-eeb67f7b6a93",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"112047",
+            "PostHistoryTypeId":"10",
+            "Id":"366796",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

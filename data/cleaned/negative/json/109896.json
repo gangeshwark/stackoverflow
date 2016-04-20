@@ -1,0 +1,71 @@
+{
+    "Body":"I got a spam SMS from some number. I want to copy it to my phone's blacklist (and yes, I know Hangouts maintains it's own blacklist, I want to keep things in the same place).I've tried every way I can think of for 10 minutes, before opting out to pen and paper like some caveman.Is it possible at all? Have I just missed it?",
+    "ViewCount":"2",
+    "LastActivityDate":"2015-05-20T13:10:20.300",
+    "ClosedDate":"2015-05-20T13:16:20.213",
+    "Title":"How to copy sender's number from Hangouts SMS app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14089",
+    "CreationDate":"2015-05-20T13:10:20.300",
+    "FavoriteCount":null,
+    "Id":"109896",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-20T13:10:20.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"26e82259-5242-4c83-be52-c8382da3587f",
+            "UserId":"14089",
+            "CloseReasonId":null,
+            "PostId":"109896",
+            "PostHistoryTypeId":"2",
+            "Id":"358742",
+            "Text":"I got a spam SMS from some number. I want to copy it to my phone's blacklist (and yes, I know Hangouts maintains it's own blacklist, I want to keep things in the same place).I've tried every way I can think of for 10 minutes, before opting out to pen and paper like some caveman.Is it possible at all? Have I just missed it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-20T13:10:20.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"26e82259-5242-4c83-be52-c8382da3587f",
+            "UserId":"14089",
+            "CloseReasonId":null,
+            "PostId":"109896",
+            "PostHistoryTypeId":"1",
+            "Id":"358743",
+            "Text":"How to copy sender's number from Hangouts SMS app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-20T13:10:20.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"26e82259-5242-4c83-be52-c8382da3587f",
+            "UserId":"14089",
+            "CloseReasonId":null,
+            "PostId":"109896",
+            "PostHistoryTypeId":"3",
+            "Id":"358744",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-20T13:16:20.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"a39c6bda-e75a-4bf1-b651-91b8d2764f2d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"109896",
+            "PostHistoryTypeId":"10",
+            "Id":"358748",
+            "Text":"{\"OriginalQuestionIds\":[109814],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

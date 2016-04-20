@@ -1,0 +1,83 @@
+{
+    "Body":"Does anyone know how I can root my lg ms690. It is android version 2.2.1. Build # FRG83. Kernel version 2.6.32.9. SW version MS690ZV4. HW version 1.1. PRL verdion 3042. ERI version 1003. I have tried both zroot and gingerbreak, both with no success.",
+    "ViewCount":"524",
+    "LastActivityDate":"2014-07-23T16:19:29.663",
+    "ClosedDate":"2014-07-24T16:50:50.873",
+    "Title":"Root android lg ms690 version 2.2.1",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-07-23T16:19:29.663",
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68001",
+    "CreationDate":"2014-07-23T13:36:50.793",
+    "FavoriteCount":null,
+    "Id":"77900",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-23T13:36:50.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"82ab721b-928d-472b-bb3e-fe9fbbceb56a",
+            "UserId":"68001",
+            "CloseReasonId":null,
+            "PostId":"77900",
+            "PostHistoryTypeId":"2",
+            "Id":"256813",
+            "Text":"Does anyone know how I can root my lg ms690. It is android version 2.2.1. Build # FRG83. Kernel version 2.6.32.9. SW version MS690ZV4. HW version 1.1. PRL verdion 3042. ERI version 1003. I have tried both zroot and gingerbreak, both with no success."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-23T13:36:50.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"82ab721b-928d-472b-bb3e-fe9fbbceb56a",
+            "UserId":"68001",
+            "CloseReasonId":null,
+            "PostId":"77900",
+            "PostHistoryTypeId":"1",
+            "Id":"256814",
+            "Text":"Root android lg ms690 version 2.2.1"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-23T13:36:50.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"82ab721b-928d-472b-bb3e-fe9fbbceb56a",
+            "UserId":"68001",
+            "CloseReasonId":null,
+            "PostId":"77900",
+            "PostHistoryTypeId":"3",
+            "Id":"256815",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-07-23T16:19:29.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"39e157b1-146d-48fd-b0b3-534434e7f52e",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"77900",
+            "PostHistoryTypeId":"6",
+            "Id":"256854",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-24T16:50:50.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e68a17e-2284-4a72-9b56-ba17a37af9ed",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77900",
+            "PostHistoryTypeId":"10",
+            "Id":"257192",
+            "Text":"{\"OriginalQuestionIds\":[19036,1184],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I trust Linux more than Android. Likewise, I trust Firefox (with certain settings and certain security-related addons) more than Chrome (or Chromium). I'm new to the smartphone world and couldn't wait for a non-dev Ubuntu Touch release, so I  bought an (Samsung) Android phone. Which I have yet to turn on. So the following question is theoretical for now:How to check emails in Android (safely & securely) ?Via an app (which?), via a browser (which?), else ?Further, I have more than one gmail account. In Linux, I use two separate browsers to check both accounts simultaneously (I'm aware of other solutions, but am happy with that one on my PC). How to do so in Android?",
+    "ViewCount":"118",
+    "LastActivityDate":"2013-09-26T13:20:55.743",
+    "ClosedDate":"2013-09-26T18:04:55.023",
+    "Title":"How to check emails (safely & securely)?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-09-26T12:52:25.353",
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42102",
+    "CreationDate":"2013-09-26T09:47:48.923",
+    "FavoriteCount":"1",
+    "Id":"53967",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T09:47:48.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c2ce09c-7072-4bf6-902d-90f84e6bf1cf",
+            "UserId":"42102",
+            "CloseReasonId":null,
+            "PostId":"53967",
+            "PostHistoryTypeId":"2",
+            "Id":"178628",
+            "Text":"I trust Linux more than Android. Likewise, I trust Firefox (with certain settings and certain security-related addons) more than Chrome (or Chromium). I'm new to the smartphone world and couldn't wait for a non-dev Ubuntu Touch release, so I  bought an (Samsung) Android phone. Which I have yet to turn on. So the following question is theoretical for now:How to check emails in Android (safely & securely) ?Via an app (which?), via a browser (which?), else ?--------Further, I have more than one gmail account. In Linux, I use two separate browsers to check both accounts simultaneously (I'm aware of other solutions, but am happy with that one on my PC). How to do so in Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T09:47:48.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c2ce09c-7072-4bf6-902d-90f84e6bf1cf",
+            "UserId":"42102",
+            "CloseReasonId":null,
+            "PostId":"53967",
+            "PostHistoryTypeId":"1",
+            "Id":"178629",
+            "Text":"How to check emails (safely & securely)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T09:47:48.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c2ce09c-7072-4bf6-902d-90f84e6bf1cf",
+            "UserId":"42102",
+            "CloseReasonId":null,
+            "PostId":"53967",
+            "PostHistoryTypeId":"3",
+            "Id":"178630",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-09-26T12:52:25.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"c69b75da-ba99-45e8-b26f-813b8208590d",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"53967",
+            "PostHistoryTypeId":"6",
+            "Id":"178667",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2013-09-26T18:04:55.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a941d41-78b0-457f-a50c-d3bd1f8d622f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"53967",
+            "PostHistoryTypeId":"10",
+            "Id":"178728",
+            "Text":"{\"Voters\":[{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"}]}"
+        }
+    ]
+}

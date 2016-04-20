@@ -1,0 +1,71 @@
+{
+    "Body":"Initial situation:A RESTful webservice defends against CSRF attacks by using the double submit cookie approach. This means that the authentication token gets submitted twice and verified at the service side.Problem \/ Security Threat:The WebView element of the android and iOS plattforms allow to create a malicious web browser that unveils and modifies session cookies. webView.loadUrl(\"javascript:document.cookie=\u2019\u2019;\");. If the attacker already figured out, how the double submitted cookie looks like, (In this case it's the AuthenticationToken) he is able to create a malicious RESTBrowser. Therefore he adds the already known CSRFToken to the document object model and thus bypasses the CSRF countermeasure. Is that right so far?Possible Preventions:So far I have no idea how I can prevent an attacker from creating und publishing such a malicious mobile application, as well to prevent the service from beeing accessed via malicious mobile applications. I know about the existence of the User-Agent header and that the service can use this information to reject requests from others than specific browsers. But I'm sure that also this header can be manipulated within the WebView. What are effective countermeasures aginst CSRF in contex of malicious mobile applications?",
+    "ViewCount":"326",
+    "LastActivityDate":"2013-10-14T01:36:31.670",
+    "ClosedDate":"2013-10-14T09:45:57.327",
+    "Title":"Does a malicious android WebView break the DoubleSubmittCookie countermeasure against CSRF?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"55042",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"43242",
+    "CreationDate":"2013-10-13T23:50:54.833",
+    "FavoriteCount":null,
+    "Id":"55040",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-13T23:50:54.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"7895ce09-ed4a-4ce8-9d8a-2ec1d53fa51e",
+            "UserId":"43242",
+            "CloseReasonId":null,
+            "PostId":"55040",
+            "PostHistoryTypeId":"2",
+            "Id":"182764",
+            "Text":"**Initial situation:**A RESTful webservice defends against CSRF attacks by using the double submit cookie approach. This means that the authentication token gets submitted twice and verified at the service side.**Problem \/ Security Threat:**The WebView element of the android and iOS plattforms allow to create a malicious web browser that unveils and modifies session cookies. **`webView.loadUrl(\"javascript:document.cookie=\u2019\u2019;\");`**. If the attacker already figured out, how the double submitted cookie looks like, (In this case it's the AuthenticationToken) he is able to create a malicious RESTBrowser. Therefore he adds the already known CSRFToken to the document object model and thus bypasses the CSRF countermeasure. Is that right so far?**Possible Preventions:**So far I have no idea how I can prevent an attacker from creating und publishing such a malicious mobile application, as well to prevent the service from beeing accessed via malicious mobile applications. I know about the existence of the `User-Agent` header and that the service can use this information to reject requests from others than specific browsers. But I'm sure that also this header can be manipulated within the WebView. What are effective countermeasures aginst CSRF in contex of malicious mobile applications?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-13T23:50:54.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"7895ce09-ed4a-4ce8-9d8a-2ec1d53fa51e",
+            "UserId":"43242",
+            "CloseReasonId":null,
+            "PostId":"55040",
+            "PostHistoryTypeId":"1",
+            "Id":"182765",
+            "Text":"Does a malicious android WebView break the DoubleSubmittCookie countermeasure against CSRF?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-13T23:50:54.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"7895ce09-ed4a-4ce8-9d8a-2ec1d53fa51e",
+            "UserId":"43242",
+            "CloseReasonId":null,
+            "PostId":"55040",
+            "PostHistoryTypeId":"3",
+            "Id":"182766",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-10-14T09:45:57.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b9a8af9-b603-4f80-acc9-a8c2e2e2aaf3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"55040",
+            "PostHistoryTypeId":"10",
+            "Id":"182847",
+            "Text":"{\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

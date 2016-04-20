@@ -1,0 +1,71 @@
+{
+    "Body":"Recently FBI cannot unenscrypt a terrorist phone without iPhone help.http:\/\/www.cnet.com\/news\/iphone-apple-fbi-fight-11-juiciest-arguments-made-in-public-court-filings\/Android devices often have full device enscryption.The only way anyone can read my data is if they know my PIN.Here is a problem. WHat about if it's rooted? Can it be compromised?In IPhone case, the phone cannot be compromized because only operating system signed with apple's private key can get there.I would imagine a jail broken or a rooted devices can flash any operating system on \/system directory, and allow FBI to try 10k combinations of PIN.",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-03-05T17:34:33.477",
+    "ClosedDate":"2016-03-05T18:35:07.990",
+    "Title":"Can FBI descrypt my phone if I root it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129283",
+    "CreationDate":"2016-03-05T17:34:33.477",
+    "FavoriteCount":null,
+    "Id":"138898",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T17:34:33.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"307649ec-55da-466a-9d44-5b4fe23b5c89",
+            "UserId":"129283",
+            "CloseReasonId":null,
+            "PostId":"138898",
+            "PostHistoryTypeId":"2",
+            "Id":"464465",
+            "Text":"Recently FBI cannot unenscrypt a terrorist phone without iPhone help.http:\/\/www.cnet.com\/news\/iphone-apple-fbi-fight-11-juiciest-arguments-made-in-public-court-filings\/Android devices often have full device enscryption.The only way anyone can read my data is if they know my PIN.Here is a problem. WHat about if it's rooted? Can it be compromised?In IPhone case, the phone cannot be compromized because only operating system signed with apple's private key can get there.I would imagine a jail broken or a rooted devices can flash any operating system on \/system directory, and allow FBI to try 10k combinations of PIN."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T17:34:33.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"307649ec-55da-466a-9d44-5b4fe23b5c89",
+            "UserId":"129283",
+            "CloseReasonId":null,
+            "PostId":"138898",
+            "PostHistoryTypeId":"1",
+            "Id":"464466",
+            "Text":"Can FBI descrypt my phone if I root it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T17:34:33.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"307649ec-55da-466a-9d44-5b4fe23b5c89",
+            "UserId":"129283",
+            "CloseReasonId":null,
+            "PostId":"138898",
+            "PostHistoryTypeId":"3",
+            "Id":"464467",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-05T18:35:07.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec6ca2f6-1615-4eab-907c-878bb1ae9630",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138898",
+            "PostHistoryTypeId":"10",
+            "Id":"464506",
+            "Text":"{\"OriginalQuestionIds\":[137362],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

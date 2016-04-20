@@ -1,0 +1,71 @@
+{
+    "Body":"My old sim has been deactivated and most of my contacts know me by my old number.I want some way to register my whatsapp to that old number",
+    "ViewCount":"784",
+    "LastActivityDate":"2015-03-16T16:56:53.750",
+    "ClosedDate":"2015-03-16T17:03:26.183",
+    "Title":"Old sim deactivated but i want to use that same number for new sim",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"98299",
+    "CreationDate":"2015-03-16T07:14:00.973",
+    "FavoriteCount":null,
+    "Id":"102668",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-16T07:14:00.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dbe4d53-b929-4ae5-907f-b3224c2564a5",
+            "UserId":"98299",
+            "CloseReasonId":null,
+            "PostId":"102668",
+            "PostHistoryTypeId":"2",
+            "Id":"334453",
+            "Text":"My old sim has been deactivated and most of my contacts know me by my old number.I want some way to register my whatsapp to that old number"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-16T07:14:00.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dbe4d53-b929-4ae5-907f-b3224c2564a5",
+            "UserId":"98299",
+            "CloseReasonId":null,
+            "PostId":"102668",
+            "PostHistoryTypeId":"1",
+            "Id":"334454",
+            "Text":"Old sim deactivated but i want to use that same number for new sim"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-16T07:14:00.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dbe4d53-b929-4ae5-907f-b3224c2564a5",
+            "UserId":"98299",
+            "CloseReasonId":null,
+            "PostId":"102668",
+            "PostHistoryTypeId":"3",
+            "Id":"334455",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-16T17:03:26.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"8009a74a-336b-4abe-84e8-d850f4f284ae",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"102668",
+            "PostHistoryTypeId":"10",
+            "Id":"334685",
+            "Text":"{\"OriginalQuestionIds\":[43975],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

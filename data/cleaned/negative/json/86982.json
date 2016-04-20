@@ -1,0 +1,71 @@
+{
+    "Body":"I'm using 4.4.2 so ES explorer can't write to SD card. I intend to give the app root permission permernently (like system apps) and then unroot the device. Is it possible to do so?",
+    "ViewCount":"3372",
+    "LastActivityDate":"2014-11-12T03:43:03.127",
+    "ClosedDate":"2014-11-14T12:50:57.563",
+    "Title":"How to give root permission for app even after unrooted?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79188",
+    "CreationDate":"2014-11-07T01:22:40.100",
+    "FavoriteCount":null,
+    "Id":"86982",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-07T01:22:40.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba71709b-a537-4379-aa64-28e66a423dde",
+            "UserId":"79188",
+            "CloseReasonId":null,
+            "PostId":"86982",
+            "PostHistoryTypeId":"2",
+            "Id":"286055",
+            "Text":"I'm using 4.4.2 so ES explorer can't write to SD card. I intend to give the app root permission permernently (like system apps) and then unroot the device. Is it possible to do so?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-07T01:22:40.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba71709b-a537-4379-aa64-28e66a423dde",
+            "UserId":"79188",
+            "CloseReasonId":null,
+            "PostId":"86982",
+            "PostHistoryTypeId":"1",
+            "Id":"286056",
+            "Text":"How to give root permission for app even after unrooted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-07T01:22:40.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba71709b-a537-4379-aa64-28e66a423dde",
+            "UserId":"79188",
+            "CloseReasonId":null,
+            "PostId":"86982",
+            "PostHistoryTypeId":"3",
+            "Id":"286057",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-14T12:50:57.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"3db8571c-65dd-4cfb-badb-dfb2defc4120",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"86982",
+            "PostHistoryTypeId":"10",
+            "Id":"288374",
+            "Text":"{\"OriginalQuestionIds\":[64457],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

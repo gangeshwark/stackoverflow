@@ -1,0 +1,83 @@
+{
+    "Body":"According to Which filesystem do Android use?, it depends on the device which file system is used for the internal storage.Now, I'd like to find out, how to determine the filesystem used on my device. Is there an app to do that or is there a list on the web?Right now I am interested in the file system of Motorola RAZR Maxx (or any other similiar Motorola device)Motorola Milestone\/Droid (or any other similiar Motorola device)",
+    "ViewCount":"22",
+    "LastActivityDate":"2016-03-04T11:41:24.367",
+    "ClosedDate":"2016-03-04T15:03:54.613",
+    "Title":"Determine filesystem of internal storage (especially Motorola devices)",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2016-03-04T11:41:24.367",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1262",
+    "CreationDate":"2016-03-04T10:52:15.060",
+    "FavoriteCount":null,
+    "Id":"138786",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T10:52:15.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"751b7c08-7d30-47f2-b866-973eef7baae6",
+            "UserId":"1262",
+            "CloseReasonId":null,
+            "PostId":"138786",
+            "PostHistoryTypeId":"2",
+            "Id":"463924",
+            "Text":"According to http:\/\/android.stackexchange.com\/questions\/95678\/which-filesystem-do-android-use, it depends on the device which file system is used for the internal storage.Now, I'd like to find out, how to determine the filesystem used on my device. Is there an app to do that or is there a list on the web?Right now I am interested in the file system of  - Motorola RAZR Maxx (or any other similiar Motorola device) - Motorola Milestone\/Droid (or any other similiar Motorola device)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T10:52:15.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"751b7c08-7d30-47f2-b866-973eef7baae6",
+            "UserId":"1262",
+            "CloseReasonId":null,
+            "PostId":"138786",
+            "PostHistoryTypeId":"1",
+            "Id":"463925",
+            "Text":"Determine filesystem of internal storage (especially Motorola devices)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T10:52:15.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"751b7c08-7d30-47f2-b866-973eef7baae6",
+            "UserId":"1262",
+            "CloseReasonId":null,
+            "PostId":"138786",
+            "PostHistoryTypeId":"3",
+            "Id":"463926",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-03-04T11:41:24.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"af7594df-2f40-422b-832e-6705618fdb15",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"138786",
+            "PostHistoryTypeId":"6",
+            "Id":"463931",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-04T15:03:54.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d4c5ca6-fc19-4147-a348-c0d3b820247b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138786",
+            "PostHistoryTypeId":"10",
+            "Id":"463966",
+            "Text":"{\"OriginalQuestionIds\":[105077],\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

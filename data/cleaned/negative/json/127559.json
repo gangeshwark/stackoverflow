@@ -1,0 +1,71 @@
+{
+    "Body":"I have samsung s3 unrooted running on jb v4.3.i want it to be used as such that i can access my wifi and my family also does it.hotspot does not solve my problem as it disables wifi and enables mobile network.i want to use wifi too.is there a way to solve this by app or something. thankyou in advance.",
+    "ViewCount":"39",
+    "LastActivityDate":"2015-10-31T06:57:42.953",
+    "ClosedDate":"2015-11-02T17:20:38.343",
+    "Title":"wfi to access point",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"134638",
+    "CreationDate":"2015-10-31T06:51:37.580",
+    "FavoriteCount":null,
+    "Id":"127559",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-31T06:51:37.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad21f1ef-21dc-46d5-b0dd-05190c29156d",
+            "UserId":"134638",
+            "CloseReasonId":null,
+            "PostId":"127559",
+            "PostHistoryTypeId":"2",
+            "Id":"419016",
+            "Text":"I have samsung s3 unrooted running on jb v4.3.i want it to be used as such that i can access my wifi and my family also does it.hotspot does not solve my problem as it disables wifi and enables mobile network.i want to use wifi too.is there a way to solve this by app or something. thankyou in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-31T06:51:37.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad21f1ef-21dc-46d5-b0dd-05190c29156d",
+            "UserId":"134638",
+            "CloseReasonId":null,
+            "PostId":"127559",
+            "PostHistoryTypeId":"1",
+            "Id":"419017",
+            "Text":"wfi to access point"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-31T06:51:37.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad21f1ef-21dc-46d5-b0dd-05190c29156d",
+            "UserId":"134638",
+            "CloseReasonId":null,
+            "PostId":"127559",
+            "PostHistoryTypeId":"3",
+            "Id":"419018",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-02T17:20:38.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"95868451-ddbe-46c1-abfa-182d44819f97",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127559",
+            "PostHistoryTypeId":"10",
+            "Id":"419888",
+            "Text":"{\"OriginalQuestionIds\":[12616],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

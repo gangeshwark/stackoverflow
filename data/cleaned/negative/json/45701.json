@@ -1,0 +1,83 @@
+{
+    "Body":"so I have this tablet linsay f-10hd Specs10.1 \"  0S: 4.04 Google Android CPU: 1.5 Ghz CORTEX A-8 1 GB RAM 4 GB Hard Drive Internal Memory Web CameraBuilt in 3-D acceleration, 3-D Effect 2160 P HD Wi-Fi Supported: WIRELESS 802.11 B\/G HDMI mini HDMI Support 3 D Vision 2160 P HD Video player: Mp4, Avi you can watch your favorite Movies! USB port to Portable External Hard drive up to 3 TB USB port for 3G useand I got locked out, forgot my email and password and I have been trying to unlocked itby doing a hard reset(vol+ and power)which takes me to the android logo so I try to use adb adb shellcd \/data\/data\/com.android.providers.settings\/databasessqlite3 settings.dbupdate system set value=0 where name='lock_pattern_autolock';update system set value=0 where name='lockscreen.lockedoutpermanently';.quitrebootadb shell rm \/data\/system\/gesture.keyrebootso i start withadb devicesand get    20080411        recoverybut nothing I get and error.what can i do",
+    "ViewCount":"1399",
+    "LastActivityDate":"2014-01-20T15:46:31.623",
+    "ClosedDate":"2014-01-20T16:43:28.813",
+    "Title":"Problems with a linsay f-10hd cosmos locked",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34250",
+    "CreationDate":"2013-05-19T01:18:30.543",
+    "FavoriteCount":null,
+    "Id":"45701",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-19T01:18:30.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"64454b37-a954-46d0-a337-64636216cdfb",
+            "UserId":"34250",
+            "CloseReasonId":null,
+            "PostId":"45701",
+            "PostHistoryTypeId":"2",
+            "Id":"147355",
+            "Text":"so I have this tablet linsay f-10hd Specs10.1 \"  0S: 4.04 Google Android CPU: 1.5 Ghz CORTEX A-8 1 GB RAM 4 GB Hard Drive Internal Memory Web CameraBuilt in 3-D acceleration, 3-D Effect 2160 P HD Wi-Fi Supported: WIRELESS 802.11 B\/G HDMI mini HDMI Support 3 D Vision 2160 P HD Video player: Mp4, Avi you can watch your favorite Movies! USB port to Portable External Hard drive up to 3 TB USB port for 3G useand I got locked out, forgot my email and password and I have been trying to unlocked itby doing a hard reset(vol+ and power)which takes me to the android logo so I try to use adb adb shellcd \/data\/data\/com.android.providers.settings\/databasessqlite3 settings.dbupdate system set value=0 where name='lock_pattern_autolock';update system set value=0 where name='lockscreen.lockedoutpermanently';.quitrebootadb shell rm \/data\/system\/gesture.keyrebootso i start withadb devicesand get    20080411        recovery but nothing I get and error.what can i do"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-19T01:18:30.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"64454b37-a954-46d0-a337-64636216cdfb",
+            "UserId":"34250",
+            "CloseReasonId":null,
+            "PostId":"45701",
+            "PostHistoryTypeId":"1",
+            "Id":"147356",
+            "Text":"Problems with a linsay f-10hd cosmos locked"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-19T01:18:30.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"64454b37-a954-46d0-a337-64636216cdfb",
+            "UserId":"34250",
+            "CloseReasonId":null,
+            "PostId":"45701",
+            "PostHistoryTypeId":"3",
+            "Id":"147357",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/336256780940230657",
+            "CreationDate":"2013-05-19T23:07:18.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb199134-3dde-4243-9853-36e816e16035",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"45701",
+            "PostHistoryTypeId":"25",
+            "Id":"147564",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-20T16:43:28.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c456048-81a4-49a1-89d7-bfe010bcf34e",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"45701",
+            "PostHistoryTypeId":"10",
+            "Id":"208567",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

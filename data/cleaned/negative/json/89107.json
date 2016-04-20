@@ -1,0 +1,71 @@
+{
+    "Body":"Whenever I try to download apps I receive error \"error while Dowunloading-application name\" there is insufficient space on the device.Please help me to overcome this and I have sufficient space on device and SD Card. Sony Xperia C2305. Android 4.2.2",
+    "ViewCount":"70",
+    "LastActivityDate":"2014-11-28T09:23:01.783",
+    "ClosedDate":"2014-12-03T15:26:23.640",
+    "Title":"apps download error",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82004",
+    "CreationDate":"2014-11-28T08:47:34.283",
+    "FavoriteCount":null,
+    "Id":"89107",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-28T08:47:34.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"6cfe1308-5ca5-465d-9151-7ddc8516f948",
+            "UserId":"82004",
+            "CloseReasonId":null,
+            "PostId":"89107",
+            "PostHistoryTypeId":"2",
+            "Id":"293503",
+            "Text":"Whenever I try to download apps I receive error \"error while Dowunloading-application name\" there is insufficient space on the device.Please help me to overcome this and I have sufficient space on device and SD Card. Sony Xperia C2305. Android 4.2.2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-28T08:47:34.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"6cfe1308-5ca5-465d-9151-7ddc8516f948",
+            "UserId":"82004",
+            "CloseReasonId":null,
+            "PostId":"89107",
+            "PostHistoryTypeId":"1",
+            "Id":"293504",
+            "Text":"apps download error"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-28T08:47:34.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"6cfe1308-5ca5-465d-9151-7ddc8516f948",
+            "UserId":"82004",
+            "CloseReasonId":null,
+            "PostId":"89107",
+            "PostHistoryTypeId":"3",
+            "Id":"293505",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-03T15:26:23.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"453e50f7-8fec-4152-bd84-58f6fbc5e280",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89107",
+            "PostHistoryTypeId":"10",
+            "Id":"295472",
+            "Text":"{\"OriginalQuestionIds\":[29416],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

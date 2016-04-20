@@ -1,0 +1,71 @@
+{
+    "Body":"i developped an android application using adobe flash professional and i need to try it with a virtual device, i failed to install adobe air under AVD and Genymotion, for Genymotion some services are limited in case of free version, can someone describe haw to fix my problem ?",
+    "ViewCount":"566",
+    "LastActivityDate":"2015-01-15T20:53:57.150",
+    "ClosedDate":"2015-01-29T19:33:06.383",
+    "Title":"How to install adobe air in AVD",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"95968",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"90197",
+    "CreationDate":"2015-01-15T15:22:02.080",
+    "FavoriteCount":"0",
+    "Id":"95948",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-15T15:22:02.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"28d3e6d5-ab8e-49d9-b690-4e58547a55e5",
+            "UserId":"90197",
+            "CloseReasonId":null,
+            "PostId":"95948",
+            "PostHistoryTypeId":"2",
+            "Id":"312378",
+            "Text":"i developped an android application using adobe flash professional and i need to try it with a virtual device, i failed to install adobe air under AVD and Genymotion, for Genymotion some services are limited in case of free version, can someone describe haw to fix my problem ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-15T15:22:02.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"28d3e6d5-ab8e-49d9-b690-4e58547a55e5",
+            "UserId":"90197",
+            "CloseReasonId":null,
+            "PostId":"95948",
+            "PostHistoryTypeId":"1",
+            "Id":"312379",
+            "Text":"How to install adobe air in AVD"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-15T15:22:02.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"28d3e6d5-ab8e-49d9-b690-4e58547a55e5",
+            "UserId":"90197",
+            "CloseReasonId":null,
+            "PostId":"95948",
+            "PostHistoryTypeId":"3",
+            "Id":"312380",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-01-29T19:33:06.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"1723b4cc-594c-444e-bd74-9347319e46c2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"95948",
+            "PostHistoryTypeId":"10",
+            "Id":"317183",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

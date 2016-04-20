@@ -1,0 +1,71 @@
+{
+    "Body":"I have a samsung note 2 but I have a problem 1GB ram is always used even if I don't use any app and that drain his battery he have 4.3 android (I tried update but I can't find new one) is this normal ?",
+    "ViewCount":"131",
+    "LastActivityDate":"2014-09-11T04:34:12.083",
+    "ClosedDate":"2014-09-16T16:12:59.477",
+    "Title":"My phone use so much ram",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"82361",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"59766",
+    "CreationDate":"2014-09-11T02:02:43.960",
+    "FavoriteCount":null,
+    "Id":"82356",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-11T02:02:43.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"c10ab0ea-78f8-4424-814a-d85a67ffd88b",
+            "UserId":"59766",
+            "CloseReasonId":null,
+            "PostId":"82356",
+            "PostHistoryTypeId":"2",
+            "Id":"269810",
+            "Text":"I have a samsung note 2 but I have a problem 1GB ram is always used even if I don't use any app and that drain his battery he have 4.3 android (I tried update but I can't find new one) is this normal ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-11T02:02:43.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"c10ab0ea-78f8-4424-814a-d85a67ffd88b",
+            "UserId":"59766",
+            "CloseReasonId":null,
+            "PostId":"82356",
+            "PostHistoryTypeId":"1",
+            "Id":"269811",
+            "Text":"My phone use so much ram"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-11T02:02:43.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"c10ab0ea-78f8-4424-814a-d85a67ffd88b",
+            "UserId":"59766",
+            "CloseReasonId":null,
+            "PostId":"82356",
+            "PostHistoryTypeId":"3",
+            "Id":"269812",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-16T16:12:59.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"db5d726b-8c60-4c71-bf60-001a197b67a0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"82356",
+            "PostHistoryTypeId":"10",
+            "Id":"271042",
+            "Text":"{\"OriginalQuestionIds\":[36828],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

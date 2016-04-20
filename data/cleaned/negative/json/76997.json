@@ -1,0 +1,83 @@
+{
+    "Body":"My Xperia Z recently suffered from a broken screen and is now not functional at all. YOu can see the screen, but the touch facility has completely gone. I can't even turn the thing off.I have a really cheap alternate phone that I would like to use temporarily but I could do with getting the contacts from the Xperia, on to my SIM card, then in to this cheap phone.This alternate phone I have has no functionality which will allow it to connect to a PC, so I need to get the contacts on to the SIM via other methods.A couple of methods I have been thinking about, but don't know if they are possible or not are:Connect the Xperia to my PC and some how manually move the contacts from the phone to the SIM (I am not even going to be able to enable USB Debugging so I doubt there will be a lot I can do with the phone connected to the PC except explore the files).Move the contacts from the phone on to the PC, then some how store the contacts on to my friend's phone (Samsung S3 Mini), and copy them to the original SIM from there? (I have no idea of how contacts are formatted so unsure whether or not they could just be moved from Sony to a Samsung so simply).They are the 2 main thought processes I have - any feed back on whether these are possible would be greatly appreciated as there are some very important numbers on this Xperia that I need for work!Thanks in advance (Apologies if this is in the wrong section, or doesn't necessarily class as an Android issue!)UPDATE: Seems I can't use adb Shell due to USB debugging being disabled and Screencast is a no go due to the phone not being rooted.I can see files within the Internal Storage such as .anchor, Alarms, Albums), is there a particular file within these subfolders which may contain the contacts which coul potentially be read? Even if I had to manually enter the numbers in to another phone, that wouldn't be so bad!",
+    "ViewCount":"5946",
+    "LastActivityDate":"2014-07-15T14:01:11.070",
+    "ClosedDate":"2014-08-04T08:01:28.230",
+    "Title":"Retrieving contacts from Android phone (Sony Xperia Z)",
+    "LastEditorUserId":"67005",
+    "Tags":"",
+    "LastEditDate":"2014-07-10T22:54:09.513",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67005",
+    "CreationDate":"2014-07-10T20:57:48.033",
+    "FavoriteCount":null,
+    "Id":"76997",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-10T20:57:48.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"b240c3f2-9374-4a8c-83f5-259e8683310b",
+            "UserId":"67005",
+            "CloseReasonId":null,
+            "PostId":"76997",
+            "PostHistoryTypeId":"2",
+            "Id":"253748",
+            "Text":"My Xperia Z recently suffered from a broken screen and is now not functional at all. YOu can see the screen, but the touch facility has completely gone. I can't even turn the thing off.I have a really cheap alternate phone that I would like to use temporarily but I could do with getting the contacts from the Xperia, on to my SIM card, then in to this cheap phone.This alternate phone I have has no functionality which will allow it to connect to a PC, so I need to get the contacts on to the SIM via other methods.A couple of methods I have been thinking about, but don't know if they are possible or not are:1. Connect the Xperia to my PC and some how manually move the contacts from the phone to the SIM (I am not even going to be able to enable USB Debugging so I doubt there will be a lot I can do with the phone connected to the PC except explore the files).2. Move the contacts from the phone on to the PC, then some how store the contacts on to my friend's phone (Samsung S3 Mini), and copy them to the original SIM from there? (I have no idea of how contacts are formatted so unsure whether or not they could just be moved from Sony to a Samsung so simply).They are the 2 main thought processes I have - any feed back on whether these are possible would be greatly appreciated as there are some very important numbers on this Xperia that I need for work!Thanks in advance (Apologies if this is in the wrong section, or doesn't necessarily class as an Android issue!)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-10T20:57:48.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"b240c3f2-9374-4a8c-83f5-259e8683310b",
+            "UserId":"67005",
+            "CloseReasonId":null,
+            "PostId":"76997",
+            "PostHistoryTypeId":"1",
+            "Id":"253749",
+            "Text":"Retrieving contacts from Android phone (Sony Xperia Z)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-10T20:57:48.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"b240c3f2-9374-4a8c-83f5-259e8683310b",
+            "UserId":"67005",
+            "CloseReasonId":null,
+            "PostId":"76997",
+            "PostHistoryTypeId":"3",
+            "Id":"253750",
+            "Text":""
+        },
+        {
+            "Comment":"added 421 characters in body",
+            "CreationDate":"2014-07-10T22:54:09.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb373e7b-cf55-413f-8439-b933ca42c31d",
+            "UserId":"67005",
+            "CloseReasonId":null,
+            "PostId":"76997",
+            "PostHistoryTypeId":"5",
+            "Id":"253762",
+            "Text":"My Xperia Z recently suffered from a broken screen and is now not functional at all. YOu can see the screen, but the touch facility has completely gone. I can't even turn the thing off.I have a really cheap alternate phone that I would like to use temporarily but I could do with getting the contacts from the Xperia, on to my SIM card, then in to this cheap phone.This alternate phone I have has no functionality which will allow it to connect to a PC, so I need to get the contacts on to the SIM via other methods.A couple of methods I have been thinking about, but don't know if they are possible or not are:1. Connect the Xperia to my PC and some how manually move the contacts from the phone to the SIM (I am not even going to be able to enable USB Debugging so I doubt there will be a lot I can do with the phone connected to the PC except explore the files).2. Move the contacts from the phone on to the PC, then some how store the contacts on to my friend's phone (Samsung S3 Mini), and copy them to the original SIM from there? (I have no idea of how contacts are formatted so unsure whether or not they could just be moved from Sony to a Samsung so simply).They are the 2 main thought processes I have - any feed back on whether these are possible would be greatly appreciated as there are some very important numbers on this Xperia that I need for work!Thanks in advance (Apologies if this is in the wrong section, or doesn't necessarily class as an Android issue!)UPDATE: Seems I can't use adb Shell due to USB debugging being disabled and Screencast is a no go due to the phone not being rooted.I can see files within the Internal Storage such as .anchor, Alarms, Albums), is there a particular file within these subfolders which may contain the contacts which coul potentially be read? Even if I had to manually enter the numbers in to another phone, that wouldn't be so bad!"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-04T08:01:28.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"d260843b-7ae2-4018-b0eb-9c8b985f1ab6",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"76997",
+            "PostHistoryTypeId":"10",
+            "Id":"259640",
+            "Text":"{\"OriginalQuestionIds\":[25646,54272],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"How do you set default storage to external sd card on a 7\" android 4.2 tablet there is only a my files icon and no option to set defaults plus the internal storage is only 1.1 GB so the apps to move to sd card do not work please help.",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-05-08T13:04:37.150",
+    "ClosedDate":"2015-05-08T14:12:43.580",
+    "Title":"7\" android 4.2 sd storage",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-05-08T13:04:37.150",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107894",
+    "CreationDate":"2015-05-08T11:49:23.467",
+    "FavoriteCount":null,
+    "Id":"108801",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-08T11:49:23.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca9f0db3-22d2-4c27-8933-3fe1f03cbce3",
+            "UserId":"107894",
+            "CloseReasonId":null,
+            "PostId":"108801",
+            "PostHistoryTypeId":"2",
+            "Id":"354545",
+            "Text":"How do you set default storage to external sd card on a 7\" android 4.2 tablet there is only a my files icon and no option to set defaults plus the internal storage is only 1.1 GB so the apps to move to sd card do not work please help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-08T11:49:23.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca9f0db3-22d2-4c27-8933-3fe1f03cbce3",
+            "UserId":"107894",
+            "CloseReasonId":null,
+            "PostId":"108801",
+            "PostHistoryTypeId":"1",
+            "Id":"354546",
+            "Text":"7\" android 4.2 sd storage"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-08T11:49:23.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca9f0db3-22d2-4c27-8933-3fe1f03cbce3",
+            "UserId":"107894",
+            "CloseReasonId":null,
+            "PostId":"108801",
+            "PostHistoryTypeId":"3",
+            "Id":"354547",
+            "Text":"<4.1-jelly-bean>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-05-08T13:04:37.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a2a08e6-1ef1-4e85-81b4-3a84c74f5c30",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"108801",
+            "PostHistoryTypeId":"6",
+            "Id":"354568",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-08T14:12:43.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e10b32c-7bc8-4ca8-9ad8-219052dbd2b2",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"108801",
+            "PostHistoryTypeId":"10",
+            "Id":"354596",
+            "Text":"{\"OriginalQuestionIds\":[43517],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

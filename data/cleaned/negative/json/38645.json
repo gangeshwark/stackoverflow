@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Complete Dropbox implementation for Android  I am looking for a way to use a cloud service that will automatically download files onto my tablet for offline use. I am using Dropbox currently but to individually download each file which is a bit tedious. I did not see a way to do this in the Google Drive or Skydrive, android apps. Is there another service or a third party app that will let me do this or am I just stuck downloading each file one at a time?",
+    "ViewCount":"18",
+    "LastActivityDate":"2013-01-30T03:39:56.067",
+    "ClosedDate":"2013-01-30T14:46:45.227",
+    "Title":"Automatic Cloud App Download",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"27551",
+    "CreationDate":"2013-01-30T03:39:56.067",
+    "FavoriteCount":null,
+    "Id":"38645",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-30T03:39:56.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f7323d2-57cd-4ce7-842e-ee7634c20476",
+            "UserId":"27551",
+            "CloseReasonId":null,
+            "PostId":"38645",
+            "PostHistoryTypeId":"2",
+            "Id":"118534",
+            "Text":"I am looking for a way to use a cloud service that will automatically download files onto my tablet for offline use. I am using Dropbox currently but to individually download each file which is a bit tedious. I did not see a way to do this in the Google Drive or Skydrive, android apps. Is there another service or a third party app that will let me do this or am I just stuck downloading each file one at a time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-30T03:39:56.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f7323d2-57cd-4ce7-842e-ee7634c20476",
+            "UserId":"27551",
+            "CloseReasonId":null,
+            "PostId":"38645",
+            "PostHistoryTypeId":"1",
+            "Id":"118535",
+            "Text":"Automatic Cloud App Download"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-30T03:39:56.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f7323d2-57cd-4ce7-842e-ee7634c20476",
+            "UserId":"27551",
+            "CloseReasonId":null,
+            "PostId":"38645",
+            "PostHistoryTypeId":"3",
+            "Id":"118536",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-30T14:46:45.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"84c66cb5-a015-48db-a459-4945e072bc46",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38645",
+            "PostHistoryTypeId":"5",
+            "Id":"118678",
+            "Text":"> **Possible Duplicate:**  > [Complete Dropbox implementation for Android](http:\/\/android.stackexchange.com\/questions\/1120\/complete-dropbox-implementation-for-android)  I am looking for a way to use a cloud service that will automatically download files onto my tablet for offline use. I am using Dropbox currently but to individually download each file which is a bit tedious. I did not see a way to do this in the Google Drive or Skydrive, android apps. Is there another service or a third party app that will let me do this or am I just stuck downloading each file one at a time?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-30T14:46:45.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"084305c2-be76-45c0-8e12-c2357463d5e7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"38645",
+            "PostHistoryTypeId":"10",
+            "Id":"118679",
+            "Text":"{\"OriginalQuestionIds\":[1120],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":267,\"DisplayName\":\"user1\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

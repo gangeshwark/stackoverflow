@@ -1,0 +1,71 @@
+{
+    "Body":"For a good period of time now, the Google Voice application has stopped showing the Facebook profile thumbnails. This really bothers me. Was this feature removed? Is there anyway to enable it?",
+    "ViewCount":"74",
+    "LastActivityDate":"2012-09-18T21:18:09.987",
+    "ClosedDate":"2012-12-23T06:43:10.980",
+    "Title":"Google Voice no longer shows contact thumbnails imported from FB",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7425",
+    "CreationDate":"2012-09-18T21:18:09.987",
+    "FavoriteCount":null,
+    "Id":"29574",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-18T21:18:09.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c4e422b-f2ba-4c50-8334-ec4ed6193692",
+            "UserId":"7425",
+            "CloseReasonId":null,
+            "PostId":"29574",
+            "PostHistoryTypeId":"2",
+            "Id":"88116",
+            "Text":"For a good period of time now, the Google Voice application has stopped showing the Facebook profile thumbnails. This really bothers me. Was this feature removed? Is there anyway to enable it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-18T21:18:09.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c4e422b-f2ba-4c50-8334-ec4ed6193692",
+            "UserId":"7425",
+            "CloseReasonId":null,
+            "PostId":"29574",
+            "PostHistoryTypeId":"1",
+            "Id":"88117",
+            "Text":"Google Voice no longer shows contact thumbnails imported from FB"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-18T21:18:09.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c4e422b-f2ba-4c50-8334-ec4ed6193692",
+            "UserId":"7425",
+            "CloseReasonId":null,
+            "PostId":"29574",
+            "PostHistoryTypeId":"3",
+            "Id":"88118",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T06:43:10.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"5aafae34-6a1e-4881-a6c0-199b34fd2640",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29574",
+            "PostHistoryTypeId":"10",
+            "Id":"108414",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I don't know if I'm right in defining it \"Title Bar\" but is this:I want to be able to change size and colour of the bar where it is written \"Iconic memory\" in the picture.I know there are several ways to obtain this while developing an app but that I need it to change my ROM's default values for this.Any hints?If it's a useful info I'm using Lewa Os (based on cyanogenmod7)",
+    "ViewCount":"378",
+    "LastActivityDate":"2012-11-12T10:12:15.477",
+    "ClosedDate":"2013-09-23T17:37:23.690",
+    "Title":"Edit my rom's default \"Title Bar\"",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4332",
+    "CreationDate":"2012-11-12T10:12:15.477",
+    "FavoriteCount":null,
+    "Id":"33260",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-12T10:12:15.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"19340f62-bf45-4a12-8208-9111637c0359",
+            "UserId":"4332",
+            "CloseReasonId":null,
+            "PostId":"33260",
+            "PostHistoryTypeId":"2",
+            "Id":"98594",
+            "Text":"I don't know if I'm right in defining it \"Title Bar\" but is this:![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/4C83y.jpgI want to be able to change size and colour of the bar where it is written \"Iconic memory\" in the picture.I know there are several ways to obtain this while developing an app but that I need it to change my ROM's default values for this.Any hints?If it's a useful info I'm using Lewa Os (based on cyanogenmod7)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-12T10:12:15.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"19340f62-bf45-4a12-8208-9111637c0359",
+            "UserId":"4332",
+            "CloseReasonId":null,
+            "PostId":"33260",
+            "PostHistoryTypeId":"1",
+            "Id":"98595",
+            "Text":"Edit my rom's default \"Title Bar\""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-12T10:12:15.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"19340f62-bf45-4a12-8208-9111637c0359",
+            "UserId":"4332",
+            "CloseReasonId":null,
+            "PostId":"33260",
+            "PostHistoryTypeId":"3",
+            "Id":"98596",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-09-23T17:37:23.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"d01f996c-a613-4988-a1f7-57d9ae96cccc",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33260",
+            "PostHistoryTypeId":"10",
+            "Id":"178040",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

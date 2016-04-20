@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a convenient way of reading\/sending text messages from my phone through Windows? I remember Nokia's Symbian phones had a piece of software to do just that, but I can't find any simple solutions for Android.I'm using Android 5.1 on a Nexus 4.",
+    "ViewCount":"32",
+    "LastActivityDate":"2015-10-14T08:35:03.620",
+    "ClosedDate":"2015-10-14T11:40:59.260",
+    "Title":"On Windows, how can I send\/read text messages from my phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41410",
+    "CreationDate":"2015-10-14T08:30:07.590",
+    "FavoriteCount":null,
+    "Id":"125903",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-14T08:30:07.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1bdb582-0ae2-44d2-abf6-187fda8851a3",
+            "UserId":"41410",
+            "CloseReasonId":null,
+            "PostId":"125903",
+            "PostHistoryTypeId":"2",
+            "Id":"412858",
+            "Text":"Is there a convenient way of reading\/sending text messages from my phone through Windows? I remember Nokia's Symbian phones had a piece of software to do just that, but I can't find any simple solutions for Android.I'm using Android 5.1 on a Nexus 4."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-14T08:30:07.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1bdb582-0ae2-44d2-abf6-187fda8851a3",
+            "UserId":"41410",
+            "CloseReasonId":null,
+            "PostId":"125903",
+            "PostHistoryTypeId":"1",
+            "Id":"412859",
+            "Text":"On Windows, how can I send\/read text messages from my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-14T08:30:07.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1bdb582-0ae2-44d2-abf6-187fda8851a3",
+            "UserId":"41410",
+            "CloseReasonId":null,
+            "PostId":"125903",
+            "PostHistoryTypeId":"3",
+            "Id":"412860",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-14T11:40:59.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8a705a7-1956-4574-b221-b5e5dcad6525",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"125903",
+            "PostHistoryTypeId":"10",
+            "Id":"412910",
+            "Text":"{\"OriginalQuestionIds\":[1784],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

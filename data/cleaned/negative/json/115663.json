@@ -1,0 +1,71 @@
+{
+    "Body":"My new mobile keeps asking me to \"Double Tap to Unlock\" an icon which appears every time I try to make a call.  How can I disable this?",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-07-18T16:34:26.380",
+    "ClosedDate":"2015-07-19T17:04:35.200",
+    "Title":"Double Tap to Unlock on Galaxy S2",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117340",
+    "CreationDate":"2015-07-18T16:34:26.380",
+    "FavoriteCount":null,
+    "Id":"115663",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-18T16:34:26.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"3cf8f208-902e-48e1-bad4-91e81937d73a",
+            "UserId":"117340",
+            "CloseReasonId":null,
+            "PostId":"115663",
+            "PostHistoryTypeId":"2",
+            "Id":"379948",
+            "Text":"My new mobile keeps asking me to \"Double Tap to Unlock\" an icon which appears every time I try to make a call.  How can I disable this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-18T16:34:26.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"3cf8f208-902e-48e1-bad4-91e81937d73a",
+            "UserId":"117340",
+            "CloseReasonId":null,
+            "PostId":"115663",
+            "PostHistoryTypeId":"1",
+            "Id":"379949",
+            "Text":"Double Tap to Unlock on Galaxy S2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-18T16:34:26.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"3cf8f208-902e-48e1-bad4-91e81937d73a",
+            "UserId":"117340",
+            "CloseReasonId":null,
+            "PostId":"115663",
+            "PostHistoryTypeId":"3",
+            "Id":"379950",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-19T17:04:35.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"f281f25e-002e-4bbc-b44a-b1c0cef1ee91",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115663",
+            "PostHistoryTypeId":"10",
+            "Id":"380259",
+            "Text":"{\"OriginalQuestionIds\":[61127],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

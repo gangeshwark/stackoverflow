@@ -1,0 +1,71 @@
+{
+    "Body":"we're hoping somebody out there can help us with a new Cubot S208 smart phone we've just bought. We've been using it for a couple of weeks on various wi-fi networks and not experienced any problems until 2 days ago. We tried to connect to our home network which we'd connected to many times over the last 2 weeks but we got the Obtaining IP address message. This stays on the screen for ages, then the message says Avoided Bad Internet Connection. I tried out the phone on a neighbours wi-fi network (which has the same security type WPA-PSK with its own password), and this worked okay. We used it last night and it intermittently logged onto 1 or 2 different wi-fi networks in town, other networks we got the same error message as we're now getting at home Avoided Bad Internet Connection. So, here's what we've tried so far:Took the handset back to factory settingsTried connecting to our home wi-fi on its own (we switched off our wireless laptop in case it was causing the problem)We deleted our home wi-fi connection and re-entered it on the handsetAnd today we're still getting the same error message when trying to connect at home. Our wireless router BTW is a Belking54g (not sure if that's the problem?). Does anybody have any suggestions what we can do to rectify this problem as currently we're not able to use the handset at home for internet now. One other thing; we don't have a SIM card in the handset yet (in the process of buying one).We've seen lots of other comments online where other devices are getting exact same problem, and we've also seen some software online that suggets it can cure it but would appreciate some honest advice.Really hope somebody out there can help us. Thanks for listening :-) ",
+    "ViewCount":"822",
+    "LastActivityDate":"2014-08-26T08:35:41.337",
+    "ClosedDate":"2014-08-26T14:18:37.133",
+    "Title":"Cubot S208 Avoided Bad Internet Connection, How do I disable?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71637",
+    "CreationDate":"2014-08-25T20:49:52.457",
+    "FavoriteCount":null,
+    "Id":"81292",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-25T20:49:52.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b1c69e8-a670-4b03-b47d-7e602bcc92d4",
+            "UserId":"71637",
+            "CloseReasonId":null,
+            "PostId":"81292",
+            "PostHistoryTypeId":"2",
+            "Id":"266103",
+            "Text":"we're hoping somebody out there can help us with a new Cubot S208 smart phone we've just bought. We've been using it for a couple of weeks on various wi-fi networks and not experienced any problems until 2 days ago. We tried to connect to our home network which we'd connected to many times over the last 2 weeks but we got the Obtaining IP address message. This stays on the screen for ages, then the message says Avoided Bad Internet Connection. I tried out the phone on a neighbours wi-fi network (which has the same security type WPA-PSK with its own password), and this worked okay. We used it last night and it intermittently logged onto 1 or 2 different wi-fi networks in town, other networks we got the same error message as we're now getting at home Avoided Bad Internet Connection. So, here's what we've tried so far:- Took the handset back to factory settings- Tried connecting to our home wi-fi on its own (we switched off our wireless laptop in case it was causing the problem)- We deleted our home wi-fi connection and re-entered it on the handsetAnd today we're still getting the same error message when trying to connect at home. Our wireless router BTW is a Belking54g (not sure if that's the problem?). Does anybody have any suggestions what we can do to rectify this problem as currently we're not able to use the handset at home for internet now. One other thing; we don't have a SIM card in the handset yet (in the process of buying one).We've seen lots of other comments online where other devices are getting exact same problem, and we've also seen some software online that suggets it can cure it but would appreciate some honest advice.Really hope somebody out there can help us. Thanks for listening :-) "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-25T20:49:52.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b1c69e8-a670-4b03-b47d-7e602bcc92d4",
+            "UserId":"71637",
+            "CloseReasonId":null,
+            "PostId":"81292",
+            "PostHistoryTypeId":"1",
+            "Id":"266104",
+            "Text":"Cubot S208 Avoided Bad Internet Connection, How do I disable?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-25T20:49:52.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b1c69e8-a670-4b03-b47d-7e602bcc92d4",
+            "UserId":"71637",
+            "CloseReasonId":null,
+            "PostId":"81292",
+            "PostHistoryTypeId":"3",
+            "Id":"266105",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-26T14:18:37.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ab1851d-01ea-4845-9a6c-cc368109b7a6",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"81292",
+            "PostHistoryTypeId":"10",
+            "Id":"266233",
+            "Text":"{\"OriginalQuestionIds\":[22848],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have unlocked bootloader xperia neo v mt15i, version 4.0.4, build 4.1.B.0.587. I would like to flash pre-rooted custom ROM. Need custom rom link and step-by-step guide. ",
+    "ViewCount":"11",
+    "LastActivityDate":"2014-10-10T07:21:48.360",
+    "ClosedDate":"2014-10-10T14:21:20.210",
+    "Title":"Pre-rooted custom rom for unlocked xperia neo v mt15i",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"75842",
+    "CreationDate":"2014-10-10T07:21:48.360",
+    "FavoriteCount":null,
+    "Id":"84532",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-10T07:21:48.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8336776-d26a-4b23-bdb1-8d5d9fb099b7",
+            "UserId":"75842",
+            "CloseReasonId":null,
+            "PostId":"84532",
+            "PostHistoryTypeId":"2",
+            "Id":"277497",
+            "Text":"I have unlocked bootloader xperia neo v mt15i, version 4.0.4, build 4.1.B.0.587. I would like to flash pre-rooted custom ROM. Need custom rom link and step-by-step guide. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-10T07:21:48.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8336776-d26a-4b23-bdb1-8d5d9fb099b7",
+            "UserId":"75842",
+            "CloseReasonId":null,
+            "PostId":"84532",
+            "PostHistoryTypeId":"1",
+            "Id":"277498",
+            "Text":"Pre-rooted custom rom for unlocked xperia neo v mt15i"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-10T07:21:48.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8336776-d26a-4b23-bdb1-8d5d9fb099b7",
+            "UserId":"75842",
+            "CloseReasonId":null,
+            "PostId":"84532",
+            "PostHistoryTypeId":"3",
+            "Id":"277499",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-10T14:21:20.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"81374ff7-91b1-4b31-a74b-c2a85b3c2766",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84532",
+            "PostHistoryTypeId":"10",
+            "Id":"277584",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

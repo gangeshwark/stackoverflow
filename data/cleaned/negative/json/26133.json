@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Google play disappeared from my phone  My google play store is not showing on my home page and it's not in the app drawer and it's not in All Apps under settings. My phone is not rooted, and is running the stock HTC rom. I have an EVO 4G phone.Could anyone tell me what is happening and how I can recover it? I would download an .apk or something, but I don't have a file manager currently installed. I would rather not reset my whole phone.",
+    "ViewCount":"149",
+    "LastActivityDate":"2012-07-19T22:57:14.713",
+    "ClosedDate":"2012-10-27T16:18:25.720",
+    "Title":"Google Play Store disappeared from my phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7093",
+    "CreationDate":"2012-07-19T22:57:14.713",
+    "FavoriteCount":null,
+    "Id":"26133",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T22:57:14.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"3957d503-89ec-4421-8156-09563cad4993",
+            "UserId":"7093",
+            "CloseReasonId":null,
+            "PostId":"26133",
+            "PostHistoryTypeId":"2",
+            "Id":"75616",
+            "Text":"My google play store is not showing on my home page and it's not in the app drawer and it's not in All Apps under settings. My phone is not rooted, and is running the stock HTC rom. I have an EVO 4G phone.Could anyone tell me what is happening and how I can recover it? I would download an .apk or something, but I don't have a file manager currently installed. I would rather not reset my whole phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T22:57:14.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"3957d503-89ec-4421-8156-09563cad4993",
+            "UserId":"7093",
+            "CloseReasonId":null,
+            "PostId":"26133",
+            "PostHistoryTypeId":"1",
+            "Id":"75617",
+            "Text":"Google Play Store disappeared from my phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T22:57:14.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"3957d503-89ec-4421-8156-09563cad4993",
+            "UserId":"7093",
+            "CloseReasonId":null,
+            "PostId":"26133",
+            "PostHistoryTypeId":"3",
+            "Id":"75618",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-27T16:18:25.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"514088a6-764c-462a-94a4-8a9836f416d3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26133",
+            "PostHistoryTypeId":"5",
+            "Id":"96044",
+            "Text":"> **Possible Duplicate:**  > [Google play disappeared from my phone](http:\/\/android.stackexchange.com\/questions\/32469\/google-play-disappeared-from-my-phone)  My google play store is not showing on my home page and it's not in the app drawer and it's not in All Apps under settings. My phone is not rooted, and is running the stock HTC rom. I have an EVO 4G phone.Could anyone tell me what is happening and how I can recover it? I would download an .apk or something, but I don't have a file manager currently installed. I would rather not reset my whole phone."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-27T16:18:25.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"6f52b6af-1289-4459-8183-41213f35315a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"26133",
+            "PostHistoryTypeId":"10",
+            "Id":"96045",
+            "Text":"{\"OriginalQuestionIds\":[32469],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -5,4 +5,4 @@ data : contains the dataset.
     
 
 After downloading the data, use the command
-`$ python parser.py`
+`$ python parse.py`

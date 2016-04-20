@@ -1,0 +1,83 @@
+{
+    "Body":"A few days ago I noticed that sometimes emails were getting stuck in the Outbox in GMail on my Samsung Droid Charge. That was when I noticed that my Inbox count was showing unread messages, but the inbox wasn't showing the messages. I made sure the the correct label was selected (Inbox) and tried syncing\/refreshing, but to no avail. I can go to mail.google.com and see my emails loaded. This situation seems to be caused by trying to send an email or refresh when my 4G connection is spotty.I tried force closing GMail then restarting it, but that doesn't work. Restarting my phone is the only thing that appears to get GMail to sync again, but it stops after an hour or so.I have even tried clearing all data, but that didn't work. When I did that, GMail told me that it would load data soon, but it stayed in that state for hours until I restarted the phone.",
+    "ViewCount":"243",
+    "LastActivityDate":"2012-07-14T16:28:58.877",
+    "ClosedDate":"2012-12-21T14:16:22.297",
+    "Title":"GMail stops syncing after an hour or so",
+    "LastEditorUserId":"981",
+    "Tags":"",
+    "LastEditDate":"2012-07-14T16:28:58.877",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36",
+    "CreationDate":"2012-01-10T13:59:28.783",
+    "FavoriteCount":null,
+    "Id":"18108",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-10T13:59:28.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"b04ded07-3c2e-49e4-bb7c-c422ec6ab6e2",
+            "UserId":"36",
+            "CloseReasonId":null,
+            "PostId":"18108",
+            "PostHistoryTypeId":"2",
+            "Id":"49630",
+            "Text":"A few days ago I noticed that sometimes emails were getting stuck in the Outbox in GMail on my Samsung Droid Charge. That was when I noticed that my Inbox count was showing unread messages, but the inbox wasn't showing the messages. I made sure the the correct label was selected (Inbox) and tried syncing\/refreshing, but to no avail. I can go to mail.google.com and see my emails loaded. This situation seems to be caused by trying to send an email or refresh when my 4G connection is spotty.I tried force closing GMail then restarting it, but that doesn't work. Restarting my phone is the only thing that appears to get GMail to sync again, but it stops after an hour or so.I have even tried clearing all data, but that didn't work. When I did that, GMail told me that it would load data soon, but it stayed in that state for hours until I restarted the phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-10T13:59:28.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"b04ded07-3c2e-49e4-bb7c-c422ec6ab6e2",
+            "UserId":"36",
+            "CloseReasonId":null,
+            "PostId":"18108",
+            "PostHistoryTypeId":"1",
+            "Id":"49631",
+            "Text":"GMail stops syncing after an hour or so"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-10T13:59:28.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"b04ded07-3c2e-49e4-bb7c-c422ec6ab6e2",
+            "UserId":"36",
+            "CloseReasonId":null,
+            "PostId":"18108",
+            "PostHistoryTypeId":"3",
+            "Id":"49632",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-07-14T16:28:58.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"06024deb-71db-492a-8acc-024b5a779e42",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"18108",
+            "PostHistoryTypeId":"6",
+            "Id":"74711",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-21T14:16:22.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"1b605814-d8e2-4291-929a-b61141626b10",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18108",
+            "PostHistoryTypeId":"10",
+            "Id":"108113",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"}]}"
+        }
+    ]
+}

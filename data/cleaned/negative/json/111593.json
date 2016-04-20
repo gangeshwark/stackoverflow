@@ -1,0 +1,71 @@
+{
+    "Body":"I really don't want to have to re-install all apps and sign into them after I upgrade firmware. Is there a way to back them up? Any tips that may ease the process are appreciated (I have my photos\/videos backed up through google and a lot of apps do sync after I sign into them). The main problem is typing in all the passwords for the various apps is going to be a pain.Is there a way I can export a list of all the installed apps and automatically download them again?",
+    "ViewCount":"83",
+    "LastActivityDate":"2015-06-06T18:46:54.263",
+    "ClosedDate":"2015-06-07T15:51:20.220",
+    "Title":"backing up apps for firmware upgrade",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"111601",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17808",
+    "CreationDate":"2015-06-05T22:43:08.207",
+    "FavoriteCount":null,
+    "Id":"111593",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T22:43:08.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"958b9cbf-777f-4fef-a295-5f477cc598ea",
+            "UserId":"17808",
+            "CloseReasonId":null,
+            "PostId":"111593",
+            "PostHistoryTypeId":"2",
+            "Id":"364927",
+            "Text":"I really don't want to have to re-install all apps and sign into them after I upgrade firmware. Is there a way to back them up? Any tips that may ease the process are appreciated (I have my photos\/videos backed up through google and a lot of apps do sync after I sign into them). The main problem is typing in all the passwords for the various apps is going to be a pain.Is there a way I can export a list of all the installed apps and automatically download them again?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T22:43:08.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"958b9cbf-777f-4fef-a295-5f477cc598ea",
+            "UserId":"17808",
+            "CloseReasonId":null,
+            "PostId":"111593",
+            "PostHistoryTypeId":"1",
+            "Id":"364928",
+            "Text":"backing up apps for firmware upgrade"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T22:43:08.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"958b9cbf-777f-4fef-a295-5f477cc598ea",
+            "UserId":"17808",
+            "CloseReasonId":null,
+            "PostId":"111593",
+            "PostHistoryTypeId":"3",
+            "Id":"364929",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-07T15:51:20.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"52c356ac-13b7-4f4c-93ae-c8f557cf7849",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111593",
+            "PostHistoryTypeId":"10",
+            "Id":"365463",
+            "Text":"{\"OriginalQuestionIds\":[390],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

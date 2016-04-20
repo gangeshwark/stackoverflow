@@ -1,0 +1,83 @@
+{
+    "Body":"If I disable Location History and keep Location Reporting enabled, will Google still save the Locations I've been to? I am purchasing an Android phone for the first time and I am quite paranoid about security.If I use plain GPS and not Google Location Services, will I be missing anything?Is using Google Maps on Android secure, or should I use any alternate apps. I am looking for an offline GPS that I can use for apps like Runtastic etc.",
+    "ViewCount":"196",
+    "LastActivityDate":"2016-01-28T07:08:04.343",
+    "ClosedDate":"2014-09-30T15:48:04.510",
+    "Title":"Disable Location History in Android",
+    "LastEditorUserId":"44325",
+    "Tags":"",
+    "LastEditDate":"2016-01-28T07:08:04.343",
+    "CommentCount":"10",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"82011",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"72376",
+    "CreationDate":"2014-09-04T06:13:01.747",
+    "FavoriteCount":null,
+    "Id":"81896",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-04T06:13:01.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ad6fb49-3a15-420e-a72e-8f036af6c01b",
+            "UserId":"72376",
+            "CloseReasonId":null,
+            "PostId":"81896",
+            "PostHistoryTypeId":"2",
+            "Id":"268154",
+            "Text":"1. If I disable Location History and keep Location Reporting enabled, will Google still save the Locations I've been to? I am purchasing an Android phone for the first time and I am quite paranoid about security.2. If I use plain GPS and not Google Location Services, will I be missing anything?3. Is using Google Maps on Android secure, or should I use any alternate apps. I am looking for an offline GPS that I can use for apps like Runtastic etc."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-04T06:13:01.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ad6fb49-3a15-420e-a72e-8f036af6c01b",
+            "UserId":"72376",
+            "CloseReasonId":null,
+            "PostId":"81896",
+            "PostHistoryTypeId":"1",
+            "Id":"268155",
+            "Text":"Disable Location History in Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-04T06:13:01.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ad6fb49-3a15-420e-a72e-8f036af6c01b",
+            "UserId":"72376",
+            "CloseReasonId":null,
+            "PostId":"81896",
+            "PostHistoryTypeId":"3",
+            "Id":"268156",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2014-09-30T15:48:04.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"801a5e11-73b3-4bde-ba0f-4c759cbf808d",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"81896",
+            "PostHistoryTypeId":"10",
+            "Id":"274744",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-01-28T07:08:04.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"d3cc41fc-efc8-4ffb-9cda-e1b598e16c96",
+            "UserId":"44325",
+            "CloseReasonId":null,
+            "PostId":"81896",
+            "PostHistoryTypeId":"6",
+            "Id":"450548",
+            "Text":""
+        }
+    ]
+}

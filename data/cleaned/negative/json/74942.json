@@ -1,0 +1,71 @@
+{
+    "Body":"I'm a web developer (don't know any native Android Development) and would like to inspect any web page in Android's browser without using an emulator.   Is there something available like how you can plug an iPhone into a Mac and use Safari to inspect the page just as if it were a webpage being loaded in the desktop Safari browser?If this is not available, what is the next best thing?",
+    "ViewCount":"4127",
+    "LastActivityDate":"2014-06-26T15:05:52.740",
+    "ClosedDate":"2014-06-27T09:08:00.893",
+    "Title":"Inspect Android Browser elements like Desktop Chrome Inspector",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12865",
+    "CreationDate":"2014-06-26T14:11:07.150",
+    "FavoriteCount":null,
+    "Id":"74942",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-26T14:11:07.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"0779e564-5564-49d0-b521-87202e14b7d8",
+            "UserId":"12865",
+            "CloseReasonId":null,
+            "PostId":"74942",
+            "PostHistoryTypeId":"2",
+            "Id":"248997",
+            "Text":"I'm a web developer (don't know any native Android Development) and would like to inspect any web page in Android's browser without using an emulator.   Is there something available like how you can plug an iPhone into a Mac and use Safari to inspect the page just as if it were a webpage being loaded in the desktop Safari browser?If this is not available, what is the next best thing?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-26T14:11:07.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"0779e564-5564-49d0-b521-87202e14b7d8",
+            "UserId":"12865",
+            "CloseReasonId":null,
+            "PostId":"74942",
+            "PostHistoryTypeId":"1",
+            "Id":"248998",
+            "Text":"Inspect Android Browser elements like Desktop Chrome Inspector"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-26T14:11:07.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"0779e564-5564-49d0-b521-87202e14b7d8",
+            "UserId":"12865",
+            "CloseReasonId":null,
+            "PostId":"74942",
+            "PostHistoryTypeId":"3",
+            "Id":"248999",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-06-27T09:08:00.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e0f7219-95e6-4b5c-863f-8a10629a53bf",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"74942",
+            "PostHistoryTypeId":"10",
+            "Id":"249169",
+            "Text":"{\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

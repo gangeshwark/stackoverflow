@@ -1,0 +1,83 @@
+{
+    "Body":"Hi I need a bit help of you. My android phone display and Touch screen had broken. i want to recover my all data. Unfortunately My USB debugging is OFF so I can not use adb shell and access my device. but my phone is automatically connects to my home wifi. I read somewhere that you can access adb through wifi. is it possible to do like that.? NOTE: I can not able to enable or disable anything because My touch screen is not working. Your help would be appreciated. Thank you",
+    "ViewCount":"18",
+    "LastActivityDate":"2014-05-09T08:00:34.167",
+    "ClosedDate":"2014-05-09T10:15:57.610",
+    "Title":"How to access data remotely in android",
+    "LastEditorUserId":"475",
+    "Tags":"",
+    "LastEditDate":"2014-05-09T08:00:34.167",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"60319",
+    "CreationDate":"2014-05-09T07:23:22.577",
+    "FavoriteCount":null,
+    "Id":"69040",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-09T07:23:22.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"4477d173-c6b2-48fe-a6d1-43c83f12d39d",
+            "UserId":"60319",
+            "CloseReasonId":null,
+            "PostId":"69040",
+            "PostHistoryTypeId":"2",
+            "Id":"235469",
+            "Text":"Hi I need a bit help of you. My android phone display and Touch screen had broken. i want to recover my all data. Unfortunately My USB debugging is OFF so I can not use adb shell and access my device. but my phone is automatically connects to my home wifi. I read somewhere that you can access adb through wifi. is it possible to do like that.? NOTE: I can not able to enable or disable anything because My touch screen is not working. Your help would be appreciated. Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-09T07:23:22.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"4477d173-c6b2-48fe-a6d1-43c83f12d39d",
+            "UserId":"60319",
+            "CloseReasonId":null,
+            "PostId":"69040",
+            "PostHistoryTypeId":"1",
+            "Id":"235470",
+            "Text":"How to access data remotely in android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-09T07:23:22.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"4477d173-c6b2-48fe-a6d1-43c83f12d39d",
+            "UserId":"60319",
+            "CloseReasonId":null,
+            "PostId":"69040",
+            "PostHistoryTypeId":"3",
+            "Id":"235471",
+            "Text":""
+        },
+        {
+            "Comment":"retag",
+            "CreationDate":"2014-05-09T08:00:34.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"76694962-4d6c-45a4-ab78-a93623f61745",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"69040",
+            "PostHistoryTypeId":"6",
+            "Id":"235482",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-09T10:15:57.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"d2fde2f8-c946-4226-9dd3-91259f3f0b81",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"69040",
+            "PostHistoryTypeId":"10",
+            "Id":"235527",
+            "Text":"{\"OriginalQuestionIds\":[12834],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

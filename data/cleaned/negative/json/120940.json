@@ -1,0 +1,71 @@
+{
+    "Body":"I want to know, How I can get app updates notifications without install that, I mean I want to know version updates about all over the apps!!!!Please help me about that,Thanks.",
+    "ViewCount":"29",
+    "LastActivityDate":"2015-09-01T18:00:20.233",
+    "ClosedDate":"2015-09-01T19:36:31.767",
+    "Title":"About Play Store",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"124664",
+    "CreationDate":"2015-09-01T18:00:20.233",
+    "FavoriteCount":null,
+    "Id":"120940",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T18:00:20.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9d11f6a-7dcc-4f8c-b805-d4330e0c6a9a",
+            "UserId":"124664",
+            "CloseReasonId":null,
+            "PostId":"120940",
+            "PostHistoryTypeId":"2",
+            "Id":"396624",
+            "Text":"I want to know, How I can get app updates notifications without install that, I mean I want to know version updates about all over the apps!!!!Please help me about that,Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T18:00:20.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9d11f6a-7dcc-4f8c-b805-d4330e0c6a9a",
+            "UserId":"124664",
+            "CloseReasonId":null,
+            "PostId":"120940",
+            "PostHistoryTypeId":"1",
+            "Id":"396625",
+            "Text":"About Play Store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T18:00:20.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9d11f6a-7dcc-4f8c-b805-d4330e0c6a9a",
+            "UserId":"124664",
+            "CloseReasonId":null,
+            "PostId":"120940",
+            "PostHistoryTypeId":"3",
+            "Id":"396626",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-01T19:36:31.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"39252182-3d83-4846-bd08-441900969294",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"120940",
+            "PostHistoryTypeId":"10",
+            "Id":"396642",
+            "Text":"{\"OriginalQuestionIds\":[51583],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"user981\"}]}"
+        }
+    ]
+}

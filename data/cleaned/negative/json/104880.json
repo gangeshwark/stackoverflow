@@ -1,0 +1,71 @@
+{
+    "Body":"I'm using Samsung Star Pro (gt-7262) with the Android version of 4.1.2 Jelly Bean. my phone is not rooted.I need to update my phone to any next Android version higher than the current one. Whenever I do software update in the settings, 4.1.2 persists. Please guide me if upgrade is available for this model. The software provided from my company to be installed in my mobile which supports the Android version more than 4.2, so I need to upgrade this version from my mobile.Additional: when I search in Google to update higher version, it explains about the rooting process of firmware through odin which is given for 4.1 version only. What firmware is all about?",
+    "ViewCount":"7",
+    "LastActivityDate":"2015-04-08T17:34:45.690",
+    "ClosedDate":"2015-04-08T18:21:47.587",
+    "Title":"Is there update available for Samsung Star Pro?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101577",
+    "CreationDate":"2015-04-08T17:34:45.690",
+    "FavoriteCount":null,
+    "Id":"104880",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T17:34:45.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"7be3b950-2c2b-41ec-b9a3-7617bfd35d1d",
+            "UserId":"101577",
+            "CloseReasonId":null,
+            "PostId":"104880",
+            "PostHistoryTypeId":"2",
+            "Id":"342496",
+            "Text":"I'm using Samsung Star Pro (gt-7262) with the Android version of 4.1.2 Jelly Bean. my phone is not rooted.I need to update my phone to any next Android version higher than the current one. Whenever I do software update in the settings, 4.1.2 persists. Please guide me if upgrade is available for this model. The software provided from my company to be installed in my mobile which supports the Android version more than 4.2, so I need to upgrade this version from my mobile.Additional: when I search in Google to update higher version, it explains about the rooting process of firmware through odin which is given for 4.1 version only. What firmware is all about?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T17:34:45.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"7be3b950-2c2b-41ec-b9a3-7617bfd35d1d",
+            "UserId":"101577",
+            "CloseReasonId":null,
+            "PostId":"104880",
+            "PostHistoryTypeId":"1",
+            "Id":"342497",
+            "Text":"Is there update available for Samsung Star Pro?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T17:34:45.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"7be3b950-2c2b-41ec-b9a3-7617bfd35d1d",
+            "UserId":"101577",
+            "CloseReasonId":null,
+            "PostId":"104880",
+            "PostHistoryTypeId":"3",
+            "Id":"342498",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-08T18:21:47.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a1ec644-6dde-4eea-b7f3-a073563cba1b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"104880",
+            "PostHistoryTypeId":"10",
+            "Id":"342533",
+            "Text":"{\"OriginalQuestionIds\":[32589],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

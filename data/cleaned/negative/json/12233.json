@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I fix the WiFi button or prevent WiFi errors when turning it off and back on?  After I turn on my phone (a Samsung Galaxy I551) the wifi works great. After some times of turning it on and off it gets screwed and when I try to turn it on it displays \"Error\", without any further specifications. I found a lot in some forums but I couldn't really get any solution.It is really annoying because I generally don't turn off my phone so now I have to reboot it frequently.I can't relate this with the opening of some app or something like that :(Thanks for any help!Diego",
+    "ViewCount":"215",
+    "LastActivityDate":"2011-08-08T14:47:31.657",
+    "ClosedDate":"2011-08-08T14:52:50.280",
+    "Title":"Wifi Error when turning on",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5898",
+    "CreationDate":"2011-08-08T14:47:31.657",
+    "FavoriteCount":"1",
+    "Id":"12233",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-08T14:47:31.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f8361eb-55cf-436e-a904-4eac22a7ccdf",
+            "UserId":"5898",
+            "CloseReasonId":null,
+            "PostId":"12233",
+            "PostHistoryTypeId":"2",
+            "Id":"31234",
+            "Text":"After I turn on my phone (a Samsung Galaxy I551) the wifi works great. After some times of turning it on and off it gets screwed and when I try to turn it on it displays \"Error\", without any further specifications. I found a lot in some forums but I couldn't really get any solution.It is really annoying because I generally don't turn off my phone so now I have to reboot it frequently.I can't relate this with the opening of some app or something like that :(Thanks for any help!Diego"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-08T14:47:31.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f8361eb-55cf-436e-a904-4eac22a7ccdf",
+            "UserId":"5898",
+            "CloseReasonId":null,
+            "PostId":"12233",
+            "PostHistoryTypeId":"1",
+            "Id":"31235",
+            "Text":"Wifi Error when turning on"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-08T14:47:31.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f8361eb-55cf-436e-a904-4eac22a7ccdf",
+            "UserId":"5898",
+            "CloseReasonId":null,
+            "PostId":"12233",
+            "PostHistoryTypeId":"3",
+            "Id":"31236",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-08-08T14:52:50.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac8a7671-13c7-4e5a-b9d7-583d91e38960",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"12233",
+            "PostHistoryTypeId":"5",
+            "Id":"31241",
+            "Text":"> **Possible Duplicate:**  > [How can I fix the WiFi button or prevent WiFi errors when turning it off and back on?](http:\/\/android.stackexchange.com\/questions\/4504\/how-can-i-fix-the-wifi-button-or-prevent-wifi-errors-when-turning-it-off-and-back)  After I turn on my phone (a Samsung Galaxy I551) the wifi works great. After some times of turning it on and off it gets screwed and when I try to turn it on it displays \"Error\", without any further specifications. I found a lot in some forums but I couldn't really get any solution.It is really annoying because I generally don't turn off my phone so now I have to reboot it frequently.I can't relate this with the opening of some app or something like that :(Thanks for any help!Diego"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-08-08T14:52:50.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5714539-db8c-4340-85d3-1d666c03ad27",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"12233",
+            "PostHistoryTypeId":"10",
+            "Id":"31242",
+            "Text":"{\"OriginalQuestionIds\":[4504],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

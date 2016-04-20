@@ -1,0 +1,71 @@
+{
+    "Body":"I need a phone with Android operating system that supports voice search, and speech recognition. How can I understand if a phone supports voice recognition or not? Does each phone with Android support speech recognition? Or does it also depend on the hardware of the phone?Thanks in advance!",
+    "ViewCount":"92",
+    "LastActivityDate":"2012-03-06T21:57:26.700",
+    "ClosedDate":"2012-03-07T03:15:41.383",
+    "Title":"What phones support voice search?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12961",
+    "CreationDate":"2012-03-06T21:57:26.700",
+    "FavoriteCount":null,
+    "Id":"20338",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-06T21:57:26.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"29e315ea-8422-487e-acc7-8c96b10bc72d",
+            "UserId":"12961",
+            "CloseReasonId":null,
+            "PostId":"20338",
+            "PostHistoryTypeId":"2",
+            "Id":"56576",
+            "Text":"I need a phone with Android operating system that supports voice search, and speech recognition. How can I understand if a phone supports voice recognition or not? Does each phone with Android support speech recognition? Or does it also depend on the hardware of the phone?Thanks in advance!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-06T21:57:26.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"29e315ea-8422-487e-acc7-8c96b10bc72d",
+            "UserId":"12961",
+            "CloseReasonId":null,
+            "PostId":"20338",
+            "PostHistoryTypeId":"1",
+            "Id":"56577",
+            "Text":"What phones support voice search?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-06T21:57:26.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"29e315ea-8422-487e-acc7-8c96b10bc72d",
+            "UserId":"12961",
+            "CloseReasonId":null,
+            "PostId":"20338",
+            "PostHistoryTypeId":"3",
+            "Id":"56578",
+            "Text":""
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-03-07T03:15:41.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9197c69-48d4-4de8-a9c2-9dad2d0b388f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20338",
+            "PostHistoryTypeId":"10",
+            "Id":"56652",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

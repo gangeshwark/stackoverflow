@@ -1,0 +1,83 @@
+{
+    "Body":"I'm a developer so i plug in my device for quite a long time, so i think it might affect my battery life. Is there any way to disable usb charging?",
+    "ViewCount":"32",
+    "LastActivityDate":"2013-11-27T15:50:26.533",
+    "ClosedDate":"2013-11-27T16:09:57.877",
+    "Title":"How to stop USB charging?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-11-27T15:50:26.533",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"45945",
+    "CreationDate":"2013-11-27T07:34:08.620",
+    "FavoriteCount":null,
+    "Id":"57810",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-27T07:34:08.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"a72cb450-fc89-41bb-ba50-59d897dedb51",
+            "UserId":"45945",
+            "CloseReasonId":null,
+            "PostId":"57810",
+            "PostHistoryTypeId":"2",
+            "Id":"194136",
+            "Text":"I'm a developer so i plug in my device for quite a long time, so i think it might affect my battery life. Is there any way to disable usb charging?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-27T07:34:08.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"a72cb450-fc89-41bb-ba50-59d897dedb51",
+            "UserId":"45945",
+            "CloseReasonId":null,
+            "PostId":"57810",
+            "PostHistoryTypeId":"1",
+            "Id":"194137",
+            "Text":"How to stop USB charging?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-27T07:34:08.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"a72cb450-fc89-41bb-ba50-59d897dedb51",
+            "UserId":"45945",
+            "CloseReasonId":null,
+            "PostId":"57810",
+            "PostHistoryTypeId":"3",
+            "Id":"194138",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-11-27T15:50:26.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9f84a04-48ec-4e9e-b990-5e988dd78839",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"57810",
+            "PostHistoryTypeId":"6",
+            "Id":"194270",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-27T16:09:57.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"c741d8d8-2c8a-4ae8-8197-5cd17e10861d",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"57810",
+            "PostHistoryTypeId":"10",
+            "Id":"194280",
+            "Text":"{\"OriginalQuestionIds\":[54902],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

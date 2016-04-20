@@ -1,0 +1,71 @@
+{
+    "Body":"I have multiple bank accounts. I used to send my account details to my clients frequently using email, SMS and whatsapp. It's hard to copy the account details and sending them during my busy time. Sometimes typo also happening. Is there any android application available to solve this.  Your help must be appreciate :)",
+    "ViewCount":"43",
+    "LastActivityDate":"2015-12-16T06:44:46.437",
+    "ClosedDate":"2015-12-16T14:44:45.177",
+    "Title":"Is there any bank account details sharing android app available?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"131684",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5982",
+    "CreationDate":"2015-12-16T04:56:54.747",
+    "FavoriteCount":null,
+    "Id":"131677",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-16T04:56:54.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0c6e024-696f-4219-9e87-f776901597dd",
+            "UserId":"5982",
+            "CloseReasonId":null,
+            "PostId":"131677",
+            "PostHistoryTypeId":"2",
+            "Id":"435104",
+            "Text":"I have multiple bank accounts. I used to send my account details to my clients frequently using email, SMS and whatsapp. It's hard to copy the account details and sending them during my busy time. Sometimes typo also happening. Is there any android application available to solve this.  Your help must be appreciate :)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-16T04:56:54.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0c6e024-696f-4219-9e87-f776901597dd",
+            "UserId":"5982",
+            "CloseReasonId":null,
+            "PostId":"131677",
+            "PostHistoryTypeId":"1",
+            "Id":"435105",
+            "Text":"Is there any bank account details sharing android app available?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-16T04:56:54.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0c6e024-696f-4219-9e87-f776901597dd",
+            "UserId":"5982",
+            "CloseReasonId":null,
+            "PostId":"131677",
+            "PostHistoryTypeId":"3",
+            "Id":"435106",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-12-16T14:44:45.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"6bfdcb17-3901-4b1f-a48b-1fdfca01f050",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"131677",
+            "PostHistoryTypeId":"10",
+            "Id":"435242",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

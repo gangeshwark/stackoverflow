@@ -1,0 +1,71 @@
+{
+    "Body":"Some phones have an armv6 processor, and some have an armv7. Some apps (such as firefox, flash player, and chrome beta) only work on armv7.So, what is the whole difference?",
+    "ViewCount":"19748",
+    "LastActivityDate":"2012-08-20T11:20:38.850",
+    "ClosedDate":"2012-08-20T18:43:29.900",
+    "Title":"Difference between armv6 & armv7 processors?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"21138",
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11209",
+    "CreationDate":"2012-03-28T16:58:18.240",
+    "FavoriteCount":"1",
+    "Id":"21137",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-28T16:58:18.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"42606c68-fea5-4130-a4ea-cc0ecc0b32ac",
+            "UserId":"11209",
+            "CloseReasonId":null,
+            "PostId":"21137",
+            "PostHistoryTypeId":"2",
+            "Id":"59100",
+            "Text":"Some phones have an armv6 processor, and some have an armv7. Some apps (such as firefox, flash player, and chrome beta) only work on armv7.So, what is the whole difference?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-28T16:58:18.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"42606c68-fea5-4130-a4ea-cc0ecc0b32ac",
+            "UserId":"11209",
+            "CloseReasonId":null,
+            "PostId":"21137",
+            "PostHistoryTypeId":"1",
+            "Id":"59101",
+            "Text":"Difference between armv6 & armv7 processors?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-28T16:58:18.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"42606c68-fea5-4130-a4ea-cc0ecc0b32ac",
+            "UserId":"11209",
+            "CloseReasonId":null,
+            "PostId":"21137",
+            "PostHistoryTypeId":"3",
+            "Id":"59102",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-08-20T18:43:29.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"6fb3e219-07b3-40e8-8ccb-d7e9533fe903",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21137",
+            "PostHistoryTypeId":"10",
+            "Id":"81606",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

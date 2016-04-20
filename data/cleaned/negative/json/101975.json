@@ -1,0 +1,71 @@
+{
+    "Body":"I have sony xperia l running Android kitkat4.4.4 AKOP rom I want to ask that my phones google play services draines my battery 60% to 80% I tried all kind of fix but nothing sloved my problemThanks",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-03-09T10:05:09.037",
+    "ClosedDate":"2015-03-09T15:17:31.563",
+    "Title":"Google Play Services Battery Drain",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97376",
+    "CreationDate":"2015-03-09T10:05:09.037",
+    "FavoriteCount":null,
+    "Id":"101975",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-09T10:05:09.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"089b169f-67e0-416d-b375-aca2c81e859d",
+            "UserId":"97376",
+            "CloseReasonId":null,
+            "PostId":"101975",
+            "PostHistoryTypeId":"2",
+            "Id":"331855",
+            "Text":"I have sony xperia l running Android kitkat4.4.4 AKOP rom I want to ask that my phones google play services draines my battery 60% to 80% I tried all kind of fix but nothing sloved my problemThanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-09T10:05:09.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"089b169f-67e0-416d-b375-aca2c81e859d",
+            "UserId":"97376",
+            "CloseReasonId":null,
+            "PostId":"101975",
+            "PostHistoryTypeId":"1",
+            "Id":"331856",
+            "Text":"Google Play Services Battery Drain"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-09T10:05:09.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"089b169f-67e0-416d-b375-aca2c81e859d",
+            "UserId":"97376",
+            "CloseReasonId":null,
+            "PostId":"101975",
+            "PostHistoryTypeId":"3",
+            "Id":"331857",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-09T15:17:31.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"086117bf-7265-4ceb-9ef9-eb058e988297",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"101975",
+            "PostHistoryTypeId":"10",
+            "Id":"332001",
+            "Text":"{\"OriginalQuestionIds\":[38822],\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

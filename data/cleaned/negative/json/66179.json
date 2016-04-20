@@ -1,0 +1,71 @@
+{
+    "Body":"I want to upgrade from Android 4.1 to 4.3 on my Sony Xperia SP smartphone.Please, how do I go about it to have a successful outcome without losing what I have already on the phone?",
+    "ViewCount":"52",
+    "LastActivityDate":"2014-03-25T14:00:01.327",
+    "ClosedDate":"2014-03-25T22:39:49.397",
+    "Title":"How Do I carry out an Upgrade?",
+    "LastEditorUserId":null,
+    "Tags":"<4.1-jelly-bean><4.3-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"56961",
+    "CreationDate":"2014-03-25T13:22:20.120",
+    "FavoriteCount":null,
+    "Id":"66179",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-25T13:22:20.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"43ec398e-fed5-440f-8a2d-791d20e07a91",
+            "UserId":"56961",
+            "CloseReasonId":null,
+            "PostId":"66179",
+            "PostHistoryTypeId":"2",
+            "Id":"225419",
+            "Text":"I want to upgrade from Android 4.1 to 4.3 on my Sony Xperia SP smartphone.Please, how do I go about it to have a successful outcome without losing what I have already on the phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-25T13:22:20.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"43ec398e-fed5-440f-8a2d-791d20e07a91",
+            "UserId":"56961",
+            "CloseReasonId":null,
+            "PostId":"66179",
+            "PostHistoryTypeId":"1",
+            "Id":"225420",
+            "Text":"How Do I carry out an Upgrade?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-25T13:22:20.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"43ec398e-fed5-440f-8a2d-791d20e07a91",
+            "UserId":"56961",
+            "CloseReasonId":null,
+            "PostId":"66179",
+            "PostHistoryTypeId":"3",
+            "Id":"225421",
+            "Text":"<4.1-jelly-bean><4.3-jelly-bean>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-25T22:39:49.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b41f105-a359-4c35-a80b-e0486c1eaa5d",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"66179",
+            "PostHistoryTypeId":"10",
+            "Id":"225531",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I need help re-installing Google Play I don't know how to. I have tried turning off my phone, but it doesn't work. I want to download Temple Run 2, but I can't because I don't have Google Play. I am hopeless.",
+    "ViewCount":"145",
+    "LastActivityDate":"2015-02-19T03:42:18.523",
+    "ClosedDate":"2015-02-19T06:02:32.413",
+    "Title":"how do I get Google Play back",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94986",
+    "CreationDate":"2015-02-19T03:26:40.637",
+    "FavoriteCount":null,
+    "Id":"100245",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T03:26:40.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"e94769fe-0d3a-4727-a78f-128b94cb3554",
+            "UserId":"94986",
+            "CloseReasonId":null,
+            "PostId":"100245",
+            "PostHistoryTypeId":"2",
+            "Id":"325458",
+            "Text":"I need help re-installing Google Play I don't know how to. I have tried turning off my phone, but it doesn't work. I want to download Temple Run 2, but I can't because I don't have Google Play. I am hopeless."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T03:26:40.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"e94769fe-0d3a-4727-a78f-128b94cb3554",
+            "UserId":"94986",
+            "CloseReasonId":null,
+            "PostId":"100245",
+            "PostHistoryTypeId":"1",
+            "Id":"325459",
+            "Text":"how do I get Google Play back"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T03:26:40.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"e94769fe-0d3a-4727-a78f-128b94cb3554",
+            "UserId":"94986",
+            "CloseReasonId":null,
+            "PostId":"100245",
+            "PostHistoryTypeId":"3",
+            "Id":"325460",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-19T06:02:32.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"4aa61b96-21db-4025-9cd1-12e68b2c1481",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100245",
+            "PostHistoryTypeId":"10",
+            "Id":"325502",
+            "Text":"{\"OriginalQuestionIds\":[27808,18546],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

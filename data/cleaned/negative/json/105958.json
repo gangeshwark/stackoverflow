@@ -1,0 +1,71 @@
+{
+    "Body":"i want to disable google play store auto updates. I am not talking about auto update applications. I don't want to update my google play store version. Please help me.",
+    "ViewCount":"25",
+    "LastActivityDate":"2015-04-19T19:15:14.857",
+    "ClosedDate":"2015-04-19T22:07:47.603",
+    "Title":"Disable google play store auto update",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103203",
+    "CreationDate":"2015-04-19T19:15:14.857",
+    "FavoriteCount":null,
+    "Id":"105958",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-19T19:15:14.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"e316cd81-d6d6-45b8-96a7-838b1760d0ca",
+            "UserId":"103203",
+            "CloseReasonId":null,
+            "PostId":"105958",
+            "PostHistoryTypeId":"2",
+            "Id":"346481",
+            "Text":"i want to disable google play store auto updates. I am not talking about auto update applications. I don't want to update my google play store version. Please help me."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-19T19:15:14.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"e316cd81-d6d6-45b8-96a7-838b1760d0ca",
+            "UserId":"103203",
+            "CloseReasonId":null,
+            "PostId":"105958",
+            "PostHistoryTypeId":"1",
+            "Id":"346482",
+            "Text":"Disable google play store auto update"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-19T19:15:14.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"e316cd81-d6d6-45b8-96a7-838b1760d0ca",
+            "UserId":"103203",
+            "CloseReasonId":null,
+            "PostId":"105958",
+            "PostHistoryTypeId":"3",
+            "Id":"346483",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-19T22:07:47.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3143d63-09e0-4ff8-a029-b578189cb7eb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105958",
+            "PostHistoryTypeId":"10",
+            "Id":"346504",
+            "Text":"{\"OriginalQuestionIds\":[48694],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

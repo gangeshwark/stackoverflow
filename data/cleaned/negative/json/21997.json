@@ -1,0 +1,71 @@
+{
+    "Body":"I am looking for a third party VPN client that I can use to connect to my home VPN which is setup through Windows 7. I don't want to use built in Android VPN. Many of the VPN clients I've seen on the market solely connect to their own vpns and I haven't seen one that allows for you to enter custom address and information. I have a rooted Verizon Galaxy Nexus running 4.0.2 with the stock ROM.Any ideas?",
+    "ViewCount":"350",
+    "LastActivityDate":"2012-04-19T00:29:10.187",
+    "ClosedDate":"2013-01-02T15:56:07.913",
+    "Title":"Vpn Client to connect to Windows 7 VPN",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9862",
+    "CreationDate":"2012-04-19T00:29:10.187",
+    "FavoriteCount":null,
+    "Id":"21997",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T00:29:10.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"08898dc7-93f0-48a6-8529-5447e72164f9",
+            "UserId":"9862",
+            "CloseReasonId":null,
+            "PostId":"21997",
+            "PostHistoryTypeId":"2",
+            "Id":"61712",
+            "Text":"I am looking for a third party VPN client that I can use to connect to my home VPN which is setup through Windows 7. I don't want to use built in Android VPN. Many of the VPN clients I've seen on the market solely connect to their own vpns and I haven't seen one that allows for you to enter custom address and information. I have a rooted Verizon Galaxy Nexus running 4.0.2 with the stock ROM.Any ideas?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T00:29:10.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"08898dc7-93f0-48a6-8529-5447e72164f9",
+            "UserId":"9862",
+            "CloseReasonId":null,
+            "PostId":"21997",
+            "PostHistoryTypeId":"1",
+            "Id":"61713",
+            "Text":"Vpn Client to connect to Windows 7 VPN"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T00:29:10.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"08898dc7-93f0-48a6-8529-5447e72164f9",
+            "UserId":"9862",
+            "CloseReasonId":null,
+            "PostId":"21997",
+            "PostHistoryTypeId":"3",
+            "Id":"61714",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-02T15:56:07.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2e404b4-6ae1-4507-a161-7aa6225b7180",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"21997",
+            "PostHistoryTypeId":"10",
+            "Id":"110892",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

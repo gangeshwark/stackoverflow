@@ -1,0 +1,71 @@
+{
+    "Body":"I'm having some issues with Android 5.1.0 and Nexus 4:Battery lasts a very short time, sometimes less than a day with the phone barely used. I don't have anything special installed, just popular apps that everyone uses. Looking at the battery usage I see \"Android OS\" and \"Google Play Services\" taking the biggest chunk. Screen comes 3rd, sometimes 4th (with adaptive brightness).Random deep sleeps. This is apparently a known issue for months, but no fix has come up yet.App crashes. \"Phone\" app sometimes crashes; Sometimes after you answer a call you don't hear anything and need to call back the person; \"Camera\" (requires phone restart to fix); \"Youtube\" stops playing videos every 2-3 days (requires phone restart to fix).Searching the web I noticed they are quite common.Is there any alternative Android OS that I can install to avoid them? I've heard of CyanogenMod. Does anyone know if it also has these problems on a Nexus 4 device?",
+    "ViewCount":"217",
+    "LastActivityDate":"2015-07-16T13:32:00.527",
+    "ClosedDate":"2015-07-19T17:05:46.423",
+    "Title":"Alternative OS for Nexus 4",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117018",
+    "CreationDate":"2015-07-15T20:21:57.920",
+    "FavoriteCount":"0",
+    "Id":"115431",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-15T20:21:57.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0ff99e1-2bb9-41e7-9f2f-0dc9db7ce280",
+            "UserId":"117018",
+            "CloseReasonId":null,
+            "PostId":"115431",
+            "PostHistoryTypeId":"2",
+            "Id":"378997",
+            "Text":"I'm having some issues with Android 5.1.0 and Nexus 4:- **Battery lasts a very short time**, sometimes less than a day with the phone barely used. I don't have anything special installed, just popular apps that everyone uses. Looking at the battery usage I see \"Android OS\" and \"Google Play Services\" taking the biggest chunk. Screen comes 3rd, sometimes 4th (with adaptive brightness).- **Random deep sleeps**. This is apparently a [known issue][1] for months, but no fix has come up yet.- **App crashes**. \"Phone\" app sometimes crashes; Sometimes after you answer a call you don't hear anything and need to call back the person; \"Camera\" (requires phone restart to fix); \"Youtube\" stops playing videos every 2-3 days (requires phone restart to fix).Searching the web I noticed they are quite common.Is there any alternative Android OS that I can install to avoid them? I've heard of CyanogenMod. Does anyone know if it also has these problems on a Nexus 4 device?  [1]: https:\/\/code.google.com\/p\/android\/issues\/detail?id=79942"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-15T20:21:57.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0ff99e1-2bb9-41e7-9f2f-0dc9db7ce280",
+            "UserId":"117018",
+            "CloseReasonId":null,
+            "PostId":"115431",
+            "PostHistoryTypeId":"1",
+            "Id":"378998",
+            "Text":"Alternative OS for Nexus 4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-15T20:21:57.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0ff99e1-2bb9-41e7-9f2f-0dc9db7ce280",
+            "UserId":"117018",
+            "CloseReasonId":null,
+            "PostId":"115431",
+            "PostHistoryTypeId":"3",
+            "Id":"378999",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-19T17:05:46.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"26efaa97-5095-4df2-9963-0661263a6e2e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115431",
+            "PostHistoryTypeId":"10",
+            "Id":"380265",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I'm looking for an app to help me track my weight. Ideally, I would tell it my weight each day (and perhaps my age and height), and after a while I could use it so plot a graph of my progress but also get extra informative statistics. I've seen a lot of health related apps on the market, but a lot of them are payed and come with tons of extra features. I don't need diet guidance, exercise reminders, etc. I just need something to track my weight, preferably free.Thanks",
+    "ViewCount":"177",
+    "LastActivityDate":"2011-02-17T14:03:09.603",
+    "ClosedDate":"2014-12-18T17:48:14.820",
+    "Title":"Weight tracking app",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2011-01-24T14:16:43.083",
+    "CommentCount":"2",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":"5132",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1926",
+    "CreationDate":"2011-01-24T11:56:39.337",
+    "FavoriteCount":null,
+    "Id":"5131",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-24T11:56:39.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b315d39-b94c-42d7-a338-a48172e516bc",
+            "UserId":"1926",
+            "CloseReasonId":null,
+            "PostId":"5131",
+            "PostHistoryTypeId":"2",
+            "Id":"11048",
+            "Text":"I'm looking for an app to help me track my weight. Ideally, I would tell it my weight each day (and perhaps my age and height), and after a while I could use it so plot a graph of my progress but also get extra informative statistics. I've seen a lot of health related apps on the market, but a lot of them are payed and come with tons of extra features. I don't need diet guidance, exercise reminders, etc. I just need something to track my weight, preferably free.Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-24T11:56:39.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b315d39-b94c-42d7-a338-a48172e516bc",
+            "UserId":"1926",
+            "CloseReasonId":null,
+            "PostId":"5131",
+            "PostHistoryTypeId":"1",
+            "Id":"11049",
+            "Text":"Weight tracking app."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-24T11:56:39.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b315d39-b94c-42d7-a338-a48172e516bc",
+            "UserId":"1926",
+            "CloseReasonId":null,
+            "PostId":"5131",
+            "PostHistoryTypeId":"3",
+            "Id":"11050",
+            "Text":"<2.1-eclair>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2011-01-24T14:16:43.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"31cffee6-9fc0-4ab8-b34b-f4a450f38443",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"5131",
+            "PostHistoryTypeId":"6",
+            "Id":"11072",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-18T17:48:14.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"f843fbeb-9357-4f47-b2a9-858f50d941e6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"5131",
+            "PostHistoryTypeId":"10",
+            "Id":"301697",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

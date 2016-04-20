@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to figure out a way where we can upload the contents of the Root Folder in and Android phone (Phone is ROOTED) to an online database. Any help is appretiated",
+    "ViewCount":"29",
+    "LastActivityDate":"2016-02-26T10:46:03.677",
+    "ClosedDate":"2016-02-27T20:37:00.567",
+    "Title":"Is there a way to manually backup the contents of Root folder (Android)?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153367",
+    "CreationDate":"2016-02-26T10:46:03.677",
+    "FavoriteCount":null,
+    "Id":"138159",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T10:46:03.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a424ef6-7a53-4f74-9ff3-83f2a2bdc2b2",
+            "UserId":"153367",
+            "CloseReasonId":null,
+            "PostId":"138159",
+            "PostHistoryTypeId":"2",
+            "Id":"461191",
+            "Text":"I am trying to figure out a way where we can upload the contents of the Root Folder in and Android phone (Phone is ROOTED) to an online database. Any help is appretiated"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T10:46:03.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a424ef6-7a53-4f74-9ff3-83f2a2bdc2b2",
+            "UserId":"153367",
+            "CloseReasonId":null,
+            "PostId":"138159",
+            "PostHistoryTypeId":"1",
+            "Id":"461192",
+            "Text":"Is there a way to manually backup the contents of Root folder (Android)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T10:46:03.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a424ef6-7a53-4f74-9ff3-83f2a2bdc2b2",
+            "UserId":"153367",
+            "CloseReasonId":null,
+            "PostId":"138159",
+            "PostHistoryTypeId":"3",
+            "Id":"461193",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-27T20:37:00.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"09b978c6-3819-47b9-9827-9b5255e48757",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138159",
+            "PostHistoryTypeId":"10",
+            "Id":"462132",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

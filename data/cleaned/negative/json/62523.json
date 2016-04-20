@@ -1,0 +1,71 @@
+{
+    "Body":"I have an Aakash android tablet. The tablet was locked by too many patten attempts. Now I have to give my google account to log in. But the WiFi is not turned on in the tab. So I cannot log in with Google account. There is no hard reset in this tab. Tryed to go to recovery mode my pressing volume and power on. It too didn't work. Now what can I do??",
+    "ViewCount":"18",
+    "LastActivityDate":"2014-02-01T14:03:20.190",
+    "ClosedDate":"2014-02-03T01:48:13.060",
+    "Title":"locked out with wifi off",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"29120",
+    "CreationDate":"2014-02-01T14:03:20.190",
+    "FavoriteCount":null,
+    "Id":"62523",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-01T14:03:20.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fba6f55-8112-479d-ae2d-7a4bb9720c56",
+            "UserId":"29120",
+            "CloseReasonId":null,
+            "PostId":"62523",
+            "PostHistoryTypeId":"2",
+            "Id":"212077",
+            "Text":"I have an Aakash android tablet. The tablet was locked by too many patten attempts. Now I have to give my google account to log in. But the WiFi is not turned on in the tab. So I cannot log in with Google account. There is no hard reset in this tab. Tryed to go to recovery mode my pressing volume and power on. It too didn't work. Now what can I do??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-01T14:03:20.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fba6f55-8112-479d-ae2d-7a4bb9720c56",
+            "UserId":"29120",
+            "CloseReasonId":null,
+            "PostId":"62523",
+            "PostHistoryTypeId":"1",
+            "Id":"212078",
+            "Text":"locked out with wifi off"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-01T14:03:20.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fba6f55-8112-479d-ae2d-7a4bb9720c56",
+            "UserId":"29120",
+            "CloseReasonId":null,
+            "PostId":"62523",
+            "PostHistoryTypeId":"3",
+            "Id":"212079",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-03T01:48:13.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"d40cd363-0168-4e05-8fd8-a36e761550c2",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"62523",
+            "PostHistoryTypeId":"10",
+            "Id":"212440",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

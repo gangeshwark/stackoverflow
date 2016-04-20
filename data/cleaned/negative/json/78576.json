@@ -1,0 +1,71 @@
+{
+    "Body":"From a layman point of view, one would say, \"Oh, I'm unrooted so I am blocked and access is not allowed.\" I want the programmatic point of view; telling me how an unrooted device doesn't have access to the whole filesystem, etc., and how a rooted device has that access.Examples:1.Is the filesystem set by default to disallow reads\/writes to \/system, \/sys, \/data, etc.? 2.Is there something stored in \/system or \/data (such as a program, block device\/file, etc.) that the unrooted OS runs that limits system-wide access on several tasks that rooted users have?3.Does the default \"unrooted\" OS actually have system-wide prevention of unrooted access?Because look at it this way: to \"root\" your device something must be changed, right? So the \"rooting program\" or process must entail how this restriction is circumvented. Does anyone here\/can anyone link to anything (or explain it) that explains this process of how the rooting progress allows users access they weren't normally given by default (programmatically; not details on steps to follow in a rooting process and not info on how to root on your phone from a user's point of view; from a developer's point of view). Best example: Say I'm an Android developer and I wish to learn how to create a rooting program. What would I, for example, need to know to do this?",
+    "ViewCount":"1241",
+    "LastActivityDate":"2014-08-01T20:05:51.327",
+    "ClosedDate":"2014-08-04T13:24:15.543",
+    "Title":"Programmatically, how does \"rooting\" a device enable access?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68697",
+    "CreationDate":"2014-08-01T19:29:51.383",
+    "FavoriteCount":"1",
+    "Id":"78576",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T19:29:51.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e40c45c-002a-4ecf-8048-0cb8a09ff46b",
+            "UserId":"68697",
+            "CloseReasonId":null,
+            "PostId":"78576",
+            "PostHistoryTypeId":"2",
+            "Id":"259145",
+            "Text":"From a layman point of view, one would say, \"Oh, I'm unrooted so I am blocked and access is not allowed.\" I want the programmatic point of view; telling me how an unrooted device doesn't have access to the whole filesystem, etc., and how a rooted device has that access.Examples:1.Is the filesystem set by default to disallow reads\/writes to \/system, \/sys, \/data, etc.? 2.Is there something stored in \/system or \/data (such as a program, block device\/file, etc.) that the unrooted OS runs that limits system-wide access on several tasks that rooted users have?3.Does the default \"unrooted\" OS actually have system-wide prevention of unrooted access?Because look at it this way: to \"root\" your device something must be changed, right? So the \"rooting program\" or process must entail how this restriction is circumvented. Does anyone here\/can anyone link to anything (**or explain it**) that explains this process of how the rooting progress allows users access they weren't normally given by default (**programmatically; not details on steps to follow in a rooting process and not info on how to root on your phone from a user's point of view; from a developer's point of view**). **Best example**: Say I'm an Android developer and I wish to learn how to create a rooting program. What would I, for example, need to know to do this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T19:29:51.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e40c45c-002a-4ecf-8048-0cb8a09ff46b",
+            "UserId":"68697",
+            "CloseReasonId":null,
+            "PostId":"78576",
+            "PostHistoryTypeId":"1",
+            "Id":"259146",
+            "Text":"Programmatically, how does \"rooting\" a device enable access?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T19:29:51.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e40c45c-002a-4ecf-8048-0cb8a09ff46b",
+            "UserId":"68697",
+            "CloseReasonId":null,
+            "PostId":"78576",
+            "PostHistoryTypeId":"3",
+            "Id":"259147",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-04T13:24:15.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"56085073-3c1c-4fc7-9a2e-f18c4b791dd9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"78576",
+            "PostHistoryTypeId":"10",
+            "Id":"259758",
+            "Text":"{\"OriginalQuestionIds\":[22884],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

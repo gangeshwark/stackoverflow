@@ -1,0 +1,83 @@
+{
+    "Body":"How do I complete setup when I DONT have Google previous account info. This s phone was given to me",
+    "ViewCount":"17",
+    "LastActivityDate":"2016-02-12T09:39:41.493",
+    "ClosedDate":"2016-02-12T15:17:38.790",
+    "Title":"Bypass google previous account for setup",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2016-02-12T09:39:41.493",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150980",
+    "CreationDate":"2016-02-12T08:20:42.600",
+    "FavoriteCount":"1",
+    "Id":"136880",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T08:20:42.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"0efed30d-242f-437c-a988-3d29ea2313f9",
+            "UserId":"150980",
+            "CloseReasonId":null,
+            "PostId":"136880",
+            "PostHistoryTypeId":"2",
+            "Id":"456110",
+            "Text":"How do I complete setup when I DONT have Google previous account info. This s phone was given to me"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T08:20:42.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"0efed30d-242f-437c-a988-3d29ea2313f9",
+            "UserId":"150980",
+            "CloseReasonId":null,
+            "PostId":"136880",
+            "PostHistoryTypeId":"1",
+            "Id":"456111",
+            "Text":"Bypass google previous account for setup"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T08:20:42.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"0efed30d-242f-437c-a988-3d29ea2313f9",
+            "UserId":"150980",
+            "CloseReasonId":null,
+            "PostId":"136880",
+            "PostHistoryTypeId":"3",
+            "Id":"456112",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-02-12T09:39:41.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"2783bd4b-74b8-4b0b-837f-7ec8444e351a",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"136880",
+            "PostHistoryTypeId":"6",
+            "Id":"456138",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-12T15:17:38.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"2cf82be6-879d-454c-9a67-48dbdf92c66c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"136880",
+            "PostHistoryTypeId":"10",
+            "Id":"456225",
+            "Text":"{\"OriginalQuestionIds\":[127739],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

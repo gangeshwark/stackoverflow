@@ -1,0 +1,71 @@
+{
+    "Body":"How do I move apps from my phone to the external memory. There is no option in settings to do this.",
+    "ViewCount":"84",
+    "LastActivityDate":"2015-02-05T16:26:18.997",
+    "ClosedDate":"2015-02-14T05:52:30.127",
+    "Title":"How do i move apps and then information from the phone to the sd card",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92314",
+    "CreationDate":"2015-01-30T23:40:43.607",
+    "FavoriteCount":null,
+    "Id":"97415",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T23:40:43.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d90c55a-fefc-41bb-88a6-ddebdb43ed82",
+            "UserId":"92314",
+            "CloseReasonId":null,
+            "PostId":"97415",
+            "PostHistoryTypeId":"2",
+            "Id":"317675",
+            "Text":"How do I move apps from my phone to the external memory. There is no option in settings to do this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T23:40:43.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d90c55a-fefc-41bb-88a6-ddebdb43ed82",
+            "UserId":"92314",
+            "CloseReasonId":null,
+            "PostId":"97415",
+            "PostHistoryTypeId":"1",
+            "Id":"317676",
+            "Text":"How do i move apps and then information from the phone to the sd card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T23:40:43.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d90c55a-fefc-41bb-88a6-ddebdb43ed82",
+            "UserId":"92314",
+            "CloseReasonId":null,
+            "PostId":"97415",
+            "PostHistoryTypeId":"3",
+            "Id":"317677",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-14T05:52:30.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"669a9c31-c577-4a68-869c-8a25fc42cc36",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"97415",
+            "PostHistoryTypeId":"10",
+            "Id":"322651",
+            "Text":"{\"OriginalQuestionIds\":[3436],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

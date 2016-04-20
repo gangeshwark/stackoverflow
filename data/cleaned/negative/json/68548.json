@@ -1,0 +1,71 @@
+{
+    "Body":"When I open some application it says Google play services it says \"Google play services which some of your applications rely n do not support or device\"..what should I do about it?",
+    "ViewCount":"50764",
+    "LastActivityDate":"2014-12-08T03:24:00.910",
+    "ClosedDate":"2014-12-10T15:40:07.813",
+    "Title":"google play services do not support your device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"59722",
+    "CreationDate":"2014-05-01T06:30:19.947",
+    "FavoriteCount":null,
+    "Id":"68548",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T06:30:19.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"30d5c466-2955-43b2-921f-8a02db339fa1",
+            "UserId":"59722",
+            "CloseReasonId":null,
+            "PostId":"68548",
+            "PostHistoryTypeId":"2",
+            "Id":"233749",
+            "Text":"When I open some application it says Google play services it says \"Google play services which some of your applications rely n do not support or device\"..what should I do about it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T06:30:19.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"30d5c466-2955-43b2-921f-8a02db339fa1",
+            "UserId":"59722",
+            "CloseReasonId":null,
+            "PostId":"68548",
+            "PostHistoryTypeId":"1",
+            "Id":"233750",
+            "Text":"google play services do not support your device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T06:30:19.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"30d5c466-2955-43b2-921f-8a02db339fa1",
+            "UserId":"59722",
+            "CloseReasonId":null,
+            "PostId":"68548",
+            "PostHistoryTypeId":"3",
+            "Id":"233751",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-10T15:40:07.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"527263d1-ae2d-4e23-8608-7268340fadab",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"68548",
+            "PostHistoryTypeId":"10",
+            "Id":"297844",
+            "Text":"{\"OriginalQuestionIds\":[49910],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

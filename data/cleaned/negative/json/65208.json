@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Samsung gs3 gt 19300 running on cyanogen mod 10.2 stable version, so far it has been smooth other than the  ram problem (which I also encounter when using stock ROM) Whenever I restart, I often have around 300 + MB of free ram (after recent apps are all cleared)  however, a few days later, I find that my free ram drops to less than 100 MB (with all recent apps cleared as well) Well I checked the list of running services on the background and their sizes, but there were the almost the same compared to when the first day after restart, but if the running services are the same, how come the free ram drops that much? What is the problem? Is it memory leak by apps? What's the best way to handle it?",
+    "ViewCount":"680",
+    "LastActivityDate":"2014-03-11T06:59:46.430",
+    "ClosedDate":"2014-03-13T08:05:33.030",
+    "Title":"How come my free ram keeps getting less and less?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"55780",
+    "CreationDate":"2014-03-10T20:39:20.873",
+    "FavoriteCount":null,
+    "Id":"65208",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-10T20:39:20.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e1c168e-0bad-4bff-8180-ea535482bed4",
+            "UserId":"55780",
+            "CloseReasonId":null,
+            "PostId":"65208",
+            "PostHistoryTypeId":"2",
+            "Id":"221958",
+            "Text":"I have a Samsung gs3 gt 19300 running on cyanogen mod 10.2 stable version, so far it has been smooth other than the  ram problem (which I also encounter when using stock ROM) Whenever I restart, I often have around 300 + MB of free ram (after recent apps are all cleared)  however, a few days later, I find that my free ram drops to less than 100 MB (with all recent apps cleared as well) Well I checked the list of running services on the background and their sizes, but there were the almost the same compared to when the first day after restart, but if the running services are the same, how come the free ram drops that much? What is the problem? Is it memory leak by apps? What's the best way to handle it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-10T20:39:20.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e1c168e-0bad-4bff-8180-ea535482bed4",
+            "UserId":"55780",
+            "CloseReasonId":null,
+            "PostId":"65208",
+            "PostHistoryTypeId":"1",
+            "Id":"221959",
+            "Text":"How come my free ram keeps getting less and less?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-10T20:39:20.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e1c168e-0bad-4bff-8180-ea535482bed4",
+            "UserId":"55780",
+            "CloseReasonId":null,
+            "PostId":"65208",
+            "PostHistoryTypeId":"3",
+            "Id":"221960",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-13T08:05:33.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a159d3d-75b1-49a3-baf6-33d05e86f341",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"65208",
+            "PostHistoryTypeId":"10",
+            "Id":"222536",
+            "Text":"{\"OriginalQuestionIds\":[36828],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

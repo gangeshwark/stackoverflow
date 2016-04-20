@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to read Linux and open-source related news from my Android device. My current solution is a gReader Pro, which supports 4x4 widget and I have configured it to display RSS feeds from multiple sources:The problem is, that often those RSS feeds show only the title or short summary and one still needs to visit the web page to read the whole article. Is there a way around this or only solution is to use RSS sources which publish full articles as RSS? In addition, I tried with few \"personal magazin\" apps like Flipboard, but I still ended up at the news-source web-page.",
+    "ViewCount":"25",
+    "LastActivityDate":"2015-07-20T23:08:14.163",
+    "ClosedDate":"2015-07-21T13:23:24.730",
+    "Title":"Ways to consume Linux and open-source related news on Android device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"115854",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117584",
+    "CreationDate":"2015-07-20T22:22:39.120",
+    "FavoriteCount":null,
+    "Id":"115850",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T22:22:39.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"bed9fcba-9ba0-4bcc-9d74-5a48214f9c2c",
+            "UserId":"117584",
+            "CloseReasonId":null,
+            "PostId":"115850",
+            "PostHistoryTypeId":"2",
+            "Id":"380691",
+            "Text":"I would like to read Linux and open-source related news from my Android device. My current solution is a *gReader Pro*, which supports 4x4 widget and I have configured it to display RSS feeds from multiple sources:![gReader][1]The problem is, that often those RSS feeds show only the title or short summary and one still needs to visit the web page to read the whole article. Is there a way around this or only solution is to use RSS sources which publish full articles as RSS? In addition, I tried with few \"personal magazin\" apps like *Flipboard*, but I still ended up at the news-source web-page.  [1]: http:\/\/i.stack.imgur.com\/mjQjW.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T22:22:39.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"bed9fcba-9ba0-4bcc-9d74-5a48214f9c2c",
+            "UserId":"117584",
+            "CloseReasonId":null,
+            "PostId":"115850",
+            "PostHistoryTypeId":"1",
+            "Id":"380692",
+            "Text":"Ways to consume Linux and open-source related news on Android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T22:22:39.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"bed9fcba-9ba0-4bcc-9d74-5a48214f9c2c",
+            "UserId":"117584",
+            "CloseReasonId":null,
+            "PostId":"115850",
+            "PostHistoryTypeId":"3",
+            "Id":"380693",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-21T13:23:24.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"95249873-201b-4191-ab72-7ca356c12dd8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115850",
+            "PostHistoryTypeId":"10",
+            "Id":"380945",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

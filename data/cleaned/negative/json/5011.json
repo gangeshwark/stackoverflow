@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I configure my phone for MMS?  I am using a Samsung GT-I5503 and I can't send an mms. Where can I locate the mms settings so that I can configure it?",
+    "ViewCount":"6607",
+    "LastActivityDate":"2011-01-21T15:04:41.977",
+    "ClosedDate":"2011-01-21T15:16:47.930",
+    "Title":"Where to find the MMS settings?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"5015",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1270",
+    "CreationDate":"2011-01-21T14:09:26.100",
+    "FavoriteCount":null,
+    "Id":"5011",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-21T14:09:26.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e67ae19-80be-494b-a9d5-9e55b66d8791",
+            "UserId":"1270",
+            "CloseReasonId":null,
+            "PostId":"5011",
+            "PostHistoryTypeId":"2",
+            "Id":"10735",
+            "Text":"I am using a Samsung GT-I5503 and I can't send an mms. Where can I locate the mms settings so that I can configure it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-21T14:09:26.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e67ae19-80be-494b-a9d5-9e55b66d8791",
+            "UserId":"1270",
+            "CloseReasonId":null,
+            "PostId":"5011",
+            "PostHistoryTypeId":"1",
+            "Id":"10736",
+            "Text":"Where to find the MMS settings?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-21T14:09:26.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e67ae19-80be-494b-a9d5-9e55b66d8791",
+            "UserId":"1270",
+            "CloseReasonId":null,
+            "PostId":"5011",
+            "PostHistoryTypeId":"3",
+            "Id":"10737",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-01-21T15:16:47.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"a185c77e-03dd-4158-8b36-c01f0c190c5c",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"5011",
+            "PostHistoryTypeId":"10",
+            "Id":"10749",
+            "Text":"{\"OriginalQuestionIds\":[4267],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-01-21T15:16:48.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"86b7508a-127c-4feb-a3f6-e4a8822e5a07",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"5011",
+            "PostHistoryTypeId":"5",
+            "Id":"10750",
+            "Text":"> **Possible Duplicate:**  > [How can I configure my phone for MMS?](http:\/\/android.stackexchange.com\/questions\/4267\/how-can-i-configure-my-phone-for-mms)  I am using a Samsung GT-I5503 and I can't send an mms. Where can I locate the mms settings so that I can configure it?"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Please Help Me.I really don't know how to root this device. I have tried difrrent apps to root, but it seem not to be working...",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-04-11T08:53:10.613",
+    "ClosedDate":"2015-04-12T15:31:41.977",
+    "Title":"Rooting with Samsung Galaxy Note GT-N7000",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101975",
+    "CreationDate":"2015-04-11T08:53:10.613",
+    "FavoriteCount":null,
+    "Id":"105160",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-11T08:53:10.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"16edadc0-cc29-430d-b05c-017fa2d0f82f",
+            "UserId":"101975",
+            "CloseReasonId":null,
+            "PostId":"105160",
+            "PostHistoryTypeId":"2",
+            "Id":"343588",
+            "Text":"Please Help Me.I really don't know how to root this device. I have tried difrrent apps to root, but it seem not to be working..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-11T08:53:10.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"16edadc0-cc29-430d-b05c-017fa2d0f82f",
+            "UserId":"101975",
+            "CloseReasonId":null,
+            "PostId":"105160",
+            "PostHistoryTypeId":"1",
+            "Id":"343589",
+            "Text":"Rooting with Samsung Galaxy Note GT-N7000"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-11T08:53:10.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"16edadc0-cc29-430d-b05c-017fa2d0f82f",
+            "UserId":"101975",
+            "CloseReasonId":null,
+            "PostId":"105160",
+            "PostHistoryTypeId":"3",
+            "Id":"343590",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-12T15:31:41.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"20a144f4-42cc-4bfd-ae81-e6c008df6017",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105160",
+            "PostHistoryTypeId":"10",
+            "Id":"343873",
+            "Text":"{\"OriginalQuestionIds\":[62613],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

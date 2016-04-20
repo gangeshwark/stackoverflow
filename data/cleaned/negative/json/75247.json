@@ -1,0 +1,83 @@
+{
+    "Body":"I'm trying to \"Get Started\" with Setting Up the Preview SDK | Android Developers to Install the L Preview System Image Android L Developer Preview | Android Developers on my Nexus 7 (Wifi) \"razor\".I'm getting following error:mbp:razor-lpv79 alexus$ .\/flash-all.sh .\/flash-all.sh: line 17: fastboot: command not found.\/flash-all.sh: line 18: fastboot: command not found^Cmbp:razor-lpv79 alexus$here is my fastboot, it's in \/Applications\/Android Developer Tools\/sdk\/platform-tools\/ folder:mbp:razor-lpv79 alexus$ ls \/Applications\/Android\\ Developer\\ Tools\/sdk\/platform-tools\/fastboot \/Applications\/Android Developer Tools\/sdk\/platform-tools\/fastbootmbp:razor-lpv79 alexus$ What can I do? I do NOT wish to modify flash-all.sh script (if possible).",
+    "ViewCount":"15695",
+    "LastActivityDate":"2014-11-19T07:40:08.340",
+    "ClosedDate":"2014-11-19T19:36:45.857",
+    "Title":".\/flash-all.sh: line 16: fastboot: command not found",
+    "LastEditorUserId":"1524",
+    "Tags":"",
+    "LastEditDate":"2014-07-01T02:43:52.053",
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"75266",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1524",
+    "CreationDate":"2014-07-01T02:38:05.640",
+    "FavoriteCount":null,
+    "Id":"75247",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T02:38:05.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e076495-7aaf-46d5-9026-cea34a4735f7",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"75247",
+            "PostHistoryTypeId":"2",
+            "Id":"250087",
+            "Text":"I'm trying to \"Get Started\" with [Setting Up the Preview SDK | Android Developers][1] to Install the L Preview System Image [Android L Developer Preview | Android Developers][2] on my Nexus 7 (Wifi) \"razor\".I'm getting following error:    mbp:razor-lpv79 alexus$ .\/flash-all.sh     .\/flash-all.sh: line 17: fastboot: command not found    .\/flash-all.sh: line 18: fastboot: command not found    ^C    mbp:razor-lpv79 alexus$here is my `fastboot`, it's in `\/Applications\/Android Developer Tools\/sdk\/platform-tools\/` folder:    mbp:razor-lpv79 alexus$ ls \/Applications\/Android\\ Developer\\ Tools\/sdk\/platform-tools\/fastboot     \/Applications\/Android Developer Tools\/sdk\/platform-tools\/fastboot    mbp:razor-lpv79 alexus$ What can I do? I do _NOT_ want to modify `flash-all.sh` script.  [1]: http:\/\/developer.android.com\/preview\/setup-sdk.html  [2]: http:\/\/developer.android.com\/preview\/index.html  [3]: https:\/\/developers.google.com\/android\/nexus\/images#instructions"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T02:38:05.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e076495-7aaf-46d5-9026-cea34a4735f7",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"75247",
+            "PostHistoryTypeId":"1",
+            "Id":"250088",
+            "Text":".\/flash-all.sh: line 16: fastboot: command not found"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T02:38:05.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e076495-7aaf-46d5-9026-cea34a4735f7",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"75247",
+            "PostHistoryTypeId":"3",
+            "Id":"250089",
+            "Text":""
+        },
+        {
+            "Comment":"added 16 characters in body",
+            "CreationDate":"2014-07-01T02:43:52.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"db4599f4-2bae-413f-be73-6e1ef4c6b99f",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"75247",
+            "PostHistoryTypeId":"5",
+            "Id":"250091",
+            "Text":"I'm trying to \"Get Started\" with [Setting Up the Preview SDK | Android Developers][1] to Install the L Preview System Image [Android L Developer Preview | Android Developers][2] on my Nexus 7 (Wifi) \"razor\".I'm getting following error:    mbp:razor-lpv79 alexus$ .\/flash-all.sh     .\/flash-all.sh: line 17: fastboot: command not found    .\/flash-all.sh: line 18: fastboot: command not found    ^C    mbp:razor-lpv79 alexus$here is my `fastboot`, it's in `\/Applications\/Android Developer Tools\/sdk\/platform-tools\/` folder:    mbp:razor-lpv79 alexus$ ls \/Applications\/Android\\ Developer\\ Tools\/sdk\/platform-tools\/fastboot     \/Applications\/Android Developer Tools\/sdk\/platform-tools\/fastboot    mbp:razor-lpv79 alexus$ What can I do? I do _NOT_ wish to modify `flash-all.sh` script (if possible).  [1]: http:\/\/developer.android.com\/preview\/setup-sdk.html  [2]: http:\/\/developer.android.com\/preview\/index.html  [3]: https:\/\/developers.google.com\/android\/nexus\/images#instructions"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-11-19T19:36:45.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"fca89441-d883-4f6b-b234-6c2110b22015",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"75247",
+            "PostHistoryTypeId":"10",
+            "Id":"290378",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

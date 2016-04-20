@@ -1,0 +1,83 @@
+{
+    "Body":"I would like to know how to install Touchwiz apps on Cyanogenmod 12.X.",
+    "ViewCount":"5940",
+    "LastActivityDate":"2015-05-13T17:42:33.997",
+    "ClosedDate":"2015-02-24T14:40:54.427",
+    "Title":"How can I install Touchwiz apps on Cyanogenmod?",
+    "LastEditorUserId":"95577",
+    "Tags":"",
+    "LastEditDate":"2015-05-13T17:42:33.997",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"100663",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95577",
+    "CreationDate":"2015-02-23T12:24:35.553",
+    "FavoriteCount":null,
+    "Id":"100645",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-23T12:24:35.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"eab40a60-059f-40cc-8dba-ebb8b682de26",
+            "UserId":"95577",
+            "CloseReasonId":null,
+            "PostId":"100645",
+            "PostHistoryTypeId":"2",
+            "Id":"326914",
+            "Text":"I would like to know how to install Touchwiz apps on Cyanogenmod."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-23T12:24:35.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"eab40a60-059f-40cc-8dba-ebb8b682de26",
+            "UserId":"95577",
+            "CloseReasonId":null,
+            "PostId":"100645",
+            "PostHistoryTypeId":"1",
+            "Id":"326915",
+            "Text":"How can I install Touchwiz apps on Cyanogenmod?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-23T12:24:35.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"eab40a60-059f-40cc-8dba-ebb8b682de26",
+            "UserId":"95577",
+            "CloseReasonId":null,
+            "PostId":"100645",
+            "PostHistoryTypeId":"3",
+            "Id":"326916",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-24T14:40:54.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2aa7dfe-32ef-441b-9211-4df20ceb5f4c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"100645",
+            "PostHistoryTypeId":"10",
+            "Id":"327371",
+            "Text":"{\"OriginalQuestionIds\":[65672],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        },
+        {
+            "Comment":"added 5 characters in body",
+            "CreationDate":"2015-05-13T17:42:33.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"243dd725-2a3d-4de3-8ecf-b86ae2a68cfc",
+            "UserId":"95577",
+            "CloseReasonId":null,
+            "PostId":"100645",
+            "PostHistoryTypeId":"5",
+            "Id":"356359",
+            "Text":"I would like to know how to install Touchwiz apps on Cyanogenmod 12.X."
+        }
+    ]
+}

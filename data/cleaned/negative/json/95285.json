@@ -1,0 +1,71 @@
+{
+    "Body":"I want to transfer a game with my progress form my phone to my tablet. The game is in my Google play account but it does not show my progress when I open the game. Please help!",
+    "ViewCount":"95",
+    "LastActivityDate":"2015-01-08T16:39:52.967",
+    "ClosedDate":"2015-01-11T16:39:42.763",
+    "Title":"Moving app data from galaxy phone to tablet",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"89306",
+    "CreationDate":"2015-01-08T16:32:01.500",
+    "FavoriteCount":null,
+    "Id":"95285",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-08T16:32:01.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"80755c0a-9e05-42a5-9bea-6116c362677c",
+            "UserId":"89306",
+            "CloseReasonId":null,
+            "PostId":"95285",
+            "PostHistoryTypeId":"2",
+            "Id":"310139",
+            "Text":"I want to transfer a game with my progress form my phone to my tablet. The game is in my Google play account but it does not show my progress when I open the game. Please help!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-08T16:32:01.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"80755c0a-9e05-42a5-9bea-6116c362677c",
+            "UserId":"89306",
+            "CloseReasonId":null,
+            "PostId":"95285",
+            "PostHistoryTypeId":"1",
+            "Id":"310140",
+            "Text":"Moving app data from galaxy phone to tablet"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-08T16:32:01.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"80755c0a-9e05-42a5-9bea-6116c362677c",
+            "UserId":"89306",
+            "CloseReasonId":null,
+            "PostId":"95285",
+            "PostHistoryTypeId":"3",
+            "Id":"310141",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-11T16:39:42.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"bcdcb74c-22b2-4d67-ba79-ddeed22b9913",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"95285",
+            "PostHistoryTypeId":"10",
+            "Id":"311125",
+            "Text":"{\"OriginalQuestionIds\":[21112],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

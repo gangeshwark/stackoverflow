@@ -1,0 +1,71 @@
+{
+    "Body":"I am currently using Android Smartphone. I am currently having internet access for my Android Smartphone.I would like to provide internet access to only a single android application, for example: WhatsApp.I do understand that I need to provide internet access to some essential default system apps for the functioning of the phone.Is it possible to selectively provide internet access to few apps and not for other apps?",
+    "ViewCount":"100",
+    "LastActivityDate":"2015-10-07T08:48:29.433",
+    "ClosedDate":"2015-10-07T15:21:40.943",
+    "Title":"How do I provide internet access only to a single Android app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"125222",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"119004",
+    "CreationDate":"2015-10-07T06:59:13.427",
+    "FavoriteCount":null,
+    "Id":"125217",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-07T06:59:13.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"e55b131f-60bd-4732-a6bb-305c288062be",
+            "UserId":"119004",
+            "CloseReasonId":null,
+            "PostId":"125217",
+            "PostHistoryTypeId":"2",
+            "Id":"410148",
+            "Text":"- I am currently using Android Smartphone.  - I am currently having internet access for my Android Smartphone. - I would like to provide internet access to only a single android application, for example: WhatsApp. - I do understand that I need to provide internet access to some essential default system apps for the functioning of the phone. - Is it possible to selectively provide internet access to few apps and not for other apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-07T06:59:13.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"e55b131f-60bd-4732-a6bb-305c288062be",
+            "UserId":"119004",
+            "CloseReasonId":null,
+            "PostId":"125217",
+            "PostHistoryTypeId":"1",
+            "Id":"410149",
+            "Text":"How do I provide internet access only to a single Android app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-07T06:59:13.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"e55b131f-60bd-4732-a6bb-305c288062be",
+            "UserId":"119004",
+            "CloseReasonId":null,
+            "PostId":"125217",
+            "PostHistoryTypeId":"3",
+            "Id":"410150",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-07T15:21:40.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"39313ba7-bb85-4634-b284-f05cc1306cf3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"125217",
+            "PostHistoryTypeId":"10",
+            "Id":"410351",
+            "Text":"{\"OriginalQuestionIds\":[40924,106967],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

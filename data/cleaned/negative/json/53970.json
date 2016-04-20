@@ -1,0 +1,71 @@
+{
+    "Body":"TL;DR: I need a \"Save As\" dialogue for downloading files andespecially images.On my Android device, when I download a file from within Chrome it issaved to a default location with the filename it had on the website.Instead I want to be presented a \"Save As\" style dialogue that allowsme to edit the file name before downloading and (optionally) alsoto specify a target directory.I have found e.g. Download Blazer, which should work at leastfor downloading link targets by abusing the \"share link\" features ofmany browsers. Sadly however it doesn't help me too much:There is no \"Share Link\" for image files embedded with the tag.I need to use Chrome and Chrome apparently has no \"Share Link\".Using copy\/paste to bring the urls to a download manager asdescribed on Download Blazer's store page, is not an optioneither, because I need the clipboard to stay unmodified acrossseveral downloads. Why would I want a \"Save As\" dialogue?I need this behaviour to integrate with my workflow for readingwebcomics: I want to save favorite pages, sometimes all pages, butwant to have them ordered by webcomic. I used to do the orderingafter-the-fact when hundreds of images would have accumulated, becausedoing it everytime I read a webcomic for 10 minutes in the bus wasjust not possible \u2013 I would stop reading when the bus arrived at thetarget, and just not have the time to sort them right away. Sadly thisturned the fun of reading webcomics into something that would causeannoying work later on.What worked for me on the PC was using a save-as dialogue and renamingthe files as I save them. On my iOS device I have bookmarklets thattake me to \"Documents by Readdle\" that provides a browser with \"SaveAs\". Downside: If I am viewing something in e.g. the Feedly in-appbrowser, I have first to switch to chrome and then to Documents inorder to download anything in a meaningful way.Fun fact: The out-of-the-box situation is even worse on iOS than onAndroid. On Android at least the original file name is preserved; OniOS images saved with \"Save Image\" go to the photo roll and are named\"IMG0032\" etc.Why am I so fixated on Chrome?Because I rely heavily on the near-instantaneous, end-to-end encryptedsynchronization of all browser data, particularily opened tabs, bothfrom desktop to mobile and mobile to desktop. After trying somealternatives, I have found that there is no combination of desktop(Windows), Android and iOS browsers, that implements thisfunctionality with the required efficiency and reliability other thanusing Chrome on all devices. ",
+    "ViewCount":"25",
+    "LastActivityDate":"2013-09-26T10:31:30.840",
+    "ClosedDate":"2013-09-27T21:05:36.773",
+    "Title":"Download file, rename right away, including",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"37952",
+    "CreationDate":"2013-09-26T10:31:30.840",
+    "FavoriteCount":null,
+    "Id":"53970",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T10:31:30.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"3045fb75-11aa-4722-bbcd-c48cb6c2af07",
+            "UserId":"37952",
+            "CloseReasonId":null,
+            "PostId":"53970",
+            "PostHistoryTypeId":"2",
+            "Id":"178647",
+            "Text":"*TL;DR: I need a \"Save As\" dialogue for downloading files andespecially images.*On my Android device, when I download a file from within Chrome it issaved to a default location with the filename it had on the website.Instead I want to be presented a \"Save As\" style dialogue that allowsme to edit the file name *before* downloading and (optionally) alsoto specify a target directory.I have found e.g. [Download Blazer][1], which should work at leastfor downloading link targets by abusing the \"share link\" features ofmany browsers. Sadly however it doesn't help me too much:1. There is no \"Share Link\" for image files embedded with the ``   tag.2. I need to use Chrome and Chrome apparently has no \"Share Link\".   Using copy\/paste to bring the urls to a download manager as   described on [Download Blazer's store page][1], is not an option   either, because I need the clipboard to stay unmodified across   several downloads. ----Why would I want a \"Save As\" dialogue?I need this behaviour to integrate with my workflow for readingwebcomics: I want to save favorite pages, sometimes all pages, butwant to have them ordered by webcomic. I used to do the orderingafter-the-fact when hundreds of images would have accumulated, becausedoing it everytime I read a webcomic for 10 minutes in the bus wasjust not possible \u2013 I would stop reading when the bus arrived at thetarget, and just not have the time to sort them right away. Sadly thisturned the fun of reading webcomics into something that would causeannoying work later on.What worked for me on the PC was using a save-as dialogue and renamingthe files as I save them. On my iOS device I have bookmarklets thattake me to \"Documents by Readdle\" that provides a browser with \"SaveAs\". Downside: If I am viewing something in e.g. the Feedly in-appbrowser, I have first to switch to chrome and then to Documents inorder to download anything in a meaningful way.Fun fact: The out-of-the-box situation is even worse on iOS than onAndroid. On Android at least the original file name is preserved; OniOS images saved with \"Save Image\" go to the photo roll and are named\"IMG0032\" etc.  [1]: https:\/\/play.google.com\/store\/apps\/details?id=com.mdjsoftware.download-----Why am I so fixated on Chrome?Because I rely heavily on the near-instantaneous, end-to-end encryptedsynchronization of all browser data, particularily opened tabs, bothfrom desktop to mobile and mobile to desktop. After trying somealternatives, I have found that there is no combination of desktop(Windows), Android and iOS browsers, that implements thisfunctionality with the required efficiency and reliability other thanusing Chrome on all devices. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T10:31:30.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"3045fb75-11aa-4722-bbcd-c48cb6c2af07",
+            "UserId":"37952",
+            "CloseReasonId":null,
+            "PostId":"53970",
+            "PostHistoryTypeId":"1",
+            "Id":"178648",
+            "Text":"Download file, rename right away, including"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T10:31:30.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"3045fb75-11aa-4722-bbcd-c48cb6c2af07",
+            "UserId":"37952",
+            "CloseReasonId":null,
+            "PostId":"53970",
+            "PostHistoryTypeId":"3",
+            "Id":"178649",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-27T21:05:36.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"4bdafa86-5294-4bb3-801c-2d557d879539",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"53970",
+            "PostHistoryTypeId":"10",
+            "Id":"179052",
+            "Text":"{\"OriginalQuestionIds\":[39267],\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

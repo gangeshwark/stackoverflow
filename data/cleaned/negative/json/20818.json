@@ -1,0 +1,71 @@
+{
+    "Body":"I have connected eclipse to my Galaxy S II and i receive a wierd log tag named [HYPOS] what is that i am worried about my privacy. ",
+    "ViewCount":"291",
+    "LastActivityDate":"2012-03-20T14:43:06.340",
+    "ClosedDate":"2012-03-20T16:35:04.047",
+    "Title":"Wierd log tag on SAMSUNG GALAXY S II",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13558",
+    "CreationDate":"2012-03-20T11:25:57.360",
+    "FavoriteCount":null,
+    "Id":"20818",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-20T11:25:57.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d6fb335-a59b-489c-a789-ff4d5719540b",
+            "UserId":"13558",
+            "CloseReasonId":null,
+            "PostId":"20818",
+            "PostHistoryTypeId":"2",
+            "Id":"58108",
+            "Text":"I have connected eclipse to my Galaxy S II and i receive a wierd log tag named [HYPOS] what is that i am worried about my privacy. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-20T11:25:57.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d6fb335-a59b-489c-a789-ff4d5719540b",
+            "UserId":"13558",
+            "CloseReasonId":null,
+            "PostId":"20818",
+            "PostHistoryTypeId":"1",
+            "Id":"58109",
+            "Text":"Wierd log tag on SAMSUNG GALAXY S II"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-20T11:25:57.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d6fb335-a59b-489c-a789-ff4d5719540b",
+            "UserId":"13558",
+            "CloseReasonId":null,
+            "PostId":"20818",
+            "PostHistoryTypeId":"3",
+            "Id":"58110",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-03-20T16:35:04.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7567c5c-1273-490b-abf6-a161a0b1452e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20818",
+            "PostHistoryTypeId":"10",
+            "Id":"58149",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

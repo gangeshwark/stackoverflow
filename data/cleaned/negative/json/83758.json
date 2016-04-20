@@ -1,0 +1,71 @@
+{
+    "Body":"I'm charging my Nexus 4 with an AC wall charger with 1A voltage. I want to connect my 2.0A charger but I have been told this may cause battery problems. Is there any truth to that or is it safe to charge my phone with a stronger charger?",
+    "ViewCount":"23",
+    "LastActivityDate":"2014-09-30T16:22:25.700",
+    "ClosedDate":"2014-10-13T01:54:27.737",
+    "Title":"Does charging my Nexus 4 with high voltage charger can cause battery damage?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"74754",
+    "CreationDate":"2014-09-30T16:22:25.700",
+    "FavoriteCount":null,
+    "Id":"83758",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-30T16:22:25.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"16c331bc-19fa-4ad2-ae00-5a329f68aac5",
+            "UserId":"74754",
+            "CloseReasonId":null,
+            "PostId":"83758",
+            "PostHistoryTypeId":"2",
+            "Id":"274749",
+            "Text":"I'm charging my Nexus 4 with an AC wall charger with 1A voltage. I want to connect my 2.0A charger but I have been told this may cause battery problems. Is there any truth to that or is it safe to charge my phone with a stronger charger?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-30T16:22:25.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"16c331bc-19fa-4ad2-ae00-5a329f68aac5",
+            "UserId":"74754",
+            "CloseReasonId":null,
+            "PostId":"83758",
+            "PostHistoryTypeId":"1",
+            "Id":"274750",
+            "Text":"Does charging my Nexus 4 with high voltage charger can cause battery damage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-30T16:22:25.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"16c331bc-19fa-4ad2-ae00-5a329f68aac5",
+            "UserId":"74754",
+            "CloseReasonId":null,
+            "PostId":"83758",
+            "PostHistoryTypeId":"3",
+            "Id":"274751",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-13T01:54:27.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ab50543-7cc9-4ff7-b9b6-daafbaf546d1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"83758",
+            "PostHistoryTypeId":"10",
+            "Id":"278167",
+            "Text":"{\"OriginalQuestionIds\":[13448],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

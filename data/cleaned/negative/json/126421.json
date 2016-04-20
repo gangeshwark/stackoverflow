@@ -1,0 +1,71 @@
+{
+    "Body":"This is a conceptual doubt I have. Request some one to resolve my doubt. I have an app of size of 4.5MB and I am calculating memory usage of processes in the app. I am getting each process memory usage as 16MB...final Runtime rt = Runtime.getRuntime();rt.gc();final double startSize = rt.totalMemory()-rt.freeMemory();What I am getting is correct or wrong?Does it mean that Memory usage of app same is same as size of app?",
+    "ViewCount":"35",
+    "LastActivityDate":"2015-10-19T12:06:04.680",
+    "ClosedDate":"2015-10-22T19:48:56.307",
+    "Title":"Does it mean that Memory usage of app same as size of app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"7",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"126423",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129762",
+    "CreationDate":"2015-10-19T11:54:46.873",
+    "FavoriteCount":"1",
+    "Id":"126421",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T11:54:46.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9c628eb-7122-4833-8b83-fe1cd7ab92fe",
+            "UserId":"129762",
+            "CloseReasonId":null,
+            "PostId":"126421",
+            "PostHistoryTypeId":"2",
+            "Id":"414799",
+            "Text":"This is a conceptual doubt I have. Request some one to resolve my doubt. I have an app of size of 4.5MB and I am calculating memory usage of processes in the app. I am getting each process memory usage as 16MB...final Runtime rt = Runtime.getRuntime();rt.gc();final double startSize = rt.totalMemory()-rt.freeMemory();What I am getting is correct or wrong?Does it mean that Memory usage of app same is same as size of app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T11:54:46.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9c628eb-7122-4833-8b83-fe1cd7ab92fe",
+            "UserId":"129762",
+            "CloseReasonId":null,
+            "PostId":"126421",
+            "PostHistoryTypeId":"1",
+            "Id":"414800",
+            "Text":"Does it mean that Memory usage of app same as size of app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T11:54:46.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9c628eb-7122-4833-8b83-fe1cd7ab92fe",
+            "UserId":"129762",
+            "CloseReasonId":null,
+            "PostId":"126421",
+            "PostHistoryTypeId":"3",
+            "Id":"414801",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-10-22T19:48:56.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"05d65df6-da95-4fe5-b7d4-f7c4b52acfaf",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"126421",
+            "PostHistoryTypeId":"10",
+            "Id":"416068",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

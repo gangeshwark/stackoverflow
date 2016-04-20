@@ -1,0 +1,71 @@
+{
+    "Body":"I want to flash a vanilla Android ROM in my Xiaomi Redmi Note 3G, where is it possibile to download it?",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-02-11T15:25:42.927",
+    "ClosedDate":"2016-02-11T19:13:55.970",
+    "Title":"Where can I obtain vanilla Android ROMs?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150867",
+    "CreationDate":"2016-02-11T15:25:42.927",
+    "FavoriteCount":null,
+    "Id":"136815",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-11T15:25:42.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"36446ab7-e0d2-429d-a0c5-7d2b998efa4f",
+            "UserId":"150867",
+            "CloseReasonId":null,
+            "PostId":"136815",
+            "PostHistoryTypeId":"2",
+            "Id":"455897",
+            "Text":"I want to flash a vanilla Android ROM in my Xiaomi Redmi Note 3G, where is it possibile to download it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-11T15:25:42.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"36446ab7-e0d2-429d-a0c5-7d2b998efa4f",
+            "UserId":"150867",
+            "CloseReasonId":null,
+            "PostId":"136815",
+            "PostHistoryTypeId":"1",
+            "Id":"455898",
+            "Text":"Where can I obtain vanilla Android ROMs?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-11T15:25:42.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"36446ab7-e0d2-429d-a0c5-7d2b998efa4f",
+            "UserId":"150867",
+            "CloseReasonId":null,
+            "PostId":"136815",
+            "PostHistoryTypeId":"3",
+            "Id":"455899",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-11T19:13:55.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"29d40afc-30a2-4c71-aeff-34c9e2c2fe28",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"136815",
+            "PostHistoryTypeId":"10",
+            "Id":"455948",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"What is the best way to be notified of an apps' update that is not installed on my phone? Is there a site place such as the Play store, Playboard, Aptoide or elsewhere that I can get an rss feed, email or another way of notification?For example, I do not have Google Camera installed, but I may want to install it when a new feature I'm looking for has been added to it.I am aware of the defunct app, \"Changelog Droid\" which is no longer maintained since January 2014. \"The app is currently not maintained. There is an (unlikely to be fixed) issue with paid apps. Please don't contact me in this regard.\" So an alternative solution beyond that would be greatly appreciated.",
+    "ViewCount":"26",
+    "LastActivityDate":"2015-04-08T07:13:11.870",
+    "ClosedDate":"2015-04-08T14:24:43.000",
+    "Title":"How can I be notified of updates for apps that I do not have installed?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18330",
+    "CreationDate":"2015-04-08T07:13:11.870",
+    "FavoriteCount":"1",
+    "Id":"104814",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T07:13:11.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"79f836a0-a14e-4d91-88d5-7efdacb6bca2",
+            "UserId":"18330",
+            "CloseReasonId":null,
+            "PostId":"104814",
+            "PostHistoryTypeId":"2",
+            "Id":"342258",
+            "Text":"What is the best way to be notified of an apps' update that is not installed on my phone? Is there a site place such as the Play store, Playboard, Aptoide or elsewhere that I can get an rss feed, email or another way of notification?For example, I do not have Google Camera installed, but I may want to install it when a new feature I'm looking for has been added to it.I am aware of the defunct app, \"Changelog Droid\" which is no longer maintained since January 2014. \"The app is currently not maintained. There is an (unlikely to be fixed) issue with paid apps. Please don't contact me in this regard.\" So an alternative solution beyond that would be greatly appreciated."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T07:13:11.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"79f836a0-a14e-4d91-88d5-7efdacb6bca2",
+            "UserId":"18330",
+            "CloseReasonId":null,
+            "PostId":"104814",
+            "PostHistoryTypeId":"1",
+            "Id":"342259",
+            "Text":"How can I be notified of updates for apps that I do not have installed?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T07:13:11.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"79f836a0-a14e-4d91-88d5-7efdacb6bca2",
+            "UserId":"18330",
+            "CloseReasonId":null,
+            "PostId":"104814",
+            "PostHistoryTypeId":"3",
+            "Id":"342260",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-08T14:24:43.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"02cc9b84-7f54-4027-b6d3-90cf2da9de97",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104814",
+            "PostHistoryTypeId":"10",
+            "Id":"342396",
+            "Text":"{\"OriginalQuestionIds\":[51583],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

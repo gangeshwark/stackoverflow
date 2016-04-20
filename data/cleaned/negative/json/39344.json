@@ -1,0 +1,83 @@
+{
+    "Body":"I am new to Galaxy S3 abd am trying to download apps. With each one I get the list of settings the app wishes to share\/link. With the i-phone there is the yes\/no option of allowing this control, but I am not able to do this with the S3. I do not particulary want the app to share\/control me details etc.Is there another way of downloading apps?",
+    "ViewCount":"33",
+    "LastActivityDate":"2013-02-10T14:47:04.537",
+    "ClosedDate":"2013-02-10T15:52:22.640",
+    "Title":"apps wanting setting control",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-02-10T14:47:04.537",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"28199",
+    "CreationDate":"2013-02-10T13:42:14.033",
+    "FavoriteCount":null,
+    "Id":"39344",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-10T13:42:14.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2060033-56f1-4cec-9e19-982a39ab5768",
+            "UserId":"28199",
+            "CloseReasonId":null,
+            "PostId":"39344",
+            "PostHistoryTypeId":"2",
+            "Id":"121339",
+            "Text":"I am new to Galaxy S3 abd am trying to download apps. With each one I get the list of settings the app wishes to share\/link. With the i-phone there is the yes\/no option of allowing this control, but I am not able to do this with the S3. I do not particulary want the app to share\/control me details etc.Is there another way of downloading apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-10T13:42:14.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2060033-56f1-4cec-9e19-982a39ab5768",
+            "UserId":"28199",
+            "CloseReasonId":null,
+            "PostId":"39344",
+            "PostHistoryTypeId":"1",
+            "Id":"121340",
+            "Text":"apps wanting setting control"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-10T13:42:14.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2060033-56f1-4cec-9e19-982a39ab5768",
+            "UserId":"28199",
+            "CloseReasonId":null,
+            "PostId":"39344",
+            "PostHistoryTypeId":"3",
+            "Id":"121341",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-02-10T14:47:04.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"416b8e56-2001-4160-a651-780e4ae73531",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"39344",
+            "PostHistoryTypeId":"6",
+            "Id":"121352",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-10T15:52:22.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5a17ddf-fdbd-4cb0-b3a1-50e495d885fd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"39344",
+            "PostHistoryTypeId":"10",
+            "Id":"121359",
+            "Text":"{\"OriginalQuestionIds\":[3091],\"Voters\":[{\"Id\":267,\"DisplayName\":\"user1\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

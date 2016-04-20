@@ -1,0 +1,71 @@
+{
+    "Body":"How to get root access in android ?. While  I am trying su or sudo in my samsung galaxy core phone ,I am getting \/system\/bin\/sh :sudo :not found",
+    "ViewCount":"74",
+    "LastActivityDate":"2015-03-08T17:39:28.233",
+    "ClosedDate":"2015-03-08T21:44:38.283",
+    "Title":"Root access in android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97289",
+    "CreationDate":"2015-03-08T17:17:24.233",
+    "FavoriteCount":null,
+    "Id":"101900",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-08T17:17:24.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e28875a-6f66-40d0-a8ee-f3ec1e1749f8",
+            "UserId":"97289",
+            "CloseReasonId":null,
+            "PostId":"101900",
+            "PostHistoryTypeId":"2",
+            "Id":"331597",
+            "Text":"How to get root access in android ?. While  I am trying su or sudo in my samsung galaxy core phone ,I am getting \/system\/bin\/sh :sudo :not found"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-08T17:17:24.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e28875a-6f66-40d0-a8ee-f3ec1e1749f8",
+            "UserId":"97289",
+            "CloseReasonId":null,
+            "PostId":"101900",
+            "PostHistoryTypeId":"1",
+            "Id":"331598",
+            "Text":"Root access in android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-08T17:17:24.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e28875a-6f66-40d0-a8ee-f3ec1e1749f8",
+            "UserId":"97289",
+            "CloseReasonId":null,
+            "PostId":"101900",
+            "PostHistoryTypeId":"3",
+            "Id":"331599",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-08T21:44:38.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"95c954eb-6bd6-4bb7-b907-e19663507cef",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"101900",
+            "PostHistoryTypeId":"10",
+            "Id":"331667",
+            "Text":"{\"OriginalQuestionIds\":[1184],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"The device is Samsung i9100. I have downloaded the latest AndroidStudio and going to modifyor create an addon for AOSP contact app.The system itself is present on the website https:\/\/download.cyanogenmod.org\/?device=i9100Does anyone know how to go about Cyanogen emulation?Also, what I am trying to do is explained by me at Modifying android system apps.Guys, do I really need to emulate CyanogenMod? Or can I just modify \"aosp contacts app\" testing it under any android emulator and then putting my changes into the CyanogenMod package for Samsung i9100?",
+    "ViewCount":"1166",
+    "LastActivityDate":"2014-10-23T14:46:52.833",
+    "ClosedDate":"2014-11-15T19:13:58.163",
+    "Title":"CyanogenMod emulation",
+    "LastEditorUserId":"77423",
+    "Tags":"",
+    "LastEditDate":"2014-10-23T14:13:37.277",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"85618",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"77423",
+    "CreationDate":"2014-10-23T13:29:53.193",
+    "FavoriteCount":null,
+    "Id":"85608",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-23T13:29:53.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dff3c19-411e-4907-9b4f-6b97c63d5bfa",
+            "UserId":"77423",
+            "CloseReasonId":null,
+            "PostId":"85608",
+            "PostHistoryTypeId":"2",
+            "Id":"281375",
+            "Text":"The device is Samsung i9100. I have downloaded the latest AndroidStudio and going to modifyor create an addon for AOSP contact app.The system itself is present on the website [https:\/\/download.cyanogenmod.org\/?device=i9100][1]Does anyone know how to go about Cyanogen emulation?  [1]: https:\/\/download.cyanogenmod.org\/?device=i9100"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-23T13:29:53.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dff3c19-411e-4907-9b4f-6b97c63d5bfa",
+            "UserId":"77423",
+            "CloseReasonId":null,
+            "PostId":"85608",
+            "PostHistoryTypeId":"1",
+            "Id":"281376",
+            "Text":"CyanogenMod emulation"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-23T13:29:53.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dff3c19-411e-4907-9b4f-6b97c63d5bfa",
+            "UserId":"77423",
+            "CloseReasonId":null,
+            "PostId":"85608",
+            "PostHistoryTypeId":"3",
+            "Id":"281377",
+            "Text":""
+        },
+        {
+            "Comment":"added 433 characters in body",
+            "CreationDate":"2014-10-23T14:13:37.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"5d1af63e-a3ee-40af-90fd-f7e9be44dc0f",
+            "UserId":"77423",
+            "CloseReasonId":null,
+            "PostId":"85608",
+            "PostHistoryTypeId":"5",
+            "Id":"281401",
+            "Text":"The device is Samsung i9100. I have downloaded the latest AndroidStudio and going to modifyor create an addon for AOSP contact app.The system itself is present on the website [https:\/\/download.cyanogenmod.org\/?device=i9100][1]Does anyone know how to go about Cyanogen emulation?Also, what I am trying to do is explained by me at [http:\/\/android.stackexchange.com\/questions\/85613\/modifying-android-system-apps][2].Guys, do I really need to emulate CyanogenMod? Or can I just modify \"aosp contacts app\" testing it under any android emulator and then putting my changes into the CyanogenMod package for Samsung i9100?  [1]: https:\/\/download.cyanogenmod.org\/?device=i9100  [2]: http:\/\/android.stackexchange.com\/questions\/85613\/modifying-android-system-apps"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-11-15T19:13:58.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc488718-73cf-4495-9315-7aabaf90c5b5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"85608",
+            "PostHistoryTypeId":"10",
+            "Id":"288807",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

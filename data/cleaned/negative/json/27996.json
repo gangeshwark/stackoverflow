@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Jelly Bean OTA fails on Galaxy Nexus, how to fix?  Their is another post about it here: Jelly Bean OTA fails on Galaxy Nexus, how to fix?But I have no idea how to post feedback in it like the other people or a reply to the answer.I tried the fix from that question but it doesn't work, it only allows me to redownload the update but keeps failing it.For those who haven't read the feedback in the other thread, the update is stopped after a few seconds and the android is flat on his back with an exclamation mark over his stomach.I really want to get this working.",
+    "ViewCount":"51",
+    "LastActivityDate":"2012-08-20T19:31:51.513",
+    "ClosedDate":"2012-08-22T12:59:58.030",
+    "Title":"Failing to update android 4.1 - Galaxy Nexus",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18324",
+    "CreationDate":"2012-08-20T19:31:51.513",
+    "FavoriteCount":"1",
+    "Id":"27996",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-20T19:31:51.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"fca3cd42-ef0e-48e5-a8b6-d21eab0eaada",
+            "UserId":"18324",
+            "CloseReasonId":null,
+            "PostId":"27996",
+            "PostHistoryTypeId":"2",
+            "Id":"81614",
+            "Text":"Their is another post about it here: http:\/\/android.stackexchange.com\/questions\/27508\/jelly-bean-ota-fails-on-galaxy-nexus-how-to-fixBut I have no idea how to post feedback in it like the other people or a reply to the answer.I tried the fix from that question but it doesn't work, it only allows me to redownload the update but keeps failing it.For those who haven't read the feedback in the other thread, the update is stopped after a few seconds and the android is flat on his back with an exclamation mark over his stomach.I really want to get this working."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-20T19:31:51.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"fca3cd42-ef0e-48e5-a8b6-d21eab0eaada",
+            "UserId":"18324",
+            "CloseReasonId":null,
+            "PostId":"27996",
+            "PostHistoryTypeId":"1",
+            "Id":"81615",
+            "Text":"Failing to update android 4.1 - Galaxy Nexus"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-20T19:31:51.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"fca3cd42-ef0e-48e5-a8b6-d21eab0eaada",
+            "UserId":"18324",
+            "CloseReasonId":null,
+            "PostId":"27996",
+            "PostHistoryTypeId":"3",
+            "Id":"81616",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-22T12:59:58.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1f56c03-3c64-4b48-b9f2-e3f0b79209ea",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27996",
+            "PostHistoryTypeId":"5",
+            "Id":"81960",
+            "Text":"> **Possible Duplicate:**  > [Jelly Bean OTA fails on Galaxy Nexus, how to fix?](http:\/\/android.stackexchange.com\/questions\/27508\/jelly-bean-ota-fails-on-galaxy-nexus-how-to-fix)  Their is another post about it here: http:\/\/android.stackexchange.com\/questions\/27508\/jelly-bean-ota-fails-on-galaxy-nexus-how-to-fixBut I have no idea how to post feedback in it like the other people or a reply to the answer.I tried the fix from that question but it doesn't work, it only allows me to redownload the update but keeps failing it.For those who haven't read the feedback in the other thread, the update is stopped after a few seconds and the android is flat on his back with an exclamation mark over his stomach.I really want to get this working."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-22T12:59:58.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"46c2ed54-4c88-4d49-a9c3-39b8fdd1eda0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27996",
+            "PostHistoryTypeId":"10",
+            "Id":"81961",
+            "Text":"{\"OriginalQuestionIds\":[27508],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":15,\"DisplayName\":\"gary comtois\"}]}"
+        }
+    ]
+}

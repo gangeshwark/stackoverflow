@@ -1,0 +1,83 @@
+{
+    "Body":"I have Samsung GalaxyS2. Is there a way to set the default install location to SD card of all downloaded apps from play store. ",
+    "ViewCount":"75985",
+    "LastActivityDate":"2014-10-28T07:40:15.377",
+    "ClosedDate":"2014-10-29T19:57:19.387",
+    "Title":"Set Android device default install location to external SD card",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"78020",
+    "CreationDate":"2014-10-28T01:00:52.833",
+    "FavoriteCount":"1",
+    "Id":"86025",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/832558\/set-android-device-default-install-location-to-external-sd-card",
+            "CreationDate":"2014-10-28T05:24:32.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"7974faf4-3b90-4039-94fa-038e16a69f06",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"86025",
+            "PostHistoryTypeId":"36",
+            "Id":"282804",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-28T01:00:52.833",
+            "UserDisplayName":"kyrto.gyz",
+            "RevisionGUID":"15075425-d059-4234-9e48-59a5e4d63e26",
+            "UserId":"78020",
+            "CloseReasonId":null,
+            "PostId":"86025",
+            "PostHistoryTypeId":"2",
+            "Id":"282807",
+            "Text":"I have Samsung GalaxyS2. Is there a way to set the default install location to SD card of all downloaded apps from play store. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-28T01:00:52.833",
+            "UserDisplayName":"kyrto.gyz",
+            "RevisionGUID":"15075425-d059-4234-9e48-59a5e4d63e26",
+            "UserId":"78020",
+            "CloseReasonId":null,
+            "PostId":"86025",
+            "PostHistoryTypeId":"1",
+            "Id":"282808",
+            "Text":"Set Android device default install location to external SD card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-28T01:00:52.833",
+            "UserDisplayName":"kyrto.gyz",
+            "RevisionGUID":"15075425-d059-4234-9e48-59a5e4d63e26",
+            "UserId":"78020",
+            "CloseReasonId":null,
+            "PostId":"86025",
+            "PostHistoryTypeId":"3",
+            "Id":"282809",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-29T19:57:19.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"823c324e-afbf-4378-a8cb-5bd0bb38e059",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"86025",
+            "PostHistoryTypeId":"10",
+            "Id":"283418",
+            "Text":"{\"OriginalQuestionIds\":[43517],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

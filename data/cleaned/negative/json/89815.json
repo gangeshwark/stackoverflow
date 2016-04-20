@@ -1,0 +1,71 @@
+{
+    "Body":"While reading a book on android it tells that \"Applications might also enforce their own permissions by declaring them for other applications to use.The applications can declare any number of different permission types,such as read-only or read-write permissions,for finer control over the application.\"I couldn't get why do applications need to set read-write or read-only permissions for allowing another application to use it's applications.For example as illustrated in android developer it shows how an application uses another map applications to show it's address.But why do we(app) need to set read-only or read-write permissions for allowing another app to use it.Could anyone help me.",
+    "ViewCount":"138",
+    "LastActivityDate":"2014-12-05T13:38:43.287",
+    "ClosedDate":"2014-12-12T13:13:06.367",
+    "Title":"Why do applications enforce read-write and read-only permissions for other apps to use it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82909",
+    "CreationDate":"2014-12-05T11:59:25.497",
+    "FavoriteCount":null,
+    "Id":"89815",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-05T11:59:25.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"445970b2-6bb5-460a-89c2-3e0b55f1b185",
+            "UserId":"82909",
+            "CloseReasonId":null,
+            "PostId":"89815",
+            "PostHistoryTypeId":"2",
+            "Id":"296084",
+            "Text":"While reading a book on [android] it tells that \"Applications might also enforce their own permissions by declaring them for other applications to use.The applications can declare any number of different permission types,such as read-only or read-write permissions,for finer control over the application.\"I couldn't get why do applications need to set **read-write** or **read-only** permissions for allowing *another* application to use it's applications.For example as illustrated in [android developer] it shows how an application uses another map applications to show it's address.But why do we(app) need to set **read-only** or **read-write** permissions for allowing *another* app to use it.Could anyone help me.[android]:http:\/\/books.google.co.in\/books\/about\/Android_Wireless_Application_Development.html?id=LFBXd7hjAe0C&redir_esc=y[android developer]:http:\/\/developer.android.com\/training\/basics\/intents\/sending.html"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-05T11:59:25.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"445970b2-6bb5-460a-89c2-3e0b55f1b185",
+            "UserId":"82909",
+            "CloseReasonId":null,
+            "PostId":"89815",
+            "PostHistoryTypeId":"1",
+            "Id":"296085",
+            "Text":"Why do applications enforce read-write and read-only permissions for other apps to use it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-05T11:59:25.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"445970b2-6bb5-460a-89c2-3e0b55f1b185",
+            "UserId":"82909",
+            "CloseReasonId":null,
+            "PostId":"89815",
+            "PostHistoryTypeId":"3",
+            "Id":"296086",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-12T13:13:06.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc3c269b-4ec2-42ce-b92a-eeb93bf64208",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"89815",
+            "PostHistoryTypeId":"10",
+            "Id":"299516",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

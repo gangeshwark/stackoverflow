@@ -1,0 +1,71 @@
+{
+    "Body":"What to do ?I can not install any application in my device? I have tried clearing cache of all the applications .",
+    "ViewCount":"2185",
+    "LastActivityDate":"2015-01-05T07:29:01.100",
+    "ClosedDate":"2015-01-05T18:07:18.293",
+    "Title":"insufficient space on the device in my Micromax canvas 4 what to do",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87827",
+    "CreationDate":"2015-01-05T06:49:56.810",
+    "FavoriteCount":null,
+    "Id":"93881",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-05T06:49:56.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f2e743e-3582-40d1-8d37-b3301fee3f87",
+            "UserId":"87827",
+            "CloseReasonId":null,
+            "PostId":"93881",
+            "PostHistoryTypeId":"2",
+            "Id":"307833",
+            "Text":"What to do ?I can not install any application in my device? I have tried clearing cache of all the applications ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-05T06:49:56.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f2e743e-3582-40d1-8d37-b3301fee3f87",
+            "UserId":"87827",
+            "CloseReasonId":null,
+            "PostId":"93881",
+            "PostHistoryTypeId":"1",
+            "Id":"307834",
+            "Text":"insufficient space on the device in my Micromax canvas 4 what to do"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-05T06:49:56.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f2e743e-3582-40d1-8d37-b3301fee3f87",
+            "UserId":"87827",
+            "CloseReasonId":null,
+            "PostId":"93881",
+            "PostHistoryTypeId":"3",
+            "Id":"307835",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-05T18:07:18.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"528177d8-a871-4377-835f-fb98fb66abb1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"93881",
+            "PostHistoryTypeId":"10",
+            "Id":"308086",
+            "Text":"{\"OriginalQuestionIds\":[2065],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

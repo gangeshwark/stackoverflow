@@ -1,0 +1,71 @@
+{
+    "Body":"The phone is a Moto G running Android 4.4.4.The problem happens when trying to install Facebook.I've tried clearing the cache for Google Play Services and Google Play Store.The \"Uninstall updates\" button in Google Play Services is greyed out.How can I fix this issue? Thank you very much.",
+    "ViewCount":"124",
+    "LastActivityDate":"2015-03-13T01:26:30.053",
+    "ClosedDate":"2015-03-13T14:28:30.920",
+    "Title":"RPC:S-2:AEC-2 when trying to install Facebook",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81973",
+    "CreationDate":"2015-03-12T23:21:29.480",
+    "FavoriteCount":null,
+    "Id":"102339",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T23:21:29.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d80e841-99f1-4000-921c-0f63265f7c6e",
+            "UserId":"81973",
+            "CloseReasonId":null,
+            "PostId":"102339",
+            "PostHistoryTypeId":"2",
+            "Id":"333231",
+            "Text":"The phone is a Moto G running Android 4.4.4.The problem happens when trying to install Facebook.I've tried clearing the cache for Google Play Services and Google Play Store.The \"Uninstall updates\" button in Google Play Services is greyed out.How can I fix this issue? Thank you very much."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T23:21:29.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d80e841-99f1-4000-921c-0f63265f7c6e",
+            "UserId":"81973",
+            "CloseReasonId":null,
+            "PostId":"102339",
+            "PostHistoryTypeId":"1",
+            "Id":"333232",
+            "Text":"RPC:S-2:AEC-2 when trying to install Facebook"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T23:21:29.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d80e841-99f1-4000-921c-0f63265f7c6e",
+            "UserId":"81973",
+            "CloseReasonId":null,
+            "PostId":"102339",
+            "PostHistoryTypeId":"3",
+            "Id":"333233",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-13T14:28:30.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2b59006-222d-4a8d-af18-a2c9643780ef",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"102339",
+            "PostHistoryTypeId":"10",
+            "Id":"333504",
+            "Text":"{\"OriginalQuestionIds\":[87489],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

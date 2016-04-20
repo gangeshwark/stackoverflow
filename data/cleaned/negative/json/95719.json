@@ -1,0 +1,71 @@
+{
+    "Body":"Recently purchased a ZTE blade L2 . After uninstalling my BBM my store cannot now upgrade or download apps . Tried everthing . Keeps chucking a Error code of (495) ",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-01-13T08:07:49.677",
+    "ClosedDate":"2015-01-15T11:39:11.760",
+    "Title":"apps not upgrading or downloading",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"89874",
+    "CreationDate":"2015-01-13T08:07:49.677",
+    "FavoriteCount":null,
+    "Id":"95719",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-13T08:07:49.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"53eb9960-6a4c-4c90-99b0-3b0a5f981175",
+            "UserId":"89874",
+            "CloseReasonId":null,
+            "PostId":"95719",
+            "PostHistoryTypeId":"2",
+            "Id":"311628",
+            "Text":"Recently purchased a ZTE blade L2 . After uninstalling my BBM my store cannot now upgrade or download apps . Tried everthing . Keeps chucking a Error code of (495) "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-13T08:07:49.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"53eb9960-6a4c-4c90-99b0-3b0a5f981175",
+            "UserId":"89874",
+            "CloseReasonId":null,
+            "PostId":"95719",
+            "PostHistoryTypeId":"1",
+            "Id":"311629",
+            "Text":"apps not upgrading or downloading"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-13T08:07:49.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"53eb9960-6a4c-4c90-99b0-3b0a5f981175",
+            "UserId":"89874",
+            "CloseReasonId":null,
+            "PostId":"95719",
+            "PostHistoryTypeId":"3",
+            "Id":"311630",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-15T11:39:11.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebf55c74-1989-4dda-a3f8-3e469fe293c2",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"95719",
+            "PostHistoryTypeId":"10",
+            "Id":"312313",
+            "Text":"{\"OriginalQuestionIds\":[23055],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I downloaded fifa 15 and deleted it,I tried to redoeload it and it wasn't being download due to errow 905 .",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-06-26T17:01:09.793",
+    "ClosedDate":"2015-06-26T17:03:31.050",
+    "Title":"Could not be downloaded due to errow 905",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"114353",
+    "CreationDate":"2015-06-26T17:01:09.793",
+    "FavoriteCount":null,
+    "Id":"113525",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-26T17:01:09.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"88f832b4-327d-4955-83cc-2f59d09fb8ac",
+            "UserId":"114353",
+            "CloseReasonId":null,
+            "PostId":"113525",
+            "PostHistoryTypeId":"2",
+            "Id":"372058",
+            "Text":"I downloaded fifa 15 and deleted it,I tried to redoeload it and it wasn't being download due to errow 905 ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-26T17:01:09.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"88f832b4-327d-4955-83cc-2f59d09fb8ac",
+            "UserId":"114353",
+            "CloseReasonId":null,
+            "PostId":"113525",
+            "PostHistoryTypeId":"1",
+            "Id":"372059",
+            "Text":"Could not be downloaded due to errow 905"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-26T17:01:09.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"88f832b4-327d-4955-83cc-2f59d09fb8ac",
+            "UserId":"114353",
+            "CloseReasonId":null,
+            "PostId":"113525",
+            "PostHistoryTypeId":"3",
+            "Id":"372060",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-26T17:03:31.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"7726b5e6-34bc-49b5-ae9b-2cc7eb34bf65",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"113525",
+            "PostHistoryTypeId":"10",
+            "Id":"372062",
+            "Text":"{\"OriginalQuestionIds\":[25918],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

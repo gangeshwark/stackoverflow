@@ -1,0 +1,71 @@
+{
+    "Body":"I am running on rooted Moto E (XT1022) Android 4.4, and want to change WiFi MAC Address. I had tried installing BusyBox with Terminal and run the following command.busybox ifconfig wlan0 hw ether 00:00:00:00:00:00This is Temporally, In fact it doesn't actually changes the MAC Address, If I look under Settings => About Phone => Status => WiFi MAC address is still old one. I had found a file under, which I guess to do something with MAC Address \/etc\/firmware\/wlan\/prima\/WCNSS_qcom_cfg.ini which is exact same in this link WCNSS_qcom_cfg.iniNote: none of the MAC changer app working on Play Store - Might for this device.Does anyone have any idea how to do this ?",
+    "ViewCount":"1212",
+    "LastActivityDate":"2014-12-09T19:11:02.717",
+    "ClosedDate":"2015-05-19T18:28:29.663",
+    "Title":"Change WiFi Mac Address",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"83439",
+    "CreationDate":"2014-12-09T19:11:02.717",
+    "FavoriteCount":null,
+    "Id":"90244",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-09T19:11:02.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"404baf3e-d513-46b2-b504-cba0aaffb55a",
+            "UserId":"83439",
+            "CloseReasonId":null,
+            "PostId":"90244",
+            "PostHistoryTypeId":"2",
+            "Id":"297565",
+            "Text":"I am running on rooted Moto E (XT1022) Android 4.4, and want to change WiFi MAC Address. I had tried installing BusyBox with Terminal and run the following command.    busybox ifconfig wlan0 hw ether 00:00:00:00:00:00This is Temporally, In fact it doesn't actually changes the MAC Address, If I look under Settings => About Phone => Status => WiFi MAC address is still old one. I had found a file under, which I guess to do something with MAC Address `\/etc\/firmware\/wlan\/prima\/WCNSS_qcom_cfg.ini` which is exact same in this link [WCNSS_qcom_cfg.ini][1]Note: none of the MAC changer app working on Play Store - Might for this device.Does anyone have any idea how to do this ?  [1]: https:\/\/git.i4g.me\/Abhinav\/android_device_sony_tianchi\/blob\/a41e2c7659265bb65f37123276e38b5f020e21a1\/rootdir\/system\/etc\/firmware\/wlan\/prima\/WCNSS_qcom_cfg.ini"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-09T19:11:02.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"404baf3e-d513-46b2-b504-cba0aaffb55a",
+            "UserId":"83439",
+            "CloseReasonId":null,
+            "PostId":"90244",
+            "PostHistoryTypeId":"1",
+            "Id":"297566",
+            "Text":"Change WiFi Mac Address"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-09T19:11:02.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"404baf3e-d513-46b2-b504-cba0aaffb55a",
+            "UserId":"83439",
+            "CloseReasonId":null,
+            "PostId":"90244",
+            "PostHistoryTypeId":"3",
+            "Id":"297567",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-19T18:28:29.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"346928f6-9b96-4a19-b515-9b166edff31a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"90244",
+            "PostHistoryTypeId":"10",
+            "Id":"358504",
+            "Text":"{\"OriginalQuestionIds\":[96270],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

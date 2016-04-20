@@ -1,0 +1,71 @@
+{
+    "Body":"How do I stop my text messages from going to my email account on a Note 5? I have gone into all settings but I am not able to unlink my text messages from my email account.",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-09-02T17:36:21.830",
+    "ClosedDate":"2015-09-02T17:57:14.933",
+    "Title":"Text to email STOP",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"124810",
+    "CreationDate":"2015-09-02T17:36:21.830",
+    "FavoriteCount":null,
+    "Id":"121033",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-02T17:36:21.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f9e9d27-e533-400a-8eec-0be2bba11c36",
+            "UserId":"124810",
+            "CloseReasonId":null,
+            "PostId":"121033",
+            "PostHistoryTypeId":"2",
+            "Id":"396982",
+            "Text":"How do I stop my text messages from going to my email account on a Note 5? I have gone into all settings but I am not able to unlink my text messages from my email account."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-02T17:36:21.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f9e9d27-e533-400a-8eec-0be2bba11c36",
+            "UserId":"124810",
+            "CloseReasonId":null,
+            "PostId":"121033",
+            "PostHistoryTypeId":"1",
+            "Id":"396983",
+            "Text":"Text to email STOP"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-02T17:36:21.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f9e9d27-e533-400a-8eec-0be2bba11c36",
+            "UserId":"124810",
+            "CloseReasonId":null,
+            "PostId":"121033",
+            "PostHistoryTypeId":"3",
+            "Id":"396984",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-02T17:57:14.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"244db6ee-1c66-4d3b-8257-0622963b996d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"121033",
+            "PostHistoryTypeId":"10",
+            "Id":"396986",
+            "Text":"{\"OriginalQuestionIds\":[86210],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

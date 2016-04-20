@@ -1,0 +1,71 @@
+{
+    "Body":"I searched for this on Google several times, and I couldn't find any answer on stackexchange, so here i go.I have a brand new Nexus 6, with Lollipop of course. But I never really get the recent apps system. For example, when I delete a game from my recent apps history, will the game close? Because when I delete it, and I start the game again, it will restart from the menu. When I don't delete the game from the recent history, It will just open where I closed it!But I thought recent apps is meant to show the user what apps u used recently, right?Is there any other way I can close my apps?",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-07-09T08:41:05.583",
+    "ClosedDate":"2015-07-15T14:02:13.887",
+    "Title":"Do all apps close when I delete my recent apps history?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87480",
+    "CreationDate":"2015-07-09T08:41:05.583",
+    "FavoriteCount":null,
+    "Id":"114771",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T08:41:05.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8430845-b261-438d-92e0-f4ff05fe2a8a",
+            "UserId":"87480",
+            "CloseReasonId":null,
+            "PostId":"114771",
+            "PostHistoryTypeId":"2",
+            "Id":"376572",
+            "Text":"I searched for this on Google several times, and I couldn't find any answer on stackexchange, so here i go.I have a brand new Nexus 6, with Lollipop of course. But I never really get the recent apps system. For example, when I delete a game from my recent apps history, will the game close? Because when I delete it, and I start the game again, it will restart from the menu. When I don't delete the game from the recent history, It will just open where I closed it!But I thought recent apps is meant to show the user what apps u used recently, right?Is there any other way I can close my apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T08:41:05.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8430845-b261-438d-92e0-f4ff05fe2a8a",
+            "UserId":"87480",
+            "CloseReasonId":null,
+            "PostId":"114771",
+            "PostHistoryTypeId":"1",
+            "Id":"376573",
+            "Text":"Do all apps close when I delete my recent apps history?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T08:41:05.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8430845-b261-438d-92e0-f4ff05fe2a8a",
+            "UserId":"87480",
+            "CloseReasonId":null,
+            "PostId":"114771",
+            "PostHistoryTypeId":"3",
+            "Id":"376574",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-15T14:02:13.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1d24db3-3503-41c7-abb5-6c58eb6c2ae4",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"114771",
+            "PostHistoryTypeId":"10",
+            "Id":"378802",
+            "Text":"{\"OriginalQuestionIds\":[19987],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"using 3 inch display phone, cannot scan QR code for login. any idea to solve this?",
+    "ViewCount":"3414",
+    "LastActivityDate":"2015-01-22T07:51:09.020",
+    "ClosedDate":"2015-01-22T09:23:06.190",
+    "Title":"cannot scan QR code for login whatsapp web version",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91053",
+    "CreationDate":"2015-01-22T05:48:03.083",
+    "FavoriteCount":null,
+    "Id":"96553",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-22T05:48:03.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"956660a0-c79c-4cf6-8cb6-3a470b961ed4",
+            "UserId":"91053",
+            "CloseReasonId":null,
+            "PostId":"96553",
+            "PostHistoryTypeId":"2",
+            "Id":"314566",
+            "Text":"using 3 inch display phone, cannot scan QR code for login. any idea to solve this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-22T05:48:03.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"956660a0-c79c-4cf6-8cb6-3a470b961ed4",
+            "UserId":"91053",
+            "CloseReasonId":null,
+            "PostId":"96553",
+            "PostHistoryTypeId":"1",
+            "Id":"314567",
+            "Text":"cannot scan QR code for login whatsapp web version"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-22T05:48:03.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"956660a0-c79c-4cf6-8cb6-3a470b961ed4",
+            "UserId":"91053",
+            "CloseReasonId":null,
+            "PostId":"96553",
+            "PostHistoryTypeId":"3",
+            "Id":"314568",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-22T09:23:06.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"5019b42f-d6a1-4f67-a509-88c8ea06b19b",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"96553",
+            "PostHistoryTypeId":"10",
+            "Id":"314642",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

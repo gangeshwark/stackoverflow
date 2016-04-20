@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  I  have recently purchased a galaxy S with Froyo to do some tests on my App. I would like to upgrade to use ROM like Gingerbread, Honeycomb,ICS. I have searched the web and I have found many ROMs but i can't tell if they are trusted or not (no bugs, no low performance..). I would appreciate if someone points me to some ROMs that he had used before for these Android version. I know that I can use Nandroid Backup if I disliked one tested ROM. Does some Roms able to turn my phone out of service?",
+    "ViewCount":"442",
+    "LastActivityDate":"2012-07-01T05:35:31.593",
+    "ClosedDate":"2012-07-01T05:50:35.430",
+    "Title":"Gingerbread,HoneyComb,ICS ROM for Galaxy S",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"25117",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14874",
+    "CreationDate":"2012-07-01T04:25:16.893",
+    "FavoriteCount":null,
+    "Id":"25116",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-01T04:25:16.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e823a05-d18b-45c9-b73e-1dca7f0db6b0",
+            "UserId":"14874",
+            "CloseReasonId":null,
+            "PostId":"25116",
+            "PostHistoryTypeId":"2",
+            "Id":"72181",
+            "Text":"I  have recently purchased a galaxy S with Froyo to do some tests on my App. I would like to upgrade to use ROM like Gingerbread, Honeycomb,ICS. I have searched the web and I have found many ROMs but i can't tell if they are trusted or not (no bugs, no low performance..). I would appreciate if someone points me to some ROMs that he had used before for these Android version. I know that I can use Nandroid Backup if I disliked one tested ROM. Does some Roms able to turn my phone out of service?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-01T04:25:16.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e823a05-d18b-45c9-b73e-1dca7f0db6b0",
+            "UserId":"14874",
+            "CloseReasonId":null,
+            "PostId":"25116",
+            "PostHistoryTypeId":"1",
+            "Id":"72182",
+            "Text":"Gingerbread,HoneyComb,ICS ROM for Galaxy S"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-01T04:25:16.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e823a05-d18b-45c9-b73e-1dca7f0db6b0",
+            "UserId":"14874",
+            "CloseReasonId":null,
+            "PostId":"25116",
+            "PostHistoryTypeId":"3",
+            "Id":"72183",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-01T05:50:36.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"d073de53-3f3c-4994-9bb3-7c74443430ec",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25116",
+            "PostHistoryTypeId":"5",
+            "Id":"72190",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  I  have recently purchased a galaxy S with Froyo to do some tests on my App. I would like to upgrade to use ROM like Gingerbread, Honeycomb,ICS. I have searched the web and I have found many ROMs but i can't tell if they are trusted or not (no bugs, no low performance..). I would appreciate if someone points me to some ROMs that he had used before for these Android version. I know that I can use Nandroid Backup if I disliked one tested ROM. Does some Roms able to turn my phone out of service?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-01T05:50:35.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"634e2cd6-d78e-480d-afa9-3caedc747978",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"25116",
+            "PostHistoryTypeId":"10",
+            "Id":"72191",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

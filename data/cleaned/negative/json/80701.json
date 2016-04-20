@@ -1,0 +1,71 @@
+{
+    "Body":"I was trying to find the setting to disable the wallpaper on my Android phone.I've found some suggestion which suggest to make a fake black png or something like that, but it's going around the problem instead of solving it. Technically, it's still a wallpaper, and I don't want to have any...How to set not to use wallpaper on Android? There must be some way, even on Windows it's possible...I'm using Samsung Galaxy S4",
+    "ViewCount":"2810",
+    "LastActivityDate":"2014-08-18T04:30:28.407",
+    "ClosedDate":"2015-06-11T15:13:30.970",
+    "Title":"Set no wallpaper, but single color background",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10447",
+    "CreationDate":"2014-08-17T18:55:52.033",
+    "FavoriteCount":null,
+    "Id":"80701",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-17T18:55:52.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2f4a41d-277b-4b6f-a30a-97b2cfbef3c2",
+            "UserId":"10447",
+            "CloseReasonId":null,
+            "PostId":"80701",
+            "PostHistoryTypeId":"2",
+            "Id":"264158",
+            "Text":"I was trying to find the setting to disable the wallpaper on my Android phone.I've found some suggestion which suggest to make a fake black png or something like that, but it's going around the problem instead of solving it. Technically, it's still a wallpaper, and I don't want to have any...How to set **not** to use wallpaper on Android? There must be some way, even on Windows it's possible...I'm using Samsung Galaxy S4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-17T18:55:52.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2f4a41d-277b-4b6f-a30a-97b2cfbef3c2",
+            "UserId":"10447",
+            "CloseReasonId":null,
+            "PostId":"80701",
+            "PostHistoryTypeId":"1",
+            "Id":"264159",
+            "Text":"Set no wallpaper, but single color background"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-17T18:55:52.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2f4a41d-277b-4b6f-a30a-97b2cfbef3c2",
+            "UserId":"10447",
+            "CloseReasonId":null,
+            "PostId":"80701",
+            "PostHistoryTypeId":"3",
+            "Id":"264160",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-11T15:13:30.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce957317-b16e-4ac3-ac00-84ca269d3c8d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"80701",
+            "PostHistoryTypeId":"10",
+            "Id":"367247",
+            "Text":"{\"OriginalQuestionIds\":[12167],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

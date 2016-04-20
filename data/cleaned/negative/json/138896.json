@@ -1,0 +1,71 @@
+{
+    "Body":"How can I tell if I can upgrade to Lollipop or Kit-Kat?",
+    "ViewCount":"7",
+    "LastActivityDate":"2016-03-05T17:20:32.213",
+    "ClosedDate":"2016-03-05T18:31:10.240",
+    "Title":"Brought an old Razr XT912 old of storage running 4.1.2.",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154726",
+    "CreationDate":"2016-03-05T17:20:32.213",
+    "FavoriteCount":null,
+    "Id":"138896",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T17:20:32.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ae7ee9c-555d-42de-82a2-0fa693478373",
+            "UserId":"154726",
+            "CloseReasonId":null,
+            "PostId":"138896",
+            "PostHistoryTypeId":"2",
+            "Id":"464457",
+            "Text":"How can I tell if I can upgrade to Lollipop or Kit-Kat?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T17:20:32.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ae7ee9c-555d-42de-82a2-0fa693478373",
+            "UserId":"154726",
+            "CloseReasonId":null,
+            "PostId":"138896",
+            "PostHistoryTypeId":"1",
+            "Id":"464458",
+            "Text":"Brought an old Razr XT912 old of storage running 4.1.2."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T17:20:32.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ae7ee9c-555d-42de-82a2-0fa693478373",
+            "UserId":"154726",
+            "CloseReasonId":null,
+            "PostId":"138896",
+            "PostHistoryTypeId":"3",
+            "Id":"464459",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-05T18:31:10.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5a7a99d-7c4a-4499-8a57-8d22705c959a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138896",
+            "PostHistoryTypeId":"10",
+            "Id":"464503",
+            "Text":"{\"OriginalQuestionIds\":[34958],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

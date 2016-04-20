@@ -1,0 +1,71 @@
+{
+    "Body":"I am using  nikai tablet NMD8000b which is on Android 2.2 . Currently device showing The application google services framework (process com.google.process.gapps) has stopped unexpectedlyI didn't get any support from the nikai site. How can i rectify and overcome the problem",
+    "ViewCount":"23",
+    "LastActivityDate":"2013-07-25T15:48:24.183",
+    "ClosedDate":"2013-07-26T12:18:13.720",
+    "Title":"The application google services framework (process com.google.process.gapps) has stopped unexpectedly",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38212",
+    "CreationDate":"2013-07-25T15:48:24.183",
+    "FavoriteCount":null,
+    "Id":"49908",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-25T15:48:24.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"00389893-90a2-4401-bf8a-0846f85db7ad",
+            "UserId":"38212",
+            "CloseReasonId":null,
+            "PostId":"49908",
+            "PostHistoryTypeId":"2",
+            "Id":"163058",
+            "Text":"I am using  [nikai tablet NMD8000b][1] which is on Android 2.2 . Currently device showing **The application google services framework (process com.google.process.gapps) has stopped unexpectedly**I didn't get any support from the nikai site. How can i rectify and overcome the problem  [1]: http:\/\/www.nikai.com\/nikai_electronics_multimedia_internet_device.asp?p=3.. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-25T15:48:24.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"00389893-90a2-4401-bf8a-0846f85db7ad",
+            "UserId":"38212",
+            "CloseReasonId":null,
+            "PostId":"49908",
+            "PostHistoryTypeId":"1",
+            "Id":"163059",
+            "Text":"The application google services framework (process com.google.process.gapps) has stopped unexpectedly"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-25T15:48:24.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"00389893-90a2-4401-bf8a-0846f85db7ad",
+            "UserId":"38212",
+            "CloseReasonId":null,
+            "PostId":"49908",
+            "PostHistoryTypeId":"3",
+            "Id":"163060",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-26T12:18:13.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c3469f9-de83-4311-8e11-f5bba648151d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"49908",
+            "PostHistoryTypeId":"10",
+            "Id":"163277",
+            "Text":"{\"OriginalQuestionIds\":[42771],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

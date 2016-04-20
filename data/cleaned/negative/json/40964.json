@@ -1,0 +1,83 @@
+{
+    "Body":"Is there an android distribution that presents a stripped-down ereader interface and nothing more?  The reason for this is just a matter of ultimate usability.",
+    "ViewCount":"114",
+    "LastActivityDate":"2013-03-08T03:09:27.403",
+    "ClosedDate":"2014-02-06T03:45:40.850",
+    "Title":"Android distro for reading?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-03-06T22:54:11.813",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7124",
+    "CreationDate":"2013-03-06T22:08:14.863",
+    "FavoriteCount":null,
+    "Id":"40964",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-06T22:08:14.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3132bef-ccf7-4a5c-9b98-5c8db82905d0",
+            "UserId":"7124",
+            "CloseReasonId":null,
+            "PostId":"40964",
+            "PostHistoryTypeId":"2",
+            "Id":"127855",
+            "Text":"Is there an android distribution that presents a stripped-down ereader interface and nothing more?  The reason for this is just a matter of ultimate usability."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-06T22:08:14.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3132bef-ccf7-4a5c-9b98-5c8db82905d0",
+            "UserId":"7124",
+            "CloseReasonId":null,
+            "PostId":"40964",
+            "PostHistoryTypeId":"1",
+            "Id":"127856",
+            "Text":"Android distro for reading?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-06T22:08:14.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3132bef-ccf7-4a5c-9b98-5c8db82905d0",
+            "UserId":"7124",
+            "CloseReasonId":null,
+            "PostId":"40964",
+            "PostHistoryTypeId":"3",
+            "Id":"127857",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-03-06T22:54:11.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"e06385a6-2aa8-4d04-ad9b-6fdad3650d45",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"40964",
+            "PostHistoryTypeId":"6",
+            "Id":"127864",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-06T03:45:40.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"09de1c6b-e2f9-4348-86b8-b39a12bc43c1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"40964",
+            "PostHistoryTypeId":"10",
+            "Id":"213326",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

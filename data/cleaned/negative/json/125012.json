@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Samsung Galaxy Nexus and I'm trying to do a fresh reinstall of Cyanongenmod.I see in their website that there are three different versions of this phone: https:\/\/wiki.cyanogenmod.org\/w\/Devices#vendor=%22Google%22;searchable=%22galaxy%22;Now I am confused and don't know which version I have? I bought it in Portugal. But is there a way to automatically identify the phone?Thank you",
+    "ViewCount":"86",
+    "LastActivityDate":"2015-10-07T15:13:21.050",
+    "ClosedDate":"2015-10-05T11:45:34.743",
+    "Title":"How to correctly identify your phone model and version?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"128688",
+    "CreationDate":"2015-10-05T10:50:49.313",
+    "FavoriteCount":null,
+    "Id":"125012",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T10:50:49.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"77704314-9c18-46e6-9b90-4894183eb85b",
+            "UserId":"128688",
+            "CloseReasonId":null,
+            "PostId":"125012",
+            "PostHistoryTypeId":"2",
+            "Id":"409407",
+            "Text":"I have a Samsung Galaxy Nexus and I'm trying to do a fresh reinstall of Cyanongenmod.I see in their website that there are three different versions of this phone: https:\/\/wiki.cyanogenmod.org\/w\/Devices#vendor=%22Google%22;searchable=%22galaxy%22;Now I am confused and don't know which version I have? I bought it in Portugal. But is there a way to automatically identify the phone?Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T10:50:49.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"77704314-9c18-46e6-9b90-4894183eb85b",
+            "UserId":"128688",
+            "CloseReasonId":null,
+            "PostId":"125012",
+            "PostHistoryTypeId":"1",
+            "Id":"409408",
+            "Text":"How to correctly identify your phone model and version?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T10:50:49.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"77704314-9c18-46e6-9b90-4894183eb85b",
+            "UserId":"128688",
+            "CloseReasonId":null,
+            "PostId":"125012",
+            "PostHistoryTypeId":"3",
+            "Id":"409409",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-05T11:45:34.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"df00ea16-1a47-4d21-9b1e-45416bc920c4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"125012",
+            "PostHistoryTypeId":"10",
+            "Id":"409425",
+            "Text":"{\"OriginalQuestionIds\":[26157],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

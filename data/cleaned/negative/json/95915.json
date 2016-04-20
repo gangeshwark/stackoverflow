@@ -1,0 +1,71 @@
+{
+    "Body":"I'm running on Android 4.2 and I have an app that sends data (via 3G) to my server including my current GPS coordinates. Sometimes, however, my data gets sent but the GPS coordinates are left blank.Is it possible for my Android device to be able to send \/ receive data, but not be able to triangulate my location?I'm trying to figure out if this is a flaw in my app or if I am having GPS signal strength issues.",
+    "ViewCount":"20",
+    "LastActivityDate":"2015-01-15T06:05:23.030",
+    "ClosedDate":"2015-02-02T09:04:42.227",
+    "Title":"Are GPS coordinates determined via data transfer?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49185",
+    "CreationDate":"2015-01-15T06:05:23.030",
+    "FavoriteCount":null,
+    "Id":"95915",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-15T06:05:23.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"15bb8235-38a3-47e3-b179-50edcea4de07",
+            "UserId":"49185",
+            "CloseReasonId":null,
+            "PostId":"95915",
+            "PostHistoryTypeId":"2",
+            "Id":"312214",
+            "Text":"I'm running on Android 4.2 and I have an app that sends data (via 3G) to my server including my current GPS coordinates. Sometimes, however, my data gets sent but the GPS coordinates are left blank.Is it possible for my Android device to be able to send \/ receive data, but not be able to triangulate my location?I'm trying to figure out if this is a flaw in my app or if I am having GPS signal strength issues."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-15T06:05:23.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"15bb8235-38a3-47e3-b179-50edcea4de07",
+            "UserId":"49185",
+            "CloseReasonId":null,
+            "PostId":"95915",
+            "PostHistoryTypeId":"1",
+            "Id":"312215",
+            "Text":"Are GPS coordinates determined via data transfer?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-15T06:05:23.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"15bb8235-38a3-47e3-b179-50edcea4de07",
+            "UserId":"49185",
+            "CloseReasonId":null,
+            "PostId":"95915",
+            "PostHistoryTypeId":"3",
+            "Id":"312216",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-02T09:04:42.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"b81c7679-b9bd-4d98-9973-8f2425f054fb",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"95915",
+            "PostHistoryTypeId":"10",
+            "Id":"318352",
+            "Text":"{\"OriginalQuestionIds\":[27751],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

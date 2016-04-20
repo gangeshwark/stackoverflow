@@ -1,0 +1,71 @@
+{
+    "Body":"My techno g9 device shows internal storage 0.99G Usb storage 12 G and Sd Card 27G. All installed apps go to the .99G which is full. So i cant dowload any new apps. Please how can i change the instal folder to the 12G usb storage or the 27G Sd card.",
+    "ViewCount":"1286",
+    "LastActivityDate":"2015-02-12T10:01:23.113",
+    "ClosedDate":"2015-02-14T05:49:12.880",
+    "Title":"how to make my usb storage or sd card the default instal location",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94054",
+    "CreationDate":"2015-02-12T09:41:38.407",
+    "FavoriteCount":null,
+    "Id":"98570",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-12T09:41:38.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"8eae6fc0-8f4a-4cb5-a184-c705e2fad74a",
+            "UserId":"94054",
+            "CloseReasonId":null,
+            "PostId":"98570",
+            "PostHistoryTypeId":"2",
+            "Id":"322006",
+            "Text":"My techno g9 device shows internal storage 0.99G Usb storage 12 G and Sd Card 27G. All installed apps go to the .99G which is full. So i cant dowload any new apps. Please how can i change the instal folder to the 12G usb storage or the 27G Sd card."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-12T09:41:38.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"8eae6fc0-8f4a-4cb5-a184-c705e2fad74a",
+            "UserId":"94054",
+            "CloseReasonId":null,
+            "PostId":"98570",
+            "PostHistoryTypeId":"1",
+            "Id":"322007",
+            "Text":"how to make my usb storage or sd card the default instal location"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-12T09:41:38.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"8eae6fc0-8f4a-4cb5-a184-c705e2fad74a",
+            "UserId":"94054",
+            "CloseReasonId":null,
+            "PostId":"98570",
+            "PostHistoryTypeId":"3",
+            "Id":"322008",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-14T05:49:12.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d684982-864f-4708-80d8-ce95e6f4e31b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"98570",
+            "PostHistoryTypeId":"10",
+            "Id":"322649",
+            "Text":"{\"OriginalQuestionIds\":[43517],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

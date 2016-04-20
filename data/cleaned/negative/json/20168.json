@@ -1,0 +1,71 @@
+{
+    "Body":"I have an a500 tab with hc3.2 rooted and I recently noticed that the camera is not focusing anymore. I can shoot photos at very close distance only, and this affects my ability to read qr tags too if they are not small enough to be viewed within the small rectangle qr droid draws at close distance.what can I do about that? Could it be a software or hardware problem?",
+    "ViewCount":"165",
+    "LastActivityDate":"2012-03-03T10:19:59.977",
+    "ClosedDate":"2012-12-31T16:54:06.567",
+    "Title":"Camera not focusing",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7813",
+    "CreationDate":"2012-03-03T10:19:59.977",
+    "FavoriteCount":null,
+    "Id":"20168",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-03T10:19:59.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"b975c084-18f0-4585-b67d-8816a84a3324",
+            "UserId":"7813",
+            "CloseReasonId":null,
+            "PostId":"20168",
+            "PostHistoryTypeId":"2",
+            "Id":"55989",
+            "Text":"I have an a500 tab with hc3.2 rooted and I recently noticed that the camera is not focusing anymore. I can shoot photos at very close distance only, and this affects my ability to read qr tags too if they are not small enough to be viewed within the small rectangle qr droid draws at close distance.what can I do about that? Could it be a software or hardware problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-03T10:19:59.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"b975c084-18f0-4585-b67d-8816a84a3324",
+            "UserId":"7813",
+            "CloseReasonId":null,
+            "PostId":"20168",
+            "PostHistoryTypeId":"1",
+            "Id":"55990",
+            "Text":"Camera not focusing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-03T10:19:59.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"b975c084-18f0-4585-b67d-8816a84a3324",
+            "UserId":"7813",
+            "CloseReasonId":null,
+            "PostId":"20168",
+            "PostHistoryTypeId":"3",
+            "Id":"55991",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-31T16:54:06.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e7656d0-218a-411e-9f77-5d36f848848d",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"20168",
+            "PostHistoryTypeId":"10",
+            "Id":"110473",
+            "Text":"{\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

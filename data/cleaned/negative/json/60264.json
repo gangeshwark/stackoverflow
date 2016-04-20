@@ -1,0 +1,71 @@
+{
+    "Body":"01-02 15:30:21.361: E\/AndroidRuntime(3764): FATAL EXCEPTION: main01-02 15:30:21.361: E\/AndroidRuntime(3764): java.lang.NullPointerException01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.htc.music.browserlayer.fragment.HtcMusicFragment.initLyricsView(HtcMusicFragment.java:8905)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.htc.music.browserlayer.fragment.HtcMusicFragment.initialUI(HtcMusicFragment.java:2305)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.htc.music.browserlayer.fragment.HtcMusicFragment.onCreateView(HtcMusicFragment.java:662)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl.moveToState(FragmentManager.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl.moveToState(FragmentManager.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.BackStackRecord.run(BackStackRecord.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl$1.run(FragmentManager.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.os.Handler.handleCallback(Handler.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.os.Handler.dispatchMessage(Handler.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.os.Looper.loop(Looper.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.ActivityThread.main(ActivityThread.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at java.lang.reflect.Method.invokeNative(Native Method)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at java.lang.reflect.Method.invoke(Method.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java)01-02 15:30:21.361: E\/AndroidRuntime(3764):     at dalvik.system.NativeStart.main(Native Method)01-02 15:30:21.541: E\/EmbeddedLogger(2496): App crashed! Process: com.htc.music01-02 15:30:21.541: E\/EmbeddedLogger(2496): App crashed! Package: com.htc.music v522301810 (5.1.2320352112.658919.648253)01-02 15:30:22.081: E\/EmbeddedLogger(2496): Application Label: MusicI open Music app in Android but it force close. I have taken logcat and found this problem causing.At Line 8905 here is the code :> if-eqz v11, :cond_1> > const-string v11, \"[HtcMusicFragment]\"> > const-string v12, \"onServiceConnectedHandle, mActivity is null",
+    "ViewCount":"388",
+    "LastActivityDate":"2014-01-02T13:44:02.913",
+    "ClosedDate":"2014-01-03T16:51:26.187",
+    "Title":"Android App Force Closing",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49847",
+    "CreationDate":"2014-01-02T11:31:56.777",
+    "FavoriteCount":null,
+    "Id":"60264",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-02T11:31:56.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"50b96853-4211-415d-b27b-d9c7402bd509",
+            "UserId":"49847",
+            "CloseReasonId":null,
+            "PostId":"60264",
+            "PostHistoryTypeId":"2",
+            "Id":"203324",
+            "Text":"01-02 15:30:21.361: E\/AndroidRuntime(3764): FATAL EXCEPTION: main    01-02 15:30:21.361: E\/AndroidRuntime(3764): java.lang.NullPointerException    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.htc.music.browserlayer.fragment.HtcMusicFragment.initLyricsView(HtcMusicFragment.java:8905)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.htc.music.browserlayer.fragment.HtcMusicFragment.initialUI(HtcMusicFragment.java:2305)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.htc.music.browserlayer.fragment.HtcMusicFragment.onCreateView(HtcMusicFragment.java:662)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl.moveToState(FragmentManager.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl.moveToState(FragmentManager.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.BackStackRecord.run(BackStackRecord.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.FragmentManagerImpl$1.run(FragmentManager.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.os.Handler.handleCallback(Handler.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.os.Handler.dispatchMessage(Handler.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.os.Looper.loop(Looper.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at android.app.ActivityThread.main(ActivityThread.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at java.lang.reflect.Method.invokeNative(Native Method)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at java.lang.reflect.Method.invoke(Method.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java)    01-02 15:30:21.361: E\/AndroidRuntime(3764):     at dalvik.system.NativeStart.main(Native Method)    01-02 15:30:21.541: E\/EmbeddedLogger(2496): App crashed! Process: com.htc.music    01-02 15:30:21.541: E\/EmbeddedLogger(2496): App crashed! Package: com.htc.music v522301810 (5.1.2320352112.658919.648253)    01-02 15:30:22.081: E\/EmbeddedLogger(2496): Application Label: MusicI open Music app in Android but it force close. I have taken logcat and found this problem causing.At Line 8905 here is the code :    > if-eqz v11, :cond_1    >     > const-string v11, \"[HtcMusicFragment]\"    >     > const-string v12, \"onServiceConnectedHandle, mActivity is null"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-02T11:31:56.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"50b96853-4211-415d-b27b-d9c7402bd509",
+            "UserId":"49847",
+            "CloseReasonId":null,
+            "PostId":"60264",
+            "PostHistoryTypeId":"1",
+            "Id":"203325",
+            "Text":"Android App Force Closing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-02T11:31:56.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"50b96853-4211-415d-b27b-d9c7402bd509",
+            "UserId":"49847",
+            "CloseReasonId":null,
+            "PostId":"60264",
+            "PostHistoryTypeId":"3",
+            "Id":"203326",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-01-03T16:51:26.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"73cbd296-824f-4a7e-88f1-8aa4a4087fe0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"60264",
+            "PostHistoryTypeId":"10",
+            "Id":"203683",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

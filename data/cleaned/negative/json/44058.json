@@ -1,0 +1,83 @@
+{
+    "Body":"I'm trying to get Kannada language support on my phone. I've rooted my Sony Xperia Neo L which is running ICS 4.0.4 and installed Kannada font in system\/fonts. The problem is, all the other indic fonts like tamil, bengali, devanagari, hindi are rendering perfectly but not Kannada. I've added the Kannada font in fallback_fonts.xml file. Is that a font problem?",
+    "ViewCount":"19",
+    "LastActivityDate":"2013-04-21T03:20:35.503",
+    "ClosedDate":"2013-04-22T08:10:31.030",
+    "Title":"Font rendering problem in ICS 4.0.4",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-04-21T03:20:35.503",
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32562",
+    "CreationDate":"2013-04-21T02:50:34.267",
+    "FavoriteCount":null,
+    "Id":"44058",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-21T02:50:34.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"43701a21-68c0-4b7b-bd5a-0187e0adb7aa",
+            "UserId":"32562",
+            "CloseReasonId":null,
+            "PostId":"44058",
+            "PostHistoryTypeId":"2",
+            "Id":"141252",
+            "Text":"I'm trying to get Kannada language support on my phone. I've rooted my Sony Xperia Neo L which is running ICS 4.0.4 and installed Kannada font in system\/fonts. The problem is, all the other indic fonts like tamil, bengali, devanagari, hindi are rendering perfectly but not Kannada. I've added the Kannada font in fallback_fonts.xml file. Is that a font problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-21T02:50:34.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"43701a21-68c0-4b7b-bd5a-0187e0adb7aa",
+            "UserId":"32562",
+            "CloseReasonId":null,
+            "PostId":"44058",
+            "PostHistoryTypeId":"1",
+            "Id":"141253",
+            "Text":"Font rendering problem in ICS 4.0.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-21T02:50:34.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"43701a21-68c0-4b7b-bd5a-0187e0adb7aa",
+            "UserId":"32562",
+            "CloseReasonId":null,
+            "PostId":"44058",
+            "PostHistoryTypeId":"3",
+            "Id":"141254",
+            "Text":"<4.0-ice-cream-sandwich>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-04-21T03:20:35.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"289469f4-410d-44bf-9763-5b5ea18b285d",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"44058",
+            "PostHistoryTypeId":"6",
+            "Id":"141256",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-22T08:10:31.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe52f02c-0874-4342-9c02-ea8c87d6026b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"44058",
+            "PostHistoryTypeId":"10",
+            "Id":"141497",
+            "Text":"{\"OriginalQuestionIds\":[43998],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"There are a host of issues that you run into when running stock Android in a country that blocks Google's servers. The first issue you run into is the setup wizard getting stuck trying to do updates. I already found a workaround for that one. But I can't figure out how to fix the following:Wi-fi connections always show \"Connected, no Internet\" with an exclamation point icon.Doesn't automatically connect to saved wi-fi locations because it thinks there is no Internet.Photos app doesn't show any photos at all except when Airplane mode is on or when connected to a VPN.Other issues such as the Play store not working are to be expected. But I wish I had workarounds for the 3 issues above. The \"Connected, no Internet\" warning must be using some Google service to detect connectivity. Can it be changed to use some other service that is not blocked? The Photos app not showing photos seems an unexcusable offense because the photos are stored locally and browsable with a file explorer. Why does Google need to go online at all to display photos on the phone?",
+    "ViewCount":"28",
+    "LastActivityDate":"2015-11-10T00:39:19.167",
+    "ClosedDate":"2015-11-11T00:20:21.370",
+    "Title":"Issues with limited internet connectivity (photos, wifi)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"72531",
+    "CreationDate":"2015-11-09T07:11:01.713",
+    "FavoriteCount":null,
+    "Id":"128343",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-09T07:11:01.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"304a731e-5d4e-45bd-85f0-50dda517bbbe",
+            "UserId":"72531",
+            "CloseReasonId":null,
+            "PostId":"128343",
+            "PostHistoryTypeId":"2",
+            "Id":"422134",
+            "Text":"There are a host of issues that you run into when running stock Android in a country that blocks Google's servers. The first issue you run into is the setup wizard getting stuck trying to do updates. I already found [a workaround][1] for that one. But I can't figure out how to fix the following: - Wi-fi connections always show \"Connected, no Internet\" with an exclamation point icon. - Doesn't automatically connect to saved wi-fi locations because it thinks there is no Internet. - Photos app doesn't show any photos at all except when Airplane mode is on or when connected to a VPN.Other issues such as the Play store not working are to be expected. But I wish I had workarounds for the 3 issues above. The \"Connected, no Internet\" warning must be using some Google service to detect connectivity. Can it be changed to use some other service that is not blocked? The Photos app not showing photos seems an unexcusable offense because the photos are stored locally and browsable with a file explorer. Why does Google need to go online at all to display photos on the phone?  [1]: http:\/\/forum.xda-developers.com\/showthread.php?t=1774672"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-09T07:11:01.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"304a731e-5d4e-45bd-85f0-50dda517bbbe",
+            "UserId":"72531",
+            "CloseReasonId":null,
+            "PostId":"128343",
+            "PostHistoryTypeId":"1",
+            "Id":"422135",
+            "Text":"Issues with limited internet connectivity (photos, wifi)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-09T07:11:01.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"304a731e-5d4e-45bd-85f0-50dda517bbbe",
+            "UserId":"72531",
+            "CloseReasonId":null,
+            "PostId":"128343",
+            "PostHistoryTypeId":"3",
+            "Id":"422136",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-11T00:20:21.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f636c0c-7afc-4b67-a1e7-ec9485d86885",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"128343",
+            "PostHistoryTypeId":"10",
+            "Id":"422802",
+            "Text":"{\"OriginalQuestionIds\":[100657],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

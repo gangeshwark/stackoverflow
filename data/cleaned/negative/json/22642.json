@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  If I use free WiFi in a hotspot, can data be easily sniffed?  Let's say I am browsing an HTTP accessible web site (i.e. NOT HTTPS) , is the traffic encrypted through the WiFi connection?In other words, is there \"data privacy\" functionality over WiFi regardless of higher layer protocols?",
+    "ViewCount":"154",
+    "LastActivityDate":"2012-05-04T14:45:38.457",
+    "ClosedDate":"2012-05-04T15:18:24.773",
+    "Title":"Can traffic be inspected through WiFi?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"234",
+    "CreationDate":"2012-05-04T14:31:43.273",
+    "FavoriteCount":"1",
+    "Id":"22642",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-04T14:31:43.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"74aec8d3-f9a1-4d27-98ad-fb5b15b6cbe6",
+            "UserId":"234",
+            "CloseReasonId":null,
+            "PostId":"22642",
+            "PostHistoryTypeId":"2",
+            "Id":"64075",
+            "Text":"Let's say I am browsing an HTTP accessible web site (i.e. NOT HTTPS) , is the traffic encrypted through the WiFi connection?In other words, is there \"data privacy\" functionality over WiFi regardless of higher layer protocols?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-04T14:31:43.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"74aec8d3-f9a1-4d27-98ad-fb5b15b6cbe6",
+            "UserId":"234",
+            "CloseReasonId":null,
+            "PostId":"22642",
+            "PostHistoryTypeId":"1",
+            "Id":"64076",
+            "Text":"Can traffic be inspected through WiFi?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-04T14:31:43.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"74aec8d3-f9a1-4d27-98ad-fb5b15b6cbe6",
+            "UserId":"234",
+            "CloseReasonId":null,
+            "PostId":"22642",
+            "PostHistoryTypeId":"3",
+            "Id":"64077",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-05-04T15:18:27.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb416f54-4011-4718-8525-0e14854ab141",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"22642",
+            "PostHistoryTypeId":"5",
+            "Id":"64092",
+            "Text":"> **Possible Duplicate:**  > [If I use free WiFi in a hotspot, can data be easily sniffed?](http:\/\/android.stackexchange.com\/questions\/22148\/if-i-use-free-wifi-in-a-hotspot-can-data-be-easily-sniffed)  Let's say I am browsing an HTTP accessible web site (i.e. NOT HTTPS) , is the traffic encrypted through the WiFi connection?In other words, is there \"data privacy\" functionality over WiFi regardless of higher layer protocols?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-05-04T15:18:24.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"26c9828a-7fac-4396-9b88-16582a3c627f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"22642",
+            "PostHistoryTypeId":"10",
+            "Id":"64093",
+            "Text":"{\"OriginalQuestionIds\":[22148],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"The sky go app, without asking for root, can somehow recognise if you have root or not. Now, to my knowledge, if you deny an app access to the su files (or it doesn't get permission in the first place) it can't, so how can they do this??",
+    "ViewCount":"12",
+    "LastActivityDate":"2016-03-02T23:35:28.600",
+    "ClosedDate":"2016-03-03T00:55:24.477",
+    "Title":"How does sky go detect root?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116168",
+    "CreationDate":"2016-03-02T23:35:28.600",
+    "FavoriteCount":null,
+    "Id":"138672",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T23:35:28.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebf4b3ac-6a75-41c3-bfdc-bdeab2339a77",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"138672",
+            "PostHistoryTypeId":"2",
+            "Id":"463495",
+            "Text":"The sky go app, without asking for root, can somehow recognise if you have root or not. Now, to my knowledge, if you deny an app access to the su files (or it doesn't get permission in the first place) it can't, so how can they do this??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T23:35:28.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebf4b3ac-6a75-41c3-bfdc-bdeab2339a77",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"138672",
+            "PostHistoryTypeId":"1",
+            "Id":"463496",
+            "Text":"How does sky go detect root?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T23:35:28.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebf4b3ac-6a75-41c3-bfdc-bdeab2339a77",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"138672",
+            "PostHistoryTypeId":"3",
+            "Id":"463497",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-03T00:55:24.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf7a4108-cdb7-463a-8694-cfee64affa09",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138672",
+            "PostHistoryTypeId":"10",
+            "Id":"463506",
+            "Text":"{\"OriginalQuestionIds\":[29359],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"In the upper section of each LINE user's home screen a background picture is displayed, called Home Cover Photo in LINE's own terms. How is it possible to save the cover photo of another user?",
+    "ViewCount":"77",
+    "LastActivityDate":"2016-01-20T07:16:31.533",
+    "ClosedDate":"2016-01-21T10:13:37.673",
+    "Title":"How to save the Home Cover Photo of a LINE profile?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"142761",
+    "CreationDate":"2016-01-19T07:36:46.557",
+    "FavoriteCount":null,
+    "Id":"134669",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-19T07:36:46.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"da1de9cf-a97f-4c36-8e8b-febf9d2f54b0",
+            "UserId":"142761",
+            "CloseReasonId":null,
+            "PostId":"134669",
+            "PostHistoryTypeId":"2",
+            "Id":"447116",
+            "Text":"In the upper section of each [LINE][1] user's home screen a background picture is displayed, called *Home Cover Photo* in [LINE's own terms][2]. How is it possible to save the cover photo of another user?  [1]: https:\/\/play.google.com\/store\/apps\/details?id=jp.naver.line.android  [2]: https:\/\/help.line.me\/line\/android\/categoryId\/20000181\/2\/sp?lang=en"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-19T07:36:46.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"da1de9cf-a97f-4c36-8e8b-febf9d2f54b0",
+            "UserId":"142761",
+            "CloseReasonId":null,
+            "PostId":"134669",
+            "PostHistoryTypeId":"1",
+            "Id":"447117",
+            "Text":"How to save the Home Cover Photo of a LINE profile?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-19T07:36:46.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"da1de9cf-a97f-4c36-8e8b-febf9d2f54b0",
+            "UserId":"142761",
+            "CloseReasonId":null,
+            "PostId":"134669",
+            "PostHistoryTypeId":"3",
+            "Id":"447118",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-21T10:13:37.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"cda3a4ec-5990-42c3-a525-f34e690e5cc0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"134669",
+            "PostHistoryTypeId":"10",
+            "Id":"447981",
+            "Text":"{\"OriginalQuestionIds\":[67053],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

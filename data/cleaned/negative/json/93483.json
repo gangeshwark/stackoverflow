@@ -1,0 +1,83 @@
+{
+    "Body":"Link2sd not working on my rooted phone please help.trying from 2 weeks. having Android 4.2 jellybean. it says Mount script cannot be created. no such file or directory.",
+    "ViewCount":"74",
+    "LastActivityDate":"2015-01-01T14:34:11.487",
+    "ClosedDate":"2015-01-31T07:31:24.753",
+    "Title":"link2sd doesnot work please help",
+    "LastEditorUserId":"1951",
+    "Tags":"",
+    "LastEditDate":"2015-01-01T14:34:11.487",
+    "CommentCount":"9",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87333",
+    "CreationDate":"2015-01-01T13:39:28.903",
+    "FavoriteCount":"1",
+    "Id":"93483",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-01T13:39:28.903",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4e1f663-f056-4c33-93dd-dcd9a61367e5",
+            "UserId":"87333",
+            "CloseReasonId":null,
+            "PostId":"93483",
+            "PostHistoryTypeId":"2",
+            "Id":"306508",
+            "Text":"Link2sd not working on my rooted phone please help.trying from 2 weeks. having Android 4.2 jellybean. it says Mount script cannot be created. no such file or directory."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-01T13:39:28.903",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4e1f663-f056-4c33-93dd-dcd9a61367e5",
+            "UserId":"87333",
+            "CloseReasonId":null,
+            "PostId":"93483",
+            "PostHistoryTypeId":"1",
+            "Id":"306509",
+            "Text":"link2sd doesnot work please help"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-01T13:39:28.903",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4e1f663-f056-4c33-93dd-dcd9a61367e5",
+            "UserId":"87333",
+            "CloseReasonId":null,
+            "PostId":"93483",
+            "PostHistoryTypeId":"3",
+            "Id":"306510",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-01-01T14:34:11.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"26b7dc35-0f90-43c8-a309-563542d552f8",
+            "UserId":"1951",
+            "CloseReasonId":null,
+            "PostId":"93483",
+            "PostHistoryTypeId":"6",
+            "Id":"306533",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-31T07:31:24.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7bd3c58-655c-4ad0-97db-9ab0fd1e636b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"93483",
+            "PostHistoryTypeId":"10",
+            "Id":"317754",
+            "Text":"{\"OriginalQuestionIds\":[29891],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        }
+    ]
+}

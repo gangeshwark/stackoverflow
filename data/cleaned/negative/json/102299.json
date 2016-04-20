@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to find an app that filters out spam on an IMAP email connection.I've looked around and can't find one that specifically states that it does and the Gmail app doesn't do so for non-Gmail accounts.I need one for my Galay 3 (JB) and for my Nexus (Lollipop).Doesn't have to be the same one but would be preferable.Any suggestions?",
+    "ViewCount":"1352",
+    "LastActivityDate":"2015-07-24T09:39:34.207",
+    "ClosedDate":"2015-07-24T19:09:25.653",
+    "Title":"email app for IMAP with spam filtering",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6560",
+    "CreationDate":"2015-03-12T13:10:56.730",
+    "FavoriteCount":null,
+    "Id":"102299",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T13:10:56.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"de392f4b-3424-49e0-914d-fdc99eb46043",
+            "UserId":"6560",
+            "CloseReasonId":null,
+            "PostId":"102299",
+            "PostHistoryTypeId":"2",
+            "Id":"333081",
+            "Text":"I am trying to find an app that filters out spam on an IMAP email connection.I've looked around and can't find one that specifically states that it does and the Gmail app doesn't do so for non-Gmail accounts.I need one for my Galay 3 (JB) and for my Nexus (Lollipop).Doesn't have to be the same one but would be preferable.Any suggestions?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T13:10:56.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"de392f4b-3424-49e0-914d-fdc99eb46043",
+            "UserId":"6560",
+            "CloseReasonId":null,
+            "PostId":"102299",
+            "PostHistoryTypeId":"1",
+            "Id":"333082",
+            "Text":"email app for IMAP with spam filtering"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T13:10:56.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"de392f4b-3424-49e0-914d-fdc99eb46043",
+            "UserId":"6560",
+            "CloseReasonId":null,
+            "PostId":"102299",
+            "PostHistoryTypeId":"3",
+            "Id":"333083",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-24T19:09:25.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"a77d4f19-f3f2-413a-ba18-23e86d6abbd0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"102299",
+            "PostHistoryTypeId":"10",
+            "Id":"381989",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

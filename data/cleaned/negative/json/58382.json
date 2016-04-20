@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to force a few apps in particular to not stop when I boot, reboot, etc. The reason why is irrelevant ... I would like to know if or how Aneroid OSes, in general, load apps into memory, and how I can alter the part of it that does that to load only what I wish(including system processes, of course). How can this be done?Again, I would like to prevent them from starting, or going to memory at all, not just kill them after they'ce started.Short of what conditions, how can this be done?",
+    "ViewCount":"19",
+    "LastActivityDate":"2013-12-06T02:29:55.893",
+    "ClosedDate":"2013-12-06T02:35:11.273",
+    "Title":"Hello. How can I forcibly prevent specific apps from starting at boot?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47707",
+    "CreationDate":"2013-12-06T02:29:55.893",
+    "FavoriteCount":null,
+    "Id":"58382",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-06T02:29:55.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ab1611b-bfdd-4ca1-bb62-376982382ab9",
+            "UserId":"47707",
+            "CloseReasonId":null,
+            "PostId":"58382",
+            "PostHistoryTypeId":"2",
+            "Id":"196334",
+            "Text":"I would like to force a few apps in particular to not stop when I boot, reboot, etc. The reason why is irrelevant ... I would like to know if or how Aneroid OSes, in general, load apps into memory, and how I can alter the part of it that does that to load only what I wish(including system processes, of course). How can this be done?Again, I would like to prevent them from starting, or going to memory at all, not just kill them after they'ce started.Short of what conditions, how can this be done?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-06T02:29:55.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ab1611b-bfdd-4ca1-bb62-376982382ab9",
+            "UserId":"47707",
+            "CloseReasonId":null,
+            "PostId":"58382",
+            "PostHistoryTypeId":"1",
+            "Id":"196335",
+            "Text":"Hello. How can I forcibly prevent specific apps from starting at boot?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-06T02:29:55.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ab1611b-bfdd-4ca1-bb62-376982382ab9",
+            "UserId":"47707",
+            "CloseReasonId":null,
+            "PostId":"58382",
+            "PostHistoryTypeId":"3",
+            "Id":"196336",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-06T02:35:11.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f7780ce-deb5-440a-8ec9-1bc472ac9ede",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"58382",
+            "PostHistoryTypeId":"10",
+            "Id":"196341",
+            "Text":"{\"OriginalQuestionIds\":[30332],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

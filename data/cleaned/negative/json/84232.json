@@ -1,0 +1,71 @@
+{
+    "Body":"Somehow I broked up my Samsung GT I9000 Power button (So I can't power it on)I powered it on using PC ADB command and I remapped the Home to be a power button (long pressing Home shows me Power Options and single press will block the phone)Now...is there a way to foll the phone to power up using another button than that power button that is broken?I have Rooted my phone (superuser)",
+    "ViewCount":"13",
+    "LastActivityDate":"2014-10-06T17:31:46.683",
+    "ClosedDate":"2014-10-07T17:26:08.067",
+    "Title":"Power button replacement (Remap)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"75409",
+    "CreationDate":"2014-10-06T17:31:46.683",
+    "FavoriteCount":"2",
+    "Id":"84232",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-06T17:31:46.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"48165585-b2fa-48a5-b09f-b2048fabb510",
+            "UserId":"75409",
+            "CloseReasonId":null,
+            "PostId":"84232",
+            "PostHistoryTypeId":"2",
+            "Id":"276419",
+            "Text":"Somehow I broked up my Samsung GT I9000 Power button (So I can't power it on)I powered it on using PC ADB command and I remapped the Home to be a power button (long pressing Home shows me Power Options and single press will block the phone)Now...is there a way to foll the phone to power up using another button than that power button that is broken?I have Rooted my phone (superuser)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-06T17:31:46.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"48165585-b2fa-48a5-b09f-b2048fabb510",
+            "UserId":"75409",
+            "CloseReasonId":null,
+            "PostId":"84232",
+            "PostHistoryTypeId":"1",
+            "Id":"276420",
+            "Text":"Power button replacement (Remap)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-06T17:31:46.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"48165585-b2fa-48a5-b09f-b2048fabb510",
+            "UserId":"75409",
+            "CloseReasonId":null,
+            "PostId":"84232",
+            "PostHistoryTypeId":"3",
+            "Id":"276421",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-07T17:26:08.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"18cd0884-c8df-45cf-a371-5a7e3f0fd464",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84232",
+            "PostHistoryTypeId":"10",
+            "Id":"276688",
+            "Text":"{\"OriginalQuestionIds\":[55920],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

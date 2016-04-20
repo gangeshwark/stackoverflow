@@ -1,0 +1,71 @@
+{
+    "Body":"NVRAM Remains in data partition. Then why IMEI is not lost after data reset?",
+    "ViewCount":"95",
+    "LastActivityDate":"2015-06-27T22:26:07.793",
+    "ClosedDate":"2015-11-02T17:08:04.660",
+    "Title":"How does IMEI Survives Data Reset",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97192",
+    "CreationDate":"2015-06-24T16:30:32.947",
+    "FavoriteCount":null,
+    "Id":"113314",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-24T16:30:32.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0bfb698-476b-408d-918b-674ca73e2a72",
+            "UserId":"97192",
+            "CloseReasonId":null,
+            "PostId":"113314",
+            "PostHistoryTypeId":"2",
+            "Id":"371329",
+            "Text":"NVRAM Remains in data partition. Then why IMEI is not lost after data reset?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-24T16:30:32.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0bfb698-476b-408d-918b-674ca73e2a72",
+            "UserId":"97192",
+            "CloseReasonId":null,
+            "PostId":"113314",
+            "PostHistoryTypeId":"1",
+            "Id":"371330",
+            "Text":"How does IMEI Survives Data Reset"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-24T16:30:32.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0bfb698-476b-408d-918b-674ca73e2a72",
+            "UserId":"97192",
+            "CloseReasonId":null,
+            "PostId":"113314",
+            "PostHistoryTypeId":"3",
+            "Id":"371331",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-11-02T17:08:04.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"badecd32-042d-4d11-88ee-4a94776e6493",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"113314",
+            "PostHistoryTypeId":"10",
+            "Id":"419867",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

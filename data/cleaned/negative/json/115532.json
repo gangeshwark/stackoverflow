@@ -1,0 +1,71 @@
+{
+    "Body":"I've just built android source using make full_x86-eng. It does not give any compilation error, but Android emulator runs without Internet connection. If I run emulator with default images, all works fine. And I use direct connection without proxy. Any ideas?netstat -rn                                         Proto Recv-Q Send-Q Local Address          Foreign Address        State tcp       0      0 127.0.0.1:5037         0.0.0.0:*              LISTEN tcp       0      0 0.0.0.0:5555           0.0.0.0:*              LISTEN tcp       0     95 10.0.2.15:5555         10.0.2.2:58532         ESTABLISHEDnetcfgeth0     UP                                   10.0.2.15\/24  0x00001043 52:54:00:12:34:56    sit0     DOWN                                   0.0.0.0\/0   0x00000080 00:00:00:00:00:00    lo       UP                                   127.0.0.1\/8   0x00000049 00:00:00:00:00:00ping 10.0.2.2                                        connect: Network is unreachable ",
+    "ViewCount":"51",
+    "LastActivityDate":"2015-07-17T06:05:11.553",
+    "ClosedDate":"2015-07-19T16:56:12.257",
+    "Title":"No internet after building from source",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117169",
+    "CreationDate":"2015-07-17T06:05:11.553",
+    "FavoriteCount":null,
+    "Id":"115532",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-17T06:05:11.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b707f3d-d60f-4d36-9838-0e3da82ebd98",
+            "UserId":"117169",
+            "CloseReasonId":null,
+            "PostId":"115532",
+            "PostHistoryTypeId":"2",
+            "Id":"379439",
+            "Text":"I've just built android source using *make full_x86-eng*. It does not give any compilation error, but Android emulator runs without Internet connection. If I run emulator with default images, all works fine. And I use direct connection without proxy. Any ideas?    netstat -rn                                             Proto Recv-Q Send-Q Local Address          Foreign Address        State     tcp       0      0 127.0.0.1:5037         0.0.0.0:*              LISTEN     tcp       0      0 0.0.0.0:5555           0.0.0.0:*              LISTEN     tcp       0     95 10.0.2.15:5555         10.0.2.2:58532         ESTABLISHED    netcfg        eth0     UP                                   10.0.2.15\/24  0x00001043 52:54:00:12:34:56        sit0     DOWN                                   0.0.0.0\/0   0x00000080 00:00:00:00:00:00        lo       UP                                   127.0.0.1\/8   0x00000049 00:00:00:00:00:00    ping 10.0.2.2                                            connect: Network is unreachable "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-17T06:05:11.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b707f3d-d60f-4d36-9838-0e3da82ebd98",
+            "UserId":"117169",
+            "CloseReasonId":null,
+            "PostId":"115532",
+            "PostHistoryTypeId":"1",
+            "Id":"379440",
+            "Text":"No internet after building from source"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-17T06:05:11.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b707f3d-d60f-4d36-9838-0e3da82ebd98",
+            "UserId":"117169",
+            "CloseReasonId":null,
+            "PostId":"115532",
+            "PostHistoryTypeId":"3",
+            "Id":"379441",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-19T16:56:12.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c9d421a-134f-4fe4-8464-a51d441c56b7",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115532",
+            "PostHistoryTypeId":"10",
+            "Id":"380246",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

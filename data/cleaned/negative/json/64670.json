@@ -1,0 +1,71 @@
+{
+    "Body":"I am going to develop an app for Android, and I'm trying to understand whether it is possible to store maps for offline usage (anyway I am not sure this is a question for developers).Google Maps TOS is enough explicit about the fact that maps can't be stored (if not with some strict limitation), see https:\/\/developers.google.com\/maps\/terms?csw=1 (10.1.3): (b) No Pre-Fetching, Caching, or Storage of Content. You must not pre-fetch, cache, or store any Content, except that you may store: (i) limited amounts of Content for the  purpose of improving the performance of your Maps API Implementation if you do so  temporarily (and in no event for more than 30 calendar days), securely, and in a manner  that does not permit use of the Content outside of the Service;while OSM provide public free API and resources for the exploiting of its knowledge base.Now, I am really confused about the Locus Tweak behaviour. It allows me to easily store tiled maps by Google maps even for wide areas with good definition, when it would be supposed not to be allowed, on the other hand when I try to store OSM maps, the answer is: Searching on Internet and the page http:\/\/support.locusmap.eu\/hc\/en-us\/articles\/200090132 is not of help, what am I missing here?In conclusion: I would like to understand how an app downloaded by 100.000+ users can use this way Google Maps, and OSM which would have been my second choice, seems not to allow it.",
+    "ViewCount":"2296",
+    "LastActivityDate":"2014-03-03T07:53:10.490",
+    "ClosedDate":"2014-03-04T12:10:20.167",
+    "Title":"Locus Tweak allows Google Maps download, not OSM!",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54924",
+    "CreationDate":"2014-03-03T03:04:20.427",
+    "FavoriteCount":"2",
+    "Id":"64670",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-03T03:04:20.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"a76f142a-8c24-40e0-a524-af2b555350a8",
+            "UserId":"54924",
+            "CloseReasonId":null,
+            "PostId":"64670",
+            "PostHistoryTypeId":"2",
+            "Id":"220063",
+            "Text":"I am going to develop an app for Android, and I'm trying to understand whether it is possible to store maps for offline usage (anyway I am not sure this is a question for developers).Google Maps TOS is enough explicit about the fact that maps can't be stored (if not with some strict limitation), see https:\/\/developers.google.com\/maps\/terms?csw=1 (10.1.3):     (b) No Pre-Fetching, Caching, or Storage of Content. You must not pre-fetch, cache, or     store any Content, except that you may store: (i) limited amounts of Content for the      purpose of improving the performance of your Maps API Implementation if you do so      temporarily (and in no event for more than 30 calendar days), securely, and in a manner      that does not permit use of the Content outside of the Service;while OSM provide public free API and resources for the exploiting of its knowledge base.Now, I am really confused about the Locus Tweak behaviour. It allows me to easily store tiled maps by Google maps even for wide areas with good definition, when it would be supposed not to be allowed, on the other hand when I try to store OSM maps, the answer is: ![enter image description here][1]Searching on Internet and the page http:\/\/support.locusmap.eu\/hc\/en-us\/articles\/200090132 is not of help, what am I missing here?In conclusion: I would like to understand how an app downloaded by 100.000+ users can use this way Google Maps, and OSM which would have been my second choice, seems not to allow it.  [1]: http:\/\/i.stack.imgur.com\/mWNfo.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-03T03:04:20.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"a76f142a-8c24-40e0-a524-af2b555350a8",
+            "UserId":"54924",
+            "CloseReasonId":null,
+            "PostId":"64670",
+            "PostHistoryTypeId":"1",
+            "Id":"220064",
+            "Text":"Locus Tweak allows Google Maps download, not OSM!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-03T03:04:20.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"a76f142a-8c24-40e0-a524-af2b555350a8",
+            "UserId":"54924",
+            "CloseReasonId":null,
+            "PostId":"64670",
+            "PostHistoryTypeId":"3",
+            "Id":"220065",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-03-04T12:10:20.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"207bf23d-5354-4f60-8940-0cdb9ac4ed2d",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"64670",
+            "PostHistoryTypeId":"10",
+            "Id":"220423",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

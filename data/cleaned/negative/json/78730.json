@@ -1,0 +1,71 @@
+{
+    "Body":"A couple of days ago, I lost my dear Android tablet. I dont know if I have left it somewhere or if it in fact was stolen :\/It does not have any 3G module, and hence no SIM, inserted. I haven't logged into my Google Account on the tablet. And I have not installed any tracking software.The tablet have a GPS installed. Is there any way to track the tablet using only the serial-number?",
+    "ViewCount":"1505",
+    "LastActivityDate":"2014-08-04T11:25:36.133",
+    "ClosedDate":"2014-08-04T15:15:24.297",
+    "Title":"Lost tablet - No SIM, no google account, no tracking software, can I track it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68866",
+    "CreationDate":"2014-08-04T11:10:50.770",
+    "FavoriteCount":null,
+    "Id":"78730",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T11:10:50.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4a390b8-14f9-43c4-96f7-4f3aed1fad98",
+            "UserId":"68866",
+            "CloseReasonId":null,
+            "PostId":"78730",
+            "PostHistoryTypeId":"2",
+            "Id":"259726",
+            "Text":"A couple of days ago, I lost my dear Android tablet. I dont know if I have left it somewhere or if it in fact was stolen :\/It does not have any 3G module, and hence no SIM, inserted. I haven't logged into my Google Account on the tablet. And I have not installed any tracking software.The tablet have a GPS installed. Is there any way to track the tablet using only the serial-number?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T11:10:50.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4a390b8-14f9-43c4-96f7-4f3aed1fad98",
+            "UserId":"68866",
+            "CloseReasonId":null,
+            "PostId":"78730",
+            "PostHistoryTypeId":"1",
+            "Id":"259727",
+            "Text":"Lost tablet - No SIM, no google account, no tracking software, can I track it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T11:10:50.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4a390b8-14f9-43c4-96f7-4f3aed1fad98",
+            "UserId":"68866",
+            "CloseReasonId":null,
+            "PostId":"78730",
+            "PostHistoryTypeId":"3",
+            "Id":"259728",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-04T15:15:24.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"22b8d662-ab18-4860-871b-df1996cb43ee",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"78730",
+            "PostHistoryTypeId":"10",
+            "Id":"259786",
+            "Text":"{\"OriginalQuestionIds\":[26372],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

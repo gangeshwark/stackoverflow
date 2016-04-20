@@ -1,0 +1,71 @@
+{
+    "Body":"Lost all internal memory files when connected to windows 7 PCAfter plugged into the system and opened internal memory, automatically files are missing.Tried all recovery files including Recuva, but phone memory is not listed in the scanning window.My mobile is in Official mode only (Non Rooted).Wanna back all my Photos in DCIM folder at Internal memory storage.pls help me with proper guidance.",
+    "ViewCount":"12",
+    "LastActivityDate":"2015-11-11T15:56:12.907",
+    "ClosedDate":"2015-11-11T16:05:02.303",
+    "Title":"Moto G2: How to recover lost internal memory files in Android 5.0?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"74300",
+    "CreationDate":"2015-11-11T15:03:49.450",
+    "FavoriteCount":null,
+    "Id":"128564",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-11T15:03:49.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"dbb62411-afbd-487f-af8f-c8f91ca45d2b",
+            "UserId":"74300",
+            "CloseReasonId":null,
+            "PostId":"128564",
+            "PostHistoryTypeId":"2",
+            "Id":"423006",
+            "Text":"1. Lost all **internal memory files** when connected to windows 7 PC2. After plugged into the system and opened internal memory, automatically files are missing.3. Tried all recovery files including **Recuva**, but phone memory is not listed in the scanning window.My mobile is in Official mode only (Non Rooted).4. Wanna back all my Photos in **DCIM** folder at Internal memory storage.5. pls help me with proper guidance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-11T15:03:49.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"dbb62411-afbd-487f-af8f-c8f91ca45d2b",
+            "UserId":"74300",
+            "CloseReasonId":null,
+            "PostId":"128564",
+            "PostHistoryTypeId":"1",
+            "Id":"423007",
+            "Text":"Moto G2: How to recover lost internal memory files in Android 5.0?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-11T15:03:49.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"dbb62411-afbd-487f-af8f-c8f91ca45d2b",
+            "UserId":"74300",
+            "CloseReasonId":null,
+            "PostId":"128564",
+            "PostHistoryTypeId":"3",
+            "Id":"423008",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-11T16:05:02.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0abcb5d-5b99-4fa7-a4ff-90ea9ee2dc0b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"128564",
+            "PostHistoryTypeId":"10",
+            "Id":"423056",
+            "Text":"{\"OriginalQuestionIds\":[15869],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

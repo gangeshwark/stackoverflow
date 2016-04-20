@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why did \/sdcard\/ turn into \/sdcard\/0\/ with 4.2?  I'm just really confused about the file structure of the sdcard on the root of the sdcard theres the regular symlink of \/sdcard to the actual internal sdcard folder, but heres where it gets weirdin the \/storage folder theres a symlink from \/storage\/sdcard0 (the normal sdcard folder) to \/storage\/emulated\/legacy, which i guess is the folder that everything was moved to when i updated to cm10.1, but there is also a \/storage\/emulated\/0 folder, which was the automatic backup of my sdcard when i updated to 10.1, but it stays in sync with the \/storage\/emulated\/legacy folderalso in \/data\/media there are \/data\/media\/0 and \/data\/media\/legacy folders (not symlinks, as far as i can tell) and \/mnt\/shell has the same folders, \/mnt\/shell\/legacy and \/mnt\/shell\/0 (once again, not symlinks)any idea which folders i can delete? is there any way to return to the old file structure where the sdcard was just at \/storage\/sdcard0?",
+    "ViewCount":"37",
+    "LastActivityDate":"2012-12-18T23:13:44.377",
+    "ClosedDate":"2012-12-19T01:30:50.090",
+    "Title":"What's up with the 4.2 file structure?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25217",
+    "CreationDate":"2012-12-18T23:13:44.377",
+    "FavoriteCount":"1",
+    "Id":"35699",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-18T23:13:44.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"44e107a3-eb32-4e68-8ff2-1e732ebc8416",
+            "UserId":"25217",
+            "CloseReasonId":null,
+            "PostId":"35699",
+            "PostHistoryTypeId":"2",
+            "Id":"107252",
+            "Text":"I'm just really confused about the file structure of the sdcard on the root of the sdcard theres the regular symlink of \/sdcard to the actual internal sdcard folder, but heres where it gets weirdin the \/storage folder theres a symlink from \/storage\/sdcard0 (the normal sdcard folder) to \/storage\/emulated\/legacy, which i guess is the folder that everything was moved to when i updated to cm10.1, but there is also a \/storage\/emulated\/0 folder, which was the automatic backup of my sdcard when i updated to 10.1, but it stays in sync with the \/storage\/emulated\/legacy folderalso in \/data\/media there are \/data\/media\/0 and \/data\/media\/legacy folders (not symlinks, as far as i can tell) and \/mnt\/shell has the same folders, \/mnt\/shell\/legacy and \/mnt\/shell\/0 (once again, not symlinks)any idea which folders i can delete? is there any way to return to the old file structure where the sdcard was just at \/storage\/sdcard0?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-18T23:13:44.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"44e107a3-eb32-4e68-8ff2-1e732ebc8416",
+            "UserId":"25217",
+            "CloseReasonId":null,
+            "PostId":"35699",
+            "PostHistoryTypeId":"1",
+            "Id":"107253",
+            "Text":"What's up with the 4.2 file structure?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-18T23:13:44.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"44e107a3-eb32-4e68-8ff2-1e732ebc8416",
+            "UserId":"25217",
+            "CloseReasonId":null,
+            "PostId":"35699",
+            "PostHistoryTypeId":"3",
+            "Id":"107254",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-12-19T01:30:50.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"91ea6b63-cde5-4007-814f-ecc543c55a3f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"35699",
+            "PostHistoryTypeId":"5",
+            "Id":"107272",
+            "Text":"> **Possible Duplicate:**  > [Why did \/sdcard\/ turn into \/sdcard\/0\/ with 4.2?](http:\/\/android.stackexchange.com\/questions\/35541\/why-did-sdcard-turn-into-sdcard-0-with-4-2)  I'm just really confused about the file structure of the sdcard on the root of the sdcard theres the regular symlink of \/sdcard to the actual internal sdcard folder, but heres where it gets weirdin the \/storage folder theres a symlink from \/storage\/sdcard0 (the normal sdcard folder) to \/storage\/emulated\/legacy, which i guess is the folder that everything was moved to when i updated to cm10.1, but there is also a \/storage\/emulated\/0 folder, which was the automatic backup of my sdcard when i updated to 10.1, but it stays in sync with the \/storage\/emulated\/legacy folderalso in \/data\/media there are \/data\/media\/0 and \/data\/media\/legacy folders (not symlinks, as far as i can tell) and \/mnt\/shell has the same folders, \/mnt\/shell\/legacy and \/mnt\/shell\/0 (once again, not symlinks)any idea which folders i can delete? is there any way to return to the old file structure where the sdcard was just at \/storage\/sdcard0?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-12-19T01:30:50.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a053bf4-eab6-4a55-af90-e0fe649a58bb",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"35699",
+            "PostHistoryTypeId":"10",
+            "Id":"107273",
+            "Text":"{\"OriginalQuestionIds\":[35541],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

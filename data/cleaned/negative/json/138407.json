@@ -1,0 +1,71 @@
+{
+    "Body":"How do I move everything from the SD card to internal storage?I can't find anything that is even close to what I need to do. I have looked and looked",
+    "ViewCount":"37",
+    "LastActivityDate":"2016-02-29T15:41:11.100",
+    "ClosedDate":"2016-03-01T21:05:55.977",
+    "Title":"SD card and internal",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153823",
+    "CreationDate":"2016-02-29T04:46:44.930",
+    "FavoriteCount":null,
+    "Id":"138407",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-29T04:46:44.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"172449e9-1bf6-4f82-9397-f5a78c59435f",
+            "UserId":"153823",
+            "CloseReasonId":null,
+            "PostId":"138407",
+            "PostHistoryTypeId":"2",
+            "Id":"462530",
+            "Text":"How do I move everything from the SD card to internal storage?I can't find anything that is even close to what I need to do. I have looked and looked"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-29T04:46:44.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"172449e9-1bf6-4f82-9397-f5a78c59435f",
+            "UserId":"153823",
+            "CloseReasonId":null,
+            "PostId":"138407",
+            "PostHistoryTypeId":"1",
+            "Id":"462531",
+            "Text":"SD card and internal"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-29T04:46:44.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"172449e9-1bf6-4f82-9397-f5a78c59435f",
+            "UserId":"153823",
+            "CloseReasonId":null,
+            "PostId":"138407",
+            "PostHistoryTypeId":"3",
+            "Id":"462532",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-03-01T21:05:55.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"63e80438-23da-4c63-a9e7-510eb2313ed1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138407",
+            "PostHistoryTypeId":"10",
+            "Id":"463074",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

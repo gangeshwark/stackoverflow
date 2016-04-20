@@ -1,0 +1,71 @@
+{
+    "Body":"Is this red star notification legit or is it some kind of spam to sell an app or a virus in itself???  How should I proceed??",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-07-21T15:51:53.933",
+    "ClosedDate":"2013-07-24T09:15:26.127",
+    "Title":"I've received a notification with a red star in my notification bar stating that 3 viruses have been detected, click now to remove",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"37972",
+    "CreationDate":"2013-07-21T15:51:53.933",
+    "FavoriteCount":null,
+    "Id":"49604",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-21T15:51:53.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"bca438a8-0fcb-4260-93c0-85332ae54cdc",
+            "UserId":"37972",
+            "CloseReasonId":null,
+            "PostId":"49604",
+            "PostHistoryTypeId":"2",
+            "Id":"161875",
+            "Text":"Is this red star notification legit or is it some kind of spam to sell an app or a virus in itself???  How should I proceed??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-21T15:51:53.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"bca438a8-0fcb-4260-93c0-85332ae54cdc",
+            "UserId":"37972",
+            "CloseReasonId":null,
+            "PostId":"49604",
+            "PostHistoryTypeId":"1",
+            "Id":"161876",
+            "Text":"I've received a notification with a red star in my notification bar stating that 3 viruses have been detected, click now to remove"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-21T15:51:53.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"bca438a8-0fcb-4260-93c0-85332ae54cdc",
+            "UserId":"37972",
+            "CloseReasonId":null,
+            "PostId":"49604",
+            "PostHistoryTypeId":"3",
+            "Id":"161877",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-24T09:15:26.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"b25a24d2-661c-4f3b-b3a6-8de0d6b685c7",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"49604",
+            "PostHistoryTypeId":"10",
+            "Id":"162689",
+            "Text":"{\"OriginalQuestionIds\":[18232],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

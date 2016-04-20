@@ -1,0 +1,71 @@
+{
+    "Body":"my device is ondo vi10. it is a android tablet i bought from a IT Fair. The current android version is 4.0.3. What are some ways i can update it?",
+    "ViewCount":"75",
+    "LastActivityDate":"2014-07-13T13:18:02.750",
+    "ClosedDate":"2014-07-13T18:55:29.173",
+    "Title":"What can i do to update the android version of my android device if there is no available update available for my device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67173",
+    "CreationDate":"2014-07-13T09:50:39.247",
+    "FavoriteCount":null,
+    "Id":"77140",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T09:50:39.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c22bdba-24a7-45e5-95bd-b15da92b272a",
+            "UserId":"67173",
+            "CloseReasonId":null,
+            "PostId":"77140",
+            "PostHistoryTypeId":"2",
+            "Id":"254260",
+            "Text":"my device is ondo vi10. it is a android tablet i bought from a IT Fair. The current android version is 4.0.3. What are some ways i can update it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T09:50:39.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c22bdba-24a7-45e5-95bd-b15da92b272a",
+            "UserId":"67173",
+            "CloseReasonId":null,
+            "PostId":"77140",
+            "PostHistoryTypeId":"1",
+            "Id":"254261",
+            "Text":"What can i do to update the android version of my android device if there is no available update available for my device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T09:50:39.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c22bdba-24a7-45e5-95bd-b15da92b272a",
+            "UserId":"67173",
+            "CloseReasonId":null,
+            "PostId":"77140",
+            "PostHistoryTypeId":"3",
+            "Id":"254262",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-13T18:55:29.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7b3ba5f-bebe-4347-81a1-dea1805fed93",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77140",
+            "PostHistoryTypeId":"10",
+            "Id":"254371",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

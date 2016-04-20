@@ -1,0 +1,71 @@
+{
+    "Body":"I'm in New Zealand and have a Huawei G600 phone (Android 4.0.4). I bought it from DSE and it's Telecom branded.In Google Keyboard, the only available input language is \"English (US)\".I.e., when I go to Settings -> Language & Input -> Google Keyboard Settings -> Input languages, the only item listed under \"Active Input Methods\" is \"English (US)\" - so even when I uncheck \"Use system language\", \"English (US)\" is the only listed option.The same is true with other input methods as well (E.g., neither the stock Android Keyboard nor Google Voice Typing list any option other than US English.)I'd like to use other languages. Aside from installing a 3rd party keyboard like Swype, is there a way to enable or download the stock language options that my phone is missing?BTW, the phone is rooted - though the problem has existed all along.Thanks in advance :)",
+    "ViewCount":"26",
+    "LastActivityDate":"2013-11-22T23:25:43.370",
+    "ClosedDate":"2013-11-24T23:10:50.950",
+    "Title":"Missing input languages",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46746",
+    "CreationDate":"2013-11-22T23:25:43.370",
+    "FavoriteCount":null,
+    "Id":"57554",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-22T23:25:43.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"8aa6e6ea-f2ed-4298-869e-c7787b64d157",
+            "UserId":"46746",
+            "CloseReasonId":null,
+            "PostId":"57554",
+            "PostHistoryTypeId":"2",
+            "Id":"193187",
+            "Text":"I'm in New Zealand and have a Huawei G600 phone (Android 4.0.4). I bought it from DSE and it's Telecom branded.In Google Keyboard, the only available input language is \"English (US)\".I.e., when I go to Settings -> Language & Input -> Google Keyboard Settings -> Input languages, the only item listed under \"Active Input Methods\" is \"English (US)\" - so even when I uncheck \"Use system language\", \"English (US)\" is the only listed option.The same is true with other input methods as well (E.g., neither the stock Android Keyboard nor Google Voice Typing list any option other than US English.)I'd like to use other languages. Aside from installing a 3rd party keyboard like Swype, is there a way to enable or download the stock language options that my phone is missing?BTW, the phone is rooted - though the problem has existed all along.Thanks in advance :)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-22T23:25:43.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"8aa6e6ea-f2ed-4298-869e-c7787b64d157",
+            "UserId":"46746",
+            "CloseReasonId":null,
+            "PostId":"57554",
+            "PostHistoryTypeId":"1",
+            "Id":"193188",
+            "Text":"Missing input languages"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-22T23:25:43.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"8aa6e6ea-f2ed-4298-869e-c7787b64d157",
+            "UserId":"46746",
+            "CloseReasonId":null,
+            "PostId":"57554",
+            "PostHistoryTypeId":"3",
+            "Id":"193189",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-24T23:10:50.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"c19e92a8-7746-40c2-b2e5-693b4cea1b75",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"57554",
+            "PostHistoryTypeId":"10",
+            "Id":"193571",
+            "Text":"{\"OriginalQuestionIds\":[20599],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

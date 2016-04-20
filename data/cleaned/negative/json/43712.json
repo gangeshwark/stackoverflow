@@ -1,0 +1,83 @@
+{
+    "Body":"How can I minimize UI lag by ensuring that global UI elements (e.g. keyboard and notification drawer) don't compete for resources with every running application?",
+    "ViewCount":"2447",
+    "LastActivityDate":"2013-04-15T20:35:08.170",
+    "ClosedDate":"2013-04-16T09:36:40.253",
+    "Title":"How can I minimize UI lag?",
+    "LastEditorUserId":"981",
+    "Tags":"",
+    "LastEditDate":"2013-04-15T19:18:15.593",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"43715",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32126",
+    "CreationDate":"2013-04-15T19:16:06.320",
+    "FavoriteCount":null,
+    "Id":"43712",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-15T19:16:06.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"28ea3f09-e51f-4160-82e3-c19e04bd387a",
+            "UserId":"32126",
+            "CloseReasonId":null,
+            "PostId":"43712",
+            "PostHistoryTypeId":"2",
+            "Id":"139931",
+            "Text":"**How can I minimize UI lag by ensuring that global UI elements (e.g. keyboard & notification drawer) don't compete for resources with every running application?**"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-15T19:16:06.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"28ea3f09-e51f-4160-82e3-c19e04bd387a",
+            "UserId":"32126",
+            "CloseReasonId":null,
+            "PostId":"43712",
+            "PostHistoryTypeId":"1",
+            "Id":"139932",
+            "Text":"How can I minimize UI lag?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-15T19:16:06.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"28ea3f09-e51f-4160-82e3-c19e04bd387a",
+            "UserId":"32126",
+            "CloseReasonId":null,
+            "PostId":"43712",
+            "PostHistoryTypeId":"3",
+            "Id":"139933",
+            "Text":""
+        },
+        {
+            "Comment":"This doesn't need to be in all bold",
+            "CreationDate":"2013-04-15T19:18:15.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"2462638a-c0cf-46ac-b9f6-07b568ff5f5b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"43712",
+            "PostHistoryTypeId":"5",
+            "Id":"139935",
+            "Text":"How can I minimize UI lag by ensuring that global UI elements (e.g. keyboard and notification drawer) don't compete for resources with every running application?"
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2013-04-16T09:36:40.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"168cee77-cce9-41d1-9083-88f467579bc5",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"43712",
+            "PostHistoryTypeId":"10",
+            "Id":"140059",
+            "Text":"{\"Voters\":[{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

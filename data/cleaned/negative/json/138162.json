@@ -1,0 +1,71 @@
+{
+    "Body":"Over 20 years ago we started development on a windows based program that has now grown to the point where the users are asking for android integration.Rough over view, Program is written in clarion and connects to an SQL data base. program is used for Quoting all the way through to financials but not everything is strictly required on the android device as it would be used for onsite visits while the bulk of the admin work would done on the pc.In my mind I have 3 options.Find a way to make my Program compatible with Android through an in between app that creates a virtual windows environment and VPN's into the Server for connection to the data baseRe-write 20 years of coding into an android app, (dont have the time or knowledge to do so)Some how create micro apps for each vital section that can pull specific info from the database and then either update the database or send a csv that can be imported at a later date. (again lack the programming knowledge to fulfill this)If you have ideas or recommendations, be it new approaches or apps i can use i would be hugely appreciative. ",
+    "ViewCount":"30",
+    "LastActivityDate":"2016-02-26T13:52:19.783",
+    "ClosedDate":"2016-02-26T14:58:45.673",
+    "Title":"I need to run my Windows based Program on an Android Device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153377",
+    "CreationDate":"2016-02-26T11:47:45.330",
+    "FavoriteCount":null,
+    "Id":"138162",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T11:47:45.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"5cab0435-b949-4a0f-b582-f8da0f64d31c",
+            "UserId":"153377",
+            "CloseReasonId":null,
+            "PostId":"138162",
+            "PostHistoryTypeId":"2",
+            "Id":"461206",
+            "Text":"Over 20 years ago we started development on a windows based program that has now grown to the point where the users are asking for android integration.Rough over view, Program is written in clarion and connects to an SQL data base. program is used for Quoting all the way through to financials but not everything is strictly required on the android device as it would be used for onsite visits while the bulk of the admin work would done on the pc.In my mind I have 3 options.1. Find a way to make my Program compatible with Android through an in between app that creates a virtual windows environment and VPN's into the Server for connection to the data base2. Re-write 20 years of coding into an android app, (dont have the time or knowledge to do so)3. Some how create micro apps for each vital section that can pull specific info from the database and then either update the database or send a csv that can be imported at a later date. (again lack the programming knowledge to fulfill this)If you have ideas or recommendations, be it new approaches or apps i can use i would be hugely appreciative. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T11:47:45.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"5cab0435-b949-4a0f-b582-f8da0f64d31c",
+            "UserId":"153377",
+            "CloseReasonId":null,
+            "PostId":"138162",
+            "PostHistoryTypeId":"1",
+            "Id":"461207",
+            "Text":"I need to run my Windows based Program on an Android Device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T11:47:45.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"5cab0435-b949-4a0f-b582-f8da0f64d31c",
+            "UserId":"153377",
+            "CloseReasonId":null,
+            "PostId":"138162",
+            "PostHistoryTypeId":"3",
+            "Id":"461208",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-26T14:58:45.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"50f453fc-b865-4606-a4f8-2343df4a5c38",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138162",
+            "PostHistoryTypeId":"10",
+            "Id":"461252",
+            "Text":"{\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

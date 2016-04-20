@@ -1,0 +1,71 @@
+{
+    "Body":"My S3 has a damaged motherboard (says Samsung Tech Center), only boots into safe mode.If I am to keep using the device I have to make the apps into system apps, so they run in safe mode.One way is to use titanium backup (or other root file app) to make the app system, but the phone came back from Samsung wiped clean. It is still rooted, have SuperSu app installed.Does anyone know how I can make a Play_Store or Downloaded_APK app system?",
+    "ViewCount":"12251",
+    "LastActivityDate":"2014-07-10T15:20:45.597",
+    "ClosedDate":"2014-07-10T18:27:37.153",
+    "Title":"How to Install App as System App",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17770",
+    "CreationDate":"2014-07-10T15:19:27.613",
+    "FavoriteCount":null,
+    "Id":"76976",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-10T15:19:27.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"95025b1b-01f4-4e71-8570-a7e22621d284",
+            "UserId":"17770",
+            "CloseReasonId":null,
+            "PostId":"76976",
+            "PostHistoryTypeId":"2",
+            "Id":"253676",
+            "Text":"My S3 has a damaged motherboard (says Samsung Tech Center), **only** boots into safe mode.If I am to keep using the device I have to make the apps into system apps, so they run in safe mode.One way is to use titanium backup (or other root file app) to make the app system, but the phone came back from Samsung **wiped clean**. It is still rooted, have SuperSu app installed.Does anyone know how I can make a Play_Store or Downloaded_APK app system?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-10T15:19:27.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"95025b1b-01f4-4e71-8570-a7e22621d284",
+            "UserId":"17770",
+            "CloseReasonId":null,
+            "PostId":"76976",
+            "PostHistoryTypeId":"1",
+            "Id":"253677",
+            "Text":"How to Install App as System App"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-10T15:19:27.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"95025b1b-01f4-4e71-8570-a7e22621d284",
+            "UserId":"17770",
+            "CloseReasonId":null,
+            "PostId":"76976",
+            "PostHistoryTypeId":"3",
+            "Id":"253678",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-10T18:27:37.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"3019abc6-3463-466d-a810-2f2fcc810f92",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"76976",
+            "PostHistoryTypeId":"10",
+            "Id":"253719",
+            "Text":"{\"OriginalQuestionIds\":[27],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":17770,\"DisplayName\":\"Mindwin\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

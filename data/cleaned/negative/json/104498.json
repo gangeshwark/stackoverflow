@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to unlock a Samsung Galaxy S5 which I locked with the Android Device Manager. I entered the password, which it said was incorrect. I then changed the password and the lock screen, and the lock screen on the phone did change, but when I entered the new password, it said it was wrong again even though I am positive it was entered correctly. I only have 10 tries left. Has this happened to anyone else? What do I do??",
+    "ViewCount":"44",
+    "LastActivityDate":"2015-04-04T19:44:09.120",
+    "ClosedDate":"2015-04-14T16:44:26.823",
+    "Title":"android device manager not letting me unlock",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"100992",
+    "CreationDate":"2015-04-04T19:44:09.120",
+    "FavoriteCount":null,
+    "Id":"104498",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-04T19:44:09.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8809f0d-0973-4b25-bae0-1cd523f863d5",
+            "UserId":"100992",
+            "CloseReasonId":null,
+            "PostId":"104498",
+            "PostHistoryTypeId":"2",
+            "Id":"341118",
+            "Text":"I am trying to unlock a Samsung Galaxy S5 which I locked with the Android Device Manager. I entered the password, which it said was incorrect. I then changed the password and the lock screen, and the lock screen on the phone did change, but when I entered the new password, it said it was wrong again even though I am positive it was entered correctly. I only have 10 tries left. Has this happened to anyone else? What do I do??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-04T19:44:09.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8809f0d-0973-4b25-bae0-1cd523f863d5",
+            "UserId":"100992",
+            "CloseReasonId":null,
+            "PostId":"104498",
+            "PostHistoryTypeId":"1",
+            "Id":"341119",
+            "Text":"android device manager not letting me unlock"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-04T19:44:09.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8809f0d-0973-4b25-bae0-1cd523f863d5",
+            "UserId":"100992",
+            "CloseReasonId":null,
+            "PostId":"104498",
+            "PostHistoryTypeId":"3",
+            "Id":"341120",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-14T16:44:26.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d4a391b-0dbf-4363-93f1-c615c4731caf",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104498",
+            "PostHistoryTypeId":"10",
+            "Id":"344596",
+            "Text":"{\"OriginalQuestionIds\":[93750],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"My laptop was stolen from my house and I noticed that someone has accessed my Google account.  I changed my password but how can I remove that old laptop from my \"trusted device\" list?  I found instructions that say I should be able to click a remove button but I do not have one. So angry about it all. ",
+    "ViewCount":"60",
+    "LastActivityDate":"2015-08-06T16:27:16.367",
+    "ClosedDate":"2015-08-06T16:28:33.620",
+    "Title":"Laptop Stolen. How do I remove that device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"120037",
+    "CreationDate":"2015-08-06T16:12:46.013",
+    "FavoriteCount":null,
+    "Id":"117513",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-06T16:12:46.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"53277b2f-22e1-4c04-ba13-87a88e791146",
+            "UserId":"120037",
+            "CloseReasonId":null,
+            "PostId":"117513",
+            "PostHistoryTypeId":"2",
+            "Id":"386983",
+            "Text":"My laptop was stolen from my house and I noticed that someone has accessed my Google account.  I changed my password but how can I remove that old laptop from my \"trusted device\" list?  I found instructions that say I should be able to click a remove button but I do not have one. So angry about it all. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-06T16:12:46.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"53277b2f-22e1-4c04-ba13-87a88e791146",
+            "UserId":"120037",
+            "CloseReasonId":null,
+            "PostId":"117513",
+            "PostHistoryTypeId":"1",
+            "Id":"386984",
+            "Text":"Laptop Stolen. How do I remove that device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-06T16:12:46.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"53277b2f-22e1-4c04-ba13-87a88e791146",
+            "UserId":"120037",
+            "CloseReasonId":null,
+            "PostId":"117513",
+            "PostHistoryTypeId":"3",
+            "Id":"386985",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-06T16:28:33.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"892f8642-02d9-416f-9f0d-bcf5be525c40",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"117513",
+            "PostHistoryTypeId":"10",
+            "Id":"386992",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

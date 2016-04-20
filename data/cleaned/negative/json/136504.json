@@ -1,0 +1,71 @@
+{
+    "Body":"Why I can't update any apps and it keeps on saying that I have insufficient storage but I think its not the problem because I have storage. So what should I do?",
+    "ViewCount":"40",
+    "LastActivityDate":"2016-02-08T14:54:04.123",
+    "ClosedDate":"2016-02-23T21:06:08.993",
+    "Title":"I can't update any apps in Google play store",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150301",
+    "CreationDate":"2016-02-08T12:03:57.667",
+    "FavoriteCount":null,
+    "Id":"136504",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-08T12:03:57.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc1e16e0-40c7-416c-b1c0-b83f7a20f8d3",
+            "UserId":"150301",
+            "CloseReasonId":null,
+            "PostId":"136504",
+            "PostHistoryTypeId":"2",
+            "Id":"454696",
+            "Text":"Why I can't update any apps and it keeps on saying that I have insufficient storage but I think its not the problem because I have storage. So what should I do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-08T12:03:57.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc1e16e0-40c7-416c-b1c0-b83f7a20f8d3",
+            "UserId":"150301",
+            "CloseReasonId":null,
+            "PostId":"136504",
+            "PostHistoryTypeId":"1",
+            "Id":"454697",
+            "Text":"I can't update any apps in Google play store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-08T12:03:57.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc1e16e0-40c7-416c-b1c0-b83f7a20f8d3",
+            "UserId":"150301",
+            "CloseReasonId":null,
+            "PostId":"136504",
+            "PostHistoryTypeId":"3",
+            "Id":"454698",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-23T21:06:08.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"dbc2da2c-986a-4b37-99e1-40c116a2a0b3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"136504",
+            "PostHistoryTypeId":"10",
+            "Id":"460309",
+            "Text":"{\"OriginalQuestionIds\":[27083,84282],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

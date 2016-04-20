@@ -1,0 +1,71 @@
+{
+    "Body":"I flashed my nexus 5 with Android L(5.0) SDK version.Do I get OTA updates for nexus 5, which started today?Or should I flash back factory image? what's the difference between factory image and OTA rolling out updates?Thank you,Prithvi",
+    "ViewCount":"61",
+    "LastActivityDate":"2014-11-13T07:45:40.780",
+    "ClosedDate":"2014-11-13T16:00:57.860",
+    "Title":"Will android L SDK version gets OTA updates?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79936",
+    "CreationDate":"2014-11-13T07:45:40.780",
+    "FavoriteCount":null,
+    "Id":"87541",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T07:45:40.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"74506269-1bda-4a0f-bc9e-df2c7bbb18f7",
+            "UserId":"79936",
+            "CloseReasonId":null,
+            "PostId":"87541",
+            "PostHistoryTypeId":"2",
+            "Id":"287944",
+            "Text":"I flashed my **nexus 5** with Android L(5.0) SDK version.Do I get OTA updates for nexus 5, which started today?Or should I flash back factory image? what's the difference between factory image and OTA rolling out updates?Thank you,Prithvi"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T07:45:40.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"74506269-1bda-4a0f-bc9e-df2c7bbb18f7",
+            "UserId":"79936",
+            "CloseReasonId":null,
+            "PostId":"87541",
+            "PostHistoryTypeId":"1",
+            "Id":"287945",
+            "Text":"Will android L SDK version gets OTA updates?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T07:45:40.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"74506269-1bda-4a0f-bc9e-df2c7bbb18f7",
+            "UserId":"79936",
+            "CloseReasonId":null,
+            "PostId":"87541",
+            "PostHistoryTypeId":"3",
+            "Id":"287946",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-13T16:00:57.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b9a8394-ba1a-4951-9ec3-e0bf0a4b7db2",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"87541",
+            "PostHistoryTypeId":"10",
+            "Id":"288080",
+            "Text":"{\"OriginalQuestionIds\":[78404],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"hi i'd like to have the following functionality:putting a file into my dropbox (html,wordformat) - which i'm editing from my PCandroid app for acessing that file (desktop shortcut), display html\/word-format + editany ideas?currently i'm using a textfile which i can edit with the default android-editor, but markup would be better :)thanks",
+    "ViewCount":"17",
+    "LastActivityDate":"2013-04-29T12:00:35.433",
+    "ClosedDate":"2013-04-30T19:29:31.500",
+    "Title":"syncing markup\/word notes over dropbox?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14033",
+    "CreationDate":"2013-04-29T12:00:35.433",
+    "FavoriteCount":null,
+    "Id":"44600",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T12:00:35.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5f4f4f3-1018-48e2-a8ab-84e06748b0fc",
+            "UserId":"14033",
+            "CloseReasonId":null,
+            "PostId":"44600",
+            "PostHistoryTypeId":"2",
+            "Id":"143194",
+            "Text":"hi i'd like to have the following functionality: - putting a file into my dropbox (html,wordformat) - which i'm editing from my PC - android app for acessing that file (desktop shortcut), display html\/word-format + editany ideas?currently i'm using a textfile which i can edit with the default android-editor, but markup would be better :)thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T12:00:35.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5f4f4f3-1018-48e2-a8ab-84e06748b0fc",
+            "UserId":"14033",
+            "CloseReasonId":null,
+            "PostId":"44600",
+            "PostHistoryTypeId":"1",
+            "Id":"143195",
+            "Text":"syncing markup\/word notes over dropbox?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-29T12:00:35.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5f4f4f3-1018-48e2-a8ab-84e06748b0fc",
+            "UserId":"14033",
+            "CloseReasonId":null,
+            "PostId":"44600",
+            "PostHistoryTypeId":"3",
+            "Id":"143196",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-30T19:29:31.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"16417daa-84e6-4adf-8ea9-6e45bcd3fa61",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"44600",
+            "PostHistoryTypeId":"10",
+            "Id":"143529",
+            "Text":"{\"OriginalQuestionIds\":[7003],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

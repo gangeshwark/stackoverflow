@@ -1,0 +1,71 @@
+{
+    "Body":"My phone likes to change \"ny\" to \"NY\" rather than the word I actually mean: \"my\"Is there any way to take NY out of the spellcheck, or make it always change ny to my?",
+    "ViewCount":"17",
+    "LastActivityDate":"2015-06-10T22:22:11.823",
+    "ClosedDate":"2015-06-11T15:08:34.653",
+    "Title":"Remove one word from Nexus 5 autocorrect",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"112247",
+    "CreationDate":"2015-06-10T18:32:36.207",
+    "FavoriteCount":null,
+    "Id":"112072",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-10T18:32:36.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ec1db0a-9c1b-4260-a3b3-e042da760996",
+            "UserId":"112247",
+            "CloseReasonId":null,
+            "PostId":"112072",
+            "PostHistoryTypeId":"2",
+            "Id":"366882",
+            "Text":"My phone likes to change \"ny\" to \"NY\" rather than the word I actually mean: \"my\"Is there any way to take NY out of the spellcheck, or make it always change ny to my?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-10T18:32:36.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ec1db0a-9c1b-4260-a3b3-e042da760996",
+            "UserId":"112247",
+            "CloseReasonId":null,
+            "PostId":"112072",
+            "PostHistoryTypeId":"1",
+            "Id":"366883",
+            "Text":"Remove one word from Nexus 5 autocorrect"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-10T18:32:36.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ec1db0a-9c1b-4260-a3b3-e042da760996",
+            "UserId":"112247",
+            "CloseReasonId":null,
+            "PostId":"112072",
+            "PostHistoryTypeId":"3",
+            "Id":"366884",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-11T15:08:34.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b28e15a-6e16-4e6a-b4af-7f488aabdcfe",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"112072",
+            "PostHistoryTypeId":"10",
+            "Id":"367239",
+            "Text":"{\"OriginalQuestionIds\":[61115],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

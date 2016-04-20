@@ -1,0 +1,83 @@
+{
+    "Body":"Based on \" How can I customize the list of services that pops up when I choose to \"share\" something in an app? \" answer, any app supporting ACTION_SEND intent will be listed in \"Share\" menu pop-up.Are there any custom ROMs which let the user somehow filter those Share menu lists to exclude installed apps?",
+    "ViewCount":"123",
+    "LastActivityDate":"2014-04-23T08:43:49.443",
+    "ClosedDate":"2012-12-22T04:24:58.030",
+    "Title":"Are there any custom ROMs which let the user somehow filter Share menu lists?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2012-10-04T04:17:07.683",
+    "CommentCount":"6",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"35926",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3258",
+    "CreationDate":"2012-02-01T15:35:19.400",
+    "FavoriteCount":"1",
+    "Id":"18982",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-01T15:35:19.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f83ce59-ea17-4274-9777-807b3b131e16",
+            "UserId":"3258",
+            "CloseReasonId":null,
+            "PostId":"18982",
+            "PostHistoryTypeId":"2",
+            "Id":"52341",
+            "Text":"Based on \" http:\/\/android.stackexchange.com\/questions\/1156\/how-can-i-customize-the-list-of-services-that-pops-up-when-i-choose-to-share-s\/1158#1158 \" answer, any app supporting ACTION_SEND intent will be listed in \"Share\" menu pop-up.**Are there any custom ROMs which let the user somehow filter those Share menu lists to exclude installed apps?**"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-01T15:35:19.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f83ce59-ea17-4274-9777-807b3b131e16",
+            "UserId":"3258",
+            "CloseReasonId":null,
+            "PostId":"18982",
+            "PostHistoryTypeId":"1",
+            "Id":"52342",
+            "Text":"Are there any custom ROMs which let the user somehow filter Share menu lists?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-01T15:35:19.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f83ce59-ea17-4274-9777-807b3b131e16",
+            "UserId":"3258",
+            "CloseReasonId":null,
+            "PostId":"18982",
+            "PostHistoryTypeId":"3",
+            "Id":"52343",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-10-04T04:17:07.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a8b6fae-cff0-4034-abd2-65d6fcdb8bc8",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"18982",
+            "PostHistoryTypeId":"6",
+            "Id":"91205",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-22T04:24:58.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"04d22bcb-19e1-4487-b864-cb70c8fc3b11",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18982",
+            "PostHistoryTypeId":"10",
+            "Id":"108255",
+            "Text":"{\"Voters\":[{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"In lollipop (5.0.2), in the default lockscreen, I can pull down the statusbar to get the \"quick actions\" (I don't know exactly how is called), but I mean the quick settings, like brightness, WiFi, Bluetooth, Mobile Data, etc...Despite being usefull, I DON'T want to be able to use such settings while the device is locked, because anyone could mess with them (e.g. turn off WiFi and turn on mobile data).Is there a way to block such settings while in the lockscreen?I think there are a few lockscreen apps with such options, (not sure if they work on Lollipop), but I'd like to keep using the default lockscreen.Some notes:Moto G2 (2014)I have a pattern to unlock the screen.I am rootedI have Xposed, so maybe some module could help.I have SmartApp Lock, and I have the global settings blocked, so when I tap the Gear Icon in the status bar, I am prompted for my password.The problem is that the \"direct\" settings from the quick actions don't require any confirmation.Thanks in advance.",
+    "ViewCount":"22",
+    "LastActivityDate":"2015-10-09T22:49:13.510",
+    "ClosedDate":"2015-10-19T22:53:32.140",
+    "Title":"Lollipop: How to block statusbar while in lockscreen",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20416",
+    "CreationDate":"2015-10-09T22:49:13.510",
+    "FavoriteCount":"1",
+    "Id":"125488",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-09T22:49:13.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8b1420a-77b5-419e-9f23-2e4f4c126c6d",
+            "UserId":"20416",
+            "CloseReasonId":null,
+            "PostId":"125488",
+            "PostHistoryTypeId":"2",
+            "Id":"411257",
+            "Text":"In lollipop (5.0.2), in the default lockscreen, I can pull down the statusbar to get the \"quick actions\" (I don't know exactly how is called), but I mean the quick settings, like brightness, WiFi, Bluetooth, Mobile Data, etc...Despite being usefull, I DON'T want to be able to use such settings while the device is locked, because anyone could mess with them (e.g. turn off WiFi and turn on mobile data).Is there a way to block such settings while in the lockscreen?I think there are a few lockscreen apps with such options, (not sure if they work on Lollipop), but I'd like to keep using the default lockscreen.Some notes:- Moto G2 (2014)- I have a pattern to unlock the screen.- I am rooted- I have Xposed, so maybe some module could help.- I have SmartApp Lock, and I have the global settings blocked, so when I tap the Gear Icon in the status bar, I am prompted for my password.  The problem is that the \"direct\" settings from the quick actions don't require any confirmation.Thanks in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-09T22:49:13.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8b1420a-77b5-419e-9f23-2e4f4c126c6d",
+            "UserId":"20416",
+            "CloseReasonId":null,
+            "PostId":"125488",
+            "PostHistoryTypeId":"1",
+            "Id":"411258",
+            "Text":"Lollipop: How to block statusbar while in lockscreen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-09T22:49:13.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8b1420a-77b5-419e-9f23-2e4f4c126c6d",
+            "UserId":"20416",
+            "CloseReasonId":null,
+            "PostId":"125488",
+            "PostHistoryTypeId":"3",
+            "Id":"411259",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-19T22:53:32.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d92038c-2b03-4c07-9bcf-f18face93a4a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125488",
+            "PostHistoryTypeId":"10",
+            "Id":"415005",
+            "Text":"{\"OriginalQuestionIds\":[112455],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

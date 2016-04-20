@@ -1,0 +1,71 @@
+{
+    "Body":"I am using a Samsung Note 2 (N7100) running on root. I wanted to know where do google chrome browser save it's cache files? Similar to the desktop version [..\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Cache]Thanks in advance!",
+    "ViewCount":"1406",
+    "LastActivityDate":"2015-09-11T17:43:02.537",
+    "ClosedDate":"2015-09-13T01:09:52.200",
+    "Title":"Android Google Chrome browser cache location",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67315",
+    "CreationDate":"2014-10-27T21:20:19.877",
+    "FavoriteCount":null,
+    "Id":"85998",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-27T21:20:19.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"99511e89-b9dd-465d-9ea6-2a16c19d04a1",
+            "UserId":"67315",
+            "CloseReasonId":null,
+            "PostId":"85998",
+            "PostHistoryTypeId":"2",
+            "Id":"282706",
+            "Text":"I am using a Samsung Note 2 (N7100) running on root. I wanted to know where do google chrome browser save it's cache files? Similar to the desktop version [..\\AppData\\Local\\Google\\Chrome\\User Data\\Profile 1\\Cache]Thanks in advance!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-27T21:20:19.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"99511e89-b9dd-465d-9ea6-2a16c19d04a1",
+            "UserId":"67315",
+            "CloseReasonId":null,
+            "PostId":"85998",
+            "PostHistoryTypeId":"1",
+            "Id":"282707",
+            "Text":"Android Google Chrome browser cache location"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-27T21:20:19.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"99511e89-b9dd-465d-9ea6-2a16c19d04a1",
+            "UserId":"67315",
+            "CloseReasonId":null,
+            "PostId":"85998",
+            "PostHistoryTypeId":"3",
+            "Id":"282708",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-13T01:09:52.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"466a5617-196a-423e-8bb8-e698597ee393",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"85998",
+            "PostHistoryTypeId":"10",
+            "Id":"401470",
+            "Text":"{\"OriginalQuestionIds\":[41033],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

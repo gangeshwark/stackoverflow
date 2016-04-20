@@ -1,0 +1,71 @@
+{
+    "Body":"I planed to purchase new mobile. I confused with processor and RAM. Quad-core 1.2 GHz Cortex-A53 (64 Bit) 1GB RAMQuad-core 1.6 GHz Cortex-A7 (32 Bit) 2GB RAMWhich one will be faster?",
+    "ViewCount":"22",
+    "LastActivityDate":"2015-03-10T08:52:07.613",
+    "ClosedDate":"2015-03-10T13:23:30.890",
+    "Title":"Which is faster '1GB RAM with 64 bit' or '2GB RAM with 32 bit'",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97491",
+    "CreationDate":"2015-03-10T08:52:07.613",
+    "FavoriteCount":null,
+    "Id":"102072",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-10T08:52:07.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9e96313-3310-4253-a172-88f1a3c8263e",
+            "UserId":"97491",
+            "CloseReasonId":null,
+            "PostId":"102072",
+            "PostHistoryTypeId":"2",
+            "Id":"332237",
+            "Text":"I planed to purchase new mobile. I confused with processor and RAM. 1. Quad-core 1.2 GHz Cortex-A53 (64 Bit) 1GB RAM2. Quad-core 1.6 GHz Cortex-A7 (32 Bit) 2GB RAMWhich one will be faster?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-10T08:52:07.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9e96313-3310-4253-a172-88f1a3c8263e",
+            "UserId":"97491",
+            "CloseReasonId":null,
+            "PostId":"102072",
+            "PostHistoryTypeId":"1",
+            "Id":"332238",
+            "Text":"Which is faster '1GB RAM with 64 bit' or '2GB RAM with 32 bit'"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-10T08:52:07.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9e96313-3310-4253-a172-88f1a3c8263e",
+            "UserId":"97491",
+            "CloseReasonId":null,
+            "PostId":"102072",
+            "PostHistoryTypeId":"3",
+            "Id":"332239",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-10T13:23:30.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"5da5a522-06a1-401e-a578-a42cad44ac6f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"102072",
+            "PostHistoryTypeId":"10",
+            "Id":"332304",
+            "Text":"{\"OriginalQuestionIds\":[6199],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

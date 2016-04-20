@@ -1,0 +1,71 @@
+{
+    "Body":"My AT&T contract is expiring in July, which is also when I'm moving to South Korea. I want to use my Galaxy S5 (AT&T version) in Korea after unlocking it and signing a contract with a local carrier. Will it be compatible with the networks there?",
+    "ViewCount":"44",
+    "LastActivityDate":"2015-03-18T10:15:56.923",
+    "ClosedDate":"2015-04-08T14:27:18.647",
+    "Title":"Can I unlock and use my AT&T Galaxy S5 in South Korea?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"98615",
+    "CreationDate":"2015-03-18T10:15:56.923",
+    "FavoriteCount":null,
+    "Id":"102874",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-18T10:15:56.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ba56ff5-b9cd-4f1d-8ffd-2e3b630ea41f",
+            "UserId":"98615",
+            "CloseReasonId":null,
+            "PostId":"102874",
+            "PostHistoryTypeId":"2",
+            "Id":"335210",
+            "Text":"My AT&T contract is expiring in July, which is also when I'm moving to South Korea. I want to use my Galaxy S5 (AT&T version) in Korea after unlocking it and signing a contract with a local carrier. Will it be compatible with the networks there?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-18T10:15:56.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ba56ff5-b9cd-4f1d-8ffd-2e3b630ea41f",
+            "UserId":"98615",
+            "CloseReasonId":null,
+            "PostId":"102874",
+            "PostHistoryTypeId":"1",
+            "Id":"335211",
+            "Text":"Can I unlock and use my AT&T Galaxy S5 in South Korea?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-18T10:15:56.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ba56ff5-b9cd-4f1d-8ffd-2e3b630ea41f",
+            "UserId":"98615",
+            "CloseReasonId":null,
+            "PostId":"102874",
+            "PostHistoryTypeId":"3",
+            "Id":"335212",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-08T14:27:18.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"167fe2fe-7170-4002-ac7b-2b0234a673ba",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"102874",
+            "PostHistoryTypeId":"10",
+            "Id":"342399",
+            "Text":"{\"OriginalQuestionIds\":[29677],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

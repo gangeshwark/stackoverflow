@@ -1,0 +1,71 @@
+{
+    "Body":"Some perspective:Hi, my mobile phone is from 2011 and my manufacturer stopped providing updates past a certain version so I decided to put a Cyanogenmod based ROM on it (CM 10.2, 4.3 based).There's a problem though, I don't understand it completely but it has to do with the ION memory allocator versus the PMEM one. My phone is not using the former for its graphics drivers (or something along those lines) and applications like the current Google Maps instead of displaying properly make the screen flicker.Since it's no use that way, I'm using the last of the older version (6.4.14) which is the last I know not to cause that.My phone is always telling me there're updates for Google Maps and because of that I can't have application autoupdate on.The actual question:Is it possible to hide an application from Google Play so that its updates are not suggested as updates? As if it were actually not installed for example.",
+    "ViewCount":"24",
+    "LastActivityDate":"2014-07-13T23:47:03.083",
+    "ClosedDate":"2014-07-14T13:22:34.433",
+    "Title":"Is it possible to hide an application from Google Play?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67222",
+    "CreationDate":"2014-07-13T23:47:03.083",
+    "FavoriteCount":null,
+    "Id":"77176",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T23:47:03.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3454c6d-a446-495c-a995-bf3c09a6e16b",
+            "UserId":"67222",
+            "CloseReasonId":null,
+            "PostId":"77176",
+            "PostHistoryTypeId":"2",
+            "Id":"254408",
+            "Text":"**Some perspective:**Hi, my mobile phone is from 2011 and my manufacturer stopped providing updates past a certain version so I decided to put a Cyanogenmod based ROM on it (CM 10.2, 4.3 based).There's a problem though, I don't understand it completely but it has to do with the ION memory allocator versus the PMEM one. My phone is not using the former for its graphics drivers (or something along those lines) and applications like the current Google Maps instead of displaying properly make the screen flicker.Since it's no use that way, I'm using the last of the older version (6.4.14) which is the last I know not to cause that.My phone is always telling me there're updates for Google Maps and because of that I can't have application autoupdate on.**The actual question:**Is it possible to hide an application from Google Play so that its updates are not suggested as updates? As if it were actually not installed for example."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T23:47:03.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3454c6d-a446-495c-a995-bf3c09a6e16b",
+            "UserId":"67222",
+            "CloseReasonId":null,
+            "PostId":"77176",
+            "PostHistoryTypeId":"1",
+            "Id":"254409",
+            "Text":"Is it possible to hide an application from Google Play?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T23:47:03.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3454c6d-a446-495c-a995-bf3c09a6e16b",
+            "UserId":"67222",
+            "CloseReasonId":null,
+            "PostId":"77176",
+            "PostHistoryTypeId":"3",
+            "Id":"254410",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-14T13:22:34.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"b624b6a0-6c36-4433-89b7-3213bf16e780",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77176",
+            "PostHistoryTypeId":"10",
+            "Id":"254568",
+            "Text":"{\"OriginalQuestionIds\":[39180],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

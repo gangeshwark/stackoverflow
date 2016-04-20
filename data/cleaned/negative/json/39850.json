@@ -1,0 +1,83 @@
+{
+    "Body":"My phone is an Android Evo, and it keeps telling me I have low storage. I have removed everything - facebook, email, messages, text messages, and pictures, but it's still low.",
+    "ViewCount":"1367",
+    "LastActivityDate":"2013-11-28T05:46:50.660",
+    "ClosedDate":"2014-12-15T03:28:32.090",
+    "Title":"I have low internal Storage, But i have no apps on my phone?",
+    "LastEditorUserId":"5342",
+    "Tags":"",
+    "LastEditDate":"2013-11-28T05:46:50.660",
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2013-02-18T13:51:37.657",
+    "FavoriteCount":null,
+    "Id":"39850",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-18T13:51:37.657",
+            "UserDisplayName":"user28651",
+            "RevisionGUID":"6f7233cd-e665-4e17-b63a-351aa925d9c4",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"39850",
+            "PostHistoryTypeId":"2",
+            "Id":"123473",
+            "Text":"My phone is an Andriod EVo and it keeps telling me low stroage i removed everything , facebook email messeges text messges and pitcures  but its still low."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-18T13:51:37.657",
+            "UserDisplayName":"user28651",
+            "RevisionGUID":"6f7233cd-e665-4e17-b63a-351aa925d9c4",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"39850",
+            "PostHistoryTypeId":"1",
+            "Id":"123474",
+            "Text":"I have low internal Storage, But i have no apps on my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-18T13:51:37.657",
+            "UserDisplayName":"user28651",
+            "RevisionGUID":"6f7233cd-e665-4e17-b63a-351aa925d9c4",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"39850",
+            "PostHistoryTypeId":"3",
+            "Id":"123475",
+            "Text":""
+        },
+        {
+            "Comment":"minor edits",
+            "CreationDate":"2013-11-28T05:46:50.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"b6851f7e-035d-4345-b1fd-dd0c2f2630d0",
+            "UserId":"5342",
+            "CloseReasonId":null,
+            "PostId":"39850",
+            "PostHistoryTypeId":"5",
+            "Id":"194424",
+            "Text":"My phone is an Android Evo, and it keeps telling me I have low storage. I have removed everything - facebook, email, messages, text messages, and pictures, but it's still low."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-15T03:28:32.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"85734851-637e-40c0-9ef2-2873245e7f29",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"39850",
+            "PostHistoryTypeId":"10",
+            "Id":"300314",
+            "Text":"{\"OriginalQuestionIds\":[2065],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

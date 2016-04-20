@@ -1,0 +1,71 @@
+{
+    "Body":"Is there any \"standalone\" RSS reader for Android that does not require a subscription (like Feedly)? What I have in mind is something like RSSOwl.Maybe I'm old fashioned but I don't see the point in using a web service for subscribing to feeds that I can add manually.  ",
+    "ViewCount":"237",
+    "LastActivityDate":"2014-02-19T14:29:35.470",
+    "ClosedDate":"2014-02-20T06:26:12.973",
+    "Title":"Standalone RSS reader for android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"53965",
+    "CreationDate":"2014-02-19T14:03:00.627",
+    "FavoriteCount":null,
+    "Id":"63860",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T14:03:00.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"128e3744-78fd-4771-8e6e-7957acbc2b64",
+            "UserId":"53965",
+            "CloseReasonId":null,
+            "PostId":"63860",
+            "PostHistoryTypeId":"2",
+            "Id":"216976",
+            "Text":"Is there any \"standalone\" RSS reader for Android that does not require a subscription (like Feedly)? What I have in mind is something like RSSOwl.Maybe I'm old fashioned but I don't see the point in using a web service for subscribing to feeds that I can add manually.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T14:03:00.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"128e3744-78fd-4771-8e6e-7957acbc2b64",
+            "UserId":"53965",
+            "CloseReasonId":null,
+            "PostId":"63860",
+            "PostHistoryTypeId":"1",
+            "Id":"216977",
+            "Text":"Standalone RSS reader for android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T14:03:00.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"128e3744-78fd-4771-8e6e-7957acbc2b64",
+            "UserId":"53965",
+            "CloseReasonId":null,
+            "PostId":"63860",
+            "PostHistoryTypeId":"3",
+            "Id":"216978",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-02-20T06:26:12.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"03618a2e-6edb-4301-af0c-d064a5ec0691",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"63860",
+            "PostHistoryTypeId":"10",
+            "Id":"217180",
+            "Text":"{\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I'm waiting for the update to come and I hope it will come soon because it seems that every other tablet and phone is getting the update.  ",
+    "ViewCount":"3",
+    "LastActivityDate":"2015-07-01T17:21:39.780",
+    "ClosedDate":"2015-07-01T17:45:17.093",
+    "Title":"When will the Tegra not 7 get 5.1.1",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"115048",
+    "CreationDate":"2015-07-01T17:21:39.780",
+    "FavoriteCount":null,
+    "Id":"114006",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-01T17:21:39.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"0472e89f-a812-43a9-9276-5f27578ee034",
+            "UserId":"115048",
+            "CloseReasonId":null,
+            "PostId":"114006",
+            "PostHistoryTypeId":"2",
+            "Id":"373715",
+            "Text":"I'm waiting for the update to come and I hope it will come soon because it seems that every other tablet and phone is getting the update.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-01T17:21:39.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"0472e89f-a812-43a9-9276-5f27578ee034",
+            "UserId":"115048",
+            "CloseReasonId":null,
+            "PostId":"114006",
+            "PostHistoryTypeId":"1",
+            "Id":"373716",
+            "Text":"When will the Tegra not 7 get 5.1.1"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-01T17:21:39.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"0472e89f-a812-43a9-9276-5f27578ee034",
+            "UserId":"115048",
+            "CloseReasonId":null,
+            "PostId":"114006",
+            "PostHistoryTypeId":"3",
+            "Id":"373717",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-01T17:45:17.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"626fc50e-e26b-4c28-9856-a2acb7735d49",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114006",
+            "PostHistoryTypeId":"10",
+            "Id":"373726",
+            "Text":"{\"OriginalQuestionIds\":[102043],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

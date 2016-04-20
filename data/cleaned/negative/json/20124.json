@@ -1,0 +1,71 @@
+{
+    "Body":"First off, this isn't directly Android related, I browsed through the humongous list of Stack sites but couldn't find a better fit. If this isn't allowed, move\/delete\/eat this post before reading on.Now - how does Tablet RAM work? Is the hard drive (SSD?) shared with the system memory? I can't seem to find any info on this.",
+    "ViewCount":"95",
+    "LastActivityDate":"2012-03-02T03:21:50.567",
+    "ClosedDate":"2012-03-02T03:49:03.740",
+    "Title":"Is RAM\/HDD Shared on Tablets PCs?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13046",
+    "CreationDate":"2012-03-02T02:44:47.783",
+    "FavoriteCount":null,
+    "Id":"20124",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-02T02:44:47.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f012772-8500-40fd-8084-b8d4d39f43d2",
+            "UserId":"13046",
+            "CloseReasonId":null,
+            "PostId":"20124",
+            "PostHistoryTypeId":"2",
+            "Id":"55865",
+            "Text":"First off, this isn't directly Android related, I browsed through the humongous list of Stack sites but couldn't find a better fit. If this isn't allowed, move\/delete\/eat this post before reading on.Now - how does Tablet RAM work? Is the hard drive (SSD?) shared with the system memory? I can't seem to find any info on this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-02T02:44:47.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f012772-8500-40fd-8084-b8d4d39f43d2",
+            "UserId":"13046",
+            "CloseReasonId":null,
+            "PostId":"20124",
+            "PostHistoryTypeId":"1",
+            "Id":"55866",
+            "Text":"Is RAM\/HDD Shared on Tablets PCs?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-02T02:44:47.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f012772-8500-40fd-8084-b8d4d39f43d2",
+            "UserId":"13046",
+            "CloseReasonId":null,
+            "PostId":"20124",
+            "PostHistoryTypeId":"3",
+            "Id":"55867",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-03-02T03:49:03.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"c61f59d6-bb2d-47a3-b120-c511ae23518a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20124",
+            "PostHistoryTypeId":"10",
+            "Id":"55871",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

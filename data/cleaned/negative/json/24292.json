@@ -1,0 +1,83 @@
+{
+    "Body":"I have installed a kernel and ROM onto my Samsung Galaxy S2. However, it's been giving me a lot of problems. First the Compass didn't work, then when the compass was fixed by installing a patch the WiFi stopped working, then when I reinstalled the ROM to get Wifi back, I lost the compass again...I very much appreciate all the efforts that people who make kernels and ROMs put into it, and I understand that sometimes errors and problems can't be helped. So this is not a complaint.It's just that I'd like to wipe my phone, start clean, and install a kernel and\/or ROM that I can be sure will work.I've already learned how to flash and install kernels and ROMs, and I've got my purchased version of Titanium Backup ready so I can reinstall all my apps...Just before I go through the whole effort, I'd like to be sure that the kernel and ROM I'm using are as certain to be fully functional and error free as one can hope.So can someone recommend a kernel and ROM that I can or should use?Note: Here is what I have now:Model number: GT-I9100Android version: 4.0.4Baseband version: SC02COMKL4Kernel version: 3.0.27-Siyah-v3.0.1-ntt",
+    "ViewCount":"1014",
+    "LastActivityDate":"2012-06-16T13:45:21.193",
+    "ClosedDate":"2012-06-18T02:47:47.183",
+    "Title":"Can someone recommend a ROM and kernel for the Galaxy S2 that works fully?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"16",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5892",
+    "CreationDate":"2012-06-16T13:45:21.193",
+    "FavoriteCount":null,
+    "Id":"24292",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-16T13:45:21.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"38dd2971-2d0c-4fbc-bee4-0b152c144c33",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"24292",
+            "PostHistoryTypeId":"2",
+            "Id":"69546",
+            "Text":"I have installed a kernel and ROM onto my Samsung Galaxy S2. However, it's been giving me a lot of problems. First the Compass didn't work, then when the compass was fixed by installing a patch the WiFi stopped working, then when I reinstalled the ROM to get Wifi back, I lost the compass again...I very much appreciate all the efforts that people who make kernels and ROMs put into it, and I understand that sometimes errors and problems can't be helped. So this is not a complaint.It's just that I'd like to wipe my phone, start clean, and install a kernel and\/or ROM that I can be sure will work.I've already learned how to flash and install kernels and ROMs, and I've got my purchased version of Titanium Backup ready so I can reinstall all my apps...Just before I go through the whole effort, I'd like to be sure that the kernel and ROM I'm using are as certain to be fully functional and error free as one can hope.So can someone recommend a kernel and ROM that I can or should use?Note: Here is what I have now:Model number: GT-I9100Android version: 4.0.4Baseband version: SC02COMKL4Kernel version: 3.0.27-Siyah-v3.0.1-ntt"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-16T13:45:21.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"38dd2971-2d0c-4fbc-bee4-0b152c144c33",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"24292",
+            "PostHistoryTypeId":"1",
+            "Id":"69547",
+            "Text":"Can someone recommend a ROM and kernel for the Galaxy S2 that works fully?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-16T13:45:21.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"38dd2971-2d0c-4fbc-bee4-0b152c144c33",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"24292",
+            "PostHistoryTypeId":"3",
+            "Id":"69548",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/214033316138065921",
+            "CreationDate":"2012-06-16T16:34:53.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"6dcb4ca7-17c0-42f2-8010-1da7c9fd08c0",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"24292",
+            "PostHistoryTypeId":"25",
+            "Id":"69569",
+            "Text":null
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-06-18T02:47:47.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"d96b4801-f456-4977-9824-457eec3f35a0",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"24292",
+            "PostHistoryTypeId":"10",
+            "Id":"69747",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

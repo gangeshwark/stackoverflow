@@ -1,0 +1,71 @@
+{
+    "Body":"I have a (non-rooted) Sony Xperia Z3 with default Lollipop installed. One challenge I often run into is that I can connect to a WiFi network, and my friends with iPhone cannot (I've also encountered the opposite, but that's another topic). It seems the hotspot functionality only works with connection to a telephone network, and not as a regular WiFi-WiFi hotspot. Do any of you know of a built in functionality that will do this, or an app I can download that will solve this issue for me? Thanks :)",
+    "ViewCount":"149",
+    "LastActivityDate":"2015-09-04T00:28:59.390",
+    "ClosedDate":"2015-09-28T03:14:13.493",
+    "Title":"Can I use my phone as a WiFi-WiFi hotspot?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"124981",
+    "CreationDate":"2015-09-03T23:56:31.453",
+    "FavoriteCount":null,
+    "Id":"121152",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-03T23:56:31.453",
+            "UserDisplayName":null,
+            "RevisionGUID":"636aaac8-f790-4ce2-adb3-37e58536159f",
+            "UserId":"124981",
+            "CloseReasonId":null,
+            "PostId":"121152",
+            "PostHistoryTypeId":"2",
+            "Id":"397450",
+            "Text":"I have a (non-rooted) Sony Xperia Z3 with default Lollipop installed. One challenge I often run into is that I can connect to a WiFi network, and my friends with iPhone cannot (I've also encountered the opposite, but that's another topic). It seems the hotspot functionality only works with connection to a telephone network, and not as a regular WiFi-WiFi hotspot. Do any of you know of a built in functionality that will do this, or an app I can download that will solve this issue for me? Thanks :)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-03T23:56:31.453",
+            "UserDisplayName":null,
+            "RevisionGUID":"636aaac8-f790-4ce2-adb3-37e58536159f",
+            "UserId":"124981",
+            "CloseReasonId":null,
+            "PostId":"121152",
+            "PostHistoryTypeId":"1",
+            "Id":"397451",
+            "Text":"Can I use my phone as a WiFi-WiFi hotspot?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-03T23:56:31.453",
+            "UserDisplayName":null,
+            "RevisionGUID":"636aaac8-f790-4ce2-adb3-37e58536159f",
+            "UserId":"124981",
+            "CloseReasonId":null,
+            "PostId":"121152",
+            "PostHistoryTypeId":"3",
+            "Id":"397452",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-28T03:14:13.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"4346b88c-252c-4fe7-a080-8977513e5754",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"121152",
+            "PostHistoryTypeId":"10",
+            "Id":"406818",
+            "Text":"{\"OriginalQuestionIds\":[12616],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

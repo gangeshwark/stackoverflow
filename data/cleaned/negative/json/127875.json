@@ -1,0 +1,71 @@
+{
+    "Body":"Alrught, I just reset a Kyocera Torque to factory state. (Android Version 4.1.2 Jelly Bean) Thing is, the Google Play store, music, and services keep auto updating themselves. It takes up a ton of my internal storage (Which is 1GB)... Is there any way to stop this?",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-11-04T00:05:33.537",
+    "ClosedDate":"2015-11-04T00:10:06.847",
+    "Title":"Google Play \/ Music \/ Services Updates",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"135193",
+    "CreationDate":"2015-11-04T00:05:33.537",
+    "FavoriteCount":null,
+    "Id":"127875",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T00:05:33.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f1bbd09-f932-4043-b119-c0557cb47d47",
+            "UserId":"135193",
+            "CloseReasonId":null,
+            "PostId":"127875",
+            "PostHistoryTypeId":"2",
+            "Id":"420403",
+            "Text":"Alrught, I just reset a Kyocera Torque to factory state. (Android Version 4.1.2 Jelly Bean) Thing is, the Google Play store, music, and services keep auto updating themselves. It takes up a ton of my internal storage (Which is 1GB)... Is there any way to stop this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T00:05:33.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f1bbd09-f932-4043-b119-c0557cb47d47",
+            "UserId":"135193",
+            "CloseReasonId":null,
+            "PostId":"127875",
+            "PostHistoryTypeId":"1",
+            "Id":"420404",
+            "Text":"Google Play \/ Music \/ Services Updates"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T00:05:33.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f1bbd09-f932-4043-b119-c0557cb47d47",
+            "UserId":"135193",
+            "CloseReasonId":null,
+            "PostId":"127875",
+            "PostHistoryTypeId":"3",
+            "Id":"420405",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-04T00:10:06.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"dcfa9e40-84b1-4d66-a10e-552f544c87de",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127875",
+            "PostHistoryTypeId":"10",
+            "Id":"420407",
+            "Text":"{\"OriginalQuestionIds\":[10244],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

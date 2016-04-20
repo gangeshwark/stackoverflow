@@ -1,0 +1,83 @@
+{
+    "Body":"On my rooted Nexus 5, when I open any file manager the sdcard shows empty. Some apps however are able to read from it and I can see it is intact when I connect it to my PC. This means I can't access the files on my sdcard (virtual sdcard in the case of N5) and also evernote fails to sync as it can't create a database. I have tried chmod777 on the sdcard through recovery to try to set permissions right which failed. Restarting the device also fails. Clearing the dalvic cache also fails. Any help would be appreciated!",
+    "ViewCount":"138",
+    "LastActivityDate":"2014-07-18T01:24:03.630",
+    "ClosedDate":"2015-05-28T16:29:45.343",
+    "Title":"SDCard empty, works on PC",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-07-18T01:24:03.630",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24775",
+    "CreationDate":"2014-07-18T01:15:33.657",
+    "FavoriteCount":null,
+    "Id":"77501",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T01:15:33.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a0b88c9-1d49-4136-a82e-90ee0b78435d",
+            "UserId":"24775",
+            "CloseReasonId":null,
+            "PostId":"77501",
+            "PostHistoryTypeId":"2",
+            "Id":"255428",
+            "Text":"On my rooted Nexus 5, when I open any file manager the sdcard shows empty. Some apps however are able to read from it and I can see it is intact when I connect it to my PC. This means I can't access the files on my sdcard (virtual sdcard in the case of N5) and also evernote fails to sync as it can't create a database. I have tried chmod777 on the sdcard through recovery to try to set permissions right which failed. Restarting the device also fails. Clearing the dalvic cache also fails. Any help would be appreciated!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T01:15:33.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a0b88c9-1d49-4136-a82e-90ee0b78435d",
+            "UserId":"24775",
+            "CloseReasonId":null,
+            "PostId":"77501",
+            "PostHistoryTypeId":"1",
+            "Id":"255429",
+            "Text":"SDCard empty, works on PC"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T01:15:33.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a0b88c9-1d49-4136-a82e-90ee0b78435d",
+            "UserId":"24775",
+            "CloseReasonId":null,
+            "PostId":"77501",
+            "PostHistoryTypeId":"3",
+            "Id":"255430",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-07-18T01:24:03.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"1b67e4ff-0979-4d83-b18e-f4109cbeff1c",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"77501",
+            "PostHistoryTypeId":"6",
+            "Id":"255431",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-28T16:29:45.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"7a6c08a3-6681-4e1f-9d9b-b682a95d8abc",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"77501",
+            "PostHistoryTypeId":"10",
+            "Id":"361516",
+            "Text":"{\"OriginalQuestionIds\":[64381],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

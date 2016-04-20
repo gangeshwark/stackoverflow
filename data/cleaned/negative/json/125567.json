@@ -1,0 +1,83 @@
+{
+    "Body":"I currently use an old wireless router to connect two wifi devices.  The two devices connect to the SSID of the router, then the router allows traffic between them.  No internet connection\/uplink is present.Can I do the same with an android phone instead of the router?I can't enable mobile hotspot since I'm not paying my carrier for this feature.  Paying the carrier might work but I shouldn't have to if I'm not using internet.Also, mobile hotspot might block traffic between two devices on the mobile hotspot LAN, since the typical use case is to allow devices to contact internet but not necessarily each other.Anyone figured how to do this?HTC One M7, T-mobile 5.0 firmware, no root.",
+    "ViewCount":"23",
+    "LastActivityDate":"2015-10-11T23:41:59.810",
+    "ClosedDate":"2015-10-13T03:34:55.533",
+    "Title":"Android phone as offline router",
+    "LastEditorUserId":"131421",
+    "Tags":"",
+    "LastEditDate":"2015-10-11T23:41:59.810",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131421",
+    "CreationDate":"2015-10-11T00:11:26.153",
+    "FavoriteCount":null,
+    "Id":"125567",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-11T00:11:26.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"47f711d4-d55a-4b6a-afaf-5536f0003434",
+            "UserId":"131421",
+            "CloseReasonId":null,
+            "PostId":"125567",
+            "PostHistoryTypeId":"2",
+            "Id":"411581",
+            "Text":"I currently use an old wireless router to connect two wifi devices.  The two devices connect to the SSID of the router, then the router allows traffic between them.  No internet connection\/uplink is present.Is there an android app that lets me do the same with an android phone instead of the router?I can't enable mobile hotspot since I'm not paying my carrier for this feature.  Paying the carrier might work but I shouldn't have to if I'm not using internet.Also, mobile hotspot might block traffic between two devices on the mobile hotspot LAN, since the typical use case is to allow devices to contact internet but not necessarily each other.Anyone figured how to do this?HTC One M7, T-mobile 5.0 firmware, no root."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-11T00:11:26.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"47f711d4-d55a-4b6a-afaf-5536f0003434",
+            "UserId":"131421",
+            "CloseReasonId":null,
+            "PostId":"125567",
+            "PostHistoryTypeId":"1",
+            "Id":"411582",
+            "Text":"Android phone as offline router"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-11T00:11:26.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"47f711d4-d55a-4b6a-afaf-5536f0003434",
+            "UserId":"131421",
+            "CloseReasonId":null,
+            "PostId":"125567",
+            "PostHistoryTypeId":"3",
+            "Id":"411583",
+            "Text":""
+        },
+        {
+            "Comment":"Replaced \"Is there an app to..\" with \"Can I..\" [do this with an android phone] since the sol'n I'm looking for isn't necessarily an app. For example adb or a hidden setting could do this, or \"not possible w\/o root\" is an answer",
+            "CreationDate":"2015-10-11T23:41:59.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"53c457cd-dddc-47b1-8ad2-ec1cc7212eea",
+            "UserId":"131421",
+            "CloseReasonId":null,
+            "PostId":"125567",
+            "PostHistoryTypeId":"5",
+            "Id":"411839",
+            "Text":"I currently use an old wireless router to connect two wifi devices.  The two devices connect to the SSID of the router, then the router allows traffic between them.  No internet connection\/uplink is present.Can I do the same with an android phone instead of the router?I can't enable mobile hotspot since I'm not paying my carrier for this feature.  Paying the carrier might work but I shouldn't have to if I'm not using internet.Also, mobile hotspot might block traffic between two devices on the mobile hotspot LAN, since the typical use case is to allow devices to contact internet but not necessarily each other.Anyone figured how to do this?HTC One M7, T-mobile 5.0 firmware, no root."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-13T03:34:55.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"38eb1964-bab7-456d-873a-2e763fcee6cd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"125567",
+            "PostHistoryTypeId":"10",
+            "Id":"412304",
+            "Text":"{\"OriginalQuestionIds\":[20097],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

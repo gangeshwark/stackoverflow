@@ -1,0 +1,71 @@
+{
+    "Body":"I have a LG Nexus 5 with android marshmallow OS. I used to be able to connect my phone to a PC running Windows 10 with USB cable and browse the files from the PC's file explorer. Ever since I upgraded the OS to marshmallow whenever I connect the phone to PC with USB cable, the PC detects the connected phone but when I open the phone from file explorer there is nothing shown.After a lot of exploration I found a setting in the notification area called 'USB for charging. Touch for more options'. From there I can choose charging only, MTP, PTP, or MIDI. After selecting MTP I can browse the phone content from PC. This setting used to be in Settings - Storage - USB computer connection.The problem is the next time the phone is connected to the PC, the setting revert back to 'charging only'.Can I set the default to MTP like it used to be in lollipop?",
+    "ViewCount":"332",
+    "LastActivityDate":"2015-10-28T07:57:49.550",
+    "ClosedDate":"2015-11-02T15:59:23.557",
+    "Title":"Browse file system from PC in marshmallow",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67410",
+    "CreationDate":"2015-10-17T09:51:29.007",
+    "FavoriteCount":"1",
+    "Id":"126195",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-17T09:51:29.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"85b1193a-bb39-49d4-ad37-33210b81e42e",
+            "UserId":"67410",
+            "CloseReasonId":null,
+            "PostId":"126195",
+            "PostHistoryTypeId":"2",
+            "Id":"413970",
+            "Text":"I have a LG Nexus 5 with android marshmallow OS. I used to be able to connect my phone to a PC running Windows 10 with USB cable and browse the files from the PC's file explorer. Ever since I upgraded the OS to marshmallow whenever I connect the phone to PC with USB cable, the PC detects the connected phone but when I open the phone from file explorer there is nothing shown.After a lot of exploration I found a setting in the notification area called 'USB for charging. Touch for more options'. From there I can choose charging only, MTP, PTP, or MIDI. After selecting MTP I can browse the phone content from PC. This setting used to be in Settings - Storage - USB computer connection.The problem is the next time the phone is connected to the PC, the setting revert back to 'charging only'.Can I set the default to MTP like it used to be in lollipop?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-17T09:51:29.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"85b1193a-bb39-49d4-ad37-33210b81e42e",
+            "UserId":"67410",
+            "CloseReasonId":null,
+            "PostId":"126195",
+            "PostHistoryTypeId":"1",
+            "Id":"413971",
+            "Text":"Browse file system from PC in marshmallow"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-17T09:51:29.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"85b1193a-bb39-49d4-ad37-33210b81e42e",
+            "UserId":"67410",
+            "CloseReasonId":null,
+            "PostId":"126195",
+            "PostHistoryTypeId":"3",
+            "Id":"413972",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-02T15:59:23.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3c56193-4e21-422e-b77d-956e72c4723f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"126195",
+            "PostHistoryTypeId":"10",
+            "Id":"419791",
+            "Text":"{\"OriginalQuestionIds\":[127507],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

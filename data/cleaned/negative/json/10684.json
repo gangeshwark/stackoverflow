@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to have multiple Android Market accounts on a Single phone?If so, how do I do that?(I have been able to add a second Gmail account, but I couldn't find any option to add a second Android Market account)",
+    "ViewCount":"618",
+    "LastActivityDate":"2011-06-20T21:16:38.670",
+    "ClosedDate":"2013-04-13T19:13:57.413",
+    "Title":"Multiple Android Market Accounts on a Single Device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"10685",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3335",
+    "CreationDate":"2011-06-20T20:30:03.463",
+    "FavoriteCount":null,
+    "Id":"10684",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-20T20:30:03.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4e6d64b-4eb7-4da2-af42-ef7f5ad3300f",
+            "UserId":"3335",
+            "CloseReasonId":null,
+            "PostId":"10684",
+            "PostHistoryTypeId":"2",
+            "Id":"26509",
+            "Text":"Is it possible to have multiple Android Market accounts on a Single phone?If so, how do I do that?(I have been able to add a second Gmail account, but I couldn't find any option to add a second Android Market account)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-20T20:30:03.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4e6d64b-4eb7-4da2-af42-ef7f5ad3300f",
+            "UserId":"3335",
+            "CloseReasonId":null,
+            "PostId":"10684",
+            "PostHistoryTypeId":"1",
+            "Id":"26510",
+            "Text":"Multiple Android Market Accounts on a Single Device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-20T20:30:03.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4e6d64b-4eb7-4da2-af42-ef7f5ad3300f",
+            "UserId":"3335",
+            "CloseReasonId":null,
+            "PostId":"10684",
+            "PostHistoryTypeId":"3",
+            "Id":"26511",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-04-13T19:13:57.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"c98d337b-d3d0-42fc-a678-6c226cd1f439",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"10684",
+            "PostHistoryTypeId":"10",
+            "Id":"139680",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"unable to set the customize ring tone on moto g2 after upgrade of lollipop i tried doing so but it just give a default beeeb sound... this problem is the while setting ring tone & alarm tone. only moto g2 in build tone work properly.",
+    "ViewCount":"49",
+    "LastActivityDate":"2015-01-31T21:24:39.133",
+    "ClosedDate":"2015-02-01T06:14:37.323",
+    "Title":"Unable to set Ringtone other than Default in Moto G2 after Lollipop upgrade",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92380",
+    "CreationDate":"2015-01-31T14:58:14.947",
+    "FavoriteCount":"1",
+    "Id":"97459",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T14:58:14.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c86959e9-a550-4d37-abbb-99b72cae54b0",
+            "UserId":"92380",
+            "CloseReasonId":null,
+            "PostId":"97459",
+            "PostHistoryTypeId":"2",
+            "Id":"317842",
+            "Text":"unable to set the customize ring tone on moto g2 after upgrade of lollipop i tried doing so but it just give a default beeeb sound... this problem is the while setting ring tone & alarm tone. only moto g2 in build tone work properly."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T14:58:14.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c86959e9-a550-4d37-abbb-99b72cae54b0",
+            "UserId":"92380",
+            "CloseReasonId":null,
+            "PostId":"97459",
+            "PostHistoryTypeId":"1",
+            "Id":"317843",
+            "Text":"Unable to set Ringtone other than Default in Moto G2 after Lollipop upgrade"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T14:58:14.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c86959e9-a550-4d37-abbb-99b72cae54b0",
+            "UserId":"92380",
+            "CloseReasonId":null,
+            "PostId":"97459",
+            "PostHistoryTypeId":"3",
+            "Id":"317844",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-01T06:14:37.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6668620-2d90-4d6b-b18a-fc7d8ea7ca5c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"97459",
+            "PostHistoryTypeId":"10",
+            "Id":"318041",
+            "Text":"{\"OriginalQuestionIds\":[97325],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I am using android 4.1.2 version mobile.what is the procedure needed to connect my pc's internet to mobile via USB?",
+    "ViewCount":"15",
+    "LastActivityDate":"2016-02-26T16:32:41.267",
+    "ClosedDate":"2016-02-27T08:38:18.200",
+    "Title":"how to use pc's internet to mobile via usb",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153429",
+    "CreationDate":"2016-02-26T16:32:41.267",
+    "FavoriteCount":null,
+    "Id":"138185",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T16:32:41.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"79662fae-1c02-4f16-8269-54e30e5c96a0",
+            "UserId":"153429",
+            "CloseReasonId":null,
+            "PostId":"138185",
+            "PostHistoryTypeId":"2",
+            "Id":"461274",
+            "Text":"I am using android 4.1.2 version mobile.what is the procedure needed to connect my pc's internet to mobile via USB?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T16:32:41.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"79662fae-1c02-4f16-8269-54e30e5c96a0",
+            "UserId":"153429",
+            "CloseReasonId":null,
+            "PostId":"138185",
+            "PostHistoryTypeId":"1",
+            "Id":"461275",
+            "Text":"how to use pc's internet to mobile via usb"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T16:32:41.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"79662fae-1c02-4f16-8269-54e30e5c96a0",
+            "UserId":"153429",
+            "CloseReasonId":null,
+            "PostId":"138185",
+            "PostHistoryTypeId":"3",
+            "Id":"461276",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-27T08:38:18.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"8d6f2a38-4c72-4425-a833-b43df5ecbcd1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138185",
+            "PostHistoryTypeId":"10",
+            "Id":"461927",
+            "Text":"{\"OriginalQuestionIds\":[2298],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

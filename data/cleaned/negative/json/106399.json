@@ -1,0 +1,71 @@
+{
+    "Body":"Whenever I used to connect my phone to a computer, a notification used to pop up saying connected as a media device. If I tapped on it, I used to get two options:-MTP-PTPHowever, a few days ago, thinking that it would make charging faster, I unselected both. Now when I connect to my computer, My phone isn't visible on my computer and no notification appears on my phone. How can this be solved?Clarification: when I connect my phone to a PC, Unlike many other phones, I don't get a screen saying 'Enable USB file transfer' or anything similar.I have a rooted Micromax Canvas a1 (AQ4501) running stock android kit kat 4.4.4",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-04-23T15:23:28.547",
+    "ClosedDate":"2015-04-23T23:52:07.203",
+    "Title":"Enable MTP or PTP",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"90446",
+    "CreationDate":"2015-04-23T15:23:28.547",
+    "FavoriteCount":null,
+    "Id":"106399",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T15:23:28.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"f20116df-3d31-488e-b8b9-813b9f16c1bc",
+            "UserId":"90446",
+            "CloseReasonId":null,
+            "PostId":"106399",
+            "PostHistoryTypeId":"2",
+            "Id":"348155",
+            "Text":"Whenever I used to connect my phone to a computer, a notification used to pop up saying connected as a media device. If I tapped on it, I used to get two options:-MTP-PTPHowever, a few days ago, thinking that it would make charging faster, I unselected both. Now when I connect to my computer, My phone isn't visible on my computer and no notification appears on my phone. How can this be solved?Clarification: when I connect my phone to a PC, Unlike many other phones, I don't get a screen saying 'Enable USB file transfer' or anything similar.I have a rooted Micromax Canvas a1 (AQ4501) running stock android kit kat 4.4.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T15:23:28.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"f20116df-3d31-488e-b8b9-813b9f16c1bc",
+            "UserId":"90446",
+            "CloseReasonId":null,
+            "PostId":"106399",
+            "PostHistoryTypeId":"1",
+            "Id":"348156",
+            "Text":"Enable MTP or PTP"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-23T15:23:28.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"f20116df-3d31-488e-b8b9-813b9f16c1bc",
+            "UserId":"90446",
+            "CloseReasonId":null,
+            "PostId":"106399",
+            "PostHistoryTypeId":"3",
+            "Id":"348157",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-23T23:52:07.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"495b87d9-4887-471d-9be3-2d92329d3ed0",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"106399",
+            "PostHistoryTypeId":"10",
+            "Id":"348277",
+            "Text":"{\"OriginalQuestionIds\":[58397],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Ok, I have a big problem! My fiance says he was at lunch while google location history shows that for over an hour he was in the hotel next door to the restaurant. He has a Galaxy 3. The dots at the bottom of the screen are from the restaurant and the dots up at the top are the hotel. None of the blue circles from the 2 locations run into one another either.How likely is it that this is inaccurate? ",
+    "ViewCount":"9037",
+    "LastActivityDate":"2016-01-28T07:33:28.337",
+    "ClosedDate":"2014-05-28T14:23:58.863",
+    "Title":"Location History Accuracy?",
+    "LastEditorUserId":"44325",
+    "Tags":"",
+    "LastEditDate":"2016-01-28T07:33:28.337",
+    "CommentCount":"8",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"44694",
+    "CreationDate":"2013-11-06T21:56:41.967",
+    "FavoriteCount":null,
+    "Id":"56491",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-06T21:56:41.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"da7a200a-a2f5-4904-ba0e-ceb4f3d2fa0f",
+            "UserId":"44694",
+            "CloseReasonId":null,
+            "PostId":"56491",
+            "PostHistoryTypeId":"2",
+            "Id":"188203",
+            "Text":"Ok, I have a big problem! My fiance says he was at lunch while google location history shows that for over an hour he was in the hotel next door to the restaurant. He has a Galaxy 3. ![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/XIOjt.jpgThe dots at the bottom of the screen are from the restaurant and the dots up at the top are the hotel. None of the blue circles from the 2 locations run into one another either.How likely is it that this is inaccurate? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-06T21:56:41.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"da7a200a-a2f5-4904-ba0e-ceb4f3d2fa0f",
+            "UserId":"44694",
+            "CloseReasonId":null,
+            "PostId":"56491",
+            "PostHistoryTypeId":"1",
+            "Id":"188204",
+            "Text":"Location History Accuracy?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-06T21:56:41.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"da7a200a-a2f5-4904-ba0e-ceb4f3d2fa0f",
+            "UserId":"44694",
+            "CloseReasonId":null,
+            "PostId":"56491",
+            "PostHistoryTypeId":"3",
+            "Id":"188205",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-28T14:23:58.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"6983bb60-c899-4195-aa71-47db11fc7af7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"56491",
+            "PostHistoryTypeId":"10",
+            "Id":"239450",
+            "Text":"{\"OriginalQuestionIds\":[44608],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-01-28T07:33:28.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"06dfbe4d-1d8b-4c1f-848f-788739e50926",
+            "UserId":"44325",
+            "CloseReasonId":null,
+            "PostId":"56491",
+            "PostHistoryTypeId":"6",
+            "Id":"450582",
+            "Text":""
+        }
+    ]
+}

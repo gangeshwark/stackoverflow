@@ -1,0 +1,83 @@
+{
+    "Body":"On my new phone, for security reasons I decided to stick to Open Source apps as much as possible.Is there an Open Source flashlight app?The most popular flashlight apps (1,2) are asking for crazy permissions: GPS, camera, Internet, GPS, SD card...If no Open Source is available, at least one I would be happy with a very simple one, such as this one (white screen, brightness 100%, lock screen) which for some reason is not available for my new phone.",
+    "ViewCount":"10244",
+    "LastActivityDate":"2013-01-01T20:47:13.110",
+    "ClosedDate":"2013-03-23T21:53:24.860",
+    "Title":"Open source flashlight app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":"17975",
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"501",
+    "CreationDate":"2012-01-01T14:05:18.093",
+    "FavoriteCount":"2",
+    "Id":"17685",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-01T14:05:18.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a198396-7109-4b3a-9ee8-9a0adc004760",
+            "UserId":"501",
+            "CloseReasonId":null,
+            "PostId":"17685",
+            "PostHistoryTypeId":"2",
+            "Id":"48412",
+            "Text":"On my new phone, for security reasons I decided to stick to Open Source apps as much as possible.Is there an Open Source flashlight app?The most popular flashlight apps ([1][1],[2][2]) are asking for crazy permissions: GPS, camera, Internet, GPS, SD card...If no Open Source is available, at least one I would be happy with a very simple one, such as [this one][3] (white screen, brightness 100%, lock screen) which for some reason is not available for my new [phone][4].  [1]: https:\/\/market.android.com\/details?id=goldenshorestechnologies.brightestflashlight.free  [2]: https:\/\/market.android.com\/details?id=com.devuni.flashlight  [3]: https:\/\/market.android.com\/details?id=org.dyndns.devesh.flashlight  [4]: http:\/\/www.gsmarena.com\/huawei_u8150_ideos-3513.php"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-01T14:05:18.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a198396-7109-4b3a-9ee8-9a0adc004760",
+            "UserId":"501",
+            "CloseReasonId":null,
+            "PostId":"17685",
+            "PostHistoryTypeId":"1",
+            "Id":"48413",
+            "Text":"Open source flashlight app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-01T14:05:18.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a198396-7109-4b3a-9ee8-9a0adc004760",
+            "UserId":"501",
+            "CloseReasonId":null,
+            "PostId":"17685",
+            "PostHistoryTypeId":"3",
+            "Id":"48414",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/153618230341152768",
+            "CreationDate":"2012-01-01T23:26:55.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"edb319a9-fdc1-4f33-b9b1-bdc5469aa2a0",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"17685",
+            "PostHistoryTypeId":"25",
+            "Id":"48465",
+            "Text":null
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-03-23T21:53:24.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"562519d5-6d92-4201-ba1f-0dbae790fa6d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"17685",
+            "PostHistoryTypeId":"10",
+            "Id":"132774",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"}]}"
+        }
+    ]
+}

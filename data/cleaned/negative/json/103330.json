@@ -1,0 +1,71 @@
+{
+    "Body":"I've been trying all day to install 5.1 OTA via ADB. In my struggle, I tried installing TWRP to try to get it to work, but it didn't. I since flashed the stock recovery.When trying to flash via ADB, this is my output log:Finding update package...Opening update package...Verifying update package...Installing update...Verifying current system...\"System\/bin\/install-recovery.sh\" has unexpected contents.E:Error in \/sideload\/package.zip(Status 7)Installation aborted.",
+    "ViewCount":"6715",
+    "LastActivityDate":"2015-03-23T14:52:41.220",
+    "ClosedDate":"2015-03-23T17:36:59.287",
+    "Title":"Nexus 5 gives Status 7 error when flashing 5.1 OTA",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"103332",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"55851",
+    "CreationDate":"2015-03-23T14:43:46.150",
+    "FavoriteCount":"1",
+    "Id":"103330",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-23T14:43:46.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"2abcd84c-36c7-468d-9e66-508d0150c6c2",
+            "UserId":"55851",
+            "CloseReasonId":null,
+            "PostId":"103330",
+            "PostHistoryTypeId":"2",
+            "Id":"336875",
+            "Text":"I've been trying all day to install 5.1 OTA via ADB. In my struggle, I tried installing TWRP to try to get it to work, but it didn't. I since flashed the stock recovery.When trying to flash via ADB, this is my output log:    Finding update package...    Opening update package...    Verifying update package...    Installing update...    Verifying current system...    \"System\/bin\/install-recovery.sh\" has unexpected contents.    E:Error in \/sideload\/package.zip    (Status 7)        Installation aborted."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-23T14:43:46.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"2abcd84c-36c7-468d-9e66-508d0150c6c2",
+            "UserId":"55851",
+            "CloseReasonId":null,
+            "PostId":"103330",
+            "PostHistoryTypeId":"1",
+            "Id":"336876",
+            "Text":"Nexus 5 gives Status 7 error when flashing 5.1 OTA"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-23T14:43:46.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"2abcd84c-36c7-468d-9e66-508d0150c6c2",
+            "UserId":"55851",
+            "CloseReasonId":null,
+            "PostId":"103330",
+            "PostHistoryTypeId":"3",
+            "Id":"336877",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-23T17:36:59.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2dd6c67-b8df-4cd1-9c4e-f652f775d59b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103330",
+            "PostHistoryTypeId":"10",
+            "Id":"336963",
+            "Text":"{\"OriginalQuestionIds\":[96571],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

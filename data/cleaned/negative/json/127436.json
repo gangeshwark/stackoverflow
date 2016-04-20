@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Xiaomi Mi Note that doesn't come installed with Play Store. I'd like to install an APK for it manually, but all resources I've found on the web require me to install a binary from untrusted sources (e.g., a Mediafile upload).How can I download the Play Store APK directly from Google?",
+    "ViewCount":"197",
+    "LastActivityDate":"2015-10-29T17:31:08.690",
+    "ClosedDate":"2015-10-29T17:32:14.957",
+    "Title":"How can I manually download the Play Store APK from Google?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81835",
+    "CreationDate":"2015-10-29T17:10:32.540",
+    "FavoriteCount":null,
+    "Id":"127436",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-29T17:10:32.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"67430ef4-29db-4042-bd34-71ab6d64f74a",
+            "UserId":"81835",
+            "CloseReasonId":null,
+            "PostId":"127436",
+            "PostHistoryTypeId":"2",
+            "Id":"418474",
+            "Text":"I have a Xiaomi Mi Note that doesn't come installed with Play Store. I'd like to install an APK for it manually, but all resources I've found on the web require me to install a binary from untrusted sources (e.g., a Mediafile upload).How can I download the Play Store APK directly from Google?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-29T17:10:32.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"67430ef4-29db-4042-bd34-71ab6d64f74a",
+            "UserId":"81835",
+            "CloseReasonId":null,
+            "PostId":"127436",
+            "PostHistoryTypeId":"1",
+            "Id":"418475",
+            "Text":"How can I manually download the Play Store APK from Google?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-29T17:10:32.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"67430ef4-29db-4042-bd34-71ab6d64f74a",
+            "UserId":"81835",
+            "CloseReasonId":null,
+            "PostId":"127436",
+            "PostHistoryTypeId":"3",
+            "Id":"418476",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-29T17:32:14.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"f6d9655c-6c7a-4b37-a32f-03f6972b1ff9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"127436",
+            "PostHistoryTypeId":"10",
+            "Id":"418484",
+            "Text":"{\"OriginalQuestionIds\":[12330],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

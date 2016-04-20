@@ -1,0 +1,71 @@
+{
+    "Body":"Adobe Voice was recently released for iPad only (at least at this time). Adobe apparently doesn't realize the shrinking market share of the iPlatform, but I digress. Does there exist an alternative for the Android platform?",
+    "ViewCount":"4646",
+    "LastActivityDate":"2014-05-09T03:09:59.300",
+    "ClosedDate":"2014-05-09T10:15:34.927",
+    "Title":"Is there an alternative to Adobe Voice for Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32482",
+    "CreationDate":"2014-05-08T22:23:24.363",
+    "FavoriteCount":null,
+    "Id":"69023",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-08T22:23:24.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"40ac5d67-2094-4d37-85c4-29ffce469207",
+            "UserId":"32482",
+            "CloseReasonId":null,
+            "PostId":"69023",
+            "PostHistoryTypeId":"2",
+            "Id":"235409",
+            "Text":"[Adobe Voice](https:\/\/www.yahoo.com\/tech\/you-know-adobe-right-this-is-the-company-that-85081015729.html) was recently released for iPad only (at least at this time). Adobe apparently doesn't realize the shrinking market share of the iPlatform, but I digress. Does there exist an alternative for the Android platform?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-08T22:23:24.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"40ac5d67-2094-4d37-85c4-29ffce469207",
+            "UserId":"32482",
+            "CloseReasonId":null,
+            "PostId":"69023",
+            "PostHistoryTypeId":"1",
+            "Id":"235410",
+            "Text":"Is there an alternative to Adobe Voice for Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-08T22:23:24.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"40ac5d67-2094-4d37-85c4-29ffce469207",
+            "UserId":"32482",
+            "CloseReasonId":null,
+            "PostId":"69023",
+            "PostHistoryTypeId":"3",
+            "Id":"235411",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-05-09T10:15:34.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"83443181-f0e7-458c-b05f-bf0009e9353d",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"69023",
+            "PostHistoryTypeId":"10",
+            "Id":"235526",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

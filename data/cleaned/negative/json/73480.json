@@ -1,0 +1,71 @@
+{
+    "Body":"The Samsung Galaxy Gear came with Android OS installed, but the Gear 2 (slight spec bumps) is bundled with Tizen OS. Does anybody know how to get Android OS (preferably a clean Google version) installed on the Gear 2?Thanks",
+    "ViewCount":"17",
+    "LastActivityDate":"2014-06-19T17:49:52.523",
+    "ClosedDate":"2014-06-20T15:05:47.200",
+    "Title":"How can I install Android on a Samsung Gear 2?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64397",
+    "CreationDate":"2014-06-19T17:49:52.523",
+    "FavoriteCount":null,
+    "Id":"73480",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-19T17:49:52.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd358fd3-1158-46d2-a262-d3fd4786accb",
+            "UserId":"64397",
+            "CloseReasonId":null,
+            "PostId":"73480",
+            "PostHistoryTypeId":"2",
+            "Id":"246388",
+            "Text":"The Samsung Galaxy Gear came with Android OS installed, but the Gear 2 (slight spec bumps) is bundled with Tizen OS. Does anybody know how to get Android OS (preferably a clean Google version) installed on the Gear 2?Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-19T17:49:52.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd358fd3-1158-46d2-a262-d3fd4786accb",
+            "UserId":"64397",
+            "CloseReasonId":null,
+            "PostId":"73480",
+            "PostHistoryTypeId":"1",
+            "Id":"246389",
+            "Text":"How can I install Android on a Samsung Gear 2?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-19T17:49:52.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd358fd3-1158-46d2-a262-d3fd4786accb",
+            "UserId":"64397",
+            "CloseReasonId":null,
+            "PostId":"73480",
+            "PostHistoryTypeId":"3",
+            "Id":"246390",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-20T15:05:47.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6739ae3-c65e-4883-878d-5fb41c937c40",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"73480",
+            "PostHistoryTypeId":"10",
+            "Id":"246597",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"When I run an app, select a file, and choose \"delete\" what happens then:the file is moved to trash (and later is removed by OS when some conditions are met)the file is removed from the filesystem at once(1) or (2) depending on an app?",
+    "ViewCount":"86",
+    "LastActivityDate":"2013-11-02T22:34:04.420",
+    "ClosedDate":"2013-11-04T21:05:18.803",
+    "Title":"What does deleting a file really do?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"56233",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5551",
+    "CreationDate":"2013-11-02T19:38:37.543",
+    "FavoriteCount":null,
+    "Id":"56228",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-02T19:38:37.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"211172a0-7aea-41ae-9f5c-9f9b8452b59b",
+            "UserId":"5551",
+            "CloseReasonId":null,
+            "PostId":"56228",
+            "PostHistoryTypeId":"2",
+            "Id":"187153",
+            "Text":"When I run an app, select a file, and choose \"delete\" what happens then:1. the file is moved to trash (and later is removed by OS when some conditions are met)2. the file is removed from the filesystem at once3. (1) or (2) depending on an app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-02T19:38:37.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"211172a0-7aea-41ae-9f5c-9f9b8452b59b",
+            "UserId":"5551",
+            "CloseReasonId":null,
+            "PostId":"56228",
+            "PostHistoryTypeId":"1",
+            "Id":"187154",
+            "Text":"What does deleting a file really do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-02T19:38:37.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"211172a0-7aea-41ae-9f5c-9f9b8452b59b",
+            "UserId":"5551",
+            "CloseReasonId":null,
+            "PostId":"56228",
+            "PostHistoryTypeId":"3",
+            "Id":"187155",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2013-11-04T21:05:18.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"8c42034f-333e-4665-b414-761a81df30c9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"56228",
+            "PostHistoryTypeId":"10",
+            "Id":"187627",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

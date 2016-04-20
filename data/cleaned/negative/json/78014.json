@@ -1,0 +1,71 @@
+{
+    "Body":"So i have a rooted ms690, but su keeps crashing, the recovery is just a hard reset, I have no sd card, and metroweb is gone. The problem I want to solve is metroweb. I have the apk, and the only way I can get to root anything is this:adb shell$ su#What do i do from here?",
+    "ViewCount":"1369",
+    "LastActivityDate":"2014-07-24T21:50:12.597",
+    "ClosedDate":"2014-08-04T10:37:32.053",
+    "Title":"push app from root adb terminal",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68132",
+    "CreationDate":"2014-07-24T21:11:06.497",
+    "FavoriteCount":null,
+    "Id":"78014",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T21:11:06.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"78ec8ad3-2247-44d0-ac11-5045d1218cc4",
+            "UserId":"68132",
+            "CloseReasonId":null,
+            "PostId":"78014",
+            "PostHistoryTypeId":"2",
+            "Id":"257235",
+            "Text":"So i have a rooted ms690, but su keeps crashing, the recovery is just a hard reset, I have no sd card, and metroweb is gone. The problem I want to solve is metroweb. I have the apk, and the only way I can get to root anything is this:    adb shell    $ su    #What do i do from here?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T21:11:06.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"78ec8ad3-2247-44d0-ac11-5045d1218cc4",
+            "UserId":"68132",
+            "CloseReasonId":null,
+            "PostId":"78014",
+            "PostHistoryTypeId":"1",
+            "Id":"257236",
+            "Text":"push app from root adb terminal"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T21:11:06.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"78ec8ad3-2247-44d0-ac11-5045d1218cc4",
+            "UserId":"68132",
+            "CloseReasonId":null,
+            "PostId":"78014",
+            "PostHistoryTypeId":"3",
+            "Id":"257237",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-08-04T10:37:32.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d2e0d1a-c511-4307-8e14-f59fdd27bf9a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"78014",
+            "PostHistoryTypeId":"10",
+            "Id":"259676",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

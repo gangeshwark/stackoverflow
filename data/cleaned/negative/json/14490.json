@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I rate an app in Honeycomb?  I own Asus Transformer TF-101 Android tablet, running Honeycomb 3.2. I cannot figure out how to rate installed applications in the Market. Pressing on the stars (average rating) does nothing, there is nothing in the menu, the Market looks quite different from how it looks on my phone, thus this (embarrassing) question.",
+    "ViewCount":"66",
+    "LastActivityDate":"2011-10-12T20:13:06.583",
+    "ClosedDate":"2011-10-12T21:12:44.390",
+    "Title":"How to rate in Market on Honeycomb tablet?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8004",
+    "CreationDate":"2011-10-12T20:13:06.583",
+    "FavoriteCount":null,
+    "Id":"14490",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-12T20:13:06.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf77595a-afdf-43fb-bddd-814d3c0a2e45",
+            "UserId":"8004",
+            "CloseReasonId":null,
+            "PostId":"14490",
+            "PostHistoryTypeId":"2",
+            "Id":"38440",
+            "Text":"I own Asus Transformer TF-101 Android tablet, running Honeycomb 3.2. I cannot figure out how to rate installed applications in the Market. Pressing on the stars (average rating) does nothing, there is nothing in the menu, the Market looks quite different from how it looks on my phone, thus this (embarrassing) question."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-12T20:13:06.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf77595a-afdf-43fb-bddd-814d3c0a2e45",
+            "UserId":"8004",
+            "CloseReasonId":null,
+            "PostId":"14490",
+            "PostHistoryTypeId":"1",
+            "Id":"38441",
+            "Text":"How to rate in Market on Honeycomb tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-12T20:13:06.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf77595a-afdf-43fb-bddd-814d3c0a2e45",
+            "UserId":"8004",
+            "CloseReasonId":null,
+            "PostId":"14490",
+            "PostHistoryTypeId":"3",
+            "Id":"38442",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-10-12T21:12:45.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fb7dc3d-32b6-4e1f-bfa1-ce4b2f7e5c9f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"14490",
+            "PostHistoryTypeId":"5",
+            "Id":"38450",
+            "Text":"> **Possible Duplicate:**  > [How can I rate an app in Honeycomb?](http:\/\/android.stackexchange.com\/questions\/9497\/how-can-i-rate-an-app-in-honeycomb)  I own Asus Transformer TF-101 Android tablet, running Honeycomb 3.2. I cannot figure out how to rate installed applications in the Market. Pressing on the stars (average rating) does nothing, there is nothing in the menu, the Market looks quite different from how it looks on my phone, thus this (embarrassing) question."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-10-12T21:12:44.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"f54300ac-8ef6-42cf-b8e4-8bc4d69e92b1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"14490",
+            "PostHistoryTypeId":"10",
+            "Id":"38451",
+            "Text":"{\"OriginalQuestionIds\":[9497],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

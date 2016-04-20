@@ -1,0 +1,71 @@
+{
+    "Body":"(device: Samsung Galaxy S 3)I've just witnessed something rather strange: while tethering to my laptop, with the phone being plugged in a power source (the charger I got with the device) - the battery percentage started going down.Now, I'm in an area where the signal is pretty bad, and my phone is constantly switching between 3G and some H+ network. It's normal for the battery life to suck.However, isn't the phone supposed to power itself directly from the charger?I thought that the charger was both powering the phone and recharging the battery.Now it seems that the battery is powering the phone - while the charger is only recharging the battery (and failing).Is this correct?Even more importantly: will this hurt my battery?And another question: could I simply take my battery out and keep the phone alive only on the charger (e.g. this is possible with a laptop)? ",
+    "ViewCount":"38",
+    "LastActivityDate":"2013-06-19T14:13:14.920",
+    "ClosedDate":"2013-06-20T03:44:30.820",
+    "Title":"Battery percentage going down while charging!",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"35132",
+    "CreationDate":"2013-06-19T14:13:14.920",
+    "FavoriteCount":null,
+    "Id":"47577",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-19T14:13:14.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"490eaf9d-f7a5-4d1f-8400-20f1a6cc186c",
+            "UserId":"35132",
+            "CloseReasonId":null,
+            "PostId":"47577",
+            "PostHistoryTypeId":"2",
+            "Id":"154146",
+            "Text":"(device: Samsung Galaxy S 3)I've just witnessed something rather strange: while tethering to my laptop, with the phone being **plugged in a power source** (the charger I got with the device) - the battery percentage started going down.Now, I'm in an area where the signal is pretty bad, and my phone is constantly switching between 3G and some H+ network. It's normal for the battery life to suck.However, isn't the phone supposed to power itself directly from the charger?I thought that the charger was both powering the phone *and* recharging the battery.Now it seems that the battery is powering the phone - while the charger is only recharging the battery (and failing).Is this correct?Even more importantly: will this hurt my battery?And another question: could I simply take my battery out and keep the phone alive only on the charger (e.g. this is possible with a laptop)? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-19T14:13:14.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"490eaf9d-f7a5-4d1f-8400-20f1a6cc186c",
+            "UserId":"35132",
+            "CloseReasonId":null,
+            "PostId":"47577",
+            "PostHistoryTypeId":"1",
+            "Id":"154147",
+            "Text":"Battery percentage going down while charging!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-19T14:13:14.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"490eaf9d-f7a5-4d1f-8400-20f1a6cc186c",
+            "UserId":"35132",
+            "CloseReasonId":null,
+            "PostId":"47577",
+            "PostHistoryTypeId":"3",
+            "Id":"154148",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-20T03:44:30.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"7223291c-3f87-413f-8b6c-6cca665d06f7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"47577",
+            "PostHistoryTypeId":"10",
+            "Id":"154295",
+            "Text":"{\"OriginalQuestionIds\":[418],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

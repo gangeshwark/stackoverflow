@@ -1,0 +1,83 @@
+{
+    "Body":"I am searching for a free Exchange mail client for Android 2.3+. Can anybody please suggest me one?",
+    "ViewCount":"1335",
+    "LastActivityDate":"2012-03-19T13:26:59.270",
+    "ClosedDate":"2012-03-19T16:24:04.307",
+    "Title":"Is there any FREE android mail client with Exchange Support?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"20780",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5270",
+    "CreationDate":"2012-03-19T13:14:45.040",
+    "FavoriteCount":"1",
+    "Id":"20779",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T13:14:45.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e1c4356-5a89-48f0-a4a3-2be765062fd1",
+            "UserId":"5270",
+            "CloseReasonId":null,
+            "PostId":"20779",
+            "PostHistoryTypeId":"2",
+            "Id":"57992",
+            "Text":"I am searching for a free Exchange mail client for Android 2.3+. Can anybody please suggest me one?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T13:14:45.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e1c4356-5a89-48f0-a4a3-2be765062fd1",
+            "UserId":"5270",
+            "CloseReasonId":null,
+            "PostId":"20779",
+            "PostHistoryTypeId":"1",
+            "Id":"57993",
+            "Text":"Is there any FREE android mail client with Exchange Support?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T13:14:45.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e1c4356-5a89-48f0-a4a3-2be765062fd1",
+            "UserId":"5270",
+            "CloseReasonId":null,
+            "PostId":"20779",
+            "PostHistoryTypeId":"3",
+            "Id":"57994",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/181754659122315265",
+            "CreationDate":"2012-03-19T14:51:02.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"623ec17f-639c-46ab-936e-9d93b6815f58",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"20779",
+            "PostHistoryTypeId":"25",
+            "Id":"57999",
+            "Text":null
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-03-19T16:24:04.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"328c397f-39b6-42d6-9002-f87d4b5f6df8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20779",
+            "PostHistoryTypeId":"10",
+            "Id":"58017",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

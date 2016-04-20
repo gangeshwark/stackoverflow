@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Nexus 10 on which I have a master account, and a secondary  (restricted) account for my kids.Recently, one of them got hold of it while it was logged in and installed a bunch of games. I removed them again \u2014 or so I thought. I just found out that, while they don't show up in the list of apps tray, they do show up among the app permissions for the secondary account, as well as in the list of apps available via settings -> apps.I can't uninstall them from either location. While I suspect I can I uninstall them from the secondary account, how do I know they're really gone if I do so?Shouldn't I be able to uninstall them from the master account?",
+    "ViewCount":"58",
+    "LastActivityDate":"2014-09-19T06:52:01.367",
+    "ClosedDate":"2015-07-19T16:58:50.170",
+    "Title":"Unable to uninstall apps for secondary account",
+    "LastEditorUserId":"51314",
+    "Tags":"",
+    "LastEditDate":"2014-09-19T06:52:01.367",
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"51314",
+    "CreationDate":"2014-09-16T16:32:25.637",
+    "FavoriteCount":null,
+    "Id":"82684",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-16T16:32:25.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3d9b18a-8b54-4d1b-8f4a-b6b2554d77d8",
+            "UserId":"51314",
+            "CloseReasonId":null,
+            "PostId":"82684",
+            "PostHistoryTypeId":"2",
+            "Id":"271046",
+            "Text":"I have a Nexus 10 on which I have a master account, and a secondary  (restricted) account for my kids.Recently, one of them got hold of it while it was logged in and installed a bunch of games. I removed them again \u2014 or so I thought. I just found out that, while they don't show up in the list of apps tray, they _do_ show up among the app permissions for the secondary account, as well as in the list of apps available via settings -> apps.I can't uninstall them from either location. While I suspect I can I uninstall them from the secondary account, how do I know they're really gone if I do so, and shouldn't I be able to uninstall them from the master account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-16T16:32:25.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3d9b18a-8b54-4d1b-8f4a-b6b2554d77d8",
+            "UserId":"51314",
+            "CloseReasonId":null,
+            "PostId":"82684",
+            "PostHistoryTypeId":"1",
+            "Id":"271047",
+            "Text":"Unable to uninstall apps for secondary account"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-16T16:32:25.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3d9b18a-8b54-4d1b-8f4a-b6b2554d77d8",
+            "UserId":"51314",
+            "CloseReasonId":null,
+            "PostId":"82684",
+            "PostHistoryTypeId":"3",
+            "Id":"271048",
+            "Text":""
+        },
+        {
+            "Comment":"More emphasis for second question",
+            "CreationDate":"2014-09-19T06:52:01.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d95c039-00cb-412d-bacf-89c86e1d0d8e",
+            "UserId":"51314",
+            "CloseReasonId":null,
+            "PostId":"82684",
+            "PostHistoryTypeId":"5",
+            "Id":"271637",
+            "Text":"I have a Nexus 10 on which I have a master account, and a secondary  (restricted) account for my kids.Recently, one of them got hold of it while it was logged in and installed a bunch of games. I removed them again \u2014 or so I thought. I just found out that, while they don't show up in the list of apps tray, they _do_ show up among the app permissions for the secondary account, as well as in the list of apps available via settings -> apps.I can't uninstall them from either location. While I suspect I can I uninstall them from the secondary account, how do I know they're really gone if I do so?Shouldn't I be able to uninstall them from the master account?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-19T16:58:50.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"71a898e1-2ed4-41e0-bd53-093ba27d9291",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"82684",
+            "PostHistoryTypeId":"10",
+            "Id":"380247",
+            "Text":"{\"OriginalQuestionIds\":[92025],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

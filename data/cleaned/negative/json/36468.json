@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why am I getting a \u201cLow on Space\u201d warning and having other weird problems?  I tried to compose a new SMS (text message): I tapped \"New Message\" and I got this error message:\"Phone storage is full! Delete some files to free space\".So I deleted almost all the previously saved SMSs, and then also moved a few apps from internal space to SD card, and uninstalled some other apps. After this I had about 4MB of free internal space, but I still kept getting the same message.So I cleared the browser's cache and now I have reportedly 15 MB (of 190) of free internal space (and more than 7 GB of free external SDcard space).I still get the exact same error when I try to compose a new text message (I also restarted with no luck).At this point the message is clearly bogus, or at the very least the system is low on some other (god knows what) kind of space, NOT internal storage as it says.WHAT on earth do I need to delete to free up this misterious kind of space that somehow got low?",
+    "ViewCount":"13739",
+    "LastActivityDate":"2012-12-30T16:25:03.657",
+    "ClosedDate":"2012-12-30T23:44:00.550",
+    "Title":"How to get rid of bogus \"Phone storage full\" message (cannot send SMSs)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25821",
+    "CreationDate":"2012-12-30T14:38:43.630",
+    "FavoriteCount":null,
+    "Id":"36468",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T14:38:43.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c042bc4-6bca-4c80-89af-4b837f801aed",
+            "UserId":"25821",
+            "CloseReasonId":null,
+            "PostId":"36468",
+            "PostHistoryTypeId":"2",
+            "Id":"110034",
+            "Text":"I tried to compose a new SMS (text message): I tapped \"New Message\" and I got this error message:\"Phone storage is full! Delete some files to free space\".So I deleted almost all the previously saved SMSs, and then also moved a few apps from internal space to SD card, and uninstalled some other apps. After this I had about 4MB of free internal space, but I still kept getting the same message.So I cleared the browser's cache and now I have reportedly 15 MB (of 190) of free internal space (and more than 7 GB of free external SDcard space).I still get the exact same error when I try to compose a new text message (I also restarted with no luck).At this point the message is clearly bogus, or at the very least the system is low on some other (god knows what) kind of space, NOT internal storage as it says.WHAT on earth do I need to delete to free up this misterious kind of space that somehow got low?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T14:38:43.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c042bc4-6bca-4c80-89af-4b837f801aed",
+            "UserId":"25821",
+            "CloseReasonId":null,
+            "PostId":"36468",
+            "PostHistoryTypeId":"1",
+            "Id":"110035",
+            "Text":"How to get rid of bogus \"Phone storage full\" message (cannot send SMSs)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T14:38:43.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c042bc4-6bca-4c80-89af-4b837f801aed",
+            "UserId":"25821",
+            "CloseReasonId":null,
+            "PostId":"36468",
+            "PostHistoryTypeId":"3",
+            "Id":"110036",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-12-30T23:44:00.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"047f6dd5-6c13-459a-ba74-d39c7120c06e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36468",
+            "PostHistoryTypeId":"5",
+            "Id":"110200",
+            "Text":"> **Possible Duplicate:**  > [Why am I getting a \u201cLow on Space\u201d warning and having other weird problems?](http:\/\/android.stackexchange.com\/questions\/3680\/why-am-i-getting-a-low-on-space-warning-and-having-other-weird-problems)  I tried to compose a new SMS (text message): I tapped \"New Message\" and I got this error message:\"Phone storage is full! Delete some files to free space\".So I deleted almost all the previously saved SMSs, and then also moved a few apps from internal space to SD card, and uninstalled some other apps. After this I had about 4MB of free internal space, but I still kept getting the same message.So I cleared the browser's cache and now I have reportedly 15 MB (of 190) of free internal space (and more than 7 GB of free external SDcard space).I still get the exact same error when I try to compose a new text message (I also restarted with no luck).At this point the message is clearly bogus, or at the very least the system is low on some other (god knows what) kind of space, NOT internal storage as it says.WHAT on earth do I need to delete to free up this misterious kind of space that somehow got low?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-12-30T23:44:00.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"5cbe9f79-4307-4d6f-8bb4-9d208012a590",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36468",
+            "PostHistoryTypeId":"10",
+            "Id":"110201",
+            "Text":"{\"OriginalQuestionIds\":[3680],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is there a zoom and timer functionality on Nexus S camera?  Is there any app that will let one use a time-delay shot with the phone's camera on Android 2.3.5? The default camera app doesn't seem to have time-delay shots, as far as I can see.",
+    "ViewCount":"613",
+    "LastActivityDate":"2012-02-25T09:58:52.770",
+    "ClosedDate":"2012-08-14T13:51:39.383",
+    "Title":"Camera time delay on 2.3.5?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"19910",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5699",
+    "CreationDate":"2012-02-20T12:04:13.570",
+    "FavoriteCount":null,
+    "Id":"19690",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T12:04:13.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf08d204-35a1-4dbc-b173-d01e6426fd15",
+            "UserId":"5699",
+            "CloseReasonId":null,
+            "PostId":"19690",
+            "PostHistoryTypeId":"2",
+            "Id":"54568",
+            "Text":"Is there any app that will let one use a time-delay shot with the phone's camera on Android 2.3.5? The default camera app doesn't seem to have time-delay shots, as far as I can see."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T12:04:13.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf08d204-35a1-4dbc-b173-d01e6426fd15",
+            "UserId":"5699",
+            "CloseReasonId":null,
+            "PostId":"19690",
+            "PostHistoryTypeId":"1",
+            "Id":"54569",
+            "Text":"Camera time delay on 2.3.5?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T12:04:13.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf08d204-35a1-4dbc-b173-d01e6426fd15",
+            "UserId":"5699",
+            "CloseReasonId":null,
+            "PostId":"19690",
+            "PostHistoryTypeId":"3",
+            "Id":"54570",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-14T13:51:39.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e4036de-1c0c-4309-9b1c-37f066000367",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19690",
+            "PostHistoryTypeId":"5",
+            "Id":"80152",
+            "Text":"> **Possible Duplicate:**  > [Is there a zoom and timer functionality on Nexus S camera?](http:\/\/android.stackexchange.com\/questions\/7064\/is-there-a-zoom-and-timer-functionality-on-nexus-s-camera)  Is there any app that will let one use a time-delay shot with the phone's camera on Android 2.3.5? The default camera app doesn't seem to have time-delay shots, as far as I can see."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-14T13:51:39.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"58a96ad5-3ab7-4535-b498-a8e26b9df56c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"19690",
+            "PostHistoryTypeId":"10",
+            "Id":"80153",
+            "Text":"{\"OriginalQuestionIds\":[7064],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

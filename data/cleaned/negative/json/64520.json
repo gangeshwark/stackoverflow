@@ -1,0 +1,71 @@
+{
+    "Body":"This is kinda the inverse of what lots of people seem to be asking.It really annoys me when i'm in a city and my Android connects to every and any wi-fi hotspot whether or not they require login, and whether or not there is internet access available on them. I then find myself endless frustrated that there's no connection, wondering why. Why- if there is no internet connection through wi-fi, doesn't the system simply ignore that connection and connect through the mobile network.OK I could simply turn wi-fi off, but that would mean forever toggling it on and off, and on a least one occasion having done this I've forgotten to turn it back on and wondered why I've gobbled up my data allowance.Is there a setting I've missed somewhere, or a prioritising app?",
+    "ViewCount":"22",
+    "LastActivityDate":"2014-02-28T11:46:37.063",
+    "ClosedDate":"2014-03-02T09:21:07.010",
+    "Title":"How to stop Android assuming all wi-fi connections give internet access",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54931",
+    "CreationDate":"2014-02-28T11:46:37.063",
+    "FavoriteCount":null,
+    "Id":"64520",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-28T11:46:37.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"f70d04e3-5f02-44a1-b2dc-6a78eaf40a5b",
+            "UserId":"54931",
+            "CloseReasonId":null,
+            "PostId":"64520",
+            "PostHistoryTypeId":"2",
+            "Id":"219463",
+            "Text":"This is kinda the inverse of what lots of people seem to be asking.It really annoys me when i'm in a city and my Android connects to every and any wi-fi hotspot whether or not they require login, and whether or not there is internet access available on them. I then find myself endless frustrated that there's no connection, wondering why. Why- if there is no internet connection through wi-fi, doesn't the system simply ignore that connection and connect through the mobile network.OK I could simply turn wi-fi off, but that would mean forever toggling it on and off, and on a least one occasion having done this I've forgotten to turn it back on and wondered why I've gobbled up my data allowance.Is there a setting I've missed somewhere, or a prioritising app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-28T11:46:37.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"f70d04e3-5f02-44a1-b2dc-6a78eaf40a5b",
+            "UserId":"54931",
+            "CloseReasonId":null,
+            "PostId":"64520",
+            "PostHistoryTypeId":"1",
+            "Id":"219464",
+            "Text":"How to stop Android assuming all wi-fi connections give internet access"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-28T11:46:37.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"f70d04e3-5f02-44a1-b2dc-6a78eaf40a5b",
+            "UserId":"54931",
+            "CloseReasonId":null,
+            "PostId":"64520",
+            "PostHistoryTypeId":"3",
+            "Id":"219465",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-02T09:21:07.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"6538b3e0-6fef-434e-8bc4-0985c66c2875",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"64520",
+            "PostHistoryTypeId":"10",
+            "Id":"219911",
+            "Text":"{\"OriginalQuestionIds\":[64380],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I found hints that the location might be \"Android\/data\/com.google.android.apps.books\". I don't have that folder. I have searched every file in my system looking for the book file.  I have folders: \"...apps.magazines\"   and \"....apps.maps\", but no \"...apps.books\".  Also what does the thumbtack mean on the books page cover under library view... Is there a manual somewhere?  ",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-07-14T14:57:32.213",
+    "ClosedDate":"2013-07-15T10:56:03.137",
+    "Title":"Where is Google Play Books storage location?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"37546",
+    "CreationDate":"2013-07-14T14:57:32.213",
+    "FavoriteCount":null,
+    "Id":"49115",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-14T14:57:32.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1a9d5d0-d3a0-49b9-9582-b150025561ba",
+            "UserId":"37546",
+            "CloseReasonId":null,
+            "PostId":"49115",
+            "PostHistoryTypeId":"2",
+            "Id":"160071",
+            "Text":"I found hints that the location might be \"Android\/data\/com.google.android.apps.books\". I don't have that folder. I have searched every file in my system looking for the book file.  I have folders: \"...apps.magazines\"   and \"....apps.maps\", but no \"...apps.books\".  Also what does the thumbtack mean on the books page cover under library view... Is there a manual somewhere?  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-14T14:57:32.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1a9d5d0-d3a0-49b9-9582-b150025561ba",
+            "UserId":"37546",
+            "CloseReasonId":null,
+            "PostId":"49115",
+            "PostHistoryTypeId":"1",
+            "Id":"160072",
+            "Text":"Where is Google Play Books storage location?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-14T14:57:32.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1a9d5d0-d3a0-49b9-9582-b150025561ba",
+            "UserId":"37546",
+            "CloseReasonId":null,
+            "PostId":"49115",
+            "PostHistoryTypeId":"3",
+            "Id":"160073",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-15T10:56:03.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"adb0da9f-b375-47b2-9347-d4238db956c8",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"49115",
+            "PostHistoryTypeId":"10",
+            "Id":"160255",
+            "Text":"{\"OriginalQuestionIds\":[27007],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

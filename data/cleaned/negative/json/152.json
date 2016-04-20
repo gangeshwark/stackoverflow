@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Are there any devices that are like an iPod Touch, but run Android?  In other words, is there a piece of dedicated hardware designed (or shipped with) Android that is meant as a media player, so that I wouldn't have to pay for a phone, and just not use the phone features?",
+    "ViewCount":"950",
+    "LastActivityDate":"2010-09-20T23:47:15.487",
+    "ClosedDate":"2012-11-11T15:44:36.347",
+    "Title":"Is there an Android PMP equivalent of the iPod Touch?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":"1253",
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3",
+    "CreationDate":"2010-09-13T20:34:05.797",
+    "FavoriteCount":null,
+    "Id":"152",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T20:34:05.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"28d70655-2e95-42f5-a79a-dd240013b01b",
+            "UserId":"3",
+            "CloseReasonId":null,
+            "PostId":"152",
+            "PostHistoryTypeId":"2",
+            "Id":"304",
+            "Text":"In other words, is there a piece of dedicated hardware designed (or shipped with) Android that is meant as a media player, so that I wouldn't have to pay for a phone, and just not use the phone features?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T20:34:05.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"28d70655-2e95-42f5-a79a-dd240013b01b",
+            "UserId":"3",
+            "CloseReasonId":null,
+            "PostId":"152",
+            "PostHistoryTypeId":"1",
+            "Id":"305",
+            "Text":"Is there an Android PMP equivalent of the iPod Touch?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T20:34:05.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"28d70655-2e95-42f5-a79a-dd240013b01b",
+            "UserId":"3",
+            "CloseReasonId":null,
+            "PostId":"152",
+            "PostHistoryTypeId":"3",
+            "Id":"306",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-11T15:44:36.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"94d0b38e-17ea-40b7-83fc-5368fc4e97fd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"152",
+            "PostHistoryTypeId":"5",
+            "Id":"98511",
+            "Text":"> **Possible Duplicate:**  > [Are there any devices that are like an iPod Touch, but run Android?](http:\/\/android.stackexchange.com\/questions\/967\/are-there-any-devices-that-are-like-an-ipod-touch-but-run-android)  In other words, is there a piece of dedicated hardware designed (or shipped with) Android that is meant as a media player, so that I wouldn't have to pay for a phone, and just not use the phone features?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-11T15:44:36.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"8236dc52-4562-44a9-b46b-d38d901e84b7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"152",
+            "PostHistoryTypeId":"10",
+            "Id":"98512",
+            "Text":"{\"OriginalQuestionIds\":[967],\"Voters\":[{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

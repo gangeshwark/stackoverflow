@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is it possible to block ads in Android applications?  I've read ways but they don't block\/disable ads.",
+    "ViewCount":"888",
+    "LastActivityDate":"2012-09-02T13:26:58.263",
+    "ClosedDate":"2012-09-02T15:46:41.627",
+    "Title":"What is the most effective way to disable ads in an Android app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"28647",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14568",
+    "CreationDate":"2012-09-02T13:02:12.070",
+    "FavoriteCount":null,
+    "Id":"28644",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-02T13:02:12.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"96747f84-885e-41c1-9cc2-c18727a50013",
+            "UserId":"14568",
+            "CloseReasonId":null,
+            "PostId":"28644",
+            "PostHistoryTypeId":"2",
+            "Id":"83776",
+            "Text":"I've read ways but they don't block\/disable ads."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-02T13:02:12.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"96747f84-885e-41c1-9cc2-c18727a50013",
+            "UserId":"14568",
+            "CloseReasonId":null,
+            "PostId":"28644",
+            "PostHistoryTypeId":"1",
+            "Id":"83777",
+            "Text":"What is the most effective way to disable ads in an Android app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-02T13:02:12.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"96747f84-885e-41c1-9cc2-c18727a50013",
+            "UserId":"14568",
+            "CloseReasonId":null,
+            "PostId":"28644",
+            "PostHistoryTypeId":"3",
+            "Id":"83778",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-02T15:46:41.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"1615a5ba-28ee-46bb-8afc-63fbf86a6157",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28644",
+            "PostHistoryTypeId":"5",
+            "Id":"83809",
+            "Text":"> **Possible Duplicate:**  > [Is it possible to block ads in Android applications?](http:\/\/android.stackexchange.com\/questions\/14249\/is-it-possible-to-block-ads-in-android-applications)  I've read ways but they don't block\/disable ads."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-02T15:46:41.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"8739c719-0fe7-4a5d-99ca-9f53ca31ea85",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"28644",
+            "PostHistoryTypeId":"10",
+            "Id":"83810",
+            "Text":"{\"OriginalQuestionIds\":[14249],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

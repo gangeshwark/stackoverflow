@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Send SMS from PC through Android Phone or to Android Phone  I have a Droid x, and I wanted to know if there is an app that will allow me send and receive text messages from my computer through my phone (meaning receive the messages that are sent to my phone) without using something that will give me a dedicated phone number, I want to use the phone number on my cell phone. does anybody know if this exists. if it does, and there is more than one, which one is the best?",
+    "ViewCount":"2477",
+    "LastActivityDate":"2011-06-21T12:58:50.417",
+    "ClosedDate":"2011-06-21T13:15:07.370",
+    "Title":"Is there an app that will let me text from my pc with the same phone number?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2707",
+    "CreationDate":"2011-06-21T12:42:15.657",
+    "FavoriteCount":null,
+    "Id":"10702",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-21T12:42:15.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"d2b53b5d-c4ac-45ea-8713-72536064ef6f",
+            "UserId":"2707",
+            "CloseReasonId":null,
+            "PostId":"10702",
+            "PostHistoryTypeId":"2",
+            "Id":"26556",
+            "Text":"I have a Droid x, and I wanted to know if there is an app that will allow me send and receive text messages from my computer through my phone (meaning receive the messages that are sent to my phone) without using something that will give me a dedicated phone number, I want to use the phone number on my cell phone. does anybody know if this exists. if it does, and there is more than one, which one is the best?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-21T12:42:15.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"d2b53b5d-c4ac-45ea-8713-72536064ef6f",
+            "UserId":"2707",
+            "CloseReasonId":null,
+            "PostId":"10702",
+            "PostHistoryTypeId":"1",
+            "Id":"26557",
+            "Text":"Is there an app that will let me text from my pc with the same phone number?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-21T12:42:15.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"d2b53b5d-c4ac-45ea-8713-72536064ef6f",
+            "UserId":"2707",
+            "CloseReasonId":null,
+            "PostId":"10702",
+            "PostHistoryTypeId":"3",
+            "Id":"26558",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-06-21T13:15:07.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"50fae63f-f45f-4da4-9924-12df8b2ea0f8",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"10702",
+            "PostHistoryTypeId":"5",
+            "Id":"26564",
+            "Text":"> **Possible Duplicate:**  > [Send SMS from PC through Android Phone or to Android Phone](http:\/\/android.stackexchange.com\/questions\/1784\/send-sms-from-pc-through-android-phone-or-to-android-phone)  I have a Droid x, and I wanted to know if there is an app that will allow me send and receive text messages from my computer through my phone (meaning receive the messages that are sent to my phone) without using something that will give me a dedicated phone number, I want to use the phone number on my cell phone. does anybody know if this exists. if it does, and there is more than one, which one is the best?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-06-21T13:15:07.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"9104bf90-9363-463d-9464-239e8a8ad59f",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"10702",
+            "PostHistoryTypeId":"10",
+            "Id":"26565",
+            "Text":"{\"OriginalQuestionIds\":[1784],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

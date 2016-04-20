@@ -1,0 +1,71 @@
+{
+    "Body":"So my Galaxy S3's microUSB port is broken and it won't connect to PC. It doesn't have root. I tried rooting it but none of the methods shown on the internet gave me results (I installed the newest firmware -- my bad.) Is there a way to,1) Root my device using an app\/Terminal Emulator\/anything?2) Connect my device to ADB without plugging in my phone to PC and issuing  the adb tcpip 5555 command?Any help much appreciated.",
+    "ViewCount":"32",
+    "LastActivityDate":"2016-01-23T10:08:04.033",
+    "ClosedDate":"2016-01-23T20:33:56.037",
+    "Title":"How can I connect to ADB on my Galaxy S3 without connecting with USB at all?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"147671",
+    "CreationDate":"2016-01-23T08:20:32.227",
+    "FavoriteCount":null,
+    "Id":"135049",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-23T08:20:32.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"abb6136a-ad21-48db-8adb-d150976d1879",
+            "UserId":"147671",
+            "CloseReasonId":null,
+            "PostId":"135049",
+            "PostHistoryTypeId":"2",
+            "Id":"448815",
+            "Text":"So my Galaxy S3's microUSB port is broken and it won't connect to PC. It doesn't have root. I tried rooting it but none of the methods shown on the internet gave me results (I installed the newest firmware -- my bad.) Is there a way to,  1) Root my device using an app\/Terminal Emulator\/anything?  2) Connect my device to ADB without plugging in my phone to PC and issuing  the `adb tcpip 5555` command?Any help much appreciated."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-23T08:20:32.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"abb6136a-ad21-48db-8adb-d150976d1879",
+            "UserId":"147671",
+            "CloseReasonId":null,
+            "PostId":"135049",
+            "PostHistoryTypeId":"1",
+            "Id":"448816",
+            "Text":"How can I connect to ADB on my Galaxy S3 without connecting with USB at all?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-23T08:20:32.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"abb6136a-ad21-48db-8adb-d150976d1879",
+            "UserId":"147671",
+            "CloseReasonId":null,
+            "PostId":"135049",
+            "PostHistoryTypeId":"3",
+            "Id":"448817",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-23T20:33:56.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"9eff58e5-0cf0-425b-a454-200c93279a54",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"135049",
+            "PostHistoryTypeId":"10",
+            "Id":"449043",
+            "Text":"{\"OriginalQuestionIds\":[62683],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

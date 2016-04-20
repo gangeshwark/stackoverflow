@@ -1,0 +1,83 @@
+{
+    "Body":"My bank has an app for Android phones, but that same app won't install on my tablet.  Is there a way to determine what capability or permission is blocking it from even being listed in the Play store?",
+    "ViewCount":"38",
+    "LastActivityDate":"2014-01-19T18:18:18.377",
+    "ClosedDate":"2014-12-16T22:25:33.980",
+    "Title":"How to determine what capabilities are blocking an app from installing",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-01-19T18:18:18.377",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18645",
+    "CreationDate":"2012-11-16T00:36:32.147",
+    "FavoriteCount":null,
+    "Id":"33476",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T00:36:32.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ab59a83-a4f7-4d80-854a-456405cdbc87",
+            "UserId":"18645",
+            "CloseReasonId":null,
+            "PostId":"33476",
+            "PostHistoryTypeId":"2",
+            "Id":"99242",
+            "Text":"My bank has an app for Android phones, but that same app won't install on my tablet.  Is there a way to determine what capability or permission is blocking it from even being listed in the Play store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T00:36:32.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ab59a83-a4f7-4d80-854a-456405cdbc87",
+            "UserId":"18645",
+            "CloseReasonId":null,
+            "PostId":"33476",
+            "PostHistoryTypeId":"1",
+            "Id":"99243",
+            "Text":"How to determine what capabilities are blocking an app from installing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T00:36:32.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ab59a83-a4f7-4d80-854a-456405cdbc87",
+            "UserId":"18645",
+            "CloseReasonId":null,
+            "PostId":"33476",
+            "PostHistoryTypeId":"3",
+            "Id":"99244",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-19T18:18:18.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"5909a00e-2fcb-457a-b73a-e99716907aef",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"33476",
+            "PostHistoryTypeId":"6",
+            "Id":"208289",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-16T22:25:33.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a911c83-800d-4a26-81fa-b39b03a2e7cb",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"33476",
+            "PostHistoryTypeId":"10",
+            "Id":"301050",
+            "Text":"{\"OriginalQuestionIds\":[15814],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

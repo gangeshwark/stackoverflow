@@ -1,0 +1,71 @@
+{
+    "Body":"I have Android 4.4.2 but this would apply to any version.How do I change the DNS? What I would like to do is use a DNSSEC-enabled server for lookup.Is there a 'canon' way of doing this?",
+    "ViewCount":"18",
+    "LastActivityDate":"2014-11-19T20:43:21.280",
+    "ClosedDate":"2014-11-20T02:37:02.480",
+    "Title":"How do I change my DNS on Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8865",
+    "CreationDate":"2014-11-19T20:43:21.280",
+    "FavoriteCount":null,
+    "Id":"88215",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-19T20:43:21.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"f37078b3-a193-4f05-9ff2-d2f7db30c4f4",
+            "UserId":"8865",
+            "CloseReasonId":null,
+            "PostId":"88215",
+            "PostHistoryTypeId":"2",
+            "Id":"290396",
+            "Text":"I have Android 4.4.2 but this would apply to any version.How do I change the DNS? What I would like to do is use a DNSSEC-enabled server for lookup.Is there a 'canon' way of doing this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-19T20:43:21.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"f37078b3-a193-4f05-9ff2-d2f7db30c4f4",
+            "UserId":"8865",
+            "CloseReasonId":null,
+            "PostId":"88215",
+            "PostHistoryTypeId":"1",
+            "Id":"290397",
+            "Text":"How do I change my DNS on Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-19T20:43:21.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"f37078b3-a193-4f05-9ff2-d2f7db30c4f4",
+            "UserId":"8865",
+            "CloseReasonId":null,
+            "PostId":"88215",
+            "PostHistoryTypeId":"3",
+            "Id":"290398",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-20T02:37:02.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f741984-0f1c-4527-97b4-735a8cca3190",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"88215",
+            "PostHistoryTypeId":"10",
+            "Id":"290487",
+            "Text":"{\"OriginalQuestionIds\":[62081],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I just bought this China-made tablet, Flytouch, and it has Ice Cream Sandwich installed on it.Is there anyway to install Jelly Bean? I Googled some and couldn't find a good source. Do you know any? thanks",
+    "ViewCount":"3477",
+    "LastActivityDate":"2013-07-15T05:04:05.273",
+    "ClosedDate":"2013-07-18T15:34:46.200",
+    "Title":"Installing Jelly Bean on China-made Ice Cream Sandwich tablet",
+    "LastEditorUserId":null,
+    "Tags":"<4.1-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"31012",
+    "CreationDate":"2013-03-26T14:26:38.077",
+    "FavoriteCount":null,
+    "Id":"42377",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-26T14:26:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff47279e-b564-4849-a7fa-9779ecd2db81",
+            "UserId":"31012",
+            "CloseReasonId":null,
+            "PostId":"42377",
+            "PostHistoryTypeId":"2",
+            "Id":"133588",
+            "Text":"I just bought this China-made tablet, **Flytouch**, and it has Ice Cream Sandwich installed on it.Is there anyway to install Jelly Bean? I Googled some and couldn't find a good source. Do you know any? thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-26T14:26:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff47279e-b564-4849-a7fa-9779ecd2db81",
+            "UserId":"31012",
+            "CloseReasonId":null,
+            "PostId":"42377",
+            "PostHistoryTypeId":"1",
+            "Id":"133589",
+            "Text":"Installing Jelly Bean on China-made Ice Cream Sandwich tablet"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-26T14:26:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff47279e-b564-4849-a7fa-9779ecd2db81",
+            "UserId":"31012",
+            "CloseReasonId":null,
+            "PostId":"42377",
+            "PostHistoryTypeId":"3",
+            "Id":"133590",
+            "Text":"<4.1-jelly-bean>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-18T15:34:46.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1603092-6360-4665-9946-59588a074c53",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"42377",
+            "PostHistoryTypeId":"10",
+            "Id":"161059",
+            "Text":"{\"OriginalQuestionIds\":[24575],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

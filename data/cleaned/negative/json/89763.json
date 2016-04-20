@@ -1,0 +1,71 @@
+{
+    "Body":"I need to find somehow to make my Razr HD boot into fastboot mode or rather recovery mode trgouh a command from pc.Its screen broken and black, no touch as well, power button and sound buttons broken too.The device is fully operative, I know that cause I keep receiveing Pushbullets informations in my desktop from it.The USB debugging is not enable, so ADB commands do no work.The device is still on and is recognized for the pc, giving me acess to its files.It is already rooted and has the bootloader unlocked.There's already a Philz recovey flashed.So... any ideas of how can I make it go to recovery with commands in windows or how to enable usb debugging without adb acess??",
+    "ViewCount":"183",
+    "LastActivityDate":"2014-12-04T19:38:39.190",
+    "ClosedDate":"2015-02-17T12:18:42.917",
+    "Title":"Need comands to enter recovey mode or enable usb debugging in a device with broken screen and buttons",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82823",
+    "CreationDate":"2014-12-04T19:38:39.190",
+    "FavoriteCount":null,
+    "Id":"89763",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T19:38:39.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"65b34f42-3087-4f36-bd79-7b231b63122c",
+            "UserId":"82823",
+            "CloseReasonId":null,
+            "PostId":"89763",
+            "PostHistoryTypeId":"2",
+            "Id":"295896",
+            "Text":"I need to find somehow to make my Razr HD boot into fastboot mode or rather recovery mode trgouh a command from pc.Its screen broken and black, no touch as well, power button and sound buttons broken too.The device is fully operative, I know that cause I keep receiveing Pushbullets informations in my desktop from it.The USB debugging is not enable, so ADB commands do no work.The device is still on and is recognized for the pc, giving me acess to its files.It is already rooted and has the bootloader unlocked.There's already a Philz recovey flashed.So... any ideas of how can I make it go to recovery with commands in windows or how to enable usb debugging without adb acess??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T19:38:39.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"65b34f42-3087-4f36-bd79-7b231b63122c",
+            "UserId":"82823",
+            "CloseReasonId":null,
+            "PostId":"89763",
+            "PostHistoryTypeId":"1",
+            "Id":"295897",
+            "Text":"Need comands to enter recovey mode or enable usb debugging in a device with broken screen and buttons"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T19:38:39.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"65b34f42-3087-4f36-bd79-7b231b63122c",
+            "UserId":"82823",
+            "CloseReasonId":null,
+            "PostId":"89763",
+            "PostHistoryTypeId":"3",
+            "Id":"295898",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-17T12:18:42.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b427c58-f786-4a2a-a8b1-a7f43774798b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"89763",
+            "PostHistoryTypeId":"10",
+            "Id":"323806",
+            "Text":"{\"OriginalQuestionIds\":[12834],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

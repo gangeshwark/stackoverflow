@@ -1,0 +1,83 @@
+{
+    "Body":"I was given an Asus Nexus 7. How can I tell if it is the 1st or the 2nd gen?",
+    "ViewCount":"1774",
+    "LastActivityDate":"2015-07-06T13:53:05.387",
+    "ClosedDate":"2015-07-06T13:52:38.603",
+    "Title":"How can I know if my Asus Nexus 7 is 1st or 2nd gen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"114435",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15870",
+    "CreationDate":"2015-07-06T06:52:35.600",
+    "FavoriteCount":null,
+    "Id":"114434",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/936755\/how-can-i-know-if-my-asus-nexus-7-is-1st-or-2nd-gen",
+            "CreationDate":"2015-07-06T08:45:19.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"44bf045f-c401-4ce6-a77f-c54589438722",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"114434",
+            "PostHistoryTypeId":"36",
+            "Id":"375237",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T06:52:35.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"7473c003-8cbd-4633-9286-f1cbf37a89ae",
+            "UserId":"15870",
+            "CloseReasonId":null,
+            "PostId":"114434",
+            "PostHistoryTypeId":"2",
+            "Id":"375239",
+            "Text":"I was given an Asus Nexus 7. How can I tell if it is the 1st or the 2nd gen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T06:52:35.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"7473c003-8cbd-4633-9286-f1cbf37a89ae",
+            "UserId":"15870",
+            "CloseReasonId":null,
+            "PostId":"114434",
+            "PostHistoryTypeId":"1",
+            "Id":"375240",
+            "Text":"How can I know if my Asus Nexus 7 is 1st or 2nd gen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T06:52:35.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"7473c003-8cbd-4633-9286-f1cbf37a89ae",
+            "UserId":"15870",
+            "CloseReasonId":null,
+            "PostId":"114434",
+            "PostHistoryTypeId":"3",
+            "Id":"375241",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-06T13:52:38.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce24c126-86be-4b83-a30d-cef6dd71d39c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114434",
+            "PostHistoryTypeId":"10",
+            "Id":"375381",
+            "Text":"{\"OriginalQuestionIds\":[58273],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

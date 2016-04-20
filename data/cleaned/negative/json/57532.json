@@ -1,0 +1,83 @@
+{
+    "Body":"When I open an app and then I'm dong using it I usually just push the home button. The problem is that leaves the app open and if you do that too many times it slows down your phone. My question is what is the correct way to close an app after you're doing using it without pressing the home button?Or is pressing the home button and then sliding it away the correct way of closing an app? ",
+    "ViewCount":"22",
+    "LastActivityDate":"2013-11-22T18:40:12.557",
+    "ClosedDate":"2013-11-22T19:47:16.763",
+    "Title":"What is the correct way to exit an app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46685",
+    "CreationDate":"2013-11-22T18:40:12.557",
+    "FavoriteCount":null,
+    "Id":"57532",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-22T18:40:12.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d0afc0d-986d-4497-aaa6-2f6d4063f3d8",
+            "UserId":"46685",
+            "CloseReasonId":null,
+            "PostId":"57532",
+            "PostHistoryTypeId":"2",
+            "Id":"193110",
+            "Text":"When I open an app and then I'm dong using it I usually just push the home button. The problem is that leaves the app open and if you do that too many times it slows down your phone. My question is what is the correct way to close an app after you're doing using it without pressing the home button?Or is pressing the home button and then sliding it away the correct way of closing an app? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-22T18:40:12.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d0afc0d-986d-4497-aaa6-2f6d4063f3d8",
+            "UserId":"46685",
+            "CloseReasonId":null,
+            "PostId":"57532",
+            "PostHistoryTypeId":"1",
+            "Id":"193111",
+            "Text":"What is the correct way to exit an app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-22T18:40:12.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d0afc0d-986d-4497-aaa6-2f6d4063f3d8",
+            "UserId":"46685",
+            "CloseReasonId":null,
+            "PostId":"57532",
+            "PostHistoryTypeId":"3",
+            "Id":"193112",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/403961624773804033",
+            "CreationDate":"2013-11-22T19:02:11.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0590e68-fe2a-4273-9754-56f495fe010d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"57532",
+            "PostHistoryTypeId":"25",
+            "Id":"193118",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-22T19:47:16.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"18afd2d2-4088-4a03-b134-53b85da02077",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"57532",
+            "PostHistoryTypeId":"10",
+            "Id":"193135",
+            "Text":"{\"OriginalQuestionIds\":[927],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

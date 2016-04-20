@@ -1,0 +1,71 @@
+{
+    "Body":"hi all, i am not new to android but recently got hold of this android kitkat 4.4.2 phone and i cant figure out what the strange circle on screen is . it comes after screen gets locked and i try to unlock the screen.i have few questions1) whats the empty circle marked as 1 in above screnshot ? it keeps moving nearby the lock sign.2) it was previously filled with voilet\/blue color but now a days it shows empty , why is that ?3) what happens when i click the circle ?, the marked item 2 starts to lower down on ruler marked as item 3.4) previously marked item 2 was coming all the way down to i guess 25-30 readings . but nowadays it just comes till reading 5-6, why is that ?i havent removed any preinstalled apps , to make sure i did nt caused these hanges.,phone is not rooted , it is as it came from factory.Thanks for your time.",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-03-06T11:20:57.790",
+    "ClosedDate":"2015-03-06T11:22:55.663",
+    "Title":"Strange floating round circle after screen lock on Android 4.4.2 phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82490",
+    "CreationDate":"2015-03-06T11:20:57.790",
+    "FavoriteCount":"1",
+    "Id":"101693",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-06T11:20:57.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"314d0996-3c1a-4b3a-ad31-831887450b0a",
+            "UserId":"82490",
+            "CloseReasonId":null,
+            "PostId":"101693",
+            "PostHistoryTypeId":"2",
+            "Id":"330823",
+            "Text":"![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/VPcws.jpghi all, i am not new to android but recently got hold of this android kitkat 4.4.2 phone and i cant figure out what the strange circle on screen is . it comes after screen gets locked and i try to unlock the screen.i have few questions1) whats the empty circle marked as 1 in above screnshot ? it keeps moving nearby the lock sign.2) it was previously filled with voilet\/blue color but now a days it shows empty , why is that ?3) what happens when i click the circle ?, the marked item 2 starts to lower down on ruler marked as item 3.4) previously marked item 2 was coming all the way down to i guess 25-30 readings . but nowadays it just comes till reading 5-6, why is that ?i havent removed any preinstalled apps , to make sure i did nt caused these hanges.,phone is not rooted , it is as it came from factory.Thanks for your time."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-06T11:20:57.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"314d0996-3c1a-4b3a-ad31-831887450b0a",
+            "UserId":"82490",
+            "CloseReasonId":null,
+            "PostId":"101693",
+            "PostHistoryTypeId":"1",
+            "Id":"330824",
+            "Text":"Strange floating round circle after screen lock on Android 4.4.2 phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-06T11:20:57.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"314d0996-3c1a-4b3a-ad31-831887450b0a",
+            "UserId":"82490",
+            "CloseReasonId":null,
+            "PostId":"101693",
+            "PostHistoryTypeId":"3",
+            "Id":"330825",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-06T11:22:55.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"93293077-f66a-4546-a42d-f03e532a80f1",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"101693",
+            "PostHistoryTypeId":"10",
+            "Id":"330827",
+            "Text":"{\"OriginalQuestionIds\":[54869],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"When I swipe out or exit viber app on my android device and a person sends me a message from his iPhone I am able to recieve the message and the sender sees on his iPhone viber app that the message was 'delivered' to me.On the contrary, if he closes\/swipes out his viber app on his iPhone and I send him a message, he can view my message on his notification or lock screen without even opening the viber app. But my viber app on my android device does NOT say that the message was 'delivered', it just stays \"blank\" as if his phone\/internet is off. My phone says it was 'delivered' only after he opens his viber app again. My question is how can I do that from an android device? I want to be able to view incoming viber messages on my android notification panel or lock screen while the sender does not see 'delivered' on his iPhone device. It seems this is only possible from iPhone viber app but not possible from android viber app because even if i exit viber app on my android, the sender's iPhone still shows that it was 'delivered' when he send me a message.Please help if there is a way to do this from android viber.Many thanks in advance!",
+    "ViewCount":"55",
+    "LastActivityDate":"2015-12-21T09:58:26.723",
+    "ClosedDate":"2015-12-21T09:49:49.320",
+    "Title":"Android Viber app exit vs. iPhone Viber app exit",
+    "LastEditorUserId":"142421",
+    "Tags":"",
+    "LastEditDate":"2015-12-21T09:58:26.723",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"142421",
+    "CreationDate":"2015-12-21T09:41:01.833",
+    "FavoriteCount":null,
+    "Id":"132132",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-21T09:41:01.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"add1b856-207d-4c9a-bceb-9084aaf8807d",
+            "UserId":"142421",
+            "CloseReasonId":null,
+            "PostId":"132132",
+            "PostHistoryTypeId":"2",
+            "Id":"437020",
+            "Text":"When I swipe out or exit viber app on my android device and a person sends me a message from his iPhone I still get the message and the sender sees on his iPhone that it was 'delivered' to me.On the contrary, if he closes\/swipes out his viber app on his iPhone and I send him a message, he can see my message on his notification without even opening the viber app but my viber app on my android device does NOT say the message was 'delivered', its just blank as if his phone\/internet is off. But its not and he is able to view the messages on his notification.My question is how can I do that on android device? Its possible to do it on an iPhone - close the viber app and remain as if you're offline but still be able to view incoming messages - but when i perform the same task on android device the sender is his message was 'delivered'. In other words, i want to be able to view incoming messages on my notificarion panel or lock screen while the sender does not see 'delivered' on his iPhone device.Please help. It seems this is only possible with iPhone viber app but not with android viber app.Many thanks in advance!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-21T09:41:01.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"add1b856-207d-4c9a-bceb-9084aaf8807d",
+            "UserId":"142421",
+            "CloseReasonId":null,
+            "PostId":"132132",
+            "PostHistoryTypeId":"1",
+            "Id":"437021",
+            "Text":"Android Viber app exit vs. iPhone Viber app exit"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-21T09:41:01.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"add1b856-207d-4c9a-bceb-9084aaf8807d",
+            "UserId":"142421",
+            "CloseReasonId":null,
+            "PostId":"132132",
+            "PostHistoryTypeId":"3",
+            "Id":"437022",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-12-21T09:49:49.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"46edffe7-6129-4d7d-a5b0-62958a724e0f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"132132",
+            "PostHistoryTypeId":"10",
+            "Id":"437045",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"added 24 characters in body",
+            "CreationDate":"2015-12-21T09:58:26.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"eab2c34e-d36a-45b1-b256-3f71759a334c",
+            "UserId":"142421",
+            "CloseReasonId":null,
+            "PostId":"132132",
+            "PostHistoryTypeId":"5",
+            "Id":"437067",
+            "Text":"When I swipe out or exit viber app on my android device and a person sends me a message from his iPhone I am able to recieve the message and the sender sees on his iPhone viber app that the message was 'delivered' to me.On the contrary, if he closes\/swipes out his viber app on his iPhone and I send him a message, he can view my message on his notification or lock screen without even opening the viber app. But my viber app on my android device does NOT say that the message was 'delivered', it just stays \"blank\" as if his phone\/internet is off. My phone says it was 'delivered' only after he opens his viber app again. My question is how can I do that from an android device? I want to be able to view incoming viber messages on my android notification panel or lock screen while the sender does not see 'delivered' on his iPhone device. It seems this is only possible from iPhone viber app but not possible from android viber app because even if i exit viber app on my android, the sender's iPhone still shows that it was 'delivered' when he send me a message.Please help if there is a way to do this from android viber.Many thanks in advance!"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I want to know if there is any way to make video callls on android via 3g without an internet connection like my old samsung and nokia phones do without using any apps like skype, gtalk or anything else. I know this isn't available in the us but i live in europe and i get\u00a0 a free number of video minutes from my carrier and i want to use them. Is there any custom rom that can enable this option or any other solution?",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-07-08T16:01:31.513",
+    "ClosedDate":"2013-07-16T19:00:54.550",
+    "Title":"Video call on android via 3g",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"37224",
+    "CreationDate":"2013-07-08T16:01:31.513",
+    "FavoriteCount":null,
+    "Id":"48788",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-08T16:01:31.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c9d116f-3bfd-428a-a2db-aa6f9d2f4b24",
+            "UserId":"37224",
+            "CloseReasonId":null,
+            "PostId":"48788",
+            "PostHistoryTypeId":"2",
+            "Id":"158703",
+            "Text":"I want to know if there is any way to make video callls on android via 3g without an internet connection like my old samsung and nokia phones do without using any apps like skype, gtalk or anything else. I know this isn't available in the us but i live in europe and i get\u00a0 a free number of video minutes from my carrier and i want to use them. Is there any custom rom that can enable this option or any other solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-08T16:01:31.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c9d116f-3bfd-428a-a2db-aa6f9d2f4b24",
+            "UserId":"37224",
+            "CloseReasonId":null,
+            "PostId":"48788",
+            "PostHistoryTypeId":"1",
+            "Id":"158704",
+            "Text":"Video call on android via 3g"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-08T16:01:31.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c9d116f-3bfd-428a-a2db-aa6f9d2f4b24",
+            "UserId":"37224",
+            "CloseReasonId":null,
+            "PostId":"48788",
+            "PostHistoryTypeId":"3",
+            "Id":"158705",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-16T19:00:54.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"3aaf8eaa-0ccd-4865-ac2b-e572e97c290b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"48788",
+            "PostHistoryTypeId":"10",
+            "Id":"160584",
+            "Text":"{\"OriginalQuestionIds\":[15388],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

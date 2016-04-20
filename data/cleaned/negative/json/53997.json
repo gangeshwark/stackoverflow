@@ -1,0 +1,83 @@
+{
+    "Body":"When I get a new android I would to keep the apps I have purchased. I will keep the same account but I was wondering if I will have to rebuy my games?",
+    "ViewCount":"714",
+    "LastActivityDate":"2013-09-27T13:20:09.740",
+    "ClosedDate":"2013-09-27T00:00:40.500",
+    "Title":"What will happen to my apps when i switch phones?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-09-27T13:20:09.740",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42200",
+    "CreationDate":"2013-09-26T22:09:07.733",
+    "FavoriteCount":null,
+    "Id":"53997",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T22:09:07.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"16654c76-853f-4b59-bd4d-464c88422bc3",
+            "UserId":"42200",
+            "CloseReasonId":null,
+            "PostId":"53997",
+            "PostHistoryTypeId":"2",
+            "Id":"178761",
+            "Text":"When I get a new android I would to keep the apps I have purchased. I will keep the same account but I was wondering if I will have to rebuy my games?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T22:09:07.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"16654c76-853f-4b59-bd4d-464c88422bc3",
+            "UserId":"42200",
+            "CloseReasonId":null,
+            "PostId":"53997",
+            "PostHistoryTypeId":"1",
+            "Id":"178762",
+            "Text":"What will happen to my apps when i switch phones?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T22:09:07.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"16654c76-853f-4b59-bd4d-464c88422bc3",
+            "UserId":"42200",
+            "CloseReasonId":null,
+            "PostId":"53997",
+            "PostHistoryTypeId":"3",
+            "Id":"178763",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-27T00:00:40.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb79f4da-cb61-463c-be35-68dc3e5bf30a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"53997",
+            "PostHistoryTypeId":"10",
+            "Id":"178782",
+            "Text":"{\"OriginalQuestionIds\":[11407],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-09-27T13:20:09.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"02d5d827-f41e-41b4-babf-c776a608a84c",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"53997",
+            "PostHistoryTypeId":"6",
+            "Id":"178919",
+            "Text":""
+        }
+    ]
+}

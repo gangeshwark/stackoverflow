@@ -1,0 +1,71 @@
+{
+    "Body":"I have turn on my developer option in my Samsung galaxy grand price. how to hide the developer options in android 5.1.1?",
+    "ViewCount":"214",
+    "LastActivityDate":"2015-11-21T05:46:30.740",
+    "ClosedDate":"2015-11-21T17:27:13.227",
+    "Title":"Developer Options in Android 5.1.1",
+    "LastEditorUserId":null,
+    "Tags":"<5.1-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"137745",
+    "CreationDate":"2015-11-21T05:08:34.550",
+    "FavoriteCount":null,
+    "Id":"129461",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-21T05:08:34.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"25b19374-f761-4186-92d9-bb1ad1582c83",
+            "UserId":"137745",
+            "CloseReasonId":null,
+            "PostId":"129461",
+            "PostHistoryTypeId":"2",
+            "Id":"426631",
+            "Text":"I have turn on my developer option in my Samsung galaxy grand price. how to hide the developer options in android 5.1.1?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-21T05:08:34.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"25b19374-f761-4186-92d9-bb1ad1582c83",
+            "UserId":"137745",
+            "CloseReasonId":null,
+            "PostId":"129461",
+            "PostHistoryTypeId":"1",
+            "Id":"426632",
+            "Text":"Developer Options in Android 5.1.1"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-21T05:08:34.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"25b19374-f761-4186-92d9-bb1ad1582c83",
+            "UserId":"137745",
+            "CloseReasonId":null,
+            "PostId":"129461",
+            "PostHistoryTypeId":"3",
+            "Id":"426633",
+            "Text":"<5.1-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-21T17:27:13.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"b181c852-d3ad-451d-9d22-136849b13c14",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"129461",
+            "PostHistoryTypeId":"10",
+            "Id":"426789",
+            "Text":"{\"OriginalQuestionIds\":[109005],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

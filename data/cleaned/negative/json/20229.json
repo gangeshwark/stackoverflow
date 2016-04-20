@@ -1,0 +1,71 @@
+{
+    "Body":"I am desperately searching for an android music player app that will display BPM (which I already have in ALL of my songs id3tag) while the song is playing (maybe instead of album).   I have not found any - please advise ",
+    "ViewCount":"286",
+    "LastActivityDate":"2012-03-04T18:13:31.297",
+    "ClosedDate":"2012-12-23T11:40:12.810",
+    "Title":"Android Music player that displays BPM ID3tags while playing songs.",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13122",
+    "CreationDate":"2012-03-04T18:13:31.297",
+    "FavoriteCount":null,
+    "Id":"20229",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-04T18:13:31.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"254221cb-e509-4778-9901-02f5326d0f32",
+            "UserId":"13122",
+            "CloseReasonId":null,
+            "PostId":"20229",
+            "PostHistoryTypeId":"2",
+            "Id":"56165",
+            "Text":"I am desperately searching for an android music player app that will display BPM (which I already have in ALL of my songs id3tag) while the song is playing (maybe instead of album).   I have not found any - please advise "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-04T18:13:31.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"254221cb-e509-4778-9901-02f5326d0f32",
+            "UserId":"13122",
+            "CloseReasonId":null,
+            "PostId":"20229",
+            "PostHistoryTypeId":"1",
+            "Id":"56166",
+            "Text":"Android Music player that displays BPM ID3tags while playing songs."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-04T18:13:31.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"254221cb-e509-4778-9901-02f5326d0f32",
+            "UserId":"13122",
+            "CloseReasonId":null,
+            "PostId":"20229",
+            "PostHistoryTypeId":"3",
+            "Id":"56167",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T11:40:12.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"034427f0-ab9c-4723-83db-49a73929bf6d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20229",
+            "PostHistoryTypeId":"10",
+            "Id":"108453",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

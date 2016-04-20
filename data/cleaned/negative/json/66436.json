@@ -1,0 +1,83 @@
+{
+    "Body":"I learned about Titanium Backup but I don't have a rooted device yet. I'd still like to backup all my installed apps and their settings - will the default Google backup:What does this backup exactly?Sorry if this has been answered before but I really couldn't find it on quick search. So maybe it won't hurt to have my post here.I see that my best option is adb (Full Backup of non-rooted devices) though... but I still don't know what the default Google backup does then... and why it's not enough...",
+    "ViewCount":"143",
+    "LastActivityDate":"2014-03-30T17:34:19.067",
+    "ClosedDate":"2014-03-31T05:47:47.657",
+    "Title":"Backup of apps and their settings",
+    "LastEditorUserId":"36916",
+    "Tags":"",
+    "LastEditDate":"2014-03-28T21:16:35.727",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36916",
+    "CreationDate":"2014-03-28T19:31:38.053",
+    "FavoriteCount":null,
+    "Id":"66436",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-28T19:31:38.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"f190f01d-2110-488a-aece-dd35c10b8bb1",
+            "UserId":"36916",
+            "CloseReasonId":null,
+            "PostId":"66436",
+            "PostHistoryTypeId":"2",
+            "Id":"226277",
+            "Text":"I learned about Titanium Backup but I don't have a rooted device yet. I'd still like to backup all my installed apps and their settings - will the default Google backup:![enter image description here][1]do that? What does this backup exactly?Sorry if this has been answered before but I really couldn't find it on quick search. So maybe it won't hurt to have my post here.I see that my best option is adb (http:\/\/android.stackexchange.com\/questions\/28296\/full-backup-of-non-rooted-devices) though... but I still don't know what the default Google backup does then... and why it's not enough...  [1]: http:\/\/i.stack.imgur.com\/9OiZu.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-28T19:31:38.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"f190f01d-2110-488a-aece-dd35c10b8bb1",
+            "UserId":"36916",
+            "CloseReasonId":null,
+            "PostId":"66436",
+            "PostHistoryTypeId":"1",
+            "Id":"226278",
+            "Text":"Backup of apps and their settings"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-28T19:31:38.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"f190f01d-2110-488a-aece-dd35c10b8bb1",
+            "UserId":"36916",
+            "CloseReasonId":null,
+            "PostId":"66436",
+            "PostHistoryTypeId":"3",
+            "Id":"226279",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 9 characters in body",
+            "CreationDate":"2014-03-28T21:16:35.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"c217f186-f07f-413b-85cc-feee5413b47d",
+            "UserId":"36916",
+            "CloseReasonId":null,
+            "PostId":"66436",
+            "PostHistoryTypeId":"5",
+            "Id":"226290",
+            "Text":"I learned about Titanium Backup but I don't have a rooted device yet. I'd still like to backup all my installed apps and their settings - will the default Google backup:![enter image description here][1]What does this backup exactly?Sorry if this has been answered before but I really couldn't find it on quick search. So maybe it won't hurt to have my post here.I see that my best option is adb (http:\/\/android.stackexchange.com\/questions\/28296\/full-backup-of-non-rooted-devices) though... but I still don't know what the default Google backup does then... and why it's not enough...  [1]: http:\/\/i.stack.imgur.com\/9OiZu.png"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-31T05:47:47.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"e75120bd-155b-45b6-ae88-cdc86d945aa7",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"66436",
+            "PostHistoryTypeId":"10",
+            "Id":"226770",
+            "Text":"{\"OriginalQuestionIds\":[15434],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

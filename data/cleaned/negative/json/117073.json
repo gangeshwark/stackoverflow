@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to create an app with different background images when in portrait vs landscape mode on a fullscreen activity, but, it always uses the background image from the portrait layout for both.Does anybody know why this happens?",
+    "ViewCount":"452",
+    "LastActivityDate":"2015-08-03T12:42:18.597",
+    "ClosedDate":"2015-08-03T14:00:02.077",
+    "Title":"Portrait and landscape modes use different background images, yet when orientation changes, the background is stretched, not changed as expected",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"117131",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113394",
+    "CreationDate":"2015-08-02T19:57:31.337",
+    "FavoriteCount":null,
+    "Id":"117073",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-02T19:57:31.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"23666a00-6561-43ec-b9f7-8ed2c6dbea52",
+            "UserId":"113394",
+            "CloseReasonId":null,
+            "PostId":"117073",
+            "PostHistoryTypeId":"2",
+            "Id":"385330",
+            "Text":"I am trying to create an app with different background images when in portrait vs landscape mode on a fullscreen activity, but, it always uses the background image from the portrait layout for both.Does anybody know why this happens?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-02T19:57:31.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"23666a00-6561-43ec-b9f7-8ed2c6dbea52",
+            "UserId":"113394",
+            "CloseReasonId":null,
+            "PostId":"117073",
+            "PostHistoryTypeId":"1",
+            "Id":"385331",
+            "Text":"Portrait and landscape modes use different background images, yet when orientation changes, the background is stretched, not changed as expected"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-02T19:57:31.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"23666a00-6561-43ec-b9f7-8ed2c6dbea52",
+            "UserId":"113394",
+            "CloseReasonId":null,
+            "PostId":"117073",
+            "PostHistoryTypeId":"3",
+            "Id":"385332",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-03T14:00:02.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"95c4d415-9dec-4237-a899-eff186875b7a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"117073",
+            "PostHistoryTypeId":"10",
+            "Id":"385586",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

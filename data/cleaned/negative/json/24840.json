@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to decompile a system app. Unfortunately there is no classes.dex for this particular system app. There is only a *.odex. I know I have to deodex this so that I get a .dex file. I have looked at smali but evry time I run it I get the following error.Baksmali tells me to use the following syntax:(I am running on windows hence I cant use the bash wrapper provided)java -jar baksmali-1.3.3.jar -x name.odexHowever it throws a top level exception:UNEXPECTED TOP-LEVEL EXCEPTION:org.jf.dexlib.Util.ExceptionWithContext: regCount does not match the number of arguments of the method",
+    "ViewCount":"4851",
+    "LastActivityDate":"2012-06-26T14:32:55.663",
+    "ClosedDate":"2012-06-26T18:27:17.150",
+    "Title":"How to convert a .odex file to a dex file",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16342",
+    "CreationDate":"2012-06-26T13:18:44.877",
+    "FavoriteCount":"1",
+    "Id":"24840",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-26T13:18:44.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"1580472f-39dd-48aa-9a4d-d39c1e6ca400",
+            "UserId":"16342",
+            "CloseReasonId":null,
+            "PostId":"24840",
+            "PostHistoryTypeId":"2",
+            "Id":"71263",
+            "Text":"I am trying to decompile a system app. Unfortunately there is no classes.dex for this particular system app. There is only a *.odex. I know I have to deodex this so that I get a .dex file. I have looked at smali but evry time I run it I get the following error.[Baksmali][1] tells me to use the following syntax:(I am running on windows hence I cant use the bash wrapper provided)    java -jar baksmali-1.3.3.jar -x name.odexHowever it throws a top level exception:    UNEXPECTED TOP-LEVEL EXCEPTION:    org.jf.dexlib.Util.ExceptionWithContext: regCount does not match the number of a    rguments of the method             [1]: http:\/\/code.google.com\/p\/smali\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-26T13:18:44.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"1580472f-39dd-48aa-9a4d-d39c1e6ca400",
+            "UserId":"16342",
+            "CloseReasonId":null,
+            "PostId":"24840",
+            "PostHistoryTypeId":"1",
+            "Id":"71264",
+            "Text":"How to convert a .odex file to a dex file"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-26T13:18:44.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"1580472f-39dd-48aa-9a4d-d39c1e6ca400",
+            "UserId":"16342",
+            "CloseReasonId":null,
+            "PostId":"24840",
+            "PostHistoryTypeId":"3",
+            "Id":"71265",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-06-26T18:27:17.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e04876d-2725-45f6-b40c-dc7b54d8eee8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"24840",
+            "PostHistoryTypeId":"10",
+            "Id":"71324",
+            "Text":"{\"Voters\":[{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

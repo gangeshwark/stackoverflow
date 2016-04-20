@@ -1,0 +1,71 @@
+{
+    "Body":"I have been getting the your device isn't compatible with this version message on the play store on my Trio Stealth G4 10.1\" running android version 4.4.2. Please help me solve this problem.",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-01-26T22:37:52.200",
+    "ClosedDate":"2015-01-26T23:44:59.633",
+    "Title":"Your Device isn't compatible with this version",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91724",
+    "CreationDate":"2015-01-26T22:37:52.200",
+    "FavoriteCount":null,
+    "Id":"96987",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T22:37:52.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa7494de-1fca-4260-9a48-fdf638fce988",
+            "UserId":"91724",
+            "CloseReasonId":null,
+            "PostId":"96987",
+            "PostHistoryTypeId":"2",
+            "Id":"316180",
+            "Text":"I have been getting the your device isn't compatible with this version message on the play store on my Trio Stealth G4 10.1\" running android version 4.4.2. Please help me solve this problem."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T22:37:52.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa7494de-1fca-4260-9a48-fdf638fce988",
+            "UserId":"91724",
+            "CloseReasonId":null,
+            "PostId":"96987",
+            "PostHistoryTypeId":"1",
+            "Id":"316181",
+            "Text":"Your Device isn't compatible with this version"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T22:37:52.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa7494de-1fca-4260-9a48-fdf638fce988",
+            "UserId":"91724",
+            "CloseReasonId":null,
+            "PostId":"96987",
+            "PostHistoryTypeId":"3",
+            "Id":"316182",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-26T23:44:59.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"a62c2e18-19c6-4ff7-84f5-55b2f780f7c6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"96987",
+            "PostHistoryTypeId":"10",
+            "Id":"316195",
+            "Text":"{\"OriginalQuestionIds\":[15814],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

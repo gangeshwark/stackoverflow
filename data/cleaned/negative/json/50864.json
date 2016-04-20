@@ -1,0 +1,83 @@
+{
+    "Body":"I was a using an autocall recorder app on my HTC Wildfire. I saved a call on my phones SD card and in my Dropbox. However, I accidently deleted the saved call and it was removed from my dropbox file. I now need this call and I tried some data recovery software. I scanned both my phone and pc. The software found the deleted call and recovered it, but the file which has .AMR extension does not work. The size of the file is only 143kb. What is the likelihood this file is corrupted\/stiil intact? Can I check that?Which software can I use to salvage\/replay the AMR file?",
+    "ViewCount":"15",
+    "LastActivityDate":"2013-08-08T21:10:30.007",
+    "ClosedDate":"2013-08-08T22:00:55.287",
+    "Title":"How to recover deleted files on Android phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2013-08-07T09:59:28.380",
+    "FavoriteCount":null,
+    "Id":"50864",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/629010\/how-to-recover-deleted-files-on-android-phone",
+            "CreationDate":"2013-08-08T21:10:30.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc64d957-ccc8-4191-9c48-d6bcf74a3176",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"50864",
+            "PostHistoryTypeId":"36",
+            "Id":"166592",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-07T09:59:28.380",
+            "UserDisplayName":"G\u00fcnal",
+            "RevisionGUID":"7c23d749-19d6-459d-b3b0-fde56cab1cf1",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"50864",
+            "PostHistoryTypeId":"2",
+            "Id":"166593",
+            "Text":"I was a using an autocall recorder app on my HTC Wildfire. I saved a call on my phones SD card and in my Dropbox. However, I accidently deleted the saved call and it was removed from my dropbox file. I now need this call and I tried some data recovery software. I scanned both my phone and pc. The software found the deleted call and recovered it, but the file which has .AMR extension does not work. The size of the file is only 143kb. 1. What is the likelihood this file is corrupted\/stiil intact? Can I check that?2. Which software can I use to salvage\/replay the AMR file?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-07T09:59:28.380",
+            "UserDisplayName":"G\u00fcnal",
+            "RevisionGUID":"7c23d749-19d6-459d-b3b0-fde56cab1cf1",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"50864",
+            "PostHistoryTypeId":"1",
+            "Id":"166594",
+            "Text":"How to recover deleted files on Android phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-07T09:59:28.380",
+            "UserDisplayName":"G\u00fcnal",
+            "RevisionGUID":"7c23d749-19d6-459d-b3b0-fde56cab1cf1",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"50864",
+            "PostHistoryTypeId":"3",
+            "Id":"166595",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-08-08T22:00:55.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"2211af1c-4fec-435a-9b38-df20b0bf2ce7",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"50864",
+            "PostHistoryTypeId":"10",
+            "Id":"166621",
+            "Text":"{\"OriginalQuestionIds\":[15869],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

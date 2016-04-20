@@ -1,0 +1,71 @@
+{
+    "Body":"i reset my alcatel one touch and now it wants the previous google account to continue after I reset it and I don't know it how do I get passed this plz help so annoying ",
+    "ViewCount":"925",
+    "LastActivityDate":"2015-11-03T11:28:39.563",
+    "ClosedDate":"2015-11-10T18:02:13.473",
+    "Title":"my phone is asking for a previous google account after reset",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"135020",
+    "CreationDate":"2015-11-02T21:38:51.073",
+    "FavoriteCount":null,
+    "Id":"127764",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-02T21:38:51.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0f4c9b8-6818-4e09-aaa9-ba77d2ddb1dc",
+            "UserId":"135020",
+            "CloseReasonId":null,
+            "PostId":"127764",
+            "PostHistoryTypeId":"2",
+            "Id":"419986",
+            "Text":"i reset my alcatel one touch and now it wants the previous google account to continue after I reset it and I don't know it how do I get passed this plz help so annoying "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-02T21:38:51.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0f4c9b8-6818-4e09-aaa9-ba77d2ddb1dc",
+            "UserId":"135020",
+            "CloseReasonId":null,
+            "PostId":"127764",
+            "PostHistoryTypeId":"1",
+            "Id":"419987",
+            "Text":"my phone is asking for a previous google account after reset"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-02T21:38:51.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0f4c9b8-6818-4e09-aaa9-ba77d2ddb1dc",
+            "UserId":"135020",
+            "CloseReasonId":null,
+            "PostId":"127764",
+            "PostHistoryTypeId":"3",
+            "Id":"419988",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-10T18:02:13.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"9eb03198-a1e6-4f94-b0ea-5d4760da1d5c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127764",
+            "PostHistoryTypeId":"10",
+            "Id":"422717",
+            "Text":"{\"OriginalQuestionIds\":[127739],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

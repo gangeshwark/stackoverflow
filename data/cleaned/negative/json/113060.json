@@ -1,0 +1,71 @@
+{
+    "Body":"I have 53 MB of free storage on my internal Storage. But, still, when I am trying to re-install whatsapp messenger, (which is merely of 17.53 MB) after uninstalling it initially, it shows Insufficient Storage Space. Specifications:Model Number : Micromax A58,Android Version : 4.2.2What should I do to solve this memory problem?",
+    "ViewCount":"384",
+    "LastActivityDate":"2015-06-22T21:27:11.197",
+    "ClosedDate":"2015-07-19T17:03:24.083",
+    "Title":"Insufficient Storage Space problem",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113716",
+    "CreationDate":"2015-06-22T05:41:53.447",
+    "FavoriteCount":null,
+    "Id":"113060",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-22T05:41:53.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad287328-3066-4fbe-9dbe-df7c2abfd33f",
+            "UserId":"113716",
+            "CloseReasonId":null,
+            "PostId":"113060",
+            "PostHistoryTypeId":"2",
+            "Id":"370339",
+            "Text":"I have 53 MB of free storage on my internal Storage. But, still, when I am trying to re-install whatsapp messenger, (which is merely of 17.53 MB) after uninstalling it initially, it shows Insufficient Storage Space. Specifications:Model Number : Micromax A58,  Android Version : 4.2.2What should I do to solve this memory problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-22T05:41:53.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad287328-3066-4fbe-9dbe-df7c2abfd33f",
+            "UserId":"113716",
+            "CloseReasonId":null,
+            "PostId":"113060",
+            "PostHistoryTypeId":"1",
+            "Id":"370340",
+            "Text":"Insufficient Storage Space problem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-22T05:41:53.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad287328-3066-4fbe-9dbe-df7c2abfd33f",
+            "UserId":"113716",
+            "CloseReasonId":null,
+            "PostId":"113060",
+            "PostHistoryTypeId":"3",
+            "Id":"370341",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-19T17:03:24.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"290da960-610c-4ff2-8997-a401c7cda66e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"113060",
+            "PostHistoryTypeId":"10",
+            "Id":"380257",
+            "Text":"{\"OriginalQuestionIds\":[23010],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

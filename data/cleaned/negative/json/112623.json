@@ -1,0 +1,71 @@
+{
+    "Body":"Please HelpI have more than 1 gb space in internal memory and my SD card is of 8 gb still playstore shows insufficeint even if i am downloading an app less than 1 gb.And it shows error 927 i recently fixed error 491 and that started.",
+    "ViewCount":"25",
+    "LastActivityDate":"2015-06-16T17:07:49.787",
+    "ClosedDate":"2015-06-18T14:32:55.573",
+    "Title":"Play store 927 error and insufficient space though i have enough space in internal memory and SD card",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113010",
+    "CreationDate":"2015-06-16T17:07:49.787",
+    "FavoriteCount":null,
+    "Id":"112623",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-16T17:07:49.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"2100de0c-36cc-4044-83e7-e49c3ca178ab",
+            "UserId":"113010",
+            "CloseReasonId":null,
+            "PostId":"112623",
+            "PostHistoryTypeId":"2",
+            "Id":"368860",
+            "Text":"Please HelpI have more than 1 gb space in internal memory and my SD card is of 8 gb still playstore shows insufficeint even if i am downloading an app less than 1 gb.And it shows error 927 i recently fixed error 491 and that started."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-16T17:07:49.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"2100de0c-36cc-4044-83e7-e49c3ca178ab",
+            "UserId":"113010",
+            "CloseReasonId":null,
+            "PostId":"112623",
+            "PostHistoryTypeId":"1",
+            "Id":"368861",
+            "Text":"Play store 927 error and insufficient space though i have enough space in internal memory and SD card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-16T17:07:49.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"2100de0c-36cc-4044-83e7-e49c3ca178ab",
+            "UserId":"113010",
+            "CloseReasonId":null,
+            "PostId":"112623",
+            "PostHistoryTypeId":"3",
+            "Id":"368862",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-18T14:32:55.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"038806e9-29c0-48dd-a92e-99b32d011561",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"112623",
+            "PostHistoryTypeId":"10",
+            "Id":"369457",
+            "Text":"{\"OriginalQuestionIds\":[103564],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I've read on a forum that i would have to downgrade to build 2.3.3 since I'm running 2.3.4, and I'm sure that can be done by formatting the phone unless I'm mistaken. Nonetheless, I'm bent on rooting the phone in order to install a more updated OS for compatibility issues so I'd appreciate it if someone could advise me through this.",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-09-13T22:14:43.827",
+    "ClosedDate":"2015-09-15T15:43:19.167",
+    "Title":"Rooting an Xperia Play",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"127245",
+    "CreationDate":"2015-09-13T22:14:43.827",
+    "FavoriteCount":null,
+    "Id":"123020",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T22:14:43.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2b8cfeb-9de3-4871-9fa1-2d7488acbb7c",
+            "UserId":"127245",
+            "CloseReasonId":null,
+            "PostId":"123020",
+            "PostHistoryTypeId":"2",
+            "Id":"401648",
+            "Text":"I've read on a forum that i would have to downgrade to build 2.3.3 since I'm running 2.3.4, and I'm sure that can be done by formatting the phone unless I'm mistaken. Nonetheless, I'm bent on rooting the phone in order to install a more updated OS for compatibility issues so I'd appreciate it if someone could advise me through this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T22:14:43.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2b8cfeb-9de3-4871-9fa1-2d7488acbb7c",
+            "UserId":"127245",
+            "CloseReasonId":null,
+            "PostId":"123020",
+            "PostHistoryTypeId":"1",
+            "Id":"401649",
+            "Text":"Rooting an Xperia Play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T22:14:43.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2b8cfeb-9de3-4871-9fa1-2d7488acbb7c",
+            "UserId":"127245",
+            "CloseReasonId":null,
+            "PostId":"123020",
+            "PostHistoryTypeId":"3",
+            "Id":"401650",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-15T15:43:19.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf6158e1-28ae-48e4-a9a0-05a78448a6ff",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"123020",
+            "PostHistoryTypeId":"10",
+            "Id":"402184",
+            "Text":"{\"OriginalQuestionIds\":[29641],\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

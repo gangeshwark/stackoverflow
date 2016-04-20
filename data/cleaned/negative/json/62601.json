@@ -1,0 +1,83 @@
+{
+    "Body":"My phone doesn't ask me to install to internal or external memory when installing an app. It automatically install to internal memory.. my phone keeps reminding me of low space and I can't install any other app cause my phone is low on space..... is there any way to move all apps and data to SD card? Any help......",
+    "ViewCount":"355",
+    "LastActivityDate":"2014-02-02T23:19:23.110",
+    "ClosedDate":"2014-02-03T01:47:52.483",
+    "Title":"my phone keeps reminding me of low space... any way to move apps and data to sd card?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-02-02T20:46:34.990",
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"52498",
+    "CreationDate":"2014-02-02T19:27:01.990",
+    "FavoriteCount":null,
+    "Id":"62601",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-02T19:27:01.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"a702622a-bbc5-420c-9929-e5a112e74eed",
+            "UserId":"52498",
+            "CloseReasonId":null,
+            "PostId":"62601",
+            "PostHistoryTypeId":"2",
+            "Id":"212390",
+            "Text":"My phone doesn't ask me to install to internal or external memory when installing an app. It automatically install to internal memory.. my phone keeps reminding me of low space and I can't install any other app cause my phone is low on space..... is there any way to move all apps and data to SD card? Any help......"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-02T19:27:01.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"a702622a-bbc5-420c-9929-e5a112e74eed",
+            "UserId":"52498",
+            "CloseReasonId":null,
+            "PostId":"62601",
+            "PostHistoryTypeId":"1",
+            "Id":"212391",
+            "Text":"my phone keeps reminding me of low space... any way to move apps and data to sd card?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-02T19:27:01.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"a702622a-bbc5-420c-9929-e5a112e74eed",
+            "UserId":"52498",
+            "CloseReasonId":null,
+            "PostId":"62601",
+            "PostHistoryTypeId":"3",
+            "Id":"212392",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-02-02T20:46:34.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd6e1811-67a0-4387-8b0e-2558c4120c4c",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"62601",
+            "PostHistoryTypeId":"6",
+            "Id":"212400",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-03T01:47:52.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"7a004843-667c-409d-a3eb-8fea6e2f99f8",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"62601",
+            "PostHistoryTypeId":"10",
+            "Id":"212439",
+            "Text":"{\"OriginalQuestionIds\":[30448],\"Voters\":[{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

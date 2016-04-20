@@ -1,0 +1,83 @@
+{
+    "Body":"I have an Android Version 4.04 ICS on my Samsung Galaxy S Duos phone, how do I upgrade to version 4.1 as I am aware it is possible, did try to Google, but in vain as I did not find satisfactory answers. Is it possible to use the Debugging Mode to upgrade the version.Thanks in advance",
+    "ViewCount":"91",
+    "LastActivityDate":"2014-01-14T13:34:20.497",
+    "ClosedDate":"2014-01-14T13:41:08.263",
+    "Title":"Android Version Upgradation",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2014-01-14T08:32:13.207",
+    "FavoriteCount":null,
+    "Id":"61162",
+    "history":[
+        {
+            "Comment":"from http:\/\/stackoverflow.com\/questions\/21108934\/android-version-upgradation",
+            "CreationDate":"2014-01-14T13:34:20.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"790b0e84-3f71-41b4-8820-4872736aec9d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"61162",
+            "PostHistoryTypeId":"36",
+            "Id":"206817",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-14T08:32:13.207",
+            "UserDisplayName":"gaurav",
+            "RevisionGUID":"6a2a2866-aac0-42b4-95c9-7a0cc43cde29",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"61162",
+            "PostHistoryTypeId":"2",
+            "Id":"206820",
+            "Text":"I have an Android Version `4.04` ICS on my Samsung Galaxy S Duos phone, how do I upgrade to version `4.1` as I am aware it is possible, did try to `Google`, but in vain as I did not find satisfactory answers. Is it possible to use the Debugging Mode to upgrade the version.Thanks in advance"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-14T08:32:13.207",
+            "UserDisplayName":"gaurav",
+            "RevisionGUID":"6a2a2866-aac0-42b4-95c9-7a0cc43cde29",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"61162",
+            "PostHistoryTypeId":"1",
+            "Id":"206821",
+            "Text":"Android Version Upgradation"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-14T08:32:13.207",
+            "UserDisplayName":"gaurav",
+            "RevisionGUID":"6a2a2866-aac0-42b4-95c9-7a0cc43cde29",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"61162",
+            "PostHistoryTypeId":"3",
+            "Id":"206822",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-14T13:41:08.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea50f6a7-360e-442a-a40a-257a07ded203",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"61162",
+            "PostHistoryTypeId":"10",
+            "Id":"206823",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

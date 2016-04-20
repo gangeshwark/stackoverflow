@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I recover a deleted file on Android?  I have deleted photos from my samsung galaxy s3 that were saved in my internal sdcard. How can I restore them. All restore applications require USB Mass Storage. How can I turn the internal SDCARD to be recognized as UMS?I am using the android 4.0.4 OS",
+    "ViewCount":"112",
+    "LastActivityDate":"2012-10-20T21:46:43.703",
+    "ClosedDate":"2012-12-21T22:03:27.103",
+    "Title":"restore deleted photos on samsung s3 internal sdcard",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22677",
+    "CreationDate":"2012-10-20T21:46:43.703",
+    "FavoriteCount":null,
+    "Id":"32135",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-20T21:46:43.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"5450041c-c94f-4874-82aa-a84af86a607a",
+            "UserId":"22677",
+            "CloseReasonId":null,
+            "PostId":"32135",
+            "PostHistoryTypeId":"2",
+            "Id":"94960",
+            "Text":"I have deleted photos from my samsung galaxy s3 that were saved in my internal sdcard. How can I restore them. All restore applications require USB Mass Storage. How can I turn the internal SDCARD to be recognized as UMS?I am using the android 4.0.4 OS"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-20T21:46:43.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"5450041c-c94f-4874-82aa-a84af86a607a",
+            "UserId":"22677",
+            "CloseReasonId":null,
+            "PostId":"32135",
+            "PostHistoryTypeId":"1",
+            "Id":"94961",
+            "Text":"restore deleted photos on samsung s3 internal sdcard"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-20T21:46:43.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"5450041c-c94f-4874-82aa-a84af86a607a",
+            "UserId":"22677",
+            "CloseReasonId":null,
+            "PostId":"32135",
+            "PostHistoryTypeId":"3",
+            "Id":"94962",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-12-21T22:03:27.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"d2781ceb-2c85-4225-87c2-947be343668d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32135",
+            "PostHistoryTypeId":"5",
+            "Id":"108219",
+            "Text":"> **Possible Duplicate:**  > [How can I recover a deleted file on Android?](http:\/\/android.stackexchange.com\/questions\/15869\/how-can-i-recover-a-deleted-file-on-android)  I have deleted photos from my samsung galaxy s3 that were saved in my internal sdcard. How can I restore them. All restore applications require USB Mass Storage. How can I turn the internal SDCARD to be recognized as UMS?I am using the android 4.0.4 OS"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-12-21T22:03:27.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"94a112c9-ee81-4474-b94f-7f1a712853fe",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"32135",
+            "PostHistoryTypeId":"10",
+            "Id":"108220",
+            "Text":"{\"OriginalQuestionIds\":[15869],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

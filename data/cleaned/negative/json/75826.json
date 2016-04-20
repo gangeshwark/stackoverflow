@@ -1,0 +1,71 @@
+{
+    "Body":"My friend has a wireless router in his car that supports streaming music. I would like to stream music to this router from my google play (or other internet source), but as soon as I connect to his router, I lose internet access (since his router doesn't have any kind of outside line). It seems that even though the router clearly doesn't have internet access, android is shutting down my 4G connection. Is there any way to change this behavior, or is it expected to change in Android L? It is a little disappointing that this doesn't work as it seems the iPhone has supported this for quite some time.For reference I am on android KitKat 4.4.3",
+    "ViewCount":"23",
+    "LastActivityDate":"2014-07-08T19:17:34.277",
+    "ClosedDate":"2014-07-09T07:28:09.063",
+    "Title":"Use data connection when WIFI has no internet access",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65815",
+    "CreationDate":"2014-07-08T17:35:40.350",
+    "FavoriteCount":null,
+    "Id":"75826",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-08T17:35:40.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"6636c249-0322-4bfe-8c53-6974445b08ba",
+            "UserId":"65815",
+            "CloseReasonId":null,
+            "PostId":"75826",
+            "PostHistoryTypeId":"2",
+            "Id":"252182",
+            "Text":"My friend has a wireless router in his car that supports streaming music. I would like to stream music to this router from my google play (or other internet source), but as soon as I connect to his router, I lose internet access (since his router doesn't have any kind of outside line). It seems that even though the router clearly doesn't have internet access, android is shutting down my 4G connection. Is there any way to change this behavior, or is it expected to change in Android L? It is a little disappointing that this doesn't work as it seems the iPhone has supported this for quite some time.For reference I am on android KitKat 4.4.3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-08T17:35:40.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"6636c249-0322-4bfe-8c53-6974445b08ba",
+            "UserId":"65815",
+            "CloseReasonId":null,
+            "PostId":"75826",
+            "PostHistoryTypeId":"1",
+            "Id":"252183",
+            "Text":"Use data connection when WIFI has no internet access"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-08T17:35:40.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"6636c249-0322-4bfe-8c53-6974445b08ba",
+            "UserId":"65815",
+            "CloseReasonId":null,
+            "PostId":"75826",
+            "PostHistoryTypeId":"3",
+            "Id":"252184",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-09T07:28:09.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"71ee2c4d-be82-4c8f-b80f-7321dfa6ecc7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"75826",
+            "PostHistoryTypeId":"10",
+            "Id":"252295",
+            "Text":"{\"OriginalQuestionIds\":[29769],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"}]}"
+        }
+    ]
+}

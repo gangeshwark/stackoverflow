@@ -1,0 +1,71 @@
+{
+    "Body":"I'm trying to factory reset nexus 7. But smth went wrong (see screenshots). Why all this errors can occur?What can I do to bring my tablet to live?Could it be hardware issue?Recovery modewipe data\/factory resetwipe data\/factory reset in processafter wipe data\/factory reset",
+    "ViewCount":"370",
+    "LastActivityDate":"2014-08-07T20:46:43.563",
+    "ClosedDate":"2014-08-08T05:55:56.757",
+    "Title":"Nexus 7 (2013) cannot wipe data\/factory reset",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"69145",
+    "CreationDate":"2014-08-07T20:46:43.563",
+    "FavoriteCount":null,
+    "Id":"79044",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T20:46:43.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"bead5ea0-bd57-42f2-9b92-aa2ab9eea09f",
+            "UserId":"69145",
+            "CloseReasonId":null,
+            "PostId":"79044",
+            "PostHistoryTypeId":"2",
+            "Id":"260810",
+            "Text":"I'm trying to factory reset nexus 7. But smth went wrong (see screenshots).  - Why all this errors can occur? - What can I do to bring my tablet to live? - Could it be hardware issue?Recovery mode![Recovery mode][1]wipe data\/factory reset![wipe data\/factory reset][2]wipe data\/factory reset in process![wipe data\/factory reset in process][3]after wipe data\/factory reset![after wipe data\/factory reset][4]  [1]: http:\/\/i.stack.imgur.com\/s3TDc.png  [2]: http:\/\/i.stack.imgur.com\/Ww5pQ.png  [3]: http:\/\/i.stack.imgur.com\/cgLsx.png  [4]: http:\/\/i.stack.imgur.com\/719lo.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T20:46:43.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"bead5ea0-bd57-42f2-9b92-aa2ab9eea09f",
+            "UserId":"69145",
+            "CloseReasonId":null,
+            "PostId":"79044",
+            "PostHistoryTypeId":"1",
+            "Id":"260811",
+            "Text":"Nexus 7 (2013) cannot wipe data\/factory reset"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T20:46:43.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"bead5ea0-bd57-42f2-9b92-aa2ab9eea09f",
+            "UserId":"69145",
+            "CloseReasonId":null,
+            "PostId":"79044",
+            "PostHistoryTypeId":"3",
+            "Id":"260812",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-08T05:55:56.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb2f1c91-528f-47c2-8f3d-df8f82949872",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"79044",
+            "PostHistoryTypeId":"10",
+            "Id":"260887",
+            "Text":"{\"OriginalQuestionIds\":[79004,79022],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

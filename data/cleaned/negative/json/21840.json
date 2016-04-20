@@ -1,0 +1,71 @@
+{
+    "Body":"I currently find myself in a situation where I need to find a NAT solution for a rooted Android 2.2 device other than IPTABLES, since I am stuck on using a particular ROM that doesn't support IPTABLES.I need said Android device to act as a NAT gateway between an external host connected through its Ethernet port, and the Android device's internal WiFi connection (not its cellular connection).I have tried searching for a simple NAT daemon available for any operating system, just for kicks.  It turns out that such a solution is nothing more than a pipe dream, considering they would require unportable kernel modules.I have noticed some Android software out there, such as EasyTether, that claim they support NAT.  And, this is apparently even without requiring a rooted system.  So, it must be possible to implement based off some solution.I even recall one such software stating that it had used a Java NAT solution.  I could not find anything like this made in Java.  Running Java apps on Android IS a possibility.So, does anyone have any input as to how a NAT solution might be implemented?  TIA. ",
+    "ViewCount":"462",
+    "LastActivityDate":"2012-04-14T20:47:53.863",
+    "ClosedDate":"2013-01-02T15:55:58.600",
+    "Title":"Looking for NAT Solution for Android 2.2 (Other Than IPTABLES)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14277",
+    "CreationDate":"2012-04-14T20:47:53.863",
+    "FavoriteCount":null,
+    "Id":"21840",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-14T20:47:53.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ac292df-cce6-464d-a525-58d4654dc61a",
+            "UserId":"14277",
+            "CloseReasonId":null,
+            "PostId":"21840",
+            "PostHistoryTypeId":"2",
+            "Id":"61185",
+            "Text":"I currently find myself in a situation where I need to find a NAT solution for a rooted Android 2.2 device other than IPTABLES, since I am stuck on using a particular ROM that doesn't support IPTABLES.I need said Android device to act as a NAT gateway between an external host connected through its Ethernet port, and the Android device's internal WiFi connection (not its cellular connection).I have tried searching for a simple NAT daemon available for any operating system, just for kicks.  It turns out that such a solution is nothing more than a pipe dream, considering they would require unportable kernel modules.I have noticed some Android software out there, such as [EasyTether][1], that claim they support NAT.  And, this is apparently even without requiring a rooted system.  So, it must be possible to implement based off some solution.I even recall one such software stating that it had used a Java NAT solution.  I could not find anything like this made in Java.  Running Java apps on Android IS a possibility.So, does anyone have any input as to how a NAT solution might be implemented?  TIA.   [1]: http:\/\/www.mobile-stream.com\/easytether\/android.html"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-14T20:47:53.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ac292df-cce6-464d-a525-58d4654dc61a",
+            "UserId":"14277",
+            "CloseReasonId":null,
+            "PostId":"21840",
+            "PostHistoryTypeId":"1",
+            "Id":"61186",
+            "Text":"Looking for NAT Solution for Android 2.2 (Other Than IPTABLES)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-14T20:47:53.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ac292df-cce6-464d-a525-58d4654dc61a",
+            "UserId":"14277",
+            "CloseReasonId":null,
+            "PostId":"21840",
+            "PostHistoryTypeId":"3",
+            "Id":"61187",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-02T15:55:58.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"a321f245-915c-4a8f-a60f-92ee6af177d7",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"21840",
+            "PostHistoryTypeId":"10",
+            "Id":"110890",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

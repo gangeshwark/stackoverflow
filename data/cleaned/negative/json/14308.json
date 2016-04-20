@@ -1,0 +1,83 @@
+{
+    "Body":"Does anyone happen to have a (signed) update.zip package that when installed via recovery mode, copies the contents of SYSTEM:, DATA: etc to the SD card?It looks like it would be pretty easy to make one, but this seems like such an obvious thing to do that I thought I'd check first to see if anyone had already done one. (And save me the time.)",
+    "ViewCount":"341",
+    "LastActivityDate":"2011-10-07T21:30:06.320",
+    "ClosedDate":"2013-04-02T09:10:24.460",
+    "Title":"update.zip that backs up my device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8596",
+    "CreationDate":"2011-10-07T21:30:06.320",
+    "FavoriteCount":"1",
+    "Id":"14308",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-07T21:30:06.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a185f08-89d6-4187-8f1b-3bba6b98854b",
+            "UserId":"8596",
+            "CloseReasonId":null,
+            "PostId":"14308",
+            "PostHistoryTypeId":"2",
+            "Id":"37852",
+            "Text":"Does anyone happen to have a (signed) update.zip package that when installed via recovery mode, copies the contents of SYSTEM:, DATA: etc to the SD card?It looks like it would be pretty easy to make one, but this seems like such an obvious thing to do that I thought I'd check first to see if anyone had already done one. (And save me the time.)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-07T21:30:06.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a185f08-89d6-4187-8f1b-3bba6b98854b",
+            "UserId":"8596",
+            "CloseReasonId":null,
+            "PostId":"14308",
+            "PostHistoryTypeId":"1",
+            "Id":"37853",
+            "Text":"update.zip that backs up my device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-07T21:30:06.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a185f08-89d6-4187-8f1b-3bba6b98854b",
+            "UserId":"8596",
+            "CloseReasonId":null,
+            "PostId":"14308",
+            "PostHistoryTypeId":"3",
+            "Id":"37854",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/123156660989595648",
+            "CreationDate":"2011-10-09T22:03:30.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"0391df61-14eb-4f74-aea8-2f7267cde33a",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"14308",
+            "PostHistoryTypeId":"25",
+            "Id":"38090",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-04-02T09:10:24.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1048cc6-330d-4305-af63-3618ea703108",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"14308",
+            "PostHistoryTypeId":"10",
+            "Id":"135762",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to fix \u201cInvalid IMEI \u201d after Factory reset?  Hi. I followed Three.ie support and performed a factory reset on my HTC HD2 running Android 2.2.1. It now displays 'Invalid IMEI' where the SIM connection detail should be. I purchased the phone from China and have been using it with an O2 SIM but the reception in my area is bad so I sent for a three.ie SIM. This also worked OK but I queried why it was connectiong to Vodafone.ie and not three.ie. I was told to do a factory reset to correct this. The reset has now made the phone unusable. I have the original IMEI number printed inside the phone. This is 354120034327435. Please help.regardsDave",
+    "ViewCount":"2742",
+    "LastActivityDate":"2011-05-02T15:09:29.243",
+    "ClosedDate":"2011-05-02T19:27:37.277",
+    "Title":"How to fix Invalid IMEI number on HTC HD2 phone after factory reset?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4718",
+    "CreationDate":"2011-04-28T14:23:16.217",
+    "FavoriteCount":"1",
+    "Id":"8738",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-28T14:23:16.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe683e67-ab3b-4d82-ac1a-f25245e481ff",
+            "UserId":"4718",
+            "CloseReasonId":null,
+            "PostId":"8738",
+            "PostHistoryTypeId":"2",
+            "Id":"21274",
+            "Text":"I followed Three.ie support and performed a factory reset on my HTC HD2 running Android 2.2.1. It now displays 'Invalid IMEI' where the SIM connection detail should be. I purchased the phone from China and have been using it with an O2 SIM but the reception in my area is bad so I sent for a three.ie SIM. This also worked OK but I queried why it was connectiong to Vodafone.ie and not three.ie. I was told to do a factory reset to correct this. The reset has now made the phone unusable. I have the original IMEI number printed inside the phone. This is 354120034327435. Please help.regardsDave"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-28T14:23:16.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe683e67-ab3b-4d82-ac1a-f25245e481ff",
+            "UserId":"4718",
+            "CloseReasonId":null,
+            "PostId":"8738",
+            "PostHistoryTypeId":"1",
+            "Id":"21275",
+            "Text":"How to fix Invalid IMEI number on HTC HD2 phone after factory reset?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-28T14:23:16.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe683e67-ab3b-4d82-ac1a-f25245e481ff",
+            "UserId":"4718",
+            "CloseReasonId":null,
+            "PostId":"8738",
+            "PostHistoryTypeId":"3",
+            "Id":"21276",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-05-02T19:27:38.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9013af6-a9f2-427a-ac77-d63670d2fbdf",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"8738",
+            "PostHistoryTypeId":"5",
+            "Id":"21602",
+            "Text":"> **Possible Duplicate:**  > [How to fix \u201cInvalid IMEI \u201d after Factory reset?](http:\/\/android.stackexchange.com\/questions\/8570\/how-to-fix-invalid-imei-after-factory-reset)  Hi. I followed Three.ie support and performed a factory reset on my HTC HD2 running Android 2.2.1. It now displays 'Invalid IMEI' where the SIM connection detail should be. I purchased the phone from China and have been using it with an O2 SIM but the reception in my area is bad so I sent for a three.ie SIM. This also worked OK but I queried why it was connectiong to Vodafone.ie and not three.ie. I was told to do a factory reset to correct this. The reset has now made the phone unusable. I have the original IMEI number printed inside the phone. This is 354120034327435. Please help.regardsDave"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-05-02T19:27:37.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"f295ba64-9657-4d9d-b8ce-d22372cb5035",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"8738",
+            "PostHistoryTypeId":"10",
+            "Id":"21603",
+            "Text":"{\"OriginalQuestionIds\":[8570],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

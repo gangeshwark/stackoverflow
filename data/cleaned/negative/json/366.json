@@ -1,0 +1,71 @@
+{
+    "Body":"I have a couple direct dial to landline shortcuts that I use at work regularly.  There are no avatars associated with those contacts and the Homescreen icon just shows a generic Android Avatar so they are indistinguishable.  I have a couple other contacts whose avatars are still indistinguishable because they are so small.  I'd like to be able to set a shortcut icon instead of having to mess with making custom avatars.  Any apps to do this?",
+    "ViewCount":"1249",
+    "LastActivityDate":"2010-09-25T14:59:42.707",
+    "ClosedDate":"2013-02-19T20:46:23.560",
+    "Title":"How can I change the Icon of a Shortcut on my Home Screen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"1551",
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"137",
+    "CreationDate":"2010-09-14T20:50:19.983",
+    "FavoriteCount":null,
+    "Id":"366",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-14T20:50:19.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"42dc1afe-85e2-43b9-8ff2-733c896337de",
+            "UserId":"137",
+            "CloseReasonId":null,
+            "PostId":"366",
+            "PostHistoryTypeId":"2",
+            "Id":"734",
+            "Text":"I have a couple direct dial to landline shortcuts that I use at work regularly.  There are no avatars associated with those contacts and the Homescreen icon just shows a generic Android Avatar so they are indistinguishable.  I have a couple other contacts whose avatars are still indistinguishable because they are so small.  I'd like to be able to set a shortcut icon instead of having to mess with making custom avatars.  Any apps to do this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-14T20:50:19.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"42dc1afe-85e2-43b9-8ff2-733c896337de",
+            "UserId":"137",
+            "CloseReasonId":null,
+            "PostId":"366",
+            "PostHistoryTypeId":"1",
+            "Id":"735",
+            "Text":"How can I change the Icon of a Shortcut on my Home Screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-14T20:50:19.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"42dc1afe-85e2-43b9-8ff2-733c896337de",
+            "UserId":"137",
+            "CloseReasonId":null,
+            "PostId":"366",
+            "PostHistoryTypeId":"3",
+            "Id":"736",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-19T20:46:23.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"01b1eb25-6f89-4292-ba5a-8d64128c96e2",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"366",
+            "PostHistoryTypeId":"10",
+            "Id":"124009",
+            "Text":"{\"OriginalQuestionIds\":[9325],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

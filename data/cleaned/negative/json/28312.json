@@ -1,0 +1,83 @@
+{
+    "Body":"My Galaxy Tab 2 10.1 powers off each time I disconnect the power\/sync cable or when I connect it to a AC power source. It just shuts off without warning. ",
+    "ViewCount":"283",
+    "LastActivityDate":"2012-09-07T12:04:08.240",
+    "ClosedDate":"2012-09-08T02:44:20.880",
+    "Title":"Galaxy Tab 2 10.1 Powers off when disconnect power\/sync cable",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18554",
+    "CreationDate":"2012-08-26T20:37:38.803",
+    "FavoriteCount":null,
+    "Id":"28312",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-26T20:37:38.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a731720-ce26-40fb-9122-2723f7418ba2",
+            "UserId":"18554",
+            "CloseReasonId":null,
+            "PostId":"28312",
+            "PostHistoryTypeId":"2",
+            "Id":"82696",
+            "Text":"My Galaxy Tab 2 10.1 powers off each time I disconnect the power\/sync cable or when I connect it to a AC power source. It just shuts off without warning. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-26T20:37:38.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a731720-ce26-40fb-9122-2723f7418ba2",
+            "UserId":"18554",
+            "CloseReasonId":null,
+            "PostId":"28312",
+            "PostHistoryTypeId":"1",
+            "Id":"82697",
+            "Text":"Galaxy Tab 2 10.1 Powers off when disconnect power\/sync cable"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-26T20:37:38.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"3a731720-ce26-40fb-9122-2723f7418ba2",
+            "UserId":"18554",
+            "CloseReasonId":null,
+            "PostId":"28312",
+            "PostHistoryTypeId":"3",
+            "Id":"82698",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/239920420965478400",
+            "CreationDate":"2012-08-27T03:01:00.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"be3ea404-725b-4725-abd0-8953a3132dce",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"28312",
+            "PostHistoryTypeId":"25",
+            "Id":"82717",
+            "Text":null
+        },
+        {
+            "Comment":"4",
+            "CreationDate":"2012-09-08T02:44:20.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"2cd6cc65-9e68-4768-9335-92138de5dcf0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28312",
+            "PostHistoryTypeId":"10",
+            "Id":"84850",
+            "Text":"{\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

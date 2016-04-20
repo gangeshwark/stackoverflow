@@ -1,0 +1,83 @@
+{
+    "Body":"I bought an usb connection kit for my samsung note tablet so that I can transfer files from my sea gate external drive but unfortunately,  my tablet cannot read my external drive..why? ",
+    "ViewCount":"18",
+    "LastActivityDate":"2013-05-15T12:43:52.997",
+    "ClosedDate":"2013-05-15T20:51:03.450",
+    "Title":"Samsung Note Tablet usb problem with external drive",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-05-15T12:43:52.997",
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34047",
+    "CreationDate":"2013-05-15T11:01:26.793",
+    "FavoriteCount":null,
+    "Id":"45499",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-15T11:01:26.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"83201f9a-5e3f-479d-868e-20d9bb12d1dd",
+            "UserId":"34047",
+            "CloseReasonId":null,
+            "PostId":"45499",
+            "PostHistoryTypeId":"2",
+            "Id":"146576",
+            "Text":"I bought an usb connection kit for my samsung note tablet so that I can transfer files from my sea gate external drive but unfortunately,  my tablet cannot read my external drive..why? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-15T11:01:26.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"83201f9a-5e3f-479d-868e-20d9bb12d1dd",
+            "UserId":"34047",
+            "CloseReasonId":null,
+            "PostId":"45499",
+            "PostHistoryTypeId":"1",
+            "Id":"146577",
+            "Text":"Samsung Note Tablet usb problem with external drive"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-15T11:01:26.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"83201f9a-5e3f-479d-868e-20d9bb12d1dd",
+            "UserId":"34047",
+            "CloseReasonId":null,
+            "PostId":"45499",
+            "PostHistoryTypeId":"3",
+            "Id":"146578",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-05-15T12:43:52.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1cbe395-ad25-4104-8a48-1620fa951b1a",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"45499",
+            "PostHistoryTypeId":"6",
+            "Id":"146602",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-15T20:51:03.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"12353f4a-06a9-4d66-bad5-ccb903687412",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"45499",
+            "PostHistoryTypeId":"10",
+            "Id":"146703",
+            "Text":"{\"OriginalQuestionIds\":[43795],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

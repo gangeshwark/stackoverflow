@@ -1,0 +1,71 @@
+{
+    "Body":"I experienced the same on some Android devices: when changing the angle the screen is looked at, I see that the image gets darker or brighter.I would like to know if it is so on all devices or just some of them.",
+    "ViewCount":"21",
+    "LastActivityDate":"2016-02-24T19:57:18.820",
+    "ClosedDate":"2016-02-24T20:39:04.897",
+    "Title":"Screen angle and brightness",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"138028",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"152240",
+    "CreationDate":"2016-02-24T19:32:58.127",
+    "FavoriteCount":null,
+    "Id":"138021",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T19:32:58.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a8e6863-522c-43db-bc88-fbc42a4dc3dc",
+            "UserId":"152240",
+            "CloseReasonId":null,
+            "PostId":"138021",
+            "PostHistoryTypeId":"2",
+            "Id":"460647",
+            "Text":"I experienced the same on some Android devices: when changing the angle the screen is looked at, I see that the image gets darker or brighter.I would like to know if it is so on all devices or just some of them."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T19:32:58.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a8e6863-522c-43db-bc88-fbc42a4dc3dc",
+            "UserId":"152240",
+            "CloseReasonId":null,
+            "PostId":"138021",
+            "PostHistoryTypeId":"1",
+            "Id":"460648",
+            "Text":"Screen angle and brightness"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T19:32:58.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a8e6863-522c-43db-bc88-fbc42a4dc3dc",
+            "UserId":"152240",
+            "CloseReasonId":null,
+            "PostId":"138021",
+            "PostHistoryTypeId":"3",
+            "Id":"460649",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-24T20:39:04.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"e6e6f984-c446-4c49-9cf9-1d252d151dd9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138021",
+            "PostHistoryTypeId":"10",
+            "Id":"460684",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

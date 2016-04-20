@@ -1,0 +1,83 @@
+{
+    "Body":"My trusty old 16GB micro SD card that has been with me through 4 phones is finally full. So I figured no biggie; I'll just buy a new (64GB) card, copy all the files down to my PC (which has no card reader, just USB ports), then up to the new card.The issue I'm having is that copy step. I have the card in a Note4, connected to a Windows 8 PC via USB. I can see the card, but if I just try to drag-and-drop copy folders to my PC, it invariably ends with a dialog saying: \"A device attached to the system is not functioning\". I'm guessing its on largeish files, as I've noticed .mp4's in particular will just cause Windows explorer to go out to lunch and never come back when I try to copy them individually.It seems like this ought to be the simplest thing in the world to do. What am I missing?",
+    "ViewCount":"145",
+    "LastActivityDate":"2015-04-29T16:08:41.907",
+    "ClosedDate":"2015-05-05T05:18:05.827",
+    "Title":"Copying SD card to disk",
+    "LastEditorUserId":"104620",
+    "Tags":"",
+    "LastEditDate":"2015-04-29T15:48:03.477",
+    "CommentCount":"9",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104620",
+    "CreationDate":"2015-04-29T02:43:54.017",
+    "FavoriteCount":null,
+    "Id":"106954",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-29T02:43:54.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"390a8dee-41df-4e40-8de4-95ed860bd4d8",
+            "UserId":"104620",
+            "CloseReasonId":null,
+            "PostId":"106954",
+            "PostHistoryTypeId":"2",
+            "Id":"350251",
+            "Text":"My trusty old 16GB micro SD card that has been with me through 4 phones is finally full. So I figured no biggie; I'll just buy a new (64GB) card, copy all the files down to my PC, then up to the new card.The issue I'm having is that copy step. I have the card in a Note4, connected to a Windows 8 PC via USB. I can see the card, but if I just try to drag-and-drop copy folders to my PC, it invariably ends with a dialog saying: \"A device attached to the system is not functioning\". I'm guessing its on largeish files, as I've noticed .mp4's in particular will just cause Windows explorer to go out to lunch and never come back when I try to copy them individually.It seems like this ought to be the simplest thing in the world to do. What am I missing?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-29T02:43:54.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"390a8dee-41df-4e40-8de4-95ed860bd4d8",
+            "UserId":"104620",
+            "CloseReasonId":null,
+            "PostId":"106954",
+            "PostHistoryTypeId":"1",
+            "Id":"350252",
+            "Text":"Copying SD card to disk"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-29T02:43:54.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"390a8dee-41df-4e40-8de4-95ed860bd4d8",
+            "UserId":"104620",
+            "CloseReasonId":null,
+            "PostId":"106954",
+            "PostHistoryTypeId":"3",
+            "Id":"350253",
+            "Text":""
+        },
+        {
+            "Comment":"added 43 characters in body",
+            "CreationDate":"2015-04-29T15:48:03.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"dbc7d8c9-c22f-4d63-8d9d-866fe1664d5f",
+            "UserId":"104620",
+            "CloseReasonId":null,
+            "PostId":"106954",
+            "PostHistoryTypeId":"5",
+            "Id":"350506",
+            "Text":"My trusty old 16GB micro SD card that has been with me through 4 phones is finally full. So I figured no biggie; I'll just buy a new (64GB) card, copy all the files down to my PC (which has no card reader, just USB ports), then up to the new card.The issue I'm having is that copy step. I have the card in a Note4, connected to a Windows 8 PC via USB. I can see the card, but if I just try to drag-and-drop copy folders to my PC, it invariably ends with a dialog saying: \"A device attached to the system is not functioning\". I'm guessing its on largeish files, as I've noticed .mp4's in particular will just cause Windows explorer to go out to lunch and never come back when I try to copy them individually.It seems like this ought to be the simplest thing in the world to do. What am I missing?"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-05T05:18:05.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"233c6ec7-ec44-4bd3-9aa1-9f286746c1a8",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"106954",
+            "PostHistoryTypeId":"10",
+            "Id":"353263",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

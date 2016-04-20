@@ -1,0 +1,71 @@
+{
+    "Body":"I close the Skype app in my Android phone (samsung s3 mini)If Skype is open on my pc and I receive a call it also starts automacically in my phone without my input! How can I avoid such a strange behavior?Thank you",
+    "ViewCount":"13790",
+    "LastActivityDate":"2013-10-26T17:26:42.087",
+    "ClosedDate":"2013-10-28T14:36:16.153",
+    "Title":"How to stop Skype from starting automatically?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"55809",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"43987",
+    "CreationDate":"2013-10-26T16:31:24.227",
+    "FavoriteCount":null,
+    "Id":"55804",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-26T16:31:24.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"d609f01b-d381-4875-badf-877336a285b5",
+            "UserId":"43987",
+            "CloseReasonId":null,
+            "PostId":"55804",
+            "PostHistoryTypeId":"2",
+            "Id":"185569",
+            "Text":"I close the Skype app in my Android phone (samsung s3 mini)If Skype is open on my pc and I receive a call it also starts automacically in my phone without my input! How can I avoid such a strange behavior?  Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-26T16:31:24.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"d609f01b-d381-4875-badf-877336a285b5",
+            "UserId":"43987",
+            "CloseReasonId":null,
+            "PostId":"55804",
+            "PostHistoryTypeId":"1",
+            "Id":"185570",
+            "Text":"How to stop Skype from starting automatically?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-26T16:31:24.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"d609f01b-d381-4875-badf-877336a285b5",
+            "UserId":"43987",
+            "CloseReasonId":null,
+            "PostId":"55804",
+            "PostHistoryTypeId":"3",
+            "Id":"185571",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-28T14:36:16.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"918d363c-550a-443b-ba54-d7043817d1c7",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"55804",
+            "PostHistoryTypeId":"10",
+            "Id":"185998",
+            "Text":"{\"OriginalQuestionIds\":[1949],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

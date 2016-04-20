@@ -1,0 +1,83 @@
+{
+    "Body":"I live in the United States, and I will be traveling to Japan soon. I am interested in buying the Nexus 6P, and I know that Japan uses CDMA, not GSM. According to the specifications for the Nexus 6P:CDMA: BC0\/1\/10Will the phone work in Japan? Also, what do these numbers mean? Thanks!",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-09-29T19:08:06.430",
+    "ClosedDate":"2015-09-29T19:41:14.620",
+    "Title":"Will the Nexus 6P work in Japan?",
+    "LastEditorUserId":"129658",
+    "Tags":"",
+    "LastEditDate":"2015-09-29T19:08:06.430",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129658",
+    "CreationDate":"2015-09-29T19:02:14.590",
+    "FavoriteCount":null,
+    "Id":"124561",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-29T19:02:14.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e5aeb2a-9514-4816-b393-4ec84668b45b",
+            "UserId":"129658",
+            "CloseReasonId":null,
+            "PostId":"124561",
+            "PostHistoryTypeId":"2",
+            "Id":"407459",
+            "Text":"I am interested in buying the Nexus 6P, and I know that Japan uses CDMA, not GSM. According to the specifications for the Nexus 6P:`CDMA: BC0\/1\/10`Will the phone work in Japan? Also, what do these numbers mean? Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-29T19:02:14.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e5aeb2a-9514-4816-b393-4ec84668b45b",
+            "UserId":"129658",
+            "CloseReasonId":null,
+            "PostId":"124561",
+            "PostHistoryTypeId":"1",
+            "Id":"407460",
+            "Text":"Will the Nexus 6P work in Japan?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-29T19:02:14.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e5aeb2a-9514-4816-b393-4ec84668b45b",
+            "UserId":"129658",
+            "CloseReasonId":null,
+            "PostId":"124561",
+            "PostHistoryTypeId":"3",
+            "Id":"407461",
+            "Text":""
+        },
+        {
+            "Comment":"added 68 characters in body",
+            "CreationDate":"2015-09-29T19:08:06.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"a839a71b-de1d-4168-b39f-34ad4af70985",
+            "UserId":"129658",
+            "CloseReasonId":null,
+            "PostId":"124561",
+            "PostHistoryTypeId":"5",
+            "Id":"407467",
+            "Text":"I live in the United States, and I will be traveling to Japan soon. I am interested in buying the Nexus 6P, and I know that Japan uses CDMA, not GSM. According to the specifications for the Nexus 6P:`CDMA: BC0\/1\/10`Will the phone work in Japan? Also, what do these numbers mean? Thanks!"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-29T19:41:14.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3ff5c72-20c6-44bc-b344-f31418841690",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"124561",
+            "PostHistoryTypeId":"10",
+            "Id":"407475",
+            "Text":"{\"OriginalQuestionIds\":[29677],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

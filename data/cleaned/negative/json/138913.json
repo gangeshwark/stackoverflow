@@ -1,0 +1,83 @@
+{
+    "Body":"My netbook is freezing and shutting apps down it is also not responding when trying to open anything Ibought a sd card to try to take some of the storage untill i can buy an external hard drive but it just tels me my memory is full im not great with technology but i dont understand why my tablet worked better",
+    "ViewCount":"9",
+    "LastActivityDate":"2016-03-06T00:40:39.727",
+    "ClosedDate":"2016-03-06T00:57:01.053",
+    "Title":"why dose it just shut things down and nothing is responding",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2016-03-06T00:40:39.727",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154766",
+    "CreationDate":"2016-03-06T00:03:57.333",
+    "FavoriteCount":null,
+    "Id":"138913",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T00:03:57.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3f19040-c6ef-489b-9117-8258f7c6859a",
+            "UserId":"154766",
+            "CloseReasonId":null,
+            "PostId":"138913",
+            "PostHistoryTypeId":"2",
+            "Id":"464558",
+            "Text":"My netbook is freezing and shutting apps down it is also not responding when trying to open anything Ibought a sd card to try to take some of the storage untill i can buy an external hard drive but it just tels me my memory is full im not great with technology but i dont understand why my tablet worked better"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T00:03:57.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3f19040-c6ef-489b-9117-8258f7c6859a",
+            "UserId":"154766",
+            "CloseReasonId":null,
+            "PostId":"138913",
+            "PostHistoryTypeId":"1",
+            "Id":"464559",
+            "Text":"why dose it just shut things down and nothing is responding"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T00:03:57.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3f19040-c6ef-489b-9117-8258f7c6859a",
+            "UserId":"154766",
+            "CloseReasonId":null,
+            "PostId":"138913",
+            "PostHistoryTypeId":"3",
+            "Id":"464560",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-03-06T00:40:39.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"c35cf901-9442-4788-b405-9fe1f410f3c3",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"138913",
+            "PostHistoryTypeId":"6",
+            "Id":"464566",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-03-06T00:57:01.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f159bdb-a0f0-49e0-8315-89c371e28988",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138913",
+            "PostHistoryTypeId":"10",
+            "Id":"464568",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

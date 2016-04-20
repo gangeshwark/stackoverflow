@@ -1,0 +1,71 @@
+{
+    "Body":"I am living in India and my uncle gave me a brand new MOTxt912 verizon phone but I have inserted a non verizon sim and there is no signal and I got the following error message \"This sim card is from unknown source\". I have enabled the GSM band with the help of following thread http:\/\/www.dhakamobile.com\/showthread.php?p=345399. But I couldn't get rid of the Error message. I read in some forums that Uninstalling the Verizon app may fix this issue. Is there any method to remove verizon app?Note: I couldnot enable the USB debugging as the access to phone menu is prevented by the same popup.",
+    "ViewCount":"1665",
+    "LastActivityDate":"2014-11-10T05:26:54.897",
+    "ClosedDate":"2015-06-23T17:55:33.973",
+    "Title":"The sim card is from unknown source - MOTXT912",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68647",
+    "CreationDate":"2014-08-01T08:28:11.607",
+    "FavoriteCount":null,
+    "Id":"78524",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T08:28:11.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"a80fdf65-96b2-47fb-86df-cb1183f3853e",
+            "UserId":"68647",
+            "CloseReasonId":null,
+            "PostId":"78524",
+            "PostHistoryTypeId":"2",
+            "Id":"258995",
+            "Text":"I am living in India and my uncle gave me a brand new MOTxt912 verizon phone but I have inserted a non verizon sim and there is no signal and I got the following error message \"This sim card is from unknown source\". I have enabled the GSM band with the help of following thread http:\/\/www.dhakamobile.com\/showthread.php?p=345399. But I couldn't get rid of the Error message. I read in some forums that Uninstalling the Verizon app may fix this issue. Is there any method to remove verizon app?Note: I couldnot enable the USB debugging as the access to phone menu is prevented by the same popup."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T08:28:11.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"a80fdf65-96b2-47fb-86df-cb1183f3853e",
+            "UserId":"68647",
+            "CloseReasonId":null,
+            "PostId":"78524",
+            "PostHistoryTypeId":"1",
+            "Id":"258996",
+            "Text":"The sim card is from unknown source - MOTXT912"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T08:28:11.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"a80fdf65-96b2-47fb-86df-cb1183f3853e",
+            "UserId":"68647",
+            "CloseReasonId":null,
+            "PostId":"78524",
+            "PostHistoryTypeId":"3",
+            "Id":"258997",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-23T17:55:33.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3ca01c0-ddd3-4ffa-aaa7-73355d02bd05",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"78524",
+            "PostHistoryTypeId":"10",
+            "Id":"371041",
+            "Text":"{\"OriginalQuestionIds\":[87243],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

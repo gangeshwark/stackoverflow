@@ -1,0 +1,83 @@
+{
+    "Body":"Note: there is a related question to this, however it has no definitive answer.  Asking  in case anyone has discovered any solutions in the intervening period.Onavo count continually reports that Google Services is hogging my data.  This seems a recent phenomenon - last few months or so.  I've switched off background sync and tried to restrict to wifi only.  All unsuccessful.  It continues to use Phone is HTC desire Z running standard Android 2.3.3 (HTC Sense 2.1).Phone was bought outright (i.e. not included as part of contract), running on SIM-only contract from O2 in UK.Any suggestions for what's causing this?  And more pertinently, how to stop it?Thanks.",
+    "ViewCount":"1870",
+    "LastActivityDate":"2013-07-24T13:37:35.047",
+    "ClosedDate":"2013-07-25T10:26:04.240",
+    "Title":"Google Services hogging data - how to stop it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20640",
+    "CreationDate":"2012-09-25T12:11:17.997",
+    "FavoriteCount":null,
+    "Id":"29907",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-25T12:11:17.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"b612d1ee-6c99-439f-b095-4d235d50b091",
+            "UserId":"20640",
+            "CloseReasonId":null,
+            "PostId":"29907",
+            "PostHistoryTypeId":"2",
+            "Id":"89347",
+            "Text":"**Note**: there is a [related question][1] to this, however it has no definitive answer.  Asking  in case anyone has discovered any solutions in the intervening period.Onavo count continually reports that Google Services is hogging my data.  This seems a recent phenomenon - last few months or so.  I've switched off background sync and tried to restrict to wifi only.  All unsuccessful.  It continues to use Phone is HTC desire Z running standard Android 2.3.3 (HTC Sense 2.1).Phone was bought outright (i.e. not included as part of contract), running on SIM-only contract from O2 in UK.Any suggestions for what's causing this?  And more pertinently, how to stop it?Thanks.  [1]: http:\/\/android.stackexchange.com\/questions\/26178\/why-has-my-samsung-galaxy-s2-become-a-data-hog"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-25T12:11:17.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"b612d1ee-6c99-439f-b095-4d235d50b091",
+            "UserId":"20640",
+            "CloseReasonId":null,
+            "PostId":"29907",
+            "PostHistoryTypeId":"1",
+            "Id":"89348",
+            "Text":"Google Services hogging data - how to stop it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-25T12:11:17.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"b612d1ee-6c99-439f-b095-4d235d50b091",
+            "UserId":"20640",
+            "CloseReasonId":null,
+            "PostId":"29907",
+            "PostHistoryTypeId":"3",
+            "Id":"89349",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/292437062353838080",
+            "CreationDate":"2013-01-19T01:03:23.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"a64aa017-7a41-4f54-90f3-cc8f70238a92",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"29907",
+            "PostHistoryTypeId":"25",
+            "Id":"115575",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-25T10:26:04.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"54045fee-6780-4452-bd22-fbc53f015aef",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29907",
+            "PostHistoryTypeId":"10",
+            "Id":"162963",
+            "Text":"{\"OriginalQuestionIds\":[26178],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

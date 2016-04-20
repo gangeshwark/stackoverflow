@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  What is the right way to close apps in Android?  After using my Samsung Galaxy S III for a while, closing apps and dialogs with the \"back\" button (front-right), I pressed and held the front-middle button, which brought up a list of all windows and apps I had been using.I suppose that means that they were still running in the background. How to close them properly?",
+    "ViewCount":"25711",
+    "LastActivityDate":"2012-06-23T16:10:33.197",
+    "ClosedDate":"2012-06-23T16:15:51.910",
+    "Title":"How to properly close a program in Samsung Galaxy S3?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"24671",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16262",
+    "CreationDate":"2012-06-23T15:54:20.870",
+    "FavoriteCount":null,
+    "Id":"24670",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-23T15:54:20.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e364289-a916-4988-ae00-e10f0a56416b",
+            "UserId":"16262",
+            "CloseReasonId":null,
+            "PostId":"24670",
+            "PostHistoryTypeId":"2",
+            "Id":"70773",
+            "Text":"After using my Samsung Galaxy S III for a while, closing apps and dialogs with the \"back\" button (front-right), I pressed and held the front-middle button, which brought up a list of _all_ windows and apps I had been using.I suppose that means that they were still running in the background. How to close them properly?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-23T15:54:20.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e364289-a916-4988-ae00-e10f0a56416b",
+            "UserId":"16262",
+            "CloseReasonId":null,
+            "PostId":"24670",
+            "PostHistoryTypeId":"1",
+            "Id":"70774",
+            "Text":"How to properly close a program in Samsung Galaxy S3?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-23T15:54:20.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e364289-a916-4988-ae00-e10f0a56416b",
+            "UserId":"16262",
+            "CloseReasonId":null,
+            "PostId":"24670",
+            "PostHistoryTypeId":"3",
+            "Id":"70775",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-06-23T16:15:54.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"55475eb6-17c9-41bc-91b7-0d353d4bff7f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"24670",
+            "PostHistoryTypeId":"5",
+            "Id":"70778",
+            "Text":"> **Possible Duplicate:**  > [What is the right way to close apps in Android?](http:\/\/android.stackexchange.com\/questions\/927\/what-is-the-right-way-to-close-apps-in-android)  After using my Samsung Galaxy S III for a while, closing apps and dialogs with the \"back\" button (front-right), I pressed and held the front-middle button, which brought up a list of _all_ windows and apps I had been using.I suppose that means that they were still running in the background. How to close them properly?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-06-23T16:15:51.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"14227c40-7c98-408b-a992-724cc5d445db",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"24670",
+            "PostHistoryTypeId":"10",
+            "Id":"70779",
+            "Text":"{\"OriginalQuestionIds\":[927],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

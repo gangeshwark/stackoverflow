@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I remove an app from the \u201cMy Android Apps\u201d page?  Is it possible to remove some apps from appearing in \"Other apps in my library\" in \"My Apps\" in Google Play when logged in from my Google Account?",
+    "ViewCount":"7783",
+    "LastActivityDate":"2012-07-29T17:58:46.440",
+    "ClosedDate":"2012-07-29T21:31:50.530",
+    "Title":"Removing Apps from \"Other apps in my library\" in Google Play?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"26637",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16112",
+    "CreationDate":"2012-07-29T17:51:25.887",
+    "FavoriteCount":null,
+    "Id":"26635",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-29T17:51:25.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a556db8-d087-4cc1-ae8e-3f67da1f67e7",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"26635",
+            "PostHistoryTypeId":"2",
+            "Id":"77227",
+            "Text":"Is it possible to remove some apps from appearing in \"Other apps in my library\" in \"My Apps\" in Google Play when logged in from my Google Account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-29T17:51:25.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a556db8-d087-4cc1-ae8e-3f67da1f67e7",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"26635",
+            "PostHistoryTypeId":"1",
+            "Id":"77228",
+            "Text":"Removing Apps from \"Other apps in my library\" in Google Play?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-29T17:51:25.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a556db8-d087-4cc1-ae8e-3f67da1f67e7",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"26635",
+            "PostHistoryTypeId":"3",
+            "Id":"77229",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-29T21:31:50.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2effd3a-133f-488e-8c04-b80606a4ca05",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26635",
+            "PostHistoryTypeId":"5",
+            "Id":"77250",
+            "Text":"> **Possible Duplicate:**  > [How do I remove an app from the \u201cMy Android Apps\u201d page?](http:\/\/android.stackexchange.com\/questions\/22624\/how-do-i-remove-an-app-from-the-my-android-apps-page)  Is it possible to remove some apps from appearing in \"Other apps in my library\" in \"My Apps\" in Google Play when logged in from my Google Account?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-29T21:31:50.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"de520c84-dfa9-40d0-83ab-87b6a3e9d8d0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"26635",
+            "PostHistoryTypeId":"10",
+            "Id":"77251",
+            "Text":"{\"OriginalQuestionIds\":[22624],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

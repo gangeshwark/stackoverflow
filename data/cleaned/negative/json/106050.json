@@ -1,0 +1,71 @@
+{
+    "Body":"I recently moved to the States but kept my old whatsApp account on my phone even though I changed my sim card.. All was fine until my phone was damaged last night and now I have a new phone and I would like to retrieve my old whatsApp account which is linked to a number in Jordan.  Is it even possible to retrieve contacts and history?  ",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-04-20T19:53:32.603",
+    "ClosedDate":"2015-04-20T20:01:07.383",
+    "Title":"Retrieve WhatsApp",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103353",
+    "CreationDate":"2015-04-20T19:53:32.603",
+    "FavoriteCount":null,
+    "Id":"106050",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-20T19:53:32.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"9014b7f0-2637-4c6c-94c7-bdbb55e72090",
+            "UserId":"103353",
+            "CloseReasonId":null,
+            "PostId":"106050",
+            "PostHistoryTypeId":"2",
+            "Id":"346882",
+            "Text":"I recently moved to the States but kept my old whatsApp account on my phone even though I changed my sim card.. All was fine until my phone was damaged last night and now I have a new phone and I would like to retrieve my old whatsApp account which is linked to a number in Jordan.  Is it even possible to retrieve contacts and history?  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-20T19:53:32.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"9014b7f0-2637-4c6c-94c7-bdbb55e72090",
+            "UserId":"103353",
+            "CloseReasonId":null,
+            "PostId":"106050",
+            "PostHistoryTypeId":"1",
+            "Id":"346883",
+            "Text":"Retrieve WhatsApp"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-20T19:53:32.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"9014b7f0-2637-4c6c-94c7-bdbb55e72090",
+            "UserId":"103353",
+            "CloseReasonId":null,
+            "PostId":"106050",
+            "PostHistoryTypeId":"3",
+            "Id":"346884",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-20T20:01:07.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dd96dec-20b6-46e7-9d68-5ebc4411a8e4",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"106050",
+            "PostHistoryTypeId":"10",
+            "Id":"346887",
+            "Text":"{\"OriginalQuestionIds\":[74973],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

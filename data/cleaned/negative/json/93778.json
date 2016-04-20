@@ -1,0 +1,71 @@
+{
+    "Body":"my phone's display is damaged and there's a crack on it's screen too.before getting the phone repaired i need to transfer all the data from the phone to my mac but i am facing a problem while doing this. to transfer the data the phone needs to be unlocked and my phone is locked via a pattern lock. i tried randomly the pattern on the phone's screen but it dint work out. i need an alternative that would help me unlock the phone so that i may transfer all the data. Please help.",
+    "ViewCount":"467",
+    "LastActivityDate":"2015-01-06T22:42:25.290",
+    "ClosedDate":"2015-01-08T20:23:43.633",
+    "Title":"my phone's display is damaged and i need to transfer all the data from the phone but it has a screen lock, what can be done?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87713",
+    "CreationDate":"2015-01-04T10:16:48.760",
+    "FavoriteCount":null,
+    "Id":"93778",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-04T10:16:48.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"46cf1917-ea01-424a-b663-9c5c2e045077",
+            "UserId":"87713",
+            "CloseReasonId":null,
+            "PostId":"93778",
+            "PostHistoryTypeId":"2",
+            "Id":"307465",
+            "Text":"my phone's display is damaged and there's a crack on it's screen too.before getting the phone repaired i need to transfer all the data from the phone to my mac but i am facing a problem while doing this. to transfer the data the phone needs to be unlocked and my phone is locked via a pattern lock. i tried randomly the pattern on the phone's screen but it dint work out. i need an alternative that would help me unlock the phone so that i may transfer all the data. Please help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-04T10:16:48.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"46cf1917-ea01-424a-b663-9c5c2e045077",
+            "UserId":"87713",
+            "CloseReasonId":null,
+            "PostId":"93778",
+            "PostHistoryTypeId":"1",
+            "Id":"307466",
+            "Text":"my phone's display is damaged and i need to transfer all the data from the phone but it has a screen lock, what can be done?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-04T10:16:48.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"46cf1917-ea01-424a-b663-9c5c2e045077",
+            "UserId":"87713",
+            "CloseReasonId":null,
+            "PostId":"93778",
+            "PostHistoryTypeId":"3",
+            "Id":"307467",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-08T20:23:43.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b362bba-206d-4378-a99d-9af46388250d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"93778",
+            "PostHistoryTypeId":"10",
+            "Id":"310216",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

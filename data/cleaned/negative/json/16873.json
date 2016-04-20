@@ -1,0 +1,71 @@
+{
+    "Body":"Has anyone experienced this weird problem with the Android Market when accessing on the phone.Firstly, I'm in Australia, so expect prices for apps to be shown in AUD, but when I first open the Market on my phone...The 'featured' listing prices are in pounds.When viewing say the 'games' list, a search list or drilled down to a specific app, prices are in AUD (but some with incorrect amounts)When going \"directly\" to an app (eg. search 'Doodle Jump') price is listed as 99c (even though on the web-market it shows 10c)Instead of doing a search, if I browse through the game-list and then going into 'Doodle Jump' it shows as 10c...I've cleared market cache and forced stopped it... still see the same problems :Sps. Android Market on the web works fine for me, but just a bit puzzled by the on the phone behaviour.pps. price of 10c is from the 10 billion apps promotion thing Google has going on.",
+    "ViewCount":"118",
+    "LastActivityDate":"2011-12-13T04:08:41.647",
+    "ClosedDate":"2012-12-21T14:17:15.550",
+    "Title":"Market on phone showing different prices to web browser?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3065",
+    "CreationDate":"2011-12-13T04:08:41.647",
+    "FavoriteCount":null,
+    "Id":"16873",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-13T04:08:41.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f16b30f-3d4e-416e-94a0-7495cc3be05a",
+            "UserId":"3065",
+            "CloseReasonId":null,
+            "PostId":"16873",
+            "PostHistoryTypeId":"2",
+            "Id":"45837",
+            "Text":"Has anyone experienced this weird problem with the Android Market when accessing on the phone.Firstly, I'm in Australia, so expect prices for apps to be shown in AUD, but when I first open the Market on my phone... * The 'featured' listing prices are in pounds. * When viewing say the 'games' list, a search list or drilled down to a specific app, prices are in AUD (but some with incorrect amounts) * When going \"directly\" to an app (eg. search 'Doodle Jump') price is listed as 99c (even though on the web-market it shows 10c) * Instead of doing a search, if I browse through the game-list and then going into 'Doodle Jump' it shows as 10c...I've cleared market cache and forced stopped it... still see the same problems :Sps. Android Market on the web works fine for me, but just a bit puzzled by the on the phone behaviour.pps. price of 10c is from the 10 billion apps promotion thing Google has going on."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-13T04:08:41.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f16b30f-3d4e-416e-94a0-7495cc3be05a",
+            "UserId":"3065",
+            "CloseReasonId":null,
+            "PostId":"16873",
+            "PostHistoryTypeId":"1",
+            "Id":"45838",
+            "Text":"Market on phone showing different prices to web browser?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-13T04:08:41.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f16b30f-3d4e-416e-94a0-7495cc3be05a",
+            "UserId":"3065",
+            "CloseReasonId":null,
+            "PostId":"16873",
+            "PostHistoryTypeId":"3",
+            "Id":"45839",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-21T14:17:15.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"71b2d335-99bc-4d76-9b71-ce1aab89e7f7",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"16873",
+            "PostHistoryTypeId":"10",
+            "Id":"108115",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

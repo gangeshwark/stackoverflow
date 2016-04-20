@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why do some of my apps show \u201cUpdate\u201d and some show \u201cUpdate (manual)\u201d?  I have been using Android for a long time now, updating the apps regularly (but not in the \"Allow Automatic Update\" mode).Today, for the first time, I came across this:So, my question is as to what exactly are these \"Manual Updates\" and how do they differ from just \"Updates\"?",
+    "ViewCount":"602",
+    "LastActivityDate":"2013-01-04T21:55:10.500",
+    "ClosedDate":"2013-01-04T21:58:04.977",
+    "Title":"What are \"Manual Updates\" in Google Play Store?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16112",
+    "CreationDate":"2013-01-04T21:55:10.500",
+    "FavoriteCount":null,
+    "Id":"36899",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-04T21:55:10.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b0c52fd-05a8-4971-a654-71b1addd1431",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"36899",
+            "PostHistoryTypeId":"2",
+            "Id":"111669",
+            "Text":"I have been using Android for a long time now, updating the apps regularly (but not in the \"Allow Automatic Update\" mode).Today, for the first time, I came across this:![Option of Manual updates in Google Play Store][1]So, my question is as to what exactly are these \"Manual Updates\" and how do they differ from just \"Updates\"?  [1]: http:\/\/i.stack.imgur.com\/84vrr.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-04T21:55:10.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b0c52fd-05a8-4971-a654-71b1addd1431",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"36899",
+            "PostHistoryTypeId":"1",
+            "Id":"111670",
+            "Text":"What are \"Manual Updates\" in Google Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-04T21:55:10.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b0c52fd-05a8-4971-a654-71b1addd1431",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"36899",
+            "PostHistoryTypeId":"3",
+            "Id":"111671",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-04T21:58:04.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"6dfb4d4a-f05b-41c8-83ab-c6258df43884",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36899",
+            "PostHistoryTypeId":"5",
+            "Id":"111676",
+            "Text":"> **Possible Duplicate:**  > [Why do some of my apps show \u201cUpdate\u201d and some show \u201cUpdate (manual)\u201d?](http:\/\/android.stackexchange.com\/questions\/2958\/why-do-some-of-my-apps-show-update-and-some-show-update-manual)  I have been using Android for a long time now, updating the apps regularly (but not in the \"Allow Automatic Update\" mode).Today, for the first time, I came across this:![Option of Manual updates in Google Play Store][1]So, my question is as to what exactly are these \"Manual Updates\" and how do they differ from just \"Updates\"?  [1]: http:\/\/i.stack.imgur.com\/84vrr.png"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-04T21:58:04.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"81691506-519f-4afd-8e85-b018dd369651",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"36899",
+            "PostHistoryTypeId":"10",
+            "Id":"111677",
+            "Text":"{\"OriginalQuestionIds\":[2958],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

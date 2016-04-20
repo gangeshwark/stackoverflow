@@ -1,0 +1,71 @@
+{
+    "Body":"Can an unlocked phone such as Moto be updated to Marshmellow upon release, or are we stuck waiting for Motorola or the carrier?",
+    "ViewCount":"385",
+    "LastActivityDate":"2015-10-31T22:11:34.680",
+    "ClosedDate":"2015-11-02T17:33:03.670",
+    "Title":"Manual update to marshmallow possible for rooted phone",
+    "LastEditorUserId":null,
+    "Tags":"<6.0-marshmallow>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"134725",
+    "CreationDate":"2015-10-31T21:52:39.767",
+    "FavoriteCount":null,
+    "Id":"127604",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-31T21:52:39.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"4119056e-856e-4d7a-b897-6f6276b6e62e",
+            "UserId":"134725",
+            "CloseReasonId":null,
+            "PostId":"127604",
+            "PostHistoryTypeId":"2",
+            "Id":"419232",
+            "Text":"Can an unlocked phone such as Moto be updated to Marshmellow upon release, or are we stuck waiting for Motorola or the carrier?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-31T21:52:39.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"4119056e-856e-4d7a-b897-6f6276b6e62e",
+            "UserId":"134725",
+            "CloseReasonId":null,
+            "PostId":"127604",
+            "PostHistoryTypeId":"1",
+            "Id":"419233",
+            "Text":"Manual update to marshmallow possible for rooted phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-31T21:52:39.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"4119056e-856e-4d7a-b897-6f6276b6e62e",
+            "UserId":"134725",
+            "CloseReasonId":null,
+            "PostId":"127604",
+            "PostHistoryTypeId":"3",
+            "Id":"419234",
+            "Text":"<6.0-marshmallow>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-02T17:33:03.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ca89ea4-135a-4ec6-bff8-d74b6e7e0a38",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127604",
+            "PostHistoryTypeId":"10",
+            "Id":"419900",
+            "Text":"{\"OriginalQuestionIds\":[110681],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

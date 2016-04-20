@@ -1,0 +1,71 @@
+{
+    "Body":"I share internet connection to my android using usb data cable USB InternetWould the android have same ip address as my pc (I have no idea how to check ip on android as its not wifi address)...?And say in reverse senario, I have cellular internet on android (using sim) and i share the internet to pc using data cable using USB Tethering would they both have same ip?Any info?",
+    "ViewCount":"14",
+    "LastActivityDate":"2016-02-27T08:02:39.003",
+    "ClosedDate":"2016-02-27T08:07:37.103",
+    "Title":"phone shares same internet connection as pc, will their ip address be same?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150445",
+    "CreationDate":"2016-02-27T08:02:39.003",
+    "FavoriteCount":"1",
+    "Id":"138236",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T08:02:39.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"80944c1f-8330-4f18-984e-26d23f84c767",
+            "UserId":"150445",
+            "CloseReasonId":null,
+            "PostId":"138236",
+            "PostHistoryTypeId":"2",
+            "Id":"461900",
+            "Text":"I share internet connection to my android using usb data cable **USB Internet**Would the android have same ip address as my pc (I have no idea how to check ip on android as its not wifi address)...?And say in reverse senario, I have cellular internet on android (using sim) and i share the internet to pc using data cable using **USB Tethering** would they both have same ip?Any info?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T08:02:39.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"80944c1f-8330-4f18-984e-26d23f84c767",
+            "UserId":"150445",
+            "CloseReasonId":null,
+            "PostId":"138236",
+            "PostHistoryTypeId":"1",
+            "Id":"461901",
+            "Text":"phone shares same internet connection as pc, will their ip address be same?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T08:02:39.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"80944c1f-8330-4f18-984e-26d23f84c767",
+            "UserId":"150445",
+            "CloseReasonId":null,
+            "PostId":"138236",
+            "PostHistoryTypeId":"3",
+            "Id":"461902",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T08:07:37.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"10196331-c8b7-4e9c-9080-2d8012c813e5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138236",
+            "PostHistoryTypeId":"10",
+            "Id":"461912",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

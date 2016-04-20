@@ -1,0 +1,83 @@
+{
+    "Body":"Can somebody please help in giving information on how multi-user partition is achieved on android 4.4.I was digging into 4.4 code specific to creating multiple users.There is class called multiUser(added in 4.4 for multi-user) whose members talk with multiUserService to create user space.I am not getting how exactly secure space is created at file system.I have below basic question.1. How FileSystem partition is achieved for multiple users2. How UI part ( Launcher, different screen icons etc)  is developed and when user switch how it reload default users data.",
+    "ViewCount":"4907",
+    "LastActivityDate":"2014-04-07T10:23:55.340",
+    "ClosedDate":"2015-07-31T16:28:37.330",
+    "Title":"Can somebody explain how multi-user is implemented in android 4.4",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"67040",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"57938",
+    "CreationDate":"2014-04-07T07:16:23.420",
+    "FavoriteCount":"3",
+    "Id":"67038",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T07:16:23.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"efb1c794-7918-44f6-9f92-1b55e254f0b1",
+            "UserId":"57938",
+            "CloseReasonId":null,
+            "PostId":"67038",
+            "PostHistoryTypeId":"2",
+            "Id":"228419",
+            "Text":"Can somebody please help in giving information on how multi-user partition is achieved on android 4.4.I was digging into 4.4 code specific to creating multiple users.There is class called multiUser(added in 4.4 for multi-user) whose members talk with multiUserService to create user space.I am not getting how exactly secure space is created at file system.I have below basic question.1. How FileSystem partition is achieved for multiple users2. How UI part ( Launcher, different screen icons etc)  is developed and when user switch how it reload default users data."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T07:16:23.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"efb1c794-7918-44f6-9f92-1b55e254f0b1",
+            "UserId":"57938",
+            "CloseReasonId":null,
+            "PostId":"67038",
+            "PostHistoryTypeId":"1",
+            "Id":"228420",
+            "Text":"Can somebody explain how multi-user is implemented in android 4.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T07:16:23.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"efb1c794-7918-44f6-9f92-1b55e254f0b1",
+            "UserId":"57938",
+            "CloseReasonId":null,
+            "PostId":"67038",
+            "PostHistoryTypeId":"3",
+            "Id":"228421",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/454848958880555008",
+            "CreationDate":"2014-04-12T05:10:17.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"621e89c7-0273-432e-a9b9-cfade8bd11f9",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"67038",
+            "PostHistoryTypeId":"25",
+            "Id":"229619",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-31T16:28:37.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"eca6b335-5141-479d-8020-d684e3c8dd93",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"67038",
+            "PostHistoryTypeId":"10",
+            "Id":"384529",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

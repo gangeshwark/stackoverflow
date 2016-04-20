@@ -1,0 +1,83 @@
+{
+    "Body":"OK, so it seems that (unbelievably) Winamp for Android is so extremely stupidly designed that it can't import M3U playlists.So, I want a player that can import M3U playlists.  I'm running CyanogenMod 7.  I have copied some MP3s I want in a playlist to a directory on the sdcard, and used the \"My Playlist Maker\" app to make an M3U file that references the audio files inside that directory.  Does anyone have some ideas for good music or media players that can import this M3U playlist?An additional requirement is that the player be able to set itself as the default player to be used with Bluetooth - Winamp, for example, has the \"Control headset\" (use Winamp to control the headset) checkbox setting. ",
+    "ViewCount":"17384",
+    "LastActivityDate":"2015-05-03T07:00:34.200",
+    "ClosedDate":"2015-05-03T14:40:18.610",
+    "Title":"Music players that can import M3U playlists?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"23377",
+    "Score":"6",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7031",
+    "CreationDate":"2012-05-23T21:07:43.963",
+    "FavoriteCount":"1",
+    "Id":"23367",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-23T21:07:43.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"292fbf49-05cb-404b-b925-9a82366f848d",
+            "UserId":"7031",
+            "CloseReasonId":null,
+            "PostId":"23367",
+            "PostHistoryTypeId":"2",
+            "Id":"66464",
+            "Text":"OK, so it seems that (unbelievably) Winamp for Android is so extremely stupidly designed that it can't import M3U playlists.So, I want a player that can import M3U playlists.  I'm running CyanogenMod 7.  I have copied some MP3s I want in a playlist to a directory on the sdcard, and used the \"My Playlist Maker\" app to make an M3U file that references the audio files inside that directory.  Does anyone have some ideas for good music or media players that can import this M3U playlist?An additional requirement is that the player be able to set itself as the default player to be used with Bluetooth - Winamp, for example, has the \"Control headset\" (use Winamp to control the headset) checkbox setting. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-23T21:07:43.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"292fbf49-05cb-404b-b925-9a82366f848d",
+            "UserId":"7031",
+            "CloseReasonId":null,
+            "PostId":"23367",
+            "PostHistoryTypeId":"1",
+            "Id":"66465",
+            "Text":"Music players that can import M3U playlists?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-23T21:07:43.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"292fbf49-05cb-404b-b925-9a82366f848d",
+            "UserId":"7031",
+            "CloseReasonId":null,
+            "PostId":"23367",
+            "PostHistoryTypeId":"3",
+            "Id":"66466",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/594847617126932481",
+            "CreationDate":"2015-05-03T12:54:58.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec4c5243-6bb7-4825-a5b1-3477d69d85a4",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"23367",
+            "PostHistoryTypeId":"25",
+            "Id":"352760",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-03T14:40:18.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"b88ac1db-9994-48ea-80bc-fa34100fd038",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"23367",
+            "PostHistoryTypeId":"10",
+            "Id":"352797",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

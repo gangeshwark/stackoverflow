@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to switch off pop up notifications mostly when using hotspot ",
+    "ViewCount":"12",
+    "LastActivityDate":"2016-02-12T05:57:16.187",
+    "ClosedDate":"2016-02-27T04:03:26.603",
+    "Title":"How to stop notification turning on wifi will stop hotspot tabs2",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150960",
+    "CreationDate":"2016-02-12T05:57:16.187",
+    "FavoriteCount":null,
+    "Id":"136863",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T05:57:16.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"786683ca-5430-4892-9cb8-0d0c5421c5cb",
+            "UserId":"150960",
+            "CloseReasonId":null,
+            "PostId":"136863",
+            "PostHistoryTypeId":"2",
+            "Id":"456066",
+            "Text":"Is it possible to switch off pop up notifications mostly when using hotspot "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T05:57:16.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"786683ca-5430-4892-9cb8-0d0c5421c5cb",
+            "UserId":"150960",
+            "CloseReasonId":null,
+            "PostId":"136863",
+            "PostHistoryTypeId":"1",
+            "Id":"456067",
+            "Text":"How to stop notification turning on wifi will stop hotspot tabs2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T05:57:16.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"786683ca-5430-4892-9cb8-0d0c5421c5cb",
+            "UserId":"150960",
+            "CloseReasonId":null,
+            "PostId":"136863",
+            "PostHistoryTypeId":"3",
+            "Id":"456068",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-27T04:03:26.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d26d60d-3f25-4abb-bc7a-7c5d0bd5d620",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"136863",
+            "PostHistoryTypeId":"10",
+            "Id":"461666",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

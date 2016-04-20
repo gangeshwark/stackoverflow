@@ -1,0 +1,71 @@
+{
+    "Body":"I recently got my first Android Device, it's from a company called Verykool, it's a Spark II. And along with the phone, came apps I don't want, and bloatware. However, I did manage to gain root access. I can't seem to find a ROM compatible with the phone. Is there anywhere specific I could find one? Or am I just missing it? One of the apps I want to remove is required since I can't update my device otherwise, and I really want to remove all this. Any help would be appreciated. I'm currently running Android KitKat.",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-05-07T15:35:43.187",
+    "ClosedDate":"2015-05-07T16:26:16.923",
+    "Title":"Question about ROM's for my Specific Device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107779",
+    "CreationDate":"2015-05-07T15:35:43.187",
+    "FavoriteCount":null,
+    "Id":"108724",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T15:35:43.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"57cc30bf-ec39-4887-ba01-c10b195991ae",
+            "UserId":"107779",
+            "CloseReasonId":null,
+            "PostId":"108724",
+            "PostHistoryTypeId":"2",
+            "Id":"354226",
+            "Text":"I recently got my first Android Device, it's from a company called Verykool, it's a Spark II. And along with the phone, came apps I don't want, and bloatware. However, I did manage to gain root access. I can't seem to find a ROM compatible with the phone. Is there anywhere specific I could find one? Or am I just missing it? One of the apps I want to remove is required since I can't update my device otherwise, and I really want to remove all this. Any help would be appreciated. I'm currently running Android KitKat."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T15:35:43.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"57cc30bf-ec39-4887-ba01-c10b195991ae",
+            "UserId":"107779",
+            "CloseReasonId":null,
+            "PostId":"108724",
+            "PostHistoryTypeId":"1",
+            "Id":"354227",
+            "Text":"Question about ROM's for my Specific Device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T15:35:43.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"57cc30bf-ec39-4887-ba01-c10b195991ae",
+            "UserId":"107779",
+            "CloseReasonId":null,
+            "PostId":"108724",
+            "PostHistoryTypeId":"3",
+            "Id":"354228",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-07T16:26:16.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c298567-abdf-4fb7-a3ee-8222e1a4b2a9",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"108724",
+            "PostHistoryTypeId":"10",
+            "Id":"354267",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

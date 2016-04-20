@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  I checked 'use as default' when choosing the default launcher, but now I can't start ADW.Launcher any more  I am trying to switch launchers on my new Samsung Galaxy SII Epic. (Trying GoLauncher and Launcher Pro)For some reason the launcher does not show up in the applications, so I downloaded a launcher switcher and that seemed to work.However after a few minutes and a few clicks back to the home screen, and the original launcher seems to resurrect itself.I have tried killing the original launcher process, but no luck.Does the Epic intentionally prevent you from changing launchers? If I wanted to be restrained I would have bought an iPhone!Any advice would be appreciatedThanks, Victor",
+    "ViewCount":"110",
+    "LastActivityDate":"2012-01-02T16:05:45.303",
+    "ClosedDate":"2012-01-03T15:08:42.483",
+    "Title":"How can I switch launchers on the Samsung Galaxy SII Epic",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2468",
+    "CreationDate":"2012-01-02T16:05:45.303",
+    "FavoriteCount":null,
+    "Id":"17736",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-02T16:05:45.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"00edb754-c859-4d11-bc99-968ca3443f25",
+            "UserId":"2468",
+            "CloseReasonId":null,
+            "PostId":"17736",
+            "PostHistoryTypeId":"2",
+            "Id":"48547",
+            "Text":"I am trying to switch launchers on my new Samsung Galaxy SII Epic. (Trying GoLauncher and Launcher Pro)For some reason the launcher does not show up in the applications, so I downloaded a launcher switcher and that _seemed_ to work.However after a few minutes and a few clicks back to the home screen, and the original launcher seems to resurrect itself.I have tried killing the original launcher process, but no luck.Does the Epic intentionally prevent you from changing launchers? If I wanted to be restrained I would have bought an iPhone!Any advice would be appreciatedThanks, Victor"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-02T16:05:45.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"00edb754-c859-4d11-bc99-968ca3443f25",
+            "UserId":"2468",
+            "CloseReasonId":null,
+            "PostId":"17736",
+            "PostHistoryTypeId":"1",
+            "Id":"48548",
+            "Text":"How can I switch launchers on the Samsung Galaxy SII Epic"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-02T16:05:45.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"00edb754-c859-4d11-bc99-968ca3443f25",
+            "UserId":"2468",
+            "CloseReasonId":null,
+            "PostId":"17736",
+            "PostHistoryTypeId":"3",
+            "Id":"48549",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-01-03T15:08:43.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"b5810099-f0c3-4732-8b14-59ed198e0267",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"17736",
+            "PostHistoryTypeId":"5",
+            "Id":"48704",
+            "Text":"> **Possible Duplicate:**  > [I checked 'use as default' when choosing the default launcher, but now I can't start ADW.Launcher any more](http:\/\/android.stackexchange.com\/questions\/6042\/i-checked-use-as-default-when-choosing-the-default-launcher-but-now-i-cant-s)  I am trying to switch launchers on my new Samsung Galaxy SII Epic. (Trying GoLauncher and Launcher Pro)For some reason the launcher does not show up in the applications, so I downloaded a launcher switcher and that _seemed_ to work.However after a few minutes and a few clicks back to the home screen, and the original launcher seems to resurrect itself.I have tried killing the original launcher process, but no luck.Does the Epic intentionally prevent you from changing launchers? If I wanted to be restrained I would have bought an iPhone!Any advice would be appreciatedThanks, Victor"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-01-03T15:08:42.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"747a99e2-8363-416c-9e7e-d647d7919e69",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"17736",
+            "PostHistoryTypeId":"10",
+            "Id":"48705",
+            "Text":"{\"OriginalQuestionIds\":[6042],\"Voters\":[{\"Id\":15,\"DisplayName\":\"gary comtois\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

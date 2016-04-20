@@ -1,0 +1,83 @@
+{
+    "Body":"Not able to install the .tar file from http:\/\/www.htcdev.com\/devcenter\/downloads\/P10 using ODIN. ODIN says the package is invalid. My mobile is HTC Explorer. Can someone let me know, whether ODIN can be used for other phones other than Samsung or not ? Also why invalid package error popping up on screen ?thanks in advance",
+    "ViewCount":"2160",
+    "LastActivityDate":"2013-03-28T07:55:24.150",
+    "ClosedDate":"2012-11-24T08:31:53.753",
+    "Title":"HTC Explorer .tar ODIN",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-03-28T07:55:24.150",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23966",
+    "CreationDate":"2012-11-22T19:33:56.987",
+    "FavoriteCount":null,
+    "Id":"33908",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T19:33:56.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c8cad3f-7257-45f9-800c-425d0e7b3c36",
+            "UserId":"23966",
+            "CloseReasonId":null,
+            "PostId":"33908",
+            "PostHistoryTypeId":"2",
+            "Id":"100560",
+            "Text":"Not able to install the .tar file from http:\/\/www.htcdev.com\/devcenter\/downloads\/P10 using ODIN. ODIN says the package is invalid. My mobile is HTC Explorer. Can someone let me know, whether ODIN can be used for other phones other than Samsung or not ? Also why invalid package error popping up on screen ?thanks in advance"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T19:33:56.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c8cad3f-7257-45f9-800c-425d0e7b3c36",
+            "UserId":"23966",
+            "CloseReasonId":null,
+            "PostId":"33908",
+            "PostHistoryTypeId":"1",
+            "Id":"100561",
+            "Text":"HTC Explorer .tar ODIN"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T19:33:56.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c8cad3f-7257-45f9-800c-425d0e7b3c36",
+            "UserId":"23966",
+            "CloseReasonId":null,
+            "PostId":"33908",
+            "PostHistoryTypeId":"3",
+            "Id":"100562",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-11-24T08:31:53.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"960b7ec6-d5c1-433f-9c2e-4c5696d48be7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33908",
+            "PostHistoryTypeId":"10",
+            "Id":"100809",
+            "Text":"{\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-03-28T07:55:24.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d82aede-a7f8-49cf-b85b-bb1bd587d8de",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"33908",
+            "PostHistoryTypeId":"6",
+            "Id":"134284",
+            "Text":""
+        }
+    ]
+}

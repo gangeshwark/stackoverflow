@@ -1,0 +1,83 @@
+{
+    "Body":"I swipe apps closed and they still appear to be using memory. Then I use task kill, but I can immediately refresh and they're open again. So I goto manage apps and force stop. Once again if I click back and go back into the app setting it's open again! Why is this and how can I stop it? It's mostly system apps I don't want\/need and I'm afraid to uninstall them and possibly wreck my phone. Already had too many problems fixing errors because of just that. ",
+    "ViewCount":"541",
+    "LastActivityDate":"2014-03-07T23:25:57.783",
+    "ClosedDate":"2014-03-13T12:21:48.140",
+    "Title":"App Memory Hog Problem",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-03-07T23:25:57.783",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"55558",
+    "CreationDate":"2014-03-07T21:20:46.920",
+    "FavoriteCount":null,
+    "Id":"65066",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-07T21:20:46.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"39818b11-8bf5-4ba7-9e9d-5e309c7f9ce5",
+            "UserId":"55558",
+            "CloseReasonId":null,
+            "PostId":"65066",
+            "PostHistoryTypeId":"2",
+            "Id":"221406",
+            "Text":"I swipe apps closed and they still appear to be using memory. Then I use task kill, but I can immediately refresh and they're open again. So I goto manage apps and force stop. Once again if I click back and go back into the app setting it's open again! Why is this and how can I stop it? It's mostly system apps I don't want\/need and I'm afraid to uninstall them and possibly wreck my phone. Already had too many problems fixing errors because of just that. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-07T21:20:46.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"39818b11-8bf5-4ba7-9e9d-5e309c7f9ce5",
+            "UserId":"55558",
+            "CloseReasonId":null,
+            "PostId":"65066",
+            "PostHistoryTypeId":"1",
+            "Id":"221407",
+            "Text":"App Memory Hog Problem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-07T21:20:46.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"39818b11-8bf5-4ba7-9e9d-5e309c7f9ce5",
+            "UserId":"55558",
+            "CloseReasonId":null,
+            "PostId":"65066",
+            "PostHistoryTypeId":"3",
+            "Id":"221408",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-03-07T23:25:57.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ceea814-d228-4a84-a953-59aa225ee25b",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"65066",
+            "PostHistoryTypeId":"6",
+            "Id":"221422",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-13T12:21:48.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad37cc6d-ae43-4e2c-909d-3353f695527f",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"65066",
+            "PostHistoryTypeId":"10",
+            "Id":"222589",
+            "Text":"{\"OriginalQuestionIds\":[30332],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

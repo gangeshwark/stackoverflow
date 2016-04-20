@@ -1,0 +1,83 @@
+{
+    "Body":"I just want to input more shell commands after typing adb shell su, but the terminal just return an \"#\".It appears to be unresponsive to further commands.How can I solve this problem? Recompile the su binary? Any other suggestions?Other information: I use ddmlib to communication with Android phone, if I use device.executeShellCommand(\"su\", receiver), an exception occurs(com.taobao.wireless.testlab.ddmlib.ShellCommandUnresponsiveException). ",
+    "ViewCount":"3576",
+    "LastActivityDate":"2012-09-23T09:26:54.600",
+    "ClosedDate":"2012-09-24T22:19:41.887",
+    "Title":"type \"adb shell su\" in terminal (cmd in win or console in Linux ) let the terminal hang",
+    "LastEditorUserId":"4003",
+    "Tags":"",
+    "LastEditDate":"2012-09-22T21:43:45.873",
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18436",
+    "CreationDate":"2012-08-23T11:22:53.680",
+    "FavoriteCount":null,
+    "Id":"28143",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T11:22:53.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e0cac08-559a-4860-a2e3-fc21c8a89a98",
+            "UserId":"18436",
+            "CloseReasonId":null,
+            "PostId":"28143",
+            "PostHistoryTypeId":"2",
+            "Id":"82151",
+            "Text":"I just want to imput more shell command after typing \"adb shell su\", but the terminal just return an \"#\" , nothing could be typed any more by keyboard. it is hang.I want to solve the problem, thricks? recompile the \"su\"?  any other suggestions.other info : I use ddmlib to communication with Android phone, if I use device.executeShellCommand(\"su\", receiver), exction will occurs(com.taobao.wireless.testlab.ddmlib.ShellCommandUnresponsiveException), I think that should be the same reason.Thanks advantage."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T11:22:53.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e0cac08-559a-4860-a2e3-fc21c8a89a98",
+            "UserId":"18436",
+            "CloseReasonId":null,
+            "PostId":"28143",
+            "PostHistoryTypeId":"1",
+            "Id":"82152",
+            "Text":"type \"adb shell su\" in terminal (cmd in win or console in Linux ) let the terminal hang"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T11:22:53.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e0cac08-559a-4860-a2e3-fc21c8a89a98",
+            "UserId":"18436",
+            "CloseReasonId":null,
+            "PostId":"28143",
+            "PostHistoryTypeId":"3",
+            "Id":"82153",
+            "Text":""
+        },
+        {
+            "Comment":"Reformatted the question",
+            "CreationDate":"2012-09-22T21:43:45.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"314d5419-0f9e-4d1c-8ca0-47e9a9457507",
+            "UserId":"4003",
+            "CloseReasonId":null,
+            "PostId":"28143",
+            "PostHistoryTypeId":"5",
+            "Id":"88959",
+            "Text":"I just want to input more shell commands after typing `adb shell su`, but the terminal just return an \"#\".It appears to be unresponsive to further commands.How can I solve this problem? Recompile the `su` binary? Any other suggestions?Other information: I use `ddmlib` to communication with Android phone, if I use `device.executeShellCommand(\"su\", receiver)`, an exception occurs(*com.taobao.wireless.testlab.ddmlib.ShellCommandUnresponsiveException*). "
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-09-24T22:19:41.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"7cdf30b3-218a-424d-9da3-5ab3e15dbeda",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28143",
+            "PostHistoryTypeId":"10",
+            "Id":"89269",
+            "Text":"{\"Voters\":[{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

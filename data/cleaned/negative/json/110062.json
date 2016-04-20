@@ -1,0 +1,71 @@
+{
+    "Body":"My girlfriend deleted a video she didn't want to delete. It has been about 2 weeks since she deleted it, and she has been trying to not fill the phone up with stuff just in case we have a shot at recovering the video. Will installing Dumpster help?",
+    "ViewCount":"17",
+    "LastActivityDate":"2015-05-22T16:27:45.370",
+    "ClosedDate":"2015-05-22T16:54:29.823",
+    "Title":"how can I recover a deleted video on Android 4?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"109710",
+    "CreationDate":"2015-05-22T16:27:45.370",
+    "FavoriteCount":null,
+    "Id":"110062",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T16:27:45.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"424158ff-7b2c-4d67-9d4d-d1ac5dac9ed6",
+            "UserId":"109710",
+            "CloseReasonId":null,
+            "PostId":"110062",
+            "PostHistoryTypeId":"2",
+            "Id":"359343",
+            "Text":"My girlfriend deleted a video she didn't want to delete. It has been about 2 weeks since she deleted it, and she has been trying to not fill the phone up with stuff just in case we have a shot at recovering the video. Will installing Dumpster help?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T16:27:45.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"424158ff-7b2c-4d67-9d4d-d1ac5dac9ed6",
+            "UserId":"109710",
+            "CloseReasonId":null,
+            "PostId":"110062",
+            "PostHistoryTypeId":"1",
+            "Id":"359344",
+            "Text":"how can I recover a deleted video on Android 4?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T16:27:45.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"424158ff-7b2c-4d67-9d4d-d1ac5dac9ed6",
+            "UserId":"109710",
+            "CloseReasonId":null,
+            "PostId":"110062",
+            "PostHistoryTypeId":"3",
+            "Id":"359345",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-22T16:54:29.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"523dffa7-795e-46b8-9749-16e77099349b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"110062",
+            "PostHistoryTypeId":"10",
+            "Id":"359355",
+            "Text":"{\"OriginalQuestionIds\":[15869],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

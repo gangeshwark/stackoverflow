@@ -1,0 +1,71 @@
+{
+    "Body":"I have a friend on what's app I cannot only see his last seen status, I was able to see it & since a week now I cant see his last seen status. Although I can see when he is online. Message is send me are delivered as I see the double check mark, so don't think he has blocked me, but not sure why I cant view his last status, I can see my other friends status, but not his????",
+    "ViewCount":"1385",
+    "LastActivityDate":"2014-04-07T15:14:15.967",
+    "ClosedDate":"2014-04-08T05:17:18.063",
+    "Title":"Whats app last seen status not visible",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"57987",
+    "CreationDate":"2014-04-07T14:51:23.793",
+    "FavoriteCount":null,
+    "Id":"67068",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T14:51:23.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5adfe8a-ead8-4f19-ab3c-1c64716e8787",
+            "UserId":"57987",
+            "CloseReasonId":null,
+            "PostId":"67068",
+            "PostHistoryTypeId":"2",
+            "Id":"228522",
+            "Text":"I have a friend on what's app I cannot only see his last seen status, I was able to see it & since a week now I cant see his last seen status. Although I can see when he is online. Message is send me are delivered as I see the double check mark, so don't think he has blocked me, but not sure why I cant view his last status, I can see my other friends status, but not his????"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T14:51:23.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5adfe8a-ead8-4f19-ab3c-1c64716e8787",
+            "UserId":"57987",
+            "CloseReasonId":null,
+            "PostId":"67068",
+            "PostHistoryTypeId":"1",
+            "Id":"228523",
+            "Text":"Whats app last seen status not visible"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T14:51:23.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5adfe8a-ead8-4f19-ab3c-1c64716e8787",
+            "UserId":"57987",
+            "CloseReasonId":null,
+            "PostId":"67068",
+            "PostHistoryTypeId":"3",
+            "Id":"228524",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-08T05:17:18.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"28fd2b38-cbed-487b-8940-1c491c32a7a1",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"67068",
+            "PostHistoryTypeId":"10",
+            "Id":"228645",
+            "Text":"{\"OriginalQuestionIds\":[45834],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

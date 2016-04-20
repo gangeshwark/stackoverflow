@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I install Android on my non-Android device?  I would install Android (no matter the version) on my Nokia 5800 Xpress Music. Is It possible? Someone ever tried to do this?",
+    "ViewCount":"3450",
+    "LastActivityDate":"2012-03-14T13:16:29.163",
+    "ClosedDate":"2012-03-14T15:38:34.697",
+    "Title":"Install android on Nokia",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13389",
+    "CreationDate":"2012-03-14T13:10:46.253",
+    "FavoriteCount":null,
+    "Id":"20602",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-14T13:10:46.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"392838a4-4c3c-4e00-b26d-d761e13c1006",
+            "UserId":"13389",
+            "CloseReasonId":null,
+            "PostId":"20602",
+            "PostHistoryTypeId":"2",
+            "Id":"57441",
+            "Text":"I would install Android (no matter the version) on my Nokia 5800 Xpress Music. Is It possible? Someone ever tried to do this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-14T13:10:46.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"392838a4-4c3c-4e00-b26d-d761e13c1006",
+            "UserId":"13389",
+            "CloseReasonId":null,
+            "PostId":"20602",
+            "PostHistoryTypeId":"1",
+            "Id":"57442",
+            "Text":"Install android on Nokia"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-14T13:10:46.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"392838a4-4c3c-4e00-b26d-d761e13c1006",
+            "UserId":"13389",
+            "CloseReasonId":null,
+            "PostId":"20602",
+            "PostHistoryTypeId":"3",
+            "Id":"57443",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-14T15:38:35.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"56b88d71-c07a-4486-a809-adcfd8c5224f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20602",
+            "PostHistoryTypeId":"5",
+            "Id":"57464",
+            "Text":"> **Possible Duplicate:**  > [Can I install Android on my non-Android device?](http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-device)  I would install Android (no matter the version) on my Nokia 5800 Xpress Music. Is It possible? Someone ever tried to do this?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-14T15:38:34.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"ece1d3ce-d7db-4565-ba6e-fa944a5f4b0d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20602",
+            "PostHistoryTypeId":"10",
+            "Id":"57465",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

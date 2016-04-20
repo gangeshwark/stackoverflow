@@ -1,0 +1,71 @@
+{
+    "Body":"If I update android apps over Google play store on a rooted phone will my android apps get updated or is it illegal to update or will my phone get damaged.",
+    "ViewCount":"53",
+    "LastActivityDate":"2015-10-17T23:19:45.373",
+    "ClosedDate":"2015-10-18T04:35:12.623",
+    "Title":"What will happen if I update android apps over internet on a rooted phone on Google play store",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"132536",
+    "CreationDate":"2015-10-17T22:37:27.470",
+    "FavoriteCount":null,
+    "Id":"126241",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-17T22:37:27.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f0c2d6e-05c9-4fb9-9ca6-265f7e731ccb",
+            "UserId":"132536",
+            "CloseReasonId":null,
+            "PostId":"126241",
+            "PostHistoryTypeId":"2",
+            "Id":"414134",
+            "Text":"If I update android apps over Google play store on a rooted phone will my android apps get updated or is it illegal to update or will my phone get damaged."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-17T22:37:27.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f0c2d6e-05c9-4fb9-9ca6-265f7e731ccb",
+            "UserId":"132536",
+            "CloseReasonId":null,
+            "PostId":"126241",
+            "PostHistoryTypeId":"1",
+            "Id":"414135",
+            "Text":"What will happen if I update android apps over internet on a rooted phone on Google play store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-17T22:37:27.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f0c2d6e-05c9-4fb9-9ca6-265f7e731ccb",
+            "UserId":"132536",
+            "CloseReasonId":null,
+            "PostId":"126241",
+            "PostHistoryTypeId":"3",
+            "Id":"414136",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-10-18T04:35:12.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"a85aed2f-b8ad-4f57-95c8-b4eb22150f4b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"126241",
+            "PostHistoryTypeId":"10",
+            "Id":"414224",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

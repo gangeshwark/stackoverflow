@@ -1,0 +1,71 @@
+{
+    "Body":"I have Google Play seller's account (with less than $100, so it can not be transferred to my bank account). Can I use these money to buy applications at Google Play?",
+    "ViewCount":"81",
+    "LastActivityDate":"2012-10-20T05:34:41.837",
+    "ClosedDate":"2012-12-07T15:18:12.277",
+    "Title":"How to pay on Google Play from Seller's account?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22655",
+    "CreationDate":"2012-10-20T05:34:41.837",
+    "FavoriteCount":null,
+    "Id":"32105",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-20T05:34:41.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf2c4f1c-372b-431d-b68d-19151cbeb950",
+            "UserId":"22655",
+            "CloseReasonId":null,
+            "PostId":"32105",
+            "PostHistoryTypeId":"2",
+            "Id":"94854",
+            "Text":"I have Google Play seller's account (with less than $100, so it can not be transferred to my bank account). Can I use these money to buy applications at Google Play?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-20T05:34:41.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf2c4f1c-372b-431d-b68d-19151cbeb950",
+            "UserId":"22655",
+            "CloseReasonId":null,
+            "PostId":"32105",
+            "PostHistoryTypeId":"1",
+            "Id":"94855",
+            "Text":"How to pay on Google Play from Seller's account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-20T05:34:41.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf2c4f1c-372b-431d-b68d-19151cbeb950",
+            "UserId":"22655",
+            "CloseReasonId":null,
+            "PostId":"32105",
+            "PostHistoryTypeId":"3",
+            "Id":"94856",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-12-07T15:18:12.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f42c736-1c3a-4c73-bc3a-bf629355350d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32105",
+            "PostHistoryTypeId":"10",
+            "Id":"104238",
+            "Text":"{\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have an Xperia U[GB] and there are certain apps which do not work on it[device is not rooted shows up everytime I try to open these apps]. So what exactly does it mean by rooted device. Should I root my device? Does it have any negative implications?Also I still haven't updated it to ICS,since I've been told that Xperia U doesn't perform well with ICS.So should I upgrade it?",
+    "ViewCount":"380",
+    "LastActivityDate":"2014-05-21T12:58:27.027",
+    "ClosedDate":"2014-05-21T14:40:10.630",
+    "Title":"what is rooting? Should I upgrade my Xperia U from GB to ICS?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"61176",
+    "CreationDate":"2014-05-21T12:29:51.007",
+    "FavoriteCount":null,
+    "Id":"69734",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-21T12:29:51.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"4008c84a-eea9-4b92-a52c-3e2fe4f7cfae",
+            "UserId":"61176",
+            "CloseReasonId":null,
+            "PostId":"69734",
+            "PostHistoryTypeId":"2",
+            "Id":"237975",
+            "Text":"I have an Xperia U[GB] and there are certain apps which do not work on it[device is not rooted shows up everytime I try to open these apps]. So what exactly does it mean by rooted device. Should I root my device? Does it have any negative implications?Also I still haven't updated it to ICS,since I've been told that Xperia U doesn't perform well with ICS.So should I upgrade it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-21T12:29:51.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"4008c84a-eea9-4b92-a52c-3e2fe4f7cfae",
+            "UserId":"61176",
+            "CloseReasonId":null,
+            "PostId":"69734",
+            "PostHistoryTypeId":"1",
+            "Id":"237976",
+            "Text":"what is rooting? Should I upgrade my Xperia U from GB to ICS?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-21T12:29:51.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"4008c84a-eea9-4b92-a52c-3e2fe4f7cfae",
+            "UserId":"61176",
+            "CloseReasonId":null,
+            "PostId":"69734",
+            "PostHistoryTypeId":"3",
+            "Id":"237977",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-21T14:40:10.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"da2c253a-f04b-4e20-811e-868646de73fc",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"69734",
+            "PostHistoryTypeId":"10",
+            "Id":"237999",
+            "Text":"{\"OriginalQuestionIds\":[236],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

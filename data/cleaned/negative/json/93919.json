@@ -1,0 +1,71 @@
+{
+    "Body":"My glass screen in LG L90 (d405 or d405n, i don't think there's a difference other than NFC) broke.Bought a new glass screen with digitizer for d405. It looks exactly the same as the old one (hence I know it should be compatible).I've replaced it. Touch didn't work. The old one (broken one) works.I've sent it back because I thought it's damaged, they've sent me back a new one. Still didn't work (the old one still works).I've bought a new one from a different vendor... still doesn't work. The old one still works.what could be the problem here ? What should I do ?",
+    "ViewCount":"606",
+    "LastActivityDate":"2015-02-17T08:26:42.540",
+    "ClosedDate":"2015-02-18T05:13:58.330",
+    "Title":"LG L90 glass digitizer replacement doesn't work. The old one works",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"99048",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87875",
+    "CreationDate":"2015-01-05T13:04:40.503",
+    "FavoriteCount":null,
+    "Id":"93919",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-05T13:04:40.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"82a431d3-fdfa-4277-9276-6089bd8c6952",
+            "UserId":"87875",
+            "CloseReasonId":null,
+            "PostId":"93919",
+            "PostHistoryTypeId":"2",
+            "Id":"307944",
+            "Text":"My glass screen in LG L90 (d405 or d405n, i don't think there's a difference other than NFC) broke.Bought a new glass screen with digitizer for d405. It looks exactly the same as the old one (hence I know it should be compatible). 1. I've replaced it. Touch didn't work. The old one (broken one) works. 2. I've sent it back because I thought it's damaged, they've sent me back a new one. Still didn't work (the old one still works). 3. I've bought a new one from a different vendor... still doesn't work. The old one still works.what could be the problem here ? What should I do ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-05T13:04:40.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"82a431d3-fdfa-4277-9276-6089bd8c6952",
+            "UserId":"87875",
+            "CloseReasonId":null,
+            "PostId":"93919",
+            "PostHistoryTypeId":"1",
+            "Id":"307945",
+            "Text":"LG L90 glass digitizer replacement doesn't work. The old one works"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-05T13:04:40.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"82a431d3-fdfa-4277-9276-6089bd8c6952",
+            "UserId":"87875",
+            "CloseReasonId":null,
+            "PostId":"93919",
+            "PostHistoryTypeId":"3",
+            "Id":"307946",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2015-02-18T05:13:58.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4f05ec3-f5d8-4700-99ea-141a68ebb5dc",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"93919",
+            "PostHistoryTypeId":"10",
+            "Id":"325086",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

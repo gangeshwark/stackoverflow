@@ -1,0 +1,71 @@
+{
+    "Body":"As far as I know, every Android phone has a stock recovery. Where is this recovery usually stored? On a separate partition in internal storage(usually an eMMC memory chip)?",
+    "ViewCount":"22",
+    "LastActivityDate":"2015-07-20T15:20:35.717",
+    "ClosedDate":"2015-07-20T17:05:11.437",
+    "Title":"Where is the recovery installed on Android phones?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117584",
+    "CreationDate":"2015-07-20T15:20:35.717",
+    "FavoriteCount":null,
+    "Id":"115823",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T15:20:35.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"d10aca04-4496-423b-b456-2b4079cc1efc",
+            "UserId":"117584",
+            "CloseReasonId":null,
+            "PostId":"115823",
+            "PostHistoryTypeId":"2",
+            "Id":"380557",
+            "Text":"As far as I know, every Android phone has a stock recovery. Where is this recovery usually stored? On a separate partition in internal storage(usually an eMMC memory chip)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T15:20:35.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"d10aca04-4496-423b-b456-2b4079cc1efc",
+            "UserId":"117584",
+            "CloseReasonId":null,
+            "PostId":"115823",
+            "PostHistoryTypeId":"1",
+            "Id":"380558",
+            "Text":"Where is the recovery installed on Android phones?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T15:20:35.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"d10aca04-4496-423b-b456-2b4079cc1efc",
+            "UserId":"117584",
+            "CloseReasonId":null,
+            "PostId":"115823",
+            "PostHistoryTypeId":"3",
+            "Id":"380559",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-20T17:05:11.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"61d46b8f-7bbd-4e6a-b9b3-72ce05217bbe",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115823",
+            "PostHistoryTypeId":"10",
+            "Id":"380614",
+            "Text":"{\"OriginalQuestionIds\":[46926],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

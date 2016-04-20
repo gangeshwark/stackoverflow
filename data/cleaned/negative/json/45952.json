@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to take screenshots freely in a non-rooted Nexus 4 mobile? How?",
+    "ViewCount":"114",
+    "LastActivityDate":"2013-05-23T09:07:46.877",
+    "ClosedDate":"2013-05-23T10:12:09.723",
+    "Title":"Screenshots in non-rooted Nexus 4?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"45953",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16112",
+    "CreationDate":"2013-05-23T08:31:32.710",
+    "FavoriteCount":null,
+    "Id":"45952",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T08:31:32.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f67620e-b981-4cf0-aa6d-97f6fc774d19",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"45952",
+            "PostHistoryTypeId":"2",
+            "Id":"148272",
+            "Text":"Is it possible to take screenshots freely in a non-rooted Nexus 4 mobile? How?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T08:31:32.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f67620e-b981-4cf0-aa6d-97f6fc774d19",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"45952",
+            "PostHistoryTypeId":"1",
+            "Id":"148273",
+            "Text":"Screenshots in non-rooted Nexus 4?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-23T08:31:32.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f67620e-b981-4cf0-aa6d-97f6fc774d19",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"45952",
+            "PostHistoryTypeId":"3",
+            "Id":"148274",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-23T10:12:09.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"c70abc42-23f1-4224-b81b-2d675f19ea37",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"45952",
+            "PostHistoryTypeId":"10",
+            "Id":"148322",
+            "Text":"{\"OriginalQuestionIds\":[1759],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

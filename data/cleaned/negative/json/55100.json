@@ -1,0 +1,83 @@
+{
+    "Body":"Most of the time, I have enough power for my Samsung Galaxy SIII to operate for the whole day; at the end of the day my battery charge is about 35%. However, today, the battery died prematurely. I noticed the battery usage screen, and it says that 28% of the battery is used by the Android OS. How could this have happened?EDIT: My question has been marked as a duplicate, but the target does not have any solution, so those answers do not fully address my question. Though I agree in the fact that this question is the same as the target.",
+    "ViewCount":"45",
+    "LastActivityDate":"2013-10-17T01:44:17.573",
+    "ClosedDate":"2013-10-15T09:21:26.150",
+    "Title":"Why does the Android OS use so much battery power?",
+    "LastEditorUserId":"33471",
+    "Tags":"",
+    "LastEditDate":"2013-10-17T01:44:17.573",
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33471",
+    "CreationDate":"2013-10-14T23:40:39.420",
+    "FavoriteCount":null,
+    "Id":"55100",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-14T23:40:39.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"14e81a0a-e607-4948-8f75-7955bbaae35e",
+            "UserId":"33471",
+            "CloseReasonId":null,
+            "PostId":"55100",
+            "PostHistoryTypeId":"2",
+            "Id":"182962",
+            "Text":"Most of the time, I have enough power for my Samsung Galaxy SIII to operate for the whole day; at the end of the day my battery charge is about 35%. However, today, the battery died prematurely. I noticed the battery usage screen, and it says that 28% of the battery is used by the Android OS. How could this have happened?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-14T23:40:39.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"14e81a0a-e607-4948-8f75-7955bbaae35e",
+            "UserId":"33471",
+            "CloseReasonId":null,
+            "PostId":"55100",
+            "PostHistoryTypeId":"1",
+            "Id":"182963",
+            "Text":"Why does the Android OS use so much battery power?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-14T23:40:39.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"14e81a0a-e607-4948-8f75-7955bbaae35e",
+            "UserId":"33471",
+            "CloseReasonId":null,
+            "PostId":"55100",
+            "PostHistoryTypeId":"3",
+            "Id":"182964",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-15T09:21:26.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"59c21910-6a1b-4b84-ab65-afb684d167dd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"55100",
+            "PostHistoryTypeId":"10",
+            "Id":"183038",
+            "Text":"{\"OriginalQuestionIds\":[12347],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"}]}"
+        },
+        {
+            "Comment":"added 224 characters in body",
+            "CreationDate":"2013-10-17T01:44:17.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"edeac6ae-5cef-4d54-96dc-51e73eb77d5c",
+            "UserId":"33471",
+            "CloseReasonId":null,
+            "PostId":"55100",
+            "PostHistoryTypeId":"5",
+            "Id":"183447",
+            "Text":"Most of the time, I have enough power for my Samsung Galaxy SIII to operate for the whole day; at the end of the day my battery charge is about 35%. However, today, the battery died prematurely. I noticed the battery usage screen, and it says that 28% of the battery is used by the Android OS. How could this have happened?**EDIT:** My question has been marked as a duplicate, but the target does not have any solution, so those answers do not fully address my question. Though I agree in the fact that this question is the same as the target."
+        }
+    ]
+}

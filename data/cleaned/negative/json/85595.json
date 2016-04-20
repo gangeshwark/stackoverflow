@@ -1,0 +1,71 @@
+{
+    "Body":"I want to install the Nexus Hammerhead flash image on my Samsung Galaxy S Duos. Is this possible and if so is it safe?",
+    "ViewCount":"58",
+    "LastActivityDate":"2014-10-23T11:21:06.403",
+    "ClosedDate":"2014-10-23T13:29:22.980",
+    "Title":"Installing flash images on an unrecommended device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"77409",
+    "CreationDate":"2014-10-23T11:21:06.403",
+    "FavoriteCount":null,
+    "Id":"85595",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-23T11:21:06.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"98ef084e-f2b3-4419-a066-7947ecbcebb4",
+            "UserId":"77409",
+            "CloseReasonId":null,
+            "PostId":"85595",
+            "PostHistoryTypeId":"2",
+            "Id":"281331",
+            "Text":"I want to install the Nexus Hammerhead flash image on my Samsung Galaxy S Duos. Is this possible and if so is it safe?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-23T11:21:06.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"98ef084e-f2b3-4419-a066-7947ecbcebb4",
+            "UserId":"77409",
+            "CloseReasonId":null,
+            "PostId":"85595",
+            "PostHistoryTypeId":"1",
+            "Id":"281332",
+            "Text":"Installing flash images on an unrecommended device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-23T11:21:06.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"98ef084e-f2b3-4419-a066-7947ecbcebb4",
+            "UserId":"77409",
+            "CloseReasonId":null,
+            "PostId":"85595",
+            "PostHistoryTypeId":"3",
+            "Id":"281333",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-23T13:29:22.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"d686687a-7bf2-40e6-8fd9-220c0820549f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"85595",
+            "PostHistoryTypeId":"10",
+            "Id":"281373",
+            "Text":"{\"OriginalQuestionIds\":[35925,75344],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

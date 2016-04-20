@@ -1,0 +1,71 @@
+{
+    "Body":"I've got a samsung galaxy tab 8, and a few days ago it started making a notification sound but with no notification banner.. I don't know what app is doing it and I didn't install anything around the time in started..Is there a way to trace this back to the source app somehow?Thanks",
+    "ViewCount":"1114",
+    "LastActivityDate":"2015-09-19T00:51:08.690",
+    "ClosedDate":"2014-07-07T16:31:09.530",
+    "Title":"Find out which app is making notification sounds?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65718",
+    "CreationDate":"2014-07-07T12:42:02.120",
+    "FavoriteCount":null,
+    "Id":"75730",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-07T12:42:02.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"80137925-4a84-4986-a0d0-bdae898558c4",
+            "UserId":"65718",
+            "CloseReasonId":null,
+            "PostId":"75730",
+            "PostHistoryTypeId":"2",
+            "Id":"251757",
+            "Text":"I've got a samsung galaxy tab 8, and a few days ago it started making a notification sound but with no notification banner.. I don't know what app is doing it and I didn't install anything around the time in started..Is there a way to trace this back to the source app somehow?Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-07T12:42:02.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"80137925-4a84-4986-a0d0-bdae898558c4",
+            "UserId":"65718",
+            "CloseReasonId":null,
+            "PostId":"75730",
+            "PostHistoryTypeId":"1",
+            "Id":"251758",
+            "Text":"Find out which app is making notification sounds?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-07T12:42:02.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"80137925-4a84-4986-a0d0-bdae898558c4",
+            "UserId":"65718",
+            "CloseReasonId":null,
+            "PostId":"75730",
+            "PostHistoryTypeId":"3",
+            "Id":"251759",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-07T16:31:09.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"76d35bbe-2811-400e-a7bf-d4ca712c6d3a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"75730",
+            "PostHistoryTypeId":"10",
+            "Id":"251879",
+            "Text":"{\"OriginalQuestionIds\":[62749],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

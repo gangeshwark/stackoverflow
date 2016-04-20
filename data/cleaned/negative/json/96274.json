@@ -1,0 +1,71 @@
+{
+    "Body":"I accidentally forgot the password for my Galaxy S3 Neo (i9301i). People suggested I make a new one by locking it from Android Device Manager. However, when I send a new password to my device, the Samsung logo appears, similar to booting but faster. After that when I try to use the new password it rejects it. How should I proceed (I'm not rooted btw)? ",
+    "ViewCount":"741",
+    "LastActivityDate":"2015-01-19T17:45:57.913",
+    "ClosedDate":"2015-01-21T09:11:26.330",
+    "Title":"Android Device Manager password reset doesn't work",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"90654",
+    "CreationDate":"2015-01-19T10:11:01.863",
+    "FavoriteCount":null,
+    "Id":"96274",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-19T10:11:01.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"161e5009-4ebb-4236-b945-82da6a66acb7",
+            "UserId":"90654",
+            "CloseReasonId":null,
+            "PostId":"96274",
+            "PostHistoryTypeId":"2",
+            "Id":"313602",
+            "Text":"I accidentally forgot the password for my Galaxy S3 Neo (i9301i). People suggested I make a new one by locking it from Android Device Manager. However, when I send a new password to my device, the Samsung logo appears, similar to booting but faster. After that when I try to use the new password it rejects it. How should I proceed (I'm not rooted btw)? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-19T10:11:01.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"161e5009-4ebb-4236-b945-82da6a66acb7",
+            "UserId":"90654",
+            "CloseReasonId":null,
+            "PostId":"96274",
+            "PostHistoryTypeId":"1",
+            "Id":"313603",
+            "Text":"Android Device Manager password reset doesn't work"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-19T10:11:01.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"161e5009-4ebb-4236-b945-82da6a66acb7",
+            "UserId":"90654",
+            "CloseReasonId":null,
+            "PostId":"96274",
+            "PostHistoryTypeId":"3",
+            "Id":"313604",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-21T09:11:26.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"de1f9e7b-e217-4ac2-b922-ea37b04654ee",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"96274",
+            "PostHistoryTypeId":"10",
+            "Id":"314284",
+            "Text":"{\"OriginalQuestionIds\":[93750],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

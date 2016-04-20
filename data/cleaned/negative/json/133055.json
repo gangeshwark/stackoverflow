@@ -1,0 +1,83 @@
+{
+    "Body":"I just got my Samsung note 5 shipped to my office. And I am wondering if I should charge it full before I turned it on",
+    "ViewCount":"34",
+    "LastActivityDate":"2015-12-31T16:31:02.537",
+    "ClosedDate":"2015-12-31T15:07:10.303",
+    "Title":"is fully charging new phones before turning it on a must?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-12-31T16:31:02.537",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"143989",
+    "CreationDate":"2015-12-31T12:37:36.700",
+    "FavoriteCount":null,
+    "Id":"133055",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-31T12:37:36.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b83a776-9e2e-40e7-9f5f-ebd9fc8a63a7",
+            "UserId":"143989",
+            "CloseReasonId":null,
+            "PostId":"133055",
+            "PostHistoryTypeId":"2",
+            "Id":"440666",
+            "Text":"I just got my Samsung note 5 shipped to my office. And I am wondering if I should charge it full before I turned it on"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-31T12:37:36.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b83a776-9e2e-40e7-9f5f-ebd9fc8a63a7",
+            "UserId":"143989",
+            "CloseReasonId":null,
+            "PostId":"133055",
+            "PostHistoryTypeId":"1",
+            "Id":"440667",
+            "Text":"is fully charging new phones before turning it on a must?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-31T12:37:36.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b83a776-9e2e-40e7-9f5f-ebd9fc8a63a7",
+            "UserId":"143989",
+            "CloseReasonId":null,
+            "PostId":"133055",
+            "PostHistoryTypeId":"3",
+            "Id":"440668",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-12-31T15:07:10.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"8baf37e8-6d3f-4b70-9451-4870733dc3e5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"133055",
+            "PostHistoryTypeId":"10",
+            "Id":"440709",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-12-31T16:31:02.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"071f1748-1b40-4b97-a34e-690b87b4d2d3",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"133055",
+            "PostHistoryTypeId":"6",
+            "Id":"440741",
+            "Text":""
+        }
+    ]
+}

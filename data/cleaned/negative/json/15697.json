@@ -1,0 +1,83 @@
+{
+    "Body":"Since upgrading to Gingerbread, my phone is constantly getting low memory notifications despite having plenty of room. It is causing a number of my applications to fail. I have tried clearing memory but the low memory issue just comes back after a few hours. Anyone seeing the same behavior? Is there any resolution outside of the standard VW \"reformat the phone\" solution?",
+    "ViewCount":"272",
+    "LastActivityDate":"2011-11-16T14:03:54.907",
+    "ClosedDate":"2012-12-30T09:38:08.323",
+    "Title":"Low Memory issues on Droid Incredible after upgrade to Android 2.3.4",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9651",
+    "CreationDate":"2011-11-16T14:03:54.907",
+    "FavoriteCount":null,
+    "Id":"15697",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-16T14:03:54.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"499362d3-3ba0-439b-a688-f998783cd640",
+            "UserId":"9651",
+            "CloseReasonId":null,
+            "PostId":"15697",
+            "PostHistoryTypeId":"2",
+            "Id":"42263",
+            "Text":"Since upgrading to Gingerbread, my phone is constantly getting low memory notifications despite having plenty of room. It is causing a number of my applications to fail. I have tried clearing memory but the low memory issue just comes back after a few hours. Anyone seeing the same behavior? Is there any resolution outside of the standard VW \"reformat the phone\" solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-16T14:03:54.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"499362d3-3ba0-439b-a688-f998783cd640",
+            "UserId":"9651",
+            "CloseReasonId":null,
+            "PostId":"15697",
+            "PostHistoryTypeId":"1",
+            "Id":"42264",
+            "Text":"Low Memory issues on Droid Incredible after upgrade to Android 2.3.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-16T14:03:54.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"499362d3-3ba0-439b-a688-f998783cd640",
+            "UserId":"9651",
+            "CloseReasonId":null,
+            "PostId":"15697",
+            "PostHistoryTypeId":"3",
+            "Id":"42265",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/136992470813773824",
+            "CreationDate":"2011-11-17T02:22:05.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec816638-6fb1-44e8-8a6c-834197f7c5ea",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"15697",
+            "PostHistoryTypeId":"25",
+            "Id":"42338",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-30T09:38:08.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"2469ef7e-b0bb-41c7-a239-fbc9b54b34d6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"15697",
+            "PostHistoryTypeId":"10",
+            "Id":"109987",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"peopleI just installed Cyanogenmod from the installer on my Samsung galaxy s4 and it came with Google-apps Pre-installed.Now i'm not a big fan of Google so i want to get rid of Google-apps how can i do this i know i can flash free-cyan this removes Google analysis and stuff but does not remove Google-apps can someone please tell me how i can remove them.I got root so hopefully someone can help me. Greetings,Nick",
+    "ViewCount":"9703",
+    "LastActivityDate":"2014-06-15T13:42:40.133",
+    "ClosedDate":"2014-06-15T17:10:52.147",
+    "Title":"Remove Gapps from cyanogenmod 11",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64049",
+    "CreationDate":"2014-06-15T08:30:26.203",
+    "FavoriteCount":null,
+    "Id":"73217",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-15T08:30:26.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebe57a82-c183-4fde-a166-d61f85932fad",
+            "UserId":"64049",
+            "CloseReasonId":null,
+            "PostId":"73217",
+            "PostHistoryTypeId":"2",
+            "Id":"245376",
+            "Text":"peopleI just installed Cyanogenmod from the installer on my Samsung galaxy s4 and it came with Google-apps Pre-installed.Now i'm not a big fan of Google so i want to get rid of Google-apps how can i do this i know i can flash free-cyan this removes Google analysis and stuff but does not remove Google-apps can someone please tell me how i can remove them.I got root so hopefully someone can help me. Greetings,Nick"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-15T08:30:26.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebe57a82-c183-4fde-a166-d61f85932fad",
+            "UserId":"64049",
+            "CloseReasonId":null,
+            "PostId":"73217",
+            "PostHistoryTypeId":"1",
+            "Id":"245377",
+            "Text":"Remove Gapps from cyanogenmod 11"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-15T08:30:26.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebe57a82-c183-4fde-a166-d61f85932fad",
+            "UserId":"64049",
+            "CloseReasonId":null,
+            "PostId":"73217",
+            "PostHistoryTypeId":"3",
+            "Id":"245378",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-15T17:10:52.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9806050-b326-45be-9a1e-487cd45387dd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"73217",
+            "PostHistoryTypeId":"10",
+            "Id":"245471",
+            "Text":"{\"OriginalQuestionIds\":[65762],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

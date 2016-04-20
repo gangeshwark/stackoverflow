@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Android market questions  Now if I purchase a comic in google store where will it end up?. Am I able to access the file through a folder and transfer to my computer for better reading?.",
+    "ViewCount":"17",
+    "LastActivityDate":"2012-03-23T14:24:38.877",
+    "ClosedDate":"2012-03-23T15:05:30.413",
+    "Title":"Questions regarding purchasing on google store",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13650",
+    "CreationDate":"2012-03-23T14:24:38.877",
+    "FavoriteCount":null,
+    "Id":"20946",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-23T14:24:38.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9e052c2-e54e-4d4f-85c4-e42a21294347",
+            "UserId":"13650",
+            "CloseReasonId":null,
+            "PostId":"20946",
+            "PostHistoryTypeId":"2",
+            "Id":"58513",
+            "Text":"Now if I purchase a comic in google store where will it end up?. Am I able to access the file through a folder and transfer to my computer for better reading?."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-23T14:24:38.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9e052c2-e54e-4d4f-85c4-e42a21294347",
+            "UserId":"13650",
+            "CloseReasonId":null,
+            "PostId":"20946",
+            "PostHistoryTypeId":"1",
+            "Id":"58514",
+            "Text":"Questions regarding purchasing on google store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-23T14:24:38.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9e052c2-e54e-4d4f-85c4-e42a21294347",
+            "UserId":"13650",
+            "CloseReasonId":null,
+            "PostId":"20946",
+            "PostHistoryTypeId":"3",
+            "Id":"58515",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-23T15:05:31.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"24fd56b4-3198-411d-ab86-52c44e00901e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20946",
+            "PostHistoryTypeId":"5",
+            "Id":"58528",
+            "Text":"> **Possible Duplicate:**  > [Android market questions](http:\/\/android.stackexchange.com\/questions\/20947\/android-market-questions)  Now if I purchase a comic in google store where will it end up?. Am I able to access the file through a folder and transfer to my computer for better reading?."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-23T15:05:30.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"fddbaaa9-4450-4c4e-8667-28898d53b70b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20946",
+            "PostHistoryTypeId":"10",
+            "Id":"58529",
+            "Text":"{\"OriginalQuestionIds\":[20947],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I am using Tasker.  How do i get my phone to turn wifi off when signal is low and turn data back on.  I also want it to check occasionally for a stronger signal.",
+    "ViewCount":"82",
+    "LastActivityDate":"2015-10-08T09:42:16.860",
+    "ClosedDate":"2015-10-23T02:07:31.780",
+    "Title":"switch phone to data when wifi signal is weak",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130991",
+    "CreationDate":"2015-10-08T02:25:44.820",
+    "FavoriteCount":null,
+    "Id":"125296",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T02:25:44.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"4aef33c2-d9ce-45a3-8eca-56c63abf3ec5",
+            "UserId":"130991",
+            "CloseReasonId":null,
+            "PostId":"125296",
+            "PostHistoryTypeId":"2",
+            "Id":"410507",
+            "Text":"I am using Tasker.  How do i get my phone to turn wifi off when signal is low and turn data back on.  I also want it to check occasionally for a stronger signal."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T02:25:44.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"4aef33c2-d9ce-45a3-8eca-56c63abf3ec5",
+            "UserId":"130991",
+            "CloseReasonId":null,
+            "PostId":"125296",
+            "PostHistoryTypeId":"1",
+            "Id":"410508",
+            "Text":"switch phone to data when wifi signal is weak"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T02:25:44.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"4aef33c2-d9ce-45a3-8eca-56c63abf3ec5",
+            "UserId":"130991",
+            "CloseReasonId":null,
+            "PostId":"125296",
+            "PostHistoryTypeId":"3",
+            "Id":"410509",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-23T02:07:31.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"87f54b53-f30e-4e7d-8f29-3452070f7a65",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125296",
+            "PostHistoryTypeId":"10",
+            "Id":"416187",
+            "Text":"{\"OriginalQuestionIds\":[122992],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

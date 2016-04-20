@@ -1,0 +1,71 @@
+{
+    "Body":"Android 5 \"Lollipop\" has introduced a feature that lets Google Chrome merge its tabs with the recent apps list.I understand how it works and how to close tabs, but I'm not sure if that's really the right thing to do. For example, in my opinion, removing apps form your recent apps list isn't really the intended action. The system handles closing apps in the background automatically.Now that Chromes tabs are in this same list, is the idea also that they shouldn't normally be closed by the user? This clearly is different from the way Chrome is intended to be used on computers. How would this work with syncing open tabs? (Since they are all still open somewhere far back in your app switcher)",
+    "ViewCount":"179",
+    "LastActivityDate":"2014-12-17T14:58:14.840",
+    "ClosedDate":"2015-01-05T05:42:32.210",
+    "Title":"Is closing Chrome tabs in Lolipop right?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"85380",
+    "CreationDate":"2014-12-17T14:58:14.840",
+    "FavoriteCount":null,
+    "Id":"91972",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-17T14:58:14.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"f71642df-e115-43b3-8a11-8689989b1bb4",
+            "UserId":"85380",
+            "CloseReasonId":null,
+            "PostId":"91972",
+            "PostHistoryTypeId":"2",
+            "Id":"301295",
+            "Text":"Android 5 \"Lollipop\" has introduced a feature that lets Google Chrome merge its tabs with the recent apps list.I understand how it works and how to close tabs, but I'm not sure if that's really the right thing to do. For example, in my opinion, removing apps form your recent apps list isn't really the intended action. The system handles closing apps in the background automatically.Now that Chromes tabs are in this same list, is the idea also that they shouldn't normally be closed by the user? This clearly is different from the way Chrome is intended to be used on computers. How would this work with syncing open tabs? (Since they are all still open somewhere far back in your app switcher)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-17T14:58:14.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"f71642df-e115-43b3-8a11-8689989b1bb4",
+            "UserId":"85380",
+            "CloseReasonId":null,
+            "PostId":"91972",
+            "PostHistoryTypeId":"1",
+            "Id":"301296",
+            "Text":"Is closing Chrome tabs in Lolipop right?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-17T14:58:14.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"f71642df-e115-43b3-8a11-8689989b1bb4",
+            "UserId":"85380",
+            "CloseReasonId":null,
+            "PostId":"91972",
+            "PostHistoryTypeId":"3",
+            "Id":"301297",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2015-01-05T05:42:32.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2205b23-ac04-429a-bbb4-f454bb85674f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"91972",
+            "PostHistoryTypeId":"10",
+            "Id":"307821",
+            "Text":"{\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":23379,\"DisplayName\":\"Sid\"}]}"
+        }
+    ]
+}

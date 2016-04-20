@@ -1,0 +1,71 @@
+{
+    "Body":"Can android device be used as a wired analog OSTN telephone?I have a $70 android-on-a-stick device, which can support USB Ethernet dongleI am thinking if I hook up 100M ethernet with 4 wires, I can hook up two wires for telephone, right?Does android support wired analog signal software telephone? (Or perhaps, softeware fax?)",
+    "ViewCount":"129",
+    "LastActivityDate":"2012-08-12T03:02:51.743",
+    "ClosedDate":"2012-12-23T06:42:09.000",
+    "Title":"Can android be used as wired analog OSTN telephone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9413",
+    "CreationDate":"2012-08-12T03:02:51.743",
+    "FavoriteCount":null,
+    "Id":"27460",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-12T03:02:51.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0fc538c-110b-41fc-ab34-9c5604247e34",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"27460",
+            "PostHistoryTypeId":"2",
+            "Id":"79696",
+            "Text":"Can android device be used as a wired analog OSTN telephone?I have a $70 android-on-a-stick device, which can support USB Ethernet dongleI am thinking if I hook up 100M ethernet with 4 wires, I can hook up two wires for telephone, right?Does android support wired analog signal software telephone? (Or perhaps, softeware fax?)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-12T03:02:51.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0fc538c-110b-41fc-ab34-9c5604247e34",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"27460",
+            "PostHistoryTypeId":"1",
+            "Id":"79697",
+            "Text":"Can android be used as wired analog OSTN telephone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-12T03:02:51.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0fc538c-110b-41fc-ab34-9c5604247e34",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"27460",
+            "PostHistoryTypeId":"3",
+            "Id":"79698",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T06:42:09.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"257e6e17-e2d9-4ab1-826a-ebc3a5969ca2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27460",
+            "PostHistoryTypeId":"10",
+            "Id":"108411",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I am newbie in android, I have a very simple question for android experts:-\" Is it possible to call GSM AT-Commands in android just like we use in microcontroller programming through USART\".",
+    "ViewCount":"1549",
+    "LastActivityDate":"2014-11-10T12:17:06.873",
+    "ClosedDate":"2014-11-10T17:24:18.653",
+    "Title":"Is it possible to call AT-commands in android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"78480",
+    "CreationDate":"2014-11-10T11:58:01.583",
+    "FavoriteCount":"1",
+    "Id":"87263",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T11:58:01.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0fbf3e8-e204-42d4-90fe-4ae1654a47ec",
+            "UserId":"78480",
+            "CloseReasonId":null,
+            "PostId":"87263",
+            "PostHistoryTypeId":"2",
+            "Id":"287011",
+            "Text":"I am newbie in android, I have a very simple question for android experts:-\" Is it possible to call GSM AT-Commands in android just like we use in microcontroller programming through USART\"."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T11:58:01.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0fbf3e8-e204-42d4-90fe-4ae1654a47ec",
+            "UserId":"78480",
+            "CloseReasonId":null,
+            "PostId":"87263",
+            "PostHistoryTypeId":"1",
+            "Id":"287012",
+            "Text":"Is it possible to call AT-commands in android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T11:58:01.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0fbf3e8-e204-42d4-90fe-4ae1654a47ec",
+            "UserId":"78480",
+            "CloseReasonId":null,
+            "PostId":"87263",
+            "PostHistoryTypeId":"3",
+            "Id":"287013",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-10T17:24:18.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb138d31-1eed-41b4-94bb-9c4c0252670a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"87263",
+            "PostHistoryTypeId":"10",
+            "Id":"287103",
+            "Text":"{\"OriginalQuestionIds\":[50785],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

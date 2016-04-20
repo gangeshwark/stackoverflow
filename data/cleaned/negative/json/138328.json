@@ -1,0 +1,71 @@
+{
+    "Body":"i have tried installing x86 emulator also kill adb and start adb and it did not work. Please help! PLEASE NOTE!I am a complete begginer on this.I have started the tutorials on thenewboston.com and i am only on my 4th tutorial.Here you need to run a simple program but whenever i go run AVD after 1-2 minutes the error appears.emulator-x86 has stopped working.",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-02-28T03:38:47.473",
+    "ClosedDate":"2016-02-28T03:45:06.043",
+    "Title":"emulator -x86 has stopped working",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153667",
+    "CreationDate":"2016-02-28T03:38:47.473",
+    "FavoriteCount":null,
+    "Id":"138328",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T03:38:47.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf3db1b3-a387-430d-8734-984c387eb137",
+            "UserId":"153667",
+            "CloseReasonId":null,
+            "PostId":"138328",
+            "PostHistoryTypeId":"2",
+            "Id":"462236",
+            "Text":"[![enter image description here][1]][1]i have tried installing x86 emulator also kill adb and start adb and it did not work. Please help! PLEASE NOTE!I am a complete begginer on this.I have started the tutorials on thenewboston.com and i am only on my 4th tutorial.Here you need to run a simple program but whenever i go run AVD after 1-2 minutes the error appears.emulator-x86 has stopped working.  [1]: http:\/\/i.stack.imgur.com\/9VRm1.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T03:38:47.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf3db1b3-a387-430d-8734-984c387eb137",
+            "UserId":"153667",
+            "CloseReasonId":null,
+            "PostId":"138328",
+            "PostHistoryTypeId":"1",
+            "Id":"462237",
+            "Text":"emulator -x86 has stopped working"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T03:38:47.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf3db1b3-a387-430d-8734-984c387eb137",
+            "UserId":"153667",
+            "CloseReasonId":null,
+            "PostId":"138328",
+            "PostHistoryTypeId":"3",
+            "Id":"462238",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-28T03:45:06.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"40385854-13c7-4499-9d0a-e0c6aa447d34",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138328",
+            "PostHistoryTypeId":"10",
+            "Id":"462243",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

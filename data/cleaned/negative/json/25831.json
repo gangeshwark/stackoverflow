@@ -1,0 +1,71 @@
+{
+    "Body":"My phone carrier (Bell Canada) says that in addition to my maximum data limit, I have \"unlimited social network\" usage.I'm wondering which apps count as social networking apps? As an Android developer, I'm also interested in how I might designate one of my apps as a social networking app.(Let me know if this would be better off on programmers.stackexchange or stackoverflow...)",
+    "ViewCount":"178",
+    "LastActivityDate":"2012-07-14T18:27:24.493",
+    "ClosedDate":"2012-07-26T19:37:01.823",
+    "Title":"How does Android determine which apps are \"social networking\" apps for data usage purposes?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"25838",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16981",
+    "CreationDate":"2012-07-14T13:16:43.110",
+    "FavoriteCount":null,
+    "Id":"25831",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T13:16:43.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"617ab221-40fd-49d0-98f3-dd3f6d092af8",
+            "UserId":"16981",
+            "CloseReasonId":null,
+            "PostId":"25831",
+            "PostHistoryTypeId":"2",
+            "Id":"74683",
+            "Text":"My phone carrier (Bell Canada) says that in addition to my maximum data limit, I have \"unlimited social network\" usage.I'm wondering which apps count as social networking apps? As an Android developer, I'm also interested in how I might designate one of my apps as a social networking app.(Let me know if this would be better off on programmers.stackexchange or stackoverflow...)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T13:16:43.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"617ab221-40fd-49d0-98f3-dd3f6d092af8",
+            "UserId":"16981",
+            "CloseReasonId":null,
+            "PostId":"25831",
+            "PostHistoryTypeId":"1",
+            "Id":"74684",
+            "Text":"How does Android determine which apps are \"social networking\" apps for data usage purposes?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T13:16:43.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"617ab221-40fd-49d0-98f3-dd3f6d092af8",
+            "UserId":"16981",
+            "CloseReasonId":null,
+            "PostId":"25831",
+            "PostHistoryTypeId":"3",
+            "Id":"74685",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-07-26T19:37:01.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"c38c9731-9dcf-42f8-a190-c1fc593ebba2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25831",
+            "PostHistoryTypeId":"10",
+            "Id":"76858",
+            "Text":"{\"Voters\":[{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

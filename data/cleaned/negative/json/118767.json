@@ -1,0 +1,71 @@
+{
+    "Body":"The biggest battery usage culprits on my phone, according to both the battery settings page and to GSam Battery Monitor, are always \"Android System\" and \"Android OS.\" I also have \"Watchdog\" installed, which keeps warning me that \"Android System\" is using a lot of background CPU.GSam explains helpfully that \"Android System\" includes the packages \"Input Devices,\" \"Key Chain,\" \"Settings,\" \"LocationServices,\" among others, and the processes \"servicemanager\" and \"audiod\" among others, but it doesn't break down the battery usage of each piece.Is there any app that can give battery or CPU usage info for each package\/process separately, so I can figure out which specific component of \"Android System\" is burning my battery? It's hard to troubleshoot when I don't have detailed info about what's wrong.",
+    "ViewCount":"44",
+    "LastActivityDate":"2015-08-09T18:22:53.830",
+    "ClosedDate":"2015-08-17T21:29:19.137",
+    "Title":"Any way to get battery usage data at finer resolution?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94287",
+    "CreationDate":"2015-08-09T17:48:46.943",
+    "FavoriteCount":null,
+    "Id":"118767",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-09T17:48:46.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"3be60b34-9e0c-42ae-8057-aa992e9aff2b",
+            "UserId":"94287",
+            "CloseReasonId":null,
+            "PostId":"118767",
+            "PostHistoryTypeId":"2",
+            "Id":"388887",
+            "Text":"The biggest battery usage culprits on my phone, according to both the battery settings page and to GSam Battery Monitor, are always \"Android System\" and \"Android OS.\" I also have \"Watchdog\" installed, which keeps warning me that \"Android System\" is using a lot of background CPU.GSam explains helpfully that \"Android System\" includes the packages \"Input Devices,\" \"Key Chain,\" \"Settings,\" \"LocationServices,\" among others, and the processes \"servicemanager\" and \"audiod\" among others, but it doesn't break down the battery usage of each piece.Is there any app that can give battery or CPU usage info for each package\/process separately, so I can figure out which specific component of \"Android System\" is burning my battery? It's hard to troubleshoot when I don't have detailed info about what's wrong."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-09T17:48:46.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"3be60b34-9e0c-42ae-8057-aa992e9aff2b",
+            "UserId":"94287",
+            "CloseReasonId":null,
+            "PostId":"118767",
+            "PostHistoryTypeId":"1",
+            "Id":"388888",
+            "Text":"Any way to get battery usage data at finer resolution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-09T17:48:46.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"3be60b34-9e0c-42ae-8057-aa992e9aff2b",
+            "UserId":"94287",
+            "CloseReasonId":null,
+            "PostId":"118767",
+            "PostHistoryTypeId":"3",
+            "Id":"388889",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-17T21:29:19.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"a563267e-828e-4b22-b2d7-0dcb4bc60079",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"118767",
+            "PostHistoryTypeId":"10",
+            "Id":"391682",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

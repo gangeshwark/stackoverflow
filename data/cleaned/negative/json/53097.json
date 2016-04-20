@@ -1,0 +1,83 @@
+{
+    "Body":"I've owned two Android tablets now - one a no-name cheapo device (running 4.1.1); the other a more mainstream Asus Memopad HD 7 (4.2.1).  Neither have had the \"System\" -> \"Security\" -> \"Encrypt Data\" option; that is,  the option is simply not there, rather than being present but greyed out.I'm really disappointed and, above all, bewildered by this: what motivation has a company for removing such a useful feature when it comes built into stock Android? What other devices have people used that don't have this feature?As an addendum: does anyone know of any e-mail clients that will encrypt all your e-mail and passwords as they are written to disk, so that if the device falls into \"enemy hands\", as it were, they won't be able to read them, even if they have root access? I'm thinking specifically as a workaround for the confusing lack of whole device encryption, here.Thanks!",
+    "ViewCount":"830",
+    "LastActivityDate":"2013-09-12T10:03:07.143",
+    "ClosedDate":"2013-09-13T07:10:41.373",
+    "Title":"Why\/ How do some manufacturers remove the Encryption option?",
+    "LastEditorUserId":"41280",
+    "Tags":"",
+    "LastEditDate":"2013-09-12T10:03:07.143",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41280",
+    "CreationDate":"2013-09-12T09:32:23.757",
+    "FavoriteCount":null,
+    "Id":"53097",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-12T09:32:23.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f3ab3f4-2be7-4543-bcaa-82162fcefe17",
+            "UserId":"41280",
+            "CloseReasonId":null,
+            "PostId":"53097",
+            "PostHistoryTypeId":"2",
+            "Id":"174973",
+            "Text":"I've owned two Android tablets now - one a no-name cheapo device (running 4.1.1); the other a more mainstream Asus Memopad HD 7 (4.2.1).  Neither have had the \"System\" -> \"Security\" -> \"Encrypt Data\" option; that is,  the option is simply *not there*, rather than being present but greyed out.I'm really disappointed and, above all, bewildered by this: what motivation has a company for removing such a useful feature when it comes built into stock Android? What other devices have people used that don't have this feature?As an addendum: does anyone know of any e-mail clients that will encrypt all your e-mail and passwords *as they are written to disk*, so that if the device falls into \"enemy hands\", as it were, they won't be able to read them, even if they have root access? I'm thinking specifically as a workaround for the confusing lack of whole device encryption, here.Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-12T09:32:23.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f3ab3f4-2be7-4543-bcaa-82162fcefe17",
+            "UserId":"41280",
+            "CloseReasonId":null,
+            "PostId":"53097",
+            "PostHistoryTypeId":"1",
+            "Id":"174974",
+            "Text":"Why\/ How do some manufacturers remove the Encryption option?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-12T09:32:23.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f3ab3f4-2be7-4543-bcaa-82162fcefe17",
+            "UserId":"41280",
+            "CloseReasonId":null,
+            "PostId":"53097",
+            "PostHistoryTypeId":"3",
+            "Id":"174975",
+            "Text":""
+        },
+        {
+            "Comment":"added 17 characters in body",
+            "CreationDate":"2013-09-12T10:03:07.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"2feec064-9104-4dbc-84ad-b162cd6d9f5b",
+            "UserId":"41280",
+            "CloseReasonId":null,
+            "PostId":"53097",
+            "PostHistoryTypeId":"5",
+            "Id":"174985",
+            "Text":"I've owned two Android tablets now - one a no-name cheapo device (running 4.1.1); the other a more mainstream Asus Memopad HD 7 (4.2.1).  Neither have had the \"System\" -> \"Security\" -> \"Encrypt Data\" option; that is,  the option is simply *not there*, rather than being present but greyed out.I'm really disappointed and, above all, bewildered by this: what motivation has a company for removing such a useful feature when it comes built into stock Android? What other devices have people used that don't have this feature?As an addendum: does anyone know of any e-mail clients that will encrypt all your e-mail and passwords *as they are written to disk*, so that if the device falls into \"enemy hands\", as it were, they won't be able to read them, even if they have root access? I'm thinking specifically as a workaround for the confusing lack of whole device encryption, here.Thanks!"
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2013-09-13T07:10:41.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"64d5d388-cb89-4e7b-ae1f-fffc5f5f6be1",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"53097",
+            "PostHistoryTypeId":"10",
+            "Id":"175218",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

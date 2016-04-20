@@ -1,0 +1,71 @@
+{
+    "Body":"Good day people, I have an non-rooted Android phone with a completely destroyed screen. I have very important conversations and files there I need ASAP.I tried to use programs like Droid@Screen to get access to my phone, but it was no use since ADB can not find this phone. (it can find my other phone, which has USB debug mode enabled)Is there some way I can modify this option from the usb? Or would it require root access or other ways of hacking? (I know it's unlikely, but I ask just in case)",
+    "ViewCount":"3",
+    "LastActivityDate":"2015-04-22T22:13:46.837",
+    "ClosedDate":"2015-04-22T22:36:35.873",
+    "Title":"Is it possible to Activate \"USB-debug mode\" from USB",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103693",
+    "CreationDate":"2015-04-22T22:13:46.837",
+    "FavoriteCount":null,
+    "Id":"106305",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T22:13:46.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e399e1f-4eab-42bb-97ea-d25e3e86fb1a",
+            "UserId":"103693",
+            "CloseReasonId":null,
+            "PostId":"106305",
+            "PostHistoryTypeId":"2",
+            "Id":"347824",
+            "Text":"Good day people, I have an non-rooted Android phone with a completely destroyed screen. I have very important conversations and files there I need ASAP.I tried to use programs like Droid@Screen to get access to my phone, but it was no use since ADB can not find this phone. (it can find my other phone, which has USB debug mode enabled)Is there some way I can modify this option from the usb? Or would it require root access or other ways of hacking? (I know it's unlikely, but I ask just in case)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T22:13:46.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e399e1f-4eab-42bb-97ea-d25e3e86fb1a",
+            "UserId":"103693",
+            "CloseReasonId":null,
+            "PostId":"106305",
+            "PostHistoryTypeId":"1",
+            "Id":"347825",
+            "Text":"Is it possible to Activate \"USB-debug mode\" from USB"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T22:13:46.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e399e1f-4eab-42bb-97ea-d25e3e86fb1a",
+            "UserId":"103693",
+            "CloseReasonId":null,
+            "PostId":"106305",
+            "PostHistoryTypeId":"3",
+            "Id":"347826",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-22T22:36:35.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"51aed1ae-7553-45d6-9982-43f893f1aa68",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"106305",
+            "PostHistoryTypeId":"10",
+            "Id":"347834",
+            "Text":"{\"OriginalQuestionIds\":[12834],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

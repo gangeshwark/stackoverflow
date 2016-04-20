@@ -1,0 +1,71 @@
+{
+    "Body":"I'm using a rooted Google Nexus 4 (mako) with CyanogenMod 11 and adb 1.0.32 on OS X.I also use disk encryption.adbd is running as root.I'm trying to create a full backup using:adb backup -apk -obb -shared -all -nosystemHowever, regardless of the options passed to adb backup, it asks me to enter my backup password on the phone and then exists, showing Backup finished on the phone.It only leaves a 549 bytes backup.ab file.Using the wrong or no backup password does the same but leaves a 0 bytes file.",
+    "ViewCount":"62",
+    "LastActivityDate":"2015-11-29T16:54:40.893",
+    "ClosedDate":"2015-11-29T16:55:23.383",
+    "Title":"adb backup finishes without saving data",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"58405",
+    "CreationDate":"2015-11-29T16:18:45.993",
+    "FavoriteCount":null,
+    "Id":"130247",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-29T16:18:45.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"d44e6b28-796d-438b-b1b4-7f794fc98f7c",
+            "UserId":"58405",
+            "CloseReasonId":null,
+            "PostId":"130247",
+            "PostHistoryTypeId":"2",
+            "Id":"429528",
+            "Text":"I'm using a rooted Google Nexus 4 (mako) with CyanogenMod 11 and adb 1.0.32 on OS X.  I also use disk encryption.adbd is running as root.  I'm trying to create a full backup using:    adb backup -apk -obb -shared -all -nosystemHowever, regardless of the options passed to `adb backup`, it asks me to enter my backup password on the phone and then exists, showing `Backup finished` on the phone.  It only leaves a 549 bytes `backup.ab` file.Using the wrong or no backup password does the same but leaves a 0 bytes file."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-29T16:18:45.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"d44e6b28-796d-438b-b1b4-7f794fc98f7c",
+            "UserId":"58405",
+            "CloseReasonId":null,
+            "PostId":"130247",
+            "PostHistoryTypeId":"1",
+            "Id":"429529",
+            "Text":"adb backup finishes without saving data"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-29T16:18:45.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"d44e6b28-796d-438b-b1b4-7f794fc98f7c",
+            "UserId":"58405",
+            "CloseReasonId":null,
+            "PostId":"130247",
+            "PostHistoryTypeId":"3",
+            "Id":"429530",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-29T16:55:23.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"458be653-2d77-43e8-a2be-769043991551",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"130247",
+            "PostHistoryTypeId":"10",
+            "Id":"429539",
+            "Text":"{\"OriginalQuestionIds\":[83080],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

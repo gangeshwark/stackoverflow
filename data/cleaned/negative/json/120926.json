@@ -1,0 +1,71 @@
+{
+    "Body":"I have a phone with an SD card slot.  The internal storage is partitioned into two such that if I go to Settings >> Storage it shows 3 storage areas: Phone Storage , Internal SD and External SD.I don't use the Internal SD since the external SD card is always installed. Its where I place all files, music and videos. I consider the internal SD to be wasted space since its never used. I would like to have more space to install my apps.Is it possible to repartition the internal storage if I root? Heck, can I delete the Internal SD partition and just have two storage areas: Phone and External SD?",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-09-01T15:30:52.823",
+    "ClosedDate":"2015-09-03T22:27:45.747",
+    "Title":"Can I repartition the internal storage?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79030",
+    "CreationDate":"2015-09-01T15:30:52.823",
+    "FavoriteCount":null,
+    "Id":"120926",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T15:30:52.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"f6b67872-0e0e-49c7-b2f5-949e152c14f0",
+            "UserId":"79030",
+            "CloseReasonId":null,
+            "PostId":"120926",
+            "PostHistoryTypeId":"2",
+            "Id":"396573",
+            "Text":"I have a phone with an SD card slot.  The internal storage is partitioned into two such that if I go to `Settings` >> `Storage` it shows 3 storage areas: Phone Storage , Internal SD and External SD.I don't use the Internal SD since the external SD card is always installed. Its where I place all files, music and videos. I consider the internal SD to be wasted space since its never used. I would like to have more space to install my apps.Is it possible to repartition the internal storage if I root? Heck, can I delete the Internal SD partition and just have two storage areas: Phone and External SD?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T15:30:52.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"f6b67872-0e0e-49c7-b2f5-949e152c14f0",
+            "UserId":"79030",
+            "CloseReasonId":null,
+            "PostId":"120926",
+            "PostHistoryTypeId":"1",
+            "Id":"396574",
+            "Text":"Can I repartition the internal storage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T15:30:52.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"f6b67872-0e0e-49c7-b2f5-949e152c14f0",
+            "UserId":"79030",
+            "CloseReasonId":null,
+            "PostId":"120926",
+            "PostHistoryTypeId":"3",
+            "Id":"396575",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-03T22:27:45.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce98148d-879b-4072-b349-b98b9725eef6",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"120926",
+            "PostHistoryTypeId":"10",
+            "Id":"397421",
+            "Text":"{\"OriginalQuestionIds\":[65781],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

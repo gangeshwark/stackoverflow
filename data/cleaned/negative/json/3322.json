@@ -1,0 +1,83 @@
+{
+    "Body":"Tweet Deck for PC has a global filter that allows this but I cannot see this option in the Android client.As above, is there an app that has this feature? I would very much like to clear my tweetstream of Foursquare noise and the like.",
+    "ViewCount":"377",
+    "LastActivityDate":"2014-02-07T15:16:52.327",
+    "ClosedDate":"2014-02-08T00:16:16.407",
+    "Title":"Is there a Twitter app that allows filtering of tweets based on source, hashtag, etc?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-02-07T15:16:52.327",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"3492",
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"992",
+    "CreationDate":"2010-12-02T22:42:06.463",
+    "FavoriteCount":null,
+    "Id":"3322",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-02T22:42:06.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"e88fc516-8e35-4914-bf7a-45ccb2469aab",
+            "UserId":"992",
+            "CloseReasonId":null,
+            "PostId":"3322",
+            "PostHistoryTypeId":"2",
+            "Id":"6764",
+            "Text":"Tweet Deck for PC has a global filter that allows this but I cannot see this option in the Android client.As above, is there an app that has this feature? I would very much like to clear my tweetstream of Foursquare noise and the like."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-02T22:42:06.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"e88fc516-8e35-4914-bf7a-45ccb2469aab",
+            "UserId":"992",
+            "CloseReasonId":null,
+            "PostId":"3322",
+            "PostHistoryTypeId":"1",
+            "Id":"6765",
+            "Text":"Is there a Twitter app that allows filtering of tweets based on source, hashtag, etc?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-02T22:42:06.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"e88fc516-8e35-4914-bf7a-45ccb2469aab",
+            "UserId":"992",
+            "CloseReasonId":null,
+            "PostId":"3322",
+            "PostHistoryTypeId":"3",
+            "Id":"6766",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-02-07T15:16:52.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"241b1529-9a4c-4a36-8541-b5bcae7e3263",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"3322",
+            "PostHistoryTypeId":"6",
+            "Id":"213697",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-02-08T00:16:16.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"1dddb30b-e130-42c7-ab83-1e17886075ce",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"3322",
+            "PostHistoryTypeId":"10",
+            "Id":"213854",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

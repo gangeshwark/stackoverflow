@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I project the screen of my android phone for a presentation?  Since ICS it became really easy to take a screenshot from within Android. In the presentations Google goes further than that by streaming\/saving the whole content that is shown on the screen including sound directly from the device.How to achieve that? Do I need some extra HDMI certified screen grabbing cards consoles require?",
+    "ViewCount":"19",
+    "LastActivityDate":"2012-06-29T06:10:27.707",
+    "ClosedDate":"2012-06-29T13:50:12.700",
+    "Title":"How to screengrab\/film directly from screen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16450",
+    "CreationDate":"2012-06-29T06:10:27.707",
+    "FavoriteCount":null,
+    "Id":"25016",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-29T06:10:27.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c9e6778-f120-4102-80ed-03edf88b5442",
+            "UserId":"16450",
+            "CloseReasonId":null,
+            "PostId":"25016",
+            "PostHistoryTypeId":"2",
+            "Id":"71840",
+            "Text":"Since ICS it became really easy to take a screenshot from within Android. In the presentations Google goes further than that by streaming\/saving the whole content that is shown on the screen including sound directly from the device.How to achieve that? Do I need some extra HDMI certified screen grabbing cards consoles require?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-29T06:10:27.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c9e6778-f120-4102-80ed-03edf88b5442",
+            "UserId":"16450",
+            "CloseReasonId":null,
+            "PostId":"25016",
+            "PostHistoryTypeId":"1",
+            "Id":"71841",
+            "Text":"How to screengrab\/film directly from screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-29T06:10:27.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c9e6778-f120-4102-80ed-03edf88b5442",
+            "UserId":"16450",
+            "CloseReasonId":null,
+            "PostId":"25016",
+            "PostHistoryTypeId":"3",
+            "Id":"71842",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-06-29T13:50:14.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"87558c5d-7559-4398-b0c6-66e1f2d0febe",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25016",
+            "PostHistoryTypeId":"5",
+            "Id":"71901",
+            "Text":"> **Possible Duplicate:**  > [How do I project the screen of my android phone for a presentation?](http:\/\/android.stackexchange.com\/questions\/5652\/how-do-i-project-the-screen-of-my-android-phone-for-a-presentation)  Since ICS it became really easy to take a screenshot from within Android. In the presentations Google goes further than that by streaming\/saving the whole content that is shown on the screen including sound directly from the device.How to achieve that? Do I need some extra HDMI certified screen grabbing cards consoles require?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-06-29T13:50:12.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"f734e844-1797-437f-ba6a-b61489b676fa",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"25016",
+            "PostHistoryTypeId":"10",
+            "Id":"71902",
+            "Text":"{\"OriginalQuestionIds\":[5652],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

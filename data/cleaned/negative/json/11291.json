@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to install apps which are targetted for another country?  i would like to loadthe bbc news app but i get the following error on android market place.This app is incompatible with your Samsung GT-P7510.Samsung GT-P7510This item cannot be installed in your device's country.any ideas on how to solve this?",
+    "ViewCount":"786",
+    "LastActivityDate":"2011-07-08T08:58:13.280",
+    "ClosedDate":"2011-07-08T12:19:48.663",
+    "Title":"Can not install in country",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6472",
+    "CreationDate":"2011-07-08T07:15:48.670",
+    "FavoriteCount":null,
+    "Id":"11291",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-08T07:15:48.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"181c978d-dbd2-418a-84e5-79dd1ee0064c",
+            "UserId":"6472",
+            "CloseReasonId":null,
+            "PostId":"11291",
+            "PostHistoryTypeId":"2",
+            "Id":"28162",
+            "Text":"i would like to loadthe bbc news app but i get the following error on android market place.This app is incompatible with your Samsung GT-P7510.Samsung GT-P7510This item cannot be installed in your device's country.any ideas on how to solve this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-08T07:15:48.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"181c978d-dbd2-418a-84e5-79dd1ee0064c",
+            "UserId":"6472",
+            "CloseReasonId":null,
+            "PostId":"11291",
+            "PostHistoryTypeId":"1",
+            "Id":"28163",
+            "Text":"Can not install in country"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-08T07:15:48.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"181c978d-dbd2-418a-84e5-79dd1ee0064c",
+            "UserId":"6472",
+            "CloseReasonId":null,
+            "PostId":"11291",
+            "PostHistoryTypeId":"3",
+            "Id":"28164",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-07-08T12:19:48.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"f16d08b3-59ca-4d81-a1da-5fd171507630",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"11291",
+            "PostHistoryTypeId":"5",
+            "Id":"28180",
+            "Text":"> **Possible Duplicate:**  > [How to install apps which are targetted for another country?](http:\/\/android.stackexchange.com\/questions\/11154\/how-to-install-apps-which-are-targetted-for-another-country)  i would like to loadthe bbc news app but i get the following error on android market place.This app is incompatible with your Samsung GT-P7510.Samsung GT-P7510This item cannot be installed in your device's country.any ideas on how to solve this?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-07-08T12:19:48.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"20492f2d-5703-4476-bb76-c430db4f60b3",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"11291",
+            "PostHistoryTypeId":"10",
+            "Id":"28181",
+            "Text":"{\"OriginalQuestionIds\":[11154],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

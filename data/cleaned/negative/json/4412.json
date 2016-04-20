@@ -1,0 +1,71 @@
+{
+    "Body":"I am looking for an application like a shopping list, that will let me put in items with the prices and give me a final total...so that if I have a project, I can put in all the prices(scanning barcodes would be a plus) of items in the project while i am out and about.I have tried a couple different searches, but havent gotten any really good hits on it.",
+    "ViewCount":"342",
+    "LastActivityDate":"2011-01-07T00:40:57.477",
+    "ClosedDate":"2014-12-18T17:39:46.783",
+    "Title":"Looking for a parts list application",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"4415",
+    "Score":"5",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1910",
+    "CreationDate":"2011-01-05T17:02:50.757",
+    "FavoriteCount":null,
+    "Id":"4412",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-05T17:02:50.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7fa35d5-3e45-4166-b3b8-464a10d1e5cf",
+            "UserId":"1910",
+            "CloseReasonId":null,
+            "PostId":"4412",
+            "PostHistoryTypeId":"2",
+            "Id":"9233",
+            "Text":"I am looking for an application like a shopping list, that will let me put in items with the prices and give me a final total...so that if I have a project, I can put in all the prices(scanning barcodes would be a plus) of items in the project while i am out and about.I have tried a couple different searches, but havent gotten any really good hits on it."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-05T17:02:50.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7fa35d5-3e45-4166-b3b8-464a10d1e5cf",
+            "UserId":"1910",
+            "CloseReasonId":null,
+            "PostId":"4412",
+            "PostHistoryTypeId":"1",
+            "Id":"9234",
+            "Text":"Looking for a parts list application"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-05T17:02:50.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7fa35d5-3e45-4166-b3b8-464a10d1e5cf",
+            "UserId":"1910",
+            "CloseReasonId":null,
+            "PostId":"4412",
+            "PostHistoryTypeId":"3",
+            "Id":"9235",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-18T17:39:46.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"b94a08ee-e450-4000-9cd0-9ea2ea063e53",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"4412",
+            "PostHistoryTypeId":"10",
+            "Id":"301688",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

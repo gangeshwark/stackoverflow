@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I install Android on my non-Android device?  Is it technically possible to run Android on MS Surface Windows RT tablet?How would I make a dual boot solution or run Android inside WinRT host OS?with touch screen and everything working?",
+    "ViewCount":"25830",
+    "LastActivityDate":"2012-10-30T19:52:13.280",
+    "ClosedDate":"2012-10-30T21:44:19.120",
+    "Title":"Is it technically possible to run Android on MS Surface Windows RT tablet?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12363",
+    "CreationDate":"2012-10-30T19:22:25.527",
+    "FavoriteCount":"1",
+    "Id":"32663",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-30T19:22:25.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ef986c6-6a1f-4274-b28a-4d4dedcad9f1",
+            "UserId":"12363",
+            "CloseReasonId":null,
+            "PostId":"32663",
+            "PostHistoryTypeId":"2",
+            "Id":"96614",
+            "Text":"Is it technically possible to run Android on MS Surface Windows RT tablet?How would I make a dual boot solution or run Android inside WinRT host OS?with touch screen and everything working?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-30T19:22:25.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ef986c6-6a1f-4274-b28a-4d4dedcad9f1",
+            "UserId":"12363",
+            "CloseReasonId":null,
+            "PostId":"32663",
+            "PostHistoryTypeId":"1",
+            "Id":"96615",
+            "Text":"Is it technically possible to run Android on MS Surface Windows RT tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-30T19:22:25.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ef986c6-6a1f-4274-b28a-4d4dedcad9f1",
+            "UserId":"12363",
+            "CloseReasonId":null,
+            "PostId":"32663",
+            "PostHistoryTypeId":"3",
+            "Id":"96616",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-30T21:44:19.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea5401d1-7c02-4375-8f55-bb7bd84f71bc",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32663",
+            "PostHistoryTypeId":"5",
+            "Id":"96638",
+            "Text":"> **Possible Duplicate:**  > [Can I install Android on my non-Android device?](http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-device)  Is it technically possible to run Android on MS Surface Windows RT tablet?How would I make a dual boot solution or run Android inside WinRT host OS?with touch screen and everything working?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-30T21:44:19.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"4fdf6365-4fec-4698-910d-ebb31c9b89f6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"32663",
+            "PostHistoryTypeId":"10",
+            "Id":"96639",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

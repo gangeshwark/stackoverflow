@@ -1,0 +1,83 @@
+{
+    "Body":"I bought my first Android phone off ebay, a Samsung Galaxy S4 after always using Windows phones.  It was supposed to be unlocked and a \"store demo\", but when I started playing with it, I was getting warnings that it was rooted and couldn't update in the regular way, etc.I tried to update using Samsung Kies, which gave me a ton of errors, I had to do it four times.  This was the error message I kept getting:http:\/\/i136.photobucket.com\/albums\/q161\/Arylkin\/1%20error.jpgThen I got an error that I needed to do \"emergency firmware recovery\":http:\/\/i136.photobucket.com\/albums\/q161\/Arylkin\/error%202.jpgI finally got it to work (I don't know what kind of update it was, because it's still running the same Android version after it).  I got it to work by just ignoring the emergency recovery message and hitting continue (or something).I am apprehensive about keeping this phone, since while I really do like it, I am worried about having some fiasco and it refusing to update down the road.  Also, every tutorial about rooting and \"flashing roms\" (whatever that means) and doing anything to a rooted phone says, \"WARNING- YOU MIGHT JUST BRICK YOUR PHONE!\".  Needless to say, this worries me.The seller is willing to take it back, but now I've already bought a otterbox case for the S4 as well as additional batteries, so I'm kind of roped in to having an S4.What would you do, return it and try to find another person selling an S4 that is stock?  I really don't know anything about Android, and even after reading tutorials, I'm not really comfortable doing a bunch of stuff to the command line of my phone or whatever, particularly since there are 1,000 warnings that doing so might totally break it.Even video tutorials on rerooting or whatever have a bunch of comments like, \"Now my phone is broken!  Thanks a lot!\"  Everything I read says how rooting is the coolest ever, but I really don't want to break it since I will not be able to replace this, financially.I'd appreciate any words of wisdom!",
+    "ViewCount":"170",
+    "LastActivityDate":"2015-04-07T09:12:20.023",
+    "ClosedDate":"2015-04-07T05:44:52.240",
+    "Title":"if I know nothing about Android, is it crazy to have a rooted phone?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-04-07T09:12:20.023",
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101309",
+    "CreationDate":"2015-04-07T01:35:52.383",
+    "FavoriteCount":null,
+    "Id":"104703",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T01:35:52.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"7c597c4e-1fc5-4e39-930b-335a144596ba",
+            "UserId":"101309",
+            "CloseReasonId":null,
+            "PostId":"104703",
+            "PostHistoryTypeId":"2",
+            "Id":"341832",
+            "Text":"I bought my first Android phone off ebay, a Samsung Galaxy S4 after always using Windows phones.  It was supposed to be unlocked and a \"store demo\", but when I started playing with it, I was getting warnings that it was rooted and couldn't update in the regular way, etc.I tried to update using Samsung Kies, which gave me a ton of errors, I had to do it four times.  This was the error message I kept getting:http:\/\/i136.photobucket.com\/albums\/q161\/Arylkin\/1%20error.jpgThen I got an error that I needed to do \"emergency firmware recovery\":http:\/\/i136.photobucket.com\/albums\/q161\/Arylkin\/error%202.jpgI finally got it to work (I don't know what kind of update it was, because it's still running the same Android version after it).  I got it to work by just ignoring the emergency recovery message and hitting continue (or something).I am apprehensive about keeping this phone, since while I really do like it, I am worried about having some fiasco and it refusing to update down the road.  Also, every tutorial about rooting and \"flashing roms\" (whatever that means) and doing anything to a rooted phone says, \"WARNING- YOU MIGHT JUST BRICK YOUR PHONE!\".  Needless to say, this worries me.The seller is willing to take it back, but now I've already bought a otterbox case for the S4 as well as additional batteries, so I'm kind of roped in to having an S4.What would you do, return it and try to find another person selling an S4 that is stock?  I really don't know anything about Android, and even after reading tutorials, I'm not really comfortable doing a bunch of stuff to the command line of my phone or whatever, particularly since there are 1,000 warnings that doing so might totally break it.Even video tutorials on rerooting or whatever have a bunch of comments like, \"Now my phone is broken!  Thanks a lot!\"  Everything I read says how rooting is the coolest ever, but I really don't want to break it since I will not be able to replace this, financially.I'd appreciate any words of wisdom!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T01:35:52.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"7c597c4e-1fc5-4e39-930b-335a144596ba",
+            "UserId":"101309",
+            "CloseReasonId":null,
+            "PostId":"104703",
+            "PostHistoryTypeId":"1",
+            "Id":"341833",
+            "Text":"if I know nothing about Android, is it crazy to have a rooted phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T01:35:52.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"7c597c4e-1fc5-4e39-930b-335a144596ba",
+            "UserId":"101309",
+            "CloseReasonId":null,
+            "PostId":"104703",
+            "PostHistoryTypeId":"3",
+            "Id":"341834",
+            "Text":""
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2015-04-07T05:44:52.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"440ac899-9c0f-41ec-b520-c487b90b8b7d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104703",
+            "PostHistoryTypeId":"10",
+            "Id":"341895",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-04-07T09:12:20.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"9b4bada8-0c0a-40ec-ae1d-d04ecb74a139",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"104703",
+            "PostHistoryTypeId":"6",
+            "Id":"341934",
+            "Text":""
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Trying to ssh to my laptop on my android phone with a network created by my laptop, but my android phone can't even see the wireless network I made. Will be carrying laptop around in a backpack. I don't need Internet access, tried refreshing phone, waiting, refreshing. Kali linux, android phone. I tried manually changing the channel. Is it maybe a frequency or channel issue?  ",
+    "ViewCount":"15",
+    "LastActivityDate":"2014-12-04T12:54:58.873",
+    "ClosedDate":"2014-12-15T05:33:45.657",
+    "Title":"Phone can't detect hotspot made by laptop (no, not the other way around)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82481",
+    "CreationDate":"2014-12-02T14:55:11.093",
+    "FavoriteCount":null,
+    "Id":"89726",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/847589\/phone-cant-detect-hotspot-made-by-laptop-no-not-the-other-way-around",
+            "CreationDate":"2014-12-04T12:54:58.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"225b1a31-f4c4-4262-9120-8bbb486c956c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"89726",
+            "PostHistoryTypeId":"36",
+            "Id":"295753",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-02T14:55:11.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"115b85d9-0cc8-4b40-bad3-07a1658b4dde",
+            "UserId":"82481",
+            "CloseReasonId":null,
+            "PostId":"89726",
+            "PostHistoryTypeId":"2",
+            "Id":"295754",
+            "Text":"Trying to ssh to my laptop on my android phone with a network created by my laptop, but my android phone can't even see the wireless network I made. Will be carrying laptop around in a backpack. I don't need Internet access, tried refreshing phone, waiting, refreshing. Kali linux, android phone. I tried manually changing the channel. Is it maybe a frequency or channel issue?  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-02T14:55:11.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"115b85d9-0cc8-4b40-bad3-07a1658b4dde",
+            "UserId":"82481",
+            "CloseReasonId":null,
+            "PostId":"89726",
+            "PostHistoryTypeId":"1",
+            "Id":"295755",
+            "Text":"Phone can't detect hotspot made by laptop (no, not the other way around)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-02T14:55:11.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"115b85d9-0cc8-4b40-bad3-07a1658b4dde",
+            "UserId":"82481",
+            "CloseReasonId":null,
+            "PostId":"89726",
+            "PostHistoryTypeId":"3",
+            "Id":"295756",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-15T05:33:45.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd521812-cac9-45e7-921d-96f273cc55a3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89726",
+            "PostHistoryTypeId":"10",
+            "Id":"300330",
+            "Text":"{\"OriginalQuestionIds\":[4418],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my phone get the Android 2.3 update (Gingerbread)?  Does anyone know when the 3 network will release Gingerbread for the HTC Desire?",
+    "ViewCount":"1069",
+    "LastActivityDate":"2010-12-08T12:53:51.327",
+    "ClosedDate":"2010-12-08T13:20:53.257",
+    "Title":"When will Gingerbread be release on UK HTC desire",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1398",
+    "CreationDate":"2010-12-08T12:53:51.327",
+    "FavoriteCount":null,
+    "Id":"3475",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-08T12:53:51.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"4330c02e-4f58-438a-a8ec-0942f0b06c32",
+            "UserId":"1398",
+            "CloseReasonId":null,
+            "PostId":"3475",
+            "PostHistoryTypeId":"2",
+            "Id":"7121",
+            "Text":"Does anyone know when the 3 network will release Gingerbread for the HTC Desire?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-08T12:53:51.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"4330c02e-4f58-438a-a8ec-0942f0b06c32",
+            "UserId":"1398",
+            "CloseReasonId":null,
+            "PostId":"3475",
+            "PostHistoryTypeId":"1",
+            "Id":"7122",
+            "Text":"When will Gingerbread be release on UK HTC desire "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-08T12:53:51.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"4330c02e-4f58-438a-a8ec-0942f0b06c32",
+            "UserId":"1398",
+            "CloseReasonId":null,
+            "PostId":"3475",
+            "PostHistoryTypeId":"3",
+            "Id":"7123",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-08T13:20:53.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"431065d1-8f1c-4421-9285-b3c70fe046c8",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"3475",
+            "PostHistoryTypeId":"10",
+            "Id":"7129",
+            "Text":"{\"OriginalQuestionIds\":[2695],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-08T13:20:53.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"b96da94e-0e75-4b71-b5bb-660f08395290",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3475",
+            "PostHistoryTypeId":"5",
+            "Id":"7130",
+            "Text":"> **Possible Duplicate:**  > [When will my phone get the Android 2.3 update (Gingerbread)?](http:\/\/android.stackexchange.com\/questions\/2695\/when-will-my-phone-get-the-android-2-3-update-gingerbread)  Does anyone know when the 3 network will release Gingerbread for the HTC Desire?"
+        }
+    ]
+}

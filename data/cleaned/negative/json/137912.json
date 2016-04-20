@@ -1,0 +1,71 @@
+{
+    "Body":"I have looked on the tagwiki http:\/\/android.stackexchange.com\/tags\/rooting\/info and while I could find many ways for \"how to root\" my question is rather. How do I tell if I succeed?My confusion is that I did not root my device myself, yet it seems to me that I can do \"everything\" (e.g. use fastboot\/adb). Maybe I was lucky buying one of those rather inexpensive china-made Allwinner-chip tablets and the producers do not care to lock-down the device and hence I was root right to start with?Anyway I would appreciate any help and assistence to help me to \"test\/check\/figure out if I am root?\"Just for confirmation. two related things that might answer also the question partially:A) Whenever you can flash a custom rom, you are essentially also able to become root? (i.e. is there an implication that custom rom implies being root, or at least the possiblity)?B) Having no jailed\/locked Bootloader would mean to be boot whatever the h***ck I want to boot and then having root access is implied? (or maybe not because even with bootloader access one still would need firmware to be able to access internal flash and to \"make yourself root\")",
+    "ViewCount":"20",
+    "LastActivityDate":"2016-02-23T18:04:40.657",
+    "ClosedDate":"2016-02-23T18:22:30.090",
+    "Title":"Determine if device is (already) rooted?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"152874",
+    "CreationDate":"2016-02-23T18:04:40.657",
+    "FavoriteCount":null,
+    "Id":"137912",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-23T18:04:40.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"a05167f1-59e6-44f6-bf73-aea912432043",
+            "UserId":"152874",
+            "CloseReasonId":null,
+            "PostId":"137912",
+            "PostHistoryTypeId":"2",
+            "Id":"460205",
+            "Text":"I have looked on the tagwiki http:\/\/android.stackexchange.com\/tags\/rooting\/info and while I could find many ways for \"how to root\" my question is rather. How do I tell if I succeed?My confusion is that I did not root my device myself, yet it seems to me that I can do \"everything\" (e.g. use `fastboot`\/`adb`). Maybe I was lucky buying one of those rather inexpensive china-made Allwinner-chip tablets and the producers do not care to lock-down the device and hence I was root right to start with?Anyway I would appreciate any help and assistence to help me to \"test\/check\/figure out if I am root?\"Just for confirmation. two related things that might answer also the question partially:A) Whenever you can flash a custom rom, you are essentially also able to become root? (i.e. is there an implication that custom rom implies being root, or at least the possiblity)?B) Having no jailed\/locked Bootloader would mean to be boot whatever the h***ck I want to boot and then having root access is implied? (or maybe not because even with bootloader access one still would need firmware to be able to access internal flash and to \"make yourself root\")"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-23T18:04:40.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"a05167f1-59e6-44f6-bf73-aea912432043",
+            "UserId":"152874",
+            "CloseReasonId":null,
+            "PostId":"137912",
+            "PostHistoryTypeId":"1",
+            "Id":"460206",
+            "Text":"Determine if device is (already) rooted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-23T18:04:40.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"a05167f1-59e6-44f6-bf73-aea912432043",
+            "UserId":"152874",
+            "CloseReasonId":null,
+            "PostId":"137912",
+            "PostHistoryTypeId":"3",
+            "Id":"460207",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-23T18:22:30.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"7047b167-66a3-495a-9871-8eb01460115e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"137912",
+            "PostHistoryTypeId":"10",
+            "Id":"460216",
+            "Text":"{\"OriginalQuestionIds\":[13335],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

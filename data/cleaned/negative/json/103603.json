@@ -1,0 +1,71 @@
+{
+    "Body":"It must be noted that I know very little about programming, and don't even own an Android device, however I am considering building one(Learning whatever it takes.)My question is simply, if I were to build an android computer, using a development board such as the Odroid C1, is there a standard way, using any battery, that I could make a circuit to detect battery level and connect it to the board using IO pins, and report the level to the OS in a way that doesn't need a custom driver to be developed, so that the stock Android OS can display the battery level.  The purpose of this is so that if I were to replicate many of these computers, I could simply install the stock Android OS and it automatically detects the battery level, so that I would not have to install a custom driver on every single one.Everything I have asked may not make any sense, as I am not very familiar with android at all. I'm asking under the assumption that Android works similarly to a typical Linux OS.",
+    "ViewCount":"44",
+    "LastActivityDate":"2015-03-26T04:39:53.927",
+    "ClosedDate":"2015-04-02T17:05:14.357",
+    "Title":"Is there a universal way for a circuit to detect battery life and report it to the stock OS?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"103609",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99690",
+    "CreationDate":"2015-03-26T02:48:10.063",
+    "FavoriteCount":null,
+    "Id":"103603",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T02:48:10.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"e40ac391-d94e-4fab-b030-34c5f1df75e9",
+            "UserId":"99690",
+            "CloseReasonId":null,
+            "PostId":"103603",
+            "PostHistoryTypeId":"2",
+            "Id":"337857",
+            "Text":"It must be noted that I know very little about programming, and don't even own an Android device, however I am considering building one(Learning whatever it takes.)My question is simply, if I were to build an android computer, using a development board such as the Odroid C1, is there a standard way, using any battery, that I could make a circuit to detect battery level and connect it to the board using IO pins, and report the level to the OS in a way that doesn't need a custom driver to be developed, so that the stock Android OS can display the battery level.  The purpose of this is so that if I were to replicate many of these computers, I could simply install the stock Android OS and it automatically detects the battery level, so that I would not have to install a custom driver on every single one.Everything I have asked may not make any sense, as I am not very familiar with android at all. I'm asking under the assumption that Android works similarly to a typical Linux OS."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T02:48:10.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"e40ac391-d94e-4fab-b030-34c5f1df75e9",
+            "UserId":"99690",
+            "CloseReasonId":null,
+            "PostId":"103603",
+            "PostHistoryTypeId":"1",
+            "Id":"337858",
+            "Text":"Is there a universal way for a circuit to detect battery life and report it to the stock OS?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T02:48:10.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"e40ac391-d94e-4fab-b030-34c5f1df75e9",
+            "UserId":"99690",
+            "CloseReasonId":null,
+            "PostId":"103603",
+            "PostHistoryTypeId":"3",
+            "Id":"337859",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-04-02T17:05:14.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce452a3a-56cd-452f-a9bc-6b5d6edf6332",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103603",
+            "PostHistoryTypeId":"10",
+            "Id":"340382",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

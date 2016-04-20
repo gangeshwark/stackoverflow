@@ -1,0 +1,71 @@
+{
+    "Body":"I have just bought an android phone and I want to get the latest OS. However, I must root and unlock bootloader and recovery.I understand that to root something you gain administrative privileges. However, I've seen some drawbacks of doing this.Can one of you explain what all of this does to my phone and point me in the right direction? I am new to this, so it would be much appreciated if you guys could help me on this. ",
+    "ViewCount":"2269",
+    "LastActivityDate":"2015-08-07T16:34:42.147",
+    "ClosedDate":"2015-08-17T21:05:44.473",
+    "Title":"What does rooting, bootloader, twrp and recovery mean?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"117598",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"120167",
+    "CreationDate":"2015-08-07T14:24:54.507",
+    "FavoriteCount":"1",
+    "Id":"117588",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-07T14:24:54.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"967d5fd2-805d-4d45-bd6e-49bd410aaa11",
+            "UserId":"120167",
+            "CloseReasonId":null,
+            "PostId":"117588",
+            "PostHistoryTypeId":"2",
+            "Id":"387251",
+            "Text":"I have just bought an android phone and I want to get the latest OS. However, I must root and unlock bootloader and recovery.I understand that to root something you gain administrative privileges. However, I've seen some drawbacks of doing this.Can one of you explain what all of this does to my phone and point me in the right direction? I am new to this, so it would be much appreciated if you guys could help me on this. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-07T14:24:54.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"967d5fd2-805d-4d45-bd6e-49bd410aaa11",
+            "UserId":"120167",
+            "CloseReasonId":null,
+            "PostId":"117588",
+            "PostHistoryTypeId":"1",
+            "Id":"387252",
+            "Text":"What does rooting, bootloader, twrp and recovery mean?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-07T14:24:54.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"967d5fd2-805d-4d45-bd6e-49bd410aaa11",
+            "UserId":"120167",
+            "CloseReasonId":null,
+            "PostId":"117588",
+            "PostHistoryTypeId":"3",
+            "Id":"387253",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2015-08-17T21:05:44.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef66f9a7-6bd3-4cbf-9e42-2aff03b3d20f",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"117588",
+            "PostHistoryTypeId":"10",
+            "Id":"391648",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

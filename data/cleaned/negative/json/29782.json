@@ -1,0 +1,71 @@
+{
+    "Body":"Here is what I want to do:In skype I have contacts: A,B,CIn android I use phone memory populated with google contacts: C,D,EMy goal is to display in my contact list users C,D,E with option to call in skype for contact C (as common for both list).What I do:  After installing skype: Sync contacts A,B,C(skype),C(google),D,E appear in phone contactsI merge contact CUnmark \"show Skype contacts\" in phone contacts settingsEverything works as I want: C(merged),D,EBUT When I restart skype I see the list in phone contacts like: A,B,C(merged),D,EHow can I achieve my goal even after restarting skype?",
+    "ViewCount":"477",
+    "LastActivityDate":"2012-09-22T11:15:46.187",
+    "ClosedDate":"2012-12-19T14:58:36.433",
+    "Title":"Adding Contacts From Skype",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20516",
+    "CreationDate":"2012-09-22T11:15:46.187",
+    "FavoriteCount":null,
+    "Id":"29782",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-22T11:15:46.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a90ba68-451f-4a75-bc5e-085f3b12a149",
+            "UserId":"20516",
+            "CloseReasonId":null,
+            "PostId":"29782",
+            "PostHistoryTypeId":"2",
+            "Id":"88882",
+            "Text":"Here is what I want to do:  In skype I have contacts: A,B,C  In android I use phone memory populated with google contacts: C,D,E  My goal is to display in my contact list users C,D,E with option to call in skype for contact C (as common for both list).  What I do:   - After installing skype: Sync contacts  - A,B,C(skype),C(google),D,E appear in phone contacts - I merge contact C - Unmark \"show Skype contacts\" in phone contacts settings - Everything works as I want: C(merged),D,E  BUT When I restart skype I see the list in phone contacts like: A,B,C(merged),D,E   How can I achieve my goal even after restarting skype?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-22T11:15:46.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a90ba68-451f-4a75-bc5e-085f3b12a149",
+            "UserId":"20516",
+            "CloseReasonId":null,
+            "PostId":"29782",
+            "PostHistoryTypeId":"1",
+            "Id":"88883",
+            "Text":"Adding Contacts From Skype"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-22T11:15:46.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a90ba68-451f-4a75-bc5e-085f3b12a149",
+            "UserId":"20516",
+            "CloseReasonId":null,
+            "PostId":"29782",
+            "PostHistoryTypeId":"3",
+            "Id":"88884",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T14:58:36.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2b8a557-8600-4044-b40a-e3da22835d6b",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"29782",
+            "PostHistoryTypeId":"10",
+            "Id":"107447",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have no problems when I connect any of my other Android devices (Galaxy 7\" & 10\", DroidX, and Motorola Xoom), but when I attach either the Xyboard 8\" or 10\", adb doesn't see them as connected and Eclipse doesn't either. I have everything on the devices set the same as the others, USB Debugging in Development and Allow unkown sources.  What am I missing? ",
+    "ViewCount":"258",
+    "LastActivityDate":"2012-01-22T22:19:59.917",
+    "ClosedDate":"2012-12-31T12:08:56.677",
+    "Title":"Has anyone had trouble connecting the Xyboard via ADB?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47",
+    "CreationDate":"2012-01-22T22:19:59.917",
+    "FavoriteCount":"1",
+    "Id":"18626",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-22T22:19:59.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"6194934a-12c1-4666-89dd-42e44469652d",
+            "UserId":"47",
+            "CloseReasonId":null,
+            "PostId":"18626",
+            "PostHistoryTypeId":"2",
+            "Id":"51172",
+            "Text":"I have no problems when I connect any of my other Android devices (Galaxy 7\" & 10\", DroidX, and Motorola Xoom), but when I attach either the Xyboard 8\" or 10\", adb doesn't see them as connected and Eclipse doesn't either. I have everything on the devices set the same as the others, USB Debugging in Development and Allow unkown sources.  What am I missing? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-22T22:19:59.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"6194934a-12c1-4666-89dd-42e44469652d",
+            "UserId":"47",
+            "CloseReasonId":null,
+            "PostId":"18626",
+            "PostHistoryTypeId":"1",
+            "Id":"51173",
+            "Text":"Has anyone had trouble connecting the Xyboard via ADB?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-22T22:19:59.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"6194934a-12c1-4666-89dd-42e44469652d",
+            "UserId":"47",
+            "CloseReasonId":null,
+            "PostId":"18626",
+            "PostHistoryTypeId":"3",
+            "Id":"51174",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-31T12:08:56.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"1936e246-f9d3-46e3-babf-b8c710523db9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18626",
+            "PostHistoryTypeId":"10",
+            "Id":"110415",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

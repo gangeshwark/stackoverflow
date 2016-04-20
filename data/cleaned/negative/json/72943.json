@@ -1,0 +1,71 @@
+{
+    "Body":"If you root your android device, and then factory restore it... does it remain rooted?",
+    "ViewCount":"3183",
+    "LastActivityDate":"2014-06-10T22:02:07.553",
+    "ClosedDate":"2014-06-11T01:21:53.200",
+    "Title":"Does an android phone unroot itself on factory reset?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"72944",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10268",
+    "CreationDate":"2014-06-10T21:59:04.913",
+    "FavoriteCount":null,
+    "Id":"72943",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-10T21:59:04.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"3cac1714-27bd-4900-806b-919212081973",
+            "UserId":"10268",
+            "CloseReasonId":null,
+            "PostId":"72943",
+            "PostHistoryTypeId":"2",
+            "Id":"244387",
+            "Text":"If you root your android device, and then factory restore it... does it remain rooted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-10T21:59:04.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"3cac1714-27bd-4900-806b-919212081973",
+            "UserId":"10268",
+            "CloseReasonId":null,
+            "PostId":"72943",
+            "PostHistoryTypeId":"1",
+            "Id":"244388",
+            "Text":"Does an android phone unroot itself on factory reset?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-10T21:59:04.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"3cac1714-27bd-4900-806b-919212081973",
+            "UserId":"10268",
+            "CloseReasonId":null,
+            "PostId":"72943",
+            "PostHistoryTypeId":"3",
+            "Id":"244389",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-11T01:21:53.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"797e2f2b-b910-480f-af26-771b96e2a9e5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"72943",
+            "PostHistoryTypeId":"10",
+            "Id":"244427",
+            "Text":"{\"OriginalQuestionIds\":[7169],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

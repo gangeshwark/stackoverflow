@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I install the Google Apps Package (Play Store, \u2026) on my Android device?  I'm currently living in China,so I bought my Asus Eee Pad Transformer 101 here.For some reason it does not come with the official Google Marketplace applicationbut with some other application that only supports chinese as a UI language and uses someother \"less official\" market place.I did find the Market App from google and installed it.However when I start it it tells me  You must add an account to the device to continue. Do you want to add  one now?If I click Yes, I'm simply redirected to the home screen (the app remains open in the background)Does anybody know of a way to set this up? Because the only thing  was able to add to the device was my gmail account for e-mail.Thnx.",
+    "ViewCount":"1030",
+    "LastActivityDate":"2012-04-16T08:31:24.123",
+    "ClosedDate":"2012-08-20T16:31:38.077",
+    "Title":"Installing official Google Marketplace on a chinese Asus Eee Pad Transformer 101",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"21874",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7760",
+    "CreationDate":"2011-09-04T04:44:38.707",
+    "FavoriteCount":null,
+    "Id":"13081",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-04T04:44:38.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"87323daf-1604-4cb4-bc72-a703631ce3bc",
+            "UserId":"7760",
+            "CloseReasonId":null,
+            "PostId":"13081",
+            "PostHistoryTypeId":"2",
+            "Id":"33878",
+            "Text":"I'm currently living in China,so I bought my Asus Eee Pad Transformer 101 here.For some reason it does not come with the official Google Marketplace applicationbut with some other application that only supports chinese as a UI language and uses someother \"less official\" market place.I did find the Market App from google and installed it.However when I start it it tells me> You must add an account to the device to continue. Do you want to add> one now?If I click Yes, I'm simply redirected to the home screen (the app remains open in the background)Does anybody know of a way to set this up? Because the only thing  was able to add to the device was my gmail account for e-mail.Thnx."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-04T04:44:38.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"87323daf-1604-4cb4-bc72-a703631ce3bc",
+            "UserId":"7760",
+            "CloseReasonId":null,
+            "PostId":"13081",
+            "PostHistoryTypeId":"1",
+            "Id":"33879",
+            "Text":"Installing official Google Marketplace on a chinese Asus Eee Pad Transformer 101"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-04T04:44:38.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"87323daf-1604-4cb4-bc72-a703631ce3bc",
+            "UserId":"7760",
+            "CloseReasonId":null,
+            "PostId":"13081",
+            "PostHistoryTypeId":"3",
+            "Id":"33880",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-20T16:31:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7835616-1eba-4588-8e0f-4daae8cc655c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"13081",
+            "PostHistoryTypeId":"5",
+            "Id":"81587",
+            "Text":"> **Possible Duplicate:**  > [How can I install the Google Apps Package (Play Store, \u2026) on my Android device?](http:\/\/android.stackexchange.com\/questions\/27808\/how-can-i-install-the-google-apps-package-play-store-on-my-android-device)  I'm currently living in China,so I bought my Asus Eee Pad Transformer 101 here.For some reason it does not come with the official Google Marketplace applicationbut with some other application that only supports chinese as a UI language and uses someother \"less official\" market place.I did find the Market App from google and installed it.However when I start it it tells me> You must add an account to the device to continue. Do you want to add> one now?If I click Yes, I'm simply redirected to the home screen (the app remains open in the background)Does anybody know of a way to set this up? Because the only thing  was able to add to the device was my gmail account for e-mail.Thnx."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-20T16:31:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b03c46c-bc65-4dbf-be49-8ac235690d41",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"13081",
+            "PostHistoryTypeId":"10",
+            "Id":"81588",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

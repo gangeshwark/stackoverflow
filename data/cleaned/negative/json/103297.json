@@ -1,0 +1,83 @@
+{
+    "Body":"During process of sharing windows pc internet via usb option I am not able to select pc system version as there is no option to show? I am using oplus xonphone 5 with android 4.4.2 os.After using other option i.e. usb tethering my pc shows other unidentified network with internet access but still I am not able to access internet on my mobile.please help. my phone is not rooted.",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-03-24T15:24:11.390",
+    "ClosedDate":"2015-03-24T18:47:26.630",
+    "Title":"sharing windows pc internet via usb option to oplus xonphone 5",
+    "LastEditorUserId":"1951",
+    "Tags":"",
+    "LastEditDate":"2015-03-24T15:24:11.390",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99274",
+    "CreationDate":"2015-03-23T05:02:51.163",
+    "FavoriteCount":null,
+    "Id":"103297",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-23T05:02:51.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2efadaf-298e-4ca1-b31d-77c0d58469da",
+            "UserId":"99274",
+            "CloseReasonId":null,
+            "PostId":"103297",
+            "PostHistoryTypeId":"2",
+            "Id":"336742",
+            "Text":"During process of sharing windows pc internet via usb option I am not able to select pc system version as there is no option to show? I am using oplus xonphone 5 with android 4.4.2 os.After using other option i.e. usb tethering my pc shows other unidentified network with internet access but still I am not able to access internet on my mobile.please help. my phone is not rooted."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-23T05:02:51.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2efadaf-298e-4ca1-b31d-77c0d58469da",
+            "UserId":"99274",
+            "CloseReasonId":null,
+            "PostId":"103297",
+            "PostHistoryTypeId":"1",
+            "Id":"336743",
+            "Text":"sharing windows pc internet via usb option to oplus xonphone 5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-23T05:02:51.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2efadaf-298e-4ca1-b31d-77c0d58469da",
+            "UserId":"99274",
+            "CloseReasonId":null,
+            "PostId":"103297",
+            "PostHistoryTypeId":"3",
+            "Id":"336744",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"added reverse-tether tag",
+            "CreationDate":"2015-03-24T15:24:11.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"1bcda72f-46a7-47ed-b070-e0ff28519590",
+            "UserId":"1951",
+            "CloseReasonId":null,
+            "PostId":"103297",
+            "PostHistoryTypeId":"6",
+            "Id":"337312",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-24T18:47:26.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"91fcf2e5-ff1f-4326-80af-5b2106660ae6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103297",
+            "PostHistoryTypeId":"10",
+            "Id":"337351",
+            "Text":"{\"OriginalQuestionIds\":[2298],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

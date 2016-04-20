@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my device get the Android 4.1 update (Jelly Bean)?  If the Android device is a tablet but not a phone -- such as for ASUS Tranformer TF300 -- then how can the device be upgraded to Android 4.1?",
+    "ViewCount":"3369",
+    "LastActivityDate":"2012-06-29T12:24:11.187",
+    "ClosedDate":"2012-06-29T13:36:34.527",
+    "Title":"How to upgrade to Jelly Bean (Android 4.1) for an ASUS Transformer TF300 or TF201?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4057",
+    "CreationDate":"2012-06-29T10:28:41.077",
+    "FavoriteCount":null,
+    "Id":"25025",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-29T10:28:41.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f1c79b5-6228-41c3-bff5-1e0ee6c6558a",
+            "UserId":"4057",
+            "CloseReasonId":null,
+            "PostId":"25025",
+            "PostHistoryTypeId":"2",
+            "Id":"71872",
+            "Text":"If the Android device is a tablet but not a phone -- such as for ASUS Tranformer TF300 -- then how can the device be upgraded to Android 4.1?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-29T10:28:41.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f1c79b5-6228-41c3-bff5-1e0ee6c6558a",
+            "UserId":"4057",
+            "CloseReasonId":null,
+            "PostId":"25025",
+            "PostHistoryTypeId":"1",
+            "Id":"71873",
+            "Text":"How to upgrade to Jelly Bean (Android 4.1) for an ASUS Transformer TF300 or TF201?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-29T10:28:41.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f1c79b5-6228-41c3-bff5-1e0ee6c6558a",
+            "UserId":"4057",
+            "CloseReasonId":null,
+            "PostId":"25025",
+            "PostHistoryTypeId":"3",
+            "Id":"71874",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-06-29T13:36:35.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"e75b2f1d-1abe-454e-9b6e-b32703962802",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25025",
+            "PostHistoryTypeId":"5",
+            "Id":"71897",
+            "Text":"> **Possible Duplicate:**  > [When will my device get the Android 4.1 update (Jelly Bean)?](http:\/\/android.stackexchange.com\/questions\/24575\/when-will-my-device-get-the-android-4-1-update-jelly-bean)  If the Android device is a tablet but not a phone -- such as for ASUS Tranformer TF300 -- then how can the device be upgraded to Android 4.1?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-06-29T13:36:34.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"2db40de6-2045-4fd2-b3af-a386d1d7a5d8",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"25025",
+            "PostHistoryTypeId":"10",
+            "Id":"71898",
+            "Text":"{\"OriginalQuestionIds\":[24575],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

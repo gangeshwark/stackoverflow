@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is there any way to change the emoticons in the standard android sms app?  I find graphical emoticons (smileys) seriously distracting. How do I disable them?My device is a rooted HTC Desire running CyanogenMod 7.10 RC, but I don't think that'll limit the applicability of the answers.",
+    "ViewCount":"463",
+    "LastActivityDate":"2011-09-17T09:30:05.037",
+    "ClosedDate":"2012-07-10T00:03:03.940",
+    "Title":"Disable smileys in SMS",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3757",
+    "CreationDate":"2011-09-17T09:30:05.037",
+    "FavoriteCount":null,
+    "Id":"13569",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-17T09:30:05.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"76ea46a1-fcd6-4413-90af-364929a4b86c",
+            "UserId":"3757",
+            "CloseReasonId":null,
+            "PostId":"13569",
+            "PostHistoryTypeId":"2",
+            "Id":"35622",
+            "Text":"I find graphical emoticons (smileys) seriously distracting. How do I disable them?My device is a rooted HTC Desire running CyanogenMod 7.10 RC, but I don't think that'll limit the applicability of the answers."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-17T09:30:05.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"76ea46a1-fcd6-4413-90af-364929a4b86c",
+            "UserId":"3757",
+            "CloseReasonId":null,
+            "PostId":"13569",
+            "PostHistoryTypeId":"1",
+            "Id":"35623",
+            "Text":"Disable smileys in SMS"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-17T09:30:05.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"76ea46a1-fcd6-4413-90af-364929a4b86c",
+            "UserId":"3757",
+            "CloseReasonId":null,
+            "PostId":"13569",
+            "PostHistoryTypeId":"3",
+            "Id":"35624",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-10T00:03:05.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7a8dd9b-d115-4e02-a0e0-d3fe825c255b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"13569",
+            "PostHistoryTypeId":"5",
+            "Id":"73753",
+            "Text":"> **Possible Duplicate:**  > [Is there any way to change the emoticons in the standard android sms app?](http:\/\/android.stackexchange.com\/questions\/2916\/is-there-any-way-to-change-the-emoticons-in-the-standard-android-sms-app)  I find graphical emoticons (smileys) seriously distracting. How do I disable them?My device is a rooted HTC Desire running CyanogenMod 7.10 RC, but I don't think that'll limit the applicability of the answers."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-10T00:03:03.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"04b60355-8d92-4339-994b-854ff6960679",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"13569",
+            "PostHistoryTypeId":"10",
+            "Id":"73754",
+            "Text":"{\"OriginalQuestionIds\":[2916],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

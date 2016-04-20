@@ -1,0 +1,71 @@
+{
+    "Body":"I was wondering is there any way to test websites on my phone? I am a Web Programmer, and I usually code designs which are responsive. So I want to check if the design is compatible on mobile phone. I use XAMPP on my Windows 7 Laptop for Apache services. Is there anything like Hamachi I could use to see my http:\/\/localhost via my Phone?",
+    "ViewCount":"44",
+    "LastActivityDate":"2013-12-13T20:39:43.543",
+    "ClosedDate":"2013-12-14T20:46:15.607",
+    "Title":"Testing Websites on Phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"58920",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"48323",
+    "CreationDate":"2013-12-13T11:53:06.213",
+    "FavoriteCount":null,
+    "Id":"58889",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-13T11:53:06.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"0781024f-603e-4ca8-aaf5-d4b516e7391e",
+            "UserId":"48323",
+            "CloseReasonId":null,
+            "PostId":"58889",
+            "PostHistoryTypeId":"2",
+            "Id":"198133",
+            "Text":"I was wondering is there any way to test websites on my phone? I am a Web Programmer, and I usually code designs which are responsive. So I want to check if the design is compatible on mobile phone. I use XAMPP on my Windows 7 Laptop for Apache services. Is there anything like Hamachi I could use to see my `http:\/\/localhost` via my Phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-13T11:53:06.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"0781024f-603e-4ca8-aaf5-d4b516e7391e",
+            "UserId":"48323",
+            "CloseReasonId":null,
+            "PostId":"58889",
+            "PostHistoryTypeId":"1",
+            "Id":"198134",
+            "Text":"Testing Websites on Phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-13T11:53:06.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"0781024f-603e-4ca8-aaf5-d4b516e7391e",
+            "UserId":"48323",
+            "CloseReasonId":null,
+            "PostId":"58889",
+            "PostHistoryTypeId":"3",
+            "Id":"198135",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-12-14T20:46:15.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9be5292-3b2f-404f-ac95-8728b0d0b400",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"58889",
+            "PostHistoryTypeId":"10",
+            "Id":"198455",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23562,\"DisplayName\":\"Compro01\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

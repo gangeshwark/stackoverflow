@@ -1,0 +1,71 @@
+{
+    "Body":"I'm pretty geeky, but I haven't really followed all the tech behind LTE rollouts and wireless bands and whatnot. I barely know the difference between CDMA and GSM. I know Verizon didn't use a SIM and generally phones weren't interchangeable, but that now they do use SIMs... Overall, I'm confused. But, confused or not, I want to buy a new Nexus phone.The Google store web site for the 6P just lists a bunch of bands and says:  GSM\/EDGE: 850\/900\/1800\/1900MHz    UMTS\/WCDMA: B1\/2\/4\/5\/8    CDMA: BC0\/1\/10    LTE (FDD): B2\/3\/4\/5\/7\/12\/13\/17\/25\/26\/29\/30    LTE (TDD): B41    CA DL: B2-B2, B2-B4, B2-B5, B2-B12, B2-B13, B2-B17, B2-B29, B4-B4, B4-B5, B4-B13, B4-B17, B4-B29, B41-B41    Phone is carrier-unlocked with wide-range band support for service providers worldwide. Check with your service provider for more information.That last bit is not very promising, since such information is generally buried in knowledgebases and forums on carrier websites, and anyway the carriers mostly want to sell me a phone directly and aren't highly incentivized to make this simple.Does this big long list mean that everything in the US \u2014 or, at least, T-Mobile, Sprint, AT&T, and Verizon \u2014 will work? Will they all work everywhere that they have coverage, or might it depend on certain bands being deployed in some areas?To make things worse, the 5X has a slightly different list \u2014 under LTE (FDD), 30 is gone but 1 is added. CA DL becomes LTE CA DL, and includes B4-B7 and B4-B12. Does this make any practical difference?",
+    "ViewCount":"1977",
+    "LastActivityDate":"2015-09-29T18:52:09.940",
+    "ClosedDate":"2015-09-29T19:41:36.557",
+    "Title":"Will the 2015 Nexus phones (5X, 6P) work with any US cell provider?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1836",
+    "CreationDate":"2015-09-29T18:41:31.193",
+    "FavoriteCount":null,
+    "Id":"124558",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-29T18:41:31.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7c34532-f0eb-4425-a08b-6324df55e17c",
+            "UserId":"1836",
+            "CloseReasonId":null,
+            "PostId":"124558",
+            "PostHistoryTypeId":"2",
+            "Id":"407450",
+            "Text":"I'm pretty geeky, but I haven't really followed all the tech behind LTE rollouts and wireless bands and whatnot. I barely know the difference between CDMA and GSM. I know Verizon didn't use a SIM and generally phones weren't interchangeable, but that now they do use SIMs... Overall, I'm confused. But, confused or not, I want to buy a new Nexus phone.The [Google store web site](https:\/\/store.google.com\/product\/nexus_6p ) for the 6P just lists a bunch of bands and says:> GSM\/EDGE: 850\/900\/1800\/1900MHz> UMTS\/WCDMA: B1\/2\/4\/5\/8> CDMA: BC0\/1\/10> LTE (FDD): B2\/3\/4\/5\/7\/12\/13\/17\/25\/26\/29\/30> LTE (TDD): B41> CA DL: B2-B2, B2-B4, B2-B5, B2-B12, B2-B13, B2-B17, B2-B29, B4-B4, B4-B5, B4-B13, B4-B17, B4-B29, B41-B41> Phone is carrier-unlocked with wide-range band support for service providers worldwide. Check with your service provider for more information.That last bit is not very promising, since such information is generally buried in knowledgebases and forums on carrier websites, and anyway the carriers mostly want to sell me a phone directly and aren't highly incentivized to make this simple.Does this big long list mean that everything in the US \u2014 or, at least, T-Mobile, Sprint, AT&T, and Verizon \u2014 will work? Will they all work everywhere that they have coverage, or might it depend on certain bands being deployed in some areas?To make things worse, the 5X has a slightly different list \u2014 under `LTE (FDD)`, `30` is gone but `1` is added. `CA DL` becomes `LTE CA DL`, and includes `B4-B7 and B4-B12`. Does this make any practical difference?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-29T18:41:31.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7c34532-f0eb-4425-a08b-6324df55e17c",
+            "UserId":"1836",
+            "CloseReasonId":null,
+            "PostId":"124558",
+            "PostHistoryTypeId":"1",
+            "Id":"407451",
+            "Text":"Will the 2015 Nexus phones (5X, 6P) work with any US cell provider?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-29T18:41:31.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7c34532-f0eb-4425-a08b-6324df55e17c",
+            "UserId":"1836",
+            "CloseReasonId":null,
+            "PostId":"124558",
+            "PostHistoryTypeId":"3",
+            "Id":"407452",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-29T19:41:36.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b095132-aea2-487a-9bb8-56761dffd482",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"124558",
+            "PostHistoryTypeId":"10",
+            "Id":"407476",
+            "Text":"{\"OriginalQuestionIds\":[29677],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

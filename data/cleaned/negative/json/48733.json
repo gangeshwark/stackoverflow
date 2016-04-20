@@ -1,0 +1,71 @@
+{
+    "Body":"On my Samsung Galaxy Tab, I have contacts stored on the Device Contacts and Google Account Contacts. Since only the latter get synced, I want to change the former in Google Contacts format. I read to achieve this I have to export device contacts to the SD card. Delete all device contacts. Import back contacts on the SD card, specifying to import them to the Google Account. The problem is the option Export to SD card is greyed-out. I am on Honeycomb.",
+    "ViewCount":"167",
+    "LastActivityDate":"2013-07-08T06:27:14.500",
+    "ClosedDate":"2013-07-10T11:35:28.800",
+    "Title":"Export to SD card disabled",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"37174",
+    "CreationDate":"2013-07-07T22:59:46.237",
+    "FavoriteCount":null,
+    "Id":"48733",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-07T22:59:46.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"82ea294d-f217-41ca-9b9e-afbfa043b239",
+            "UserId":"37174",
+            "CloseReasonId":null,
+            "PostId":"48733",
+            "PostHistoryTypeId":"2",
+            "Id":"158497",
+            "Text":"On my Samsung Galaxy Tab, I have contacts stored on the Device Contacts and Google Account Contacts. Since only the latter get synced, I want to change the former in Google Contacts format. I read to achieve this I have to export device contacts to the SD card. Delete all device contacts. Import back contacts on the SD card, specifying to import them to the Google Account. The problem is the option `Export to SD card` is greyed-out.  I am on Honeycomb."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-07T22:59:46.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"82ea294d-f217-41ca-9b9e-afbfa043b239",
+            "UserId":"37174",
+            "CloseReasonId":null,
+            "PostId":"48733",
+            "PostHistoryTypeId":"1",
+            "Id":"158498",
+            "Text":"Export to SD card disabled"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-07T22:59:46.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"82ea294d-f217-41ca-9b9e-afbfa043b239",
+            "UserId":"37174",
+            "CloseReasonId":null,
+            "PostId":"48733",
+            "PostHistoryTypeId":"3",
+            "Id":"158499",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-10T11:35:28.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"977aab57-97b8-46b8-a626-8b00d5e01759",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"48733",
+            "PostHistoryTypeId":"10",
+            "Id":"159100",
+            "Text":"{\"OriginalQuestionIds\":[637],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

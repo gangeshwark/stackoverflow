@@ -1,0 +1,71 @@
+{
+    "Body":"I read something about uses-permission in android application , but I don't know what is \"android.permission.INTERNET\" , or why we need this.",
+    "ViewCount":"391",
+    "LastActivityDate":"2014-08-07T14:02:40.550",
+    "ClosedDate":"2014-08-08T05:53:45.583",
+    "Title":"what is uses-permission \"android.permission.INTERNET\"?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"79019",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67531",
+    "CreationDate":"2014-08-07T13:32:56.607",
+    "FavoriteCount":"0",
+    "Id":"79016",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T13:32:56.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"d7705fc6-279a-4f91-ba3b-ddde37d5527d",
+            "UserId":"67531",
+            "CloseReasonId":null,
+            "PostId":"79016",
+            "PostHistoryTypeId":"2",
+            "Id":"260721",
+            "Text":"I read something about uses-permission in android application , but I don't know what is \"android.permission.INTERNET\" , or why we need this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T13:32:56.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"d7705fc6-279a-4f91-ba3b-ddde37d5527d",
+            "UserId":"67531",
+            "CloseReasonId":null,
+            "PostId":"79016",
+            "PostHistoryTypeId":"1",
+            "Id":"260722",
+            "Text":"what is uses-permission \"android.permission.INTERNET\"?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-07T13:32:56.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"d7705fc6-279a-4f91-ba3b-ddde37d5527d",
+            "UserId":"67531",
+            "CloseReasonId":null,
+            "PostId":"79016",
+            "PostHistoryTypeId":"3",
+            "Id":"260723",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-08T05:53:45.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"12966e6d-1915-4190-b41c-3532dcdc2cde",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"79016",
+            "PostHistoryTypeId":"10",
+            "Id":"260883",
+            "Text":"{\"OriginalQuestionIds\":[38388],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

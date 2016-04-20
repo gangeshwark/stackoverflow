@@ -1,0 +1,71 @@
+{
+    "Body":"I'm on android 5.0.2 Cyanogen OS. One of the newest feature in lollipop is the multiple user accounts. However, I don't wish to have any other account other than the admin. Settings> Users doesn't let to remove Guest account. Any other solution?",
+    "ViewCount":"473",
+    "LastActivityDate":"2015-09-25T04:10:14.630",
+    "ClosedDate":"2015-09-28T03:10:17.203",
+    "Title":"How to remove Guest account on lollipop?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"128958",
+    "CreationDate":"2015-09-25T04:10:14.630",
+    "FavoriteCount":null,
+    "Id":"124173",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-25T04:10:14.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"b02bed9d-c5e4-4a35-8cbb-fadd430476ed",
+            "UserId":"128958",
+            "CloseReasonId":null,
+            "PostId":"124173",
+            "PostHistoryTypeId":"2",
+            "Id":"405849",
+            "Text":"I'm on android 5.0.2 Cyanogen OS. One of the newest feature in lollipop is the multiple user accounts. However, I don't wish to have any other account other than the admin. Settings> Users doesn't let to remove Guest account. Any other solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-25T04:10:14.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"b02bed9d-c5e4-4a35-8cbb-fadd430476ed",
+            "UserId":"128958",
+            "CloseReasonId":null,
+            "PostId":"124173",
+            "PostHistoryTypeId":"1",
+            "Id":"405850",
+            "Text":"How to remove Guest account on lollipop?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-25T04:10:14.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"b02bed9d-c5e4-4a35-8cbb-fadd430476ed",
+            "UserId":"128958",
+            "CloseReasonId":null,
+            "PostId":"124173",
+            "PostHistoryTypeId":"3",
+            "Id":"405851",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-28T03:10:17.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9b96f01-dd1c-4669-a86f-f5b4da6cb04b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"124173",
+            "PostHistoryTypeId":"10",
+            "Id":"406812",
+            "Text":"{\"OriginalQuestionIds\":[102821,87664],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

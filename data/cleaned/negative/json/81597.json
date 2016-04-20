@@ -1,0 +1,71 @@
+{
+    "Body":"My device doesn't have a physical menu button, and the app that I'm using doesn't have one of the menu buttons that users can click (the three dots).  How can I open the app's menu without a menu button or key?",
+    "ViewCount":"10566",
+    "LastActivityDate":"2014-08-30T23:02:29.340",
+    "ClosedDate":"2014-08-31T17:25:16.397",
+    "Title":"Can't open menu in apps without a menu button or physical key",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64453",
+    "CreationDate":"2014-08-30T23:02:29.340",
+    "FavoriteCount":null,
+    "Id":"81597",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-30T23:02:29.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"769ba70c-9e80-4ea0-932a-cd8f36a24a85",
+            "UserId":"64453",
+            "CloseReasonId":null,
+            "PostId":"81597",
+            "PostHistoryTypeId":"2",
+            "Id":"267180",
+            "Text":"My device doesn't have a physical menu button, and the app that I'm using doesn't have one of the menu buttons that users can click (the three dots).  How can I open the app's menu without a menu button or key?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-30T23:02:29.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"769ba70c-9e80-4ea0-932a-cd8f36a24a85",
+            "UserId":"64453",
+            "CloseReasonId":null,
+            "PostId":"81597",
+            "PostHistoryTypeId":"1",
+            "Id":"267181",
+            "Text":"Can't open menu in apps without a menu button or physical key"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-30T23:02:29.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"769ba70c-9e80-4ea0-932a-cd8f36a24a85",
+            "UserId":"64453",
+            "CloseReasonId":null,
+            "PostId":"81597",
+            "PostHistoryTypeId":"3",
+            "Id":"267182",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-31T17:25:16.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"b38ef9d1-4826-4d1a-bc71-56f40fedf1eb",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"81597",
+            "PostHistoryTypeId":"10",
+            "Id":"267329",
+            "Text":"{\"OriginalQuestionIds\":[45920],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

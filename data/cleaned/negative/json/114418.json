@@ -1,0 +1,71 @@
+{
+    "Body":"My Mobile Modile no spice mi-402  , why i am not able to scanning QR code from https:\/\/web.whatsapp.com\/.",
+    "ViewCount":"24",
+    "LastActivityDate":"2015-07-06T05:47:53.993",
+    "ClosedDate":"2015-07-06T13:54:39.650",
+    "Title":"Why I can't scan the Whatsapp QR code?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"115151",
+    "CreationDate":"2015-07-06T05:47:53.993",
+    "FavoriteCount":null,
+    "Id":"114418",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T05:47:53.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5f2a0da-0a42-4905-a0df-ba9f63697453",
+            "UserId":"115151",
+            "CloseReasonId":null,
+            "PostId":"114418",
+            "PostHistoryTypeId":"2",
+            "Id":"375170",
+            "Text":"My Mobile Modile no spice mi-402  , why i am not able to scanning QR code from https:\/\/web.whatsapp.com\/."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T05:47:53.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5f2a0da-0a42-4905-a0df-ba9f63697453",
+            "UserId":"115151",
+            "CloseReasonId":null,
+            "PostId":"114418",
+            "PostHistoryTypeId":"1",
+            "Id":"375171",
+            "Text":"Why I can't scan the Whatsapp QR code?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T05:47:53.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5f2a0da-0a42-4905-a0df-ba9f63697453",
+            "UserId":"115151",
+            "CloseReasonId":null,
+            "PostId":"114418",
+            "PostHistoryTypeId":"3",
+            "Id":"375172",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-06T13:54:39.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b27d7ab-692b-4f14-8986-643d163f4e30",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114418",
+            "PostHistoryTypeId":"10",
+            "Id":"375386",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

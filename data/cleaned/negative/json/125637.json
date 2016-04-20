@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Lenovo s850 and since last month there has been a malware or Trojan in my phone.This virus is undeleteable, it doesn't delete even after factory resetting the phone because it declares itself a system application.It slows the phone, consumes a lot of battery power, randomly installs applications in my phone, freezes the phone and sometimes no feature works.How to fix it, maybe by reinstalling Android software or firmware in the phone? How can I do that?",
+    "ViewCount":"73",
+    "LastActivityDate":"2015-10-11T18:10:42.587",
+    "ClosedDate":"2015-10-22T23:59:42.587",
+    "Title":"MonkeyTest, TimeService, ikeyboard, Measure",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131529",
+    "CreationDate":"2015-10-11T18:10:42.587",
+    "FavoriteCount":null,
+    "Id":"125637",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-11T18:10:42.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd94c8e1-e075-480b-9a62-fc8767f1dba1",
+            "UserId":"131529",
+            "CloseReasonId":null,
+            "PostId":"125637",
+            "PostHistoryTypeId":"2",
+            "Id":"411797",
+            "Text":"I have a Lenovo s850 and since last month there has been a malware or Trojan in my phone.This virus is undeleteable, it doesn't delete even after factory resetting the phone because it declares itself a system application.It slows the phone, consumes a lot of battery power, randomly installs applications in my phone, freezes the phone and sometimes no feature works.How to fix it, maybe by reinstalling Android software or firmware in the phone? How can I do that?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-11T18:10:42.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd94c8e1-e075-480b-9a62-fc8767f1dba1",
+            "UserId":"131529",
+            "CloseReasonId":null,
+            "PostId":"125637",
+            "PostHistoryTypeId":"1",
+            "Id":"411798",
+            "Text":"MonkeyTest, TimeService, ikeyboard, Measure"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-11T18:10:42.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd94c8e1-e075-480b-9a62-fc8767f1dba1",
+            "UserId":"131529",
+            "CloseReasonId":null,
+            "PostId":"125637",
+            "PostHistoryTypeId":"3",
+            "Id":"411799",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-22T23:59:42.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebc83ed2-b4a0-499e-9582-eba0fb9a17cc",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125637",
+            "PostHistoryTypeId":"10",
+            "Id":"416136",
+            "Text":"{\"OriginalQuestionIds\":[120362],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

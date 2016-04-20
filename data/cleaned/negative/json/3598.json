@@ -1,0 +1,83 @@
+{
+    "Body":"I'm considering switching to a service\/app like 1Password, Keepass, LastPass, etc. but before deciding on which to use, I was wondering if anyone else had experience with one of these services and using it on their Android phone?Ideally, I'm looking for something that is very accessible to use on my phone.",
+    "ViewCount":"970",
+    "LastActivityDate":"2010-12-15T18:28:26.573",
+    "ClosedDate":"2014-02-09T17:59:28.397",
+    "Title":"Storing passwords on your phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"6",
+    "AcceptedAnswerId":null,
+    "Score":"8",
+    "CommunityOwnedDate":"2010-12-13T16:58:28.770",
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10",
+    "CreationDate":"2010-12-13T16:58:20.940",
+    "FavoriteCount":"5",
+    "Id":"3598",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-13T16:58:20.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ee4830f-ed27-4742-ba27-599067115256",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"3598",
+            "PostHistoryTypeId":"2",
+            "Id":"7393",
+            "Text":"I'm considering switching to a service\/app like 1Password, Keepass, LastPass, etc. but before deciding on which to use, I was wondering if anyone else had experience with one of these services and using it on their Android phone?Ideally, I'm looking for something that is very accessible to use on my phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-13T16:58:20.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ee4830f-ed27-4742-ba27-599067115256",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"3598",
+            "PostHistoryTypeId":"1",
+            "Id":"7394",
+            "Text":"Storing passwords on your phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-13T16:58:20.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ee4830f-ed27-4742-ba27-599067115256",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"3598",
+            "PostHistoryTypeId":"3",
+            "Id":"7395",
+            "Text":""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-13T16:58:20.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ee4830f-ed27-4742-ba27-599067115256",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"3598",
+            "PostHistoryTypeId":"16",
+            "Id":"7396",
+            "Text":null
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2014-02-09T17:59:28.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7bcb04d-b962-4691-8451-6da2df9ed3e0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3598",
+            "PostHistoryTypeId":"10",
+            "Id":"214372",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

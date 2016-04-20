@@ -1,0 +1,71 @@
+{
+    "Body":"tried almost every solution but faced very frequently.Android should deliver a fix for it and at least show more details on the failure.almost could not download from weeks due to 495 error.",
+    "ViewCount":"17889",
+    "LastActivityDate":"2014-10-14T09:17:28.460",
+    "ClosedDate":"2014-10-14T14:38:13.477",
+    "Title":"android error 495 while downloading application , why is there no solution for it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"76291",
+    "CreationDate":"2014-10-14T08:45:32.383",
+    "FavoriteCount":null,
+    "Id":"84859",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T08:45:32.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"036a5ad0-ae09-495c-a2a2-210a63747a5b",
+            "UserId":"76291",
+            "CloseReasonId":null,
+            "PostId":"84859",
+            "PostHistoryTypeId":"2",
+            "Id":"278558",
+            "Text":"tried almost every solution but faced very frequently.Android should deliver a fix for it and at least show more details on the failure.almost could not download from weeks due to 495 error."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T08:45:32.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"036a5ad0-ae09-495c-a2a2-210a63747a5b",
+            "UserId":"76291",
+            "CloseReasonId":null,
+            "PostId":"84859",
+            "PostHistoryTypeId":"1",
+            "Id":"278559",
+            "Text":"android error 495 while downloading application , why is there no solution for it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T08:45:32.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"036a5ad0-ae09-495c-a2a2-210a63747a5b",
+            "UserId":"76291",
+            "CloseReasonId":null,
+            "PostId":"84859",
+            "PostHistoryTypeId":"3",
+            "Id":"278560",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-14T14:38:13.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"e579b6e2-04f1-4102-8b7f-9e8c5273a7fe",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84859",
+            "PostHistoryTypeId":"10",
+            "Id":"278655",
+            "Text":"{\"OriginalQuestionIds\":[23055],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

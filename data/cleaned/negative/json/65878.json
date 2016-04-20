@@ -1,0 +1,83 @@
+{
+    "Body":"I just got a Samsung Galaxy Note 3 and when I go into my settings then add an account and add a gmail account, it gives me an option to choose what I want to sync. I unchecked 'photos' and 'contacts' and everything else except for 'gmail' but it still auto sync'ed my photos and contacts (and my apps and app data, even though I told it not to). I then deleted the account and tried again but this time, I didn't check anything at all (not even gmail) and it did not sync anything, which is good. But I want to sync only my gmail, so then I went into the settings for my gmail account and checked only the 'sync gmail' box and it synced Everything again (app, app data, contacts, photos).. how do I make it still syncing everything? I just want to sync my inbox.",
+    "ViewCount":"9",
+    "LastActivityDate":"2014-03-20T14:29:07.793",
+    "ClosedDate":"2014-03-20T15:06:59.897",
+    "Title":"How to prevent android from auto-sync'ing gmail contacts and photos",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47904",
+    "CreationDate":"2014-03-19T23:14:02.207",
+    "FavoriteCount":null,
+    "Id":"65878",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/731161\/how-to-prevent-android-from-auto-syncing-gmail-contacts-and-photos",
+            "CreationDate":"2014-03-20T14:29:07.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"c6939682-983d-46d0-9c0d-5ec6047b70a6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"65878",
+            "PostHistoryTypeId":"36",
+            "Id":"224301",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-19T23:14:02.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4a949b1-9aed-4279-a33d-22ec0922ba58",
+            "UserId":"47904",
+            "CloseReasonId":null,
+            "PostId":"65878",
+            "PostHistoryTypeId":"2",
+            "Id":"224302",
+            "Text":"I just got a Samsung Galaxy Note 3 and when I go into my settings then add an account and add a gmail account, it gives me an option to choose what I want to sync. I unchecked 'photos' and 'contacts' and everything else except for 'gmail' but it still auto sync'ed my photos and contacts (and my apps and app data, even though I told it not to). I then deleted the account and tried again but this time, I didn't check anything at all (not even gmail) and it did not sync anything, which is good. But I want to sync only my gmail, so then I went into the settings for my gmail account and checked only the 'sync gmail' box and it synced Everything again (app, app data, contacts, photos).. how do I make it still syncing everything? I just want to sync my inbox."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-19T23:14:02.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4a949b1-9aed-4279-a33d-22ec0922ba58",
+            "UserId":"47904",
+            "CloseReasonId":null,
+            "PostId":"65878",
+            "PostHistoryTypeId":"1",
+            "Id":"224303",
+            "Text":"How to prevent android from auto-sync'ing gmail contacts and photos"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-19T23:14:02.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4a949b1-9aed-4279-a33d-22ec0922ba58",
+            "UserId":"47904",
+            "CloseReasonId":null,
+            "PostId":"65878",
+            "PostHistoryTypeId":"3",
+            "Id":"224304",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-20T15:06:59.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"462a3e3f-f8ae-481b-a5de-069caa6d487a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"65878",
+            "PostHistoryTypeId":"10",
+            "Id":"224313",
+            "Text":"{\"OriginalQuestionIds\":[65844],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Running 4.4.2 KitKat. Does the OS really take up 7GB? I've only got like 5 games downloaded and already running out of space for apps. :(",
+    "ViewCount":"513",
+    "LastActivityDate":"2014-08-15T14:00:42.760",
+    "ClosedDate":"2014-08-23T19:41:35.617",
+    "Title":"8GB Nextbook8 only showing .98GB internal storage",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"69766",
+    "CreationDate":"2014-08-15T01:49:04.560",
+    "FavoriteCount":null,
+    "Id":"79557",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-15T01:49:04.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9e6544b-1bb5-4baa-a6cf-d3877a02341d",
+            "UserId":"69766",
+            "CloseReasonId":null,
+            "PostId":"79557",
+            "PostHistoryTypeId":"2",
+            "Id":"262602",
+            "Text":"Running 4.4.2 KitKat. Does the OS really take up 7GB? I've only got like 5 games downloaded and already running out of space for apps. :("
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-15T01:49:04.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9e6544b-1bb5-4baa-a6cf-d3877a02341d",
+            "UserId":"69766",
+            "CloseReasonId":null,
+            "PostId":"79557",
+            "PostHistoryTypeId":"1",
+            "Id":"262603",
+            "Text":"8GB Nextbook8 only showing .98GB internal storage"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-15T01:49:04.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9e6544b-1bb5-4baa-a6cf-d3877a02341d",
+            "UserId":"69766",
+            "CloseReasonId":null,
+            "PostId":"79557",
+            "PostHistoryTypeId":"3",
+            "Id":"262604",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-23T19:41:35.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"c887aef0-bf18-479d-8822-0a906f0d9e5f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"79557",
+            "PostHistoryTypeId":"10",
+            "Id":"265623",
+            "Text":"{\"OriginalQuestionIds\":[14683],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

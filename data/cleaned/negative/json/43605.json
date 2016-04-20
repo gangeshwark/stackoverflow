@@ -1,0 +1,71 @@
+{
+    "Body":"Today I got Facebook app's update notification.I thought I forgot to check the automatically update box but I didn't - it is already set for auto already.So why the app still need our manual update?",
+    "ViewCount":"17",
+    "LastActivityDate":"2013-04-13T02:19:03.297",
+    "ClosedDate":"2013-04-13T02:28:14.897",
+    "Title":"Why some apps still need a manual update although having been configured to be automatic update?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"198",
+    "CreationDate":"2013-04-13T02:19:03.297",
+    "FavoriteCount":null,
+    "Id":"43605",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-13T02:19:03.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"a038d0bf-8594-45bd-8e5a-78960dbe7a1c",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"43605",
+            "PostHistoryTypeId":"2",
+            "Id":"139511",
+            "Text":"Today I got Facebook app's update notification.I thought I forgot to check the `automatically update` box but I didn't - it is already set for auto already.So why the app still need our manual update?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-13T02:19:03.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"a038d0bf-8594-45bd-8e5a-78960dbe7a1c",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"43605",
+            "PostHistoryTypeId":"1",
+            "Id":"139512",
+            "Text":"Why some apps still need a manual update although having been configured to be automatic update?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-13T02:19:03.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"a038d0bf-8594-45bd-8e5a-78960dbe7a1c",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"43605",
+            "PostHistoryTypeId":"3",
+            "Id":"139513",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-13T02:28:14.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b147126-c69d-4349-9eb0-2be6b66a1e26",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"43605",
+            "PostHistoryTypeId":"10",
+            "Id":"139516",
+            "Text":"{\"OriginalQuestionIds\":[2958],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

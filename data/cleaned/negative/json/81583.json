@@ -1,0 +1,71 @@
+{
+    "Body":"I'm using a HTC One S (Ville C2) with TWRP as the recovery image, however I currently cannot see anything on the screen because the screen is cracked. I'm trying to recover the data inside the phone (no recent backups) however I'm faced with some problems. Fix 1: turn on phone, and use adb to adb pull the data inside the phone. The problem here is that USB Debugging resets itself upon phone restart. Hence this method cannot be used. Fix 2: attempt to recover data via adb in recovery mode. I realised that the internal sdcard had to be mounted, however it kept on giving me the \/etc\/fstab directory not found error. Had no idea how to mount it. Fix 3: attempt to enable USB debugging upon next reboot. Attempted to follow the instructions on \"Can't pass the initial setup wizard on SG3 with broken screen digitizer\" however I realised that my \/data\/data partition was empty. Given all these scenarios, could anyone help me retrieve my data? Many thanks in advance!",
+    "ViewCount":"30",
+    "LastActivityDate":"2014-08-30T14:38:26.433",
+    "ClosedDate":"2014-09-01T04:41:29.140",
+    "Title":"Enabling adb via recovery mode",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"72024",
+    "CreationDate":"2014-08-30T14:38:26.433",
+    "FavoriteCount":null,
+    "Id":"81583",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-30T14:38:26.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"924dcc87-33de-4388-a260-78bf55f6b670",
+            "UserId":"72024",
+            "CloseReasonId":null,
+            "PostId":"81583",
+            "PostHistoryTypeId":"2",
+            "Id":"267121",
+            "Text":"I'm using a HTC One S (Ville C2) with TWRP as the recovery image, however I currently cannot see anything on the screen because the screen is cracked. I'm trying to recover the data inside the phone (no recent backups) however I'm faced with some problems. Fix 1: turn on phone, and use `adb` to `adb pull` the data inside the phone. The problem here is that USB Debugging resets itself upon phone restart. Hence this method cannot be used. Fix 2: attempt to recover data via adb in recovery mode. I realised that the internal sdcard had to be mounted, however it kept on giving me the `\/etc\/fstab` directory not found error. Had no idea how to mount it. Fix 3: attempt to enable USB debugging upon next reboot. Attempted to follow the instructions on \"http:\/\/android.stackexchange.com\/questions\/69528\/cant-pass-the-initial-setup-wizard-on-sg3-with-broken-screen-digitizer\/69600#69600\" however I realised that my \/data\/data partition was empty. Given all these scenarios, could anyone help me retrieve my data? Many thanks in advance!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-30T14:38:26.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"924dcc87-33de-4388-a260-78bf55f6b670",
+            "UserId":"72024",
+            "CloseReasonId":null,
+            "PostId":"81583",
+            "PostHistoryTypeId":"1",
+            "Id":"267122",
+            "Text":"Enabling adb via recovery mode"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-30T14:38:26.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"924dcc87-33de-4388-a260-78bf55f6b670",
+            "UserId":"72024",
+            "CloseReasonId":null,
+            "PostId":"81583",
+            "PostHistoryTypeId":"3",
+            "Id":"267123",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-01T04:41:29.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"5730e2fe-0133-46a1-840d-e8b339ac61d5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"81583",
+            "PostHistoryTypeId":"10",
+            "Id":"267414",
+            "Text":"{\"OriginalQuestionIds\":[12834],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

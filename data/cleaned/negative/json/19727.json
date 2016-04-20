@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Samsung Galaxy Tab 10.1, and the companion keyboard dock.  When typing on the keyboard dock, the keyboard will occasionally spam-repeat a keypress until I interrupt it with another keypress, as in the title.  This never happens with a bluetooth keyboard; it happens no matter the input method.  The Galaxy Tab has the latest Android 3.2 build from Samsung.It's infrequent, but it can be a pain.  Is there a solution?",
+    "ViewCount":"199",
+    "LastActivityDate":"2012-02-21T03:21:51.187",
+    "ClosedDate":"2013-01-01T18:35:21.427",
+    "Title":"Keyboard dock rrrrrrrrrrrrrrrrrrrepeat",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11913",
+    "CreationDate":"2012-02-21T03:21:51.187",
+    "FavoriteCount":null,
+    "Id":"19727",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-21T03:21:51.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"0be26163-307b-4c62-8542-f9175a5becbe",
+            "UserId":"11913",
+            "CloseReasonId":null,
+            "PostId":"19727",
+            "PostHistoryTypeId":"2",
+            "Id":"54670",
+            "Text":"I have a Samsung Galaxy Tab 10.1, and the companion keyboard dock.  When typing on the keyboard dock, the keyboard will occasionally spam-repeat a keypress until I interrupt it with another keypress, as in the title.  This never happens with a bluetooth keyboard; it happens no matter the input method.  The Galaxy Tab has the latest Android 3.2 build from Samsung.It's infrequent, but it can be a pain.  Is there a solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-21T03:21:51.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"0be26163-307b-4c62-8542-f9175a5becbe",
+            "UserId":"11913",
+            "CloseReasonId":null,
+            "PostId":"19727",
+            "PostHistoryTypeId":"1",
+            "Id":"54671",
+            "Text":"Keyboard dock rrrrrrrrrrrrrrrrrrrepeat"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-21T03:21:51.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"0be26163-307b-4c62-8542-f9175a5becbe",
+            "UserId":"11913",
+            "CloseReasonId":null,
+            "PostId":"19727",
+            "PostHistoryTypeId":"3",
+            "Id":"54672",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/171878983279980545",
+            "CreationDate":"2012-02-21T08:48:37.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"10232fc8-05ce-4552-adc4-ec3f8228c910",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"19727",
+            "PostHistoryTypeId":"25",
+            "Id":"54680",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-01T18:35:21.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c600db2-c613-4713-ad53-3849f0263887",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19727",
+            "PostHistoryTypeId":"10",
+            "Id":"110656",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

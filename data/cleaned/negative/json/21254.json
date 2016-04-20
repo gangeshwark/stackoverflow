@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to play a media file which contains a high frecuency sounds (inaudible for humans), to repel some animals. My question is: which is the sample rate limits of any commertial mobile phones? I suppose that is 48 kHz or 44100 Hz. Can I remove this limitation via software?Thanks.",
+    "ViewCount":"357",
+    "LastActivityDate":"2012-04-01T16:22:29.093",
+    "ClosedDate":"2012-04-02T17:29:19.197",
+    "Title":"audio card sample rate limit",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13563",
+    "CreationDate":"2012-04-01T16:22:29.093",
+    "FavoriteCount":null,
+    "Id":"21254",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-01T16:22:29.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"9222545a-0d56-4441-97dd-7e2c3483d3be",
+            "UserId":"13563",
+            "CloseReasonId":null,
+            "PostId":"21254",
+            "PostHistoryTypeId":"2",
+            "Id":"59478",
+            "Text":"I would like to play a media file which contains a high frecuency sounds (inaudible for humans), to repel some animals. My question is: which is the sample rate limits of any commertial mobile phones? I suppose that is 48 kHz or 44100 Hz. Can I remove this limitation via software?Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-01T16:22:29.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"9222545a-0d56-4441-97dd-7e2c3483d3be",
+            "UserId":"13563",
+            "CloseReasonId":null,
+            "PostId":"21254",
+            "PostHistoryTypeId":"1",
+            "Id":"59479",
+            "Text":"audio card sample rate limit"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-01T16:22:29.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"9222545a-0d56-4441-97dd-7e2c3483d3be",
+            "UserId":"13563",
+            "CloseReasonId":null,
+            "PostId":"21254",
+            "PostHistoryTypeId":"3",
+            "Id":"59480",
+            "Text":""
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-04-02T17:29:19.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"f695a5ac-47ee-42f8-a5da-965c7ceb14ee",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21254",
+            "PostHistoryTypeId":"10",
+            "Id":"59605",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

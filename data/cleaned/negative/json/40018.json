@@ -1,0 +1,83 @@
+{
+    "Body":"I used to run Siri Proxy on my Mac mini, and it allowed me to build custom commands that Siri would respond to while I was on the same network.  \"Turn on the living room lights\"  \"Run the sprinklers\"  \"Dim the lights for a movie\" Now that I've moved to Android, I'd like to be able to achieve this same goal. Can anyone direct me to a solution whereby I can use some Voice App in combination with a local proxy to achieve this desired result?",
+    "ViewCount":"201",
+    "LastActivityDate":"2013-02-21T21:39:55.957",
+    "ClosedDate":"2013-02-22T18:39:23.670",
+    "Title":"Voice App with custom proxy ability",
+    "LastEditorUserId":"26876",
+    "Tags":"",
+    "LastEditDate":"2013-02-21T21:39:55.957",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26876",
+    "CreationDate":"2013-02-20T21:16:01.460",
+    "FavoriteCount":null,
+    "Id":"40018",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-20T21:16:01.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"8a4e44be-a352-4da1-a5b0-8e069454abb2",
+            "UserId":"26876",
+            "CloseReasonId":null,
+            "PostId":"40018",
+            "PostHistoryTypeId":"2",
+            "Id":"124375",
+            "Text":"I used to run [Siri Proxy][1] on my Mac mini, and it allowed me to build custom commands that Siri would respond to while I was on the same network.> \"Turn on the living room lights\"  > \"Run the sprinklers\"  > \"Dim the lights for a movie\" Now that I've moved to Android, I'm hoping that I can find a similar app\/proxy combination. Since Android is so much more open over iOS, I have a hunch that there is something better out there, I just don't know where to start looking.  [1]: https:\/\/github.com\/plamoni\/SiriProxy"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-20T21:16:01.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"8a4e44be-a352-4da1-a5b0-8e069454abb2",
+            "UserId":"26876",
+            "CloseReasonId":null,
+            "PostId":"40018",
+            "PostHistoryTypeId":"1",
+            "Id":"124376",
+            "Text":"Voice App with custom proxy ability"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-20T21:16:01.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"8a4e44be-a352-4da1-a5b0-8e069454abb2",
+            "UserId":"26876",
+            "CloseReasonId":null,
+            "PostId":"40018",
+            "PostHistoryTypeId":"3",
+            "Id":"124377",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 23 characters in body",
+            "CreationDate":"2013-02-21T21:39:55.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"706f5df7-d53b-49fc-9105-09946fcc7074",
+            "UserId":"26876",
+            "CloseReasonId":null,
+            "PostId":"40018",
+            "PostHistoryTypeId":"5",
+            "Id":"124629",
+            "Text":"I used to run [Siri Proxy][1] on my Mac mini, and it allowed me to build custom commands that Siri would respond to while I was on the same network.> \"Turn on the living room lights\"  > \"Run the sprinklers\"  > \"Dim the lights for a movie\" Now that I've moved to Android, I'd like to be able to achieve this same goal. Can anyone direct me to a solution whereby I can use some Voice App in combination with a local proxy to achieve this desired result?  [1]: https:\/\/github.com\/plamoni\/SiriProxy"
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-02-22T18:39:23.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"378b8ebe-3d12-4bdb-ade7-00d79e7a7ea6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"40018",
+            "PostHistoryTypeId":"10",
+            "Id":"124850",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

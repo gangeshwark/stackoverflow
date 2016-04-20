@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  I've installed a hacked version of ICS three weeks ago or so and now I want to switch to the stock 4.0.3 ROM. As it needs the 2.3.6 stock ROM, I'll have to downgrade to it so that I can install ICS again.I've found a 2.3.3 on ROM Manager. I know it may be possible to update from it to 2.3.6, but I'd like a direct approach.I have a Nexus S (i9020), bootloader unlocked, clockworkmod recovery installed, rooted, with a hacked version of 4.0.1.",
+    "ViewCount":"3366",
+    "LastActivityDate":"2011-12-19T13:53:29.713",
+    "ClosedDate":"2011-12-20T04:40:15.583",
+    "Title":"Where can I find a 2.3.6 stock ROM for Nexus S (i9020)?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"17145",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10753",
+    "CreationDate":"2011-12-19T11:51:24.493",
+    "FavoriteCount":null,
+    "Id":"17140",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-19T11:51:24.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7bb58ee-f5e2-4f58-9802-ae58f9ea3d07",
+            "UserId":"10753",
+            "CloseReasonId":null,
+            "PostId":"17140",
+            "PostHistoryTypeId":"2",
+            "Id":"46772",
+            "Text":"I've installed a hacked version of ICS three weeks ago or so and now I want to switch to the stock 4.0.3 ROM. As it needs the 2.3.6 stock ROM, I'll have to downgrade to it so that I can install ICS again.I've found a 2.3.3 on ROM Manager. I know it may be possible to update from it to 2.3.6, but I'd like a direct approach. I have a Nexus S (i9020), bootloader unlocked, clockworkmod recovery installed, rooted, with a hacked version of 4.0.1."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-19T11:51:24.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7bb58ee-f5e2-4f58-9802-ae58f9ea3d07",
+            "UserId":"10753",
+            "CloseReasonId":null,
+            "PostId":"17140",
+            "PostHistoryTypeId":"1",
+            "Id":"46773",
+            "Text":"Where can I find a 2.3.6 stock ROM for Nexus S (i9020)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-19T11:51:24.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7bb58ee-f5e2-4f58-9802-ae58f9ea3d07",
+            "UserId":"10753",
+            "CloseReasonId":null,
+            "PostId":"17140",
+            "PostHistoryTypeId":"3",
+            "Id":"46774",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-12-20T04:40:15.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e0e9439-c146-4ecf-b0b6-d3f183ba527f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"17140",
+            "PostHistoryTypeId":"5",
+            "Id":"46922",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  I've installed a hacked version of ICS three weeks ago or so and now I want to switch to the stock 4.0.3 ROM. As it needs the 2.3.6 stock ROM, I'll have to downgrade to it so that I can install ICS again.I've found a 2.3.3 on ROM Manager. I know it may be possible to update from it to 2.3.6, but I'd like a direct approach. I have a Nexus S (i9020), bootloader unlocked, clockworkmod recovery installed, rooted, with a hacked version of 4.0.1."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-12-20T04:40:15.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"021b4962-9fa8-4dbc-81d9-3bc6c5e876c0",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"17140",
+            "PostHistoryTypeId":"10",
+            "Id":"46923",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

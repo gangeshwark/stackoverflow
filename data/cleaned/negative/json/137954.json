@@ -1,0 +1,71 @@
+{
+    "Body":"I have query about signal calling. Does Signal has built in feature for VoiP calling or it uses existing phone \/ skype feature and just wrap it with its encryption ?I clicked on call button and it ask me either I want to call via skype or via phone, so seems like signal has no built in call feature like facebook\/skype , is that correct ?2) I just want to confirm the call encryption and want to see how digits appear on the screen before the call (that both parties verifies for integrity)Can I get some screenshot or picture about this ? Thanks",
+    "ViewCount":"19",
+    "LastActivityDate":"2016-02-24T05:36:12.130",
+    "ClosedDate":"2016-03-04T19:29:10.320",
+    "Title":"Using call feature in Android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"152983",
+    "CreationDate":"2016-02-24T05:36:12.130",
+    "FavoriteCount":null,
+    "Id":"137954",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T05:36:12.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf401d07-5871-4180-8a82-9d3f20a540c3",
+            "UserId":"152983",
+            "CloseReasonId":null,
+            "PostId":"137954",
+            "PostHistoryTypeId":"2",
+            "Id":"460417",
+            "Text":"I have query about signal calling. Does Signal has built in feature for VoiP calling or it uses existing phone \/ skype feature and just wrap it with its encryption ?I clicked on call button and it ask me either I want to call via skype or via phone, so seems like signal has no built in call feature like facebook\/skype , is that correct ?2) I just want to confirm the call encryption and want to see how digits appear on the screen before the call (that both parties verifies for integrity)Can I get some screenshot or picture about this ? Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T05:36:12.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf401d07-5871-4180-8a82-9d3f20a540c3",
+            "UserId":"152983",
+            "CloseReasonId":null,
+            "PostId":"137954",
+            "PostHistoryTypeId":"1",
+            "Id":"460418",
+            "Text":"Using call feature in Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T05:36:12.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf401d07-5871-4180-8a82-9d3f20a540c3",
+            "UserId":"152983",
+            "CloseReasonId":null,
+            "PostId":"137954",
+            "PostHistoryTypeId":"3",
+            "Id":"460419",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-04T19:29:10.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"f0e4819f-208f-4969-9352-c6999f3f80ef",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"137954",
+            "PostHistoryTypeId":"10",
+            "Id":"464052",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

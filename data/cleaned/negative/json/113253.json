@@ -1,0 +1,71 @@
+{
+    "Body":"So I'm an avid Android user and developer. I, for the most part, really like the platform - all its extensibility\/customizability\/freedoms.That being said, having worked with iPhones and Windows Phones - they're just smoother. All the animations seem to play smoothly without jank, they never seem to really drop frames, everything just seems a bit quicker.Why is this?I know that Android uses Java which is garbage collected, but my understanding is that Java is only a little bit slower than C so I don't see that being the real limiter.I also know that Android has to optimize for all device sizes\/configurations - and I'd be ready to believe that as a result view rendering\/hierarchy determination is less efficient and that's causing most of the lag, but Windows Phone also has this issue, right?Maybe it's just rogue services that accumulate over time? I'm at a bit of a loss.Once again - I love Android. Some views rendering slowly\/animations being choppy are far outweighed to me by the rest of the positives of the ecosystem. I'm interested as both a developer and a user about the slowness though.Thanks guys!Note: I've been using a Nexus 5 for the past year or so. I've used the S3\/S4\/S5 as test devices, as well as a myriad of older phones. This post is mainly a question about top-of-the-line android phones.",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-06-23T20:56:10.070",
+    "ClosedDate":"2015-06-23T21:08:00.450",
+    "Title":"Why is android generally slower\/less smooth than iOS",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113952",
+    "CreationDate":"2015-06-23T20:56:10.070",
+    "FavoriteCount":null,
+    "Id":"113253",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T20:56:10.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c0f4ca8-823e-4310-a509-dc2b17feb5ed",
+            "UserId":"113952",
+            "CloseReasonId":null,
+            "PostId":"113253",
+            "PostHistoryTypeId":"2",
+            "Id":"371087",
+            "Text":"So I'm an avid Android user and developer. I, for the most part, really like the platform - all its extensibility\/customizability\/freedoms.That being said, having worked with iPhones and Windows Phones - they're just smoother. All the animations seem to play smoothly without jank, they never seem to really drop frames, everything just seems a bit quicker.Why is this?I know that Android uses Java which is garbage collected, but my understanding is that Java is only a little bit slower than C so I don't see that being the real limiter.I also know that Android has to optimize for all device sizes\/configurations - and I'd be ready to believe that as a result view rendering\/hierarchy determination is less efficient and that's causing most of the lag, but Windows Phone also has this issue, right?Maybe it's just rogue services that accumulate over time? I'm at a bit of a loss.Once again - I love Android. Some views rendering slowly\/animations being choppy are far outweighed to me by the rest of the positives of the ecosystem. I'm interested as both a developer and a user about the slowness though.Thanks guys!Note: I've been using a Nexus 5 for the past year or so. I've used the S3\/S4\/S5 as test devices, as well as a myriad of older phones. This post is mainly a question about top-of-the-line android phones."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T20:56:10.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c0f4ca8-823e-4310-a509-dc2b17feb5ed",
+            "UserId":"113952",
+            "CloseReasonId":null,
+            "PostId":"113253",
+            "PostHistoryTypeId":"1",
+            "Id":"371088",
+            "Text":"Why is android generally slower\/less smooth than iOS"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T20:56:10.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c0f4ca8-823e-4310-a509-dc2b17feb5ed",
+            "UserId":"113952",
+            "CloseReasonId":null,
+            "PostId":"113253",
+            "PostHistoryTypeId":"3",
+            "Id":"371089",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-23T21:08:00.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"56ddbbcd-ca83-4fcb-bd00-9488715f67c4",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"113253",
+            "PostHistoryTypeId":"10",
+            "Id":"371096",
+            "Text":"{\"OriginalQuestionIds\":[62307],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

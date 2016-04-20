@@ -1,0 +1,83 @@
+{
+    "Body":"The phone is seen OK. Backup starts and runs OK if I give it NO file path with -f , adb works OK. Debugging and developer on phone work OK. But when I e.g. run adb backup -f c:\/backup\/021716.ab -all -apk -shared -system (i.e. specify a path to store the backup in), it fails with adb : unable to open file c:\/backup\/021716.ab.What am I doing wrong, and how to fix that?",
+    "ViewCount":"38",
+    "LastActivityDate":"2016-02-17T14:43:08.797",
+    "ClosedDate":"2016-02-16T19:23:01.197",
+    "Title":"Using ADB backup on my Android phone I get an error message that \"adb : unable to open file \"",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2016-02-17T14:43:08.797",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"151563",
+    "CreationDate":"2016-02-16T01:23:24.213",
+    "FavoriteCount":null,
+    "Id":"137172",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-16T01:23:24.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"e21fa01d-925e-49f6-bd42-6d3f4cd0a31c",
+            "UserId":"151563",
+            "CloseReasonId":null,
+            "PostId":"137172",
+            "PostHistoryTypeId":"2",
+            "Id":"457370",
+            "Text":"The phone is seen OK.Backup starts and runs OK if I give it NO file path with -f adb works OKDebugging and developer on phone work OK"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-16T01:23:24.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"e21fa01d-925e-49f6-bd42-6d3f4cd0a31c",
+            "UserId":"151563",
+            "CloseReasonId":null,
+            "PostId":"137172",
+            "PostHistoryTypeId":"1",
+            "Id":"457371",
+            "Text":"Using ADB backup on my Android phone I get an error message that \"adb : unable to open file \""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-16T01:23:24.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"e21fa01d-925e-49f6-bd42-6d3f4cd0a31c",
+            "UserId":"151563",
+            "CloseReasonId":null,
+            "PostId":"137172",
+            "PostHistoryTypeId":"3",
+            "Id":"457372",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-16T19:23:01.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ec26b52-c485-4f25-bef3-f9d17236ccfb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"137172",
+            "PostHistoryTypeId":"10",
+            "Id":"457645",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"integrated facts from the comments",
+            "CreationDate":"2016-02-17T14:43:08.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b60064d-c542-477e-8b86-856f252bc1b7",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"137172",
+            "PostHistoryTypeId":"5",
+            "Id":"457891",
+            "Text":"The phone is seen OK. Backup starts and runs OK if I give it NO file path with `-f `, adb works OK. Debugging and developer on phone work OK. But when I e.g. run `adb backup -f c:\/backup\/021716.ab -all -apk -shared -system` (i.e. specify a path to store the backup in), it fails with `adb : unable to open file c:\/backup\/021716.ab`.What am I doing wrong, and how to fix that?"
+        }
+    ]
+}

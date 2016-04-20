@@ -1,0 +1,83 @@
+{
+    "Body":"My Droid 3 captures video in the 3GPP format, and I'd like to stream some videos I've recorded to my PlayStation 3 using its DLNA support. When I use either the preloaded DLNA app or a third-party app like Skifta, the PS3 can find the video, but playing it produces a \"file type not supported\" error on the PS3. Is there a way to make these 3GPP videos available to the PS3?",
+    "ViewCount":"139",
+    "LastActivityDate":"2011-12-29T03:55:28.973",
+    "ClosedDate":"2012-10-07T22:49:45.047",
+    "Title":"Streaming captured videos to a PlayStation 3 via DLNA?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4254",
+    "CreationDate":"2011-12-29T03:55:28.973",
+    "FavoriteCount":null,
+    "Id":"17546",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-29T03:55:28.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"60fdb74e-767c-4700-b526-0cd64ae1f14f",
+            "UserId":"4254",
+            "CloseReasonId":null,
+            "PostId":"17546",
+            "PostHistoryTypeId":"2",
+            "Id":"48013",
+            "Text":"My Droid 3 captures video in the 3GPP format, and I'd like to stream some videos I've recorded to my PlayStation 3 using its DLNA support. When I use either the preloaded DLNA app or a third-party app like Skifta, the PS3 can find the video, but playing it produces a \"file type not supported\" error on the PS3. Is there a way to make these 3GPP videos available to the PS3?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-29T03:55:28.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"60fdb74e-767c-4700-b526-0cd64ae1f14f",
+            "UserId":"4254",
+            "CloseReasonId":null,
+            "PostId":"17546",
+            "PostHistoryTypeId":"1",
+            "Id":"48014",
+            "Text":"Streaming captured videos to a PlayStation 3 via DLNA?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-29T03:55:28.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"60fdb74e-767c-4700-b526-0cd64ae1f14f",
+            "UserId":"4254",
+            "CloseReasonId":null,
+            "PostId":"17546",
+            "PostHistoryTypeId":"3",
+            "Id":"48015",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/152259179346788352",
+            "CreationDate":"2011-12-29T05:26:32.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b66465d-08c0-4ee5-a021-ef40beb28abb",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"17546",
+            "PostHistoryTypeId":"25",
+            "Id":"48019",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-07T22:49:45.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd9efb3e-9fc5-4a54-a241-020fee269e91",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"17546",
+            "PostHistoryTypeId":"10",
+            "Id":"91792",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

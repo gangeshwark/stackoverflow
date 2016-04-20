@@ -1,0 +1,71 @@
+{
+    "Body":"On a regular basis during morning commute our signal shows actual location, then shows location in the next city 70 miles away for a few minutes, then shows actual location again. Both locations are major cities with lots of cell towers. It also showed once from our town , actual location, to this same city\/ tower, then back to actual location.This always happens while on mobile smart phone. Is it caused by calls,txt, or web activity to someone in this area?",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-05-08T12:19:53.473",
+    "ClosedDate":"2015-05-08T12:23:50.470",
+    "Title":"location showing up 70\/100 miles away",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107897",
+    "CreationDate":"2015-05-08T12:19:53.473",
+    "FavoriteCount":null,
+    "Id":"108806",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-08T12:19:53.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"82a9ad8a-e853-44d4-b3d6-eac00a8d074c",
+            "UserId":"107897",
+            "CloseReasonId":null,
+            "PostId":"108806",
+            "PostHistoryTypeId":"2",
+            "Id":"354555",
+            "Text":"On a regular basis during morning commute our signal shows actual location, then shows location in the next city 70 miles away for a few minutes, then shows actual location again. Both locations are major cities with lots of cell towers. It also showed once from our town , actual location, to this same city\/ tower, then back to actual location.This always happens while on mobile smart phone. Is it caused by calls,txt, or web activity to someone in this area?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-08T12:19:53.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"82a9ad8a-e853-44d4-b3d6-eac00a8d074c",
+            "UserId":"107897",
+            "CloseReasonId":null,
+            "PostId":"108806",
+            "PostHistoryTypeId":"1",
+            "Id":"354556",
+            "Text":"location showing up 70\/100 miles away"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-08T12:19:53.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"82a9ad8a-e853-44d4-b3d6-eac00a8d074c",
+            "UserId":"107897",
+            "CloseReasonId":null,
+            "PostId":"108806",
+            "PostHistoryTypeId":"3",
+            "Id":"354557",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-08T12:23:50.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"527bd441-f822-4d5c-9cb3-f1e904d46101",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"108806",
+            "PostHistoryTypeId":"10",
+            "Id":"354559",
+            "Text":"{\"OriginalQuestionIds\":[44608],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

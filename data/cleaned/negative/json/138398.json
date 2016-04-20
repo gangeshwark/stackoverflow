@@ -1,0 +1,71 @@
+{
+    "Body":"I don't trust data recovery applications available because they access too many things in root mode.So I would do it myself.Where can I find help, example etc ?Each time I find advertisements for 2 suspicious softwares :Dr. fone and Android Data Recover",
+    "ViewCount":"18",
+    "LastActivityDate":"2016-02-28T23:34:18.150",
+    "ClosedDate":"2016-02-29T20:49:02.153",
+    "Title":"Creating a simple deleted sms app for Android 5.1.1",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153802",
+    "CreationDate":"2016-02-28T23:34:18.150",
+    "FavoriteCount":null,
+    "Id":"138398",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T23:34:18.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"bde0eaaf-ab00-4879-b45a-535cb7296155",
+            "UserId":"153802",
+            "CloseReasonId":null,
+            "PostId":"138398",
+            "PostHistoryTypeId":"2",
+            "Id":"462478",
+            "Text":"I don't trust data recovery applications available because they access too many things in root mode.So I would do it myself.Where can I find help, example etc ?Each time I find advertisements for 2 suspicious softwares :Dr. fone and Android Data Recover"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T23:34:18.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"bde0eaaf-ab00-4879-b45a-535cb7296155",
+            "UserId":"153802",
+            "CloseReasonId":null,
+            "PostId":"138398",
+            "PostHistoryTypeId":"1",
+            "Id":"462479",
+            "Text":"Creating a simple deleted sms app for Android 5.1.1"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T23:34:18.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"bde0eaaf-ab00-4879-b45a-535cb7296155",
+            "UserId":"153802",
+            "CloseReasonId":null,
+            "PostId":"138398",
+            "PostHistoryTypeId":"3",
+            "Id":"462480",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-29T20:49:02.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"885bd842-cfa3-4a6a-b8e6-8cbec2305287",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138398",
+            "PostHistoryTypeId":"10",
+            "Id":"462771",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

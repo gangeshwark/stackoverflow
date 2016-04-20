@@ -1,0 +1,71 @@
+{
+    "Body":"I'm doing some research on the first google powered phone, but I can't find out what color it officially shipped with first. Black or white?",
+    "ViewCount":"63",
+    "LastActivityDate":"2012-10-23T04:19:58.320",
+    "ClosedDate":"2012-10-24T02:58:45.193",
+    "Title":"What color was the first android phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16409",
+    "CreationDate":"2012-10-23T04:11:30.697",
+    "FavoriteCount":null,
+    "Id":"32238",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-23T04:11:30.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"4234d060-786f-4156-bb95-6157a0a3a6e1",
+            "UserId":"16409",
+            "CloseReasonId":null,
+            "PostId":"32238",
+            "PostHistoryTypeId":"2",
+            "Id":"95277",
+            "Text":"I'm doing some research on the first google powered phone, but I can't find out what color it officially shipped with first. Black or white?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-23T04:11:30.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"4234d060-786f-4156-bb95-6157a0a3a6e1",
+            "UserId":"16409",
+            "CloseReasonId":null,
+            "PostId":"32238",
+            "PostHistoryTypeId":"1",
+            "Id":"95278",
+            "Text":"What color was the first android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-23T04:11:30.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"4234d060-786f-4156-bb95-6157a0a3a6e1",
+            "UserId":"16409",
+            "CloseReasonId":null,
+            "PostId":"32238",
+            "PostHistoryTypeId":"3",
+            "Id":"95279",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-24T02:58:45.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"2de95be1-2ce9-49d4-86c4-2056cb41ccd0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32238",
+            "PostHistoryTypeId":"10",
+            "Id":"95463",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Consider this use-case: I have few contacts which I saved in my SIM card. Those are not available to me if SIM is removed from phone (not in Phone internal memory or not backed up).What will happen to these contacts if my SIM is lost? Of course, I can contact my carrier to give me alternate SIM with Same Mobile Number. But my question is related to those contacts which are saved on the SIM. Will those be restored if I get replaced SIM from my carrier? Or those will be lost and my carrier can only help me with new SIM and same number?  I know how to take a contact back-up and all. And hence I am not  expecting answers that explains how to take contact back-up.The intention of asking this question is to understand what happens to SIM-bind contacts if SIM is lost.",
+    "ViewCount":"102",
+    "LastActivityDate":"2015-09-01T07:32:22.580",
+    "ClosedDate":"2015-09-02T14:08:07.380",
+    "Title":"SIM Contact: What happens if I loose SIM?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86591",
+    "CreationDate":"2015-09-01T07:20:52.170",
+    "FavoriteCount":null,
+    "Id":"120892",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T07:20:52.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"3fa19f36-2428-4d26-912c-6cc8e25c4c47",
+            "UserId":"86591",
+            "CloseReasonId":null,
+            "PostId":"120892",
+            "PostHistoryTypeId":"2",
+            "Id":"396438",
+            "Text":"Consider this use-case: I have few contacts which I saved in my SIM card. Those are not available to me if SIM is removed from phone (not in Phone internal memory or not backed up).What will happen to these contacts if my SIM is lost? Of course, I can contact my carrier to give me alternate SIM with Same Mobile Number. But my question is related to those contacts which are saved on the SIM. Will those be restored if I get replaced SIM from my carrier? Or those will be lost and my carrier can only help me with new SIM and same number?> I know how to take a contact back-up and all. And hence I am not> expecting answers that explains how to take contact back-up.The intention of asking this question is to understand what happens to SIM-bind contacts if SIM is lost."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T07:20:52.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"3fa19f36-2428-4d26-912c-6cc8e25c4c47",
+            "UserId":"86591",
+            "CloseReasonId":null,
+            "PostId":"120892",
+            "PostHistoryTypeId":"1",
+            "Id":"396439",
+            "Text":"SIM Contact: What happens if I loose SIM?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-01T07:20:52.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"3fa19f36-2428-4d26-912c-6cc8e25c4c47",
+            "UserId":"86591",
+            "CloseReasonId":null,
+            "PostId":"120892",
+            "PostHistoryTypeId":"3",
+            "Id":"396440",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-09-02T14:08:07.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"4bdd00b3-5bf1-4bbe-b6f0-4408cd1bd9dd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"120892",
+            "PostHistoryTypeId":"10",
+            "Id":"396937",
+            "Text":"{\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"user981\"}]}"
+        }
+    ]
+}

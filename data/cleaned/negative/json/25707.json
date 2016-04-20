@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I free some disk space without deleting my apps?  I've installed such software as Shazam, Baidu Map, QQ, HiMarket, MeiTuan, UC Mobile, etc. At first everything is fine, but nowadays the phone always says \"Low on space\". What should I do?",
+    "ViewCount":"301",
+    "LastActivityDate":"2012-07-12T13:40:51.173",
+    "ClosedDate":"2012-07-12T18:37:02.243",
+    "Title":"Why my phone is always out of space recently, but I didn't install any new software",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"25708",
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16912",
+    "CreationDate":"2012-07-12T08:13:20.367",
+    "FavoriteCount":"1",
+    "Id":"25707",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-12T08:13:20.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"3925c95e-49b1-4272-aa6c-43bb81307286",
+            "UserId":"16912",
+            "CloseReasonId":null,
+            "PostId":"25707",
+            "PostHistoryTypeId":"2",
+            "Id":"74250",
+            "Text":"I've installed such software as Shazam, Baidu Map, QQ, HiMarket, MeiTuan, UC Mobile, etc. At first everything is fine, but nowadays the phone always says \"Low on space\". What should I do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-12T08:13:20.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"3925c95e-49b1-4272-aa6c-43bb81307286",
+            "UserId":"16912",
+            "CloseReasonId":null,
+            "PostId":"25707",
+            "PostHistoryTypeId":"1",
+            "Id":"74251",
+            "Text":"Why my phone is always out of space recently, but I didn't install any new software"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-12T08:13:20.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"3925c95e-49b1-4272-aa6c-43bb81307286",
+            "UserId":"16912",
+            "CloseReasonId":null,
+            "PostId":"25707",
+            "PostHistoryTypeId":"3",
+            "Id":"74252",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-12T18:37:03.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c5a8c3d-0fdc-4483-9ce7-b3390a255069",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25707",
+            "PostHistoryTypeId":"5",
+            "Id":"74401",
+            "Text":"> **Possible Duplicate:**  > [How can I free some disk space without deleting my apps?](http:\/\/android.stackexchange.com\/questions\/14630\/how-can-i-free-some-disk-space-without-deleting-my-apps)  I've installed such software as Shazam, Baidu Map, QQ, HiMarket, MeiTuan, UC Mobile, etc. At first everything is fine, but nowadays the phone always says \"Low on space\". What should I do?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-12T18:37:02.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"00172a62-13c4-4b76-8607-270b5fdeebb9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"25707",
+            "PostHistoryTypeId":"10",
+            "Id":"74402",
+            "Text":"{\"OriginalQuestionIds\":[14630],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

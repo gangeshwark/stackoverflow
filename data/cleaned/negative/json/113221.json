@@ -1,0 +1,83 @@
+{
+    "Body":"I am not able to install my favourite games such as ZOMBIES KILLER 3D. Whenever i ha ve tried installing this games the pla store send me a message and that is \"authentication is required you need to sign in your google account\"I am kindly requesting you solving my problem.",
+    "ViewCount":"238",
+    "LastActivityDate":"2015-06-23T13:57:11.860",
+    "ClosedDate":"2015-06-23T15:16:30.087",
+    "Title":"authentication is required when I try having an access to the google play store",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-06-23T13:57:11.860",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113898",
+    "CreationDate":"2015-06-23T13:23:45.853",
+    "FavoriteCount":null,
+    "Id":"113221",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T13:23:45.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8b45a27-1c00-41c5-b65c-c7965eac500f",
+            "UserId":"113898",
+            "CloseReasonId":null,
+            "PostId":"113221",
+            "PostHistoryTypeId":"2",
+            "Id":"370962",
+            "Text":"I am not able to install my favourite games such as ZOMBIES KILLER 3D. Whenever i ha ve tried installing this games the pla store send me a message and that is \"authentication is required you need to sign in your google account\"I am kindly requesting you solving my problem."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T13:23:45.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8b45a27-1c00-41c5-b65c-c7965eac500f",
+            "UserId":"113898",
+            "CloseReasonId":null,
+            "PostId":"113221",
+            "PostHistoryTypeId":"1",
+            "Id":"370963",
+            "Text":"authentication is required when I try having an access to the google play store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T13:23:45.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8b45a27-1c00-41c5-b65c-c7965eac500f",
+            "UserId":"113898",
+            "CloseReasonId":null,
+            "PostId":"113221",
+            "PostHistoryTypeId":"3",
+            "Id":"370964",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-06-23T13:57:11.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a931b78-0687-407f-98b4-05b5a0f5ffef",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"113221",
+            "PostHistoryTypeId":"6",
+            "Id":"370980",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-23T15:16:30.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"26ab4c32-2391-417c-871a-298570df5d74",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"113221",
+            "PostHistoryTypeId":"10",
+            "Id":"371006",
+            "Text":"{\"OriginalQuestionIds\":[20369],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

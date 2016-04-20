@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  I want to upgrade my SGS to froyo, but have given up on Kies which seems to be the most unreliable piece of software I've ever encountered. I've got heimdall running, and now I want to upgrade to the official ROM for my device (GT-I9000\/optus). Is there a way of getting hold of the official ROm from somewhere?Cheers,Victor",
+    "ViewCount":"692",
+    "LastActivityDate":"2011-12-11T00:44:19.990",
+    "ClosedDate":"2011-12-20T04:48:15.133",
+    "Title":"How can I get the official froyo ROM for SGS to use with heimdall?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1365",
+    "CreationDate":"2010-12-07T02:59:53.630",
+    "FavoriteCount":null,
+    "Id":"3430",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-07T02:59:53.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"75910444-5e06-4ed3-97f9-d3bf8484b27e",
+            "UserId":"1365",
+            "CloseReasonId":null,
+            "PostId":"3430",
+            "PostHistoryTypeId":"2",
+            "Id":"7028",
+            "Text":"I want to upgrade my SGS to froyo, but have given up on Kies which seems to be the most unreliable piece of software I've ever encountered. I've got heimdall running, and now I want to upgrade to the official ROM for my device (GT-I9000\/optus). Is there a way of getting hold of the official ROm from somewhere?Cheers,Victor"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-07T02:59:53.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"75910444-5e06-4ed3-97f9-d3bf8484b27e",
+            "UserId":"1365",
+            "CloseReasonId":null,
+            "PostId":"3430",
+            "PostHistoryTypeId":"1",
+            "Id":"7029",
+            "Text":"How can I get the official froyo ROM for SGS to use with heimdall?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-07T02:59:53.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"75910444-5e06-4ed3-97f9-d3bf8484b27e",
+            "UserId":"1365",
+            "CloseReasonId":null,
+            "PostId":"3430",
+            "PostHistoryTypeId":"3",
+            "Id":"7030",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-12-20T04:48:15.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e53a244-2ef2-4e64-abe4-80f85263dcd5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3430",
+            "PostHistoryTypeId":"5",
+            "Id":"46932",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  I want to upgrade my SGS to froyo, but have given up on Kies which seems to be the most unreliable piece of software I've ever encountered. I've got heimdall running, and now I want to upgrade to the official ROM for my device (GT-I9000\/optus). Is there a way of getting hold of the official ROm from somewhere?Cheers,Victor"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-12-20T04:48:15.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"30d5541d-e919-453c-8d97-167ffd99c73c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"3430",
+            "PostHistoryTypeId":"10",
+            "Id":"46933",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

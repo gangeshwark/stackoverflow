@@ -1,0 +1,71 @@
+{
+    "Body":"It just popped up and I'm not sure how to get rid of it or what it even means. I tried to unable it by using in instructions that was for a Sprint LG phone but it didn't work.",
+    "ViewCount":"93",
+    "LastActivityDate":"2014-04-07T00:22:28.860",
+    "ClosedDate":"2014-12-16T01:36:35.197",
+    "Title":"How do I get rid of the N symbol on my lg optimus in the notificaton bar?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"57927",
+    "CreationDate":"2014-04-07T00:22:28.860",
+    "FavoriteCount":null,
+    "Id":"67026",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T00:22:28.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0495177-ac33-48cb-a2f3-876e5cd1853b",
+            "UserId":"57927",
+            "CloseReasonId":null,
+            "PostId":"67026",
+            "PostHistoryTypeId":"2",
+            "Id":"228379",
+            "Text":"It just popped up and I'm not sure how to get rid of it or what it even means. I tried to unable it by using in instructions that was for a Sprint LG phone but it didn't work."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T00:22:28.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0495177-ac33-48cb-a2f3-876e5cd1853b",
+            "UserId":"57927",
+            "CloseReasonId":null,
+            "PostId":"67026",
+            "PostHistoryTypeId":"1",
+            "Id":"228380",
+            "Text":"How do I get rid of the N symbol on my lg optimus in the notificaton bar?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-07T00:22:28.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0495177-ac33-48cb-a2f3-876e5cd1853b",
+            "UserId":"57927",
+            "CloseReasonId":null,
+            "PostId":"67026",
+            "PostHistoryTypeId":"3",
+            "Id":"228381",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-16T01:36:35.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"a836cd95-15ba-4031-83fd-488454648e42",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"67026",
+            "PostHistoryTypeId":"10",
+            "Id":"300696",
+            "Text":"{\"OriginalQuestionIds\":[55953],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Im looking to modifying and perhaps changing the way the lockscreen works. I have heard about keyguard.apk but I cant seem to find that in system\/app or anywhere in the device. So I wonder which file executes the lockscreen code and contains the resourcea.",
+    "ViewCount":"126",
+    "LastActivityDate":"2015-07-24T09:19:13.963",
+    "ClosedDate":"2015-07-26T03:07:25.097",
+    "Title":"What framework\/app executes the lockscreen on android 4.2.2",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"116166",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"118047",
+    "CreationDate":"2015-07-23T17:11:45.383",
+    "FavoriteCount":null,
+    "Id":"116109",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T17:11:45.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"a3ecc603-9e67-49d3-9118-382371aff34c",
+            "UserId":"118047",
+            "CloseReasonId":null,
+            "PostId":"116109",
+            "PostHistoryTypeId":"2",
+            "Id":"381603",
+            "Text":"Im looking to modifying and perhaps changing the way the lockscreen works. I have heard about keyguard.apk but I cant seem to find that in system\/app or anywhere in the device. So I wonder which file executes the lockscreen code and contains the resourcea."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T17:11:45.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"a3ecc603-9e67-49d3-9118-382371aff34c",
+            "UserId":"118047",
+            "CloseReasonId":null,
+            "PostId":"116109",
+            "PostHistoryTypeId":"1",
+            "Id":"381604",
+            "Text":"What framework\/app executes the lockscreen on android 4.2.2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T17:11:45.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"a3ecc603-9e67-49d3-9118-382371aff34c",
+            "UserId":"118047",
+            "CloseReasonId":null,
+            "PostId":"116109",
+            "PostHistoryTypeId":"3",
+            "Id":"381605",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-26T03:07:25.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"ed71fd18-a676-4fea-aa78-c2d57638d9db",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"116109",
+            "PostHistoryTypeId":"10",
+            "Id":"382421",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

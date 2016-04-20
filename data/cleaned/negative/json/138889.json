@@ -1,0 +1,71 @@
+{
+    "Body":"Can a UK Samsung S4 or LG G3 be used in the USA by international roaming (UK mobile provider), without additional setup in Android?",
+    "ViewCount":"9",
+    "LastActivityDate":"2016-03-05T15:52:47.233",
+    "ClosedDate":"2016-03-05T18:30:01.963",
+    "Title":"Can a UK Samsung S4 or LG G3 be used in the USA",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154710",
+    "CreationDate":"2016-03-05T15:52:47.233",
+    "FavoriteCount":null,
+    "Id":"138889",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T15:52:47.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bccfffd-3ee6-4099-97c8-00558d0a51a4",
+            "UserId":"154710",
+            "CloseReasonId":null,
+            "PostId":"138889",
+            "PostHistoryTypeId":"2",
+            "Id":"464438",
+            "Text":"Can a UK Samsung S4 or LG G3 be used in the USA by international roaming (UK mobile provider), without additional setup in Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T15:52:47.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bccfffd-3ee6-4099-97c8-00558d0a51a4",
+            "UserId":"154710",
+            "CloseReasonId":null,
+            "PostId":"138889",
+            "PostHistoryTypeId":"1",
+            "Id":"464439",
+            "Text":"Can a UK Samsung S4 or LG G3 be used in the USA"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T15:52:47.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bccfffd-3ee6-4099-97c8-00558d0a51a4",
+            "UserId":"154710",
+            "CloseReasonId":null,
+            "PostId":"138889",
+            "PostHistoryTypeId":"3",
+            "Id":"464440",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-05T18:30:01.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"90b1c006-6797-4b08-88d2-6ef15ab11115",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138889",
+            "PostHistoryTypeId":"10",
+            "Id":"464500",
+            "Text":"{\"OriginalQuestionIds\":[29677],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

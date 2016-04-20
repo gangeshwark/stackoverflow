@@ -1,0 +1,71 @@
+{
+    "Body":"One of the selling points of Lollipop was that it will now support shooting in \"Raw\" mode, so that you can get the raw sensor data and then process it on the computer.I just installed CM12.1 on my Samsung S3. Will my phone support \"Raw\" shots in the future (My camera app doesn't support it yet) or does it require specialized hardware and I shouldn't even count on it being supported in an old phone?",
+    "ViewCount":"1119",
+    "LastActivityDate":"2015-05-12T06:24:01.197",
+    "ClosedDate":"2015-11-20T07:19:05.260",
+    "Title":"RAW camera and Lollipop",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"73980",
+    "CreationDate":"2015-05-12T04:50:56.767",
+    "FavoriteCount":null,
+    "Id":"109106",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-12T04:50:56.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"1bb36841-7175-44fa-8751-218bc32ebe67",
+            "UserId":"73980",
+            "CloseReasonId":null,
+            "PostId":"109106",
+            "PostHistoryTypeId":"2",
+            "Id":"355830",
+            "Text":"One of the selling points of Lollipop was that it will now support shooting in \"Raw\" mode, so that you can get the raw sensor data and then process it on the computer.I just installed CM12.1 on my Samsung S3. Will my phone support \"Raw\" shots in the future (My camera app doesn't support it yet) or does it require specialized hardware and I shouldn't even count on it being supported in an old phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-12T04:50:56.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"1bb36841-7175-44fa-8751-218bc32ebe67",
+            "UserId":"73980",
+            "CloseReasonId":null,
+            "PostId":"109106",
+            "PostHistoryTypeId":"1",
+            "Id":"355831",
+            "Text":"RAW camera and Lollipop"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-12T04:50:56.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"1bb36841-7175-44fa-8751-218bc32ebe67",
+            "UserId":"73980",
+            "CloseReasonId":null,
+            "PostId":"109106",
+            "PostHistoryTypeId":"3",
+            "Id":"355832",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-20T07:19:05.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"1eba352e-d382-47db-88dc-3c566028bb0e",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"109106",
+            "PostHistoryTypeId":"10",
+            "Id":"426226",
+            "Text":"{\"OriginalQuestionIds\":[48880],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

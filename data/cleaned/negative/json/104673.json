@@ -1,0 +1,83 @@
+{
+    "Body":"I just bought a second hand Samsung Galaxy Note 8, and I believe it's rooted. I'd like to revert back to the stock ROM, and found guides (for example rooted my phone but want to go back to stock rom) pointing me to http:\/\/samsung-updates.com\/device\/?id=GT-N5120. I can't seem to find any ROMs there with a region matching Norway. Which ROM do you guys suggest for Norway?Greetings,Kenneth",
+    "ViewCount":"33",
+    "LastActivityDate":"2015-04-08T05:56:13.187",
+    "ClosedDate":"2015-05-02T20:23:31.823",
+    "Title":"Find correct stock Android ROM",
+    "LastEditorUserId":"101267",
+    "Tags":"",
+    "LastEditDate":"2015-04-08T05:56:13.187",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101267",
+    "CreationDate":"2015-04-06T18:54:01.383",
+    "FavoriteCount":null,
+    "Id":"104673",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-06T18:54:01.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b9c58f4-1626-4540-a98a-f6dd2d1ad643",
+            "UserId":"101267",
+            "CloseReasonId":null,
+            "PostId":"104673",
+            "PostHistoryTypeId":"2",
+            "Id":"341728",
+            "Text":"I just bought an used Samsung Galaxy Note 8, and I believe it's rooted. I'd like to revert back to the stock ROM, and found guides (for example http:\/\/android.stackexchange.com\/questions\/59891\/rooted-my-phone-but-want-to-go-back-to-stock-rom) pointing me to http:\/\/samsung-updates.com\/device\/?id=GT-N5120. I can't seem to find any ROMs there with a region matching Norway. Which ROM do you guys suggest for Norway?Greetings,Kenneth"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-06T18:54:01.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b9c58f4-1626-4540-a98a-f6dd2d1ad643",
+            "UserId":"101267",
+            "CloseReasonId":null,
+            "PostId":"104673",
+            "PostHistoryTypeId":"1",
+            "Id":"341729",
+            "Text":"Find correct stock Android ROM"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-06T18:54:01.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b9c58f4-1626-4540-a98a-f6dd2d1ad643",
+            "UserId":"101267",
+            "CloseReasonId":null,
+            "PostId":"104673",
+            "PostHistoryTypeId":"3",
+            "Id":"341730",
+            "Text":""
+        },
+        {
+            "Comment":"corrected spelling",
+            "CreationDate":"2015-04-08T05:56:13.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"949195e2-8020-4e4b-adaf-9ee860568466",
+            "UserId":"101267",
+            "CloseReasonId":null,
+            "PostId":"104673",
+            "PostHistoryTypeId":"5",
+            "Id":"342250",
+            "Text":"I just bought a second hand Samsung Galaxy Note 8, and I believe it's rooted. I'd like to revert back to the stock ROM, and found guides (for example http:\/\/android.stackexchange.com\/questions\/59891\/rooted-my-phone-but-want-to-go-back-to-stock-rom) pointing me to http:\/\/samsung-updates.com\/device\/?id=GT-N5120. I can't seem to find any ROMs there with a region matching Norway. Which ROM do you guys suggest for Norway?Greetings,Kenneth"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-02T20:23:31.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"66ed4398-08de-445c-ac75-dc25f458cd2a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"104673",
+            "PostHistoryTypeId":"10",
+            "Id":"352625",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

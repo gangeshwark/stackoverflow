@@ -1,0 +1,71 @@
+{
+    "Body":"I want to install android lolipop on my hp omni 10 where can i get iso?Can i install system image which i get in android sdk on real hardware?",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-03-30T20:38:08.170",
+    "ClosedDate":"2015-03-30T20:41:05.640",
+    "Title":"Where can i get Android Lolipop 5.0 and above for real hardware",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"100312",
+    "CreationDate":"2015-03-30T20:38:08.170",
+    "FavoriteCount":null,
+    "Id":"104042",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-30T20:38:08.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"654fddf5-34bd-4f23-b4e2-220fa031ffee",
+            "UserId":"100312",
+            "CloseReasonId":null,
+            "PostId":"104042",
+            "PostHistoryTypeId":"2",
+            "Id":"339497",
+            "Text":"I want to install android lolipop on my hp omni 10 where can i get iso?Can i install system image which i get in android sdk on real hardware?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-30T20:38:08.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"654fddf5-34bd-4f23-b4e2-220fa031ffee",
+            "UserId":"100312",
+            "CloseReasonId":null,
+            "PostId":"104042",
+            "PostHistoryTypeId":"1",
+            "Id":"339498",
+            "Text":"Where can i get Android Lolipop 5.0 and above for real hardware"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-30T20:38:08.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"654fddf5-34bd-4f23-b4e2-220fa031ffee",
+            "UserId":"100312",
+            "CloseReasonId":null,
+            "PostId":"104042",
+            "PostHistoryTypeId":"3",
+            "Id":"339499",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-30T20:41:05.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"31f9fea4-bd65-4b23-80bc-222594272649",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104042",
+            "PostHistoryTypeId":"10",
+            "Id":"339501",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

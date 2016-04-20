@@ -1,0 +1,83 @@
+{
+    "Body":"I have a pretty annoying problem with my phone. During calls, the screen keeps turning itself on, with of course all kinds of fun buttons like \"End\" and \"Mute\", free for my cheek to press.After dialing, I turn the screen off, and put the phone to my ear. But then, when someone answers my call, it turns back on, and then it's easy to forget to turn it off one more time.Moreover, if I change in-call volume with the volume keys - and depending on the other person's whispery-whispery-soft or harmful-and-super-loud device, I need to do this often, to protect my ears or my ability to understand what they're saying - well, it turns back on. And while adjusting volume, I can very easily forget to go \"volume up - power off - no, too loud - volume down - power off - ...\"So I tried the thing where your screen automatically turns off as soon as it feels you're close to it (i.e. talking), and back on if the phone is brought farther. It worked great except for one thing: the notification bar.Indeed, if I need to take my phone off my ear and on the speaker to do something else on the phone - for example, if I'm on the phone with my doctor's secretary and she's going to give me my appointment, to put it in the Calendar - a problem arises.I can go to the calendar fine, do whatever I want, but when I want to go back to the call and put it back to my ear, there's a problem. To go back to the call, I need to slide the notification bar down, and then press the green phone. But the notification bar is at the top of the screen, right where the sensor that turns the screen off is. The screen turns off before I can slide it down.So I have to slide the physical keyboard out so the display becomes landscape (I never turn on auto-rotation; it's a huge pain when using the phone in my bed, for example), and slide \"right to left\", and then be able to go back to the call. But that's a big hassle, especially if I have someone on the other end of the line, and I'm going \"uhm, wait a second please, I have a technical problem with my phone -- you little &&$%, how about you listen to me?! -- not you, madam, I'm just angry at my phone! -- grmbl\".So, uhm, any way to solve this dual issue (either the screen keeps turning on and then I mute \/ hang up on people accidentally or I'm unable to multitask)?My phone:Samsung Galaxy Q (SGH-T589W)Android 2.3.6 GingerbreadProcessor: 600MHz Qualcomm MSM7227 (if indeed it's the same as the Gravity Smart, because information on the Galaxy Q is rare)Internal storage: 152 MB, some of which I think is taken up by the OS or useless stock software, because I can't ever seem to free itRAM: 279 MBSD card: 2 GBCarrier: Videotron",
+    "ViewCount":"468",
+    "LastActivityDate":"2013-01-11T17:55:34.503",
+    "ClosedDate":"2013-06-19T22:25:19.417",
+    "Title":"Screen turning on during calls",
+    "LastEditorUserId":"26518",
+    "Tags":"",
+    "LastEditDate":"2013-01-11T17:55:34.503",
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26518",
+    "CreationDate":"2013-01-11T17:36:59.080",
+    "FavoriteCount":null,
+    "Id":"37418",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-11T17:36:59.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"bcbc969e-c521-4c51-95fe-7aa17b78103b",
+            "UserId":"26518",
+            "CloseReasonId":null,
+            "PostId":"37418",
+            "PostHistoryTypeId":"2",
+            "Id":"113557",
+            "Text":"I have a pretty annoying problem with my phone. During calls, the screen keeps turning itself on, with of course all kinds of fun buttons like \"End\" and \"Mute\", free for my cheek to press.After dialing, I turn the screen off, and put the phone to my ear. But then, when someone answers my call, it turns back on, and then it's easy to forget to turn it off one more time.Moreover, if I change in-call volume with the volume keys - and depending on the other person's whispery-whispery-soft or harmful-and-super-loud device, I need to do this often, to protect my ears or my ability to understand what they're saying - well, it turns back on. And while adjusting volume, I can very easily forget to go \"volume up - power off - no, too loud - volume down - power off - ...\"So I tried the thing where your screen automatically turns off as soon as it feels you're close to it (i.e. talking), and back on if the phone is brought farther. It worked great except for one thing: the notification bar.Indeed, if I need to take my phone off my ear and on the speaker to do something else on the phone - for example, if I'm on the phone with my doctor's secretary and she's going to give me my appointment, to put it in the Calendar - a problem arises.I can go to the calendar fine, do whatever I want, but when I want to go back to the call and put it back to my ear, there's a problem. To go back to the call, I need to slide the notification bar down, and then press the green phone. But the notification bar is at the top of the screen, right where the sensor that turns the screen off is. The screen turns off before I can slide it down.So I have to slide the physical keyboard out so the display becomes landscape (I never turn on auto-rotation; it's a huge pain when using the phone in my bed, for example), and slide \"right to left\", and then be able to go back to the call. But that's a big hassle, especially if I have someone on the other end of the line, and I'm going \"uhm, wait a second please, I have a technical problem with my phone -- you little &&$%, how about you listen to me?! -- not you, madam, I'm just angry at my phone! -- grmbl\".So, uhm, any way to solve this dual issue (either the screen keeps turning on and then I mute \/ hang up on people accidentally or I'm unable to multitask)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-11T17:36:59.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"bcbc969e-c521-4c51-95fe-7aa17b78103b",
+            "UserId":"26518",
+            "CloseReasonId":null,
+            "PostId":"37418",
+            "PostHistoryTypeId":"1",
+            "Id":"113558",
+            "Text":"Screen turning on during calls"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-11T17:36:59.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"bcbc969e-c521-4c51-95fe-7aa17b78103b",
+            "UserId":"26518",
+            "CloseReasonId":null,
+            "PostId":"37418",
+            "PostHistoryTypeId":"3",
+            "Id":"113559",
+            "Text":""
+        },
+        {
+            "Comment":"added phone specs",
+            "CreationDate":"2013-01-11T17:55:34.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"87ff5a61-8aba-43df-922b-d0feca022d73",
+            "UserId":"26518",
+            "CloseReasonId":null,
+            "PostId":"37418",
+            "PostHistoryTypeId":"5",
+            "Id":"113572",
+            "Text":"I have a pretty annoying problem with my phone. During calls, the screen keeps turning itself on, with of course all kinds of fun buttons like \"End\" and \"Mute\", free for my cheek to press.After dialing, I turn the screen off, and put the phone to my ear. But then, when someone answers my call, it turns back on, and then it's easy to forget to turn it off one more time.Moreover, if I change in-call volume with the volume keys - and depending on the other person's whispery-whispery-soft or harmful-and-super-loud device, I need to do this often, to protect my ears or my ability to understand what they're saying - well, it turns back on. And while adjusting volume, I can very easily forget to go \"volume up - power off - no, too loud - volume down - power off - ...\"So I tried the thing where your screen automatically turns off as soon as it feels you're close to it (i.e. talking), and back on if the phone is brought farther. It worked great except for one thing: the notification bar.Indeed, if I need to take my phone off my ear and on the speaker to do something else on the phone - for example, if I'm on the phone with my doctor's secretary and she's going to give me my appointment, to put it in the Calendar - a problem arises.I can go to the calendar fine, do whatever I want, but when I want to go back to the call and put it back to my ear, there's a problem. To go back to the call, I need to slide the notification bar down, and then press the green phone. But the notification bar is at the top of the screen, right where the sensor that turns the screen off is. The screen turns off before I can slide it down.So I have to slide the physical keyboard out so the display becomes landscape (I never turn on auto-rotation; it's a huge pain when using the phone in my bed, for example), and slide \"right to left\", and then be able to go back to the call. But that's a big hassle, especially if I have someone on the other end of the line, and I'm going \"uhm, wait a second please, I have a technical problem with my phone -- you little &&$%, how about you listen to me?! -- not you, madam, I'm just angry at my phone! -- grmbl\".So, uhm, any way to solve this dual issue (either the screen keeps turning on and then I mute \/ hang up on people accidentally or I'm unable to multitask)?My phone:- Samsung Galaxy Q (SGH-T589W)- Android 2.3.6 Gingerbread- Processor: 600MHz Qualcomm MSM7227 (if indeed it's the same as the Gravity Smart, because information on the Galaxy Q is rare)- Internal storage: 152 MB, some of which I think is taken up by the OS or useless stock software, because I can't ever seem to free it- RAM: 279 MB- SD card: 2 GB- Carrier: Videotron"
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-06-19T22:25:19.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ff9f661-9f67-4c8e-a49e-2d49e098cd4c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"37418",
+            "PostHistoryTypeId":"10",
+            "Id":"154287",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

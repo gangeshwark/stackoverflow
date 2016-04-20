@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to share internet among 2 android devices?  Can we use an Android phone as a Wi-Fi repeater?  I have an android cell phone (Samsung Galaxy S Advance) running on Android 2.3.6. I am interested in converting my cell phone to a WiFi-Hotspot so that I can use the GPPRS\/3G from my phone to access internet on other WiFi-enabled devices. Any android applications that might help to do this?",
+    "ViewCount":"773",
+    "LastActivityDate":"2012-11-13T17:56:42.197",
+    "ClosedDate":"2012-11-16T02:29:30.073",
+    "Title":"How to make cell phone using GPRS\/3G a WiFi-Hotspot",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5796",
+    "CreationDate":"2012-11-13T17:56:42.197",
+    "FavoriteCount":null,
+    "Id":"33329",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-13T17:56:42.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"0933ad03-48cf-4c0e-82a1-d502aa7b6159",
+            "UserId":"5796",
+            "CloseReasonId":null,
+            "PostId":"33329",
+            "PostHistoryTypeId":"2",
+            "Id":"98798",
+            "Text":"I have an android cell phone (Samsung Galaxy S Advance) running on Android 2.3.6. I am interested in converting my cell phone to a WiFi-Hotspot so that I can use the GPPRS\/3G from my phone to access internet on other WiFi-enabled devices. Any android applications that might help to do this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-13T17:56:42.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"0933ad03-48cf-4c0e-82a1-d502aa7b6159",
+            "UserId":"5796",
+            "CloseReasonId":null,
+            "PostId":"33329",
+            "PostHistoryTypeId":"1",
+            "Id":"98799",
+            "Text":"How to make cell phone using GPRS\/3G a WiFi-Hotspot"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-13T17:56:42.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"0933ad03-48cf-4c0e-82a1-d502aa7b6159",
+            "UserId":"5796",
+            "CloseReasonId":null,
+            "PostId":"33329",
+            "PostHistoryTypeId":"3",
+            "Id":"98800",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-16T02:29:30.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"7397af42-c54e-4f82-bcf1-043c5bd2614c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33329",
+            "PostHistoryTypeId":"5",
+            "Id":"99264",
+            "Text":"> **Possible Duplicate:**  > [How to share internet among 2 android devices?](http:\/\/android.stackexchange.com\/questions\/4117\/how-to-share-internet-among-2-android-devices)  > [Can we use an Android phone as a Wi-Fi repeater?](http:\/\/android.stackexchange.com\/questions\/12616\/can-we-use-an-android-phone-as-a-wi-fi-repeater)  I have an android cell phone (Samsung Galaxy S Advance) running on Android 2.3.6. I am interested in converting my cell phone to a WiFi-Hotspot so that I can use the GPPRS\/3G from my phone to access internet on other WiFi-enabled devices. Any android applications that might help to do this?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-16T02:29:30.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1c9b03a-d07d-48af-9646-ae578a207403",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"33329",
+            "PostHistoryTypeId":"10",
+            "Id":"99265",
+            "Text":"{\"OriginalQuestionIds\":[4117,12616],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

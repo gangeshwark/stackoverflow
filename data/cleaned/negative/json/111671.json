@@ -1,0 +1,71 @@
+{
+    "Body":"Is their a way to set my phone to automically download everything to my SD card. I have moved every application moveable to my card but my internal storage is still full leaving me unable to download anything.I didn't see anything under storage to change the settings. I have 4.4 kit kat running on an lg phone.",
+    "ViewCount":"27",
+    "LastActivityDate":"2015-06-06T20:35:04.703",
+    "ClosedDate":"2015-06-11T15:12:16.787",
+    "Title":"changing storage",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111695",
+    "CreationDate":"2015-06-06T20:35:04.703",
+    "FavoriteCount":null,
+    "Id":"111671",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-06T20:35:04.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a11722c-51a7-406e-b394-201e52004a4c",
+            "UserId":"111695",
+            "CloseReasonId":null,
+            "PostId":"111671",
+            "PostHistoryTypeId":"2",
+            "Id":"365206",
+            "Text":"Is their a way to set my phone to automically download everything to my SD card. I have moved every application moveable to my card but my internal storage is still full leaving me unable to download anything.I didn't see anything under storage to change the settings. I have 4.4 kit kat running on an lg phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-06T20:35:04.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a11722c-51a7-406e-b394-201e52004a4c",
+            "UserId":"111695",
+            "CloseReasonId":null,
+            "PostId":"111671",
+            "PostHistoryTypeId":"1",
+            "Id":"365207",
+            "Text":"changing storage"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-06T20:35:04.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a11722c-51a7-406e-b394-201e52004a4c",
+            "UserId":"111695",
+            "CloseReasonId":null,
+            "PostId":"111671",
+            "PostHistoryTypeId":"3",
+            "Id":"365208",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-11T15:12:16.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"b86fd18e-3c08-4764-b969-00475f80f18b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111671",
+            "PostHistoryTypeId":"10",
+            "Id":"367245",
+            "Text":"{\"OriginalQuestionIds\":[43517],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

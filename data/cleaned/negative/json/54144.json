@@ -1,0 +1,71 @@
+{
+    "Body":"I develop \"on the road\" using a laptop that's not connected to a power source, so when I debug on my android devices, they drain my laptop battery.  Unfortunately, the laptop is a MacBook Air so spare laptop batteries is not an option.  (I charge everything at home at night.)Is there a setting to switch USB charging off, especially when debugging?",
+    "ViewCount":"1088",
+    "LastActivityDate":"2013-09-29T14:42:52.150",
+    "ClosedDate":"2013-11-27T16:09:49.203",
+    "Title":"How to NOT charge when USB debugging?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42347",
+    "CreationDate":"2013-09-29T12:40:59.260",
+    "FavoriteCount":null,
+    "Id":"54144",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-29T12:40:59.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"58c9a017-6ed9-48b5-8f7a-fe45c24e22c6",
+            "UserId":"42347",
+            "CloseReasonId":null,
+            "PostId":"54144",
+            "PostHistoryTypeId":"2",
+            "Id":"179329",
+            "Text":"I develop \"on the road\" using a laptop that's not connected to a power source, so when I debug on my android devices, they drain my laptop battery.  Unfortunately, the laptop is a MacBook Air so spare laptop batteries is not an option.  (I charge everything at home at night.)Is there a setting to switch USB charging off, especially when debugging?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-29T12:40:59.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"58c9a017-6ed9-48b5-8f7a-fe45c24e22c6",
+            "UserId":"42347",
+            "CloseReasonId":null,
+            "PostId":"54144",
+            "PostHistoryTypeId":"1",
+            "Id":"179330",
+            "Text":"How to NOT charge when USB debugging?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-29T12:40:59.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"58c9a017-6ed9-48b5-8f7a-fe45c24e22c6",
+            "UserId":"42347",
+            "CloseReasonId":null,
+            "PostId":"54144",
+            "PostHistoryTypeId":"3",
+            "Id":"179331",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-27T16:09:49.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"6359595c-04d2-4205-8827-5b483bc154a1",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"54144",
+            "PostHistoryTypeId":"10",
+            "Id":"194279",
+            "Text":"{\"OriginalQuestionIds\":[54902],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

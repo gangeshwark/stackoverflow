@@ -1,0 +1,71 @@
+{
+    "Body":"I occasionally use my phone to connect to the work network for quick diagnostic purposes. I do not like being connected to it for regular use, as I don't like my phone activity to be traceable by my employer.Is it possible to remember a WiFi network, but only connect when manually triggered?",
+    "ViewCount":"76",
+    "LastActivityDate":"2015-11-05T09:38:44.907",
+    "ClosedDate":"2015-11-18T05:58:10.323",
+    "Title":"Is it possible to remember a network but manually initiate connection every time?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64801",
+    "CreationDate":"2015-11-04T22:24:03.630",
+    "FavoriteCount":null,
+    "Id":"127980",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T22:24:03.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"bee474b8-d862-44a6-8d1f-41c8a594aa85",
+            "UserId":"64801",
+            "CloseReasonId":null,
+            "PostId":"127980",
+            "PostHistoryTypeId":"2",
+            "Id":"420811",
+            "Text":"I occasionally use my phone to connect to the work network for quick diagnostic purposes. I do not like being connected to it for regular use, as I don't like my phone activity to be traceable by my employer.Is it possible to remember a WiFi network, but only connect when manually triggered?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T22:24:03.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"bee474b8-d862-44a6-8d1f-41c8a594aa85",
+            "UserId":"64801",
+            "CloseReasonId":null,
+            "PostId":"127980",
+            "PostHistoryTypeId":"1",
+            "Id":"420812",
+            "Text":"Is it possible to remember a network but manually initiate connection every time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T22:24:03.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"bee474b8-d862-44a6-8d1f-41c8a594aa85",
+            "UserId":"64801",
+            "CloseReasonId":null,
+            "PostId":"127980",
+            "PostHistoryTypeId":"3",
+            "Id":"420813",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-18T05:58:10.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"0145b09e-453e-4919-994a-b380c2e19699",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"127980",
+            "PostHistoryTypeId":"10",
+            "Id":"425412",
+            "Text":"{\"OriginalQuestionIds\":[35332],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I plan to unlock the bootloader on my OnePlus One device but from what I've seen in forums, personal data (media, app data etc) are lost in essentially what is a factory reset of sorts. Is there any way I can backup the data manually? For instance, if I copy all files to my workstation, unlock and put them back into the phone, will it work? If there are any faster and more efficient ways to do it, please add those in the answer. Thank you. ",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-04-21T06:12:28.000",
+    "ClosedDate":"2015-04-23T12:23:32.207",
+    "Title":"Restoring personal data after bootloader unlock",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103401",
+    "CreationDate":"2015-04-21T06:12:28.000",
+    "FavoriteCount":null,
+    "Id":"106092",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-21T06:12:28.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"f85aa0a3-34ae-4a3b-9f97-cab50edae52b",
+            "UserId":"103401",
+            "CloseReasonId":null,
+            "PostId":"106092",
+            "PostHistoryTypeId":"2",
+            "Id":"347019",
+            "Text":"I plan to unlock the bootloader on my OnePlus One device but from what I've seen in forums, personal data (media, app data etc) are lost in essentially what is a factory reset of sorts. Is there any way I can backup the data manually? For instance, if I copy all files to my workstation, unlock and put them back into the phone, will it work? If there are any faster and more efficient ways to do it, please add those in the answer. Thank you. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-21T06:12:28.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"f85aa0a3-34ae-4a3b-9f97-cab50edae52b",
+            "UserId":"103401",
+            "CloseReasonId":null,
+            "PostId":"106092",
+            "PostHistoryTypeId":"1",
+            "Id":"347020",
+            "Text":"Restoring personal data after bootloader unlock"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-21T06:12:28.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"f85aa0a3-34ae-4a3b-9f97-cab50edae52b",
+            "UserId":"103401",
+            "CloseReasonId":null,
+            "PostId":"106092",
+            "PostHistoryTypeId":"3",
+            "Id":"347021",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-23T12:23:32.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"a28eff91-d2ec-4a69-a70c-a485fc64e0d1",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"106092",
+            "PostHistoryTypeId":"10",
+            "Id":"348055",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

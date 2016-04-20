@@ -1,0 +1,83 @@
+{
+    "Body":"I want to Share Computer internet connection with my Google Nexus One using usb cable. how can i do this ? ",
+    "ViewCount":"27",
+    "LastActivityDate":"2013-04-12T07:32:40.357",
+    "ClosedDate":"2013-04-12T12:51:44.213",
+    "Title":"Share Computer internet connection with my Google Nexus One",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-04-12T07:32:40.357",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26124",
+    "CreationDate":"2013-04-12T07:11:06.000",
+    "FavoriteCount":null,
+    "Id":"43552",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-12T07:11:06.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4e5d113-9e53-452d-8622-7f37a043b36a",
+            "UserId":"26124",
+            "CloseReasonId":null,
+            "PostId":"43552",
+            "PostHistoryTypeId":"2",
+            "Id":"139273",
+            "Text":"I want to Share Computer internet connection with my Google Nexus One using usb cable. how can i do this ? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-12T07:11:06.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4e5d113-9e53-452d-8622-7f37a043b36a",
+            "UserId":"26124",
+            "CloseReasonId":null,
+            "PostId":"43552",
+            "PostHistoryTypeId":"1",
+            "Id":"139274",
+            "Text":"Share Computer internet connection with my Google Nexus One"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-12T07:11:06.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4e5d113-9e53-452d-8622-7f37a043b36a",
+            "UserId":"26124",
+            "CloseReasonId":null,
+            "PostId":"43552",
+            "PostHistoryTypeId":"3",
+            "Id":"139275",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-04-12T07:32:40.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"b284a015-e8f1-48ea-9df1-e52c11da006f",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"43552",
+            "PostHistoryTypeId":"6",
+            "Id":"139278",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-12T12:51:44.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"9b9b503a-7a59-4a67-8c6a-903e5d5efaef",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"43552",
+            "PostHistoryTypeId":"10",
+            "Id":"139339",
+            "Text":"{\"OriginalQuestionIds\":[2298],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

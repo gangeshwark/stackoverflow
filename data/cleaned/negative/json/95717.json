@@ -1,0 +1,71 @@
+{
+    "Body":"I usually save movies in the Movies folder of my Galaxy S5 to view them in my VLC app.Turns out that the movies also appear in the Gallery app. I would really rather have the Gallery app only display images captured by the camera, rather than my movie media files.Is it possible to limit the Gallery app to simply search the DCIM folder rather than the Movies folder as well? I suspect not - but then, is it possible to isolate my movies so they can only be found by VLC and not Gallery?",
+    "ViewCount":"359",
+    "LastActivityDate":"2015-01-14T14:39:20.697",
+    "ClosedDate":"2015-01-15T11:46:20.090",
+    "Title":"Gallery is displaying my movie files from the Movies folder",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"89872",
+    "CreationDate":"2015-01-13T07:51:01.423",
+    "FavoriteCount":null,
+    "Id":"95717",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-13T07:51:01.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"194048f9-78ce-4dc5-b33f-90704fff061a",
+            "UserId":"89872",
+            "CloseReasonId":null,
+            "PostId":"95717",
+            "PostHistoryTypeId":"2",
+            "Id":"311622",
+            "Text":"I usually save movies in the Movies folder of my Galaxy S5 to view them in my VLC app.Turns out that the movies also appear in the Gallery app. I would really rather have the Gallery app only display images captured by the camera, rather than my movie media files.Is it possible to limit the Gallery app to simply search the DCIM folder rather than the Movies folder as well? I suspect not - but then, is it possible to isolate my movies so they can only be found by VLC and not Gallery?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-13T07:51:01.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"194048f9-78ce-4dc5-b33f-90704fff061a",
+            "UserId":"89872",
+            "CloseReasonId":null,
+            "PostId":"95717",
+            "PostHistoryTypeId":"1",
+            "Id":"311623",
+            "Text":"Gallery is displaying my movie files from the Movies folder"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-13T07:51:01.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"194048f9-78ce-4dc5-b33f-90704fff061a",
+            "UserId":"89872",
+            "CloseReasonId":null,
+            "PostId":"95717",
+            "PostHistoryTypeId":"3",
+            "Id":"311624",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-15T11:46:20.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e71f1b9-c275-4cb4-91f8-232f7a799054",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"95717",
+            "PostHistoryTypeId":"10",
+            "Id":"312327",
+            "Text":"{\"OriginalQuestionIds\":[7866],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

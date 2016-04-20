@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  HTC Desire low on internal storage, I'm clueless  I need a good and solid way to find large things which are taking up lots of phone internal memory. My phone really just stops working, sync-wise, when I'm running low on space, which seems to be all the time.I'm running LeeDroid and have set my default install application as the SD card, but it seems that I can still fill up my internal phone storage quickly. I did try the App2SD+ setup, but couldn't seem to partition my card properly.So does anyone have any good tips? At the moment I'm clearing Maps data and Browser cache, but now that's gone also. Do apps on the SD card still put data on the phone? Or do I just need to make more effort partitioning my SD card to get App2SD working?Something which created a list or pie chart or both of internal space with links to clear data or uninstall would be idea.",
+    "ViewCount":"418",
+    "LastActivityDate":"2011-04-12T16:09:07.730",
+    "ClosedDate":"2011-04-12T19:23:36.027",
+    "Title":"Good ways of clearing internal space?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1431",
+    "CreationDate":"2011-04-12T16:09:07.730",
+    "FavoriteCount":null,
+    "Id":"8213",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-12T16:09:07.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb493a02-bcd3-4579-a629-4ed939f142b5",
+            "UserId":"1431",
+            "CloseReasonId":null,
+            "PostId":"8213",
+            "PostHistoryTypeId":"2",
+            "Id":"19801",
+            "Text":"I need a good and solid way to find large things which are taking up lots of phone internal memory. My phone really just stops working, sync-wise, when I'm running low on space, which seems to be all the time.I'm running LeeDroid and have set my default install application as the SD card, but it seems that I can still fill up my internal phone storage quickly. I did try the App2SD+ setup, but couldn't seem to partition my card properly.So does anyone have any good tips? At the moment I'm clearing Maps data and Browser cache, but now that's gone also. Do apps on the SD card still put data on the phone? Or do I just need to make more effort partitioning my SD card to get App2SD working?Something which created a list or pie chart or both of internal space with links to clear data or uninstall would be idea."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-12T16:09:07.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb493a02-bcd3-4579-a629-4ed939f142b5",
+            "UserId":"1431",
+            "CloseReasonId":null,
+            "PostId":"8213",
+            "PostHistoryTypeId":"1",
+            "Id":"19802",
+            "Text":"Good ways of clearing internal space?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-12T16:09:07.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb493a02-bcd3-4579-a629-4ed939f142b5",
+            "UserId":"1431",
+            "CloseReasonId":null,
+            "PostId":"8213",
+            "PostHistoryTypeId":"3",
+            "Id":"19803",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-04-12T19:23:36.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"42cdb43c-b64c-4e51-af02-a7cc4f34d578",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"8213",
+            "PostHistoryTypeId":"5",
+            "Id":"19825",
+            "Text":"> **Possible Duplicate:**  > [HTC Desire low on internal storage, I'm clueless](http:\/\/android.stackexchange.com\/questions\/5519\/htc-desire-low-on-internal-storage-im-clueless)  I need a good and solid way to find large things which are taking up lots of phone internal memory. My phone really just stops working, sync-wise, when I'm running low on space, which seems to be all the time.I'm running LeeDroid and have set my default install application as the SD card, but it seems that I can still fill up my internal phone storage quickly. I did try the App2SD+ setup, but couldn't seem to partition my card properly.So does anyone have any good tips? At the moment I'm clearing Maps data and Browser cache, but now that's gone also. Do apps on the SD card still put data on the phone? Or do I just need to make more effort partitioning my SD card to get App2SD working?Something which created a list or pie chart or both of internal space with links to clear data or uninstall would be idea."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-04-12T19:23:36.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dbbd4a1-507a-4697-b61e-adf300c03a32",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"8213",
+            "PostHistoryTypeId":"10",
+            "Id":"19826",
+            "Text":"{\"OriginalQuestionIds\":[5519],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

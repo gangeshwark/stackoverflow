@@ -1,0 +1,83 @@
+{
+    "Body":"Set the WiFi Sleep policy as 'never' but when my new Galaxy Mini is in sleep mode wi-fi is turned off. I tried with a few apps like 'Keep WiFi' without success. Is anybody out there who actually got the same problem and solved it? ",
+    "ViewCount":"491",
+    "LastActivityDate":"2012-04-12T12:33:08.110",
+    "ClosedDate":"2015-02-14T06:13:55.743",
+    "Title":"Wi Fi Sleep policy doesn't work on Galaxy Mini",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14180",
+    "CreationDate":"2012-04-11T12:08:17.070",
+    "FavoriteCount":null,
+    "Id":"21691",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-11T12:08:17.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"96e1d44e-4660-442f-bbff-0b5a56ed0d2a",
+            "UserId":"14180",
+            "CloseReasonId":null,
+            "PostId":"21691",
+            "PostHistoryTypeId":"2",
+            "Id":"60796",
+            "Text":"Set the WiFi Sleep policy as 'never' but when my new Galaxy Mini is in sleep mode wi-fi is turned off. I tried with a few apps like 'Keep WiFi' without success. Is anybody out there who actually got the same problem and solved it? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-11T12:08:17.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"96e1d44e-4660-442f-bbff-0b5a56ed0d2a",
+            "UserId":"14180",
+            "CloseReasonId":null,
+            "PostId":"21691",
+            "PostHistoryTypeId":"1",
+            "Id":"60797",
+            "Text":"Wi Fi Sleep policy doesn't work on Galaxy Mini"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-11T12:08:17.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"96e1d44e-4660-442f-bbff-0b5a56ed0d2a",
+            "UserId":"14180",
+            "CloseReasonId":null,
+            "PostId":"21691",
+            "PostHistoryTypeId":"3",
+            "Id":"60798",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/245582805038415873",
+            "CreationDate":"2012-09-11T18:01:18.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5170a6c-fcc2-4e25-bc82-3581444ab491",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"21691",
+            "PostHistoryTypeId":"25",
+            "Id":"85589",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-14T06:13:55.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"a27ccba3-4371-4192-8602-d8c094877378",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21691",
+            "PostHistoryTypeId":"10",
+            "Id":"322656",
+            "Text":"{\"OriginalQuestionIds\":[14162],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

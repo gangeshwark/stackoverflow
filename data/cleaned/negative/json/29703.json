@@ -1,0 +1,83 @@
+{
+    "Body":"I am on a windows 7 desktop, drivers for handset installed. Odin3 not seeing the my phone when it is booted into download mode (vol\/center button\/power), but it does see it if booted in regular mode. I don't know what to do. I am trying to root the device and the instructions say that I need to first get this odin working. help helpthanks",
+    "ViewCount":"1671",
+    "LastActivityDate":"2013-04-05T18:47:44.617",
+    "ClosedDate":"2012-09-22T12:03:59.797",
+    "Title":"Odin not finding my Galaxy S3?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-04-05T18:47:44.617",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18918",
+    "CreationDate":"2012-09-21T06:22:54.067",
+    "FavoriteCount":null,
+    "Id":"29703",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-21T06:22:54.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"3547720c-7781-473b-8400-c10c03a19e81",
+            "UserId":"18918",
+            "CloseReasonId":null,
+            "PostId":"29703",
+            "PostHistoryTypeId":"2",
+            "Id":"88619",
+            "Text":"I am on a windows 7 desktop, drivers for handset installed. Odin3 not seeing the my phone when it is booted into download mode (vol\/center button\/power), but it does see it if booted in regular mode. I don't know what to do. I am trying to root the device and the instructions say that I need to first get this odin working. help helpthanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-21T06:22:54.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"3547720c-7781-473b-8400-c10c03a19e81",
+            "UserId":"18918",
+            "CloseReasonId":null,
+            "PostId":"29703",
+            "PostHistoryTypeId":"1",
+            "Id":"88620",
+            "Text":"Odin not finding my Galaxy S3?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-21T06:22:54.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"3547720c-7781-473b-8400-c10c03a19e81",
+            "UserId":"18918",
+            "CloseReasonId":null,
+            "PostId":"29703",
+            "PostHistoryTypeId":"3",
+            "Id":"88621",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-09-22T12:03:59.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"6268feac-325b-4bb8-b0a6-24d79b519be5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29703",
+            "PostHistoryTypeId":"10",
+            "Id":"88889",
+            "Text":"{\"Voters\":[{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-04-05T18:47:44.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"67e3ffb2-7e47-441d-bb47-3d946d5a0f2b",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"29703",
+            "PostHistoryTypeId":"6",
+            "Id":"137394",
+            "Text":""
+        }
+    ]
+}

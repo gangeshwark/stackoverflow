@@ -1,0 +1,71 @@
+{
+    "Body":"Could I install certain custom ROMS for other devices e.g. Samsung tab 3 Stock on Samsung Galaxy tab 2? If so, how, and what should I do?",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-08-11T17:00:22.770",
+    "ClosedDate":"2015-08-11T18:22:34.170",
+    "Title":"Adaptation of ROMS for other devices",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116168",
+    "CreationDate":"2015-08-11T17:00:22.770",
+    "FavoriteCount":null,
+    "Id":"118959",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-11T17:00:22.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"215b7ed7-13be-422d-8095-a6f9d54284b0",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"118959",
+            "PostHistoryTypeId":"2",
+            "Id":"389573",
+            "Text":"Could I install certain custom ROMS for other devices e.g. Samsung tab 3 Stock on Samsung Galaxy tab 2? If so, how, and what should I do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-11T17:00:22.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"215b7ed7-13be-422d-8095-a6f9d54284b0",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"118959",
+            "PostHistoryTypeId":"1",
+            "Id":"389574",
+            "Text":"Adaptation of ROMS for other devices"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-11T17:00:22.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"215b7ed7-13be-422d-8095-a6f9d54284b0",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"118959",
+            "PostHistoryTypeId":"3",
+            "Id":"389575",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-11T18:22:34.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"666a91b1-8b33-4ecb-9ab1-72aa2b1bb6b3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"118959",
+            "PostHistoryTypeId":"10",
+            "Id":"389610",
+            "Text":"{\"OriginalQuestionIds\":[35925],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

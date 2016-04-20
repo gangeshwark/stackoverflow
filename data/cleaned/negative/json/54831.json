@@ -1,0 +1,71 @@
+{
+    "Body":"My phone is HTC Explorer(Pico), Android 2.3.5.I run Windows7 and Ubuntu 12.04 on my desktop. My PC has no Wifi. I use a bluetooth USB dongle to transmit files to\/from my smartphone.I have a wired LAN connection on my PC. How can I transmit the internet signal to my phone via bluetooth, so that I can browse on my phone?Thanks in advance!",
+    "ViewCount":"27",
+    "LastActivityDate":"2013-10-10T10:06:38.370",
+    "ClosedDate":"2013-10-11T04:42:30.180",
+    "Title":"How to reverse tether inorder to transmit Internet signal from PC to Android via Bluetooth?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"43042",
+    "CreationDate":"2013-10-10T10:06:38.370",
+    "FavoriteCount":null,
+    "Id":"54831",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-10T10:06:38.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa32f469-f696-4fba-a96d-5e9b081e3589",
+            "UserId":"43042",
+            "CloseReasonId":null,
+            "PostId":"54831",
+            "PostHistoryTypeId":"2",
+            "Id":"182022",
+            "Text":"My phone is HTC Explorer(Pico), Android 2.3.5.I run Windows7 and Ubuntu 12.04 on my desktop. My PC has no Wifi. I use a bluetooth USB dongle to transmit files to\/from my smartphone.I have a wired LAN connection on my PC. How can I transmit the internet signal to my phone via bluetooth, so that I can browse on my phone?Thanks in advance!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-10T10:06:38.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa32f469-f696-4fba-a96d-5e9b081e3589",
+            "UserId":"43042",
+            "CloseReasonId":null,
+            "PostId":"54831",
+            "PostHistoryTypeId":"1",
+            "Id":"182023",
+            "Text":"How to reverse tether inorder to transmit Internet signal from PC to Android via Bluetooth?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-10T10:06:38.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa32f469-f696-4fba-a96d-5e9b081e3589",
+            "UserId":"43042",
+            "CloseReasonId":null,
+            "PostId":"54831",
+            "PostHistoryTypeId":"3",
+            "Id":"182024",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-11T04:42:30.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"19d4f5cf-2f06-4e09-a026-f0b9a12a42b2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"54831",
+            "PostHistoryTypeId":"10",
+            "Id":"182240",
+            "Text":"{\"OriginalQuestionIds\":[24332],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":23379,\"DisplayName\":\"Sid\"}]}"
+        }
+    ]
+}

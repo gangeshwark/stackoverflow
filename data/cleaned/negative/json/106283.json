@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to access and transfer text messages from an Xperia E to a new phone. I've found several applications that appear to let me do so, but all of them require USB Debugging to be on. Since the screen is broken (but I do still have touch functionality as far as I can tell) I have no idea how to turn this feature on. All questions about the USB debugging issue get closed and redirected to an existing question that doesn't help me, so I'm hoping that there is some way to get the texts without the need for USB debugging.",
+    "ViewCount":"3455",
+    "LastActivityDate":"2015-04-22T23:13:34.263",
+    "ClosedDate":"2015-04-24T14:01:03.673",
+    "Title":"How to get text messages off phone with broken screen",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103649",
+    "CreationDate":"2015-04-22T18:18:56.137",
+    "FavoriteCount":null,
+    "Id":"106283",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T18:18:56.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"356e5392-f3f7-4f0e-8b06-4591b494cd01",
+            "UserId":"103649",
+            "CloseReasonId":null,
+            "PostId":"106283",
+            "PostHistoryTypeId":"2",
+            "Id":"347758",
+            "Text":"I would like to access and transfer text messages from an Xperia E to a new phone. I've found several applications that appear to let me do so, but all of them require USB Debugging to be on. Since the screen is broken (but I do still have touch functionality as far as I can tell) I have no idea how to turn this feature on. All questions about the USB debugging issue get closed and redirected to an existing question that doesn't help me, so I'm hoping that there is some way to get the texts without the need for USB debugging."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T18:18:56.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"356e5392-f3f7-4f0e-8b06-4591b494cd01",
+            "UserId":"103649",
+            "CloseReasonId":null,
+            "PostId":"106283",
+            "PostHistoryTypeId":"1",
+            "Id":"347759",
+            "Text":"How to get text messages off phone with broken screen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T18:18:56.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"356e5392-f3f7-4f0e-8b06-4591b494cd01",
+            "UserId":"103649",
+            "CloseReasonId":null,
+            "PostId":"106283",
+            "PostHistoryTypeId":"3",
+            "Id":"347760",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-24T14:01:03.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"59abdb5a-6297-45ef-8ded-3c9b435e3891",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"106283",
+            "PostHistoryTypeId":"10",
+            "Id":"348527",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

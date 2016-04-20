@@ -1,0 +1,71 @@
+{
+    "Body":"I used a plug with USB output than may have been inappropriate (output DC5V +\/- 0.20V DC500mA +\/-30mA). While it was plugged in, the touchscreen stopped working properly (touching one part of the screen would trigger another), I guess because the voltage was wrong? Is there any danger that I did some permanent damage to the phone or the battery? It wasn't plugged in for long.",
+    "ViewCount":"984",
+    "LastActivityDate":"2014-08-06T12:12:29.267",
+    "ClosedDate":"2014-08-14T04:44:12.843",
+    "Title":"Used (probably) inappropriate charger, touchscreen went crazy, permanent damage?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"69036",
+    "CreationDate":"2014-08-06T08:38:39.677",
+    "FavoriteCount":null,
+    "Id":"78901",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-06T08:38:39.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"c55747e0-8838-433c-a78d-b30b831659fb",
+            "UserId":"69036",
+            "CloseReasonId":null,
+            "PostId":"78901",
+            "PostHistoryTypeId":"2",
+            "Id":"260334",
+            "Text":"I used a plug with USB output than may have been inappropriate (output DC5V +\/- 0.20V DC500mA +\/-30mA). While it was plugged in, the touchscreen stopped working properly (touching one part of the screen would trigger another), I guess because the voltage was wrong? Is there any danger that I did some permanent damage to the phone or the battery? It wasn't plugged in for long."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-06T08:38:39.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"c55747e0-8838-433c-a78d-b30b831659fb",
+            "UserId":"69036",
+            "CloseReasonId":null,
+            "PostId":"78901",
+            "PostHistoryTypeId":"1",
+            "Id":"260335",
+            "Text":"Used (probably) inappropriate charger, touchscreen went crazy, permanent damage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-06T08:38:39.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"c55747e0-8838-433c-a78d-b30b831659fb",
+            "UserId":"69036",
+            "CloseReasonId":null,
+            "PostId":"78901",
+            "PostHistoryTypeId":"3",
+            "Id":"260336",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-14T04:44:12.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ace5cb6-6692-49be-8abe-dbb3f5194920",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"78901",
+            "PostHistoryTypeId":"10",
+            "Id":"262325",
+            "Text":"{\"OriginalQuestionIds\":[39424],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

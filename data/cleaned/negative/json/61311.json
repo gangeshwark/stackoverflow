@@ -1,0 +1,71 @@
+{
+    "Body":"I cant get to use adb with my S3 in Windows 7. I am using CM 10.2, when I run adb devices nothing is shown. I also tired adb kill-server and adb start-serverI tried in Ubuntu and worked perfectly. I would use Ubuntu if I could but the windows pc is the one at the office.What do I need to do for it to work?",
+    "ViewCount":"551",
+    "LastActivityDate":"2014-01-17T12:40:40.250",
+    "ClosedDate":"2014-01-17T17:55:03.637",
+    "Title":"Cant connect S3 with CM 10.2 to adb",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23476",
+    "CreationDate":"2014-01-16T13:42:44.470",
+    "FavoriteCount":null,
+    "Id":"61311",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-16T13:42:44.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf0c9e93-42dc-4567-bff8-fa9a3ea0c5dd",
+            "UserId":"23476",
+            "CloseReasonId":null,
+            "PostId":"61311",
+            "PostHistoryTypeId":"2",
+            "Id":"207413",
+            "Text":"I cant get to use adb with my S3 in Windows 7. I am using CM 10.2, when I run `adb devices` nothing is shown. I also tired `adb kill-server` and `adb start-server`I tried in Ubuntu and worked perfectly. I would use Ubuntu if I could but the windows pc is the one at the office.What do I need to do for it to work?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-16T13:42:44.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf0c9e93-42dc-4567-bff8-fa9a3ea0c5dd",
+            "UserId":"23476",
+            "CloseReasonId":null,
+            "PostId":"61311",
+            "PostHistoryTypeId":"1",
+            "Id":"207414",
+            "Text":"Cant connect S3 with CM 10.2 to adb"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-16T13:42:44.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf0c9e93-42dc-4567-bff8-fa9a3ea0c5dd",
+            "UserId":"23476",
+            "CloseReasonId":null,
+            "PostId":"61311",
+            "PostHistoryTypeId":"3",
+            "Id":"207415",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-17T17:55:03.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"81bfafa0-b9b6-40ed-8705-1f6e25c70e09",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"61311",
+            "PostHistoryTypeId":"10",
+            "Id":"207808",
+            "Text":"{\"OriginalQuestionIds\":[15042],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

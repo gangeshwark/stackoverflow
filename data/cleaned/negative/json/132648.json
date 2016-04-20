@@ -1,0 +1,71 @@
+{
+    "Body":"How do I take a screenshot on a Maven Pro? I have tried pressing the power button and everything on the button bar. I don't know what to do.",
+    "ViewCount":"80",
+    "LastActivityDate":"2015-12-27T22:07:18.390",
+    "ClosedDate":"2016-01-21T19:17:04.467",
+    "Title":"Maven Pro Screenshot",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"143305",
+    "CreationDate":"2015-12-26T21:56:16.473",
+    "FavoriteCount":null,
+    "Id":"132648",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-26T21:56:16.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"b50007cb-1f00-4e20-85f9-62d3f8c3aa96",
+            "UserId":"143305",
+            "CloseReasonId":null,
+            "PostId":"132648",
+            "PostHistoryTypeId":"2",
+            "Id":"439127",
+            "Text":"How do I take a *screenshot* on a *Maven Pro*? I have tried pressing the power button and everything on the button bar. I don't know what to do."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-26T21:56:16.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"b50007cb-1f00-4e20-85f9-62d3f8c3aa96",
+            "UserId":"143305",
+            "CloseReasonId":null,
+            "PostId":"132648",
+            "PostHistoryTypeId":"1",
+            "Id":"439128",
+            "Text":"Maven Pro Screenshot"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-26T21:56:16.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"b50007cb-1f00-4e20-85f9-62d3f8c3aa96",
+            "UserId":"143305",
+            "CloseReasonId":null,
+            "PostId":"132648",
+            "PostHistoryTypeId":"3",
+            "Id":"439129",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-21T19:17:04.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f744747-3159-44b0-9659-763484565f14",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"132648",
+            "PostHistoryTypeId":"10",
+            "Id":"448138",
+            "Text":"{\"OriginalQuestionIds\":[1759],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

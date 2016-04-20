@@ -1,0 +1,71 @@
+{
+    "Body":"I use connectify to create a wifi hotspot which I use in my Android device. But a problem occurs that the internet access stops after a minute or so in my Android device. I have to restart connectify so that it works fine again, but again I face the same problem in a minute or so.Its not a problem with my device as it runs properly on other wifi networks.Any solution to this??",
+    "ViewCount":"5125",
+    "LastActivityDate":"2012-07-20T02:24:08.440",
+    "ClosedDate":"2012-08-14T13:48:29.417",
+    "Title":"Connectify not working properly?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16594",
+    "CreationDate":"2012-07-19T18:40:29.297",
+    "FavoriteCount":null,
+    "Id":"26121",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T18:40:29.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad434cf1-ada8-4b8d-935b-70e0d6a9a0c2",
+            "UserId":"16594",
+            "CloseReasonId":null,
+            "PostId":"26121",
+            "PostHistoryTypeId":"2",
+            "Id":"75587",
+            "Text":"I use connectify to create a wifi hotspot which I use in my Android device. But a problem occurs that the internet access stops after a minute or so in my Android device. I have to restart connectify so that it works fine again, but again I face the same problem in a minute or so.Its not a problem with my device as it runs properly on other wifi networks.Any solution to this??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T18:40:29.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad434cf1-ada8-4b8d-935b-70e0d6a9a0c2",
+            "UserId":"16594",
+            "CloseReasonId":null,
+            "PostId":"26121",
+            "PostHistoryTypeId":"1",
+            "Id":"75588",
+            "Text":"Connectify not working properly?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-19T18:40:29.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad434cf1-ada8-4b8d-935b-70e0d6a9a0c2",
+            "UserId":"16594",
+            "CloseReasonId":null,
+            "PostId":"26121",
+            "PostHistoryTypeId":"3",
+            "Id":"75589",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-08-14T13:48:29.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"fbf854ee-9078-4f58-ba92-166a22e3b1d5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"26121",
+            "PostHistoryTypeId":"10",
+            "Id":"80150",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

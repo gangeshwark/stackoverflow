@@ -1,0 +1,71 @@
+{
+    "Body":"how i can draw a line center of a textView?this is look like play store app old prices !anybody can help me?a've tryed some codes, but they are draw line under textView.i wan to draw A Red Line, Center A TextView.",
+    "ViewCount":"190",
+    "LastActivityDate":"2015-08-12T06:22:40.383",
+    "ClosedDate":"2015-08-12T15:21:38.780",
+    "Title":"draw line center TextView",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"119010",
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"118752",
+    "CreationDate":"2015-08-12T05:10:44.053",
+    "FavoriteCount":null,
+    "Id":"119006",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T05:10:44.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebb69de5-81e5-4d28-9eca-57a88febef3f",
+            "UserId":"118752",
+            "CloseReasonId":null,
+            "PostId":"119006",
+            "PostHistoryTypeId":"2",
+            "Id":"389749",
+            "Text":"how i can draw a line center of a textView?this is look like play store app old prices !anybody can help me?a've tryed some codes, but they are draw line under textView.i wan to draw A Red Line, Center A TextView."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T05:10:44.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebb69de5-81e5-4d28-9eca-57a88febef3f",
+            "UserId":"118752",
+            "CloseReasonId":null,
+            "PostId":"119006",
+            "PostHistoryTypeId":"1",
+            "Id":"389750",
+            "Text":"draw line center TextView"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T05:10:44.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebb69de5-81e5-4d28-9eca-57a88febef3f",
+            "UserId":"118752",
+            "CloseReasonId":null,
+            "PostId":"119006",
+            "PostHistoryTypeId":"3",
+            "Id":"389751",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-12T15:21:38.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac110d63-7111-465f-8b8b-7048e9ca1c11",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"119006",
+            "PostHistoryTypeId":"10",
+            "Id":"389902",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

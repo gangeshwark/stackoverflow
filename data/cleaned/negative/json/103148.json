@@ -1,0 +1,83 @@
+{
+    "Body":"I have rooted have Motorola Moto G(2013) and installed TWRP recovery,it doesn't allow me to update how do I update to Lollipop 5.0.2 please help me!!!!!!!!!!!!!!!",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-03-21T15:33:54.993",
+    "ClosedDate":"2015-03-21T17:10:25.703",
+    "Title":"Moto G - Recover from failed update to Lollipop 5.0.2",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-03-21T15:33:54.993",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99055",
+    "CreationDate":"2015-03-21T13:35:52.307",
+    "FavoriteCount":null,
+    "Id":"103148",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T13:35:52.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0e05b24-2d82-4afd-aa4e-cd47d429007b",
+            "UserId":"99055",
+            "CloseReasonId":null,
+            "PostId":"103148",
+            "PostHistoryTypeId":"2",
+            "Id":"336250",
+            "Text":"I have rooted have Motorola Moto G(2013) and installed TWRP recovery,it doesn't allow me to update how do I update to Lollipop 5.0.2 please help me!!!!!!!!!!!!!!!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T13:35:52.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0e05b24-2d82-4afd-aa4e-cd47d429007b",
+            "UserId":"99055",
+            "CloseReasonId":null,
+            "PostId":"103148",
+            "PostHistoryTypeId":"1",
+            "Id":"336251",
+            "Text":"Moto G - Recover from failed update to Lollipop 5.0.2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T13:35:52.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0e05b24-2d82-4afd-aa4e-cd47d429007b",
+            "UserId":"99055",
+            "CloseReasonId":null,
+            "PostId":"103148",
+            "PostHistoryTypeId":"3",
+            "Id":"336252",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-03-21T15:33:54.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"11d4b82f-a4d4-4ee7-90fe-a39ac91869b6",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"103148",
+            "PostHistoryTypeId":"6",
+            "Id":"336279",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-21T17:10:25.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"950fdf6c-1412-43ed-8bb1-24f959660468",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103148",
+            "PostHistoryTypeId":"10",
+            "Id":"336315",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is there a way to customize vibrate patterns?  I want a custom vibration \"tone\" (pattern) for different callers or applications.Does Android have any facility for this? Can contacts hold custom information like this?Thanks",
+    "ViewCount":"378",
+    "LastActivityDate":"2010-12-22T18:30:44.143",
+    "ClosedDate":"2010-12-22T18:34:52.477",
+    "Title":"Contact or application-specific vibration \"tone\" (pattern)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"188",
+    "CreationDate":"2010-09-16T19:56:42.027",
+    "FavoriteCount":null,
+    "Id":"1071",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-16T19:56:42.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"a27bcfa1-0cdc-41f4-8d28-77c413bc732d",
+            "UserId":"188",
+            "CloseReasonId":null,
+            "PostId":"1071",
+            "PostHistoryTypeId":"2",
+            "Id":"2037",
+            "Text":"I want a custom vibration \"tone\" (pattern) for different callers or applications.Does Android have any facility for this? Can contacts hold custom information like this?Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-16T19:56:42.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"a27bcfa1-0cdc-41f4-8d28-77c413bc732d",
+            "UserId":"188",
+            "CloseReasonId":null,
+            "PostId":"1071",
+            "PostHistoryTypeId":"1",
+            "Id":"2038",
+            "Text":"Contact or application-specific vibration \"tone\" (pattern)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-16T19:56:42.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"a27bcfa1-0cdc-41f4-8d28-77c413bc732d",
+            "UserId":"188",
+            "CloseReasonId":null,
+            "PostId":"1071",
+            "PostHistoryTypeId":"3",
+            "Id":"2039",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-22T18:34:52.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e1fa8bd-06f9-40e2-ac0b-8513c5595365",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"1071",
+            "PostHistoryTypeId":"10",
+            "Id":"8171",
+            "Text":"{\"OriginalQuestionIds\":[1217],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-22T18:34:52.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"f163c537-01fb-4091-90f5-ba2aa50a91d1",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"1071",
+            "PostHistoryTypeId":"5",
+            "Id":"8172",
+            "Text":"> **Possible Duplicate:**  > [Is there a way to customize vibrate patterns?](http:\/\/android.stackexchange.com\/questions\/1217\/is-there-a-way-to-customize-vibrate-patterns)  I want a custom vibration \"tone\" (pattern) for different callers or applications.Does Android have any facility for this? Can contacts hold custom information like this?Thanks"
+        }
+    ]
+}

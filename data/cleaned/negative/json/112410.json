@@ -1,0 +1,71 @@
+{
+    "Body":"This is my first time posting to Stack Exchange, so if I can improve my question, please let me know!I have an external keyboard which I want to use with my Samsung Galaxy Tab S tablet. I would also like to use a Chinese\/English IME with my keyboard. Unfortunately, the key sequence for switching languages for most IMEs seems to be Shift+Space. This is a terrible shortcut for the many languages which use the Shift key frequently (including English).As far as I can tell, there are two possible methods to fix this issue:1) Find\/write an IME with sane shortcuts2) Intercept keys before they reach the IME and converts Shift+Space into Space and then converts a different key sequence into Shift+Space (this would need root I imagine)Here is the nearest related question I could find, but the solution given there is language specific (Russian):Pressing Shift+Space on an external keyboard switches keyboard layoutAny help here would be very appreciated!",
+    "ViewCount":"7",
+    "LastActivityDate":"2015-06-14T17:34:30.960",
+    "ClosedDate":"2015-06-15T05:55:03.947",
+    "Title":"Using Multi-Lang IME with external keyboard",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"112719",
+    "CreationDate":"2015-06-14T17:34:30.960",
+    "FavoriteCount":null,
+    "Id":"112410",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-14T17:34:30.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"25215e44-791f-498f-9f6f-ce2d42e9e5b7",
+            "UserId":"112719",
+            "CloseReasonId":null,
+            "PostId":"112410",
+            "PostHistoryTypeId":"2",
+            "Id":"368130",
+            "Text":"This is my first time posting to Stack Exchange, so if I can improve my question, please let me know!I have an external keyboard which I want to use with my Samsung Galaxy Tab S tablet. I would also like to use a Chinese\/English IME with my keyboard. Unfortunately, the key sequence for switching languages for most IMEs seems to be Shift+Space. This is a terrible shortcut for the many languages which use the Shift key frequently (including English).As far as I can tell, there are two possible methods to fix this issue:1) Find\/write an IME with sane shortcuts2) Intercept keys before they reach the IME and converts Shift+Space into Space and then converts a different key sequence into Shift+Space (this would need root I imagine)Here is the nearest related question I could find, but the solution given there is language specific (Russian):http:\/\/android.stackexchange.com\/questions\/44848\/pressing-shiftspace-on-an-external-keyboard-switches-keyboard-layoutAny help here would be very appreciated!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-14T17:34:30.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"25215e44-791f-498f-9f6f-ce2d42e9e5b7",
+            "UserId":"112719",
+            "CloseReasonId":null,
+            "PostId":"112410",
+            "PostHistoryTypeId":"1",
+            "Id":"368131",
+            "Text":"Using Multi-Lang IME with external keyboard"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-14T17:34:30.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"25215e44-791f-498f-9f6f-ce2d42e9e5b7",
+            "UserId":"112719",
+            "CloseReasonId":null,
+            "PostId":"112410",
+            "PostHistoryTypeId":"3",
+            "Id":"368132",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-15T05:55:03.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c716c457-0a6c-4cc1-b482-31d27b315a36",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"112410",
+            "PostHistoryTypeId":"10",
+            "Id":"368278",
+            "Text":"{\"OriginalQuestionIds\":[44848],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

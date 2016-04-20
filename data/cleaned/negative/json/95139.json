@@ -1,0 +1,71 @@
+{
+    "Body":"I have one question How to take screen shot in LG NEXUS 5? My device has Android 4.4.4 installed.Any tricks.",
+    "ViewCount":"204",
+    "LastActivityDate":"2015-01-07T09:42:58.663",
+    "ClosedDate":"2015-01-07T17:45:20.323",
+    "Title":"How to take screenshot in NEXUS 5?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"95141",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"51106",
+    "CreationDate":"2015-01-07T09:38:04.713",
+    "FavoriteCount":null,
+    "Id":"95139",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T09:38:04.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"0febf355-f449-4ba9-b45b-e247998e9c47",
+            "UserId":"51106",
+            "CloseReasonId":null,
+            "PostId":"95139",
+            "PostHistoryTypeId":"2",
+            "Id":"309669",
+            "Text":"I have one question How to take screen shot in **LG NEXUS 5**? My device has Android 4.4.4 installed.Any tricks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T09:38:04.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"0febf355-f449-4ba9-b45b-e247998e9c47",
+            "UserId":"51106",
+            "CloseReasonId":null,
+            "PostId":"95139",
+            "PostHistoryTypeId":"1",
+            "Id":"309670",
+            "Text":"How to take screenshot in NEXUS 5?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T09:38:04.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"0febf355-f449-4ba9-b45b-e247998e9c47",
+            "UserId":"51106",
+            "CloseReasonId":null,
+            "PostId":"95139",
+            "PostHistoryTypeId":"3",
+            "Id":"309671",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-07T17:45:20.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"f25789ed-f791-42c1-870b-a1391beeeec0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"95139",
+            "PostHistoryTypeId":"10",
+            "Id":"309800",
+            "Text":"{\"OriginalQuestionIds\":[1759],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

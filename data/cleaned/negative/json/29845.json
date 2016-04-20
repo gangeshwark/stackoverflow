@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Service for sharing list of installed apps  Is there an app that would allow one to see my installed apps and if they like any to click on it and have it install on their computer? ",
+    "ViewCount":"26",
+    "LastActivityDate":"2012-09-24T00:00:18.487",
+    "ClosedDate":"2012-09-24T12:39:02.620",
+    "Title":"Share App list with friends?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18918",
+    "CreationDate":"2012-09-24T00:00:18.487",
+    "FavoriteCount":null,
+    "Id":"29845",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T00:00:18.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"549f4d3f-12b9-4e35-8cdc-dca856dfb298",
+            "UserId":"18918",
+            "CloseReasonId":null,
+            "PostId":"29845",
+            "PostHistoryTypeId":"2",
+            "Id":"89113",
+            "Text":"Is there an app that would allow one to see my installed apps and if they like any to click on it and have it install on their computer? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T00:00:18.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"549f4d3f-12b9-4e35-8cdc-dca856dfb298",
+            "UserId":"18918",
+            "CloseReasonId":null,
+            "PostId":"29845",
+            "PostHistoryTypeId":"1",
+            "Id":"89114",
+            "Text":"Share App list with friends?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T00:00:18.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"549f4d3f-12b9-4e35-8cdc-dca856dfb298",
+            "UserId":"18918",
+            "CloseReasonId":null,
+            "PostId":"29845",
+            "PostHistoryTypeId":"3",
+            "Id":"89115",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-24T12:39:02.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9954ebc-6330-4a68-b5ac-ff72850d9ed1",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29845",
+            "PostHistoryTypeId":"5",
+            "Id":"89168",
+            "Text":"> **Possible Duplicate:**  > [Service for sharing list of installed apps](http:\/\/android.stackexchange.com\/questions\/12114\/service-for-sharing-list-of-installed-apps)  Is there an app that would allow one to see my installed apps and if they like any to click on it and have it install on their computer? "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-24T12:39:02.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"4635f110-6e5f-4d48-9de9-bd3db40b5a40",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29845",
+            "PostHistoryTypeId":"10",
+            "Id":"89169",
+            "Text":"{\"OriginalQuestionIds\":[12114],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

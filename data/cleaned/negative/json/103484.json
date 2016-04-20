@@ -1,0 +1,71 @@
+{
+    "Body":"I have tryed to scan the QR code using whatsapp for web, also I see the: ok, I got it, then a green line start to scan but noting happened, I just downloaded the app yesterday night and also Im in the right position of the phone and monitor.  Please can you help me? I have a: Samsung Galaxy Pro B7510.Thanks a lot!",
+    "ViewCount":"276",
+    "LastActivityDate":"2015-03-24T22:58:05.453",
+    "ClosedDate":"2015-03-29T13:55:04.210",
+    "Title":"Why I cant scan the the Whatsapp QR code?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99528",
+    "CreationDate":"2015-03-24T22:06:51.857",
+    "FavoriteCount":null,
+    "Id":"103484",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-24T22:06:51.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ce2f3a3-61cd-4504-8c78-246c9c69f94a",
+            "UserId":"99528",
+            "CloseReasonId":null,
+            "PostId":"103484",
+            "PostHistoryTypeId":"2",
+            "Id":"337408",
+            "Text":"I have tryed to scan the QR code using whatsapp for web, also I see the: ok, I got it, then a green line start to scan but noting happened, I just downloaded the app yesterday night and also Im in the right position of the phone and monitor.  Please can you help me? I have a: Samsung Galaxy Pro B7510.Thanks a lot!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-24T22:06:51.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ce2f3a3-61cd-4504-8c78-246c9c69f94a",
+            "UserId":"99528",
+            "CloseReasonId":null,
+            "PostId":"103484",
+            "PostHistoryTypeId":"1",
+            "Id":"337409",
+            "Text":"Why I cant scan the the Whatsapp QR code?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-24T22:06:51.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ce2f3a3-61cd-4504-8c78-246c9c69f94a",
+            "UserId":"99528",
+            "CloseReasonId":null,
+            "PostId":"103484",
+            "PostHistoryTypeId":"3",
+            "Id":"337410",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-29T13:55:04.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f9fc841-6fb5-437d-a68d-23bfed319cf6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103484",
+            "PostHistoryTypeId":"10",
+            "Id":"339060",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

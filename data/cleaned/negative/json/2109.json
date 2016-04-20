@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  alternatives to Google Maps  Hi All,Does google map application provides voice guided navigation ? Does it supports offline navigation ? Any app which supports offline\/hybrid (like nokia ovi maps) mode of map navigation ? Any google map alternatives in android market ?Thanks,Ankur Shah",
+    "ViewCount":"2016",
+    "LastActivityDate":"2010-10-12T19:23:45.987",
+    "ClosedDate":"2010-10-19T22:14:38.970",
+    "Title":"Google Map alternatives with offline navigation support",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"7",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"2111",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"144",
+    "CreationDate":"2010-10-12T18:32:48.183",
+    "FavoriteCount":null,
+    "Id":"2109",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-10-12T18:32:48.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd8a753c-2b79-4d8e-a5e0-b68ac05e0a45",
+            "UserId":"144",
+            "CloseReasonId":null,
+            "PostId":"2109",
+            "PostHistoryTypeId":"2",
+            "Id":"4171",
+            "Text":"Does google map application provides voice guided navigation ? Does it supports offline navigation ? Any app which supports offline\/hybrid (like nokia ovi maps) mode of map navigation ? Any google map alternatives in android market ?Thanks,Ankur Shah"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-10-12T18:32:48.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd8a753c-2b79-4d8e-a5e0-b68ac05e0a45",
+            "UserId":"144",
+            "CloseReasonId":null,
+            "PostId":"2109",
+            "PostHistoryTypeId":"1",
+            "Id":"4172",
+            "Text":"Google Map alternatives with offline navigation support."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-10-12T18:32:48.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd8a753c-2b79-4d8e-a5e0-b68ac05e0a45",
+            "UserId":"144",
+            "CloseReasonId":null,
+            "PostId":"2109",
+            "PostHistoryTypeId":"3",
+            "Id":"4173",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-10-19T22:14:38.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f1e91da-47bc-47f8-a265-ccac4f6d6f4a",
+            "UserId":"1",
+            "CloseReasonId":null,
+            "PostId":"2109",
+            "PostHistoryTypeId":"10",
+            "Id":"4519",
+            "Text":"{\"OriginalQuestionIds\":[1389],\"Voters\":[{\"Id\":1,\"DisplayName\":\"Geoff Dalgas\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-10-19T22:14:39.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"f43e2418-e949-40ea-9cad-41d4db157f74",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"2109",
+            "PostHistoryTypeId":"5",
+            "Id":"4520",
+            "Text":"> **Possible Duplicate:**  > [alternatives to Google Maps](http:\/\/android.stackexchange.com\/questions\/1389\/alternatives-to-google-maps)  Hi All,Does google map application provides voice guided navigation ? Does it supports offline navigation ? Any app which supports offline\/hybrid (like nokia ovi maps) mode of map navigation ? Any google map alternatives in android market ?Thanks,Ankur Shah"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Kies: Firmware can not be upgraded?  Device: Galaxy SL (GT I9003)I had fresh install from Samsung Service center for Android. They again installed Android 2.2. And now the Kies is saying,  Your device does not support software upgrading via Kies. Current  Firmware Version:  I9003DDKF1\/I9003ODDKA6\/I9003DDKA5\/I9003DDKF1I stay in India. google search suggests that 2.3.5 update is available. How to solve this issue?",
+    "ViewCount":"308",
+    "LastActivityDate":"2011-12-04T17:58:04.883",
+    "ClosedDate":"2012-08-21T21:09:59.487",
+    "Title":"Device upgrade issue via Samsung Kies",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9023",
+    "CreationDate":"2011-12-04T17:58:04.883",
+    "FavoriteCount":null,
+    "Id":"16499",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-04T17:58:04.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"8abc4611-831d-4f80-8fb8-522654c8eb1a",
+            "UserId":"9023",
+            "CloseReasonId":null,
+            "PostId":"16499",
+            "PostHistoryTypeId":"2",
+            "Id":"44677",
+            "Text":"Device: Galaxy SL (GT I9003)I had fresh install from Samsung Service center for Android. They again installed Android 2.2. And now the Kies is saying,> Your device does not support software upgrading via Kies. Current> Firmware Version:  I9003DDKF1\/I9003ODDKA6\/I9003DDKA5\/I9003DDKF1I stay in India. google search suggests that 2.3.5 update is available. How to solve this issue?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-04T17:58:04.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"8abc4611-831d-4f80-8fb8-522654c8eb1a",
+            "UserId":"9023",
+            "CloseReasonId":null,
+            "PostId":"16499",
+            "PostHistoryTypeId":"1",
+            "Id":"44678",
+            "Text":"Device upgrade issue via Samsung Kies"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-04T17:58:04.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"8abc4611-831d-4f80-8fb8-522654c8eb1a",
+            "UserId":"9023",
+            "CloseReasonId":null,
+            "PostId":"16499",
+            "PostHistoryTypeId":"3",
+            "Id":"44679",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-21T21:09:59.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"abae645c-e278-476d-88d5-9d8746f615c6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"16499",
+            "PostHistoryTypeId":"5",
+            "Id":"81844",
+            "Text":"> **Possible Duplicate:**  > [Kies: Firmware can not be upgraded?](http:\/\/android.stackexchange.com\/questions\/16115\/kies-firmware-can-not-be-upgraded)  Device: Galaxy SL (GT I9003)I had fresh install from Samsung Service center for Android. They again installed Android 2.2. And now the Kies is saying,> Your device does not support software upgrading via Kies. Current> Firmware Version:  I9003DDKF1\/I9003ODDKA6\/I9003DDKA5\/I9003DDKF1I stay in India. google search suggests that 2.3.5 update is available. How to solve this issue?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-21T21:09:59.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"507fa480-3cba-4e84-88ba-2bd075122061",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"16499",
+            "PostHistoryTypeId":"10",
+            "Id":"81845",
+            "Text":"{\"OriginalQuestionIds\":[16115],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

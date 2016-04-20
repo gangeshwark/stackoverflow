@@ -1,0 +1,83 @@
+{
+    "Body":"May be I am asking discussion related question, I am sorry if you feel it wrong,but I am really stuck while deciding what to do. For first time app Installation I have to give Download link for users from My own server because users don't have access to other Internet (also play store). I have uploaded app to my own server and gave download link to other users from there.Now while installing that from that location gives warning that it is from untrusted location and ask to change the setting and tick unknown location. maybe because I haven't signed this app with play store.Now, If I sign it with play store key and upload it to app store also, but for first time If I give same app download from my server, will it give same warning ? Or else what things I can do to remove that warning while downloading from my own server. Any other ways of dealing with this scenario will be helpful.",
+    "ViewCount":"764",
+    "LastActivityDate":"2014-02-07T15:14:25.207",
+    "ClosedDate":"2014-02-10T10:45:44.643",
+    "Title":"App download from own server shows unknown resource, How to make it trusted one",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-02-07T15:14:25.207",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"62921",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49415",
+    "CreationDate":"2014-02-07T06:48:24.563",
+    "FavoriteCount":"1",
+    "Id":"62919",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-07T06:48:24.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d7c8201-ecd4-4cfc-a617-70d1448ba47f",
+            "UserId":"49415",
+            "CloseReasonId":null,
+            "PostId":"62919",
+            "PostHistoryTypeId":"2",
+            "Id":"213620",
+            "Text":"May be I am asking discussion related question, I am sorry if you feel it wrong,but I am really stuck while deciding what to do. For first time app Installation I have to give Download link for users from My own server because users don't have access to other Internet (also play store). I have uploaded app to my own server and gave download link to other users from there. Now while installing that from that location gives warning that it is from untrusted location and ask to change the setting and tick unknown location. maybe because I haven't signed this app with play store.Now, If I sign it with play store key and upload it to app store also, but for first time If I give same app download from my server, will it give same warning ? Or else what things I can do to remove that warning while downloading from my own server. Any other ways of dealing with this scenario will be helpful.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-07T06:48:24.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d7c8201-ecd4-4cfc-a617-70d1448ba47f",
+            "UserId":"49415",
+            "CloseReasonId":null,
+            "PostId":"62919",
+            "PostHistoryTypeId":"1",
+            "Id":"213621",
+            "Text":"App download from own server shows unknown resource, How to make it trusted one"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-07T06:48:24.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d7c8201-ecd4-4cfc-a617-70d1448ba47f",
+            "UserId":"49415",
+            "CloseReasonId":null,
+            "PostId":"62919",
+            "PostHistoryTypeId":"3",
+            "Id":"213622",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-02-07T15:14:25.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"f255bb8c-7036-49ac-bba6-cbad11260d23",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"62919",
+            "PostHistoryTypeId":"6",
+            "Id":"213690",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-02-10T10:45:44.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"01b8e71e-1e70-48ca-abc5-8451c34f389d",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"62919",
+            "PostHistoryTypeId":"10",
+            "Id":"214592",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

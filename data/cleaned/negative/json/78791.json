@@ -1,0 +1,71 @@
+{
+    "Body":"I have Karbonn a18+ and its kernal does not support otg as well as seed charge.the is kernel version is 3.4.5 someone help me.I want otg support .",
+    "ViewCount":"369",
+    "LastActivityDate":"2014-08-05T05:15:47.927",
+    "ClosedDate":"2014-08-07T09:15:04.557",
+    "Title":"External usb not support",
+    "LastEditorUserId":null,
+    "Tags":"<4.2-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68921",
+    "CreationDate":"2014-08-05T03:48:26.623",
+    "FavoriteCount":null,
+    "Id":"78791",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-05T03:48:26.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7f93035-3a97-45ed-baf7-60496ef7bb6a",
+            "UserId":"68921",
+            "CloseReasonId":null,
+            "PostId":"78791",
+            "PostHistoryTypeId":"2",
+            "Id":"259944",
+            "Text":"I have Karbonn a18+ and its kernal does not support otg as well as seed charge.the is kernel version is 3.4.5 someone help me.I want otg support ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-05T03:48:26.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7f93035-3a97-45ed-baf7-60496ef7bb6a",
+            "UserId":"68921",
+            "CloseReasonId":null,
+            "PostId":"78791",
+            "PostHistoryTypeId":"1",
+            "Id":"259945",
+            "Text":"External usb not support"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-05T03:48:26.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7f93035-3a97-45ed-baf7-60496ef7bb6a",
+            "UserId":"68921",
+            "CloseReasonId":null,
+            "PostId":"78791",
+            "PostHistoryTypeId":"3",
+            "Id":"259946",
+            "Text":"<4.2-jelly-bean>"
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-08-07T09:15:04.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2fd8da8-d10f-4cd0-a683-61e5b2ed85bd",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"78791",
+            "PostHistoryTypeId":"10",
+            "Id":"260635",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I'd like to use po.st to shorten URLs via AutoMagic using their bookmarklet code. javascript:( function() {var s = document.createElement('script'); s.setAttribute('id', 'postbookmarklet_js'); s.setAttribute('src', ('https:' == document.location.protocol ? 'https:\/\/s.po.st' : 'http:\/\/i.po.st') + '\/static\/v3\/bookmarklet\/post-bookmarklet.js?apiKey=E205272E-A768-42E7-A6B1-9D99559C54EB'); document.body.appendChild(s);}() );I don't have the foggiest as to what I need to do to make that happen would someone help me please?",
+    "ViewCount":"18",
+    "LastActivityDate":"2015-07-09T01:25:56.843",
+    "ClosedDate":"2015-07-15T13:40:22.380",
+    "Title":"AutoMagic as a URL shortener",
+    "LastEditorUserId":"981",
+    "Tags":"",
+    "LastEditDate":"2015-07-09T01:25:56.843",
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116033",
+    "CreationDate":"2015-07-09T01:22:47.953",
+    "FavoriteCount":null,
+    "Id":"114741",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T01:22:47.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"b83867db-80ce-445e-9d7f-18000a4667ab",
+            "UserId":"116033",
+            "CloseReasonId":null,
+            "PostId":"114741",
+            "PostHistoryTypeId":"2",
+            "Id":"376486",
+            "Text":"I'd like to use [po.st][2] to shorten URLs via [**AutoMagic**][1] using their bookmarklet code.     javascript:( function() {var s = document.createElement('script'); s.setAttribute('id', 'postbookmarklet_js'); s.setAttribute('src', ('https:' == document.location.protocol ? 'https:\/\/s.po.st' : 'http:\/\/i.po.st') + '\/static\/v3\/bookmarklet\/post-bookmarklet.js?apiKey=E205272E-A768-42E7-A6B1-9D99559C54EB'); document.body.appendChild(s);}() ); I don't have the foggiest as to what I need to do to make that happen would someone help me please?![enter image description here][3]  [1]: http:\/\/automagic4android.com \"AutoMagic\"  [2]: http:\/\/po.st \"PO.ST\"  [3]: https:\/\/automagic4android.com\/images\/AutomagicFeatureGraphic_730.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T01:22:47.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"b83867db-80ce-445e-9d7f-18000a4667ab",
+            "UserId":"116033",
+            "CloseReasonId":null,
+            "PostId":"114741",
+            "PostHistoryTypeId":"1",
+            "Id":"376487",
+            "Text":"AutoMagic as a URL shortener"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T01:22:47.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"b83867db-80ce-445e-9d7f-18000a4667ab",
+            "UserId":"116033",
+            "CloseReasonId":null,
+            "PostId":"114741",
+            "PostHistoryTypeId":"3",
+            "Id":"376488",
+            "Text":""
+        },
+        {
+            "Comment":"The image is not useful",
+            "CreationDate":"2015-07-09T01:25:56.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e2eb4ff-8c07-4fc6-8ff9-1519e2cd9a0e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114741",
+            "PostHistoryTypeId":"5",
+            "Id":"376490",
+            "Text":"I'd like to use [po.st][2] to shorten URLs via [**AutoMagic**][1] using their bookmarklet code.     javascript:( function() {var s = document.createElement('script'); s.setAttribute('id', 'postbookmarklet_js'); s.setAttribute('src', ('https:' == document.location.protocol ? 'https:\/\/s.po.st' : 'http:\/\/i.po.st') + '\/static\/v3\/bookmarklet\/post-bookmarklet.js?apiKey=E205272E-A768-42E7-A6B1-9D99559C54EB'); document.body.appendChild(s);}() ); I don't have the foggiest as to what I need to do to make that happen would someone help me please?  [1]: http:\/\/automagic4android.com \"AutoMagic\"  [2]: http:\/\/po.st \"PO.ST\""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-07-15T13:40:22.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9b28298-c7f6-49ed-bef5-5533683179b5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"114741",
+            "PostHistoryTypeId":"10",
+            "Id":"378782",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

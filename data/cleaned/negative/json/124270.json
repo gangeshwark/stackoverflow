@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to modify the kernel and shell of an android device? Devices like Samsung Galaxy S6 or Xiaomi Mi4i?If yes, how is it possible?Does the Manufacturer need to provide the Kernel before development? Can we use any kernel in any Android device",
+    "ViewCount":"64",
+    "LastActivityDate":"2015-09-26T10:51:26.197",
+    "ClosedDate":"2015-09-27T04:03:25.963",
+    "Title":"Can we modify or replace kernel and shell of an Android Device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"124276",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129133",
+    "CreationDate":"2015-09-26T08:40:38.853",
+    "FavoriteCount":null,
+    "Id":"124270",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-26T08:40:38.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9cecdb5-ce46-4e0d-9978-eb85bdb9e248",
+            "UserId":"129133",
+            "CloseReasonId":null,
+            "PostId":"124270",
+            "PostHistoryTypeId":"2",
+            "Id":"406322",
+            "Text":"Is it possible to modify the kernel and shell of an android device? Devices like Samsung Galaxy S6 or Xiaomi Mi4i?If yes, how is it possible?Does the Manufacturer need to provide the Kernel before development? Can we use any kernel in any Android device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-26T08:40:38.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9cecdb5-ce46-4e0d-9978-eb85bdb9e248",
+            "UserId":"129133",
+            "CloseReasonId":null,
+            "PostId":"124270",
+            "PostHistoryTypeId":"1",
+            "Id":"406323",
+            "Text":"Can we modify or replace kernel and shell of an Android Device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-26T08:40:38.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9cecdb5-ce46-4e0d-9978-eb85bdb9e248",
+            "UserId":"129133",
+            "CloseReasonId":null,
+            "PostId":"124270",
+            "PostHistoryTypeId":"3",
+            "Id":"406324",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-09-27T04:03:25.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"28e0f057-e6ab-46fc-9868-22555ec73400",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"124270",
+            "PostHistoryTypeId":"10",
+            "Id":"406524",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

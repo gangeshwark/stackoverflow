@@ -1,0 +1,71 @@
+{
+    "Body":"Problem facing battery life after installed lollipop Operating system in my Phone.",
+    "ViewCount":"12",
+    "LastActivityDate":"2015-05-07T14:10:52.863",
+    "ClosedDate":"2015-05-07T16:07:13.373",
+    "Title":"How to improve battery life in yureka after installed lollipop OS",
+    "LastEditorUserId":null,
+    "Tags":"<5.0-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107767",
+    "CreationDate":"2015-05-07T14:10:52.863",
+    "FavoriteCount":null,
+    "Id":"108715",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T14:10:52.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd74d0c7-6292-416c-9372-7eff47ddda91",
+            "UserId":"107767",
+            "CloseReasonId":null,
+            "PostId":"108715",
+            "PostHistoryTypeId":"2",
+            "Id":"354193",
+            "Text":"Problem facing battery life after installed lollipop Operating system in my Phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T14:10:52.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd74d0c7-6292-416c-9372-7eff47ddda91",
+            "UserId":"107767",
+            "CloseReasonId":null,
+            "PostId":"108715",
+            "PostHistoryTypeId":"1",
+            "Id":"354194",
+            "Text":"How to improve battery life in yureka after installed lollipop OS"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T14:10:52.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd74d0c7-6292-416c-9372-7eff47ddda91",
+            "UserId":"107767",
+            "CloseReasonId":null,
+            "PostId":"108715",
+            "PostHistoryTypeId":"3",
+            "Id":"354195",
+            "Text":"<5.0-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-07T16:07:13.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"99e7d374-5e98-4ce8-a466-9fe689a8775d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"108715",
+            "PostHistoryTypeId":"10",
+            "Id":"354257",
+            "Text":"{\"OriginalQuestionIds\":[106226],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

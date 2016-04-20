@@ -1,0 +1,71 @@
+{
+    "Body":"how exactly can i create a update.zip file from  an android device that runs on android kitkat? i tried to backup using titanium backup but it needs root access. is there any way to backup the complete rom without rooting?",
+    "ViewCount":"395",
+    "LastActivityDate":"2015-02-04T14:11:25.550",
+    "ClosedDate":"2015-02-04T14:54:50.610",
+    "Title":"how to make complete os backup to create update.zip?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"97861",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"69772",
+    "CreationDate":"2015-02-04T14:03:09.533",
+    "FavoriteCount":null,
+    "Id":"97860",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T14:03:09.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"181b331c-4106-4bc6-938e-6151be2ea006",
+            "UserId":"69772",
+            "CloseReasonId":null,
+            "PostId":"97860",
+            "PostHistoryTypeId":"2",
+            "Id":"319214",
+            "Text":"how exactly can i create a update.zip file from  an android device that runs on android kitkat? i tried to backup using titanium backup but it needs root access. is there any way to backup the complete rom without rooting?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T14:03:09.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"181b331c-4106-4bc6-938e-6151be2ea006",
+            "UserId":"69772",
+            "CloseReasonId":null,
+            "PostId":"97860",
+            "PostHistoryTypeId":"1",
+            "Id":"319215",
+            "Text":"how to make complete os backup to create update.zip?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T14:03:09.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"181b331c-4106-4bc6-938e-6151be2ea006",
+            "UserId":"69772",
+            "CloseReasonId":null,
+            "PostId":"97860",
+            "PostHistoryTypeId":"3",
+            "Id":"319216",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-04T14:54:50.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"62a6c487-4589-475a-81ff-d139136fc5b9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"97860",
+            "PostHistoryTypeId":"10",
+            "Id":"319246",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

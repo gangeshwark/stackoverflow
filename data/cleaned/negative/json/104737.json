@@ -1,0 +1,71 @@
+{
+    "Body":"Which version of CyanogenMod should I use for Samsung Galaxy S Advance and where should I download it from? I'm interested in CyanogenMod 11 but maybe there is a better choice? I wouldn't like to download wrong version so I'll be grateful for exact link. Thank you.",
+    "ViewCount":"230",
+    "LastActivityDate":"2015-04-08T15:03:43.947",
+    "ClosedDate":"2015-05-02T04:07:43.700",
+    "Title":"CyanogenMod for Samsung Galaxy S Advance. Which version?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"104855",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101367",
+    "CreationDate":"2015-04-07T11:08:23.643",
+    "FavoriteCount":null,
+    "Id":"104737",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T11:08:23.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"29e30503-8965-4d49-90bb-87135794418e",
+            "UserId":"101367",
+            "CloseReasonId":null,
+            "PostId":"104737",
+            "PostHistoryTypeId":"2",
+            "Id":"341974",
+            "Text":"Which version of CyanogenMod should I use for Samsung Galaxy S Advance and where should I download it from? I'm interested in CyanogenMod 11 but maybe there is a better choice? I wouldn't like to download wrong version so I'll be grateful for exact link. Thank you."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T11:08:23.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"29e30503-8965-4d49-90bb-87135794418e",
+            "UserId":"101367",
+            "CloseReasonId":null,
+            "PostId":"104737",
+            "PostHistoryTypeId":"1",
+            "Id":"341975",
+            "Text":"CyanogenMod for Samsung Galaxy S Advance. Which version?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T11:08:23.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"29e30503-8965-4d49-90bb-87135794418e",
+            "UserId":"101367",
+            "CloseReasonId":null,
+            "PostId":"104737",
+            "PostHistoryTypeId":"3",
+            "Id":"341976",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-02T04:07:43.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"2edeefdc-0615-4845-a60d-c1e1fa6519ed",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104737",
+            "PostHistoryTypeId":"10",
+            "Id":"351434",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

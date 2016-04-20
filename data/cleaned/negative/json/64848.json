@@ -1,0 +1,71 @@
+{
+    "Body":"I just received one as a gift and want to know if it is 2012 or 2013. How do I check?",
+    "ViewCount":"304",
+    "LastActivityDate":"2014-03-05T09:13:15.413",
+    "ClosedDate":"2014-03-05T14:41:52.857",
+    "Title":"How do I check if my nexus 7 is from 2012 or 2013?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"64849",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6119",
+    "CreationDate":"2014-03-05T09:09:52.887",
+    "FavoriteCount":null,
+    "Id":"64848",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-05T09:09:52.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e10b9d3-b86a-4b98-87e6-e6415cfa42c2",
+            "UserId":"6119",
+            "CloseReasonId":null,
+            "PostId":"64848",
+            "PostHistoryTypeId":"2",
+            "Id":"220665",
+            "Text":"I just received one as a gift and want to know if it is 2012 or 2013. How do I check?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-05T09:09:52.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e10b9d3-b86a-4b98-87e6-e6415cfa42c2",
+            "UserId":"6119",
+            "CloseReasonId":null,
+            "PostId":"64848",
+            "PostHistoryTypeId":"1",
+            "Id":"220666",
+            "Text":"How do I check if my nexus 7 is from 2012 or 2013?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-05T09:09:52.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e10b9d3-b86a-4b98-87e6-e6415cfa42c2",
+            "UserId":"6119",
+            "CloseReasonId":null,
+            "PostId":"64848",
+            "PostHistoryTypeId":"3",
+            "Id":"220667",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-05T14:41:52.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"66bfb04d-3772-44d6-b0f8-71a363270c82",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"64848",
+            "PostHistoryTypeId":"10",
+            "Id":"220742",
+            "Text":"{\"OriginalQuestionIds\":[58273],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

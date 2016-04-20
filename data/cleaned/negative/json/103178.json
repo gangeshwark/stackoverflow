@@ -1,0 +1,71 @@
+{
+    "Body":"Could you please tell me how to go back to my old android? I have a Samsung S5 and I tried the factory reset and that did not work. I hate this new android version ",
+    "ViewCount":"63",
+    "LastActivityDate":"2015-03-22T05:19:57.613",
+    "ClosedDate":"2015-03-25T09:59:24.750",
+    "Title":"How to Uninstall the lollipop app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99098",
+    "CreationDate":"2015-03-21T21:23:09.167",
+    "FavoriteCount":null,
+    "Id":"103178",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T21:23:09.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"81d3e571-e1ab-4140-9f4e-3414edd2075d",
+            "UserId":"99098",
+            "CloseReasonId":null,
+            "PostId":"103178",
+            "PostHistoryTypeId":"2",
+            "Id":"336371",
+            "Text":"Could you please tell me how to go back to my old android? I have a Samsung S5 and I tried the factory reset and that did not work. I hate this new android version "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T21:23:09.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"81d3e571-e1ab-4140-9f4e-3414edd2075d",
+            "UserId":"99098",
+            "CloseReasonId":null,
+            "PostId":"103178",
+            "PostHistoryTypeId":"1",
+            "Id":"336372",
+            "Text":"How to Uninstall the lollipop app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T21:23:09.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"81d3e571-e1ab-4140-9f4e-3414edd2075d",
+            "UserId":"99098",
+            "CloseReasonId":null,
+            "PostId":"103178",
+            "PostHistoryTypeId":"3",
+            "Id":"336373",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-25T09:59:24.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"76fe7989-4322-4a78-8322-d741b7501be0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"103178",
+            "PostHistoryTypeId":"10",
+            "Id":"337588",
+            "Text":"{\"OriginalQuestionIds\":[45166],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

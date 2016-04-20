@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can you upgrade the RAM of an Android device?  In using the MK802III I find that at times it is struggling, the more browser pages I open, and sometimes it just reboots itself.I know it has a micro SD slot for additional storage space, but can this be used for the OS's memory, or similarly, could a connected USB stick be used as well?",
+    "ViewCount":"10",
+    "LastActivityDate":"2012-11-23T15:07:07.647",
+    "ClosedDate":"2012-11-24T08:30:35.703",
+    "Title":"Is there a way to extend the MK802 III's memory?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23219",
+    "CreationDate":"2012-11-23T15:07:07.647",
+    "FavoriteCount":null,
+    "Id":"33941",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-23T15:07:07.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"51275e2a-4f9e-4f59-9b01-1c82d0056dff",
+            "UserId":"23219",
+            "CloseReasonId":null,
+            "PostId":"33941",
+            "PostHistoryTypeId":"2",
+            "Id":"100690",
+            "Text":"In using the MK802III I find that at times it is struggling, the more browser pages I open, and sometimes it just reboots itself.I know it has a micro SD slot for additional storage space, but can this be used for the OS's memory, or similarly, could a connected USB stick be used as well?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-23T15:07:07.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"51275e2a-4f9e-4f59-9b01-1c82d0056dff",
+            "UserId":"23219",
+            "CloseReasonId":null,
+            "PostId":"33941",
+            "PostHistoryTypeId":"1",
+            "Id":"100691",
+            "Text":"Is there a way to extend the MK802 III's memory?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-23T15:07:07.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"51275e2a-4f9e-4f59-9b01-1c82d0056dff",
+            "UserId":"23219",
+            "CloseReasonId":null,
+            "PostId":"33941",
+            "PostHistoryTypeId":"3",
+            "Id":"100692",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-24T08:30:35.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"d99cd989-6f2f-4749-ad34-37171676fa6b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33941",
+            "PostHistoryTypeId":"5",
+            "Id":"100806",
+            "Text":"> **Possible Duplicate:**  > [Can you upgrade the RAM of an Android device?](http:\/\/android.stackexchange.com\/questions\/22997\/can-you-upgrade-the-ram-of-an-android-device)  In using the MK802III I find that at times it is struggling, the more browser pages I open, and sometimes it just reboots itself.I know it has a micro SD slot for additional storage space, but can this be used for the OS's memory, or similarly, could a connected USB stick be used as well?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-24T08:30:35.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"f77fd0bf-15c2-405a-ab35-c64768429972",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33941",
+            "PostHistoryTypeId":"10",
+            "Id":"100807",
+            "Text":"{\"OriginalQuestionIds\":[22997],\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

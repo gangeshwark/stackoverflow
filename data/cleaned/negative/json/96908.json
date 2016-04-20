@@ -1,0 +1,71 @@
+{
+    "Body":"When I want to screenshot something I can't becuase I don't know how.",
+    "ViewCount":"9202",
+    "LastActivityDate":"2015-01-26T00:10:03.867",
+    "ClosedDate":"2015-01-26T04:54:36.637",
+    "Title":"How do I screenshot on my RCA Andriod 4.4.2 10\" tablet?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91600",
+    "CreationDate":"2015-01-26T00:03:19.353",
+    "FavoriteCount":null,
+    "Id":"96908",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T00:03:19.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9fc42e3-d081-4398-ac50-3b1649a155cb",
+            "UserId":"91600",
+            "CloseReasonId":null,
+            "PostId":"96908",
+            "PostHistoryTypeId":"2",
+            "Id":"315837",
+            "Text":"When I want to screenshot something I can't becuase I don't know how."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T00:03:19.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9fc42e3-d081-4398-ac50-3b1649a155cb",
+            "UserId":"91600",
+            "CloseReasonId":null,
+            "PostId":"96908",
+            "PostHistoryTypeId":"1",
+            "Id":"315838",
+            "Text":"How do I screenshot on my RCA Andriod 4.4.2 10\" tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T00:03:19.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9fc42e3-d081-4398-ac50-3b1649a155cb",
+            "UserId":"91600",
+            "CloseReasonId":null,
+            "PostId":"96908",
+            "PostHistoryTypeId":"3",
+            "Id":"315839",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-26T04:54:36.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"19770e59-c695-4ff0-87cf-7f836c0a261e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"96908",
+            "PostHistoryTypeId":"10",
+            "Id":"315893",
+            "Text":"{\"OriginalQuestionIds\":[1759],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

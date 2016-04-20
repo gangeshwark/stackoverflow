@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Micromax A177 model.When I try to scan the QR code in whastsapp, it just keeps scanning and nothing happens after that. The image also appears blurred at times and clear at times using Whatsapp QR code. I have tried all these options many times:* Changing the camera to landscape mode* Moving the camera nearer to and farther from the screen* Using different browsers (Firefox and Google-Chrome)* Increasing the brightness of the screen* Increasing the light in the room Is it a problem with my camera? Can I integrate another QR code scanner with whatsapp ? Another QR code scanner worked properly and gave me a QR code string when used on web.whatsapp.comAbhijit",
+    "ViewCount":"50",
+    "LastActivityDate":"2015-10-03T18:17:34.617",
+    "ClosedDate":"2015-10-22T19:42:50.377",
+    "Title":"Whatsapp QR code keeps scanning Micromax A177",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130280",
+    "CreationDate":"2015-10-03T18:17:34.617",
+    "FavoriteCount":null,
+    "Id":"124892",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-03T18:17:34.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4ef6bff-e0a0-48c7-b647-528afb8f8810",
+            "UserId":"130280",
+            "CloseReasonId":null,
+            "PostId":"124892",
+            "PostHistoryTypeId":"2",
+            "Id":"408898",
+            "Text":"I have a Micromax A177 model.When I try to scan the QR code in whastsapp, it just keeps scanning and nothing happens after that. The image also appears blurred at times and clear at times using Whatsapp QR code. I have tried all these options many times:* Changing the camera to landscape mode* Moving the camera nearer to and farther from the screen* Using different browsers (Firefox and Google-Chrome)* Increasing the brightness of the screen* Increasing the light in the room Is it a problem with my camera? Can I integrate another QR code scanner with whatsapp ? Another QR code scanner worked properly and gave me a QR code string when used on web.whatsapp.comAbhijit"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-03T18:17:34.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4ef6bff-e0a0-48c7-b647-528afb8f8810",
+            "UserId":"130280",
+            "CloseReasonId":null,
+            "PostId":"124892",
+            "PostHistoryTypeId":"1",
+            "Id":"408899",
+            "Text":"Whatsapp QR code keeps scanning Micromax A177"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-03T18:17:34.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4ef6bff-e0a0-48c7-b647-528afb8f8810",
+            "UserId":"130280",
+            "CloseReasonId":null,
+            "PostId":"124892",
+            "PostHistoryTypeId":"3",
+            "Id":"408900",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-22T19:42:50.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"15089afa-f9d5-4e28-a5ae-7707dfa4e45d",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"124892",
+            "PostHistoryTypeId":"10",
+            "Id":"416060",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"My motog 2 is draining the battery drastically as fast as it can. Please help me. I couldn't carry a charger all the tym. I have consulted the customer care service they provided me two links to reboot and reset the settings. But it doesn't works. Help methank you.",
+    "ViewCount":"256",
+    "LastActivityDate":"2015-06-08T14:08:51.577",
+    "ClosedDate":"2015-06-08T14:19:57.777",
+    "Title":"Moto g 2 Battery is draining within 3 hours",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111871",
+    "CreationDate":"2015-06-08T07:53:56.943",
+    "FavoriteCount":null,
+    "Id":"111803",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-08T07:53:56.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"35d6e7bb-0138-44a6-b7d6-8044e3bb68bc",
+            "UserId":"111871",
+            "CloseReasonId":null,
+            "PostId":"111803",
+            "PostHistoryTypeId":"2",
+            "Id":"365701",
+            "Text":"My motog 2 is draining the battery drastically as fast as it can. Please help me. I couldn't carry a charger all the tym. I have consulted the customer care service they provided me two links to reboot and reset the settings. But it doesn't works. Help methank you."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-08T07:53:56.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"35d6e7bb-0138-44a6-b7d6-8044e3bb68bc",
+            "UserId":"111871",
+            "CloseReasonId":null,
+            "PostId":"111803",
+            "PostHistoryTypeId":"1",
+            "Id":"365702",
+            "Text":"Moto g 2 Battery is draining within 3 hours"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-08T07:53:56.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"35d6e7bb-0138-44a6-b7d6-8044e3bb68bc",
+            "UserId":"111871",
+            "CloseReasonId":null,
+            "PostId":"111803",
+            "PostHistoryTypeId":"3",
+            "Id":"365703",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-08T14:19:57.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"481cf3a1-0e7f-4041-b048-7bc21a40df2c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111803",
+            "PostHistoryTypeId":"10",
+            "Id":"365881",
+            "Text":"{\"OriginalQuestionIds\":[476],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

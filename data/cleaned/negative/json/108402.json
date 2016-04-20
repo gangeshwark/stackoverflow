@@ -1,0 +1,71 @@
+{
+    "Body":"After upgrading to Android Lollipop to Yureka, I am unable to pick calls though the phone plays the ringtone for incoming calls and shows the call as 'missed' later. It does show anything on screen by which I can pick the call. Kindly help. Thanks.",
+    "ViewCount":"12",
+    "LastActivityDate":"2015-05-04T03:07:16.147",
+    "ClosedDate":"2015-05-04T21:41:25.833",
+    "Title":"unable topick incomming calls in Lollipop",
+    "LastEditorUserId":null,
+    "Tags":"<5.1-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"106278",
+    "CreationDate":"2015-05-04T03:07:16.147",
+    "FavoriteCount":null,
+    "Id":"108402",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-04T03:07:16.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"49ff5f6e-259f-4622-88a2-4ec28f220ab6",
+            "UserId":"106278",
+            "CloseReasonId":null,
+            "PostId":"108402",
+            "PostHistoryTypeId":"2",
+            "Id":"352958",
+            "Text":"After upgrading to Android Lollipop to Yureka, I am unable to pick calls though the phone plays the ringtone for incoming calls and shows the call as 'missed' later. It does show anything on screen by which I can pick the call. Kindly help. Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-04T03:07:16.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"49ff5f6e-259f-4622-88a2-4ec28f220ab6",
+            "UserId":"106278",
+            "CloseReasonId":null,
+            "PostId":"108402",
+            "PostHistoryTypeId":"1",
+            "Id":"352959",
+            "Text":"unable topick incomming calls in Lollipop"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-04T03:07:16.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"49ff5f6e-259f-4622-88a2-4ec28f220ab6",
+            "UserId":"106278",
+            "CloseReasonId":null,
+            "PostId":"108402",
+            "PostHistoryTypeId":"3",
+            "Id":"352960",
+            "Text":"<5.1-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-04T21:41:25.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfddc358-ab3b-4592-9ce0-be5f7503a8ce",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"108402",
+            "PostHistoryTypeId":"10",
+            "Id":"353176",
+            "Text":"{\"OriginalQuestionIds\":[106070],\"Voters\":[{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

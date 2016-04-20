@@ -1,0 +1,71 @@
+{
+    "Body":"I own a Samsung SCH-i545 Galaxy S4 and can not update to Jellybean 4.3. The wi-fi it says: Software update is temporarly unavailable.vTry again later. Kies does not let me update either. I really want the 4.3 update so I would appreciate some help..",
+    "ViewCount":"353",
+    "LastActivityDate":"2014-02-05T06:16:06.853",
+    "ClosedDate":"2014-02-05T09:58:58.350",
+    "Title":"Help me. Can't update my galaxy",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"52806",
+    "CreationDate":"2014-02-04T21:30:20.977",
+    "FavoriteCount":null,
+    "Id":"62750",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-04T21:30:20.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"0161891d-7ffb-4ee8-b5a1-3f1d72bc3794",
+            "UserId":"52806",
+            "CloseReasonId":null,
+            "PostId":"62750",
+            "PostHistoryTypeId":"2",
+            "Id":"212954",
+            "Text":"I own a Samsung SCH-i545 Galaxy S4 and can not update to Jellybean 4.3. The wi-fi it says: Software update is temporarly unavailable.vTry again later. Kies does not let me update either. I really want the 4.3 update so I would appreciate some help.."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-04T21:30:20.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"0161891d-7ffb-4ee8-b5a1-3f1d72bc3794",
+            "UserId":"52806",
+            "CloseReasonId":null,
+            "PostId":"62750",
+            "PostHistoryTypeId":"1",
+            "Id":"212955",
+            "Text":"Help me. Can't update my galaxy"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-04T21:30:20.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"0161891d-7ffb-4ee8-b5a1-3f1d72bc3794",
+            "UserId":"52806",
+            "CloseReasonId":null,
+            "PostId":"62750",
+            "PostHistoryTypeId":"3",
+            "Id":"212956",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-05T09:58:58.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"278534d4-f07c-4a69-81cc-d3f86b320e77",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"62750",
+            "PostHistoryTypeId":"10",
+            "Id":"213061",
+            "Text":"{\"OriginalQuestionIds\":[55887],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

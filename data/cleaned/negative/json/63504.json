@@ -1,0 +1,83 @@
+{
+    "Body":"I dont want to install any 3rd party apps for hiding there images stored on device . How can I hide my images from the gallery app without installing any other app like Hide it Pro or Gallery lock? I use a low-end device and these apps use up my memory which would have otherwise been used for different apps.",
+    "ViewCount":"170",
+    "LastActivityDate":"2014-02-14T12:58:47.620",
+    "ClosedDate":"2014-02-14T13:53:57.730",
+    "Title":"Hiding images from android gallery",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-02-14T12:58:47.620",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"63505",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"53253",
+    "CreationDate":"2014-02-14T11:25:12.200",
+    "FavoriteCount":"1",
+    "Id":"63504",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-14T11:25:12.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbbaeadd-f1bc-482c-b111-6503af11dee7",
+            "UserId":"53253",
+            "CloseReasonId":null,
+            "PostId":"63504",
+            "PostHistoryTypeId":"2",
+            "Id":"215708",
+            "Text":"I dont want to install any 3rd party apps for hiding there images stored on device . How can I hide my images from the gallery app without installing any other app like Hide it Pro or Gallery lock? I use a low-end device and these apps use up my memory which would have otherwise been used for different apps."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-14T11:25:12.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbbaeadd-f1bc-482c-b111-6503af11dee7",
+            "UserId":"53253",
+            "CloseReasonId":null,
+            "PostId":"63504",
+            "PostHistoryTypeId":"1",
+            "Id":"215709",
+            "Text":"Hiding images from android gallery"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-14T11:25:12.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbbaeadd-f1bc-482c-b111-6503af11dee7",
+            "UserId":"53253",
+            "CloseReasonId":null,
+            "PostId":"63504",
+            "PostHistoryTypeId":"3",
+            "Id":"215710",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-02-14T12:58:47.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"8a8a35df-fa6f-45dd-b3e1-b900785bb04c",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"63504",
+            "PostHistoryTypeId":"6",
+            "Id":"215731",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-14T13:53:57.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b991ef8-59b6-4321-a4e2-e655faf06db3",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"63504",
+            "PostHistoryTypeId":"10",
+            "Id":"215750",
+            "Text":"{\"OriginalQuestionIds\":[39707],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

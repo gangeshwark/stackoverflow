@@ -1,0 +1,71 @@
+{
+    "Body":"I have a rooted Xperia J, ICS, and want to change the way devices are mounted as I currently cannot force apps to install to the external sd card.So in short what do i need to do in order to achive the following;  Phone Memory - \/internal storage - \/sdcardsd card - \/ext_sdTo:Phone Memory - \/internal storage - \/ext_sdsd card - \/sdcard",
+    "ViewCount":"13",
+    "LastActivityDate":"2013-12-01T08:59:49.117",
+    "ClosedDate":"2013-12-07T04:08:37.613",
+    "Title":"How to change the storage device mountpoints",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46902",
+    "CreationDate":"2013-12-01T08:59:49.117",
+    "FavoriteCount":null,
+    "Id":"58056",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-01T08:59:49.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"59d332c6-b40e-4ee9-aa86-c9340fd915f0",
+            "UserId":"46902",
+            "CloseReasonId":null,
+            "PostId":"58056",
+            "PostHistoryTypeId":"2",
+            "Id":"195039",
+            "Text":"I have a rooted Xperia J, ICS, and want to change the way devices are mounted as I currently cannot force apps to install to the external sd card.So in short what do i need to do in order to achive the following;      Phone Memory - \/    internal storage - \/sdcard    sd card - \/ext_sdTo:    Phone Memory - \/    internal storage - \/ext_sd    sd card - \/sdcard"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-01T08:59:49.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"59d332c6-b40e-4ee9-aa86-c9340fd915f0",
+            "UserId":"46902",
+            "CloseReasonId":null,
+            "PostId":"58056",
+            "PostHistoryTypeId":"1",
+            "Id":"195040",
+            "Text":"How to change the storage device mountpoints"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-01T08:59:49.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"59d332c6-b40e-4ee9-aa86-c9340fd915f0",
+            "UserId":"46902",
+            "CloseReasonId":null,
+            "PostId":"58056",
+            "PostHistoryTypeId":"3",
+            "Id":"195041",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-07T04:08:37.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"7a6e59ac-b138-44b2-b01e-06bab1582c75",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"58056",
+            "PostHistoryTypeId":"10",
+            "Id":"196558",
+            "Text":"{\"OriginalQuestionIds\":[41456],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

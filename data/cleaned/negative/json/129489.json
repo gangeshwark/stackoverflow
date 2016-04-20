@@ -1,0 +1,83 @@
+{
+    "Body":"MY screen of Micromax Yureka is broken and I can't see anything, Plus my usb debugging is off. Is there any way to recover data?",
+    "ViewCount":"47",
+    "LastActivityDate":"2015-11-21T13:59:31.233",
+    "ClosedDate":"2015-11-21T17:25:07.607",
+    "Title":"recevering data from broken screen on micromax yureka having broken screen",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-11-21T12:16:49.757",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"137802",
+    "CreationDate":"2015-11-21T11:40:10.170",
+    "FavoriteCount":null,
+    "Id":"129489",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-21T11:40:10.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"5199955f-bedf-48c9-9bc4-c6289a18683c",
+            "UserId":"137802",
+            "CloseReasonId":null,
+            "PostId":"129489",
+            "PostHistoryTypeId":"2",
+            "Id":"426713",
+            "Text":"MY screen of Micromax Yureka is broken and I can't see anything, Plus my usb debugging is off. Is there any way to recover data?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-21T11:40:10.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"5199955f-bedf-48c9-9bc4-c6289a18683c",
+            "UserId":"137802",
+            "CloseReasonId":null,
+            "PostId":"129489",
+            "PostHistoryTypeId":"1",
+            "Id":"426714",
+            "Text":"recevering data from broken screen on micromax yureka having broken screen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-21T11:40:10.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"5199955f-bedf-48c9-9bc4-c6289a18683c",
+            "UserId":"137802",
+            "CloseReasonId":null,
+            "PostId":"129489",
+            "PostHistoryTypeId":"3",
+            "Id":"426715",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-11-21T12:16:49.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee594229-f6d9-4570-8e91-01984a09750a",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"129489",
+            "PostHistoryTypeId":"6",
+            "Id":"426722",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-21T17:25:07.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc6337c0-553b-4c60-84a5-fb8fe136442e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"129489",
+            "PostHistoryTypeId":"10",
+            "Id":"426785",
+            "Text":"{\"OriginalQuestionIds\":[67352],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Nexus S phone, GingerBread 2.3.5. When I start my phone, or try starting Bluetooth, it gives me an error saying:'Application Bluetooth Share(process com.android.bluetooth) has stopped unexpectedly.'Iam given only two options, Force close, and Report.The exception is a Null pointer exception, and the source file is Parcel.java.How do I solve this problem??Also, I get a message saying I can update my phone to ICS 4.0.4. If I update, will that get rid of the Bluetooth problem?? ",
+    "ViewCount":"254",
+    "LastActivityDate":"2012-04-14T04:38:19.357",
+    "ClosedDate":"2013-01-02T15:55:14.930",
+    "Title":"Bluetooth error on my Nexus S",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14261",
+    "CreationDate":"2012-04-14T04:38:19.357",
+    "FavoriteCount":null,
+    "Id":"21818",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-14T04:38:19.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"babe9e27-8b10-4fcc-8f4d-9025665c40c8",
+            "UserId":"14261",
+            "CloseReasonId":null,
+            "PostId":"21818",
+            "PostHistoryTypeId":"2",
+            "Id":"61127",
+            "Text":"I have a Nexus S phone, GingerBread 2.3.5. When I start my phone, or try starting Bluetooth, it gives me an error saying:'Application Bluetooth Share(process com.android.bluetooth) has stopped unexpectedly.'Iam given only two options, Force close, and Report.The exception is a Null pointer exception, and the source file is Parcel.java.How do I solve this problem??Also, I get a message saying I can update my phone to ICS 4.0.4. If I update, will that get rid of the Bluetooth problem?? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-14T04:38:19.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"babe9e27-8b10-4fcc-8f4d-9025665c40c8",
+            "UserId":"14261",
+            "CloseReasonId":null,
+            "PostId":"21818",
+            "PostHistoryTypeId":"1",
+            "Id":"61128",
+            "Text":"Bluetooth error on my Nexus S"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-14T04:38:19.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"babe9e27-8b10-4fcc-8f4d-9025665c40c8",
+            "UserId":"14261",
+            "CloseReasonId":null,
+            "PostId":"21818",
+            "PostHistoryTypeId":"3",
+            "Id":"61129",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-02T15:55:14.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ef46102-ef64-47a9-88bc-ef7864aff495",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"21818",
+            "PostHistoryTypeId":"10",
+            "Id":"110878",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

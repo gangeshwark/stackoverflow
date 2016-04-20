@@ -1,0 +1,71 @@
+{
+    "Body":"The header says it all. I've installed CM12.1 mod. I want to flash other ROMs now, but losing all my settings and data is not an option. I checked up on the net, but the tutorials are all about backing up stock ROMs and I'm not sure it will work on custom ROMs as well.(Bear with me,noob here).Any help would be appreciated.",
+    "ViewCount":"116",
+    "LastActivityDate":"2015-10-25T14:41:41.373",
+    "ClosedDate":"2016-02-07T19:13:18.387",
+    "Title":"How To backup custom ROM before flashing the another ROM",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-5",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122613",
+    "CreationDate":"2015-10-24T10:22:28.857",
+    "FavoriteCount":null,
+    "Id":"126902",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-24T10:22:28.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"12b6a8ea-c852-4072-9607-e80185e1a87b",
+            "UserId":"122613",
+            "CloseReasonId":null,
+            "PostId":"126902",
+            "PostHistoryTypeId":"2",
+            "Id":"416663",
+            "Text":"The header says it all. I've installed CM12.1 mod. I want to flash other ROMs now, but losing all my settings and data is not an option. I checked up on the net, but the tutorials are all about backing up stock ROMs and I'm not sure it will work on custom ROMs as well.(Bear with me,noob here).Any help would be appreciated."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-24T10:22:28.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"12b6a8ea-c852-4072-9607-e80185e1a87b",
+            "UserId":"122613",
+            "CloseReasonId":null,
+            "PostId":"126902",
+            "PostHistoryTypeId":"1",
+            "Id":"416664",
+            "Text":"How To backup custom ROM before flashing the another ROM"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-24T10:22:28.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"12b6a8ea-c852-4072-9607-e80185e1a87b",
+            "UserId":"122613",
+            "CloseReasonId":null,
+            "PostId":"126902",
+            "PostHistoryTypeId":"3",
+            "Id":"416665",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2016-02-07T19:13:18.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"e83de875-6516-4dff-8f9a-623b8253366e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"126902",
+            "PostHistoryTypeId":"10",
+            "Id":"454493",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

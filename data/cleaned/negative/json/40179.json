@@ -1,0 +1,83 @@
+{
+    "Body":"A few months back I started developing an app that read incoming sms messages and saved them in a db.A few days ago I went to revisit the app and had a quick look in the db where I discovered the app was still recording my texts!?!I can't find any mention of my app running on the android apps option under settings or in advanced task killer.How can I find out if it's running or not? It's bizarre! ",
+    "ViewCount":"166",
+    "LastActivityDate":"2013-09-13T13:30:45.057",
+    "ClosedDate":"2013-02-23T19:20:23.100",
+    "Title":"what apps are running?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-09-13T13:30:45.057",
+    "CommentCount":"6",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"40180",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"19152",
+    "CreationDate":"2013-02-23T12:40:17.993",
+    "FavoriteCount":null,
+    "Id":"40179",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-23T12:40:17.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2e7bf68-45b7-4529-9855-d95126d540bf",
+            "UserId":"19152",
+            "CloseReasonId":null,
+            "PostId":"40179",
+            "PostHistoryTypeId":"2",
+            "Id":"124970",
+            "Text":"A few months back I started developing an app that read incoming sms messages and saved them in a db.A few days ago I went to revisit the app and had a quick look in the db where I discovered the app was still recording my texts!?!I can't find any mention of my app running on the android apps option under settings or in advanced task killer.How can I find out if it's running or not? It's bizarre! "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-23T12:40:17.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2e7bf68-45b7-4529-9855-d95126d540bf",
+            "UserId":"19152",
+            "CloseReasonId":null,
+            "PostId":"40179",
+            "PostHistoryTypeId":"1",
+            "Id":"124971",
+            "Text":"what apps are running?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-23T12:40:17.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2e7bf68-45b7-4529-9855-d95126d540bf",
+            "UserId":"19152",
+            "CloseReasonId":null,
+            "PostId":"40179",
+            "PostHistoryTypeId":"3",
+            "Id":"124972",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-02-23T19:20:23.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f0f3dfb-0f97-4b23-ac15-fa899586e234",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"40179",
+            "PostHistoryTypeId":"10",
+            "Id":"125062",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"user267\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-09-13T13:30:45.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"60446fb2-5c74-447a-bd3d-cc46f04ac83e",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"40179",
+            "PostHistoryTypeId":"6",
+            "Id":"175289",
+            "Text":""
+        }
+    ]
+}

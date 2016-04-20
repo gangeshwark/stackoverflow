@@ -1,0 +1,71 @@
+{
+    "Body":"I recently bought a Samsung Galaxy S4 and the OS that came with it has many problems IMO. It feels equivalent to the bloated Windows install that would come on my Dell PCs in the 90's, so I'd like to re-install a \"clean\" version of Android.Does such a thing exist?Is it the case that there is a \"clean\" Android with a basic UI, Apps container, wifi functionality etc. from which most other distributions extend? Or do I have to search all the various ROM forums and try different ROMs out (hopefully I'm using the right terminology here) until I find one that I like?I want something as close to iOS features as possible - just a sticky list of apps at the bottom of my screen, app groups, minimal number of pre-installed apps to name the main features I'm hoping for.",
+    "ViewCount":"36994",
+    "LastActivityDate":"2015-08-25T19:43:17.560",
+    "ClosedDate":"2015-08-27T15:16:27.573",
+    "Title":"Is there a \"clean\" Android I can reinstall on my Galaxy S4?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":"61602",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"51294",
+    "CreationDate":"2014-01-20T05:25:25.037",
+    "FavoriteCount":null,
+    "Id":"61559",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-20T05:25:25.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd1cd059-7bbd-476e-84e3-9b8e0b62b4ff",
+            "UserId":"51294",
+            "CloseReasonId":null,
+            "PostId":"61559",
+            "PostHistoryTypeId":"2",
+            "Id":"208408",
+            "Text":"I recently bought a Samsung Galaxy S4 and the OS that came with it has many problems IMO. It feels equivalent to the bloated Windows install that would come on my Dell PCs in the 90's, so I'd like to re-install a \"clean\" version of Android.Does such a thing exist?Is it the case that there is a \"clean\" Android with a basic UI, Apps container, wifi functionality etc. from which most other distributions extend? Or do I have to search all the various ROM forums and try different ROMs out (hopefully I'm using the right terminology here) until I find one that I like?I want something as close to iOS features as possible - just a sticky list of apps at the bottom of my screen, app groups, minimal number of pre-installed apps to name the main features I'm hoping for."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-20T05:25:25.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd1cd059-7bbd-476e-84e3-9b8e0b62b4ff",
+            "UserId":"51294",
+            "CloseReasonId":null,
+            "PostId":"61559",
+            "PostHistoryTypeId":"1",
+            "Id":"208409",
+            "Text":"Is there a \"clean\" Android I can reinstall on my Galaxy S4?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-20T05:25:25.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd1cd059-7bbd-476e-84e3-9b8e0b62b4ff",
+            "UserId":"51294",
+            "CloseReasonId":null,
+            "PostId":"61559",
+            "PostHistoryTypeId":"3",
+            "Id":"208410",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-27T15:16:27.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"be551f27-2d87-401f-ae5e-850be37f0f56",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"61559",
+            "PostHistoryTypeId":"10",
+            "Id":"394928",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

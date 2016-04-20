@@ -1,0 +1,71 @@
+{
+    "Body":"Is there any toolbox or app that will support issuing shutdown command via ssh to a rooted android smartphone?",
+    "ViewCount":"1356",
+    "LastActivityDate":"2014-11-23T12:19:40.373",
+    "ClosedDate":"2015-06-04T20:45:24.037",
+    "Title":"How to shutdown android via ssh command?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33062",
+    "CreationDate":"2014-06-11T18:46:12.370",
+    "FavoriteCount":null,
+    "Id":"73001",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-11T18:46:12.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c7504dd-2c53-4419-9a10-8827d239631c",
+            "UserId":"33062",
+            "CloseReasonId":null,
+            "PostId":"73001",
+            "PostHistoryTypeId":"2",
+            "Id":"244610",
+            "Text":"Is there any toolbox or app that will support issuing shutdown command via ssh to a rooted android smartphone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-11T18:46:12.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c7504dd-2c53-4419-9a10-8827d239631c",
+            "UserId":"33062",
+            "CloseReasonId":null,
+            "PostId":"73001",
+            "PostHistoryTypeId":"1",
+            "Id":"244611",
+            "Text":"How to shutdown android via ssh command?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-11T18:46:12.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c7504dd-2c53-4419-9a10-8827d239631c",
+            "UserId":"33062",
+            "CloseReasonId":null,
+            "PostId":"73001",
+            "PostHistoryTypeId":"3",
+            "Id":"244612",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-04T20:45:24.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"c860c473-9270-4c0e-a985-a4eecaed3397",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"73001",
+            "PostHistoryTypeId":"10",
+            "Id":"364564",
+            "Text":"{\"OriginalQuestionIds\":[43706],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I know how to set a custom ringtone for a given caller on my phone: pull up the person's entry under People, open the menu and select \"Set ringtone.\" However, this only applies to regular voice phone calls.Is there a way to do a similar thing for the sound that plays when a \"text\" \u2014 by which I mean either SMS or MMS \u2014 is received? If so, what is it? The Messaging app's settings only seem to let me choose a single notification sound, but I'm hoping there's something I'm overlooking.",
+    "ViewCount":"6382",
+    "LastActivityDate":"2013-06-04T15:28:37.683",
+    "ClosedDate":"2013-06-04T21:14:26.857",
+    "Title":"How can I set a custom per-person ringtones, but for texts and not calls?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13101",
+    "CreationDate":"2013-06-04T14:50:24.567",
+    "FavoriteCount":null,
+    "Id":"46615",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-04T14:50:24.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb060799-65ea-461b-b054-faa4d550dc08",
+            "UserId":"13101",
+            "CloseReasonId":null,
+            "PostId":"46615",
+            "PostHistoryTypeId":"2",
+            "Id":"150781",
+            "Text":"I know how to set a custom ringtone for a given caller on my phone: pull up the person's entry under People, open the menu and select \"Set ringtone.\" However, this only applies to regular voice phone calls.Is there a way to do a similar thing for the sound that plays when a \"text\" \u2014 by which I mean either SMS or MMS \u2014 is received? If so, what is it? The Messaging app's settings only seem to let me choose a single notification sound, but I'm hoping there's something I'm overlooking."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-04T14:50:24.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb060799-65ea-461b-b054-faa4d550dc08",
+            "UserId":"13101",
+            "CloseReasonId":null,
+            "PostId":"46615",
+            "PostHistoryTypeId":"1",
+            "Id":"150782",
+            "Text":"How can I set a custom per-person ringtones, but for texts and not calls?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-04T14:50:24.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb060799-65ea-461b-b054-faa4d550dc08",
+            "UserId":"13101",
+            "CloseReasonId":null,
+            "PostId":"46615",
+            "PostHistoryTypeId":"3",
+            "Id":"150783",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-04T21:14:26.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ef508b8-c496-47ff-acf6-9dc9bd1c13b5",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"46615",
+            "PostHistoryTypeId":"10",
+            "Id":"150855",
+            "Text":"{\"OriginalQuestionIds\":[10519],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

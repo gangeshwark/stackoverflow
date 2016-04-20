@@ -1,0 +1,71 @@
+{
+    "Body":"Recently, I discovered that some app on my phone had taken it upon itself to place a very nice \"Free Games\" shortcut on my home screen. I haven't installed any new apps in the recent past, so I would be very curious to find out what Application is behind this.I've dumped logcat (with 'logcat -v time > log.txt') and gotten the last several hours of logs, but I have no idea what intent to search for.Is it possible to find the culprit this way? If not, how can I proceed with my witch hunt? Thanks for any advice!",
+    "ViewCount":"23",
+    "LastActivityDate":"2013-02-13T18:38:59.917",
+    "ClosedDate":"2013-02-14T14:05:17.030",
+    "Title":"How can I determine what app put a spam shortcut on my home screen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12635",
+    "CreationDate":"2013-02-13T18:38:59.917",
+    "FavoriteCount":null,
+    "Id":"39562",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-13T18:38:59.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"cac0e20c-f74e-458d-87a8-083ef96e7b93",
+            "UserId":"12635",
+            "CloseReasonId":null,
+            "PostId":"39562",
+            "PostHistoryTypeId":"2",
+            "Id":"122250",
+            "Text":"Recently, I discovered that some app on my phone had taken it upon itself to place a very nice \"Free Games\" shortcut on my home screen. I haven't installed any new apps in the recent past, so I would be very curious to find out what Application is behind this.I've dumped logcat (with 'logcat -v time > log.txt') and gotten the last several hours of logs, but I have no idea what intent to search for.Is it possible to find the culprit this way? If not, how can I proceed with my witch hunt? Thanks for any advice!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-13T18:38:59.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"cac0e20c-f74e-458d-87a8-083ef96e7b93",
+            "UserId":"12635",
+            "CloseReasonId":null,
+            "PostId":"39562",
+            "PostHistoryTypeId":"1",
+            "Id":"122251",
+            "Text":"How can I determine what app put a spam shortcut on my home screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-13T18:38:59.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"cac0e20c-f74e-458d-87a8-083ef96e7b93",
+            "UserId":"12635",
+            "CloseReasonId":null,
+            "PostId":"39562",
+            "PostHistoryTypeId":"3",
+            "Id":"122252",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-14T14:05:17.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"4527b6ec-9624-4dc9-ae81-584b186bd00f",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"39562",
+            "PostHistoryTypeId":"10",
+            "Id":"122531",
+            "Text":"{\"OriginalQuestionIds\":[37327],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

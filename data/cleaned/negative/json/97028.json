@@ -1,0 +1,71 @@
+{
+    "Body":"I searched Google for this but only found that push mail requires constant internet connection.I want to know whether Push mail really USES constant internet connection? If so then what is the difference between push mail service and \"constantly refreshing inbox\"? Ps: please don't suggest me to upgrade my plan, I want to know the difference. Thanks in advance. :)",
+    "ViewCount":"64",
+    "LastActivityDate":"2015-01-27T09:12:17.843",
+    "ClosedDate":"2015-01-28T08:15:00.170",
+    "Title":"Does push mail service utilise constant internet connection?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"97029",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"73639",
+    "CreationDate":"2015-01-27T08:48:27.007",
+    "FavoriteCount":null,
+    "Id":"97028",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-27T08:48:27.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0fe0582-654a-4777-a781-a47718f67406",
+            "UserId":"73639",
+            "CloseReasonId":null,
+            "PostId":"97028",
+            "PostHistoryTypeId":"2",
+            "Id":"316332",
+            "Text":"I searched Google for this but only found that push mail requires constant internet connection.----------I want to know whether Push mail really USES constant internet connection? If so then what is the difference between push mail service and \"constantly refreshing inbox\"? Ps: please don't suggest me to upgrade my plan, I want to know the difference. Thanks in advance. :)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-27T08:48:27.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0fe0582-654a-4777-a781-a47718f67406",
+            "UserId":"73639",
+            "CloseReasonId":null,
+            "PostId":"97028",
+            "PostHistoryTypeId":"1",
+            "Id":"316333",
+            "Text":"Does push mail service utilise constant internet connection?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-27T08:48:27.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"d0fe0582-654a-4777-a781-a47718f67406",
+            "UserId":"73639",
+            "CloseReasonId":null,
+            "PostId":"97028",
+            "PostHistoryTypeId":"3",
+            "Id":"316334",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-01-28T08:15:00.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"5654a1ca-0b3c-464f-8501-d3d91514ebad",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"97028",
+            "PostHistoryTypeId":"10",
+            "Id":"316682",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

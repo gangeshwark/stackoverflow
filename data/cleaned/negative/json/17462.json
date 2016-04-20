@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I add a new language?  I want to deleted some installed languages from android phone and also add some languages to android phone. How this can be done?(android 2.3.6)",
+    "ViewCount":"109",
+    "LastActivityDate":"2011-12-27T09:13:53.227",
+    "ClosedDate":"2012-07-03T13:43:44.933",
+    "Title":"How to add\/delete languages from android phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10975",
+    "CreationDate":"2011-12-27T09:13:53.227",
+    "FavoriteCount":null,
+    "Id":"17462",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-27T09:13:53.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"de42812c-b25b-428c-91f3-febf4ea505bf",
+            "UserId":"10975",
+            "CloseReasonId":null,
+            "PostId":"17462",
+            "PostHistoryTypeId":"2",
+            "Id":"47764",
+            "Text":"I want to deleted some installed languages from android phone and also add some languages to android phone. How this can be done?(android 2.3.6)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-27T09:13:53.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"de42812c-b25b-428c-91f3-febf4ea505bf",
+            "UserId":"10975",
+            "CloseReasonId":null,
+            "PostId":"17462",
+            "PostHistoryTypeId":"1",
+            "Id":"47765",
+            "Text":"How to add\/delete languages from android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-27T09:13:53.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"de42812c-b25b-428c-91f3-febf4ea505bf",
+            "UserId":"10975",
+            "CloseReasonId":null,
+            "PostId":"17462",
+            "PostHistoryTypeId":"3",
+            "Id":"47766",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-03T13:43:45.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"91d9f291-e266-4d35-9dba-ba276c6b9bb8",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"17462",
+            "PostHistoryTypeId":"5",
+            "Id":"72606",
+            "Text":"> **Possible Duplicate:**  > [How do I add a new language?](http:\/\/android.stackexchange.com\/questions\/15361\/how-do-i-add-a-new-language)  I want to deleted some installed languages from android phone and also add some languages to android phone. How this can be done?(android 2.3.6)"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-03T13:43:44.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc51aa84-fd99-4590-9b46-10ad9733b8c8",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"17462",
+            "PostHistoryTypeId":"10",
+            "Id":"72607",
+            "Text":"{\"OriginalQuestionIds\":[15361],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

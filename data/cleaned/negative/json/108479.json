@@ -1,0 +1,71 @@
+{
+    "Body":"I have been unable to locate any stock ROMs for my phone. Dose anyone happen to know where I could find a stock 4.3 Jelly Bean ROM for the Moto G? Please don't link me to here as the link is dead: http:\/\/sbf.droid-developers.org\/phone.php?device=14",
+    "ViewCount":"4",
+    "LastActivityDate":"2015-05-05T02:44:45.713",
+    "ClosedDate":"2015-05-05T04:03:27.643",
+    "Title":"Can't find stock 4.3 Jelly Bean ROM for Moto G",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"106422",
+    "CreationDate":"2015-05-05T02:44:45.713",
+    "FavoriteCount":null,
+    "Id":"108479",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T02:44:45.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"dde29eea-4131-4066-95f1-7501b0d16a83",
+            "UserId":"106422",
+            "CloseReasonId":null,
+            "PostId":"108479",
+            "PostHistoryTypeId":"2",
+            "Id":"353221",
+            "Text":"I have been unable to locate any stock ROMs for my phone. Dose anyone happen to know where I could find a stock 4.3 Jelly Bean ROM for the Moto G? Please don't link me to here as the link is dead: http:\/\/sbf.droid-developers.org\/phone.php?device=14"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T02:44:45.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"dde29eea-4131-4066-95f1-7501b0d16a83",
+            "UserId":"106422",
+            "CloseReasonId":null,
+            "PostId":"108479",
+            "PostHistoryTypeId":"1",
+            "Id":"353222",
+            "Text":"Can't find stock 4.3 Jelly Bean ROM for Moto G"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T02:44:45.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"dde29eea-4131-4066-95f1-7501b0d16a83",
+            "UserId":"106422",
+            "CloseReasonId":null,
+            "PostId":"108479",
+            "PostHistoryTypeId":"3",
+            "Id":"353223",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-05T04:03:27.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"e8c963fa-e6ea-4db4-b71b-0138d16026ea",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"108479",
+            "PostHistoryTypeId":"10",
+            "Id":"353250",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

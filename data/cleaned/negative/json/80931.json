@@ -1,0 +1,83 @@
+{
+    "Body":"I am using an Motorola XT1022. I have moved the games and apps from the internal to SD card to free the internal memory, but still there are some moved apps files that are occupying the internal memory. So I can't install any other apps.Can you tell me how to move that apps files to the SD card?",
+    "ViewCount":"149",
+    "LastActivityDate":"2014-08-20T20:17:13.260",
+    "ClosedDate":"2014-08-21T05:20:26.330",
+    "Title":"Move from Internal to External",
+    "LastEditorUserId":"11190",
+    "Tags":"",
+    "LastEditDate":"2014-08-20T20:17:13.260",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71200",
+    "CreationDate":"2014-08-20T12:39:51.637",
+    "FavoriteCount":null,
+    "Id":"80931",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-20T12:39:51.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c5f3dc7-79e7-438c-a3e8-151e2f3c4ba2",
+            "UserId":"71200",
+            "CloseReasonId":null,
+            "PostId":"80931",
+            "PostHistoryTypeId":"2",
+            "Id":"264915",
+            "Text":"I am using an Motorola XT1022.Its awesome. I have moved the games and apps  from the internal to SD card to free the internal memory but still there are some moved apps file are occupying the internal memory. So I cant able to install any other apps.Can you tell me how to move that apps files to the SD card.THANK YOU,PANNEER SELVAM. R"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-20T12:39:51.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c5f3dc7-79e7-438c-a3e8-151e2f3c4ba2",
+            "UserId":"71200",
+            "CloseReasonId":null,
+            "PostId":"80931",
+            "PostHistoryTypeId":"1",
+            "Id":"264916",
+            "Text":"Move from Internal to External"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-20T12:39:51.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"6c5f3dc7-79e7-438c-a3e8-151e2f3c4ba2",
+            "UserId":"71200",
+            "CloseReasonId":null,
+            "PostId":"80931",
+            "PostHistoryTypeId":"3",
+            "Id":"264917",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 46 characters in body",
+            "CreationDate":"2014-08-20T20:17:13.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"e14dd439-d154-4c0a-8836-f6384fc46f61",
+            "UserId":"11190",
+            "CloseReasonId":null,
+            "PostId":"80931",
+            "PostHistoryTypeId":"5",
+            "Id":"265037",
+            "Text":"I am using an Motorola XT1022. I have moved the games and apps from the internal to SD card to free the internal memory, but still there are some moved apps files that are occupying the internal memory. So I can't install any other apps.Can you tell me how to move that apps files to the SD card?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-21T05:20:26.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"45de4727-5a69-4830-a0fd-0430691390b8",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"80931",
+            "PostHistoryTypeId":"10",
+            "Id":"265096",
+            "Text":"{\"OriginalQuestionIds\":[12723],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

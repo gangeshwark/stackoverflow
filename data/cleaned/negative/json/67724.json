@@ -1,0 +1,71 @@
+{
+    "Body":"I tried searching for a tool online but couldn't find how you can find out when an android app was first released on the google play store?On google play it just mentions when it was last updated. Any ideas how I can find the first release date ?",
+    "ViewCount":"20",
+    "LastActivityDate":"2014-04-17T18:57:28.970",
+    "ClosedDate":"2014-04-18T16:57:50.447",
+    "Title":"Find when an app was released on the google play store",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18300",
+    "CreationDate":"2014-04-17T18:57:28.970",
+    "FavoriteCount":null,
+    "Id":"67724",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-17T18:57:28.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff65aec2-7a9a-4792-9503-a3509131112f",
+            "UserId":"18300",
+            "CloseReasonId":null,
+            "PostId":"67724",
+            "PostHistoryTypeId":"2",
+            "Id":"230846",
+            "Text":"I tried searching for a tool online but couldn't find how you can find out when an android app was first released on the google play store?On google play it just mentions when it was last updated. Any ideas how I can find the first release date ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-17T18:57:28.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff65aec2-7a9a-4792-9503-a3509131112f",
+            "UserId":"18300",
+            "CloseReasonId":null,
+            "PostId":"67724",
+            "PostHistoryTypeId":"1",
+            "Id":"230847",
+            "Text":"Find when an app was released on the google play store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-17T18:57:28.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff65aec2-7a9a-4792-9503-a3509131112f",
+            "UserId":"18300",
+            "CloseReasonId":null,
+            "PostId":"67724",
+            "PostHistoryTypeId":"3",
+            "Id":"230848",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-18T16:57:50.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0229463-e6e9-452a-a5de-783999a53f2a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"67724",
+            "PostHistoryTypeId":"10",
+            "Id":"231063",
+            "Text":"{\"OriginalQuestionIds\":[63904],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"If I want to customize the way an app looks is there a way to do so ?I am thinking in the lines of obtaining source code and editing.",
+    "ViewCount":"73",
+    "LastActivityDate":"2015-02-25T13:13:54.493",
+    "ClosedDate":"2015-02-25T16:03:25.467",
+    "Title":"Is it possible to edit android apps from Google play",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95851",
+    "CreationDate":"2015-02-25T13:09:46.197",
+    "FavoriteCount":null,
+    "Id":"100854",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-25T13:09:46.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"74fc5c5f-8cc5-4055-ad17-443753fc0340",
+            "UserId":"95851",
+            "CloseReasonId":null,
+            "PostId":"100854",
+            "PostHistoryTypeId":"2",
+            "Id":"327689",
+            "Text":"If I want to customize the way an app looks is there a way to do so ?I am thinking in the lines of obtaining source code and editing."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-25T13:09:46.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"74fc5c5f-8cc5-4055-ad17-443753fc0340",
+            "UserId":"95851",
+            "CloseReasonId":null,
+            "PostId":"100854",
+            "PostHistoryTypeId":"1",
+            "Id":"327690",
+            "Text":"Is it possible to edit android apps from Google play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-25T13:09:46.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"74fc5c5f-8cc5-4055-ad17-443753fc0340",
+            "UserId":"95851",
+            "CloseReasonId":null,
+            "PostId":"100854",
+            "PostHistoryTypeId":"3",
+            "Id":"327691",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-02-25T16:03:25.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"74753c83-fb2b-42d6-9748-a2a9cb06005a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100854",
+            "PostHistoryTypeId":"10",
+            "Id":"327775",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

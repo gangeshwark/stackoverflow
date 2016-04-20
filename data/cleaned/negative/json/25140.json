@@ -1,0 +1,83 @@
+{
+    "Body":"My galaxy note is on 2.3.6.  Sometimes when I tap on phone icon (or contacts icon), go to Contacts tab, and tap on a contact, nothing happens.   I have to go back to home, tap on the contacts icon (or phone icon), go to Contacts tabs, and tap on a contact then i see the person's profile.  So basically if I had trouble with the phone icon, I have to repeat with the contacts icon.  If I had problems with the contacts icon, i try again but with the phone icon.  Sometimes I have to go to an entirely different application all together, then go back to the phone\/contacts to try again.How do I get rid of this bug?",
+    "ViewCount":"71",
+    "LastActivityDate":"2012-12-10T08:50:07.440",
+    "ClosedDate":"2012-12-23T06:41:32.010",
+    "Title":"Can not tap a contact on my android (galaxy note)",
+    "LastEditorUserId":"12677",
+    "Tags":"",
+    "LastEditDate":"2012-12-10T08:50:07.440",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15273",
+    "CreationDate":"2012-07-02T03:04:35.900",
+    "FavoriteCount":null,
+    "Id":"25140",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-02T03:04:35.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"74b9f7eb-767a-429d-95ae-ab4d1f0eb308",
+            "UserId":"15273",
+            "CloseReasonId":null,
+            "PostId":"25140",
+            "PostHistoryTypeId":"2",
+            "Id":"72268",
+            "Text":"My galaxy note is on 2.3.6.  Sometimes when I tap on phone icon (or contacts icon), go to Contacts tab, and tap on a contact, nothing happens.   I have to go back to home, tap on the contacts icon (or phone icon), go to Contacts tabs, and tap on a contact then i see the person's profile.  So basically if I had trouble with the phone icon, I have to repeat with the contacts icon.  If I had problems with the contacts icon, i try again but with the phone icon.  Sometimes I have to go to an entirely different application all together, then go back to the phone\/contacts to try again.How do I get rid of this bug?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-02T03:04:35.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"74b9f7eb-767a-429d-95ae-ab4d1f0eb308",
+            "UserId":"15273",
+            "CloseReasonId":null,
+            "PostId":"25140",
+            "PostHistoryTypeId":"1",
+            "Id":"72269",
+            "Text":"Can not tap a contact on my android (galaxy note)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-02T03:04:35.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"74b9f7eb-767a-429d-95ae-ab4d1f0eb308",
+            "UserId":"15273",
+            "CloseReasonId":null,
+            "PostId":"25140",
+            "PostHistoryTypeId":"3",
+            "Id":"72270",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-12-10T08:50:07.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9c5940a-b086-434b-ba5d-fe29a5adbb3a",
+            "UserId":"12677",
+            "CloseReasonId":null,
+            "PostId":"25140",
+            "PostHistoryTypeId":"6",
+            "Id":"105169",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T06:41:32.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"d845d1ed-2dfc-48ee-bc2f-e03e96062d5c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25140",
+            "PostHistoryTypeId":"10",
+            "Id":"108408",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

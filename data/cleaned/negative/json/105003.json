@@ -1,0 +1,71 @@
+{
+    "Body":"For certain websites on my Nexus 5 running stock Android 5.1, I would like to always display the desktop version instead of the mobile version.My current workflow is as follows to navigate to a desktop version of a frequently-visited website:Open Chrome bookmark from a Bookmark widgetWait for Chrome to begin to load the mobile version of the websiteCheck the \"Request desktop site\" option in the Chrome menuWait for Chrome to load the desktop version of the website.I'm aware of this XDA thread that shares how to configure Chrome to always request the desktop site. Is there a way for to set up a bookmark so only that bookmark loads the desktop site? ",
+    "ViewCount":"26",
+    "LastActivityDate":"2015-04-09T15:49:28.930",
+    "ClosedDate":"2015-04-10T16:09:39.250",
+    "Title":"Request desktop site on stock Android Chrome by default for certain websites",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101720",
+    "CreationDate":"2015-04-09T15:49:28.930",
+    "FavoriteCount":null,
+    "Id":"105003",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T15:49:28.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f96fd98-3404-49c3-8568-b1725e7b96fe",
+            "UserId":"101720",
+            "CloseReasonId":null,
+            "PostId":"105003",
+            "PostHistoryTypeId":"2",
+            "Id":"342949",
+            "Text":"For certain websites on my Nexus 5 running stock Android 5.1, I would like to always display the desktop version instead of the mobile version.My current workflow is as follows to navigate to a desktop version of a frequently-visited website: 1. Open Chrome bookmark from a Bookmark widget 2. Wait for Chrome to begin to load the mobile version of the website 3. Check the \"Request desktop site\" option in the Chrome menu 4. Wait for Chrome to load the desktop version of the website.I'm aware of [this XDA thread](http:\/\/forum.xda-developers.com\/showthread.php?t=1811101) that shares how to configure Chrome to always request the desktop site. Is there a way for to set up a bookmark so only that bookmark loads the desktop site?      "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T15:49:28.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f96fd98-3404-49c3-8568-b1725e7b96fe",
+            "UserId":"101720",
+            "CloseReasonId":null,
+            "PostId":"105003",
+            "PostHistoryTypeId":"1",
+            "Id":"342950",
+            "Text":"Request desktop site on stock Android Chrome by default for certain websites"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T15:49:28.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f96fd98-3404-49c3-8568-b1725e7b96fe",
+            "UserId":"101720",
+            "CloseReasonId":null,
+            "PostId":"105003",
+            "PostHistoryTypeId":"3",
+            "Id":"342951",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-10T16:09:39.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba61aa24-47fd-46a6-9959-54d92bc7ea3b",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"105003",
+            "PostHistoryTypeId":"10",
+            "Id":"343360",
+            "Text":"{\"OriginalQuestionIds\":[104170],\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

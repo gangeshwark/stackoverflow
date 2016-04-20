@@ -1,0 +1,71 @@
+{
+    "Body":"I recently installed a CyanogenMod bases rom called AICP one my phone and everything was working fine. Then a couple months later I found CyanogenMod's new c-apps. I decided to flash that. Now whenever I try to make\/receive calls the new cyanogen dialer app crashes. Anybody know what's causing this?",
+    "ViewCount":"18",
+    "LastActivityDate":"2016-01-27T18:51:33.510",
+    "ClosedDate":"2016-02-05T22:49:32.400",
+    "Title":"Cyanogen's new c-apps dialer not working",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"148407",
+    "CreationDate":"2016-01-27T18:51:33.510",
+    "FavoriteCount":null,
+    "Id":"135426",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-27T18:51:33.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d1966bb-8f66-4416-ab23-512006c519a6",
+            "UserId":"148407",
+            "CloseReasonId":null,
+            "PostId":"135426",
+            "PostHistoryTypeId":"2",
+            "Id":"450340",
+            "Text":"I recently installed a CyanogenMod bases rom called AICP one my phone and everything was working fine. Then a couple months later I found CyanogenMod's new c-apps. I decided to flash that. Now whenever I try to make\/receive calls the new cyanogen dialer app crashes. Anybody know what's causing this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-27T18:51:33.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d1966bb-8f66-4416-ab23-512006c519a6",
+            "UserId":"148407",
+            "CloseReasonId":null,
+            "PostId":"135426",
+            "PostHistoryTypeId":"1",
+            "Id":"450341",
+            "Text":"Cyanogen's new c-apps dialer not working"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-27T18:51:33.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d1966bb-8f66-4416-ab23-512006c519a6",
+            "UserId":"148407",
+            "CloseReasonId":null,
+            "PostId":"135426",
+            "PostHistoryTypeId":"3",
+            "Id":"450342",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-05T22:49:32.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"d375fa00-286d-4002-af74-0e1d2ee64fd5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"135426",
+            "PostHistoryTypeId":"10",
+            "Id":"453832",
+            "Text":"{\"OriginalQuestionIds\":[135424],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have gionee gpad g3 whose specifications are 512 mb ram, 1.2 ghz quadcore processor and 4 gb internal memory. my device is not listed on CM supportable device list. so should i install it?",
+    "ViewCount":"312",
+    "LastActivityDate":"2014-07-24T13:18:21.453",
+    "ClosedDate":"2014-07-24T16:49:00.913",
+    "Title":"Installing cyanogenmod 11",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68086",
+    "CreationDate":"2014-07-24T12:59:15.857",
+    "FavoriteCount":null,
+    "Id":"77981",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T12:59:15.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b5b061c-52bb-49fb-98c2-ca307d430d47",
+            "UserId":"68086",
+            "CloseReasonId":null,
+            "PostId":"77981",
+            "PostHistoryTypeId":"2",
+            "Id":"257107",
+            "Text":"I have gionee gpad g3 whose specifications are 512 mb ram, 1.2 ghz quadcore processor and 4 gb internal memory. my device is not listed on CM supportable device list. so should i install it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T12:59:15.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b5b061c-52bb-49fb-98c2-ca307d430d47",
+            "UserId":"68086",
+            "CloseReasonId":null,
+            "PostId":"77981",
+            "PostHistoryTypeId":"1",
+            "Id":"257108",
+            "Text":"Installing cyanogenmod 11"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T12:59:15.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b5b061c-52bb-49fb-98c2-ca307d430d47",
+            "UserId":"68086",
+            "CloseReasonId":null,
+            "PostId":"77981",
+            "PostHistoryTypeId":"3",
+            "Id":"257109",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-24T16:49:00.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"aaeecaf8-6a5d-4bed-b26d-2f83376b9d62",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77981",
+            "PostHistoryTypeId":"10",
+            "Id":"257191",
+            "Text":"{\"OriginalQuestionIds\":[21566],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

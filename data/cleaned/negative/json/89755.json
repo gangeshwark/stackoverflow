@@ -1,0 +1,71 @@
+{
+    "Body":"Is the Nexus 6 supposed to default to the Call screen every time I unlock my phone? I get tired of unlocking my phone, and hitting the Home button every time. I want to unlock my phone and get the Home screen....anybody got any ideas?",
+    "ViewCount":"1438",
+    "LastActivityDate":"2014-12-04T21:16:04.420",
+    "ClosedDate":"2014-12-06T07:42:39.857",
+    "Title":"Nexus 6 defaults to Call screen upon unlock",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"89772",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82800",
+    "CreationDate":"2014-12-04T18:15:45.897",
+    "FavoriteCount":null,
+    "Id":"89755",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T18:15:45.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"e74c097a-dfda-42fa-b787-b55072bb43f9",
+            "UserId":"82800",
+            "CloseReasonId":null,
+            "PostId":"89755",
+            "PostHistoryTypeId":"2",
+            "Id":"295872",
+            "Text":"Is the Nexus 6 supposed to default to the Call screen every time I unlock my phone? I get tired of unlocking my phone, and hitting the Home button every time. I want to unlock my phone and get the Home screen....anybody got any ideas?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T18:15:45.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"e74c097a-dfda-42fa-b787-b55072bb43f9",
+            "UserId":"82800",
+            "CloseReasonId":null,
+            "PostId":"89755",
+            "PostHistoryTypeId":"1",
+            "Id":"295873",
+            "Text":"Nexus 6 defaults to Call screen upon unlock"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T18:15:45.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"e74c097a-dfda-42fa-b787-b55072bb43f9",
+            "UserId":"82800",
+            "CloseReasonId":null,
+            "PostId":"89755",
+            "PostHistoryTypeId":"3",
+            "Id":"295874",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-06T07:42:39.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"d2c98c68-4a61-4145-89e9-93a43dc613bc",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89755",
+            "PostHistoryTypeId":"10",
+            "Id":"296387",
+            "Text":"{\"OriginalQuestionIds\":[88850],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

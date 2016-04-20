@@ -1,0 +1,71 @@
+{
+    "Body":"I have a white Pandigital Novel that I hacked to run Android 2.1.  The firmware I have did not come with the market.  Is there a way I can put the market on it?  Is there a \"market.apk\" somewhere?",
+    "ViewCount":"7684",
+    "LastActivityDate":"2011-11-09T13:21:14.630",
+    "ClosedDate":"2013-03-07T11:50:08.887",
+    "Title":"How can I add the market to my device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"6",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"938",
+    "CreationDate":"2011-01-02T03:07:04.423",
+    "FavoriteCount":null,
+    "Id":"4287",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-02T03:07:04.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"079f68e6-7fc7-46f4-96a7-c1402b2af1d4",
+            "UserId":"938",
+            "CloseReasonId":null,
+            "PostId":"4287",
+            "PostHistoryTypeId":"2",
+            "Id":"8905",
+            "Text":"I have a [white Pandigital Novel][1] that I [hacked to run Android 2.1.][2]  The firmware I have did not come with the market.  Is there a way I can put the market on it?  Is there a \"market.apk\" somewhere?  [1]: http:\/\/www.pandigital.net\/pandigitalnovel  [2]: http:\/\/www.slatedroid.com\/index.php?topic=5098.0"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-02T03:07:04.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"079f68e6-7fc7-46f4-96a7-c1402b2af1d4",
+            "UserId":"938",
+            "CloseReasonId":null,
+            "PostId":"4287",
+            "PostHistoryTypeId":"1",
+            "Id":"8906",
+            "Text":"How can I add the market to my device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-02T03:07:04.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"079f68e6-7fc7-46f4-96a7-c1402b2af1d4",
+            "UserId":"938",
+            "CloseReasonId":null,
+            "PostId":"4287",
+            "PostHistoryTypeId":"3",
+            "Id":"8907",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-03-07T11:50:08.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"e514498d-f88d-4b92-be69-a0ee0adb3bd7",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"4287",
+            "PostHistoryTypeId":"10",
+            "Id":"127999",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

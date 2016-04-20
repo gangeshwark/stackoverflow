@@ -1,0 +1,71 @@
+{
+    "Body":"Iam looking for a browser, which can display all unicode charecters?",
+    "ViewCount":"61",
+    "LastActivityDate":"2015-08-11T22:13:59.323",
+    "ClosedDate":"2015-08-12T15:22:54.977",
+    "Title":"which browser can display all unicode charecters on Android os?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"119743",
+    "CreationDate":"2015-08-11T19:44:02.600",
+    "FavoriteCount":"1",
+    "Id":"118975",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-11T19:44:02.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d2ff972-ff5a-4bcf-9da7-6088a01ec943",
+            "UserId":"119743",
+            "CloseReasonId":null,
+            "PostId":"118975",
+            "PostHistoryTypeId":"2",
+            "Id":"389624",
+            "Text":"Iam looking for a browser, which can display all unicode charecters?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-11T19:44:02.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d2ff972-ff5a-4bcf-9da7-6088a01ec943",
+            "UserId":"119743",
+            "CloseReasonId":null,
+            "PostId":"118975",
+            "PostHistoryTypeId":"1",
+            "Id":"389625",
+            "Text":"which browser can display all unicode charecters on Android os?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-11T19:44:02.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d2ff972-ff5a-4bcf-9da7-6088a01ec943",
+            "UserId":"119743",
+            "CloseReasonId":null,
+            "PostId":"118975",
+            "PostHistoryTypeId":"3",
+            "Id":"389626",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-12T15:22:54.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"31bb7e5d-b7d1-49e0-8df3-22bcbf73e4d4",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"118975",
+            "PostHistoryTypeId":"10",
+            "Id":"389903",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

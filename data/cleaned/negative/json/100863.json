@@ -1,0 +1,71 @@
+{
+    "Body":"I've had this issue a couple of months ago too but then I could fix it by turning off an option at my WiFi settings.Now the problem is back but it my previous solution doesn't work.I own a Samsung Galaxy S5 and I've had it for about a year now. It runs on Android 4.4.2. At some point the battery started to die really fast, and I don't have a clue what the reason could be. When I check the battery usage, it says \"Android-System\" uses about 30-40% of my battery, but I don't have a clue where this service comes from or how to kill it.Has anybody got a solution for this?",
+    "ViewCount":"93",
+    "LastActivityDate":"2015-02-25T15:01:14.753",
+    "ClosedDate":"2015-02-26T15:28:42.377",
+    "Title":"My battery dies very quickly",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"100869",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95858",
+    "CreationDate":"2015-02-25T14:05:51.910",
+    "FavoriteCount":null,
+    "Id":"100863",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-25T14:05:51.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"44486d75-7554-4168-bc85-eff15a497b45",
+            "UserId":"95858",
+            "CloseReasonId":null,
+            "PostId":"100863",
+            "PostHistoryTypeId":"2",
+            "Id":"327720",
+            "Text":"I've had this issue a couple of months ago too but then I could fix it by turning off an option at my WiFi settings.Now the problem is back but it my previous solution doesn't work.I own a Samsung Galaxy S5 and I've had it for about a year now. It runs on Android 4.4.2. At some point the battery started to die really fast, and I don't have a clue what the reason could be. When I check the battery usage, it says \"Android-System\" uses about 30-40% of my battery, but I don't have a clue where this service comes from or how to kill it.Has anybody got a solution for this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-25T14:05:51.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"44486d75-7554-4168-bc85-eff15a497b45",
+            "UserId":"95858",
+            "CloseReasonId":null,
+            "PostId":"100863",
+            "PostHistoryTypeId":"1",
+            "Id":"327721",
+            "Text":"My battery dies very quickly"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-25T14:05:51.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"44486d75-7554-4168-bc85-eff15a497b45",
+            "UserId":"95858",
+            "CloseReasonId":null,
+            "PostId":"100863",
+            "PostHistoryTypeId":"3",
+            "Id":"327722",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-26T15:28:42.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"eda2e924-2200-4b16-9e16-c43aabdc4109",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100863",
+            "PostHistoryTypeId":"10",
+            "Id":"328131",
+            "Text":"{\"OriginalQuestionIds\":[17382],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

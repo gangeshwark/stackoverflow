@@ -1,0 +1,71 @@
+{
+    "Body":"Will using *#9900# and selecting the option \"delete dumpstate\/ logcat\" affect any chat history, conversations, threads related to WhatsApp? I need to clear memory to update the app, but don't want to lose anything (it won't use the app until I update)",
+    "ViewCount":"16",
+    "LastActivityDate":"2015-05-09T00:11:20.527",
+    "ClosedDate":"2015-05-09T16:04:16.350",
+    "Title":"Will using *#9900# and selecting \"delete dumpstate\/ logcat\" affect WhatsApp?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107969",
+    "CreationDate":"2015-05-09T00:11:20.527",
+    "FavoriteCount":null,
+    "Id":"108855",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-09T00:11:20.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"c886a7a6-a72c-48c4-aa47-fbaed2c6ac47",
+            "UserId":"107969",
+            "CloseReasonId":null,
+            "PostId":"108855",
+            "PostHistoryTypeId":"2",
+            "Id":"354742",
+            "Text":"Will using *#9900# and selecting the option \"delete dumpstate\/ logcat\" affect any chat history, conversations, threads related to WhatsApp? I need to clear memory to update the app, but don't want to lose anything (it won't use the app until I update)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-09T00:11:20.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"c886a7a6-a72c-48c4-aa47-fbaed2c6ac47",
+            "UserId":"107969",
+            "CloseReasonId":null,
+            "PostId":"108855",
+            "PostHistoryTypeId":"1",
+            "Id":"354743",
+            "Text":"Will using *#9900# and selecting \"delete dumpstate\/ logcat\" affect WhatsApp?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-09T00:11:20.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"c886a7a6-a72c-48c4-aa47-fbaed2c6ac47",
+            "UserId":"107969",
+            "CloseReasonId":null,
+            "PostId":"108855",
+            "PostHistoryTypeId":"3",
+            "Id":"354744",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-09T16:04:16.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa8ae877-a40e-40f7-9a6f-524c2ee62eb5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"108855",
+            "PostHistoryTypeId":"10",
+            "Id":"354975",
+            "Text":"{\"OriginalQuestionIds\":[85593],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

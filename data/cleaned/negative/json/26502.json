@@ -1,0 +1,83 @@
+{
+    "Body":"I am looking for practical solutions to address the problem of Bufferbloat on Android handsets. To narrow down the problem just a little bit, appropriate solutions would meet the following criteria:Can be applied to a stock ICS ROM without replacing huge pieces of the stack (e.g., it would not be acceptable to replace Bionic with glibc and the Android graphics stack with Xorg)Requiring root access is anticipated\/fineModifying\/recompiling the kernel is fineModifying userspace utilities is fineModifying configuration settings is fine (preferred, actually)Should, at a minimum, affect bufferbloat for data coming from the cellular baseband; i.e., 3G or 4G data. Affecting bufferbloat on the wifi\/ethernet\/bluetooth links is praiseworthy, but is not what I am looking for.A few things that I don't think would be practical:Upgrading the kernel to a new mainline version (so ideally any kernel modifications should be applicable to the 3.0.x series). This is impractical because all the proprietary blobs and hardware-specific drivers for your phone are probably not portable to a new kernel series, so you would be sacrificing major pieces of functionality (wifi, graphics, cellular baseband) for the sake of bufferbloat. Not cool.Patching\/modifying the firmware in the cellular baseband. While I'm sure the baseband for most devices carries an unhealthy amount of bufferbloat, addressing the problem within that IC will most likely require the voluntary cooperation of carriers, baseband manufacturers (e.g. Qualcomm) and hardware manufacturers (e.g. Motorola).Any appropriate solution to this problem should be testable and the results should be reproducible. The ideal test would be something similar to what Wikipedia's article on Bufferbloat describes (linked above). Your solution should show a consistent, measurable decrease in the latency of the ICMP pings on the saturated (full buffers) 3G\/4G link.",
+    "ViewCount":"146",
+    "LastActivityDate":"2012-07-26T13:57:49.773",
+    "ClosedDate":"2012-12-23T11:42:11.080",
+    "Title":"Bufferbloat on Android",
+    "LastEditorUserId":"1951",
+    "Tags":"",
+    "LastEditDate":"2012-07-26T13:57:49.773",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17418",
+    "CreationDate":"2012-07-26T13:55:49.103",
+    "FavoriteCount":null,
+    "Id":"26502",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-26T13:55:49.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"12d9dfac-7897-44cf-8ece-f755181aed3c",
+            "UserId":"17418",
+            "CloseReasonId":null,
+            "PostId":"26502",
+            "PostHistoryTypeId":"2",
+            "Id":"76774",
+            "Text":"I am looking for practical solutions to address the problem of [Bufferbloat](http:\/\/en.wikipedia.org\/wiki\/) on Android handsets. To narrow down the problem just a little bit, appropriate solutions would meet the following criteria: - Can be applied to a stock ICS ROM without replacing huge pieces of the stack (e.g., it would not be acceptable to replace Bionic with glibc and the Android graphics stack with Xorg) - Requiring root access is anticipated\/fine - Modifying\/recompiling the kernel is fine - Modifying userspace utilities is fine - Modifying configuration settings is fine (preferred, actually) - Should, at a minimum, affect bufferbloat for data coming from the cellular baseband; i.e., 3G or 4G data. Affecting bufferbloat on the wifi\/ethernet\/bluetooth links is praiseworthy, but *is not what I am looking for*.A few things that I don't think would be practical: - Upgrading the kernel to a new mainline version (so ideally any kernel modifications should be applicable to the 3.0.x series). This is impractical because all the proprietary blobs and hardware-specific drivers for your phone are probably not portable to a new kernel series, so you would be sacrificing major pieces of functionality (wifi, graphics, cellular baseband) for the sake of bufferbloat. Not cool. - Patching\/modifying the firmware in the cellular baseband. While I'm sure the baseband for most devices carries an unhealthy amount of bufferbloat, addressing the problem within that IC will most likely require the voluntary cooperation of carriers, baseband manufacturers (e.g. Qualcomm) and hardware manufacturers (e.g. Motorola).Any appropriate solution to this problem should be *testable* and the results should be *reproducible*. The ideal test would be something similar to what Wikipedia's article on Bufferbloat describes (linked above). Your solution should show a consistent, measurable decrease in the latency of the ICMP pings on the saturated (full buffers) 3G\/4G link."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-26T13:55:49.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"12d9dfac-7897-44cf-8ece-f755181aed3c",
+            "UserId":"17418",
+            "CloseReasonId":null,
+            "PostId":"26502",
+            "PostHistoryTypeId":"1",
+            "Id":"76775",
+            "Text":"Bufferbloat on Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-26T13:55:49.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"12d9dfac-7897-44cf-8ece-f755181aed3c",
+            "UserId":"17418",
+            "CloseReasonId":null,
+            "PostId":"26502",
+            "PostHistoryTypeId":"3",
+            "Id":"76776",
+            "Text":""
+        },
+        {
+            "Comment":"fixed wikipedia link",
+            "CreationDate":"2012-07-26T13:57:49.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"71b28bc4-486d-4284-965c-ed338aa3ec8f",
+            "UserId":"1951",
+            "CloseReasonId":null,
+            "PostId":"26502",
+            "PostHistoryTypeId":"5",
+            "Id":"76777",
+            "Text":"I am looking for practical solutions to address the problem of [Bufferbloat](http:\/\/en.wikipedia.org\/wiki\/Bufferbloat) on Android handsets. To narrow down the problem just a little bit, appropriate solutions would meet the following criteria: - Can be applied to a stock ICS ROM without replacing huge pieces of the stack (e.g., it would not be acceptable to replace Bionic with glibc and the Android graphics stack with Xorg) - Requiring root access is anticipated\/fine - Modifying\/recompiling the kernel is fine - Modifying userspace utilities is fine - Modifying configuration settings is fine (preferred, actually) - Should, at a minimum, affect bufferbloat for data coming from the cellular baseband; i.e., 3G or 4G data. Affecting bufferbloat on the wifi\/ethernet\/bluetooth links is praiseworthy, but *is not what I am looking for*.A few things that I don't think would be practical: - Upgrading the kernel to a new mainline version (so ideally any kernel modifications should be applicable to the 3.0.x series). This is impractical because all the proprietary blobs and hardware-specific drivers for your phone are probably not portable to a new kernel series, so you would be sacrificing major pieces of functionality (wifi, graphics, cellular baseband) for the sake of bufferbloat. Not cool. - Patching\/modifying the firmware in the cellular baseband. While I'm sure the baseband for most devices carries an unhealthy amount of bufferbloat, addressing the problem within that IC will most likely require the voluntary cooperation of carriers, baseband manufacturers (e.g. Qualcomm) and hardware manufacturers (e.g. Motorola).Any appropriate solution to this problem should be *testable* and the results should be *reproducible*. The ideal test would be something similar to what Wikipedia's article on Bufferbloat describes (linked above). Your solution should show a consistent, measurable decrease in the latency of the ICMP pings on the saturated (full buffers) 3G\/4G link."
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T11:42:11.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"0035878c-7afe-4aca-801f-324b363ad603",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26502",
+            "PostHistoryTypeId":"10",
+            "Id":"108458",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

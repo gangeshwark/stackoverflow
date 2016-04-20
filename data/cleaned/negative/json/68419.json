@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a package file for android that I can access information of WiFi operating at 5 GHz. information like scanning the wifi networks available in 5 GHz bands, accessing RSSI of all the APs operating in 5ghz band?",
+    "ViewCount":"78",
+    "LastActivityDate":"2014-04-29T16:34:44.827",
+    "ClosedDate":"2014-05-02T04:50:16.147",
+    "Title":"Android package for accessing 5 GHz wifi information like RSSI?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"59602",
+    "CreationDate":"2014-04-29T15:50:06.537",
+    "FavoriteCount":null,
+    "Id":"68419",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T15:50:06.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"e21a2781-fbf8-4beb-b3bc-b515b19762dc",
+            "UserId":"59602",
+            "CloseReasonId":null,
+            "PostId":"68419",
+            "PostHistoryTypeId":"2",
+            "Id":"233319",
+            "Text":"Is there a package file for android that I can access information of WiFi operating at 5 GHz. information like scanning the wifi networks available in 5 GHz bands, accessing RSSI of all the APs operating in 5ghz band?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T15:50:06.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"e21a2781-fbf8-4beb-b3bc-b515b19762dc",
+            "UserId":"59602",
+            "CloseReasonId":null,
+            "PostId":"68419",
+            "PostHistoryTypeId":"1",
+            "Id":"233320",
+            "Text":"Android package for accessing 5 GHz wifi information like RSSI?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T15:50:06.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"e21a2781-fbf8-4beb-b3bc-b515b19762dc",
+            "UserId":"59602",
+            "CloseReasonId":null,
+            "PostId":"68419",
+            "PostHistoryTypeId":"3",
+            "Id":"233321",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-05-02T04:50:16.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"efa81c72-1f39-4036-9500-6d8aec27ba70",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"68419",
+            "PostHistoryTypeId":"10",
+            "Id":"233982",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

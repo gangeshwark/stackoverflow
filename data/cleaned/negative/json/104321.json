@@ -1,0 +1,71 @@
+{
+    "Body":"when a charge of the battery is disrupted (you urgently need to pop out and your phone was charging) is it better to charge again once you have the chance or do you wait until battery is low again? I heard it is good practice to let the battery go low before starting to charge, and vice versa to totally charge once begun, but what about disruptions?Thanks for reading and of course for answering :)S.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-04-02T19:43:25.440",
+    "ClosedDate":"2015-04-02T20:00:17.527",
+    "Title":"extending battery life",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"100720",
+    "CreationDate":"2015-04-02T19:43:25.440",
+    "FavoriteCount":null,
+    "Id":"104321",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T19:43:25.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"00f1eec2-4281-4c21-bb5f-5d3c49fbad4d",
+            "UserId":"100720",
+            "CloseReasonId":null,
+            "PostId":"104321",
+            "PostHistoryTypeId":"2",
+            "Id":"340448",
+            "Text":"when a charge of the battery is disrupted (you urgently need to pop out and your phone was charging) is it better to charge again once you have the chance or do you wait until battery is low again? I heard it is good practice to let the battery go low before starting to charge, and vice versa to totally charge once begun, but what about disruptions?Thanks for reading and of course for answering :)S."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T19:43:25.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"00f1eec2-4281-4c21-bb5f-5d3c49fbad4d",
+            "UserId":"100720",
+            "CloseReasonId":null,
+            "PostId":"104321",
+            "PostHistoryTypeId":"1",
+            "Id":"340449",
+            "Text":"extending battery life"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T19:43:25.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"00f1eec2-4281-4c21-bb5f-5d3c49fbad4d",
+            "UserId":"100720",
+            "CloseReasonId":null,
+            "PostId":"104321",
+            "PostHistoryTypeId":"3",
+            "Id":"340450",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-02T20:00:17.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"23d95c72-96c6-4a36-b469-b32812becdc1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"104321",
+            "PostHistoryTypeId":"10",
+            "Id":"340454",
+            "Text":"{\"OriginalQuestionIds\":[4003],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

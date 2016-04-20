@@ -1,0 +1,71 @@
+{
+    "Body":"I locked my phone from android device manager, now i'm not being able to remove the lock screen password, it says that, lock screen is disabled by administrator or encryption policy or credential storageI tried clearing the credentials, but it didn't work",
+    "ViewCount":"500",
+    "LastActivityDate":"2015-01-31T11:08:18.730",
+    "ClosedDate":"2015-02-01T06:15:47.077",
+    "Title":"I locked my phone from android device manager, now i'm not being able to remove the lock screen password",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92342",
+    "CreationDate":"2015-01-31T09:04:24.157",
+    "FavoriteCount":null,
+    "Id":"97434",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T09:04:24.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"dce7055d-fc35-4ed9-8e30-c86becad433c",
+            "UserId":"92342",
+            "CloseReasonId":null,
+            "PostId":"97434",
+            "PostHistoryTypeId":"2",
+            "Id":"317766",
+            "Text":"I locked my phone from android device manager, now i'm not being able to remove the lock screen password, it says that, lock screen is disabled by administrator or encryption policy or credential storageI tried clearing the credentials, but it didn't work"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T09:04:24.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"dce7055d-fc35-4ed9-8e30-c86becad433c",
+            "UserId":"92342",
+            "CloseReasonId":null,
+            "PostId":"97434",
+            "PostHistoryTypeId":"1",
+            "Id":"317767",
+            "Text":"I locked my phone from android device manager, now i'm not being able to remove the lock screen password"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T09:04:24.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"dce7055d-fc35-4ed9-8e30-c86becad433c",
+            "UserId":"92342",
+            "CloseReasonId":null,
+            "PostId":"97434",
+            "PostHistoryTypeId":"3",
+            "Id":"317768",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-01T06:15:47.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b8b82b1-a29b-48c2-9efe-f501e957dc66",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"97434",
+            "PostHistoryTypeId":"10",
+            "Id":"318042",
+            "Text":"{\"OriginalQuestionIds\":[93750],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

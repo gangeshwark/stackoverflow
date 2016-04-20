@@ -1,0 +1,83 @@
+{
+    "Body":"My nexus 4 originally came with android 4.2 JB. Since then I have gotten the 4.3 update. If i perform a factory reset sometime in the future will it go back to 4.2 or will the update be still in place. Also is there anyway to downgrade the os?",
+    "ViewCount":"29",
+    "LastActivityDate":"2013-08-20T06:11:21.053",
+    "ClosedDate":"2013-08-20T13:24:53.960",
+    "Title":"Nexus 4 factory reset",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-08-20T06:11:21.053",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38639",
+    "CreationDate":"2013-08-20T02:16:25.513",
+    "FavoriteCount":null,
+    "Id":"51554",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-20T02:16:25.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8aae241-0788-442e-9fe5-8e2afbbd5458",
+            "UserId":"38639",
+            "CloseReasonId":null,
+            "PostId":"51554",
+            "PostHistoryTypeId":"2",
+            "Id":"169184",
+            "Text":"My nexus 4 originally came with android 4.2 JB. Since then I have gotten the 4.3 update. If i perform a factory reset sometime in the future will it go back to 4.2 or will the update be still in place. Also is there anyway to downgrade the os?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-20T02:16:25.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8aae241-0788-442e-9fe5-8e2afbbd5458",
+            "UserId":"38639",
+            "CloseReasonId":null,
+            "PostId":"51554",
+            "PostHistoryTypeId":"1",
+            "Id":"169185",
+            "Text":"Nexus 4 factory reset"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-20T02:16:25.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8aae241-0788-442e-9fe5-8e2afbbd5458",
+            "UserId":"38639",
+            "CloseReasonId":null,
+            "PostId":"51554",
+            "PostHistoryTypeId":"3",
+            "Id":"169186",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-08-20T06:11:21.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f98fcb4-163d-42b4-a789-a8f325271abc",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"51554",
+            "PostHistoryTypeId":"6",
+            "Id":"169231",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-08-20T13:24:53.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"43f18171-c524-42d7-84fe-71d71a8ad404",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"51554",
+            "PostHistoryTypeId":"10",
+            "Id":"169318",
+            "Text":"{\"OriginalQuestionIds\":[12626],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

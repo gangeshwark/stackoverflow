@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Does Froyo fix Samsung Galaxy S I9000's GPS problem?  the GPS on Samsung Galaxy S is said to be somewhat broken.  Is this true even when using assisted GPS? ",
+    "ViewCount":"4006",
+    "LastActivityDate":"2010-12-11T02:14:59.610",
+    "ClosedDate":"2010-12-12T06:37:31.790",
+    "Title":"Does assisted GPS fix Samsung Galaxy S's GPS problems?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"3204",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"344",
+    "CreationDate":"2010-11-28T11:00:09.427",
+    "FavoriteCount":null,
+    "Id":"3197",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-28T11:00:09.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"036cd2cd-fd15-4589-b448-1658b74c7680",
+            "UserId":"344",
+            "CloseReasonId":null,
+            "PostId":"3197",
+            "PostHistoryTypeId":"2",
+            "Id":"6490",
+            "Text":"the GPS on Samsung Galaxy S is said to be somewhat broken.  Is this true even when using [assisted GPS](http:\/\/android.stackexchange.com\/questions\/1522\/what-is-assisted-gps)? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-28T11:00:09.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"036cd2cd-fd15-4589-b448-1658b74c7680",
+            "UserId":"344",
+            "CloseReasonId":null,
+            "PostId":"3197",
+            "PostHistoryTypeId":"1",
+            "Id":"6491",
+            "Text":"Does assisted GPS fix Samsung Galaxy S's GPS problems?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-28T11:00:09.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"036cd2cd-fd15-4589-b448-1658b74c7680",
+            "UserId":"344",
+            "CloseReasonId":null,
+            "PostId":"3197",
+            "PostHistoryTypeId":"3",
+            "Id":"6492",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-12T06:37:31.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1bc97e2-e02c-4071-a2d8-9bc483c7b5f0",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"3197",
+            "PostHistoryTypeId":"10",
+            "Id":"7315",
+            "Text":"{\"OriginalQuestionIds\":[2462],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-12T06:37:31.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"dbd47af8-535f-407f-ab2e-24aafa083854",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3197",
+            "PostHistoryTypeId":"5",
+            "Id":"7316",
+            "Text":"> **Possible Duplicate:**  > [Does Froyo fix Samsung Galaxy S I9000's GPS problem?](http:\/\/android.stackexchange.com\/questions\/2462\/does-froyo-fix-samsung-galaxy-s-i9000s-gps-problem)  the GPS on Samsung Galaxy S is said to be somewhat broken.  Is this true even when using [assisted GPS](http:\/\/android.stackexchange.com\/questions\/1522\/what-is-assisted-gps)? "
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is there a DLNA enabled media player for Android?  Video streaming from PC to Android?  I've largely been an iPhone\/iPad person. I am looking at getting a Kindle Fire or Nook color. I really just want to be able to stream video from my already huge collection of movies that I have on hand. I have used the Boxee and Airplayit applications for PC\/iPad\/iPhone.... Anything like that for Android or will I be stuck encoding and transferring? ",
+    "ViewCount":"302",
+    "LastActivityDate":"2011-12-13T02:09:11.997",
+    "ClosedDate":"2012-01-03T01:17:02.303",
+    "Title":"How to stream videos I own to an android device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10547",
+    "CreationDate":"2011-12-13T01:10:01.727",
+    "FavoriteCount":null,
+    "Id":"16870",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-13T01:10:01.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3537505-e77a-4d7e-b23f-33ec581d6168",
+            "UserId":"10547",
+            "CloseReasonId":null,
+            "PostId":"16870",
+            "PostHistoryTypeId":"2",
+            "Id":"45827",
+            "Text":"I've largely been an iPhone\/iPad person. I am looking at getting a Kindle Fire or Nook color. I really just want to be able to stream video from my already huge collection of movies that I have on hand. I have used the Boxee and Airplayit applications for PC\/iPad\/iPhone.... Anything like that for Android or will I be stuck encoding and transferring? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-13T01:10:01.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3537505-e77a-4d7e-b23f-33ec581d6168",
+            "UserId":"10547",
+            "CloseReasonId":null,
+            "PostId":"16870",
+            "PostHistoryTypeId":"1",
+            "Id":"45828",
+            "Text":"How to stream videos I own to an android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-13T01:10:01.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3537505-e77a-4d7e-b23f-33ec581d6168",
+            "UserId":"10547",
+            "CloseReasonId":null,
+            "PostId":"16870",
+            "PostHistoryTypeId":"3",
+            "Id":"45829",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-01-03T01:17:04.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"39fe1c5d-d4e6-4000-b878-053da826f6fd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"16870",
+            "PostHistoryTypeId":"5",
+            "Id":"48616",
+            "Text":"> **Possible Duplicate:**  > [Is there a DLNA enabled media player for Android?](http:\/\/android.stackexchange.com\/questions\/1051\/is-there-a-dlna-enabled-media-player-for-android)  > [Video streaming from PC to Android?](http:\/\/android.stackexchange.com\/questions\/11885\/video-streaming-from-pc-to-android)  I've largely been an iPhone\/iPad person. I am looking at getting a Kindle Fire or Nook color. I really just want to be able to stream video from my already huge collection of movies that I have on hand. I have used the Boxee and Airplayit applications for PC\/iPad\/iPhone.... Anything like that for Android or will I be stuck encoding and transferring? "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-01-03T01:17:02.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"17cbeb07-bd05-4c22-b4fa-0f1a4b6af628",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"16870",
+            "PostHistoryTypeId":"10",
+            "Id":"48617",
+            "Text":"{\"OriginalQuestionIds\":[1051,11885],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

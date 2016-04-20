@@ -1,0 +1,83 @@
+{
+    "Body":"How's this for a catch 22 - I would like to make a copy of the full folder structure starting at the path above. I have explored:Finding ways to move the app onto the internet data storage (SD card equivalent), before realising that it would likely still leave the app data in the protected \/data directoryLooking for ways to root the device, without wiping the storage, as I have read is possible for a few other mobile devices (Nexus 7 for one)\"Temporary rooting\" the device - This looks to be most promising, but I cannot find how to do this for the Nexus 10In my desperation, have also tried to export the Chrome for Android history (least preferable solution), but:Chrome for Android provides no way of saving chrome:\/\/historyThe Google based sync is missing many pages, even whole days of pages, when viewing in Portable Chrome on the desktopThe press-and-hold clicking of individual links on chrome:\/\/history page, would take too long.chrome:history doesn't display the full URL's, so the screenshots (Power + Volume down, concurrently) I took are only semi-usefulThen there is the open tabs:chrome:sessions, chrome:tasks present a \"Web page not found\" error, which I presume means that they are not available on the Android version.Does anyone have something else for me to try??EDIT:After Dan Hulme's pointing out that there is already a workaround to this, I would like to change this question to ask if there is any way to mount the back file adb backup produces, instead of having to recover it to a like device, in order to work with the files contained with the archive.",
+    "ViewCount":"38",
+    "LastActivityDate":"2013-09-27T00:14:45.363",
+    "ClosedDate":"2013-09-30T23:28:06.667",
+    "Title":"Read access to \/data\/data\/com.android.chrome\/app_chrome\/profile on a Nexus 10",
+    "LastEditorUserId":"29417",
+    "Tags":"",
+    "LastEditDate":"2013-09-27T00:14:45.363",
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"29417",
+    "CreationDate":"2013-09-26T20:26:54.600",
+    "FavoriteCount":null,
+    "Id":"53995",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T20:26:54.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b9219aa-fdba-478a-91b8-3180e3df4a67",
+            "UserId":"29417",
+            "CloseReasonId":null,
+            "PostId":"53995",
+            "PostHistoryTypeId":"2",
+            "Id":"178755",
+            "Text":"How's this for a catch 22 - I would like to make a copy of the full folder structure starting at the path above. I have explored:* Finding ways to move the app onto the internet data storage (SD card equivalent), *before realising that it would likely still leave the app data in the protected `\/data` directory** Looking for ways to root the device, without wiping the storage, as I have read is possible for a few other mobile devices (Nexus 7 for one)* \"Temporary rooting\" the device - This looks to be most promising, but I cannot find how to do this for the Nexus 10In my desperation, have also tried to export the Chrome for Android history (least preferable solution), but:*  Chrome for Android provides no way of saving `chrome:\/\/history`* The Google based sync is missing many pages, even whole days of pages, when viewing in Portable Chrome on the desktop* The press-and-hold clicking of individual links on `chrome:\/\/history` page, would take too long.* `chrome:history` doesn't display the full URL's, so the screenshots (Power + Volume down, concurrently) I took are only semi-usefulThen there is the open tabs:* `chrome:sessions`, `chrome:tasks` present a \"Web page not found\" error, which I presume means that they are not available on the Android version.Does **anyone** have something else for me to try??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T20:26:54.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b9219aa-fdba-478a-91b8-3180e3df4a67",
+            "UserId":"29417",
+            "CloseReasonId":null,
+            "PostId":"53995",
+            "PostHistoryTypeId":"1",
+            "Id":"178756",
+            "Text":"Read access to \/data\/data\/com.android.chrome\/app_chrome\/profile on a Nexus 10"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-26T20:26:54.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b9219aa-fdba-478a-91b8-3180e3df4a67",
+            "UserId":"29417",
+            "CloseReasonId":null,
+            "PostId":"53995",
+            "PostHistoryTypeId":"3",
+            "Id":"178757",
+            "Text":""
+        },
+        {
+            "Comment":"added 593 characters in body",
+            "CreationDate":"2013-09-27T00:14:45.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"30f3a133-f0a1-4767-aec4-22eb6063fc6a",
+            "UserId":"29417",
+            "CloseReasonId":null,
+            "PostId":"53995",
+            "PostHistoryTypeId":"5",
+            "Id":"178786",
+            "Text":"How's this for a catch 22 - I would like to make a copy of the full folder structure starting at the path above. I have explored:* Finding ways to move the app onto the internet data storage (SD card equivalent), *before realising that it would likely still leave the app data in the protected `\/data` directory** Looking for ways to root the device, without wiping the storage, as I have read is possible for a few other mobile devices (Nexus 7 for one)* \"Temporary rooting\" the device - This looks to be most promising, but I cannot find how to do this for the Nexus 10In my desperation, have also tried to export the Chrome for Android history (least preferable solution), but:*  Chrome for Android provides no way of saving `chrome:\/\/history`* The Google based sync is missing many pages, even whole days of pages, when viewing in Portable Chrome on the desktop* The press-and-hold clicking of individual links on `chrome:\/\/history` page, would take too long.* `chrome:history` doesn't display the full URL's, so the screenshots (Power + Volume down, concurrently) I took are only semi-usefulThen there is the open tabs:* `chrome:sessions`, `chrome:tasks` present a \"Web page not found\" error, which I presume means that they are not available on the Android version.Does **anyone** have something else for me to try??**EDIT:**After [Dan Hulme's](http:\/\/android.stackexchange.com\/users\/12442) [pointing out](http:\/\/android.stackexchange.com\/questions\/53995\/read-access-to-data-data-com-android-chrome-app-chrome-profile-on-a-nexus-10#comment72442_53995) that there is already a [workaround to this](http:\/\/android.stackexchange.com\/questions\/28296\/full-backup-of-non-rooted-devices), I would like to change this question to ask if there is any way to mount the back file `adb backup` produces, instead of having to recover it to a like device, in order to work with the files contained with the archive."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-30T23:28:06.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"79fd130e-c65f-42c6-9ae3-0be106da392c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"53995",
+            "PostHistoryTypeId":"10",
+            "Id":"179632",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

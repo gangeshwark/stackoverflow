@@ -1,0 +1,71 @@
+{
+    "Body":"My phone is locked by Android device manager and i dont remember my password.How can I unlock it without erasing the phone.",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-07-28T11:11:35.333",
+    "ClosedDate":"2015-07-28T14:38:22.337",
+    "Title":"how to unlock my phone which is locked by Android device manager?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"118699",
+    "CreationDate":"2015-07-28T11:11:35.333",
+    "FavoriteCount":null,
+    "Id":"116549",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T11:11:35.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"562d2aff-4f4f-4be5-98f7-7c201befc16a",
+            "UserId":"118699",
+            "CloseReasonId":null,
+            "PostId":"116549",
+            "PostHistoryTypeId":"2",
+            "Id":"383330",
+            "Text":"My phone is locked by Android device manager and i dont remember my password.How can I unlock it without erasing the phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T11:11:35.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"562d2aff-4f4f-4be5-98f7-7c201befc16a",
+            "UserId":"118699",
+            "CloseReasonId":null,
+            "PostId":"116549",
+            "PostHistoryTypeId":"1",
+            "Id":"383331",
+            "Text":"how to unlock my phone which is locked by Android device manager?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T11:11:35.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"562d2aff-4f4f-4be5-98f7-7c201befc16a",
+            "UserId":"118699",
+            "CloseReasonId":null,
+            "PostId":"116549",
+            "PostHistoryTypeId":"3",
+            "Id":"383332",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-28T14:38:22.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c4c31e7-286f-4b68-b284-9d901f1016aa",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"116549",
+            "PostHistoryTypeId":"10",
+            "Id":"383411",
+            "Text":"{\"OriginalQuestionIds\":[93750],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

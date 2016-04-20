@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to change the Bluetooth packet transmission power levels in Android? If so, can you provide some references?Thanks,ABA",
+    "ViewCount":"400",
+    "LastActivityDate":"2012-01-30T10:39:08.630",
+    "ClosedDate":"2012-12-31T06:46:24.220",
+    "Title":"Control Bluetooth Transmit Power Levels",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12044",
+    "CreationDate":"2012-01-30T10:39:08.630",
+    "FavoriteCount":"1",
+    "Id":"18886",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-30T10:39:08.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"08b63a22-ec96-455c-a0fc-b4a2aadeaa25",
+            "UserId":"12044",
+            "CloseReasonId":null,
+            "PostId":"18886",
+            "PostHistoryTypeId":"2",
+            "Id":"52056",
+            "Text":"Is it possible to change the Bluetooth packet transmission power levels in Android? If so, can you provide some references?Thanks,ABA"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-30T10:39:08.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"08b63a22-ec96-455c-a0fc-b4a2aadeaa25",
+            "UserId":"12044",
+            "CloseReasonId":null,
+            "PostId":"18886",
+            "PostHistoryTypeId":"1",
+            "Id":"52057",
+            "Text":"Control Bluetooth Transmit Power Levels"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-30T10:39:08.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"08b63a22-ec96-455c-a0fc-b4a2aadeaa25",
+            "UserId":"12044",
+            "CloseReasonId":null,
+            "PostId":"18886",
+            "PostHistoryTypeId":"3",
+            "Id":"52058",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-31T06:46:24.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"12a18c71-6175-4281-8225-2457c2659001",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"18886",
+            "PostHistoryTypeId":"10",
+            "Id":"110325",
+            "Text":"{\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

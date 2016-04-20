@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Samsung Galaxy S3 Mini, I am running Android 4.2. I select check system updates, and it checks for updates, but it never updates to Android 4.4. How do I get it to update itself?",
+    "ViewCount":"18",
+    "LastActivityDate":"2014-06-01T07:14:28.440",
+    "ClosedDate":"2014-06-01T18:18:39.680",
+    "Title":"How do I get the latest Android update?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"61958",
+    "CreationDate":"2014-05-31T19:56:24.043",
+    "FavoriteCount":null,
+    "Id":"71339",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/762120\/how-do-i-get-the-latest-android-update",
+            "CreationDate":"2014-06-01T07:14:28.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"8abcc413-ea38-48f1-b8ec-1c2b1099ed91",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"71339",
+            "PostHistoryTypeId":"36",
+            "Id":"241235",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-31T19:56:24.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"44717ac4-5e2e-47f1-bfea-542a310c5733",
+            "UserId":"61958",
+            "CloseReasonId":null,
+            "PostId":"71339",
+            "PostHistoryTypeId":"2",
+            "Id":"241236",
+            "Text":"I have a Samsung Galaxy S3 Mini, I am running Android 4.2. I select check system updates, and it checks for updates, but it never updates to Android 4.4. How do I get it to update itself?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-31T19:56:24.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"44717ac4-5e2e-47f1-bfea-542a310c5733",
+            "UserId":"61958",
+            "CloseReasonId":null,
+            "PostId":"71339",
+            "PostHistoryTypeId":"1",
+            "Id":"241237",
+            "Text":"How do I get the latest Android update?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-31T19:56:24.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"44717ac4-5e2e-47f1-bfea-542a310c5733",
+            "UserId":"61958",
+            "CloseReasonId":null,
+            "PostId":"71339",
+            "PostHistoryTypeId":"3",
+            "Id":"241238",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-01T18:18:39.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc0b991f-5ccb-459c-979f-1059e9c815b7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"71339",
+            "PostHistoryTypeId":"10",
+            "Id":"241333",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

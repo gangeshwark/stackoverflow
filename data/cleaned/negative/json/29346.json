@@ -1,0 +1,83 @@
+{
+    "Body":"I want to play that audio files bookmarks media player which are stored in database . Is there any way to achieve this?I dont know actually whether the content i stored can get play or not,just have added button 'addBookmarks' whenever user clicks on it will get the time and store's into DB.First I need to know that media player will support bookmarking to play or not. If so how can I play it, please help me out to get the solution because am new to android.",
+    "ViewCount":"454",
+    "LastActivityDate":"2012-09-14T10:26:50.890",
+    "ClosedDate":"2012-12-22T19:48:12.057",
+    "Title":"How to bookmark audiobooks and play on android media player?",
+    "LastEditorUserId":"19221",
+    "Tags":"",
+    "LastEditDate":"2012-09-14T10:26:50.890",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"19221",
+    "CreationDate":"2012-09-14T05:09:09.797",
+    "FavoriteCount":null,
+    "Id":"29346",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-14T05:09:09.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b793840-c3c9-4f36-87b0-0be128fc138f",
+            "UserId":"19221",
+            "CloseReasonId":null,
+            "PostId":"29346",
+            "PostHistoryTypeId":"2",
+            "Id":"86178",
+            "Text":"I want to play that audio files bookmarks media player which are stored in database . Is there any way to achieve this?I dont know actually whether the content i stored can get play or not,just have added button 'addBookmarks' whenever user clicks on it will get the time and store's into DB.First I need to know that media player will support bookmarking to play or not. If so how can I play it, please help me out to get the solution because am new to android."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-14T05:09:09.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b793840-c3c9-4f36-87b0-0be128fc138f",
+            "UserId":"19221",
+            "CloseReasonId":null,
+            "PostId":"29346",
+            "PostHistoryTypeId":"1",
+            "Id":"86179",
+            "Text":"How to bookmark audiobooks and play on android media player?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-14T05:09:09.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b793840-c3c9-4f36-87b0-0be128fc138f",
+            "UserId":"19221",
+            "CloseReasonId":null,
+            "PostId":"29346",
+            "PostHistoryTypeId":"3",
+            "Id":"86180",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-09-14T10:26:50.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"45b68188-9384-4868-9217-ba929375b843",
+            "UserId":"19221",
+            "CloseReasonId":null,
+            "PostId":"29346",
+            "PostHistoryTypeId":"6",
+            "Id":"86230",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-22T19:48:12.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"589d9c87-d5a3-4991-9a20-ac6584fc55fd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29346",
+            "PostHistoryTypeId":"10",
+            "Id":"108344",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"How can I stop my private messages from showing up on facebook?",
+    "ViewCount":"22",
+    "LastActivityDate":"2016-02-08T18:05:56.880",
+    "ClosedDate":"2016-02-27T04:02:02.747",
+    "Title":"Private messages show up on facebook",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150361",
+    "CreationDate":"2016-02-08T18:05:56.880",
+    "FavoriteCount":null,
+    "Id":"136541",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-08T18:05:56.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"693e4dd3-664b-4cad-a1df-1faba9f8aaf1",
+            "UserId":"150361",
+            "CloseReasonId":null,
+            "PostId":"136541",
+            "PostHistoryTypeId":"2",
+            "Id":"454824",
+            "Text":"How can I stop my private messages from showing up on facebook?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-08T18:05:56.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"693e4dd3-664b-4cad-a1df-1faba9f8aaf1",
+            "UserId":"150361",
+            "CloseReasonId":null,
+            "PostId":"136541",
+            "PostHistoryTypeId":"1",
+            "Id":"454825",
+            "Text":"Private messages show up on facebook"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-08T18:05:56.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"693e4dd3-664b-4cad-a1df-1faba9f8aaf1",
+            "UserId":"150361",
+            "CloseReasonId":null,
+            "PostId":"136541",
+            "PostHistoryTypeId":"3",
+            "Id":"454826",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-27T04:02:02.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"3e526d4e-7a45-46c4-8347-1901d46890da",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"136541",
+            "PostHistoryTypeId":"10",
+            "Id":"461660",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

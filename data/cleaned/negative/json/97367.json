@@ -1,0 +1,71 @@
+{
+    "Body":"AirDroid keeps reminding me I haven't updated one of my devices but I don't own it anymore. I can't find the option to remove the older smartphone from Google Play either! Unchecking \"show in menus\" didn't work.",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-01-30T14:57:43.840",
+    "ClosedDate":"2015-01-30T19:45:59.317",
+    "Title":"How can older devices be deleted from Google Play?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15958",
+    "CreationDate":"2015-01-30T14:57:43.840",
+    "FavoriteCount":null,
+    "Id":"97367",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T14:57:43.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a3b339d-c9de-4e50-b332-4bb26c8e9ced",
+            "UserId":"15958",
+            "CloseReasonId":null,
+            "PostId":"97367",
+            "PostHistoryTypeId":"2",
+            "Id":"317479",
+            "Text":"AirDroid keeps reminding me I haven't updated one of my devices but I don't own it anymore. I can't find the option to remove the older smartphone from Google Play either! Unchecking \"show in menus\" didn't work."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T14:57:43.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a3b339d-c9de-4e50-b332-4bb26c8e9ced",
+            "UserId":"15958",
+            "CloseReasonId":null,
+            "PostId":"97367",
+            "PostHistoryTypeId":"1",
+            "Id":"317480",
+            "Text":"How can older devices be deleted from Google Play?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T14:57:43.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a3b339d-c9de-4e50-b332-4bb26c8e9ced",
+            "UserId":"15958",
+            "CloseReasonId":null,
+            "PostId":"97367",
+            "PostHistoryTypeId":"3",
+            "Id":"317481",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-30T19:45:59.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"1475a6ca-7349-4ec7-bf50-dbf87f2a7449",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"97367",
+            "PostHistoryTypeId":"10",
+            "Id":"317599",
+            "Text":"{\"OriginalQuestionIds\":[8276],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

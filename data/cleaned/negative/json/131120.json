@@ -1,0 +1,83 @@
+{
+    "Body":"I take on-line course https:\/\/class.coursera.org\/androidpart1-011\/ and have many troubles with setup.IDE (on Linux host) uses \/opt\/android-sdk-linux\/tools\/emulator which after some checks run emulator64-x86 which doesn't work! 32-bit version work great.Also PulseAudio code in Emulator purely written and leads to 100% CPU load.Also official docs suggest add -qemu -enable-kvm options.So I need a way to change path to emulator executable and\/or pass additional options:-force-32bit -noaudio -qemu -enable-kvmIntellij have special tab for this settings: https:\/\/www.jetbrains.com\/idea\/help\/run-debug-configuration-android-application.htmlBut I can't see Emulator tub in Android Studio 1.5.1:Where is Emulator settings is Android Studio 1.5.1 (shame Google for frustrating GUI)?PS Can any high score user add android-studio tag to question?",
+    "ViewCount":"1558",
+    "LastActivityDate":"2015-12-09T22:34:53.320",
+    "ClosedDate":"2015-12-10T04:33:58.490",
+    "Title":"Where is Emulator settings is Android Studio 1.5.1?",
+    "LastEditorUserId":"39717",
+    "Tags":"",
+    "LastEditDate":"2015-12-09T22:24:58.450",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"131122",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"39717",
+    "CreationDate":"2015-12-09T22:17:02.140",
+    "FavoriteCount":null,
+    "Id":"131120",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-09T22:17:02.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5b8fafe-7429-44da-a03c-2f50bb1584a9",
+            "UserId":"39717",
+            "CloseReasonId":null,
+            "PostId":"131120",
+            "PostHistoryTypeId":"2",
+            "Id":"432960",
+            "Text":"I take on-line course https:\/\/class.coursera.org\/androidpart1-011\/ and have many troubles with setup.IDE (on Linux host) uses `\/opt\/android-sdk-linux\/tools\/emulator` which after some checks run `emulator64-x86` which doesn't work! 32-bit version work great.Also PulseAudio code in Emulator purely written and leads to 100% CPU load.Also official docs suggest add `-qemu -enable-kvm` options.So I need a way to change path to `emulator` executable and\/or pass additional options:    -force-32bit -noaudio -qemu -enable-kvmIntellij have special tab for this settings: https:\/\/www.jetbrains.com\/idea\/help\/run-debug-configuration-android-application.htmlWhere is Emulator settings is Android Studio 1.5.1 (shame Google for frustrating GUI)?**PS** Can any high score user add `android-studio` tag to question?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-09T22:17:02.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5b8fafe-7429-44da-a03c-2f50bb1584a9",
+            "UserId":"39717",
+            "CloseReasonId":null,
+            "PostId":"131120",
+            "PostHistoryTypeId":"1",
+            "Id":"432961",
+            "Text":"Where is Emulator settings is Android Studio 1.5.1?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-09T22:17:02.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5b8fafe-7429-44da-a03c-2f50bb1584a9",
+            "UserId":"39717",
+            "CloseReasonId":null,
+            "PostId":"131120",
+            "PostHistoryTypeId":"3",
+            "Id":"432962",
+            "Text":""
+        },
+        {
+            "Comment":"added 147 characters in body",
+            "CreationDate":"2015-12-09T22:24:58.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f5ee25a-4f59-4c41-9820-8ae3623c1963",
+            "UserId":"39717",
+            "CloseReasonId":null,
+            "PostId":"131120",
+            "PostHistoryTypeId":"5",
+            "Id":"432964",
+            "Text":"I take on-line course https:\/\/class.coursera.org\/androidpart1-011\/ and have many troubles with setup.IDE (on Linux host) uses `\/opt\/android-sdk-linux\/tools\/emulator` which after some checks run `emulator64-x86` which doesn't work! 32-bit version work great.Also PulseAudio code in Emulator purely written and leads to 100% CPU load.Also official docs suggest add `-qemu -enable-kvm` options.So I need a way to change path to `emulator` executable and\/or pass additional options:    -force-32bit -noaudio -qemu -enable-kvmIntellij have special tab for this settings: https:\/\/www.jetbrains.com\/idea\/help\/run-debug-configuration-android-application.htmlBut I can't see Emulator tub in Android Studio 1.5.1:[![enter image description here][1]][1]Where is Emulator settings is Android Studio 1.5.1 (shame Google for frustrating GUI)?**PS** Can any high score user add `android-studio` tag to question?  [1]: http:\/\/i.stack.imgur.com\/Mc4Nh.png"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-12-10T04:33:58.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"583b65e4-2365-4dc5-9a6c-221e1d59c99d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"131120",
+            "PostHistoryTypeId":"10",
+            "Id":"433050",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I want to install apps on internal sd card but instead all apps get installed on phone storage which is low in memory",
+    "ViewCount":"317",
+    "LastActivityDate":"2014-12-30T18:03:21.857",
+    "ClosedDate":"2015-01-01T03:30:18.933",
+    "Title":"Internal SD card as default storage",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86741",
+    "CreationDate":"2014-12-28T09:14:24.183",
+    "FavoriteCount":null,
+    "Id":"93024",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-28T09:14:24.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"094f683d-23e7-4a44-944a-7db9768e60bb",
+            "UserId":"86741",
+            "CloseReasonId":null,
+            "PostId":"93024",
+            "PostHistoryTypeId":"2",
+            "Id":"304947",
+            "Text":"I want to install apps on internal sd card but instead all apps get installed on phone storage which is low in memory"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-28T09:14:24.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"094f683d-23e7-4a44-944a-7db9768e60bb",
+            "UserId":"86741",
+            "CloseReasonId":null,
+            "PostId":"93024",
+            "PostHistoryTypeId":"1",
+            "Id":"304948",
+            "Text":"Internal SD card as default storage"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-28T09:14:24.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"094f683d-23e7-4a44-944a-7db9768e60bb",
+            "UserId":"86741",
+            "CloseReasonId":null,
+            "PostId":"93024",
+            "PostHistoryTypeId":"3",
+            "Id":"304949",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-01T03:30:18.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"79e9a730-650b-471d-b09a-50aee9235577",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"93024",
+            "PostHistoryTypeId":"10",
+            "Id":"306396",
+            "Text":"{\"OriginalQuestionIds\":[43517],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":23379,\"DisplayName\":\"Sid\"}]}"
+        }
+    ]
+}

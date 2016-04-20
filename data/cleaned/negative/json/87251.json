@@ -1,0 +1,71 @@
+{
+    "Body":"From the technical details it seems that HTC one (m7) has 2Gb of RAM, but if I check the RAM usage the smartphone shows that I am using around 900 Mb of 1.5Gb. There is something that I do not understand?",
+    "ViewCount":"50",
+    "LastActivityDate":"2014-11-10T07:05:31.870",
+    "ClosedDate":"2014-11-10T17:27:52.803",
+    "Title":"RAM of HTC one (m7)?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"43163",
+    "CreationDate":"2014-11-10T07:05:31.870",
+    "FavoriteCount":null,
+    "Id":"87251",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T07:05:31.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d20699d-cd7c-4717-86b3-c6d69570fd68",
+            "UserId":"43163",
+            "CloseReasonId":null,
+            "PostId":"87251",
+            "PostHistoryTypeId":"2",
+            "Id":"286949",
+            "Text":"From the technical details it seems that HTC one (m7) has 2Gb of RAM, but if I check the RAM usage the smartphone shows that I am using around 900 Mb of 1.5Gb. There is something that I do not understand?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T07:05:31.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d20699d-cd7c-4717-86b3-c6d69570fd68",
+            "UserId":"43163",
+            "CloseReasonId":null,
+            "PostId":"87251",
+            "PostHistoryTypeId":"1",
+            "Id":"286950",
+            "Text":"RAM of HTC one (m7)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T07:05:31.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d20699d-cd7c-4717-86b3-c6d69570fd68",
+            "UserId":"43163",
+            "CloseReasonId":null,
+            "PostId":"87251",
+            "PostHistoryTypeId":"3",
+            "Id":"286951",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-10T17:27:52.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"299c0504-0002-467e-a3a4-e60eacc0e9d3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"87251",
+            "PostHistoryTypeId":"10",
+            "Id":"287109",
+            "Text":"{\"OriginalQuestionIds\":[20256],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

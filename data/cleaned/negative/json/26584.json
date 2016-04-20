@@ -1,0 +1,83 @@
+{
+    "Body":"How can I enable blue\/red 3D for yt3d videos in the YouTube android app? I tried watching a yt3d-enabled video on my Nexus 7 but it just plays normally, with seemingly no way to enable 3D.",
+    "ViewCount":"172",
+    "LastActivityDate":"2012-07-28T01:06:13.513",
+    "ClosedDate":"2013-07-17T08:59:08.157",
+    "Title":"YouTube 3D on Nexus 7",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17484",
+    "CreationDate":"2012-07-28T01:06:13.513",
+    "FavoriteCount":"1",
+    "Id":"26584",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-28T01:06:13.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9b4bb68-f943-441c-b811-d6efd1891ad6",
+            "UserId":"17484",
+            "CloseReasonId":null,
+            "PostId":"26584",
+            "PostHistoryTypeId":"2",
+            "Id":"77048",
+            "Text":"How can I enable blue\/red 3D for yt3d videos in the YouTube android app? I tried watching a yt3d-enabled video on my Nexus 7 but it just plays normally, with seemingly no way to enable 3D."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-28T01:06:13.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9b4bb68-f943-441c-b811-d6efd1891ad6",
+            "UserId":"17484",
+            "CloseReasonId":null,
+            "PostId":"26584",
+            "PostHistoryTypeId":"1",
+            "Id":"77049",
+            "Text":"YouTube 3D on Nexus 7"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-28T01:06:13.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9b4bb68-f943-441c-b811-d6efd1891ad6",
+            "UserId":"17484",
+            "CloseReasonId":null,
+            "PostId":"26584",
+            "PostHistoryTypeId":"3",
+            "Id":"77050",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/229125499467730944",
+            "CreationDate":"2012-07-28T08:05:50.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"570576c1-7a42-4b52-900f-8c514aee58a7",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"26584",
+            "PostHistoryTypeId":"25",
+            "Id":"77068",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-17T08:59:08.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f78f623-faae-42c0-abc8-b21cf8db85de",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26584",
+            "PostHistoryTypeId":"10",
+            "Id":"160672",
+            "Text":"{\"OriginalQuestionIds\":[22778],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

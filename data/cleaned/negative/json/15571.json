@@ -1,0 +1,71 @@
+{
+    "Body":"anonye knows if there's an Android video player that supports chapters embedded into .mp4 videos?Similar to the player on IOS.Thank you",
+    "ViewCount":"870",
+    "LastActivityDate":"2014-08-24T01:36:52.857",
+    "ClosedDate":"2014-08-24T21:29:23.267",
+    "Title":"Video player with chapter support?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9584",
+    "CreationDate":"2011-11-12T17:00:49.250",
+    "FavoriteCount":"1",
+    "Id":"15571",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-12T17:00:49.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"52294b5d-ea8e-47d5-b7b5-a9f7ba8a1993",
+            "UserId":"9584",
+            "CloseReasonId":null,
+            "PostId":"15571",
+            "PostHistoryTypeId":"2",
+            "Id":"41825",
+            "Text":"anonye knows if there's an Android video player that supports chapters embedded into .mp4 videos?Similar to the player on IOS.Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-12T17:00:49.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"52294b5d-ea8e-47d5-b7b5-a9f7ba8a1993",
+            "UserId":"9584",
+            "CloseReasonId":null,
+            "PostId":"15571",
+            "PostHistoryTypeId":"1",
+            "Id":"41826",
+            "Text":"Video player with chapter support?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-12T17:00:49.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"52294b5d-ea8e-47d5-b7b5-a9f7ba8a1993",
+            "UserId":"9584",
+            "CloseReasonId":null,
+            "PostId":"15571",
+            "PostHistoryTypeId":"3",
+            "Id":"41827",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-08-24T21:29:23.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"39648965-ef39-44dd-96aa-3384a4486990",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"15571",
+            "PostHistoryTypeId":"10",
+            "Id":"265836",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

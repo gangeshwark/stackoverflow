@@ -1,0 +1,71 @@
+{
+    "Body":"I was excited when they announced the official Google Reader app but I can't get it on the market.I am using my Android Device from Kenya, Africa and would want to know whether being in this region affect availability of apps on the market and if so, how to work around it.I tried searching on the market as pub:\"Google Inc.\" and this did not help",
+    "ViewCount":"165",
+    "LastActivityDate":"2010-12-17T07:44:45.253",
+    "ClosedDate":"2014-08-04T10:45:52.793",
+    "Title":"Google Reader Not Available in International Market",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1219",
+    "CreationDate":"2010-12-16T10:08:21.217",
+    "FavoriteCount":null,
+    "Id":"3719",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-16T10:08:21.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb1358e8-4d6d-4d74-8ef8-1c8792a15d50",
+            "UserId":"1219",
+            "CloseReasonId":null,
+            "PostId":"3719",
+            "PostHistoryTypeId":"2",
+            "Id":"7650",
+            "Text":"I was excited when they announced the official Google Reader app but I can't get it on the market.I am using my Android Device from Kenya, Africa and would want to know whether being in this region affect availability of apps on the market and if so, how to work around it.I tried searching on the market as pub:\"Google Inc.\" and this did not help"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-16T10:08:21.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb1358e8-4d6d-4d74-8ef8-1c8792a15d50",
+            "UserId":"1219",
+            "CloseReasonId":null,
+            "PostId":"3719",
+            "PostHistoryTypeId":"1",
+            "Id":"7651",
+            "Text":"Google Reader Not Available in International Market"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-16T10:08:21.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb1358e8-4d6d-4d74-8ef8-1c8792a15d50",
+            "UserId":"1219",
+            "CloseReasonId":null,
+            "PostId":"3719",
+            "PostHistoryTypeId":"3",
+            "Id":"7652",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-08-04T10:45:52.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"8aa10a68-6445-4c05-ac92-7b053c2be639",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"3719",
+            "PostHistoryTypeId":"10",
+            "Id":"259691",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

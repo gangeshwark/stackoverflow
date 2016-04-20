@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to remove device(s) from My Market Account?  How can I disassociate a device I don't have anymore from my Google Market account? This is a device that I used to have working but it's not anymore, so I don't want it to show up in my Google Market account.",
+    "ViewCount":"623",
+    "LastActivityDate":"2012-02-24T15:57:21.007",
+    "ClosedDate":"2012-02-24T16:31:34.667",
+    "Title":"disassociate a device I don't have anymore from market account?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"19875",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5699",
+    "CreationDate":"2012-02-24T09:40:52.833",
+    "FavoriteCount":null,
+    "Id":"19861",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-24T09:40:52.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c0a5036-2164-472c-8217-9a4ae086634c",
+            "UserId":"5699",
+            "CloseReasonId":null,
+            "PostId":"19861",
+            "PostHistoryTypeId":"2",
+            "Id":"55029",
+            "Text":"How can I disassociate a device I don't have anymore from my Google Market account? This is a device that I used to have working but it's not anymore, so I don't want it to show up in my Google Market account."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-24T09:40:52.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c0a5036-2164-472c-8217-9a4ae086634c",
+            "UserId":"5699",
+            "CloseReasonId":null,
+            "PostId":"19861",
+            "PostHistoryTypeId":"1",
+            "Id":"55030",
+            "Text":"disassociate a device I don't have anymore from market account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-24T09:40:52.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c0a5036-2164-472c-8217-9a4ae086634c",
+            "UserId":"5699",
+            "CloseReasonId":null,
+            "PostId":"19861",
+            "PostHistoryTypeId":"3",
+            "Id":"55031",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-02-24T16:31:36.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"724f8351-c965-44df-b48e-39128b097d3f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19861",
+            "PostHistoryTypeId":"5",
+            "Id":"55080",
+            "Text":"> **Possible Duplicate:**  > [How to remove device(s) from My Market Account?](http:\/\/android.stackexchange.com\/questions\/8276\/how-to-remove-devices-from-my-market-account)  How can I disassociate a device I don't have anymore from my Google Market account? This is a device that I used to have working but it's not anymore, so I don't want it to show up in my Google Market account."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-02-24T16:31:34.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"6af954ac-355a-4555-9bf2-516b89c9f6d8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"19861",
+            "PostHistoryTypeId":"10",
+            "Id":"55081",
+            "Text":"{\"OriginalQuestionIds\":[8276],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I need answer that how much memory would take any android os on devices. can i root device and install kitkat os which device have already gingerbread .",
+    "ViewCount":"373",
+    "LastActivityDate":"2014-11-10T12:55:51.593",
+    "ClosedDate":"2014-11-15T19:45:06.100",
+    "Title":"HOW MUCH android OS TAKE MEMORY IN DEVICES",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79559",
+    "CreationDate":"2014-11-10T12:49:36.530",
+    "FavoriteCount":null,
+    "Id":"87270",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T12:49:36.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9515bbb-7e0a-465e-a964-a33ccdb92d3f",
+            "UserId":"79559",
+            "CloseReasonId":null,
+            "PostId":"87270",
+            "PostHistoryTypeId":"2",
+            "Id":"287031",
+            "Text":"I need answer that how much memory would take any android os on devices. can i root device and install kitkat os which device have already gingerbread ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T12:49:36.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9515bbb-7e0a-465e-a964-a33ccdb92d3f",
+            "UserId":"79559",
+            "CloseReasonId":null,
+            "PostId":"87270",
+            "PostHistoryTypeId":"1",
+            "Id":"287032",
+            "Text":"HOW MUCH android OS TAKE MEMORY IN DEVICES"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-10T12:49:36.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9515bbb-7e0a-465e-a964-a33ccdb92d3f",
+            "UserId":"79559",
+            "CloseReasonId":null,
+            "PostId":"87270",
+            "PostHistoryTypeId":"3",
+            "Id":"287033",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2014-11-15T19:45:06.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e076423-0abb-48ee-995d-871bb8358074",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"87270",
+            "PostHistoryTypeId":"10",
+            "Id":"288841",
+            "Text":"{\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"how do I recover my contacts from my freinds Google email account he lost his phone and when I go to gmail it won't except his email account only mine because it's my phone.",
+    "ViewCount":"56",
+    "LastActivityDate":"2015-08-26T14:02:27.083",
+    "ClosedDate":"2015-08-27T15:09:53.077",
+    "Title":"im tring to recover my freinds contacts but when i go to gmail it will not let me put in his gmail account how do i do this",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"123622",
+    "CreationDate":"2015-08-25T01:42:06.597",
+    "FavoriteCount":null,
+    "Id":"120215",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-25T01:42:06.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9e0c691-7adb-44ed-9e15-de1ea91a5fcf",
+            "UserId":"123622",
+            "CloseReasonId":null,
+            "PostId":"120215",
+            "PostHistoryTypeId":"2",
+            "Id":"394044",
+            "Text":"how do I recover my contacts from my freinds Google email account he lost his phone and when I go to gmail it won't except his email account only mine because it's my phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-25T01:42:06.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9e0c691-7adb-44ed-9e15-de1ea91a5fcf",
+            "UserId":"123622",
+            "CloseReasonId":null,
+            "PostId":"120215",
+            "PostHistoryTypeId":"1",
+            "Id":"394045",
+            "Text":"im tring to recover my freinds contacts but when i go to gmail it will not let me put in his gmail account how do i do this"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-25T01:42:06.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9e0c691-7adb-44ed-9e15-de1ea91a5fcf",
+            "UserId":"123622",
+            "CloseReasonId":null,
+            "PostId":"120215",
+            "PostHistoryTypeId":"3",
+            "Id":"394046",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-08-27T15:09:53.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff3cef95-9b98-4a6c-a2d9-c193546d9388",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"120215",
+            "PostHistoryTypeId":"10",
+            "Id":"394922",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

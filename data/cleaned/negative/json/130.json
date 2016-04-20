@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  I checked 'use as default' when choosing the default launcher, but now I can't start ADW.Launcher any more  I've installed and set up LauncherPro as a replacement launcher app. How do I reset the phone to use the Android default launcher app?",
+    "ViewCount":"13357",
+    "LastActivityDate":"2010-09-13T20:11:27.093",
+    "ClosedDate":"2011-10-24T18:10:14.110",
+    "Title":"How do I reset the launcher app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"132",
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36",
+    "CreationDate":"2010-09-13T20:08:47.503",
+    "FavoriteCount":"0",
+    "Id":"130",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T20:08:47.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f68dbbb-c988-4440-9a5f-dcc217bd7e74",
+            "UserId":"36",
+            "CloseReasonId":null,
+            "PostId":"130",
+            "PostHistoryTypeId":"2",
+            "Id":"259",
+            "Text":"I've installed and set up LauncherPro as a replacement launcher app. How do I reset the phone to use the Android default launcher app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T20:08:47.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f68dbbb-c988-4440-9a5f-dcc217bd7e74",
+            "UserId":"36",
+            "CloseReasonId":null,
+            "PostId":"130",
+            "PostHistoryTypeId":"1",
+            "Id":"260",
+            "Text":"How do I reset the launcher app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T20:08:47.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f68dbbb-c988-4440-9a5f-dcc217bd7e74",
+            "UserId":"36",
+            "CloseReasonId":null,
+            "PostId":"130",
+            "PostHistoryTypeId":"3",
+            "Id":"261",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-10-24T18:10:14.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"257def21-9598-4e9d-8f34-70abb52cb0b6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"130",
+            "PostHistoryTypeId":"5",
+            "Id":"39820",
+            "Text":"> **Possible Duplicate:**  > [I checked 'use as default' when choosing the default launcher, but now I can't start ADW.Launcher any more](http:\/\/android.stackexchange.com\/questions\/6042\/i-checked-use-as-default-when-choosing-the-default-launcher-but-now-i-cant-s)  I've installed and set up LauncherPro as a replacement launcher app. How do I reset the phone to use the Android default launcher app?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-10-24T18:10:14.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccf2c1f0-4501-4bf3-a414-687f610731fb",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"130",
+            "PostHistoryTypeId":"10",
+            "Id":"39821",
+            "Text":"{\"OriginalQuestionIds\":[6042],\"Voters\":[{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

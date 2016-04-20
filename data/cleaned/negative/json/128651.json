@@ -1,0 +1,83 @@
+{
+    "Body":"When I try to install an app that is 13 mb it is downloaded but when the part of the installation comes it can't be installed it says I don't have enough space. I tried downloading the apk file of that application and still I downloaded it successfuly and I couldn't install it because it said i don't have enough memory even if I have 250mb. I am using Lg L Fino and It is rooted. Please help if you know how. I appreciate all of your answers and I will give you more infromations if needed. Thanks in advance!",
+    "ViewCount":"298",
+    "LastActivityDate":"2015-11-12T18:44:00.313",
+    "ClosedDate":"2015-11-12T15:53:04.297",
+    "Title":"I have enough memory but I can't install anything!",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-11-12T18:44:00.313",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"136470",
+    "CreationDate":"2015-11-12T14:25:50.740",
+    "FavoriteCount":null,
+    "Id":"128651",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-12T14:25:50.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dece469-acb4-4eec-92e2-d229e1d1b857",
+            "UserId":"136470",
+            "CloseReasonId":null,
+            "PostId":"128651",
+            "PostHistoryTypeId":"2",
+            "Id":"423353",
+            "Text":"When I try to install an app that is 13 mb it is downloaded but when the part of the installation comes it can't be installed it says I don't have enough space. I tried downloading the apk file of that application and still I downloaded it successfuly and I couldn't install it because it said i don't have enough memory even if I have 250mb. I am using Lg L Fino and It is rooted. Please help if you know how. I appreciate all of your answers and I will give you more infromations if needed. Thanks in advance!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-12T14:25:50.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dece469-acb4-4eec-92e2-d229e1d1b857",
+            "UserId":"136470",
+            "CloseReasonId":null,
+            "PostId":"128651",
+            "PostHistoryTypeId":"1",
+            "Id":"423354",
+            "Text":"I have enough memory but I can't install anything!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-12T14:25:50.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dece469-acb4-4eec-92e2-d229e1d1b857",
+            "UserId":"136470",
+            "CloseReasonId":null,
+            "PostId":"128651",
+            "PostHistoryTypeId":"3",
+            "Id":"423355",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-12T15:53:04.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"4eccf04a-fefb-44bb-92aa-bb38a56dc226",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"128651",
+            "PostHistoryTypeId":"10",
+            "Id":"423385",
+            "Text":"{\"OriginalQuestionIds\":[25200],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-11-12T18:44:00.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"c74d4f69-64e3-48d1-bd4c-dc5c5fa9b3c9",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"128651",
+            "PostHistoryTypeId":"6",
+            "Id":"423461",
+            "Text":""
+        }
+    ]
+}

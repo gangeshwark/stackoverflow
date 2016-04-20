@@ -1,0 +1,71 @@
+{
+    "Body":"For some reason, I don't get email notifications in folders outside of the default 'Inbox' folder. When I check my settings for the account, 'Email notifications' is checked. When I go to \"Folder settings\" and scroll down to my Other\/XYZ folder, I have 'Sync this folder' checked off.However, I'm still not getting any email notifications when a sub folder receives an email. Any idea why this might be the case? and if there's a way for me to fix this?",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-04-10T21:03:03.883",
+    "ClosedDate":"2015-04-11T04:08:19.060",
+    "Title":"Why don't I get notifications for sub-folders using Gmail app? Notifications is checked",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101917",
+    "CreationDate":"2015-04-10T21:03:03.883",
+    "FavoriteCount":null,
+    "Id":"105132",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-10T21:03:03.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecfcce31-0e49-4a0f-8b86-3d1dd1d51f03",
+            "UserId":"101917",
+            "CloseReasonId":null,
+            "PostId":"105132",
+            "PostHistoryTypeId":"2",
+            "Id":"343443",
+            "Text":"For some reason, I don't get email notifications in folders outside of the default 'Inbox' folder. When I check my settings for the account, 'Email notifications' is checked. When I go to \"Folder settings\" and scroll down to my Other\/XYZ folder, I have 'Sync this folder' checked off.However, I'm still not getting any email notifications when a sub folder receives an email. Any idea why this might be the case? and if there's a way for me to fix this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-10T21:03:03.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecfcce31-0e49-4a0f-8b86-3d1dd1d51f03",
+            "UserId":"101917",
+            "CloseReasonId":null,
+            "PostId":"105132",
+            "PostHistoryTypeId":"1",
+            "Id":"343444",
+            "Text":"Why don't I get notifications for sub-folders using Gmail app? Notifications is checked"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-10T21:03:03.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecfcce31-0e49-4a0f-8b86-3d1dd1d51f03",
+            "UserId":"101917",
+            "CloseReasonId":null,
+            "PostId":"105132",
+            "PostHistoryTypeId":"3",
+            "Id":"343445",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-11T04:08:19.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"706e076b-e85a-4a42-a780-e20faaac59a7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"105132",
+            "PostHistoryTypeId":"10",
+            "Id":"343539",
+            "Text":"{\"OriginalQuestionIds\":[26956],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

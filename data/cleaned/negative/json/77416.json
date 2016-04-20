@@ -1,0 +1,71 @@
+{
+    "Body":"I have Android device Samsung S4.Is that possible to turn off Battery Charging when my phone connected to my Computer via USB Cable.Any ways to turn off or disable it from settings?",
+    "ViewCount":"6478",
+    "LastActivityDate":"2014-07-17T05:09:57.370",
+    "ClosedDate":"2014-07-17T14:50:28.367",
+    "Title":"How can i turn off charging when my phone connected to my computer?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"77417",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"51106",
+    "CreationDate":"2014-07-17T04:47:55.020",
+    "FavoriteCount":"1",
+    "Id":"77416",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-17T04:47:55.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b7742e6-8d5b-46f9-8a46-d732d12be37c",
+            "UserId":"51106",
+            "CloseReasonId":null,
+            "PostId":"77416",
+            "PostHistoryTypeId":"2",
+            "Id":"255178",
+            "Text":"I have Android device Samsung S4.Is that possible to turn off Battery Charging when my phone connected to my Computer via USB Cable.Any ways to turn off or disable it from settings?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-17T04:47:55.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b7742e6-8d5b-46f9-8a46-d732d12be37c",
+            "UserId":"51106",
+            "CloseReasonId":null,
+            "PostId":"77416",
+            "PostHistoryTypeId":"1",
+            "Id":"255179",
+            "Text":"How can i turn off charging when my phone connected to my computer?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-17T04:47:55.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b7742e6-8d5b-46f9-8a46-d732d12be37c",
+            "UserId":"51106",
+            "CloseReasonId":null,
+            "PostId":"77416",
+            "PostHistoryTypeId":"3",
+            "Id":"255180",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-17T14:50:28.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"c77bb27d-1cd3-4c4a-8cf1-abb3d4f1d5ee",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77416",
+            "PostHistoryTypeId":"10",
+            "Id":"255330",
+            "Text":"{\"OriginalQuestionIds\":[15001],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

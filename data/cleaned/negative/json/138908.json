@@ -1,0 +1,71 @@
+{
+    "Body":"I have an little Counter App created with this Tutorial:http:\/\/simpledeveloper.com\/how-to-build-simple-counter-android-app\/But if I close the app through the \"Task Manager\" and reopen it, the counter Value is 0How can I save the value?",
+    "ViewCount":"10",
+    "LastActivityDate":"2016-03-05T20:53:29.637",
+    "ClosedDate":"2016-03-06T00:57:11.553",
+    "Title":"How can I save an Counter Value if I close the App",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107784",
+    "CreationDate":"2016-03-05T20:53:29.637",
+    "FavoriteCount":null,
+    "Id":"138908",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T20:53:29.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"28231fa0-663f-4d7f-b2dc-9ec515d8046b",
+            "UserId":"107784",
+            "CloseReasonId":null,
+            "PostId":"138908",
+            "PostHistoryTypeId":"2",
+            "Id":"464533",
+            "Text":"I have an little Counter App created with this Tutorial:http:\/\/simpledeveloper.com\/how-to-build-simple-counter-android-app\/But if I close the app through the \"Task Manager\" and reopen it, the counter Value is 0How can I save the value?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T20:53:29.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"28231fa0-663f-4d7f-b2dc-9ec515d8046b",
+            "UserId":"107784",
+            "CloseReasonId":null,
+            "PostId":"138908",
+            "PostHistoryTypeId":"1",
+            "Id":"464534",
+            "Text":"How can I save an Counter Value if I close the App"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T20:53:29.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"28231fa0-663f-4d7f-b2dc-9ec515d8046b",
+            "UserId":"107784",
+            "CloseReasonId":null,
+            "PostId":"138908",
+            "PostHistoryTypeId":"3",
+            "Id":"464535",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-06T00:57:11.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"30ffcb9c-6830-4346-939f-c46cb0c1ea31",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138908",
+            "PostHistoryTypeId":"10",
+            "Id":"464569",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

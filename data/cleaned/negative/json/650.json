@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I perform a full pre-rooting backup of an Android phone?  I am considering rooting my Motorola Droid, and I am wondering if it is possible to revert back to the exact state that my phone is in right now (ie unrooted, with all my apps, settings, etc).I know I can backup all the files on my SD card (in fact I have that job running right now).  But how can I backup\/restore the phone's internal memory?Is this what SPRecovery does?  All of the 'how-to-root-your-phone' tutorials say that you start by installing SPRecovery, but I can't find any details on what, exactly, SPRecovery does, and how to use it.  I suspect it does more than what is necessary to load a rooted ROM, but I just can't find any details.",
+    "ViewCount":"874",
+    "LastActivityDate":"2010-09-16T04:49:18.330",
+    "ClosedDate":"2012-03-05T22:48:14.110",
+    "Title":"Backup\/Restore Android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"17",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2010-07-21T19:34:36.253",
+    "FavoriteCount":"4",
+    "Id":"650",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-07-21T19:34:36.253",
+            "UserDisplayName":"pkaeding",
+            "RevisionGUID":"7854fa8a-1ed0-4266-9fdb-b824dabbe8e7",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"650",
+            "PostHistoryTypeId":"2",
+            "Id":"1251",
+            "Text":"I am considering rooting my Motorola Droid, and I am wondering if it is possible to revert back to the exact state that my phone is in right now (ie unrooted, with all my apps, settings, etc).I know I can backup all the files on my SD card (in fact I have that job running right now).  But how can I backup\/restore the phone's internal memory?Is this what SPRecovery does?  All of the 'how-to-root-your-phone' tutorials say that you start by installing SPRecovery, but I can't find any details on what, exactly, SPRecovery does, and how to use it.  I suspect it does more than what is necessary to load a rooted ROM, but I just can't find any details."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-07-21T19:34:36.253",
+            "UserDisplayName":"pkaeding",
+            "RevisionGUID":"7854fa8a-1ed0-4266-9fdb-b824dabbe8e7",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"650",
+            "PostHistoryTypeId":"1",
+            "Id":"1252",
+            "Text":"Backup\/Restore Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-07-21T19:34:36.253",
+            "UserDisplayName":"pkaeding",
+            "RevisionGUID":"7854fa8a-1ed0-4266-9fdb-b824dabbe8e7",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"650",
+            "PostHistoryTypeId":"3",
+            "Id":"1253",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-05T22:48:14.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"127db557-b848-4218-a4a6-22b4a08cc836",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"650",
+            "PostHistoryTypeId":"5",
+            "Id":"56453",
+            "Text":"> **Possible Duplicate:**  > [How do I perform a full pre-rooting backup of an Android phone?](http:\/\/android.stackexchange.com\/questions\/5667\/how-do-i-perform-a-full-pre-rooting-backup-of-an-android-phone)  I am considering rooting my Motorola Droid, and I am wondering if it is possible to revert back to the exact state that my phone is in right now (ie unrooted, with all my apps, settings, etc).I know I can backup all the files on my SD card (in fact I have that job running right now).  But how can I backup\/restore the phone's internal memory?Is this what SPRecovery does?  All of the 'how-to-root-your-phone' tutorials say that you start by installing SPRecovery, but I can't find any details on what, exactly, SPRecovery does, and how to use it.  I suspect it does more than what is necessary to load a rooted ROM, but I just can't find any details."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-05T22:48:14.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d9f1255-3c3e-4007-9728-39e78c4f05d1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"650",
+            "PostHistoryTypeId":"10",
+            "Id":"56454",
+            "Text":"{\"OriginalQuestionIds\":[5667],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Samsung Galaxy S4 Mini and when I go to download certain apps and it will not let me because 'it is not available in my country', however other people within my country have these certain apps and I am confused.",
+    "ViewCount":"1910",
+    "LastActivityDate":"2014-10-26T15:46:26.480",
+    "ClosedDate":"2014-10-26T20:17:52.523",
+    "Title":"How do I download an app from another country?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-10-26T14:12:58.697",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"85861",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"77757",
+    "CreationDate":"2014-10-26T12:07:13.643",
+    "FavoriteCount":null,
+    "Id":"85849",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-26T12:07:13.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"ceac35df-4dad-4111-9c9f-943e33625d90",
+            "UserId":"77757",
+            "CloseReasonId":null,
+            "PostId":"85849",
+            "PostHistoryTypeId":"2",
+            "Id":"282235",
+            "Text":"I have a Samsung Galaxy S4 Mini and when I go to download certain apps and it will not let me because 'it is not available in my country', however other people within my country have these certain apps and I am confused."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-26T12:07:13.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"ceac35df-4dad-4111-9c9f-943e33625d90",
+            "UserId":"77757",
+            "CloseReasonId":null,
+            "PostId":"85849",
+            "PostHistoryTypeId":"1",
+            "Id":"282236",
+            "Text":"How do I download an app from another country?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-26T12:07:13.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"ceac35df-4dad-4111-9c9f-943e33625d90",
+            "UserId":"77757",
+            "CloseReasonId":null,
+            "PostId":"85849",
+            "PostHistoryTypeId":"3",
+            "Id":"282237",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-10-26T14:12:58.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"8fb57a11-2cb9-40c0-ae8b-2a7198d6459a",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"85849",
+            "PostHistoryTypeId":"6",
+            "Id":"282251",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-26T20:17:52.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"8d9c4236-fb3e-424f-baf2-9b92b6ed276c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"85849",
+            "PostHistoryTypeId":"10",
+            "Id":"282337",
+            "Text":"{\"OriginalQuestionIds\":[12538],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

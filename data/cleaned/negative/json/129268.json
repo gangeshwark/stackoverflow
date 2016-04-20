@@ -1,0 +1,71 @@
+{
+    "Body":"I am a developer who develops one of the main digital version of newspaper in my country.  Many (not most) tend to write what they think about politics instead posting valuable comments. I would like to clean this mess on my app's Google Play page.What would be more appropriate action as a developer - flagging comments as spam or just clicking vote down? What is Your experience?In comment:   This newspapers is b** sh**. This newspaper turn your brain into sh**. Do not read this newspaper.",
+    "ViewCount":"31",
+    "LastActivityDate":"2015-11-19T10:45:12.453",
+    "ClosedDate":"2015-11-20T05:43:46.553",
+    "Title":"Spam in comment section on Google Play - what is more powerfull vote down or flag as spam?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14546",
+    "CreationDate":"2015-11-19T10:34:29.163",
+    "FavoriteCount":null,
+    "Id":"129268",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-19T10:34:29.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd400cca-ab54-4499-b322-4555c42fce27",
+            "UserId":"14546",
+            "CloseReasonId":null,
+            "PostId":"129268",
+            "PostHistoryTypeId":"2",
+            "Id":"425842",
+            "Text":"I am a developer who develops one of the main digital version of newspaper in my country.  Many (not most) tend to write what they think about politics instead posting valuable comments. I would like to clean this mess on my app's Google Play page. What would be more appropriate action as a developer - flagging comments as spam or just clicking vote down? What is Your experience?[![enter image description here][1]][1]In comment: > This newspapers is b** sh**. This newspaper turn your brain into sh**. Do not read this newspaper.  [1]: http:\/\/i.stack.imgur.com\/ABVVh.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-19T10:34:29.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd400cca-ab54-4499-b322-4555c42fce27",
+            "UserId":"14546",
+            "CloseReasonId":null,
+            "PostId":"129268",
+            "PostHistoryTypeId":"1",
+            "Id":"425843",
+            "Text":"Spam in comment section on Google Play - what is more powerfull vote down or flag as spam?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-19T10:34:29.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd400cca-ab54-4499-b322-4555c42fce27",
+            "UserId":"14546",
+            "CloseReasonId":null,
+            "PostId":"129268",
+            "PostHistoryTypeId":"3",
+            "Id":"425844",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-11-20T05:43:46.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7ec503f-c512-4d16-83c0-2e486d689370",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"129268",
+            "PostHistoryTypeId":"10",
+            "Id":"426179",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

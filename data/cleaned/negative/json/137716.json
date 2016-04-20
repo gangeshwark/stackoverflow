@@ -1,0 +1,71 @@
+{
+    "Body":"If I turn on wlan, tethering is off. If I turn tethering on, wlan is off.Say I have an internet connection and I want my phone to amplify existing wifi connection. How would I do so?",
+    "ViewCount":"8",
+    "LastActivityDate":"2016-02-21T17:36:21.570",
+    "ClosedDate":"2016-02-21T20:45:22.500",
+    "Title":"In android, how come thetherinng and wlan can't be on at the same time?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129283",
+    "CreationDate":"2016-02-21T17:36:21.570",
+    "FavoriteCount":null,
+    "Id":"137716",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-21T17:36:21.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"8215531f-099a-4a0b-8cc7-af01e33b5096",
+            "UserId":"129283",
+            "CloseReasonId":null,
+            "PostId":"137716",
+            "PostHistoryTypeId":"2",
+            "Id":"459528",
+            "Text":"If I turn on wlan, tethering is off. If I turn tethering on, wlan is off.Say I have an internet connection and I want my phone to amplify existing wifi connection. How would I do so?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-21T17:36:21.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"8215531f-099a-4a0b-8cc7-af01e33b5096",
+            "UserId":"129283",
+            "CloseReasonId":null,
+            "PostId":"137716",
+            "PostHistoryTypeId":"1",
+            "Id":"459529",
+            "Text":"In android, how come thetherinng and wlan can't be on at the same time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-21T17:36:21.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"8215531f-099a-4a0b-8cc7-af01e33b5096",
+            "UserId":"129283",
+            "CloseReasonId":null,
+            "PostId":"137716",
+            "PostHistoryTypeId":"3",
+            "Id":"459530",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-21T20:45:22.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c71371e-54fa-4460-b444-0f7a3f71292a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"137716",
+            "PostHistoryTypeId":"10",
+            "Id":"459557",
+            "Text":"{\"OriginalQuestionIds\":[12616],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

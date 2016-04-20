@@ -1,0 +1,83 @@
+{
+    "Body":"I mistakenly installed 5.0 Lollipop on my NVIDIA SHIELD tablet, and I hate it. Is there a way to revert back to KitKat? I've tried finding a way, but no luck so far. This was the original post:How do I return to 4.4 KitKat from 5.0 Lollipop?StackExchange doesn't let me comment or reply to this question because I don't have enough reputation... so I am forced to create a duplicate.",
+    "ViewCount":"157",
+    "LastActivityDate":"2015-04-26T12:10:03.347",
+    "ClosedDate":"2015-04-27T13:08:43.510",
+    "Title":"NVIDIA SHIELD tablet, how do I return to 4.4 KitKat from Lollipop?",
+    "LastEditorUserId":"104216",
+    "Tags":"",
+    "LastEditDate":"2015-04-26T12:10:03.347",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104216",
+    "CreationDate":"2015-04-26T11:28:02.887",
+    "FavoriteCount":null,
+    "Id":"106688",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-26T11:28:02.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"71a22598-f380-4bc3-9b88-d2c45466cc87",
+            "UserId":"104216",
+            "CloseReasonId":null,
+            "PostId":"106688",
+            "PostHistoryTypeId":"2",
+            "Id":"349192",
+            "Text":"I mistakenly installed 5.0 Lollipop on my NVIDIA SHIELD tablet, and I hate it. Is there a way to revert back to KitKat? I've tried finding a way, but no luck so far. ----This was the original post:http:\/\/android.stackexchange.com\/questions\/88930\/how-do-i-return-to-4-4-kitkat-from-5-0-lollipop?newreg=90e4e79fd4f04257b414a1ab3246b572StackExchange doesn't let me comment or reply to this question because I don't have enough reputation... so I am forced to create a duplicate."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-26T11:28:02.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"71a22598-f380-4bc3-9b88-d2c45466cc87",
+            "UserId":"104216",
+            "CloseReasonId":null,
+            "PostId":"106688",
+            "PostHistoryTypeId":"1",
+            "Id":"349193",
+            "Text":"NVIDIA SHIELD tablet, how do I return to 4.4 KitKat from Lollipop?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-26T11:28:02.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"71a22598-f380-4bc3-9b88-d2c45466cc87",
+            "UserId":"104216",
+            "CloseReasonId":null,
+            "PostId":"106688",
+            "PostHistoryTypeId":"3",
+            "Id":"349194",
+            "Text":""
+        },
+        {
+            "Comment":"added 4 characters in body",
+            "CreationDate":"2015-04-26T12:10:03.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d06b6ed-99f1-440b-87f3-c6198297ba7f",
+            "UserId":"104216",
+            "CloseReasonId":null,
+            "PostId":"106688",
+            "PostHistoryTypeId":"5",
+            "Id":"349199",
+            "Text":"I mistakenly installed 5.0 Lollipop on my NVIDIA SHIELD tablet, and I hate it. Is there a way to revert back to KitKat? I've tried finding a way, but no luck so far. ----This was the original post:http:\/\/android.stackexchange.com\/questions\/88930\/how-do-i-return-to-4-4-kitkat-from-5-0-lollipop?newreg=90e4e79fd4f04257b414a1ab3246b572**StackExchange doesn't let me comment or reply to this question because I don't have enough reputation... so I am forced to create a duplicate.**"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-27T13:08:43.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"ead6d7c9-54d7-4e5d-a9ae-2465e5add10e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"106688",
+            "PostHistoryTypeId":"10",
+            "Id":"349682",
+            "Text":"{\"OriginalQuestionIds\":[88930],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

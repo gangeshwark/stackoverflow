@@ -1,0 +1,71 @@
+{
+    "Body":"I have bought a new samsung s4.I try to change the OS settings to be in hebrew.I remembered how to do it from another s4 my sister has.Went to settings --> Languages and input ---> but there was no \"hebrew\" to choose.Then I have tried \"more locale 2\" but it should solve some other issue, no?anyhow either i did it wrong or it didn't help as well. ",
+    "ViewCount":"10",
+    "LastActivityDate":"2014-04-26T07:36:04.333",
+    "ClosedDate":"2014-04-26T20:44:31.093",
+    "Title":"how to add hebrew to my Samsung s4?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25036",
+    "CreationDate":"2014-04-26T07:36:04.333",
+    "FavoriteCount":null,
+    "Id":"68243",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-26T07:36:04.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b686a7f-896d-443f-9881-6c249690ef79",
+            "UserId":"25036",
+            "CloseReasonId":null,
+            "PostId":"68243",
+            "PostHistoryTypeId":"2",
+            "Id":"232648",
+            "Text":"I have bought a new samsung s4.I try to change the OS settings to be in hebrew.I remembered how to do it from another s4 my sister has.Went to settings --> Languages and input ---> but there was no \"hebrew\" to choose.Then I have tried \"more locale 2\" but it should solve some other issue, no?anyhow either i did it wrong or it didn't help as well. ![enter image description here][1]![enter image description here][2]![enter image description here][3]![enter image description here][4]  [1]: http:\/\/i.stack.imgur.com\/6tnz1.jpg  [2]: http:\/\/i.stack.imgur.com\/vCnNl.jpg  [3]: http:\/\/i.stack.imgur.com\/SJutU.jpg  [4]: http:\/\/i.stack.imgur.com\/SSGnR.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-26T07:36:04.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b686a7f-896d-443f-9881-6c249690ef79",
+            "UserId":"25036",
+            "CloseReasonId":null,
+            "PostId":"68243",
+            "PostHistoryTypeId":"1",
+            "Id":"232649",
+            "Text":"how to add hebrew to my Samsung s4?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-26T07:36:04.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b686a7f-896d-443f-9881-6c249690ef79",
+            "UserId":"25036",
+            "CloseReasonId":null,
+            "PostId":"68243",
+            "PostHistoryTypeId":"3",
+            "Id":"232650",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-26T20:44:31.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca7f44a9-5418-49cd-aaee-b53df3a5c7bb",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"68243",
+            "PostHistoryTypeId":"10",
+            "Id":"232761",
+            "Text":"{\"OriginalQuestionIds\":[15361],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

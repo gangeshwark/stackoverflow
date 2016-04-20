@@ -1,0 +1,71 @@
+{
+    "Body":"Whenever I try to install the eBay app from the play store I get a -24 error code: \"unknown error when installing application\". I have googled the error and I cannot find anything relating to this. Anyone know what this error is and how to fix it? I can install other apps. I have an S4 on Kit Kat (4.4.2). I have forced stopped the play store and cleared the data on play services and play store. ",
+    "ViewCount":"531",
+    "LastActivityDate":"2014-04-30T07:35:18.277",
+    "ClosedDate":"2014-05-01T17:19:18.230",
+    "Title":"-24 Google Play Error on installing eBay",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"7",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"68462",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42608",
+    "CreationDate":"2014-04-30T07:05:43.840",
+    "FavoriteCount":"1",
+    "Id":"68459",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-30T07:05:43.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb031ee8-e3fe-4ef2-8bae-55deb416efbb",
+            "UserId":"42608",
+            "CloseReasonId":null,
+            "PostId":"68459",
+            "PostHistoryTypeId":"2",
+            "Id":"233465",
+            "Text":"Whenever I try to install the eBay app from the play store I get a -24 error code: \"unknown error when installing application\". I have googled the error and I cannot find anything relating to this. Anyone know what this error is and how to fix it? I can install other apps. I have an S4 on Kit Kat (4.4.2). I have forced stopped the play store and cleared the data on play services and play store. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-30T07:05:43.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb031ee8-e3fe-4ef2-8bae-55deb416efbb",
+            "UserId":"42608",
+            "CloseReasonId":null,
+            "PostId":"68459",
+            "PostHistoryTypeId":"1",
+            "Id":"233466",
+            "Text":"-24 Google Play Error on installing eBay"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-30T07:05:43.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb031ee8-e3fe-4ef2-8bae-55deb416efbb",
+            "UserId":"42608",
+            "CloseReasonId":null,
+            "PostId":"68459",
+            "PostHistoryTypeId":"3",
+            "Id":"233467",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-01T17:19:18.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d925afa-fe2f-430f-b3b8-ac0fdc2c4c73",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"68459",
+            "PostHistoryTypeId":"10",
+            "Id":"233855",
+            "Text":"{\"OriginalQuestionIds\":[56661],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

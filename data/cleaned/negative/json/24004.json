@@ -1,0 +1,71 @@
+{
+    "Body":"I have a GT-P6210 that was working perfectly fine and suddenly I noticed that my Wi-Fi would no longer connect. It just reports \"Error\" after trying to connect to Wi-Fi,I tried to factory reset my device but that didn't fix my Wi-Fi issues.",
+    "ViewCount":"194",
+    "LastActivityDate":"2012-06-09T10:27:46.330",
+    "ClosedDate":"2013-01-04T14:54:33.990",
+    "Title":"wifi no longer work on galaxy tab plus",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15810",
+    "CreationDate":"2012-06-09T10:27:46.330",
+    "FavoriteCount":null,
+    "Id":"24004",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-09T10:27:46.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"d32d8c80-383a-4fa7-a5e9-5cdf7ee5b2d5",
+            "UserId":"15810",
+            "CloseReasonId":null,
+            "PostId":"24004",
+            "PostHistoryTypeId":"2",
+            "Id":"68589",
+            "Text":"I have a GT-P6210 that was working perfectly fine and suddenly I noticed that my Wi-Fi would no longer connect. It just reports \"Error\" after trying to connect to Wi-Fi,I tried to factory reset my device but that didn't fix my Wi-Fi issues."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-09T10:27:46.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"d32d8c80-383a-4fa7-a5e9-5cdf7ee5b2d5",
+            "UserId":"15810",
+            "CloseReasonId":null,
+            "PostId":"24004",
+            "PostHistoryTypeId":"1",
+            "Id":"68590",
+            "Text":"wifi no longer work on galaxy tab plus"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-09T10:27:46.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"d32d8c80-383a-4fa7-a5e9-5cdf7ee5b2d5",
+            "UserId":"15810",
+            "CloseReasonId":null,
+            "PostId":"24004",
+            "PostHistoryTypeId":"3",
+            "Id":"68591",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-04T14:54:33.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd319423-408e-47b3-8a7f-fd5c8183c24d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"24004",
+            "PostHistoryTypeId":"10",
+            "Id":"111591",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"}]}"
+        }
+    ]
+}

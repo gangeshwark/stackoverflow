@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I restore IMEI code after factory reset?  I have an SGS2.  During an OTA update the IMEI was deleted.  I didn't have a backup of the EFS directory, as the phone wasn't rooted.  However, I copied down the IMEI on paper beforehand.Is there any way to restore the IMEI if I have the number?",
+    "ViewCount":"10064",
+    "LastActivityDate":"2012-09-20T17:10:27.840",
+    "ClosedDate":"2012-09-21T03:43:45.607",
+    "Title":"My IMEI was deleted, but I wrote down the number. Can I restore it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"344",
+    "CreationDate":"2012-09-19T21:39:42.527",
+    "FavoriteCount":null,
+    "Id":"29630",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T21:39:42.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd7d6d23-5403-4678-b105-c6351e4295c0",
+            "UserId":"344",
+            "CloseReasonId":null,
+            "PostId":"29630",
+            "PostHistoryTypeId":"2",
+            "Id":"88327",
+            "Text":"I have an SGS2.  During an OTA update the IMEI was deleted.  I didn't have a backup of the EFS directory, as the phone wasn't rooted.  However, I copied down the IMEI on paper beforehand.Is there any way to restore the IMEI if I have the number?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T21:39:42.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd7d6d23-5403-4678-b105-c6351e4295c0",
+            "UserId":"344",
+            "CloseReasonId":null,
+            "PostId":"29630",
+            "PostHistoryTypeId":"1",
+            "Id":"88328",
+            "Text":"My IMEI was deleted, but I wrote down the number. Can I restore it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T21:39:42.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd7d6d23-5403-4678-b105-c6351e4295c0",
+            "UserId":"344",
+            "CloseReasonId":null,
+            "PostId":"29630",
+            "PostHistoryTypeId":"3",
+            "Id":"88329",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-21T03:43:45.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"22a62c5f-237b-474e-b525-e2ac49756f6d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29630",
+            "PostHistoryTypeId":"5",
+            "Id":"88597",
+            "Text":"> **Possible Duplicate:**  > [How can I restore IMEI code after factory reset?](http:\/\/android.stackexchange.com\/questions\/19094\/how-can-i-restore-imei-code-after-factory-reset)  I have an SGS2.  During an OTA update the IMEI was deleted.  I didn't have a backup of the EFS directory, as the phone wasn't rooted.  However, I copied down the IMEI on paper beforehand.Is there any way to restore the IMEI if I have the number?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-21T03:43:45.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"7937e4ef-df3a-4831-83a6-9d1818e3a15e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29630",
+            "PostHistoryTypeId":"10",
+            "Id":"88598",
+            "Text":"{\"OriginalQuestionIds\":[19094],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

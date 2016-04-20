@@ -1,0 +1,83 @@
+{
+    "Body":"I've encountered this across numerous Android clients on several devices and I don't understand it.  Why is sftp so slow?  For instance, transferring a single large file from my laptop vs my Nexus 7 on my home LAN I am getting a factor of 20 difference in speeds.  The Nexus 7 is getting about 250-300KBps while the laptop is getting 5-6MBps.  The server (debian sid) is connecting to a 802.11n router via a wired connection and both wireless devices are supposedly n (though the laptop reports 150Mbps connection and the Nexus 7 only 65Mbps.  I know there's overhead and interference and whatnot but this just doesn't make sense to me.  Is there some trick here or some way to speed up the transfer?  I'm even willing to switch protocols if it would help.  This problem has been floating around for a while but I haven't seen any constructive solution.The fact that >4.0 forces MTP which still has flaky linux support makes this issue all the more pressing.",
+    "ViewCount":"889",
+    "LastActivityDate":"2012-10-17T19:04:39.363",
+    "ClosedDate":"2012-12-19T04:05:59.927",
+    "Title":"Why is sftp (client) so slow on Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"5",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22547",
+    "CreationDate":"2012-10-17T19:04:39.363",
+    "FavoriteCount":"0",
+    "Id":"31964",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T19:04:39.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e37ef81-c1ff-4dc5-8962-ee0cd815154f",
+            "UserId":"22547",
+            "CloseReasonId":null,
+            "PostId":"31964",
+            "PostHistoryTypeId":"2",
+            "Id":"94369",
+            "Text":"I've encountered this across numerous Android clients on several devices and I don't understand it.  Why is sftp so slow?  For instance, transferring a single large file from my laptop vs my Nexus 7 on my home LAN I am getting a factor of **20** difference in speeds.  The Nexus 7 is getting about 250-300KBps while the laptop is getting 5-6MBps.  The server (debian sid) is connecting to a 802.11n router via a wired connection and both wireless devices are supposedly n (though the laptop reports 150Mbps connection and the Nexus 7 only 65Mbps.  I know there's overhead and interference and whatnot but this just doesn't make sense to me.  Is there some trick here or some way to speed up the transfer?  I'm even willing to switch protocols if it would help.  This problem has been floating around [for a while][1] but I haven't seen any constructive solution.The fact that >4.0 forces MTP which still has flaky linux support makes this issue all the more pressing.[1]: http:\/\/forum.xda-developers.com\/showthread.php?t=838371"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T19:04:39.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e37ef81-c1ff-4dc5-8962-ee0cd815154f",
+            "UserId":"22547",
+            "CloseReasonId":null,
+            "PostId":"31964",
+            "PostHistoryTypeId":"1",
+            "Id":"94370",
+            "Text":"Why is sftp (client) so slow on Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T19:04:39.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e37ef81-c1ff-4dc5-8962-ee0cd815154f",
+            "UserId":"22547",
+            "CloseReasonId":null,
+            "PostId":"31964",
+            "PostHistoryTypeId":"3",
+            "Id":"94371",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/258764729579864064",
+            "CreationDate":"2012-10-18T03:01:33.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8dc9419-4796-404b-8612-9658d377725c",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"31964",
+            "PostHistoryTypeId":"25",
+            "Id":"94427",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T04:05:59.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf58c546-5375-44fd-b54a-cb8b6145d2f4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"31964",
+            "PostHistoryTypeId":"10",
+            "Id":"107344",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Is there any way by which I can connect my computer to my HTC Wildfire S and access the SMS (read, compose, delete) without touching the phone? I am looking for something similar but no hope yet. Please help.",
+    "ViewCount":"3756",
+    "LastActivityDate":"2013-02-19T19:57:41.263",
+    "ClosedDate":"2013-02-19T19:57:29.267",
+    "Title":"Accessing the Android Phones SMS and other feature via Data Cable",
+    "LastEditorUserId":"1465",
+    "Tags":"",
+    "LastEditDate":"2013-02-19T19:57:41.263",
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"25921",
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17020",
+    "CreationDate":"2012-07-16T06:08:02.930",
+    "FavoriteCount":"1",
+    "Id":"25905",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-16T06:08:02.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0a5dd27-ff54-4f31-8208-11a3490c59c1",
+            "UserId":"17020",
+            "CloseReasonId":null,
+            "PostId":"25905",
+            "PostHistoryTypeId":"2",
+            "Id":"74924",
+            "Text":"Is there any way by which I can connect my computer to my HTC Wildfire S and access the SMS (read, compose, delete) without touching the phone? I am looking for something similar but no hope yet. Please help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-16T06:08:02.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0a5dd27-ff54-4f31-8208-11a3490c59c1",
+            "UserId":"17020",
+            "CloseReasonId":null,
+            "PostId":"25905",
+            "PostHistoryTypeId":"1",
+            "Id":"74925",
+            "Text":"Accessing the Android Phones SMS and other feature via Data Cable"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-16T06:08:02.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0a5dd27-ff54-4f31-8208-11a3490c59c1",
+            "UserId":"17020",
+            "CloseReasonId":null,
+            "PostId":"25905",
+            "PostHistoryTypeId":"3",
+            "Id":"74926",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-19T19:57:29.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad10b849-52c2-41b6-b6b3-04e772efcefd",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"25905",
+            "PostHistoryTypeId":"10",
+            "Id":"123932",
+            "Text":"{\"OriginalQuestionIds\":[6034],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-02-19T19:57:41.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"90498d3d-7116-4675-9c4c-816e86aa80e6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"25905",
+            "PostHistoryTypeId":"6",
+            "Id":"123933",
+            "Text":""
+        }
+    ]
+}

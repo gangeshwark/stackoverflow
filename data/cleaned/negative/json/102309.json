@@ -1,0 +1,71 @@
+{
+    "Body":"I want to download BitTorrent Sync to synchronize my Android and PC.Question #1What's the difference between download from here or here?Since I'm not interested in register myself on Google Play, can I download an APK file from any site and run it with some sort of \"double click\" over the name of the file, in the same way as in Windows? Question #2After download a file where do I save it? In the smartphone RAM? In the SD Card?Thank you",
+    "ViewCount":"253",
+    "LastActivityDate":"2015-03-12T15:15:07.030",
+    "ClosedDate":"2015-03-12T15:47:57.607",
+    "Title":"Download and run Android APK files",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"102310",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97827",
+    "CreationDate":"2015-03-12T15:06:21.710",
+    "FavoriteCount":null,
+    "Id":"102309",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T15:06:21.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"30a0b647-70b0-41cb-abc7-d311f5145c53",
+            "UserId":"97827",
+            "CloseReasonId":null,
+            "PostId":"102309",
+            "PostHistoryTypeId":"2",
+            "Id":"333134",
+            "Text":"I want to download BitTorrent Sync to synchronize my Android and PC.**Question #1**What's the difference between download from here or here?Since I'm not interested in register myself on Google Play, can I download an APK file from any site and run it with some sort of \"double click\" over the name of the file, in the same way as in Windows? **Question #2**After download a file where do I save it? In the smartphone RAM? In the SD Card?Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T15:06:21.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"30a0b647-70b0-41cb-abc7-d311f5145c53",
+            "UserId":"97827",
+            "CloseReasonId":null,
+            "PostId":"102309",
+            "PostHistoryTypeId":"1",
+            "Id":"333135",
+            "Text":"Download and run Android APK files"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-12T15:06:21.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"30a0b647-70b0-41cb-abc7-d311f5145c53",
+            "UserId":"97827",
+            "CloseReasonId":null,
+            "PostId":"102309",
+            "PostHistoryTypeId":"3",
+            "Id":"333136",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-12T15:47:57.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"c9aeb9ef-b1cd-4597-b039-857956e0b19a",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"102309",
+            "PostHistoryTypeId":"10",
+            "Id":"333151",
+            "Text":"{\"OriginalQuestionIds\":[5566],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I live in a building where many folks have their own wifi. Most if not all are protected so I have never connected to them.  How can I \"forget\" these networks so I don't have to scroll through 30+ names?",
+    "ViewCount":"23",
+    "LastActivityDate":"2014-12-22T14:31:52.557",
+    "ClosedDate":"2015-01-01T03:29:20.553",
+    "Title":"not displaying wifi networks",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86015",
+    "CreationDate":"2014-12-22T14:31:52.557",
+    "FavoriteCount":"0",
+    "Id":"92427",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T14:31:52.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"83ba02a4-e770-48c8-b066-38cf2f8b02c3",
+            "UserId":"86015",
+            "CloseReasonId":null,
+            "PostId":"92427",
+            "PostHistoryTypeId":"2",
+            "Id":"302994",
+            "Text":"I live in a building where many folks have their own wifi. Most if not all are protected so I have never connected to them.  How can I \"forget\" these networks so I don't have to scroll through 30+ names?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T14:31:52.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"83ba02a4-e770-48c8-b066-38cf2f8b02c3",
+            "UserId":"86015",
+            "CloseReasonId":null,
+            "PostId":"92427",
+            "PostHistoryTypeId":"1",
+            "Id":"302995",
+            "Text":"not displaying wifi networks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T14:31:52.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"83ba02a4-e770-48c8-b066-38cf2f8b02c3",
+            "UserId":"86015",
+            "CloseReasonId":null,
+            "PostId":"92427",
+            "PostHistoryTypeId":"3",
+            "Id":"302996",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/547078908647321600",
+            "CreationDate":"2014-12-22T17:19:10.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"352386c2-fa18-4293-8950-355a95be2356",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"92427",
+            "PostHistoryTypeId":"25",
+            "Id":"303050",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-01T03:29:20.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d0c0e5c-d01f-45a3-87e1-c7ffcb24d92a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"92427",
+            "PostHistoryTypeId":"10",
+            "Id":"306389",
+            "Text":"{\"OriginalQuestionIds\":[32963],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23379,\"DisplayName\":\"Sid\"}]}"
+        }
+    ]
+}

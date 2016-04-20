@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  What is the difference between: Rooting, Jailbreak, ROM, Mod, etc.?  What is the meaning of \u201cflashing a custom ROM\u201d?  What do \u201croot,\u201d \u201cflash,\u201d and \u201cROM\u201d mean?  I've got Dad a Galaxy Nexus as Christmas present. Being the obsessive tinkerer that I am, I already loaded CM10.1 nightlies on it. But I don't want to take care of the phone for ever.He's a normal computer user, not exactly a noob in gadgets, so how do I explain rooting, custom recvory and ROMs in clear, non-jargon language? Last time I tried to explain, he stopped me at custom recovery and said he's better off using what I loaded on his Galaxy Ace.The problem with that approach is that it leaves him incapable of solving all the minor niggles that come with custom ROMs. Also, I live on campus (college) and troubleshooting online would be so much easier if he knows the basics.",
+    "ViewCount":"309",
+    "LastActivityDate":"2012-12-24T18:58:21.830",
+    "ClosedDate":"2012-12-25T07:50:59.353",
+    "Title":"How to explain rooting, recovery and custom ROMs to a beginner?",
+    "LastEditorUserId":null,
+    "Tags":"<4.2-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24933",
+    "CreationDate":"2012-12-24T18:58:21.830",
+    "FavoriteCount":"1",
+    "Id":"36084",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-24T18:58:21.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"563b38c8-c272-4210-96b0-554660438591",
+            "UserId":"24933",
+            "CloseReasonId":null,
+            "PostId":"36084",
+            "PostHistoryTypeId":"2",
+            "Id":"108754",
+            "Text":"I've got Dad a Galaxy Nexus as Christmas present. Being the obsessive tinkerer that I am, I already loaded CM10.1 nightlies on it. But I don't want to take care of the phone for ever.He's a normal computer user, not exactly a noob in gadgets, so how do I explain rooting, custom recvory and ROMs in clear, non-jargon language? Last time I tried to explain, he stopped me at custom recovery and said he's better off using what I loaded on his Galaxy Ace.The problem with that approach is that it leaves him incapable of solving all the minor niggles that come with custom ROMs. Also, I live on campus (college) and troubleshooting online would be so much easier if he knows the basics."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-24T18:58:21.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"563b38c8-c272-4210-96b0-554660438591",
+            "UserId":"24933",
+            "CloseReasonId":null,
+            "PostId":"36084",
+            "PostHistoryTypeId":"1",
+            "Id":"108755",
+            "Text":"How to explain rooting, recovery and custom ROMs to a beginner?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-24T18:58:21.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"563b38c8-c272-4210-96b0-554660438591",
+            "UserId":"24933",
+            "CloseReasonId":null,
+            "PostId":"36084",
+            "PostHistoryTypeId":"3",
+            "Id":"108756",
+            "Text":"<4.2-jelly-bean>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-12-25T07:50:59.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"2628ec45-c9c3-4691-8493-647ac317a057",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36084",
+            "PostHistoryTypeId":"5",
+            "Id":"108821",
+            "Text":"> **Possible Duplicate:**  > [What is the difference between: Rooting, Jailbreak, ROM, Mod, etc.?](http:\/\/android.stackexchange.com\/questions\/2885\/what-is-the-difference-between-rooting-jailbreak-rom-mod-etc)  > [What is the meaning of \u201cflashing a custom ROM\u201d?](http:\/\/android.stackexchange.com\/questions\/6028\/what-is-the-meaning-of-flashing-a-custom-rom)  > [What do \u201croot,\u201d \u201cflash,\u201d and \u201cROM\u201d mean?](http:\/\/android.stackexchange.com\/questions\/6183\/what-do-root-flash-and-rom-mean)  I've got Dad a Galaxy Nexus as Christmas present. Being the obsessive tinkerer that I am, I already loaded CM10.1 nightlies on it. But I don't want to take care of the phone for ever.He's a normal computer user, not exactly a noob in gadgets, so how do I explain rooting, custom recvory and ROMs in clear, non-jargon language? Last time I tried to explain, he stopped me at custom recovery and said he's better off using what I loaded on his Galaxy Ace.The problem with that approach is that it leaves him incapable of solving all the minor niggles that come with custom ROMs. Also, I live on campus (college) and troubleshooting online would be so much easier if he knows the basics."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-12-25T07:50:59.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"2cf1f9c0-652a-491c-bf3d-00ec2b7f4d88",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"36084",
+            "PostHistoryTypeId":"10",
+            "Id":"108822",
+            "Text":"{\"OriginalQuestionIds\":[2885,6028,6183],\"Voters\":[{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

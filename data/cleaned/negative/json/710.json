@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I disable the 'click' sound on the camera app?  If the phone isn't in silent mode, taking a picture using the stock camera application always plays a \"shutter\" sound. Is there a way to turn the sound off?I'm using stock Android 2.2 on a Nexus One. ",
+    "ViewCount":"5364",
+    "LastActivityDate":"2013-02-19T09:00:55.577",
+    "ClosedDate":"2011-02-02T20:30:04.990",
+    "Title":"How do I turn off the shutter sound for the Android camera?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"5",
+    "AcceptedAnswerId":null,
+    "Score":"8",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2010-07-25T16:38:43.090",
+    "FavoriteCount":"1",
+    "Id":"710",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-07-25T16:38:43.090",
+            "UserDisplayName":"CodeSavvyGeek",
+            "RevisionGUID":"2360a109-490f-4001-a0eb-5d36eaf1b526",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"710",
+            "PostHistoryTypeId":"2",
+            "Id":"1349",
+            "Text":"If the phone isn't in silent mode, taking a picture using the stock camera application always plays a \"shutter\" sound. Is there a way to turn the sound off?I'm using stock Android 2.2 on a Nexus One. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-07-25T16:38:43.090",
+            "UserDisplayName":"CodeSavvyGeek",
+            "RevisionGUID":"2360a109-490f-4001-a0eb-5d36eaf1b526",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"710",
+            "PostHistoryTypeId":"1",
+            "Id":"1350",
+            "Text":"How do I turn off the shutter sound for the Android camera?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-07-25T16:38:43.090",
+            "UserDisplayName":"CodeSavvyGeek",
+            "RevisionGUID":"2360a109-490f-4001-a0eb-5d36eaf1b526",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"710",
+            "PostHistoryTypeId":"3",
+            "Id":"1351",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-02-02T20:30:04.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff6b9c51-24d7-4dbd-ab78-05232ec78d23",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"710",
+            "PostHistoryTypeId":"10",
+            "Id":"12300",
+            "Text":"{\"OriginalQuestionIds\":[89],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-02-02T20:30:05.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"38695659-f506-495a-843b-092826fc44a0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"710",
+            "PostHistoryTypeId":"5",
+            "Id":"12301",
+            "Text":"> **Possible Duplicate:**  > [How do I disable the 'click' sound on the camera app?](http:\/\/android.stackexchange.com\/questions\/89\/how-do-i-disable-the-click-sound-on-the-camera-app)  If the phone isn't in silent mode, taking a picture using the stock camera application always plays a \"shutter\" sound. Is there a way to turn the sound off?I'm using stock Android 2.2 on a Nexus One. "
+        }
+    ]
+}

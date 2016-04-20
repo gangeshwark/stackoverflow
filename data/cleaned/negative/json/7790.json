@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why can't my device see an ad-hoc WiFi network?  My samsung gt i 5510 will not detect any wifi ad hoc network on any laptop.however, the wifi tethering works beautifully.any help would be appreciated.thanx",
+    "ViewCount":"374",
+    "LastActivityDate":"2011-03-31T17:53:57.867",
+    "ClosedDate":"2011-08-13T00:15:37.377",
+    "Title":"Cannot connect my samsung gt i5510 to the laptops ad hoc wifi connection!",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3997",
+    "CreationDate":"2011-03-31T17:53:57.867",
+    "FavoriteCount":null,
+    "Id":"7790",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-31T17:53:57.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fa81d84-1b8d-45d5-9fe3-8295cfd012b8",
+            "UserId":"3997",
+            "CloseReasonId":null,
+            "PostId":"7790",
+            "PostHistoryTypeId":"2",
+            "Id":"18507",
+            "Text":"My samsung gt i 5510 will not detect any wifi ad hoc network on any laptop.however, the wifi tethering works beautifully.any help would be appreciated.thanx"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-31T17:53:57.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fa81d84-1b8d-45d5-9fe3-8295cfd012b8",
+            "UserId":"3997",
+            "CloseReasonId":null,
+            "PostId":"7790",
+            "PostHistoryTypeId":"1",
+            "Id":"18508",
+            "Text":"Cannot connect my samsung gt i5510 to the laptops ad hoc wifi connection!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-31T17:53:57.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fa81d84-1b8d-45d5-9fe3-8295cfd012b8",
+            "UserId":"3997",
+            "CloseReasonId":null,
+            "PostId":"7790",
+            "PostHistoryTypeId":"3",
+            "Id":"18509",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-08-13T00:15:39.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4c93ea0-c9b0-4182-b73a-6f26b94d37cb",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"7790",
+            "PostHistoryTypeId":"5",
+            "Id":"31781",
+            "Text":"> **Possible Duplicate:**  > [Why can't my device see an ad-hoc WiFi network?](http:\/\/android.stackexchange.com\/questions\/4418\/why-cant-my-device-see-an-ad-hoc-wifi-network)  My samsung gt i 5510 will not detect any wifi ad hoc network on any laptop.however, the wifi tethering works beautifully.any help would be appreciated.thanx"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-08-13T00:15:37.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e31a88f-0896-49a0-9e7d-8ee9e156f3b7",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"7790",
+            "PostHistoryTypeId":"10",
+            "Id":"31782",
+            "Text":"{\"OriginalQuestionIds\":[4418],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I'd like to downgrade my Nexus 9 to android 4.X (KitKat). Is this possible?I'm not the pro doing something like that and I could not find something with google.Can you help me please?Thank you",
+    "ViewCount":"1064",
+    "LastActivityDate":"2015-01-08T16:55:35.863",
+    "ClosedDate":"2015-01-11T16:26:53.757",
+    "Title":"Downgrade Nexus 9 running lollipop to KitKat",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"95165",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"89158",
+    "CreationDate":"2015-01-07T14:48:55.340",
+    "FavoriteCount":null,
+    "Id":"95164",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T14:48:55.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ee1689-e64d-47fd-9cd8-7c9711da0a11",
+            "UserId":"89158",
+            "CloseReasonId":null,
+            "PostId":"95164",
+            "PostHistoryTypeId":"2",
+            "Id":"309737",
+            "Text":"I'd like to downgrade my Nexus 9 to android 4.X (KitKat). Is this possible?I'm not the pro doing something like that and I could not find something with google.Can you help me please?Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T14:48:55.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ee1689-e64d-47fd-9cd8-7c9711da0a11",
+            "UserId":"89158",
+            "CloseReasonId":null,
+            "PostId":"95164",
+            "PostHistoryTypeId":"1",
+            "Id":"309738",
+            "Text":"Downgrade Nexus 9 running lollipop to KitKat"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T14:48:55.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ee1689-e64d-47fd-9cd8-7c9711da0a11",
+            "UserId":"89158",
+            "CloseReasonId":null,
+            "PostId":"95164",
+            "PostHistoryTypeId":"3",
+            "Id":"309739",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-11T16:26:53.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ca9650b-31a7-404e-8ec2-3240bc898f07",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"95164",
+            "PostHistoryTypeId":"10",
+            "Id":"311118",
+            "Text":"{\"OriginalQuestionIds\":[57792],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have a spare Nexus 4 phone after recently upgrading to a Nexus 5. I would like to root the device and use it to share a wifi connection. To be clear, I am not talking about the stock android wifi hotspot functionality which shares a mobile 3G\/ 4G data connection wirelessly. I would like to connect to a wifi hotspot from the device and then share that wifi connection to other devices, creating a WLAN. So wifi in, wifi out.Does the Nexus 4 support this?Can it be done without rooting \/ installing a custom rom?If not, what ROM \/ apps do people recommend?",
+    "ViewCount":"21",
+    "LastActivityDate":"2014-03-22T08:20:30.513",
+    "ClosedDate":"2014-03-25T22:38:05.230",
+    "Title":"How to make a Nexus 4 a wifi access point \/ repeater without using mobile data",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25981",
+    "CreationDate":"2014-03-22T08:20:30.513",
+    "FavoriteCount":null,
+    "Id":"65989",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-22T08:20:30.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c9326a3-2958-4c5d-b449-9325aa3f3b41",
+            "UserId":"25981",
+            "CloseReasonId":null,
+            "PostId":"65989",
+            "PostHistoryTypeId":"2",
+            "Id":"224683",
+            "Text":"I have a spare Nexus 4 phone after recently upgrading to a Nexus 5. I would like to root the device and use it to share a wifi connection. To be clear, I am not talking about the stock android wifi hotspot functionality which shares a mobile 3G\/ 4G data connection wirelessly. I would like to connect to a wifi hotspot from the device and then share that wifi connection to other devices, creating a WLAN. So wifi in, wifi out.1. Does the Nexus 4 support this?2. Can it be done without rooting \/ installing a custom rom?3. If not, what ROM \/ apps do people recommend?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-22T08:20:30.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c9326a3-2958-4c5d-b449-9325aa3f3b41",
+            "UserId":"25981",
+            "CloseReasonId":null,
+            "PostId":"65989",
+            "PostHistoryTypeId":"1",
+            "Id":"224684",
+            "Text":"How to make a Nexus 4 a wifi access point \/ repeater without using mobile data"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-22T08:20:30.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c9326a3-2958-4c5d-b449-9325aa3f3b41",
+            "UserId":"25981",
+            "CloseReasonId":null,
+            "PostId":"65989",
+            "PostHistoryTypeId":"3",
+            "Id":"224685",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-25T22:38:05.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf1af86b-40ef-4333-9e61-d495502a56c5",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"65989",
+            "PostHistoryTypeId":"10",
+            "Id":"225529",
+            "Text":"{\"OriginalQuestionIds\":[12616],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

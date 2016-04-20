@@ -1,0 +1,83 @@
+{
+    "Body":"How can I pin an app so that it can't be upgraded? I have one app where version 2 is not as good or stable as version 1, so I want to pin it at version 1 and not upgrade it .",
+    "ViewCount":"105",
+    "LastActivityDate":"2014-07-26T07:31:18.127",
+    "ClosedDate":"2014-07-26T16:55:14.680",
+    "Title":"how to stop an app upgrading?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"78126",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"48899",
+    "CreationDate":"2014-07-26T04:57:06.193",
+    "FavoriteCount":null,
+    "Id":"78118",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-26T04:57:06.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd6cb716-25f2-4d4c-80be-e532eb5ac4f5",
+            "UserId":"48899",
+            "CloseReasonId":null,
+            "PostId":"78118",
+            "PostHistoryTypeId":"2",
+            "Id":"257536",
+            "Text":"How can I pin an app so that it can't be upgraded? I have one app where version 2 is not as good or stable as version 1, so I want to pin it at version 1 and not upgrade it ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-26T04:57:06.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd6cb716-25f2-4d4c-80be-e532eb5ac4f5",
+            "UserId":"48899",
+            "CloseReasonId":null,
+            "PostId":"78118",
+            "PostHistoryTypeId":"1",
+            "Id":"257537",
+            "Text":"how to stop an app upgrading?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-26T04:57:06.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd6cb716-25f2-4d4c-80be-e532eb5ac4f5",
+            "UserId":"48899",
+            "CloseReasonId":null,
+            "PostId":"78118",
+            "PostHistoryTypeId":"3",
+            "Id":"257538",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/493014116211367936",
+            "CreationDate":"2014-07-26T12:44:59.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d55665c-cd84-41a7-859f-117f44235635",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"78118",
+            "PostHistoryTypeId":"25",
+            "Id":"257603",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-26T16:55:14.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2aeedbe-0151-4cf0-ae0b-0b2e5434687f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"78118",
+            "PostHistoryTypeId":"10",
+            "Id":"257669",
+            "Text":"{\"OriginalQuestionIds\":[39180],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

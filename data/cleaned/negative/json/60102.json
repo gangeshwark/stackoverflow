@@ -1,0 +1,83 @@
+{
+    "Body":"I bricked my phone via the official Kies update function and now I want to restore it with Odin. However, I find no place where you can download the current firmware files, most of the sites are only for registered users or the file is taken down... Does anyone know an official firmware repository or something similar? My model number is GT-N7100.",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-12-30T14:05:52.793",
+    "ClosedDate":"2013-12-31T03:20:46.973",
+    "Title":"Where do you download the current firmware for the Galaxy Note II?",
+    "LastEditorUserId":"49046",
+    "Tags":"",
+    "LastEditDate":"2013-12-30T14:05:52.793",
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49046",
+    "CreationDate":"2013-12-30T13:55:07.180",
+    "FavoriteCount":null,
+    "Id":"60102",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-30T13:55:07.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"13ef8fb1-de97-47d3-b1b1-faa607eed212",
+            "UserId":"49046",
+            "CloseReasonId":null,
+            "PostId":"60102",
+            "PostHistoryTypeId":"2",
+            "Id":"202709",
+            "Text":"I bricked my phone via the official Kies update function and now I want to restore it with Odin. However, I find no place where you can download the current firmware files, most of the sites are only for registered users or the file is taken down... Does anyone know an official firmware repository or something similar?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-30T13:55:07.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"13ef8fb1-de97-47d3-b1b1-faa607eed212",
+            "UserId":"49046",
+            "CloseReasonId":null,
+            "PostId":"60102",
+            "PostHistoryTypeId":"1",
+            "Id":"202710",
+            "Text":"Where do you download the current firmware for the Galaxy Note II?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-30T13:55:07.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"13ef8fb1-de97-47d3-b1b1-faa607eed212",
+            "UserId":"49046",
+            "CloseReasonId":null,
+            "PostId":"60102",
+            "PostHistoryTypeId":"3",
+            "Id":"202711",
+            "Text":""
+        },
+        {
+            "Comment":"added 31 characters in body",
+            "CreationDate":"2013-12-30T14:05:52.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"4eefc183-eacc-4b93-848e-451664f356e7",
+            "UserId":"49046",
+            "CloseReasonId":null,
+            "PostId":"60102",
+            "PostHistoryTypeId":"5",
+            "Id":"202717",
+            "Text":"I bricked my phone via the official Kies update function and now I want to restore it with Odin. However, I find no place where you can download the current firmware files, most of the sites are only for registered users or the file is taken down... Does anyone know an official firmware repository or something similar? My model number is *GT-N7100*."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-31T03:20:46.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"05bd14d9-299c-426c-9bc3-cebe7adb1deb",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"60102",
+            "PostHistoryTypeId":"10",
+            "Id":"202846",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":267,\"DisplayName\":\"Krampus\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

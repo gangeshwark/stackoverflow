@@ -1,0 +1,71 @@
+{
+    "Body":"I don't want to \"Agree\" to Google's \"Use enhanced location service\", but yesterday (after turning on 'Location') I accidentally clicked Agree, and now I want to undo that. How do reverse my agreement?(Galaxy S4; Kitkat 4.4.2)Daniel",
+    "ViewCount":"19",
+    "LastActivityDate":"2016-02-24T23:11:35.713",
+    "ClosedDate":"2016-02-25T08:09:22.677",
+    "Title":"Cancel agreement to \"Use enhanced location service\"",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"112288",
+    "CreationDate":"2016-02-24T23:11:35.713",
+    "FavoriteCount":null,
+    "Id":"138040",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T23:11:35.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"470be86b-597c-49f8-b4da-a081dd439641",
+            "UserId":"112288",
+            "CloseReasonId":null,
+            "PostId":"138040",
+            "PostHistoryTypeId":"2",
+            "Id":"460709",
+            "Text":"I don't want to \"Agree\" to Google's \"Use enhanced location service\", but yesterday (after turning on 'Location') I accidentally clicked Agree, and now I want to undo that. How do reverse my agreement?(Galaxy S4; Kitkat 4.4.2)Daniel"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T23:11:35.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"470be86b-597c-49f8-b4da-a081dd439641",
+            "UserId":"112288",
+            "CloseReasonId":null,
+            "PostId":"138040",
+            "PostHistoryTypeId":"1",
+            "Id":"460710",
+            "Text":"Cancel agreement to \"Use enhanced location service\""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T23:11:35.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"470be86b-597c-49f8-b4da-a081dd439641",
+            "UserId":"112288",
+            "CloseReasonId":null,
+            "PostId":"138040",
+            "PostHistoryTypeId":"3",
+            "Id":"460711",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-25T08:09:22.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9c61644-f2ec-40fc-9858-edbf55869068",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138040",
+            "PostHistoryTypeId":"10",
+            "Id":"460850",
+            "Text":"{\"OriginalQuestionIds\":[84486],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

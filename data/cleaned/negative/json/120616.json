@@ -1,0 +1,71 @@
+{
+    "Body":"I have a MID Android 4 Tablet.  I had not used it in a long time and forgot my pattern to unlock the screen.  Now it wants me to open the screen by entering my google user ID and password  This wouldn't be a problem except I do not have access to WI-FI.  I suspect that the last time I used it I turned off Wi-Fi.  Is there any way I can fix this problem?",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-08-29T01:24:34.950",
+    "ClosedDate":"2015-09-01T15:28:47.387",
+    "Title":"I need help with my MID Android 4 tablet",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"124181",
+    "CreationDate":"2015-08-29T01:24:34.950",
+    "FavoriteCount":null,
+    "Id":"120616",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-29T01:24:34.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"da36dc1c-2219-45e4-8364-7d2f6ccbb7e6",
+            "UserId":"124181",
+            "CloseReasonId":null,
+            "PostId":"120616",
+            "PostHistoryTypeId":"2",
+            "Id":"395495",
+            "Text":"I have a MID Android 4 Tablet.  I had not used it in a long time and forgot my pattern to unlock the screen.  Now it wants me to open the screen by entering my google user ID and password  This wouldn't be a problem except I do not have access to WI-FI.  I suspect that the last time I used it I turned off Wi-Fi.  Is there any way I can fix this problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-29T01:24:34.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"da36dc1c-2219-45e4-8364-7d2f6ccbb7e6",
+            "UserId":"124181",
+            "CloseReasonId":null,
+            "PostId":"120616",
+            "PostHistoryTypeId":"1",
+            "Id":"395496",
+            "Text":"I need help with my MID Android 4 tablet"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-29T01:24:34.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"da36dc1c-2219-45e4-8364-7d2f6ccbb7e6",
+            "UserId":"124181",
+            "CloseReasonId":null,
+            "PostId":"120616",
+            "PostHistoryTypeId":"3",
+            "Id":"395497",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-01T15:28:47.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"63ef1c78-0b20-4fc7-8298-63d8bb8d85c2",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"120616",
+            "PostHistoryTypeId":"10",
+            "Id":"396571",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":981,\"DisplayName\":\"user981\"}]}"
+        }
+    ]
+}

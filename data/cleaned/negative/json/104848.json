@@ -1,0 +1,71 @@
+{
+    "Body":"I'm about to factory reset my Android 5 phone. Amongst other things I have a whole bunch of Google Authenticator entries that I wish to backup before resetting, so that I can import them back later.Googled around but couldn't find an easy solution. How or where do I pull this off?",
+    "ViewCount":"12",
+    "LastActivityDate":"2015-04-08T14:17:18.273",
+    "ClosedDate":"2015-04-08T16:04:08.860",
+    "Title":"Reinstall Android 5 phone: how to backup + restore Google Authenticator entries?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101549",
+    "CreationDate":"2015-04-08T14:17:18.273",
+    "FavoriteCount":null,
+    "Id":"104848",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T14:17:18.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef710b9e-802b-4b23-8098-5ae362574155",
+            "UserId":"101549",
+            "CloseReasonId":null,
+            "PostId":"104848",
+            "PostHistoryTypeId":"2",
+            "Id":"342385",
+            "Text":"I'm about to factory reset my Android 5 phone. Amongst other things I have a whole bunch of Google Authenticator entries that I wish to backup before resetting, so that I can import them back later.Googled around but couldn't find an easy solution. How or where do I pull this off?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T14:17:18.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef710b9e-802b-4b23-8098-5ae362574155",
+            "UserId":"101549",
+            "CloseReasonId":null,
+            "PostId":"104848",
+            "PostHistoryTypeId":"1",
+            "Id":"342386",
+            "Text":"Reinstall Android 5 phone: how to backup + restore Google Authenticator entries?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-08T14:17:18.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"ef710b9e-802b-4b23-8098-5ae362574155",
+            "UserId":"101549",
+            "CloseReasonId":null,
+            "PostId":"104848",
+            "PostHistoryTypeId":"3",
+            "Id":"342387",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-08T16:04:08.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"6f30a874-de94-486e-9e40-fd8a65afeeef",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"104848",
+            "PostHistoryTypeId":"10",
+            "Id":"342452",
+            "Text":"{\"OriginalQuestionIds\":[63252],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

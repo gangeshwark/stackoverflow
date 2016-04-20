@@ -1,0 +1,83 @@
+{
+    "Body":"Our local office provides free public WiFi for phones and tablets, but blocks access in ways that means that some applications (like WhatsApp) are unable to connect.Is there any way to configure Android so that a certain app (in this case WhatsApp, but could be others) will always use cellular data even though it is connected to a WiFi access point? Bonus points if it'll only do it for a specific access point, so we can configure it to use cellular data for the office but at home it'll still go over WiFi.Currently the only alternative is to either keep WiFi off (which is much slower and eats into data caps) or keep toggling WiFi on and off (which is really quite annoying).(Free or paid solutions appreciated. Using Android 4.3. Would prefer solutions that don't require root, but if that is the only way then so be it.)",
+    "ViewCount":"11920",
+    "LastActivityDate":"2014-05-20T05:41:41.800",
+    "ClosedDate":"2014-05-20T16:34:24.170",
+    "Title":"Is it possible to force an app to use cellular data instead of WiFi?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"5",
+    "AcceptedAnswerId":null,
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"60552",
+    "CreationDate":"2014-05-12T21:24:49.770",
+    "FavoriteCount":null,
+    "Id":"69263",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-12T21:24:49.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"04be33af-b3c2-4993-b450-5087c9394cfd",
+            "UserId":"60552",
+            "CloseReasonId":null,
+            "PostId":"69263",
+            "PostHistoryTypeId":"2",
+            "Id":"236279",
+            "Text":"Our local office provides free public WiFi for phones and tablets, but blocks access in ways that means that some applications (like WhatsApp) are unable to connect.Is there any way to configure Android so that a certain app (in this case WhatsApp, but could be others) will always use cellular data even though it is connected to a WiFi access point? Bonus points if it'll only do it for a specific access point, so we can configure it to use cellular data for the office but at home it'll still go over WiFi.Currently the only alternative is to either keep WiFi off (which is much slower and eats into data caps) or keep toggling WiFi on and off (which is really quite annoying).(Free or paid solutions appreciated. Using Android 4.3. Would prefer solutions that don't require root, but if that is the only way then so be it.)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-12T21:24:49.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"04be33af-b3c2-4993-b450-5087c9394cfd",
+            "UserId":"60552",
+            "CloseReasonId":null,
+            "PostId":"69263",
+            "PostHistoryTypeId":"1",
+            "Id":"236280",
+            "Text":"Is it possible to force an app to use cellular data instead of WiFi?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-12T21:24:49.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"04be33af-b3c2-4993-b450-5087c9394cfd",
+            "UserId":"60552",
+            "CloseReasonId":null,
+            "PostId":"69263",
+            "PostHistoryTypeId":"3",
+            "Id":"236281",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/466018905425981440",
+            "CreationDate":"2014-05-13T00:55:39.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"431ecba6-503f-4fef-bad8-5751f3de6951",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"69263",
+            "PostHistoryTypeId":"25",
+            "Id":"236290",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-20T16:34:24.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4ef5927-4129-4863-9e77-3e3e74051afc",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"69263",
+            "PostHistoryTypeId":"10",
+            "Id":"237800",
+            "Text":"{\"OriginalQuestionIds\":[29769],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

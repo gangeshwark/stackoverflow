@@ -1,0 +1,71 @@
+{
+    "Body":"I've got a simple logger app that I wrote for my Android phone.  The problem is, periodically (seems like it happens every few days) when I turn on my phone I am confronted with a modal dialog box telling me that my app has consume X amount of CPU already, and do I want to kill it?  The thing is, this generally happens some time AFTER I have stopped logging and it is just sitting there doing nothing, and moreover, this is when it is on AC power, so I don't see how battery consumption is even a concern.  In any case, it is getting annoying having to constantly tell it to not kill the app.  It is more concerning to think that this might still happen if I ever enable \"stealth\" mode on my app to track it if it is stolen, as this would alert a perpetrator and give them a chance to disable my app.Is there some way to disable this behavior?  If so, how?",
+    "ViewCount":"82",
+    "LastActivityDate":"2014-03-19T04:34:20.483",
+    "ClosedDate":"2014-03-19T23:15:37.170",
+    "Title":"Force Android to stop asking me if I want to terminate my own app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16793",
+    "CreationDate":"2014-03-18T17:49:26.180",
+    "FavoriteCount":null,
+    "Id":"65751",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-18T17:49:26.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"966edf21-1d70-45b5-8773-54339054d703",
+            "UserId":"16793",
+            "CloseReasonId":null,
+            "PostId":"65751",
+            "PostHistoryTypeId":"2",
+            "Id":"223846",
+            "Text":"I've got a simple logger app that I wrote for my Android phone.  The problem is, periodically (seems like it happens every few days) when I turn on my phone I am confronted with a modal dialog box telling me that my app has consume X amount of CPU already, and do I want to kill it?  The thing is, this generally happens some time AFTER I have stopped logging and it is just sitting there doing nothing, and moreover, this is when it is on AC power, so I don't see how battery consumption is even a concern.  In any case, it is getting annoying having to constantly tell it to not kill the app.  It is more concerning to think that this might still happen if I ever enable \"stealth\" mode on my app to track it if it is stolen, as this would alert a perpetrator and give them a chance to disable my app.Is there some way to disable this behavior?  If so, how?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-18T17:49:26.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"966edf21-1d70-45b5-8773-54339054d703",
+            "UserId":"16793",
+            "CloseReasonId":null,
+            "PostId":"65751",
+            "PostHistoryTypeId":"1",
+            "Id":"223847",
+            "Text":"Force Android to stop asking me if I want to terminate my own app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-18T17:49:26.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"966edf21-1d70-45b5-8773-54339054d703",
+            "UserId":"16793",
+            "CloseReasonId":null,
+            "PostId":"65751",
+            "PostHistoryTypeId":"3",
+            "Id":"223848",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-03-19T23:15:37.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f199d88-2e6f-44a5-a0d7-80b64360a1fd",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"65751",
+            "PostHistoryTypeId":"10",
+            "Id":"224182",
+            "Text":"{\"Voters\":[{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

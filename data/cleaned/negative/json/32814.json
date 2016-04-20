@@ -1,0 +1,71 @@
+{
+    "Body":"When every android phone is released, all the reviews discuss about battery life of the device, since, they say, battery life in android phones is a critical issue. Question is :Why battery life is an important problem in android phones ? Some say, it is due to the display of smartphones. Some say, Android is inherently power hungry due to some of its OS related features.Can anyone highlight the reason why Android is power hungry ?",
+    "ViewCount":"741",
+    "LastActivityDate":"2012-11-02T18:25:40.303",
+    "ClosedDate":"2012-11-02T23:05:59.657",
+    "Title":"Why android is power hungry?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23162",
+    "CreationDate":"2012-11-02T13:32:59.490",
+    "FavoriteCount":null,
+    "Id":"32814",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-02T13:32:59.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"e84102c5-be03-4ffd-a73b-82c93a401608",
+            "UserId":"23162",
+            "CloseReasonId":null,
+            "PostId":"32814",
+            "PostHistoryTypeId":"2",
+            "Id":"97075",
+            "Text":"When every android phone is released, all the reviews discuss about battery life of the device, since, they say, battery life in android phones is a critical issue. Question is :Why battery life is an important problem in android phones ? Some say, it is due to the display of smartphones. Some say, Android is inherently power hungry due to some of its OS related features.Can anyone highlight the reason why Android is power hungry ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-02T13:32:59.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"e84102c5-be03-4ffd-a73b-82c93a401608",
+            "UserId":"23162",
+            "CloseReasonId":null,
+            "PostId":"32814",
+            "PostHistoryTypeId":"1",
+            "Id":"97076",
+            "Text":"Why android is power hungry?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-02T13:32:59.490",
+            "UserDisplayName":null,
+            "RevisionGUID":"e84102c5-be03-4ffd-a73b-82c93a401608",
+            "UserId":"23162",
+            "CloseReasonId":null,
+            "PostId":"32814",
+            "PostHistoryTypeId":"3",
+            "Id":"97077",
+            "Text":""
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-11-02T23:05:59.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"323d0b29-c269-4a83-bb33-cc33b78e698b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32814",
+            "PostHistoryTypeId":"10",
+            "Id":"97177",
+            "Text":"{\"Voters\":[{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is it possible for my mobile carrier to track my wifi usage and bill me accordingly?  I want to get a prepaid galaxy ace because i can't afford to be paying a plan. Will it charge my phone to use my home network for internet?",
+    "ViewCount":"14",
+    "LastActivityDate":"2012-12-08T03:16:47.057",
+    "ClosedDate":"2012-12-08T07:48:26.590",
+    "Title":"Samsung Galaxy Ace: will it charge me to connect to home wifi?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24714",
+    "CreationDate":"2012-12-08T03:16:47.057",
+    "FavoriteCount":null,
+    "Id":"34984",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-08T03:16:47.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7085b7d-deb6-496d-9ce8-8dfc0de7d397",
+            "UserId":"24714",
+            "CloseReasonId":null,
+            "PostId":"34984",
+            "PostHistoryTypeId":"2",
+            "Id":"104651",
+            "Text":"I want to get a prepaid galaxy ace because i can't afford to be paying a plan. Will it charge my phone to use my home network for internet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-08T03:16:47.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7085b7d-deb6-496d-9ce8-8dfc0de7d397",
+            "UserId":"24714",
+            "CloseReasonId":null,
+            "PostId":"34984",
+            "PostHistoryTypeId":"1",
+            "Id":"104652",
+            "Text":"Samsung Galaxy Ace: will it charge me to connect to home wifi?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-08T03:16:47.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7085b7d-deb6-496d-9ce8-8dfc0de7d397",
+            "UserId":"24714",
+            "CloseReasonId":null,
+            "PostId":"34984",
+            "PostHistoryTypeId":"3",
+            "Id":"104653",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-12-08T07:48:26.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"37527e76-a65e-43fa-ac3f-482dceeb36ea",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"34984",
+            "PostHistoryTypeId":"5",
+            "Id":"104796",
+            "Text":"> **Possible Duplicate:**  > [Is it possible for my mobile carrier to track my wifi usage and bill me accordingly?](http:\/\/android.stackexchange.com\/questions\/27690\/is-it-possible-for-my-mobile-carrier-to-track-my-wifi-usage-and-bill-me-accordin)  I want to get a prepaid galaxy ace because i can't afford to be paying a plan. Will it charge my phone to use my home network for internet?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-12-08T07:48:26.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"fecbe827-344e-4a6c-9c4b-601d91c45dcd",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"34984",
+            "PostHistoryTypeId":"10",
+            "Id":"104797",
+            "Text":"{\"OriginalQuestionIds\":[27690],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

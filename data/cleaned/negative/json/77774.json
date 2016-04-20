@@ -1,0 +1,71 @@
+{
+    "Body":"So is there no way for me to move a file from internal memory to the external SD card in Android KitKat version? I used to use Wifi Transfer style apps to move stuff from my laptop to the internal memory, and then move them to the SD Card using one of the many explorer apps for Android. Is this not possible at all anymore??Seems like an uncalled for restriction!",
+    "ViewCount":"2017",
+    "LastActivityDate":"2014-07-22T00:10:29.247",
+    "ClosedDate":"2014-07-22T01:07:00.643",
+    "Title":"Writing to external SD card in KitKat",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat>",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"77776",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67863",
+    "CreationDate":"2014-07-21T22:27:03.303",
+    "FavoriteCount":null,
+    "Id":"77774",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-21T22:27:03.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"4181650c-ce49-448c-b861-11f753fd3281",
+            "UserId":"67863",
+            "CloseReasonId":null,
+            "PostId":"77774",
+            "PostHistoryTypeId":"2",
+            "Id":"256432",
+            "Text":"So is there no way for me to move a file from internal memory to the external SD card in Android KitKat version? I used to use Wifi Transfer style apps to move stuff from my laptop to the internal memory, and then move them to the SD Card using one of the many explorer apps for Android. Is this not possible at all anymore??Seems like an uncalled for restriction!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-21T22:27:03.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"4181650c-ce49-448c-b861-11f753fd3281",
+            "UserId":"67863",
+            "CloseReasonId":null,
+            "PostId":"77774",
+            "PostHistoryTypeId":"1",
+            "Id":"256433",
+            "Text":"Writing to external SD card in KitKat"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-21T22:27:03.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"4181650c-ce49-448c-b861-11f753fd3281",
+            "UserId":"67863",
+            "CloseReasonId":null,
+            "PostId":"77774",
+            "PostHistoryTypeId":"3",
+            "Id":"256434",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-22T01:07:00.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"47295724-947b-4ba1-bc1a-6654f15392c8",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77774",
+            "PostHistoryTypeId":"10",
+            "Id":"256446",
+            "Text":"{\"OriginalQuestionIds\":[64381],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

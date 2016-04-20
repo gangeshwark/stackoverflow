@@ -1,0 +1,71 @@
+{
+    "Body":"I'm using a galaxy nexus.  I know the trick for taking a screenshot, with power button and volume down, but it's really flakey and only works some of the time for me (much less than half, maybe 1 in 10 attempts).  Even more annoying is that the volume down brings up a little dialog, and if I don't wait for that to disappear before I magically get the combination right, it often gets the volume slider into the screenshot.  I've tried holding the power button first, then pressing down.  I've tried holding the volume down first, then pressing power.I've tried attempting to push them at exactly the same time (this one seems to work best).  Is there some sort of trick to this technique that I'm missing?",
+    "ViewCount":"27",
+    "LastActivityDate":"2013-02-27T10:39:37.603",
+    "ClosedDate":"2013-02-27T22:11:28.113",
+    "Title":"Screenshot with power + volume down, what's the trick?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11598",
+    "CreationDate":"2013-02-27T10:39:37.603",
+    "FavoriteCount":"1",
+    "Id":"40411",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-27T10:39:37.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9a4e558-f341-4a97-b236-cc36cb12fd0d",
+            "UserId":"11598",
+            "CloseReasonId":null,
+            "PostId":"40411",
+            "PostHistoryTypeId":"2",
+            "Id":"125788",
+            "Text":"I'm using a galaxy nexus.  I know the trick for taking a screenshot, with power button and volume down, but it's really flakey and only works some of the time for me (much less than half, maybe 1 in 10 attempts).  Even more annoying is that the volume down brings up a little dialog, and if I don't wait for that to disappear before I magically get the combination right, it often gets the volume slider into the screenshot.  I've tried holding the power button first, then pressing down.  I've tried holding the volume down first, then pressing power.I've tried attempting to push them at exactly the same time (this one seems to work best).  Is there some sort of trick to this technique that I'm missing?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-27T10:39:37.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9a4e558-f341-4a97-b236-cc36cb12fd0d",
+            "UserId":"11598",
+            "CloseReasonId":null,
+            "PostId":"40411",
+            "PostHistoryTypeId":"1",
+            "Id":"125789",
+            "Text":"Screenshot with power + volume down, what's the trick?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-27T10:39:37.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9a4e558-f341-4a97-b236-cc36cb12fd0d",
+            "UserId":"11598",
+            "CloseReasonId":null,
+            "PostId":"40411",
+            "PostHistoryTypeId":"3",
+            "Id":"125790",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-27T22:11:28.113",
+            "UserDisplayName":null,
+            "RevisionGUID":"011383f9-0c55-4401-9853-d5111866ed91",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"40411",
+            "PostHistoryTypeId":"10",
+            "Id":"125980",
+            "Text":"{\"OriginalQuestionIds\":[40028],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I just installed a custom lolipop 5.02 using cyanogenmod CM 12 using ODIN to my galaxy s3 mini. and everything went willafter that i tried to connect my s3 to my PC it installs the drivers and it appears in the Device Manager but it does not appear in my computer and it wont connect to kies.I tried to enable Debugging mode and the same, i tried to change the connection type,i went to settings then storage the from the menu i chose USB computer connection, once i chose PTP or MTP it gives me this error \"unfortunately, settings has stopped\".It is MTP checked by default although.this happens even without debugging enabled.How can i get my device connects to my PC? i need to transfer data.Thanks",
+    "ViewCount":"26",
+    "LastActivityDate":"2015-01-31T17:15:09.193",
+    "ClosedDate":"2015-02-02T14:46:04.520",
+    "Title":"Cannot connect my device to PC after custom cyanogenmod ROM installed",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"7",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92392",
+    "CreationDate":"2015-01-31T17:15:09.193",
+    "FavoriteCount":null,
+    "Id":"97466",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T17:15:09.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"053e370f-3696-4c64-bcdc-8d4d3533505a",
+            "UserId":"92392",
+            "CloseReasonId":null,
+            "PostId":"97466",
+            "PostHistoryTypeId":"2",
+            "Id":"317861",
+            "Text":"I just installed a custom lolipop 5.02 using cyanogenmod CM 12 using ODIN to my galaxy s3 mini. and everything went willafter that i tried to connect my s3 to my PC it installs the drivers and it appears in the Device Manager but it does not appear in my computer and it wont connect to kies.I tried to enable Debugging mode and the same, i tried to change the connection type,i went to *settings* then *storage* the from the menu i chose *USB computer connection*, once i chose PTP or MTP it gives me this error \"unfortunately, settings has stopped\".It is MTP checked by default although.this happens even without debugging enabled.How can i get my device connects to my PC? i need to transfer data.Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T17:15:09.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"053e370f-3696-4c64-bcdc-8d4d3533505a",
+            "UserId":"92392",
+            "CloseReasonId":null,
+            "PostId":"97466",
+            "PostHistoryTypeId":"1",
+            "Id":"317862",
+            "Text":"Cannot connect my device to PC after custom cyanogenmod ROM installed"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T17:15:09.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"053e370f-3696-4c64-bcdc-8d4d3533505a",
+            "UserId":"92392",
+            "CloseReasonId":null,
+            "PostId":"97466",
+            "PostHistoryTypeId":"3",
+            "Id":"317863",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-02T14:46:04.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e2c1a9b-36dc-402a-b6f9-bf816d2b1c23",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"97466",
+            "PostHistoryTypeId":"10",
+            "Id":"318468",
+            "Text":"{\"OriginalQuestionIds\":[93168],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

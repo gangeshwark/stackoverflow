@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I install Android on my non-Android device?  Is it possible to Port Android to Nokia 5230?I would love to run Android OS on my Nokia.",
+    "ViewCount":"2071",
+    "LastActivityDate":"2011-04-25T13:58:21.733",
+    "ClosedDate":"2011-04-25T14:59:02.853",
+    "Title":"Android for Nokia Nokia 5230",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4617",
+    "CreationDate":"2011-04-25T13:00:03.477",
+    "FavoriteCount":null,
+    "Id":"8616",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-25T13:00:03.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0ce68f5-b214-406f-8db6-16ed203eef53",
+            "UserId":"4617",
+            "CloseReasonId":null,
+            "PostId":"8616",
+            "PostHistoryTypeId":"2",
+            "Id":"20952",
+            "Text":"Is it possible to Port Android to Nokia 5230?I would love to run Android OS on my Nokia."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-25T13:00:03.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0ce68f5-b214-406f-8db6-16ed203eef53",
+            "UserId":"4617",
+            "CloseReasonId":null,
+            "PostId":"8616",
+            "PostHistoryTypeId":"1",
+            "Id":"20953",
+            "Text":"Android for Nokia Nokia 5230"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-25T13:00:03.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0ce68f5-b214-406f-8db6-16ed203eef53",
+            "UserId":"4617",
+            "CloseReasonId":null,
+            "PostId":"8616",
+            "PostHistoryTypeId":"3",
+            "Id":"20954",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-04-25T14:59:03.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"604fce0f-9bf1-459a-9cd1-29f8eccd3226",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"8616",
+            "PostHistoryTypeId":"5",
+            "Id":"20962",
+            "Text":"> **Possible Duplicate:**  > [Can I install Android on my non-Android device?](http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-device)  Is it possible to Port Android to Nokia 5230?I would love to run Android OS on my Nokia."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-04-25T14:59:02.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f4f7fc0-0ac3-46fd-bbe0-3052a3baf58f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"8616",
+            "PostHistoryTypeId":"10",
+            "Id":"20963",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

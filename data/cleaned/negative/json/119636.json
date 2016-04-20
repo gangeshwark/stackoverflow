@@ -1,0 +1,71 @@
+{
+    "Body":"I have a second gen MOTO -E . I have 220 MB free in internal storage but I can't download apps of even 3 MB What should I do ? ",
+    "ViewCount":"89",
+    "LastActivityDate":"2015-08-19T12:10:35.297",
+    "ClosedDate":"2015-08-19T22:41:24.067",
+    "Title":"Got 220 MB space free but still not able to download apps",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122740",
+    "CreationDate":"2015-08-18T14:02:47.570",
+    "FavoriteCount":"1",
+    "Id":"119636",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T14:02:47.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a1179bd-63fd-47c6-9896-151070b8a817",
+            "UserId":"122740",
+            "CloseReasonId":null,
+            "PostId":"119636",
+            "PostHistoryTypeId":"2",
+            "Id":"391946",
+            "Text":"I have a second gen MOTO -E . I have 220 MB free in internal storage but I can't download apps of even 3 MB What should I do ? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T14:02:47.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a1179bd-63fd-47c6-9896-151070b8a817",
+            "UserId":"122740",
+            "CloseReasonId":null,
+            "PostId":"119636",
+            "PostHistoryTypeId":"1",
+            "Id":"391947",
+            "Text":"Got 220 MB space free but still not able to download apps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T14:02:47.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a1179bd-63fd-47c6-9896-151070b8a817",
+            "UserId":"122740",
+            "CloseReasonId":null,
+            "PostId":"119636",
+            "PostHistoryTypeId":"3",
+            "Id":"391948",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-19T22:41:24.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"777b0b66-8b4d-41ae-bafa-a15ee338710e",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"119636",
+            "PostHistoryTypeId":"10",
+            "Id":"392426",
+            "Text":"{\"OriginalQuestionIds\":[23010],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

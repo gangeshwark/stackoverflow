@@ -1,0 +1,71 @@
+{
+    "Body":"i am getting image from gallery and sending to the server.code is working fine but in marshmallow code does not work. image show on imageview but not getting on server.public void pickimage(){        Intent galleryIntent = new Intent(Intent.ACTION_PICK,                android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);        \/\/ Start the Intent        startActivityForResult(galleryIntent, RESULT_LOAD_IMG);    }public void pickimage(){        Intent galleryIntent = new Intent(Intent.ACTION_PICK,                android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);        \/\/ Start the Intent        startActivityForResult(galleryIntent, RESULT_LOAD_IMG);    }",
+    "ViewCount":"19",
+    "LastActivityDate":"2016-03-02T11:24:29.663",
+    "ClosedDate":"2016-03-02T15:09:20.257",
+    "Title":"In marshmallow code is not working",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154188",
+    "CreationDate":"2016-03-02T11:24:29.663",
+    "FavoriteCount":null,
+    "Id":"138609",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T11:24:29.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"18e370f8-8c3d-4f54-bae2-72760739df34",
+            "UserId":"154188",
+            "CloseReasonId":null,
+            "PostId":"138609",
+            "PostHistoryTypeId":"2",
+            "Id":"463266",
+            "Text":"i am getting image from gallery and sending to the server.code is working fine but in marshmallow code does not work. image show on imageview but not getting on server.public void pickimage(){                        Intent galleryIntent = new Intent(Intent.ACTION_PICK,                    android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);            \/\/ Start the Intent            startActivityForResult(galleryIntent, RESULT_LOAD_IMG);        }public void pickimage(){                        Intent galleryIntent = new Intent(Intent.ACTION_PICK,                    android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);            \/\/ Start the Intent            startActivityForResult(galleryIntent, RESULT_LOAD_IMG);        }"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T11:24:29.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"18e370f8-8c3d-4f54-bae2-72760739df34",
+            "UserId":"154188",
+            "CloseReasonId":null,
+            "PostId":"138609",
+            "PostHistoryTypeId":"1",
+            "Id":"463267",
+            "Text":"In marshmallow code is not working"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T11:24:29.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"18e370f8-8c3d-4f54-bae2-72760739df34",
+            "UserId":"154188",
+            "CloseReasonId":null,
+            "PostId":"138609",
+            "PostHistoryTypeId":"3",
+            "Id":"463268",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-02T15:09:20.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ac1ab59-bd87-4369-8ac5-4bfee0cf3496",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138609",
+            "PostHistoryTypeId":"10",
+            "Id":"463331",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

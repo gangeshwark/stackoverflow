@@ -1,0 +1,71 @@
+{
+    "Body":"I have Silver-Line tablet SL-1066 model. When I connect USB stick or SD card the tablet always create a folder under the name \"LOST.DIR\" and the folder is empty.this folder is also appear in my computer when I connect USB or SD card, this is also appear in my computer after the tablet created it. I tried always to delete it, but if I connect the device to the tablet again, it is will recreate the folder. Someone know how to make it never to create this folder again?Thank you!",
+    "ViewCount":"41",
+    "LastActivityDate":"2015-10-28T01:14:11.167",
+    "ClosedDate":"2015-11-02T17:36:27.583",
+    "Title":"LOST.DIR folder appears all the time in my tablet",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"134135",
+    "CreationDate":"2015-10-28T00:07:33.750",
+    "FavoriteCount":null,
+    "Id":"127249",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-28T00:07:33.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"59067d69-2a5d-4034-b58c-cfa01fe0785c",
+            "UserId":"134135",
+            "CloseReasonId":null,
+            "PostId":"127249",
+            "PostHistoryTypeId":"2",
+            "Id":"417810",
+            "Text":"I have Silver-Line tablet SL-1066 model. When I connect USB stick or SD card the tablet always create a folder under the name \"LOST.DIR\" and the folder is empty.this folder is also appear in my computer when I connect USB or SD card, this is also appear in my computer after the tablet created it. I tried always to delete it, but if I connect the device to the tablet again, it is will recreate the folder. Someone know how to make it never to create this folder again?Thank you!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-28T00:07:33.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"59067d69-2a5d-4034-b58c-cfa01fe0785c",
+            "UserId":"134135",
+            "CloseReasonId":null,
+            "PostId":"127249",
+            "PostHistoryTypeId":"1",
+            "Id":"417811",
+            "Text":"LOST.DIR folder appears all the time in my tablet"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-28T00:07:33.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"59067d69-2a5d-4034-b58c-cfa01fe0785c",
+            "UserId":"134135",
+            "CloseReasonId":null,
+            "PostId":"127249",
+            "PostHistoryTypeId":"3",
+            "Id":"417812",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-02T17:36:27.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"1caa4ace-2399-4fac-a9ba-62d60180f806",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127249",
+            "PostHistoryTypeId":"10",
+            "Id":"419910",
+            "Text":"{\"OriginalQuestionIds\":[44959],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

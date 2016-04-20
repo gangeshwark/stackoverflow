@@ -1,0 +1,71 @@
+{
+    "Body":"What is a ROM for the Samsung Galaxy Note 3 (T-Mobile) that supports Miracast? I should be able to install the ROM via a custom recovery (I am using TWRP) without the use of ODIN.",
+    "ViewCount":"5",
+    "LastActivityDate":"2015-06-07T19:25:38.813",
+    "ClosedDate":"2015-06-08T00:45:00.263",
+    "Title":"Custom ROM for SM-N900T with Miracast support",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"56548",
+    "CreationDate":"2015-06-07T19:25:38.813",
+    "FavoriteCount":null,
+    "Id":"111762",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-07T19:25:38.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"87b9802f-c5c9-4f4f-9fa4-e61774badc43",
+            "UserId":"56548",
+            "CloseReasonId":null,
+            "PostId":"111762",
+            "PostHistoryTypeId":"2",
+            "Id":"365541",
+            "Text":"What is a ROM for the Samsung Galaxy Note 3 (T-Mobile) that supports Miracast? I should be able to install the ROM via a custom recovery (I am using TWRP) without the use of ODIN."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-07T19:25:38.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"87b9802f-c5c9-4f4f-9fa4-e61774badc43",
+            "UserId":"56548",
+            "CloseReasonId":null,
+            "PostId":"111762",
+            "PostHistoryTypeId":"1",
+            "Id":"365542",
+            "Text":"Custom ROM for SM-N900T with Miracast support"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-07T19:25:38.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"87b9802f-c5c9-4f4f-9fa4-e61774badc43",
+            "UserId":"56548",
+            "CloseReasonId":null,
+            "PostId":"111762",
+            "PostHistoryTypeId":"3",
+            "Id":"365543",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-08T00:45:00.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"660feaf0-9145-49f0-880c-11a71ab65f5a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"111762",
+            "PostHistoryTypeId":"10",
+            "Id":"365592",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

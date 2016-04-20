@@ -1,0 +1,71 @@
+{
+    "Body":"I have some applications crashing.The message saysThe application XXX (process YYY) has stopped unexpectedly. Please try again.One of applications who is crashing is Google Maps. It is crashing all the time even if I don't run it. Only uninstallation helps.What does this crashing mean?",
+    "ViewCount":"78",
+    "LastActivityDate":"2012-11-20T21:01:26.457",
+    "ClosedDate":"2014-12-16T22:25:01.960",
+    "Title":"Applications crashing",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15099",
+    "CreationDate":"2012-11-20T21:01:26.457",
+    "FavoriteCount":null,
+    "Id":"33802",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-20T21:01:26.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a62b415-59f1-426b-b74b-7a12d3fa523b",
+            "UserId":"15099",
+            "CloseReasonId":null,
+            "PostId":"33802",
+            "PostHistoryTypeId":"2",
+            "Id":"100223",
+            "Text":"I have some applications crashing.The message saysThe application XXX (process YYY) has stopped unexpectedly. Please try again.One of applications who is crashing is Google Maps. It is crashing all the time even if I don't run it. Only uninstallation helps.What does this crashing mean?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-20T21:01:26.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a62b415-59f1-426b-b74b-7a12d3fa523b",
+            "UserId":"15099",
+            "CloseReasonId":null,
+            "PostId":"33802",
+            "PostHistoryTypeId":"1",
+            "Id":"100224",
+            "Text":"Applications crashing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-20T21:01:26.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a62b415-59f1-426b-b74b-7a12d3fa523b",
+            "UserId":"15099",
+            "CloseReasonId":null,
+            "PostId":"33802",
+            "PostHistoryTypeId":"3",
+            "Id":"100225",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-16T22:25:01.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"54b1f67e-b6e3-456d-a858-4eae7844accf",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"33802",
+            "PostHistoryTypeId":"10",
+            "Id":"301049",
+            "Text":"{\"OriginalQuestionIds\":[35367],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

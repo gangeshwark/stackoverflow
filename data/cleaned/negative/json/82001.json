@@ -1,0 +1,83 @@
+{
+    "Body":"Could I use my phone or tablet to create an image rendering of my body that I could use to quantify body metrics like waist size, inseam, etc?",
+    "ViewCount":"55",
+    "LastActivityDate":"2014-10-05T14:20:49.240",
+    "ClosedDate":"2014-11-15T19:20:53.107",
+    "Title":"Could I use my phone to scan or image myself?",
+    "LastEditorUserId":"5342",
+    "Tags":"",
+    "LastEditDate":"2014-10-05T14:20:49.240",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"72496",
+    "CreationDate":"2014-09-05T17:07:07.817",
+    "FavoriteCount":null,
+    "Id":"82001",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-05T17:07:07.817",
+            "UserDisplayName":null,
+            "RevisionGUID":"921e9d00-75cb-442e-8dc0-51633645e0c4",
+            "UserId":"72496",
+            "CloseReasonId":null,
+            "PostId":"82001",
+            "PostHistoryTypeId":"2",
+            "Id":"268534",
+            "Text":"I'd like to image myself to provide accurate metrics of my body and would love to use my phone. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-05T17:07:07.817",
+            "UserDisplayName":null,
+            "RevisionGUID":"921e9d00-75cb-442e-8dc0-51633645e0c4",
+            "UserId":"72496",
+            "CloseReasonId":null,
+            "PostId":"82001",
+            "PostHistoryTypeId":"1",
+            "Id":"268535",
+            "Text":"Could I use my phone to scan or image myself?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-05T17:07:07.817",
+            "UserDisplayName":null,
+            "RevisionGUID":"921e9d00-75cb-442e-8dc0-51633645e0c4",
+            "UserId":"72496",
+            "CloseReasonId":null,
+            "PostId":"82001",
+            "PostHistoryTypeId":"3",
+            "Id":"268536",
+            "Text":""
+        },
+        {
+            "Comment":"change question based on comment",
+            "CreationDate":"2014-10-05T14:20:49.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"d3d3df44-8445-46d7-9148-7c5ec819703a",
+            "UserId":"5342",
+            "CloseReasonId":null,
+            "PostId":"82001",
+            "PostHistoryTypeId":"5",
+            "Id":"276125",
+            "Text":"Could I use my phone or tablet to create an image rendering of my body that I could use to quantify body metrics like waist size, inseam, etc?"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-11-15T19:20:53.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4815531-3d62-49f6-b0b4-c8c14188e609",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"82001",
+            "PostHistoryTypeId":"10",
+            "Id":"288816",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

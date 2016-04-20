@@ -1,0 +1,83 @@
+{
+    "Body":"It often happens that I want to take a quick note to self when I have my phone, so I won't forget something, but I want to do it as quickly as possible because I'm in the middle of something else. Later, when I'm doing tasks, I'll have time to dedicate to do it, or make a proper task for it in my task management software. The shitty wayWhat I currently do is open up Gmail and write an email to myself. That's takes about 3 times longer than necessary, because I need to:Unlock the phoneOpen the GMail appWait for it to loadPress composeTap the first two letters of my email addressWait for the autocomplete box to appear, which can take a long time if there's internet connectivity problemsClick my email addressTap in the Subject fieldType the memo (in very concise words of course) Sometimes the typing goes wrong (I swipe) and I have to correct itClose the GMail app and lock the phoneThere are 11 items in this list. I'm looking for something much shorter. Here's how I'm imagining it:The good wayUnlock the phoneTap the record button that's on a widget on my desktopSay the messageLet go of the buttonLock the phoneThe crucial part is that the message will be sent as an audio file to my email, so I'll notice it. (I don't want to have to check the app for it, I want it in my email.)Is there an app that does that? ",
+    "ViewCount":"52",
+    "LastActivityDate":"2014-09-04T22:30:20.280",
+    "ClosedDate":"2014-09-06T14:14:29.940",
+    "Title":"One-tap audio note file that sends to email",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16170",
+    "CreationDate":"2014-09-03T21:23:54.063",
+    "FavoriteCount":null,
+    "Id":"81875",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-03T21:23:54.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fa1833b-0b53-44d3-b1dc-1e7b3d9aba69",
+            "UserId":"16170",
+            "CloseReasonId":null,
+            "PostId":"81875",
+            "PostHistoryTypeId":"2",
+            "Id":"268085",
+            "Text":"It often happens that I want to take a quick note to self when I have my phone, so I won't forget something, but I want to do it as quickly as possible because I'm in the middle of something else. Later, when I'm doing tasks, I'll have time to dedicate to do it, or make a proper task for it in my task management software. The shitty way==============What I currently do is open up Gmail and write an email to myself. That's takes about 3 times longer than necessary, because I need to: - Unlock the phone - Open the GMail app - Wait for it to load - Press compose - Tap the first two letters of my email address - Wait for the autocomplete box to appear, which can take a long time if there's internet connectivity problems - Click my email address - Tap in the Subject field - Type the memo (in very concise words of course)  - Sometimes the typing goes wrong (I swipe) and I have to correct it - Close the GMail app and lock the phoneThere are 11 items in this list. I'm looking for something much shorter. Here's how I'm imagining it:The good way============== - Unlock the phone - Tap the record button that's on a widget on my desktop - Say the message - Let go of the button - Lock the phoneThe crucial part is that the message will be sent as an audio file to my email, so I'll notice it. (I don't want to have to check the app for it, I want it in my email.)Is there an app that does that? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-03T21:23:54.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fa1833b-0b53-44d3-b1dc-1e7b3d9aba69",
+            "UserId":"16170",
+            "CloseReasonId":null,
+            "PostId":"81875",
+            "PostHistoryTypeId":"1",
+            "Id":"268086",
+            "Text":"One-tap audio note file that sends to email"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-03T21:23:54.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fa1833b-0b53-44d3-b1dc-1e7b3d9aba69",
+            "UserId":"16170",
+            "CloseReasonId":null,
+            "PostId":"81875",
+            "PostHistoryTypeId":"3",
+            "Id":"268087",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/507445221924569088",
+            "CreationDate":"2014-09-04T08:29:03.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd85cbb7-0c37-4e90-9d4b-9029f3c76377",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"81875",
+            "PostHistoryTypeId":"25",
+            "Id":"268212",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-09-06T14:14:29.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e332e0a-6ca1-4f1a-806b-51717c249e8d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"81875",
+            "PostHistoryTypeId":"10",
+            "Id":"268712",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

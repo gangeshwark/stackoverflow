@@ -1,0 +1,83 @@
+{
+    "Body":"I have a samsung i9100 phone. The screen is broken. Usb debug mode is not enabled. So is it possible to enable usb debug in such situation? I don't want to replace the screen now.",
+    "ViewCount":"7948",
+    "LastActivityDate":"2015-02-16T12:30:28.140",
+    "ClosedDate":"2014-02-26T13:21:47.837",
+    "Title":"Is it possible to enable usb debug without touch screen?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-02-16T12:30:28.140",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54718",
+    "CreationDate":"2014-02-26T04:39:04.923",
+    "FavoriteCount":"1",
+    "Id":"64361",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-26T04:39:04.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"91bf0f99-2370-47e1-afa7-e52d4cbc44de",
+            "UserId":"54718",
+            "CloseReasonId":null,
+            "PostId":"64361",
+            "PostHistoryTypeId":"2",
+            "Id":"218830",
+            "Text":"I have a samsung i9100 phone. The screen is broken. Usb debug mode is not enabled. So is it possible to enable usb debug in such situation? I don't want to replace the screen now."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-26T04:39:04.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"91bf0f99-2370-47e1-afa7-e52d4cbc44de",
+            "UserId":"54718",
+            "CloseReasonId":null,
+            "PostId":"64361",
+            "PostHistoryTypeId":"1",
+            "Id":"218831",
+            "Text":"Is it possible to enable usb debug without touch screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-26T04:39:04.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"91bf0f99-2370-47e1-afa7-e52d4cbc44de",
+            "UserId":"54718",
+            "CloseReasonId":null,
+            "PostId":"64361",
+            "PostHistoryTypeId":"3",
+            "Id":"218832",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-26T13:21:47.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"3952cfbe-8a1e-4c05-91ea-5a3e5ab66edc",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"64361",
+            "PostHistoryTypeId":"10",
+            "Id":"218933",
+            "Text":"{\"OriginalQuestionIds\":[12834],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-02-16T12:30:28.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"08cede59-7add-4d92-8380-5c312fe26e2f",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"64361",
+            "PostHistoryTypeId":"6",
+            "Id":"323403",
+            "Text":""
+        }
+    ]
+}

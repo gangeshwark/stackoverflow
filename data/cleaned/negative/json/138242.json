@@ -1,0 +1,71 @@
+{
+    "Body":"I'd like to add two buttons to my MainActivity, one for capture a photo by pressing and the other one for capture a video by giving a long press. I don't want to show the photo or video in a preview, just saving them in my gallery. ",
+    "ViewCount":"7",
+    "LastActivityDate":"2016-02-27T08:58:19.570",
+    "ClosedDate":"2016-02-27T09:54:58.640",
+    "Title":"How to capture a photo and a video with two buttons?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153537",
+    "CreationDate":"2016-02-27T08:58:19.570",
+    "FavoriteCount":null,
+    "Id":"138242",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T08:58:19.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"8844ed7f-ffe7-4970-badc-162addc3fb9e",
+            "UserId":"153537",
+            "CloseReasonId":null,
+            "PostId":"138242",
+            "PostHistoryTypeId":"2",
+            "Id":"461930",
+            "Text":"I'd like to add two buttons to my MainActivity, one for capture a photo by pressing and the other one for capture a video by giving a long press. I don't want to show the photo or video in a preview, just saving them in my gallery. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T08:58:19.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"8844ed7f-ffe7-4970-badc-162addc3fb9e",
+            "UserId":"153537",
+            "CloseReasonId":null,
+            "PostId":"138242",
+            "PostHistoryTypeId":"1",
+            "Id":"461931",
+            "Text":"How to capture a photo and a video with two buttons?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T08:58:19.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"8844ed7f-ffe7-4970-badc-162addc3fb9e",
+            "UserId":"153537",
+            "CloseReasonId":null,
+            "PostId":"138242",
+            "PostHistoryTypeId":"3",
+            "Id":"461932",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T09:54:58.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac31c1a5-0eb2-4eb8-803d-1abd43cac169",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138242",
+            "PostHistoryTypeId":"10",
+            "Id":"461940",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

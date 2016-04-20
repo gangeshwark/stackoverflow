@@ -1,0 +1,71 @@
+{
+    "Body":"I want to boost the ram's memory, but as I clean my phone,it's memory was almost full.",
+    "ViewCount":"265",
+    "LastActivityDate":"2014-04-24T05:05:19.240",
+    "ClosedDate":"2014-04-24T17:18:33.243",
+    "Title":"How can I add extra memory in my ram android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"59204",
+    "CreationDate":"2014-04-24T04:01:47.063",
+    "FavoriteCount":null,
+    "Id":"68120",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-24T04:01:47.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"56667d97-ba54-4d45-ba8f-89aff4f8a5aa",
+            "UserId":"59204",
+            "CloseReasonId":null,
+            "PostId":"68120",
+            "PostHistoryTypeId":"2",
+            "Id":"232197",
+            "Text":"I want to boost the ram's memory, but as I clean my phone,it's memory was almost full."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-24T04:01:47.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"56667d97-ba54-4d45-ba8f-89aff4f8a5aa",
+            "UserId":"59204",
+            "CloseReasonId":null,
+            "PostId":"68120",
+            "PostHistoryTypeId":"1",
+            "Id":"232198",
+            "Text":"How can I add extra memory in my ram android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-24T04:01:47.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"56667d97-ba54-4d45-ba8f-89aff4f8a5aa",
+            "UserId":"59204",
+            "CloseReasonId":null,
+            "PostId":"68120",
+            "PostHistoryTypeId":"3",
+            "Id":"232199",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-24T17:18:33.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"63e8776e-ee15-4e10-89b2-f7287d3f6f4a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"68120",
+            "PostHistoryTypeId":"10",
+            "Id":"232314",
+            "Text":"{\"OriginalQuestionIds\":[22997],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

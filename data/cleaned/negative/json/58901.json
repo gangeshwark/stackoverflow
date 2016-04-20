@@ -1,0 +1,71 @@
+{
+    "Body":"How can I install an apk app outside of Google Play. Like if I downloaded it from another site and I try to open it, it says unable to install and I read that you have to do something to get it to work. What do you have to do?",
+    "ViewCount":"275",
+    "LastActivityDate":"2013-12-13T14:34:54.287",
+    "ClosedDate":"2013-12-13T15:18:37.440",
+    "Title":"How to install an app outside Google Play?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"48334",
+    "CreationDate":"2013-12-13T14:30:43.880",
+    "FavoriteCount":null,
+    "Id":"58901",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-13T14:30:43.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"79be9e39-b60a-4453-a3a1-8e230ac2df3b",
+            "UserId":"48334",
+            "CloseReasonId":null,
+            "PostId":"58901",
+            "PostHistoryTypeId":"2",
+            "Id":"198172",
+            "Text":"How can I install an apk app outside of Google Play. Like if I downloaded it from another site and I try to open it, it says unable to install and I read that you have to do something to get it to work. What do you have to do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-13T14:30:43.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"79be9e39-b60a-4453-a3a1-8e230ac2df3b",
+            "UserId":"48334",
+            "CloseReasonId":null,
+            "PostId":"58901",
+            "PostHistoryTypeId":"1",
+            "Id":"198173",
+            "Text":"How to install an app outside Google Play?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-13T14:30:43.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"79be9e39-b60a-4453-a3a1-8e230ac2df3b",
+            "UserId":"48334",
+            "CloseReasonId":null,
+            "PostId":"58901",
+            "PostHistoryTypeId":"3",
+            "Id":"198174",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-13T15:18:37.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"8187537b-9e9c-4c96-b411-7d4b12a28a7c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"58901",
+            "PostHistoryTypeId":"10",
+            "Id":"198181",
+            "Text":"{\"OriginalQuestionIds\":[5566],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

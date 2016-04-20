@@ -1,0 +1,83 @@
+{
+    "Body":"I downloaded an APK and when I try to install it, the \"install\" button is completely unresponsive.I have gone into the settings and enabled \"Unknown sources\" in the security section.Is there something else I need to do?I'm using a Galaxy S5 with Kitkat 4.4.2, unrooted.",
+    "ViewCount":"93871",
+    "LastActivityDate":"2014-11-22T22:01:57.277",
+    "ClosedDate":"2015-04-24T15:05:16.993",
+    "Title":"Why can't I install this downloaded APK?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":null,
+    "Score":"14",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5892",
+    "CreationDate":"2014-09-08T10:01:08.710",
+    "FavoriteCount":"7",
+    "Id":"82155",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-08T10:01:08.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9edb4ff-163b-40c9-a188-e9fd4f480066",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"82155",
+            "PostHistoryTypeId":"2",
+            "Id":"269084",
+            "Text":"I downloaded an APK and when I try to install it, the \"install\" button is completely unresponsive.I have gone into the settings and enabled \"Unknown sources\" in the security section.Is there something else I need to do?I'm using a Galaxy S5 with Kitkat 4.4.2, unrooted."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-08T10:01:08.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9edb4ff-163b-40c9-a188-e9fd4f480066",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"82155",
+            "PostHistoryTypeId":"1",
+            "Id":"269085",
+            "Text":"Why can't I install this downloaded APK?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-08T10:01:08.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9edb4ff-163b-40c9-a188-e9fd4f480066",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"82155",
+            "PostHistoryTypeId":"3",
+            "Id":"269086",
+            "Text":""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-23T04:34:53.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"74734daa-3f39-4fa8-a6ec-a4391292c552",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"82155",
+            "PostHistoryTypeId":"19",
+            "Id":"291671",
+            "Text":"{\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\"}]}"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-24T15:05:16.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4ea06e0-22e4-4793-892b-8fc55b96c5a6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"82155",
+            "PostHistoryTypeId":"10",
+            "Id":"348552",
+            "Text":"{\"OriginalQuestionIds\":[69981],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"i am new in android development and i am assigned a task to create an application using android studio that will share screen from one android device to other.concept:an application that will help user to access their friends or client screen no audio no file transfer just screen share please give me idea how i can achieve this goal what kind of library i should use.Note* there are some android application available that share screen from tab to desktop to phone to desktop but i am unable to get such application.  Dear Members you assistance will be very helpful for me please pay attention.Thanks Regards Hassan Gillani   ",
+    "ViewCount":"34",
+    "LastActivityDate":"2016-02-25T14:42:48.940",
+    "ClosedDate":"2016-02-26T05:02:50.320",
+    "Title":"How to share screen from on android phone to other",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"144215",
+    "CreationDate":"2016-02-25T14:13:38.077",
+    "FavoriteCount":null,
+    "Id":"138088",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T14:13:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"88e9c1a0-8819-4f5c-a126-bfb836e66241",
+            "UserId":"144215",
+            "CloseReasonId":null,
+            "PostId":"138088",
+            "PostHistoryTypeId":"2",
+            "Id":"460924",
+            "Text":"i am new in android development and i am assigned a task to create an application using android studio that will share screen from one android device to other.concept:an application that will help user to access their friends or client screen no audio no file transfer just screen share please give me idea how i can achieve this goal what kind of library i should use.Note* there are some android application available that share screen from tab to desktop to phone to desktop but i am unable to get such application.  Dear Members you assistance will be very helpful for me please pay attention.Thanks Regards Hassan Gillani   "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T14:13:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"88e9c1a0-8819-4f5c-a126-bfb836e66241",
+            "UserId":"144215",
+            "CloseReasonId":null,
+            "PostId":"138088",
+            "PostHistoryTypeId":"1",
+            "Id":"460925",
+            "Text":"How to share screen from on android phone to other"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T14:13:38.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"88e9c1a0-8819-4f5c-a126-bfb836e66241",
+            "UserId":"144215",
+            "CloseReasonId":null,
+            "PostId":"138088",
+            "PostHistoryTypeId":"3",
+            "Id":"460926",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-26T05:02:50.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"3df8f79e-006c-460b-870d-05c001311947",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138088",
+            "PostHistoryTypeId":"10",
+            "Id":"461129",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

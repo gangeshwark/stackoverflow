@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Google's 2-step verification  As per today's Stackexchange Podcast I took Jeff's advice and enabled 2-factor authentication for my gmail account. However now when my android phone is complaining with a notification in the top bar saying:  Sign in error for XXXX@gmail.comI assume this is a failure in my phone trying to sync my account.Of course I try to enter in my password (unchanged after enabling 2-factor auth) and it fails. Is there something I need to do to get 2-factor authentication to work correctly with my android device? I looked through the gmail app settings and didn't see anything obvious. ",
+    "ViewCount":"5597",
+    "LastActivityDate":"2011-11-02T23:23:33.647",
+    "ClosedDate":"2011-11-02T23:41:45.930",
+    "Title":"Just enabled 2-factor authentication for gmail, now on my Android phone I get \"Sign-in error\" to my google account",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3192",
+    "CreationDate":"2011-11-02T23:09:40.370",
+    "FavoriteCount":"2",
+    "Id":"15216",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-02T23:09:40.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a32b67b-607e-4431-ab2b-558379ea2783",
+            "UserId":"3192",
+            "CloseReasonId":null,
+            "PostId":"15216",
+            "PostHistoryTypeId":"2",
+            "Id":"40723",
+            "Text":"As per today's Stackexchange Podcast I took Jeff's advice and enabled 2-factor authentication for my gmail account. However now when my android phone is complaining with a notification in the top bar saying:> Sign in error for XXXX@gmail.comI assume this is a failure in my phone trying to sync my account.Of course I try to enter in my password (unchanged after enabling 2-factor auth) and it fails. Is there something I need to do to get 2-factor authentication to work correctly with my android device? I looked through the gmail app settings and didn't see anything obvious. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-02T23:09:40.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a32b67b-607e-4431-ab2b-558379ea2783",
+            "UserId":"3192",
+            "CloseReasonId":null,
+            "PostId":"15216",
+            "PostHistoryTypeId":"1",
+            "Id":"40724",
+            "Text":"Just enabled 2-factor authentication for gmail, now on my Android phone I get \"Sign-in error\" to my google account"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-02T23:09:40.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a32b67b-607e-4431-ab2b-558379ea2783",
+            "UserId":"3192",
+            "CloseReasonId":null,
+            "PostId":"15216",
+            "PostHistoryTypeId":"3",
+            "Id":"40725",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-11-02T23:41:47.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cc9de64-27e5-462b-872c-a1c8ba104727",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"15216",
+            "PostHistoryTypeId":"5",
+            "Id":"40729",
+            "Text":"> **Possible Duplicate:**  > [Google's 2-step verification](http:\/\/android.stackexchange.com\/questions\/14884\/googles-2-step-verification)  As per today's Stackexchange Podcast I took Jeff's advice and enabled 2-factor authentication for my gmail account. However now when my android phone is complaining with a notification in the top bar saying:> Sign in error for XXXX@gmail.comI assume this is a failure in my phone trying to sync my account.Of course I try to enter in my password (unchanged after enabling 2-factor auth) and it fails. Is there something I need to do to get 2-factor authentication to work correctly with my android device? I looked through the gmail app settings and didn't see anything obvious. "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-11-02T23:41:45.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e65a531-0fe5-4478-b686-0288bceea638",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"15216",
+            "PostHistoryTypeId":"10",
+            "Id":"40730",
+            "Text":"{\"OriginalQuestionIds\":[14884],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I just bought a Samsung Galaxy S4 and I'd like to get rid of a lot of applications I found installed but I'm not going to use.What options do I have?Surfing the web it seems that I cannot do it without rooting and the only option I have is to disable the applications I don't want. Is that the only option?Alternatively I saw that a lot of web site links to TrulyClean but it seems to be discontinued.Is there any alternative script I should look for?I see that there is the possibility to install other ROMs (Maybe the one that Google uses for the version of the device it sells on the play store). Would that help me getting rid of all the bloatware?These were the options I found searching the web, would you recommend me to go down for any of these three paths or is there any better option?I'd like to know which are the pros and cons of each of them so that I can come up with the best decision for my needs.",
+    "ViewCount":"2566",
+    "LastActivityDate":"2013-09-27T08:45:18.720",
+    "ClosedDate":"2013-09-27T14:06:47.043",
+    "Title":"Remove bloatware from a Samsung Galaxy S4",
+    "LastEditorUserId":"18865",
+    "Tags":"",
+    "LastEditDate":"2013-09-27T08:32:27.247",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18865",
+    "CreationDate":"2013-09-27T08:15:13.493",
+    "FavoriteCount":null,
+    "Id":"54027",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T08:15:13.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"00380c8a-c71d-4297-9b63-fa1da842597f",
+            "UserId":"18865",
+            "CloseReasonId":null,
+            "PostId":"54027",
+            "PostHistoryTypeId":"2",
+            "Id":"178855",
+            "Text":"I just bought a Samsung Galaxy S4 and I'd like to get rid of a lot of applications I found installed but I'm not going to use.What options do I have?Surfing the web it seems that I cannot do it without rooting and the only option I have is to [disable the applications I don't want](http:\/\/www.businessinsider.com\/remove-bloatware-on-samsung-galaxy-s4-2013-5). Is that the only option?Alternatively I saw that a lot of web site links to [TrulyClean](http:\/\/forum.xda-developers.com\/showthread.php?t=2307355) but it seems to be discontinued.Is there any alternative script I should look for?I see that there is the possibility to install other ROMs. Would that help me getting rid of all the bloatware?These were the options I found searching the web, would you recommend me to go down for any of these three paths or is there any better option?I'd like to know which are the pros and cons of each of them so that I can come up with the best decision for my needs."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T08:15:13.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"00380c8a-c71d-4297-9b63-fa1da842597f",
+            "UserId":"18865",
+            "CloseReasonId":null,
+            "PostId":"54027",
+            "PostHistoryTypeId":"1",
+            "Id":"178856",
+            "Text":"Remove bloatware from a Samsung Galaxy S4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T08:15:13.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"00380c8a-c71d-4297-9b63-fa1da842597f",
+            "UserId":"18865",
+            "CloseReasonId":null,
+            "PostId":"54027",
+            "PostHistoryTypeId":"3",
+            "Id":"178857",
+            "Text":""
+        },
+        {
+            "Comment":"Added a reference to the Google custom ROM",
+            "CreationDate":"2013-09-27T08:32:27.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"402a93ad-f592-4b64-a9ad-d3a9de5fcfe4",
+            "UserId":"18865",
+            "CloseReasonId":null,
+            "PostId":"54027",
+            "PostHistoryTypeId":"5",
+            "Id":"178868",
+            "Text":"I just bought a Samsung Galaxy S4 and I'd like to get rid of a lot of applications I found installed but I'm not going to use.What options do I have?Surfing the web it seems that I cannot do it without rooting and the only option I have is to [disable the applications I don't want](http:\/\/www.businessinsider.com\/remove-bloatware-on-samsung-galaxy-s4-2013-5). Is that the only option?Alternatively I saw that a lot of web site links to [TrulyClean](http:\/\/forum.xda-developers.com\/showthread.php?t=2307355) but it seems to be discontinued.Is there any alternative script I should look for?I see that there is the possibility to install other ROMs ([Maybe the one that Google uses for the version of the device it sells on the play store](http:\/\/www.technobuffalo.com\/videos\/how-to-turn-a-galaxy-s4-into-a-google-edition-phone\/)). Would that help me getting rid of all the bloatware?These were the options I found searching the web, would you recommend me to go down for any of these three paths or is there any better option?I'd like to know which are the pros and cons of each of them so that I can come up with the best decision for my needs."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-27T14:06:47.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c9f6790-9dca-4846-b30e-4c615326d4ca",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"54027",
+            "PostHistoryTypeId":"10",
+            "Id":"178941",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

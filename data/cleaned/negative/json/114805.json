@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to install this banking app from Google Play: https:\/\/play.google.com\/store\/apps\/details?id=pl.ing.ingmobileThis app is allowed to be installed only by users in Poland. My Google account was created in Brazil, but I am in Poland since almost 7 months, so I should be allowed to install this app.On Google Play, it says: This app is incompatible with all of your devices., further more, on my phone's tooltip, it reads: This item cannot be installed on your device's country..That is very problematic, as this device was bought in Poland, is using a Polish SIM card and most importantly, it is physically in Poland, so how can it not be compatible?How can I force-install this app on my device? It is a Sony Xperia Z Ultra, rooted and flashed with CM12.1.",
+    "ViewCount":"612",
+    "LastActivityDate":"2015-07-10T12:15:47.213",
+    "ClosedDate":"2015-07-19T16:53:41.887",
+    "Title":"Can't install country-restricted app even if I'm physically in this country",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"7",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"69253",
+    "CreationDate":"2015-07-09T14:22:38.870",
+    "FavoriteCount":"1",
+    "Id":"114805",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T14:22:38.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"21fed4f3-989e-4b63-877c-a7e38971b729",
+            "UserId":"69253",
+            "CloseReasonId":null,
+            "PostId":"114805",
+            "PostHistoryTypeId":"2",
+            "Id":"376722",
+            "Text":"I am trying to install this banking app from Google Play: https:\/\/play.google.com\/store\/apps\/details?id=pl.ing.ingmobileThis app is allowed to be installed only by users in Poland. My Google account was created in Brazil, but I am in Poland since almost 7 months, so I should be allowed to install this app.On Google Play, it says: `This app is incompatible with all of your devices.`, further more, on my phone's tooltip, it reads: `This item cannot be installed on your device's country.`.That is very problematic, as this device was bought in Poland, is using a Polish SIM card and most importantly, it **is** physically in Poland, so how can it not be compatible?How can I force-install this app on my device? It is a Sony Xperia Z Ultra, rooted and flashed with CM12.1."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T14:22:38.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"21fed4f3-989e-4b63-877c-a7e38971b729",
+            "UserId":"69253",
+            "CloseReasonId":null,
+            "PostId":"114805",
+            "PostHistoryTypeId":"1",
+            "Id":"376723",
+            "Text":"Can't install country-restricted app even if I'm physically in this country"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T14:22:38.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"21fed4f3-989e-4b63-877c-a7e38971b729",
+            "UserId":"69253",
+            "CloseReasonId":null,
+            "PostId":"114805",
+            "PostHistoryTypeId":"3",
+            "Id":"376724",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-19T16:53:41.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2168220-aa14-4a15-b2b8-d558e2f6c05a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"114805",
+            "PostHistoryTypeId":"10",
+            "Id":"380243",
+            "Text":"{\"OriginalQuestionIds\":[12538],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have heard these two terms the most, whenever people talk about Android OS. One of them is Rooting or root access, and the other one is unlocking the Boot Loader. Are these two terms exactly the same ? If not, kindly let me know the differences. P.S I am a beginner to android, and already searched a lot on the google, but could not come to a conclusion. A specific answer would be really helpful. Thanks in advance.",
+    "ViewCount":"18453",
+    "LastActivityDate":"2015-11-30T10:34:56.920",
+    "ClosedDate":"2014-04-30T02:15:05.193",
+    "Title":"What is the difference between rooting and unlocking the Boot Loader in reference to Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"68406",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"59585",
+    "CreationDate":"2014-04-29T12:12:17.620",
+    "FavoriteCount":null,
+    "Id":"68404",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T12:12:17.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"449c4a4d-06f2-4709-9481-1c341fcd4a1e",
+            "UserId":"59585",
+            "CloseReasonId":null,
+            "PostId":"68404",
+            "PostHistoryTypeId":"2",
+            "Id":"233272",
+            "Text":"I have heard these two terms the most, whenever people talk about Android OS. One of them is Rooting or root access, and the other one is unlocking the Boot Loader. Are these two terms exactly the same ? If not, kindly let me know the differences. P.S I am a beginner to android, and already searched a lot on the google, but could not come to a conclusion. A specific answer would be really helpful. Thanks in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T12:12:17.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"449c4a4d-06f2-4709-9481-1c341fcd4a1e",
+            "UserId":"59585",
+            "CloseReasonId":null,
+            "PostId":"68404",
+            "PostHistoryTypeId":"1",
+            "Id":"233273",
+            "Text":"What is the difference between rooting and unlocking the Boot Loader in reference to Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T12:12:17.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"449c4a4d-06f2-4709-9481-1c341fcd4a1e",
+            "UserId":"59585",
+            "CloseReasonId":null,
+            "PostId":"68404",
+            "PostHistoryTypeId":"3",
+            "Id":"233274",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-30T02:15:05.193",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9f2252e-06bd-4486-bf56-6b86756a8f36",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"68404",
+            "PostHistoryTypeId":"10",
+            "Id":"233433",
+            "Text":"{\"OriginalQuestionIds\":[2885],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

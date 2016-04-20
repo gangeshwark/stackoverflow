@@ -1,0 +1,83 @@
+{
+    "Body":"Is there a alarm clock app that uses UTC instead of local timezone?The reason I ask is that I am tired of this daylight savings time idea, so my plan is to set 1 time in a non DST timezone like UTC and then use that time as wakeup in the morning time all year. ",
+    "ViewCount":"496",
+    "LastActivityDate":"2012-04-18T20:08:21.120",
+    "ClosedDate":"2015-04-14T19:46:26.037",
+    "Title":"Is there a alarm clock app that uses UTC time?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13516",
+    "CreationDate":"2012-03-19T08:28:54.980",
+    "FavoriteCount":null,
+    "Id":"20766",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T08:28:54.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bf2765c-a29c-4828-b7c5-a15e8e91cbd1",
+            "UserId":"13516",
+            "CloseReasonId":null,
+            "PostId":"20766",
+            "PostHistoryTypeId":"2",
+            "Id":"57951",
+            "Text":"Is there a alarm clock app that uses UTC instead of local timezone?The reason I ask is that I am tired of this daylight savings time idea, so my plan is to set 1 time in a non DST timezone like UTC and then use that time as wakeup in the morning time all year. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T08:28:54.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bf2765c-a29c-4828-b7c5-a15e8e91cbd1",
+            "UserId":"13516",
+            "CloseReasonId":null,
+            "PostId":"20766",
+            "PostHistoryTypeId":"1",
+            "Id":"57952",
+            "Text":"Is there a alarm clock app that uses UTC time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T08:28:54.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bf2765c-a29c-4828-b7c5-a15e8e91cbd1",
+            "UserId":"13516",
+            "CloseReasonId":null,
+            "PostId":"20766",
+            "PostHistoryTypeId":"3",
+            "Id":"57953",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/181664055168217088",
+            "CreationDate":"2012-03-19T08:51:00.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"0cebbd3a-a4b3-4720-a705-4f65b8596af6",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"20766",
+            "PostHistoryTypeId":"25",
+            "Id":"57958",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-04-14T19:46:26.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f85a0f9-9911-4cf5-bfc9-da100ae340f5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20766",
+            "PostHistoryTypeId":"10",
+            "Id":"344653",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

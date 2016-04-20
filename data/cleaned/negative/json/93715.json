@@ -1,0 +1,71 @@
+{
+    "Body":"Does encryption work on my phonecalls and texting for my nexus 5? I have made calls and text but have no way of finding out if it works.",
+    "ViewCount":"53",
+    "LastActivityDate":"2015-01-03T18:05:40.317",
+    "ClosedDate":"2015-02-11T01:18:07.570",
+    "Title":"Are my phone calls are still traceable?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87618",
+    "CreationDate":"2015-01-03T18:05:40.317",
+    "FavoriteCount":null,
+    "Id":"93715",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-03T18:05:40.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"874a029d-dc29-468c-a626-fb1d8d1d8d29",
+            "UserId":"87618",
+            "CloseReasonId":null,
+            "PostId":"93715",
+            "PostHistoryTypeId":"2",
+            "Id":"307277",
+            "Text":"Does encryption work on my phonecalls and texting for my nexus 5? I have made calls and text but have no way of finding out if it works."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-03T18:05:40.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"874a029d-dc29-468c-a626-fb1d8d1d8d29",
+            "UserId":"87618",
+            "CloseReasonId":null,
+            "PostId":"93715",
+            "PostHistoryTypeId":"1",
+            "Id":"307278",
+            "Text":"Are my phone calls are still traceable?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-03T18:05:40.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"874a029d-dc29-468c-a626-fb1d8d1d8d29",
+            "UserId":"87618",
+            "CloseReasonId":null,
+            "PostId":"93715",
+            "PostHistoryTypeId":"3",
+            "Id":"307279",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-02-11T01:18:07.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc357a10-65b9-4bd9-a5cf-9ffee7cf0cf5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"93715",
+            "PostHistoryTypeId":"10",
+            "Id":"321495",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

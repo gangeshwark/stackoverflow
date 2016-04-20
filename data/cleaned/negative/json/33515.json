@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to check which app uses GPS on Galaxy Nexus?  I saw the location icon at the top while on the home screen of my Galaxy Nexus. There were only two running apps and I cleared both of them, but the location icon was still there. I've discovered that if I turn location off then on again, it will go away, but I'd like to find out which of my apps is using this so I can consider uninstalling it or changing a setting.Is there a way to do this? I presume maybe an app that detects this or some system thing?",
+    "ViewCount":"15859",
+    "LastActivityDate":"2012-11-16T18:59:40.773",
+    "ClosedDate":"2012-11-27T09:57:08.997",
+    "Title":"How can I find out what app is using my GPS from the background?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"33521",
+    "Score":"9",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16981",
+    "CreationDate":"2012-11-16T15:31:38.700",
+    "FavoriteCount":"2",
+    "Id":"33515",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T15:31:38.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee1674a9-e0b8-4e45-8b91-4b5419dff30d",
+            "UserId":"16981",
+            "CloseReasonId":null,
+            "PostId":"33515",
+            "PostHistoryTypeId":"2",
+            "Id":"99363",
+            "Text":"I saw the location icon at the top while on the home screen of my Galaxy Nexus. There were only two running apps and I cleared both of them, but the location icon was still there. I've discovered that if I turn location off then on again, it will go away, but I'd like to find out which of my apps is using this so I can consider uninstalling it or changing a setting.Is there a way to do this? I presume maybe an app that detects this or some system thing?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T15:31:38.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee1674a9-e0b8-4e45-8b91-4b5419dff30d",
+            "UserId":"16981",
+            "CloseReasonId":null,
+            "PostId":"33515",
+            "PostHistoryTypeId":"1",
+            "Id":"99364",
+            "Text":"How can I find out what app is using my GPS from the background?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T15:31:38.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee1674a9-e0b8-4e45-8b91-4b5419dff30d",
+            "UserId":"16981",
+            "CloseReasonId":null,
+            "PostId":"33515",
+            "PostHistoryTypeId":"3",
+            "Id":"99365",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-27T09:57:08.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"0196a81f-072a-45f0-ad4d-2bd7cca7de08",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33515",
+            "PostHistoryTypeId":"5",
+            "Id":"101460",
+            "Text":"> **Possible Duplicate:**  > [How to check which app uses GPS on Galaxy Nexus?](http:\/\/android.stackexchange.com\/questions\/23396\/how-to-check-which-app-uses-gps-on-galaxy-nexus)  I saw the location icon at the top while on the home screen of my Galaxy Nexus. There were only two running apps and I cleared both of them, but the location icon was still there. I've discovered that if I turn location off then on again, it will go away, but I'd like to find out which of my apps is using this so I can consider uninstalling it or changing a setting.Is there a way to do this? I presume maybe an app that detects this or some system thing?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-27T09:57:08.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"79fad2de-1f6f-4387-8930-838c2226158c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33515",
+            "PostHistoryTypeId":"10",
+            "Id":"101461",
+            "Text":"{\"OriginalQuestionIds\":[23396],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

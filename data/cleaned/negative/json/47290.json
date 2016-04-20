@@ -1,0 +1,71 @@
+{
+    "Body":"So I had this crazy idea: I could play GBA games on my computer AND phone, using Dropbox to sync the save files, and a symbolic link to get the emulator app on my phone to find the save file. However, I neglected to consider that the way Dropbox works on my phone is significantly different than the synchronized folder on my PC. So, is it possible to keep an actively synced copy of a file (perhaps using favorites) from Dropbox in the filesystem on the phone? Where would that file end up?TL;DR: Can I symbolic link to a file in Dropbox on my phone?",
+    "ViewCount":"400",
+    "LastActivityDate":"2013-06-15T15:24:48.303",
+    "ClosedDate":"2013-06-17T23:35:19.620",
+    "Title":"Symbolic link to Dropbox",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"47318",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"31049",
+    "CreationDate":"2013-06-15T01:45:54.773",
+    "FavoriteCount":null,
+    "Id":"47290",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-15T01:45:54.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3342998-1b21-46df-9614-5af534487427",
+            "UserId":"31049",
+            "CloseReasonId":null,
+            "PostId":"47290",
+            "PostHistoryTypeId":"2",
+            "Id":"153151",
+            "Text":"So I had this crazy idea: I could play GBA games on my computer AND phone, using Dropbox to sync the save files, and a symbolic link to get the emulator app on my phone to find the save file. However, I neglected to consider that the way Dropbox works on my phone is significantly different than the synchronized folder on my PC. So, is it possible to keep an actively synced copy of a file (perhaps using favorites) from Dropbox in the filesystem on the phone? Where would that file end up?----------TL;DR: Can I symbolic link to a file in Dropbox on my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-15T01:45:54.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3342998-1b21-46df-9614-5af534487427",
+            "UserId":"31049",
+            "CloseReasonId":null,
+            "PostId":"47290",
+            "PostHistoryTypeId":"1",
+            "Id":"153152",
+            "Text":"Symbolic link to Dropbox"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-15T01:45:54.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3342998-1b21-46df-9614-5af534487427",
+            "UserId":"31049",
+            "CloseReasonId":null,
+            "PostId":"47290",
+            "PostHistoryTypeId":"3",
+            "Id":"153153",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-17T23:35:19.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"be09a2e4-cd04-414d-8307-804229299a90",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"47290",
+            "PostHistoryTypeId":"10",
+            "Id":"153731",
+            "Text":"{\"OriginalQuestionIds\":[1120],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I'm working on an Android app which downloads new-updated resources from a remote server whose platform isn't specified yet.The app compares the size of the pre-downloaded local file and the remote file from the server which is a terrible idea.I just heard that the size of a file can be different depending on the platform the file lies on, to my surprise.http:\/\/askubuntu.com\/q\/341143So, question:Is an identical file expected to be the same in size in all across the Android devices?",
+    "ViewCount":"50",
+    "LastActivityDate":"2015-10-26T10:32:58.267",
+    "ClosedDate":"2015-11-02T17:45:10.290",
+    "Title":"File size in different devices",
+    "LastEditorUserId":"77120",
+    "Tags":"",
+    "LastEditDate":"2015-10-26T09:35:08.407",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"127085",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"77120",
+    "CreationDate":"2015-10-26T09:29:01.557",
+    "FavoriteCount":"0",
+    "Id":"127081",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-26T09:29:01.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d20ff82-56b4-4b92-bc76-9162d69f4983",
+            "UserId":"77120",
+            "CloseReasonId":null,
+            "PostId":"127081",
+            "PostHistoryTypeId":"2",
+            "Id":"417233",
+            "Text":"I'm working on an Android app which downloads new-updated resources from a remote server whose platform isn't specified yet.The app compares the *size* of the pre-downloaded local file and the remote file from the server which is a terrible idea.I just heard that the size of a file can be different depending on the platform the file lies on, to my surprise.http:\/\/askubuntu.com\/q\/341143So, question:**Is an identical file expected to be the same in size in all across the Android devices?**"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-26T09:29:01.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d20ff82-56b4-4b92-bc76-9162d69f4983",
+            "UserId":"77120",
+            "CloseReasonId":null,
+            "PostId":"127081",
+            "PostHistoryTypeId":"1",
+            "Id":"417234",
+            "Text":"Getting remote file's size"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-26T09:29:01.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d20ff82-56b4-4b92-bc76-9162d69f4983",
+            "UserId":"77120",
+            "CloseReasonId":null,
+            "PostId":"127081",
+            "PostHistoryTypeId":"3",
+            "Id":"417235",
+            "Text":""
+        },
+        {
+            "Comment":"renamed the title",
+            "CreationDate":"2015-10-26T09:35:08.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"acf331dd-ab2a-43f0-8fae-d40c5d72d4d5",
+            "UserId":"77120",
+            "CloseReasonId":null,
+            "PostId":"127081",
+            "PostHistoryTypeId":"4",
+            "Id":"417237",
+            "Text":"File size in different devices"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-11-02T17:45:10.290",
+            "UserDisplayName":null,
+            "RevisionGUID":"17df3ec1-2370-4fb9-bc69-b18ce412fff8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127081",
+            "PostHistoryTypeId":"10",
+            "Id":"419925",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

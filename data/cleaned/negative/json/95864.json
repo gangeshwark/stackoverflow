@@ -1,0 +1,71 @@
+{
+    "Body":"I have tried everything,Knox is on,Android device manager is on and its still not working.",
+    "ViewCount":"33",
+    "LastActivityDate":"2015-01-14T17:48:37.637",
+    "ClosedDate":"2015-01-15T11:42:52.873",
+    "Title":"having problem with my lockscreen",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"95868",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"90083",
+    "CreationDate":"2015-01-14T17:12:23.663",
+    "FavoriteCount":null,
+    "Id":"95864",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-14T17:12:23.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"07068eeb-ad97-47cf-81ca-b11d80562667",
+            "UserId":"90083",
+            "CloseReasonId":null,
+            "PostId":"95864",
+            "PostHistoryTypeId":"2",
+            "Id":"312057",
+            "Text":"I have tried everything,Knox is on,Android device manager is on and its still not working.![help][1]  [1]: http:\/\/i.stack.imgur.com\/4sitx.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-14T17:12:23.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"07068eeb-ad97-47cf-81ca-b11d80562667",
+            "UserId":"90083",
+            "CloseReasonId":null,
+            "PostId":"95864",
+            "PostHistoryTypeId":"1",
+            "Id":"312058",
+            "Text":"having problem with my lockscreen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-14T17:12:23.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"07068eeb-ad97-47cf-81ca-b11d80562667",
+            "UserId":"90083",
+            "CloseReasonId":null,
+            "PostId":"95864",
+            "PostHistoryTypeId":"3",
+            "Id":"312059",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-15T11:42:52.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd4c6565-b15a-436f-aad4-7152cd5e01b9",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"95864",
+            "PostHistoryTypeId":"10",
+            "Id":"312320",
+            "Text":"{\"OriginalQuestionIds\":[90059],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

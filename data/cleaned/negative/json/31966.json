@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I connect to a wifi ap and 3g network simultaneously?  Is it possible to use Wifi Direct and regular internet at the same time?For example, could an app be written that connects to the router's Wifi AP as a Wifi Direct peer? Would this app need root?If this is possible, please link to any code samples or existing apps or documentation that would be a helpful starting point. Thanks!",
+    "ViewCount":"43",
+    "LastActivityDate":"2012-10-17T19:32:58.100",
+    "ClosedDate":"2012-10-18T19:15:57.047",
+    "Title":"Wifi Direct and internet simultaneously?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22465",
+    "CreationDate":"2012-10-17T19:32:58.100",
+    "FavoriteCount":"2",
+    "Id":"31966",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T19:32:58.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"899eba64-f1c8-4eca-8588-857c372587bf",
+            "UserId":"22465",
+            "CloseReasonId":null,
+            "PostId":"31966",
+            "PostHistoryTypeId":"2",
+            "Id":"94376",
+            "Text":"Is it possible to use Wifi Direct and regular internet at the same time?For example, could an app be written that connects to the router's Wifi AP as a Wifi Direct peer? Would this app need root?If this is possible, please link to any code samples or existing apps or documentation that would be a helpful starting point. Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T19:32:58.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"899eba64-f1c8-4eca-8588-857c372587bf",
+            "UserId":"22465",
+            "CloseReasonId":null,
+            "PostId":"31966",
+            "PostHistoryTypeId":"1",
+            "Id":"94377",
+            "Text":"Wifi Direct and internet simultaneously?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T19:32:58.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"899eba64-f1c8-4eca-8588-857c372587bf",
+            "UserId":"22465",
+            "CloseReasonId":null,
+            "PostId":"31966",
+            "PostHistoryTypeId":"3",
+            "Id":"94378",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-18T19:15:57.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7d18210-adcb-4385-81be-3db2fcf6dad8",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"31966",
+            "PostHistoryTypeId":"5",
+            "Id":"94560",
+            "Text":"> **Possible Duplicate:**  > [How do I connect to a wifi ap and 3g network simultaneously?](http:\/\/android.stackexchange.com\/questions\/29769\/how-do-i-connect-to-a-wifi-ap-and-3g-network-simultaneously)  Is it possible to use Wifi Direct and regular internet at the same time?For example, could an app be written that connects to the router's Wifi AP as a Wifi Direct peer? Would this app need root?If this is possible, please link to any code samples or existing apps or documentation that would be a helpful starting point. Thanks!"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-18T19:15:57.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"a940adb6-adcc-46d4-a8a8-768c51717f2b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"31966",
+            "PostHistoryTypeId":"10",
+            "Id":"94561",
+            "Text":"{\"OriginalQuestionIds\":[29769],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

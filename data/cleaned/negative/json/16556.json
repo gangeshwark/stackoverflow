@@ -1,0 +1,83 @@
+{
+    "Body":"Coming from an iPhone, one of the things I miss the most is the little red notification badges on my app icons. I don't understand why more Android apps don't have them (not even the phone!?). I digress.Is there an app available that both syncs with Google Tasks and uses a notification badge to keep track of the number of uncompleted tasks?",
+    "ViewCount":"374",
+    "LastActivityDate":"2015-11-21T17:33:38.860",
+    "ClosedDate":"2015-11-21T17:30:59.323",
+    "Title":"Todo app that syncs with Google Tasks and has notification badges?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-03-15T19:50:13.173",
+    "CommentCount":"0",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10315",
+    "CreationDate":"2011-12-06T05:28:34.270",
+    "FavoriteCount":null,
+    "Id":"16556",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-06T05:28:34.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"8d94b9d7-7778-4f11-84fc-8f109cb6cdef",
+            "UserId":"10315",
+            "CloseReasonId":null,
+            "PostId":"16556",
+            "PostHistoryTypeId":"2",
+            "Id":"44845",
+            "Text":"Coming from an iPhone, one of the things I miss the most is the little red notification badges on my app icons. I don't understand why more Android apps don't have them (not even the phone!?). I digress.Is there an app available that both syncs with Google Tasks and uses a notification badge to keep track of the number of uncompleted tasks?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-06T05:28:34.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"8d94b9d7-7778-4f11-84fc-8f109cb6cdef",
+            "UserId":"10315",
+            "CloseReasonId":null,
+            "PostId":"16556",
+            "PostHistoryTypeId":"1",
+            "Id":"44846",
+            "Text":"Todo app that syncs with Google Tasks and has notification badges?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-06T05:28:34.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"8d94b9d7-7778-4f11-84fc-8f109cb6cdef",
+            "UserId":"10315",
+            "CloseReasonId":null,
+            "PostId":"16556",
+            "PostHistoryTypeId":"3",
+            "Id":"44847",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-03-15T19:50:13.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"c81c58de-4633-4f1d-b364-f5bfb92e4be2",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"16556",
+            "PostHistoryTypeId":"6",
+            "Id":"130332",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-11-21T17:30:59.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"65f34146-d3b2-4af5-aa06-482a3ed7fe3a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"16556",
+            "PostHistoryTypeId":"10",
+            "Id":"426804",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

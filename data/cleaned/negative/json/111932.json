@@ -1,0 +1,71 @@
+{
+    "Body":"I've read through all the methods listing under previously asked questions however nothing seems to work. I currently live in S.Korea and would like to download apps here however am blocked by region locks. I've changed my billing address, removed the google account from my phone and added it again. What else can I possibly do? This is rather annoying to go through so many hoops just to download a simple application. -Regards",
+    "ViewCount":"15",
+    "LastActivityDate":"2015-06-09T14:05:15.013",
+    "ClosedDate":"2015-06-09T16:26:57.497",
+    "Title":"Changing country in play store",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"112061",
+    "CreationDate":"2015-06-09T14:05:15.013",
+    "FavoriteCount":null,
+    "Id":"111932",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-09T14:05:15.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"4314b810-ea87-4993-af6c-b4bbd29c9091",
+            "UserId":"112061",
+            "CloseReasonId":null,
+            "PostId":"111932",
+            "PostHistoryTypeId":"2",
+            "Id":"366289",
+            "Text":"I've read through all the methods listing under previously asked questions however nothing seems to work. I currently live in S.Korea and would like to download apps here however am blocked by region locks. I've changed my billing address, removed the google account from my phone and added it again. What else can I possibly do? This is rather annoying to go through so many hoops just to download a simple application. -Regards"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-09T14:05:15.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"4314b810-ea87-4993-af6c-b4bbd29c9091",
+            "UserId":"112061",
+            "CloseReasonId":null,
+            "PostId":"111932",
+            "PostHistoryTypeId":"1",
+            "Id":"366290",
+            "Text":"Changing country in play store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-09T14:05:15.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"4314b810-ea87-4993-af6c-b4bbd29c9091",
+            "UserId":"112061",
+            "CloseReasonId":null,
+            "PostId":"111932",
+            "PostHistoryTypeId":"3",
+            "Id":"366291",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-09T16:26:57.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"654a4bd6-ebbd-4ab9-9414-b8b83c805e46",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111932",
+            "PostHistoryTypeId":"10",
+            "Id":"366397",
+            "Text":"{\"OriginalQuestionIds\":[42347],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

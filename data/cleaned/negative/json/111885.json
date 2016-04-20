@@ -1,0 +1,83 @@
+{
+    "Body":"I have had my N7 for about 5 or 6 months now, and I am considering rooting it. I would like to know the best one click rooting methods to use. I've heard of kingoroot, but I don't know if it roots 5.1.1 yet. Thank you",
+    "ViewCount":"5117",
+    "LastActivityDate":"2015-06-22T06:18:11.693",
+    "ClosedDate":"2015-06-09T13:55:08.743",
+    "Title":"What is the best way to root a 2012 Nexus 7 running 5.1.1 Lollipop?",
+    "LastEditorUserId":"44325",
+    "Tags":"",
+    "LastEditDate":"2015-06-22T06:18:11.693",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111999",
+    "CreationDate":"2015-06-09T03:54:01.953",
+    "FavoriteCount":null,
+    "Id":"111885",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-09T03:54:01.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8aa10eb-c0b4-4540-981c-1c4ec3b0b81d",
+            "UserId":"111999",
+            "CloseReasonId":null,
+            "PostId":"111885",
+            "PostHistoryTypeId":"2",
+            "Id":"366093",
+            "Text":"I have had my N7 for about 5 or 6 months now, and I am considering rooting it. I would like to know the best one click rooting methods to use. I've heard of kingoroot, but I don't know if it roots 5.1.1 yet. Thank you"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-09T03:54:01.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8aa10eb-c0b4-4540-981c-1c4ec3b0b81d",
+            "UserId":"111999",
+            "CloseReasonId":null,
+            "PostId":"111885",
+            "PostHistoryTypeId":"1",
+            "Id":"366094",
+            "Text":"What is the best way to root a 2012 Nexus 7 running 5.1.1 Lollipop?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-09T03:54:01.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8aa10eb-c0b4-4540-981c-1c4ec3b0b81d",
+            "UserId":"111999",
+            "CloseReasonId":null,
+            "PostId":"111885",
+            "PostHistoryTypeId":"3",
+            "Id":"366095",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-09T13:55:08.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fc3fb20-a211-496f-9ef2-dbebc61b065c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"111885",
+            "PostHistoryTypeId":"10",
+            "Id":"366270",
+            "Text":"{\"OriginalQuestionIds\":[37760],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"fixed tag name to [5.1.1-lollipop]",
+            "CreationDate":"2015-06-22T06:18:11.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"94385e73-2fd4-4501-b46c-68ffd98c6fe5",
+            "UserId":"44325",
+            "CloseReasonId":null,
+            "PostId":"111885",
+            "PostHistoryTypeId":"6",
+            "Id":"370350",
+            "Text":""
+        }
+    ]
+}

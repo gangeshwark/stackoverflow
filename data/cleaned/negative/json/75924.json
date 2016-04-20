@@ -1,0 +1,83 @@
+{
+    "Body":"After configuring my Galaxy S4 (Android 4.4.2) phone to use a proxy server for debugging an app, I noticed that other apps on my device were making some suspicious HTTP calls.  I would like to track down what app is doing this.Unfortunately, the request itself didn't have any clues... it only contained a generic User-Agent header:User-Agent: Dalvik\/1.6.0 (Linux; U; Android 4.4.2; SPH-L720 Build\/KOT49H)The response was also generic, and not related to anything I have knowingly installed.Is there a way to log apps making HTTP requests on my Android device?",
+    "ViewCount":"23",
+    "LastActivityDate":"2014-07-09T22:36:47.563",
+    "ClosedDate":"2014-08-04T10:42:38.860",
+    "Title":"Tracking down which app makes HTTP requests",
+    "LastEditorUserId":"1509",
+    "Tags":"",
+    "LastEditDate":"2014-07-09T22:36:47.563",
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1509",
+    "CreationDate":"2014-07-09T21:56:24.960",
+    "FavoriteCount":null,
+    "Id":"75924",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-09T21:56:24.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"b1494b59-4e38-4a4a-a547-5f953f6caa82",
+            "UserId":"1509",
+            "CloseReasonId":null,
+            "PostId":"75924",
+            "PostHistoryTypeId":"2",
+            "Id":"252489",
+            "Text":"After configuring my Galaxy S4 (Android 4.4.2) phone to use a proxy server for debugging an app, I noticed that other apps on my device were making some suspicious HTTP calls.  I would like to track down what app is doing this.Unfortunately, the request itself didn't have any clues... it only contained a generic `User-Agent` header:    User-Agent: Dalvik\/1.6.0 (Linux; U; Android 4.4.2; SPH-L720 Build\/KOT49H)The response was also generic, and not related to anything I have knowingly installed.Is there a way to log apps making HTTP requests on my Android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-09T21:56:24.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"b1494b59-4e38-4a4a-a547-5f953f6caa82",
+            "UserId":"1509",
+            "CloseReasonId":null,
+            "PostId":"75924",
+            "PostHistoryTypeId":"1",
+            "Id":"252490",
+            "Text":"Tracking down which app makes network requests"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-09T21:56:24.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"b1494b59-4e38-4a4a-a547-5f953f6caa82",
+            "UserId":"1509",
+            "CloseReasonId":null,
+            "PostId":"75924",
+            "PostHistoryTypeId":"3",
+            "Id":"252491",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2014-07-09T22:36:47.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"1828de54-9e02-4c80-87db-2fbeaa5581a1",
+            "UserId":"1509",
+            "CloseReasonId":null,
+            "PostId":"75924",
+            "PostHistoryTypeId":"4",
+            "Id":"252494",
+            "Text":"Tracking down which app makes HTTP requests"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-04T10:42:38.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"1930eb05-9e9b-4e42-9dfb-45d853049c99",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"75924",
+            "PostHistoryTypeId":"10",
+            "Id":"259686",
+            "Text":"{\"OriginalQuestionIds\":[43444],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

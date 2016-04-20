@@ -1,0 +1,71 @@
+{
+    "Body":"Is there an app with which one can set up multiple profiles, each containing allowed apps that can access the internet? I want a WORK and HOME profile to switch between.  (preferably without rooting?)",
+    "ViewCount":"67",
+    "LastActivityDate":"2015-11-04T14:41:36.993",
+    "ClosedDate":"2015-11-04T14:44:23.983",
+    "Title":"Is there a Network manager app with profiles to allow only specific apps to use data?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42846",
+    "CreationDate":"2015-11-04T05:11:49.693",
+    "FavoriteCount":"1",
+    "Id":"127892",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T05:11:49.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2cbac64-c753-4b86-9fb4-8ef353634bff",
+            "UserId":"42846",
+            "CloseReasonId":null,
+            "PostId":"127892",
+            "PostHistoryTypeId":"2",
+            "Id":"420472",
+            "Text":"Is there an app with which one can set up multiple profiles, each containing allowed apps that can access the internet? I want a WORK and HOME profile to switch between.  (preferably without rooting?) "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T05:11:49.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2cbac64-c753-4b86-9fb4-8ef353634bff",
+            "UserId":"42846",
+            "CloseReasonId":null,
+            "PostId":"127892",
+            "PostHistoryTypeId":"1",
+            "Id":"420473",
+            "Text":"Is there a Network manager app with profiles to allow only specific apps to use data?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-04T05:11:49.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2cbac64-c753-4b86-9fb4-8ef353634bff",
+            "UserId":"42846",
+            "CloseReasonId":null,
+            "PostId":"127892",
+            "PostHistoryTypeId":"3",
+            "Id":"420474",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-11-04T14:44:23.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"7761bd55-c41f-4cff-9596-c956df41c186",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"127892",
+            "PostHistoryTypeId":"10",
+            "Id":"420670",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

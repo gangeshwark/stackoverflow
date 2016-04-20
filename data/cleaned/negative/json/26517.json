@@ -1,0 +1,83 @@
+{
+    "Body":"I have been trying many applications for development, and am trying to find a good one with Auto-completion and Syntax highlighting.I know many offer Syntax Highlighting, but I am unable to really find any at all that have Auto-completion. My main focus if Web development, but I am also interested in Java development for android applications. So far, I know of a couple but they dont necessarily fit my needs right; Terminal IDE - This is really amazing. Gives you pretty much a full Bash terminal environment, with about everything you could need for Android Development and Web Development. with vim, javac, apkbuilder, and other useful stuff like htop, midnight-commander, etc.  Its really unbelievable, but its a full 105Mb when unpacked. Which is pretty crazy. It takes up a ton of space, and being that I have a tiny amount of space on my internal memory, I cant always have it on my phone as its just too much. Its nice for android development, overkill for web development.Touchcode - I checked this out for a while, and its alright. but it doesn't seem to start auto-completion on 80% of the tags I type. I am not sure why. Otherwise it would be great. AIDE - (I believe it has Auto-completion, but I cant quite recall for sure.)VI iMproved Touch - its really great, I would love it, but I cant seem to get it to auto-complete during development. (Am I missing something here? Is there Syntax highlighting and Auto-completion that I just don't know about, or a certain keyboard combination to initialize it?) So is there any others that I am missing here? I am sure there have to be a couple of people here how use their android for a bit of web development here and there. Plus it is so hard to find IDE applications because when you type \"HTML\" all the results are mainly source viewers, \"IDE\" give AIDE, and a bunch of games, same with \"Development\". So the search function doesn't really help much on Google Play. Plus the most useful suggestions are always from others who have experienced something themselves. Any suggestions guys? Or an explanation on how to enable those features in Vi iMproved Touch?Thanks for your time guys. Take care everyone. ",
+    "ViewCount":"143",
+    "LastActivityDate":"2012-07-26T18:32:54.867",
+    "ClosedDate":"2012-08-14T06:19:13.503",
+    "Title":"Development App with Syntax Highlighting & Auto-completion?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"17",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16725",
+    "CreationDate":"2012-07-26T18:32:54.867",
+    "FavoriteCount":"2",
+    "Id":"26517",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-26T18:32:54.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad392377-96ef-4f18-9779-8468afc479d1",
+            "UserId":"16725",
+            "CloseReasonId":null,
+            "PostId":"26517",
+            "PostHistoryTypeId":"2",
+            "Id":"76848",
+            "Text":"I have been trying many applications for development, and am trying to find a good one with Auto-completion and Syntax highlighting.I know many offer Syntax Highlighting, but I am unable to really find any at all that have Auto-completion. My main focus if Web development, but I am also interested in Java development for android applications. So far, I know of a couple but they dont necessarily fit my needs right; Terminal IDE - This is really amazing. Gives you pretty much a full Bash terminal environment, with about everything you could need for Android Development and Web Development. with vim, javac, apkbuilder, and other useful stuff like htop, midnight-commander, etc.  Its really unbelievable, but its a full 105Mb when unpacked. Which is pretty crazy. It takes up a ton of space, and being that I have a tiny amount of space on my internal memory, I cant always have it on my phone as its just too much. Its nice for android development, overkill for web development.Touchcode - I checked this out for a while, and its alright. but it doesn't seem to start auto-completion on 80% of the tags I type. I am not sure why. Otherwise it would be great. AIDE - (I believe it has Auto-completion, but I cant quite recall for sure.)VI iMproved Touch - its really great, I would love it, but I cant seem to get it to auto-complete during development. (Am I missing something here? Is there Syntax highlighting and Auto-completion that I just don't know about, or a certain keyboard combination to initialize it?) So is there any others that I am missing here? I am sure there have to be a couple of people here how use their android for a bit of web development here and there. Plus it is so hard to find IDE applications because when you type \"HTML\" all the results are mainly source viewers, \"IDE\" give AIDE, and a bunch of games, same with \"Development\". So the search function doesn't really help much on Google Play. Plus the most useful suggestions are always from others who have experienced something themselves. Any suggestions guys? Or an explanation on how to enable those features in Vi iMproved Touch?Thanks for your time guys. Take care everyone. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-26T18:32:54.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad392377-96ef-4f18-9779-8468afc479d1",
+            "UserId":"16725",
+            "CloseReasonId":null,
+            "PostId":"26517",
+            "PostHistoryTypeId":"1",
+            "Id":"76849",
+            "Text":"Development App with Syntax Highlighting & Auto-completion?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-26T18:32:54.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad392377-96ef-4f18-9779-8468afc479d1",
+            "UserId":"16725",
+            "CloseReasonId":null,
+            "PostId":"26517",
+            "PostHistoryTypeId":"3",
+            "Id":"76850",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/228717813811011586",
+            "CreationDate":"2012-07-27T05:05:50.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8cd9cef-2be6-41da-ac66-59b5b6ae5436",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"26517",
+            "PostHistoryTypeId":"25",
+            "Id":"76923",
+            "Text":null
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-08-14T06:19:13.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"26aca765-5135-4d9d-a27d-acf10725ed08",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26517",
+            "PostHistoryTypeId":"10",
+            "Id":"80045",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

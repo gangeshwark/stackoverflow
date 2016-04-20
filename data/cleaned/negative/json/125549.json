@@ -1,0 +1,71 @@
+{
+    "Body":"I want to cancel my Google Play subsctiption. I'm having problems accessing my account. I forgot my  password. ",
+    "ViewCount":"49",
+    "LastActivityDate":"2015-10-10T18:48:23.717",
+    "ClosedDate":"2015-10-22T21:28:42.070",
+    "Title":"how do I cancel my Google Play subsctiption?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131392",
+    "CreationDate":"2015-10-10T17:41:30.230",
+    "FavoriteCount":null,
+    "Id":"125549",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-10T17:41:30.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a2e3f3c-cdb7-4862-9f18-d5cbd5658535",
+            "UserId":"131392",
+            "CloseReasonId":null,
+            "PostId":"125549",
+            "PostHistoryTypeId":"2",
+            "Id":"411502",
+            "Text":"I want to cancel my Google Play subsctiption. I'm having problems accessing my account. I forgot my  password. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-10T17:41:30.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a2e3f3c-cdb7-4862-9f18-d5cbd5658535",
+            "UserId":"131392",
+            "CloseReasonId":null,
+            "PostId":"125549",
+            "PostHistoryTypeId":"1",
+            "Id":"411503",
+            "Text":"how do I cancel my Google Play subsctiption?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-10T17:41:30.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a2e3f3c-cdb7-4862-9f18-d5cbd5658535",
+            "UserId":"131392",
+            "CloseReasonId":null,
+            "PostId":"125549",
+            "PostHistoryTypeId":"3",
+            "Id":"411504",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-10-22T21:28:42.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a134c64-8003-4a27-a154-9653940162a2",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125549",
+            "PostHistoryTypeId":"10",
+            "Id":"416108",
+            "Text":"{\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

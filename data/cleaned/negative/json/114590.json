@@ -1,0 +1,71 @@
+{
+    "Body":"Setting a screen lock password or SIM pin or both is fine for securing some aspects of your mobile device. But what if, as a nasty joke, someone manages to grab a hold of your device and hits the magic power-home-volume key combination and proceeds to factory reset your device thus deleting your folder configuration, a record of what unpaid apps you had downloaded, and what is more, data stored on your phone!So, is there a way to set up a password so that it must be entered when such magic key combination is issued (so that you can't factory reset your device without entering such a \"BIOS\" password?Thanks!!!",
+    "ViewCount":"688",
+    "LastActivityDate":"2015-07-08T18:08:29.983",
+    "ClosedDate":"2015-07-10T14:36:22.100",
+    "Title":"How to set up BIOS-like password on Android device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"114677",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"114115",
+    "CreationDate":"2015-07-07T18:43:00.070",
+    "FavoriteCount":"2",
+    "Id":"114590",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-07T18:43:00.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"65ddd896-e75d-4c00-9ea5-618e67552840",
+            "UserId":"114115",
+            "CloseReasonId":null,
+            "PostId":"114590",
+            "PostHistoryTypeId":"2",
+            "Id":"375927",
+            "Text":"Setting a screen lock password or SIM pin or both is fine for securing some aspects of your mobile device. But what if, as a nasty joke, someone manages to grab a hold of your device and hits the magic power-home-volume key combination and proceeds to factory reset your device thus deleting your folder configuration, a record of what unpaid apps you had downloaded, and what is more, data stored on your phone!So, is there a way to set up a password so that it must be entered when such magic key combination is issued (so that you can't factory reset your device without entering such a \"BIOS\" password?Thanks!!!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-07T18:43:00.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"65ddd896-e75d-4c00-9ea5-618e67552840",
+            "UserId":"114115",
+            "CloseReasonId":null,
+            "PostId":"114590",
+            "PostHistoryTypeId":"1",
+            "Id":"375928",
+            "Text":"How to set up BIOS-like password on Android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-07T18:43:00.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"65ddd896-e75d-4c00-9ea5-618e67552840",
+            "UserId":"114115",
+            "CloseReasonId":null,
+            "PostId":"114590",
+            "PostHistoryTypeId":"3",
+            "Id":"375929",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-10T14:36:22.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e7a9e5a-46d2-46fa-8063-3c043da3d1dd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114590",
+            "PostHistoryTypeId":"10",
+            "Id":"377088",
+            "Text":"{\"OriginalQuestionIds\":[62210],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

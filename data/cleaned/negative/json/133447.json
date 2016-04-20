@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Nexus 6, and have noticed that even on the lock screen, there are still things you can do besides enter the passcode.You can turn the wifi\/bluetooth and airplane mode on\/off, use the torch, use the camera, turn the phone off.I don't want to be able to do any of this. The only functionality I want on the lock screen is to be able to enter the passcode to unlock.In the instance my phone is stolen, I want my phone to remain on, and online, for as long as possible.Is this possible?Thanks",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-01-05T13:17:48.383",
+    "ClosedDate":"2016-01-05T13:19:26.053",
+    "Title":"Is there a way to disable all functionality on the lock screen?",
+    "LastEditorUserId":"41285",
+    "Tags":"",
+    "LastEditDate":"2016-01-05T13:17:48.383",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41285",
+    "CreationDate":"2016-01-05T13:06:34.140",
+    "FavoriteCount":null,
+    "Id":"133447",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T13:06:34.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e4343a9-6870-4906-9dba-e87b682708ee",
+            "UserId":"41285",
+            "CloseReasonId":null,
+            "PostId":"133447",
+            "PostHistoryTypeId":"2",
+            "Id":"442224",
+            "Text":"I have a Nexus 6, and have noticed that even on the lock screen, there are still things you can do besides enter the passcode.You can turn the wifi\/bluetooth and airplane mode on\/off, use the torch, use the camera, turn the phone off.I don't want to be able to do any of this. The only functionality I want on the lock screen is to be able to enter the passcode to unlock.In the instance my phone is stolen, I want my phone to remain on, and online, for as long as possible.Is this possible?Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T13:06:34.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e4343a9-6870-4906-9dba-e87b682708ee",
+            "UserId":"41285",
+            "CloseReasonId":null,
+            "PostId":"133447",
+            "PostHistoryTypeId":"1",
+            "Id":"442225",
+            "Text":"Is there a way to disable all functionality on the lock screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T13:06:34.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e4343a9-6870-4906-9dba-e87b682708ee",
+            "UserId":"41285",
+            "CloseReasonId":null,
+            "PostId":"133447",
+            "PostHistoryTypeId":"3",
+            "Id":"442226",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-01-05T13:17:48.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"0cc788be-9dec-4843-8691-5091643dfa11",
+            "UserId":"41285",
+            "CloseReasonId":null,
+            "PostId":"133447",
+            "PostHistoryTypeId":"6",
+            "Id":"442229",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-05T13:19:26.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"e30ed724-d1cc-4a88-b1ad-f4d992af9763",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"133447",
+            "PostHistoryTypeId":"10",
+            "Id":"442230",
+            "Text":"{\"OriginalQuestionIds\":[112455],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

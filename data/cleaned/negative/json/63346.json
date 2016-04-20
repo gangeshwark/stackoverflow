@@ -1,0 +1,71 @@
+{
+    "Body":"My phone started rebooting all by itself all the time after I did 2 things with it. Installed Snapdragon BatteryGuru and put it on learning mode (for an estimated 3 days I guess) so that I could start saving battery by the app learning my behavior, and cleaned RAM with CleanMaster. These were the only changes I've done, I don't remember which was first but soon my phone started rebooting whether I was handling it or not at random intervals. I've also noticed the phone was hot all the time, the Note 3 runs into some hot period with some frequency but not with that frequency.I've uninstalled both apps and it didn't work, wiped cache and it didn't work. The phone was still rebooting even on safe mode. After I wiped Dalvik with the help of TWRP, I thought the problem went away but when I hit the power button to turn the screen off, the phone rebooted and it will now always reboot when the screen turns off, even if it's just from the phone being inactive. Note 3 SM-N9003 VJUBMI6",
+    "ViewCount":"20",
+    "LastActivityDate":"2014-02-12T14:02:40.640",
+    "ClosedDate":"2014-02-13T07:04:21.033",
+    "Title":"PHone rebooting when screen turns off",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"37272",
+    "CreationDate":"2014-02-12T14:02:40.640",
+    "FavoriteCount":null,
+    "Id":"63346",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-12T14:02:40.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e4dc07c-cb99-4a49-ab66-d66be396797e",
+            "UserId":"37272",
+            "CloseReasonId":null,
+            "PostId":"63346",
+            "PostHistoryTypeId":"2",
+            "Id":"215187",
+            "Text":"My phone started rebooting all by itself all the time after I did 2 things with it. Installed Snapdragon BatteryGuru and put it on learning mode (for an estimated 3 days I guess) so that I could start saving battery by the app learning my behavior, and cleaned RAM with CleanMaster. These were the only changes I've done, I don't remember which was first but soon my phone started rebooting whether I was handling it or not at random intervals. I've also noticed the phone was hot all the time, the Note 3 runs into some hot period with some frequency but not with that frequency.I've uninstalled both apps and it didn't work, wiped cache and it didn't work. The phone was still rebooting even on safe mode. After I wiped Dalvik with the help of TWRP, I thought the problem went away but when I hit the power button to turn the screen off, the phone rebooted and it will now always reboot when the screen turns off, even if it's just from the phone being inactive. Note 3 SM-N9003 VJUBMI6"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-12T14:02:40.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e4dc07c-cb99-4a49-ab66-d66be396797e",
+            "UserId":"37272",
+            "CloseReasonId":null,
+            "PostId":"63346",
+            "PostHistoryTypeId":"1",
+            "Id":"215188",
+            "Text":"PHone rebooting when screen turns off"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-12T14:02:40.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e4dc07c-cb99-4a49-ab66-d66be396797e",
+            "UserId":"37272",
+            "CloseReasonId":null,
+            "PostId":"63346",
+            "PostHistoryTypeId":"3",
+            "Id":"215189",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-13T07:04:21.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"66191ef0-1470-4d3b-ae35-f90cdd5b2351",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"63346",
+            "PostHistoryTypeId":"10",
+            "Id":"215380",
+            "Text":"{\"OriginalQuestionIds\":[63272],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

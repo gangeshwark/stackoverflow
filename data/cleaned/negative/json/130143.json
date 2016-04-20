@@ -1,0 +1,71 @@
+{
+    "Body":"It is possible to call anyone without sim card...I mean adding anyones number as emergency call number and call anyone as emergency call?",
+    "ViewCount":"421",
+    "LastActivityDate":"2015-11-28T19:11:46.750",
+    "ClosedDate":"2016-02-27T04:02:57.730",
+    "Title":"It is possible to call without sim by adding a number as emergency number...?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"138905",
+    "CreationDate":"2015-11-28T14:57:05.440",
+    "FavoriteCount":null,
+    "Id":"130143",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-28T14:57:05.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4e5feab-6c03-4f2f-a6b7-2c5bc7fcd761",
+            "UserId":"138905",
+            "CloseReasonId":null,
+            "PostId":"130143",
+            "PostHistoryTypeId":"2",
+            "Id":"429161",
+            "Text":"It is possible to call anyone without sim card...I mean adding anyones number as emergency call number and call anyone as emergency call?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-28T14:57:05.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4e5feab-6c03-4f2f-a6b7-2c5bc7fcd761",
+            "UserId":"138905",
+            "CloseReasonId":null,
+            "PostId":"130143",
+            "PostHistoryTypeId":"1",
+            "Id":"429162",
+            "Text":"It is possible to call without sim by adding a number as emergency number...?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-28T14:57:05.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4e5feab-6c03-4f2f-a6b7-2c5bc7fcd761",
+            "UserId":"138905",
+            "CloseReasonId":null,
+            "PostId":"130143",
+            "PostHistoryTypeId":"3",
+            "Id":"429163",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-27T04:02:57.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"74f58983-9712-4f72-b8c8-f222914a1079",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"130143",
+            "PostHistoryTypeId":"10",
+            "Id":"461664",
+            "Text":"{\"OriginalQuestionIds\":[7731],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

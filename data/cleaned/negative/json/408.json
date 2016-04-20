@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I uninstall applications that are locked by phone vendor?  I want to uninstall the facebook app, as I don't use facebook. The phone won't let me uninstall that app.I have a Droid Eris and a Motorola Droid. I want to get rid of it from both these phones.",
+    "ViewCount":"1225",
+    "LastActivityDate":"2010-09-15T18:59:32.353",
+    "ClosedDate":"2011-07-26T17:42:39.120",
+    "Title":"How can you uninstall an app that you didn't install on your Droid?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"411",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"133",
+    "CreationDate":"2010-09-15T15:34:04.273",
+    "FavoriteCount":"1",
+    "Id":"408",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-15T15:34:04.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"4af7411d-d83d-4ca3-9c40-d70620d5baeb",
+            "UserId":"133",
+            "CloseReasonId":null,
+            "PostId":"408",
+            "PostHistoryTypeId":"2",
+            "Id":"820",
+            "Text":"I want to uninstall the facebook app, as I don't use facebook. The phone won't let me uninstall that app.I have a Droid Eris and a Motorola Droid. I want to get rid of it from both these phones."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-15T15:34:04.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"4af7411d-d83d-4ca3-9c40-d70620d5baeb",
+            "UserId":"133",
+            "CloseReasonId":null,
+            "PostId":"408",
+            "PostHistoryTypeId":"1",
+            "Id":"821",
+            "Text":"How can you uninstall an app that you didn't install on your Droid?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-15T15:34:04.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"4af7411d-d83d-4ca3-9c40-d70620d5baeb",
+            "UserId":"133",
+            "CloseReasonId":null,
+            "PostId":"408",
+            "PostHistoryTypeId":"3",
+            "Id":"822",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-07-26T17:42:39.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b13ded5-6c09-4a86-87b2-48506dc81663",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"408",
+            "PostHistoryTypeId":"5",
+            "Id":"29609",
+            "Text":"> **Possible Duplicate:**  > [How can I uninstall applications that are locked by phone vendor?](http:\/\/android.stackexchange.com\/questions\/6851\/how-can-i-uninstall-applications-that-are-locked-by-phone-vendor)  I want to uninstall the facebook app, as I don't use facebook. The phone won't let me uninstall that app.I have a Droid Eris and a Motorola Droid. I want to get rid of it from both these phones."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-07-26T17:42:39.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"513758d1-e9c2-4eb9-a6c9-4196494af4a1",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"408",
+            "PostHistoryTypeId":"10",
+            "Id":"29610",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

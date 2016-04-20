@@ -1,0 +1,83 @@
+{
+    "Body":"Is there any way to force Opera Mini for Android to open a link to the webpage in a native browser(just like it opens attachment files)?",
+    "ViewCount":"173",
+    "LastActivityDate":"2012-03-29T15:36:56.507",
+    "ClosedDate":"2012-12-19T19:57:29.317",
+    "Title":"Force Opera Mini to open links in native browser?",
+    "LastEditorUserId":"1951",
+    "Tags":"",
+    "LastEditDate":"2012-03-29T15:36:56.507",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13816",
+    "CreationDate":"2012-03-29T14:58:49.497",
+    "FavoriteCount":null,
+    "Id":"21172",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-29T14:58:49.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f7ef471-dcc1-4078-9b9b-a0d32c7af8e7",
+            "UserId":"13816",
+            "CloseReasonId":null,
+            "PostId":"21172",
+            "PostHistoryTypeId":"2",
+            "Id":"59223",
+            "Text":"Is there any way to force Opera Mini for Android to open a link to the webpage in a native browser(just like it opens attachment files)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-29T14:58:49.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f7ef471-dcc1-4078-9b9b-a0d32c7af8e7",
+            "UserId":"13816",
+            "CloseReasonId":null,
+            "PostId":"21172",
+            "PostHistoryTypeId":"1",
+            "Id":"59224",
+            "Text":"(Android) Force Opera Mini to open links in native browser?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-29T14:58:49.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f7ef471-dcc1-4078-9b9b-a0d32c7af8e7",
+            "UserId":"13816",
+            "CloseReasonId":null,
+            "PostId":"21172",
+            "PostHistoryTypeId":"3",
+            "Id":"59225",
+            "Text":""
+        },
+        {
+            "Comment":"removed (android) from the beginning of the question",
+            "CreationDate":"2012-03-29T15:36:56.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"abcd3878-03f2-4972-ab9d-06965b88042b",
+            "UserId":"1951",
+            "CloseReasonId":null,
+            "PostId":"21172",
+            "PostHistoryTypeId":"4",
+            "Id":"59230",
+            "Text":"Force Opera Mini to open links in native browser?"
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T19:57:29.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"e392c966-72d3-4ccc-b62c-9e27b43184c0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21172",
+            "PostHistoryTypeId":"10",
+            "Id":"107554",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

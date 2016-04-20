@@ -1,0 +1,83 @@
+{
+    "Body":"My phones internal memory is full, how do i move it to my secure digital card? How can i getmy filesoff my secure digital card if i took it out wrong, I did a factory reset?",
+    "ViewCount":"20323",
+    "LastActivityDate":"2015-01-14T09:34:30.063",
+    "ClosedDate":"2015-01-27T07:28:18.837",
+    "Title":"Moving internal memory to external sd card",
+    "LastEditorUserId":"1951",
+    "Tags":"",
+    "LastEditDate":"2015-01-05T17:30:30.770",
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86869",
+    "CreationDate":"2014-12-29T11:11:40.677",
+    "FavoriteCount":null,
+    "Id":"93133",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-29T11:11:40.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b05fc22-1dc8-4a3d-8292-79548f910745",
+            "UserId":"86869",
+            "CloseReasonId":null,
+            "PostId":"93133",
+            "PostHistoryTypeId":"2",
+            "Id":"305334",
+            "Text":"My phones internal memory is full, how do i move it to my secure digital card? How can i get my files off my secure digital card if i took it out wrong, I did a factory reset?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-29T11:11:40.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b05fc22-1dc8-4a3d-8292-79548f910745",
+            "UserId":"86869",
+            "CloseReasonId":null,
+            "PostId":"93133",
+            "PostHistoryTypeId":"1",
+            "Id":"305335",
+            "Text":"Moving internal memory to external sd card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-29T11:11:40.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b05fc22-1dc8-4a3d-8292-79548f910745",
+            "UserId":"86869",
+            "CloseReasonId":null,
+            "PostId":"93133",
+            "PostHistoryTypeId":"3",
+            "Id":"305336",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-01-05T17:30:30.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"01ccfa9b-50d1-411b-8227-5534316da387",
+            "UserId":"1951",
+            "CloseReasonId":null,
+            "PostId":"93133",
+            "PostHistoryTypeId":"6",
+            "Id":"308053",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-27T07:28:18.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb0be0ae-f8d6-4037-a30c-fe3107f8c9b2",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"93133",
+            "PostHistoryTypeId":"10",
+            "Id":"316308",
+            "Text":"{\"OriginalQuestionIds\":[2065],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

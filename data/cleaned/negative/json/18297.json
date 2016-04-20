@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Android Software or Device to present Application on Screen  What is the best way to demo Android apps over something like gotomeeting or at least being able to display the Android screen on a computer. I've used VNC, but the higher ups tell me that it times out after two minutes of presentation. What is the best way to move forward with this?",
+    "ViewCount":"20",
+    "LastActivityDate":"2012-01-13T16:52:51.590",
+    "ClosedDate":"2012-01-13T16:59:21.970",
+    "Title":"Demoing Android Apps",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11583",
+    "CreationDate":"2012-01-13T16:52:51.590",
+    "FavoriteCount":"1",
+    "Id":"18297",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-13T16:52:51.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"7baf0302-f2c4-419c-a8b5-1f0673ddb783",
+            "UserId":"11583",
+            "CloseReasonId":null,
+            "PostId":"18297",
+            "PostHistoryTypeId":"2",
+            "Id":"50127",
+            "Text":"What is the best way to demo Android apps over something like gotomeeting or at least being able to display the Android screen on a computer. I've used VNC, but the higher ups tell me that it times out after two minutes of presentation. What is the best way to move forward with this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-13T16:52:51.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"7baf0302-f2c4-419c-a8b5-1f0673ddb783",
+            "UserId":"11583",
+            "CloseReasonId":null,
+            "PostId":"18297",
+            "PostHistoryTypeId":"1",
+            "Id":"50128",
+            "Text":"Demoing Android Apps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-13T16:52:51.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"7baf0302-f2c4-419c-a8b5-1f0673ddb783",
+            "UserId":"11583",
+            "CloseReasonId":null,
+            "PostId":"18297",
+            "PostHistoryTypeId":"3",
+            "Id":"50129",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-01-13T16:59:24.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"b71ddf61-61a5-4c02-8074-f2ffc21997ac",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18297",
+            "PostHistoryTypeId":"5",
+            "Id":"50134",
+            "Text":"> **Possible Duplicate:**  > [Android Software or Device to present Application on Screen](http:\/\/android.stackexchange.com\/questions\/12262\/android-software-or-device-to-present-application-on-screen)  What is the best way to demo Android apps over something like gotomeeting or at least being able to display the Android screen on a computer. I've used VNC, but the higher ups tell me that it times out after two minutes of presentation. What is the best way to move forward with this?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-01-13T16:59:21.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2248952-83ac-4798-8b1a-57f7bb109a67",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"18297",
+            "PostHistoryTypeId":"10",
+            "Id":"50135",
+            "Text":"{\"OriginalQuestionIds\":[12262],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

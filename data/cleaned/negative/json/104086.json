@@ -1,0 +1,71 @@
+{
+    "Body":"My internal memory for installing apps is 0.98gb I have installed only 15 apps my storage is full and cannot install any apps only 10mb is left.my phone is rooted so I cleared the  cache but it didn't help. Please help ",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-03-31T10:09:08.817",
+    "ClosedDate":"2015-03-31T13:31:27.177",
+    "Title":"Internal storage error",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"100368",
+    "CreationDate":"2015-03-31T10:09:08.817",
+    "FavoriteCount":null,
+    "Id":"104086",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-31T10:09:08.817",
+            "UserDisplayName":null,
+            "RevisionGUID":"dcb5158f-6ed0-4518-9988-0c4d9d54a8c6",
+            "UserId":"100368",
+            "CloseReasonId":null,
+            "PostId":"104086",
+            "PostHistoryTypeId":"2",
+            "Id":"339637",
+            "Text":"My internal memory for installing apps is 0.98gb I have installed only 15 apps my storage is full and cannot install any apps only 10mb is left.my phone is rooted so I cleared the  cache but it didn't help. Please help "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-31T10:09:08.817",
+            "UserDisplayName":null,
+            "RevisionGUID":"dcb5158f-6ed0-4518-9988-0c4d9d54a8c6",
+            "UserId":"100368",
+            "CloseReasonId":null,
+            "PostId":"104086",
+            "PostHistoryTypeId":"1",
+            "Id":"339638",
+            "Text":"Internal storage error"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-31T10:09:08.817",
+            "UserDisplayName":null,
+            "RevisionGUID":"dcb5158f-6ed0-4518-9988-0c4d9d54a8c6",
+            "UserId":"100368",
+            "CloseReasonId":null,
+            "PostId":"104086",
+            "PostHistoryTypeId":"3",
+            "Id":"339639",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-31T13:31:27.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"409a704d-4f83-43e3-8a2f-3bfade430704",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104086",
+            "PostHistoryTypeId":"10",
+            "Id":"339680",
+            "Text":"{\"OriginalQuestionIds\":[2065],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

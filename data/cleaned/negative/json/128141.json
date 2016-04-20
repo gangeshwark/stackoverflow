@@ -1,0 +1,71 @@
+{
+    "Body":"When I open what's app & Google one by one msg appear unfortunately adobe air has stopped I was so disturbed so please solve me my problem immediately",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-11-06T15:02:46.813",
+    "ClosedDate":"2015-11-06T15:22:46.120",
+    "Title":"unfortunately adobe air has stopped",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"135607",
+    "CreationDate":"2015-11-06T15:02:46.813",
+    "FavoriteCount":null,
+    "Id":"128141",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-06T15:02:46.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"aeb9fcf4-8708-4a63-933d-6bc55b173a0a",
+            "UserId":"135607",
+            "CloseReasonId":null,
+            "PostId":"128141",
+            "PostHistoryTypeId":"2",
+            "Id":"421352",
+            "Text":"When I open what's app & Google one by one msg appear unfortunately adobe air has stopped I was so disturbed so please solve me my problem immediately"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-06T15:02:46.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"aeb9fcf4-8708-4a63-933d-6bc55b173a0a",
+            "UserId":"135607",
+            "CloseReasonId":null,
+            "PostId":"128141",
+            "PostHistoryTypeId":"1",
+            "Id":"421353",
+            "Text":"unfortunately adobe air has stopped"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-06T15:02:46.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"aeb9fcf4-8708-4a63-933d-6bc55b173a0a",
+            "UserId":"135607",
+            "CloseReasonId":null,
+            "PostId":"128141",
+            "PostHistoryTypeId":"3",
+            "Id":"421354",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-06T15:22:46.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"df829429-ba1e-4a64-a39a-2a931d730f07",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"128141",
+            "PostHistoryTypeId":"10",
+            "Id":"421356",
+            "Text":"{\"OriginalQuestionIds\":[124266],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

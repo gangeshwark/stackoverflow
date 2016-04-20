@@ -1,0 +1,71 @@
+{
+    "Body":"I was just prompted to update my Swype Beta to version v1.3.1.9274 which I did. During the process, I was reassured that I won't be losing any of my data. However, upon completion of the installation, I see that I've lost my personal dictionary. Another oddity: in older versions of swype, when you typed a non-English word, you were prompted to add it to your swype dictionary. Then, they changed this, such that all new words were automatically added to your dictionary. With this new v1.3.1.9274 version, however, swype seems to have gone back to the \"add to dictionary\" prompt.Any clue as to what may be going on?I'm using JB on my Galaxy Nexus.",
+    "ViewCount":"129",
+    "LastActivityDate":"2012-10-18T17:12:55.597",
+    "ClosedDate":"2012-10-18T19:12:27.660",
+    "Title":"Swype Beta v1.3.1.9274",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15288",
+    "CreationDate":"2012-10-18T17:12:55.597",
+    "FavoriteCount":null,
+    "Id":"32005",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-18T17:12:55.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"e8ff0927-9513-4534-a6ab-bf054459aed9",
+            "UserId":"15288",
+            "CloseReasonId":null,
+            "PostId":"32005",
+            "PostHistoryTypeId":"2",
+            "Id":"94525",
+            "Text":"I was just prompted to update my Swype Beta to version v1.3.1.9274 which I did. During the process, I was reassured that I won't be losing any of my data. However, upon completion of the installation, I see that I've lost my personal dictionary. Another oddity: in older versions of swype, when you typed a non-English word, you were prompted to add it to your swype dictionary. Then, they changed this, such that all new words were automatically added to your dictionary. With this new v1.3.1.9274 version, however, swype seems to have gone back to the \"add to dictionary\" prompt.Any clue as to what may be going on?I'm using JB on my Galaxy Nexus."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-18T17:12:55.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"e8ff0927-9513-4534-a6ab-bf054459aed9",
+            "UserId":"15288",
+            "CloseReasonId":null,
+            "PostId":"32005",
+            "PostHistoryTypeId":"1",
+            "Id":"94526",
+            "Text":"Swype Beta v1.3.1.9274"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-18T17:12:55.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"e8ff0927-9513-4534-a6ab-bf054459aed9",
+            "UserId":"15288",
+            "CloseReasonId":null,
+            "PostId":"32005",
+            "PostHistoryTypeId":"3",
+            "Id":"94527",
+            "Text":""
+        },
+        {
+            "Comment":"4",
+            "CreationDate":"2012-10-18T19:12:27.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"915b6cce-661d-42a5-963b-30fd90ab35cd",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"32005",
+            "PostHistoryTypeId":"10",
+            "Id":"94548",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

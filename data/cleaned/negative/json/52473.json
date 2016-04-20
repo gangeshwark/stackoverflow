@@ -1,0 +1,71 @@
+{
+    "Body":"I am new to Android and have been an iOS user for a long time. I've seen a lot of tutorials to migrate my contacts from my iPhone to Android however all of them say I have to use gmail.I take privacy very seriously and don't like the idea of have to upload all of my contact details into google's database especially after all of the leaks in the media as to how they are used.I've never used Apple's cloud service for the same reason.Question: How can I add my contacts from my iPhone as a flat file or perhaps via my Apple Address Book (on my mac) directly to my Android (Galaxy Nexus) WITHOUT having to give all of the data to Gmail (which I seldom use).Thanks very much",
+    "ViewCount":"18",
+    "LastActivityDate":"2013-09-02T05:57:15.687",
+    "ClosedDate":"2013-09-02T17:53:34.920",
+    "Title":"Migrate contacts from iOS WITHOUT using Gmail",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"40569",
+    "CreationDate":"2013-09-02T05:57:15.687",
+    "FavoriteCount":null,
+    "Id":"52473",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-02T05:57:15.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"75c1e1cf-c3c8-41d1-9732-581df15018f1",
+            "UserId":"40569",
+            "CloseReasonId":null,
+            "PostId":"52473",
+            "PostHistoryTypeId":"2",
+            "Id":"172601",
+            "Text":"I am new to Android and have been an iOS user for a long time. I've seen a lot of tutorials to migrate my contacts from my iPhone to Android however all of them say I have to use gmail.I take privacy very seriously and don't like the idea of have to upload all of my contact details into google's database especially after all of the leaks in the media as to how they are used.I've never used Apple's cloud service for the same reason.Question: How can I add my contacts from my iPhone as a flat file or perhaps via my Apple Address Book (on my mac) directly to my Android (Galaxy Nexus) WITHOUT having to give all of the data to Gmail (which I seldom use).Thanks very much"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-02T05:57:15.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"75c1e1cf-c3c8-41d1-9732-581df15018f1",
+            "UserId":"40569",
+            "CloseReasonId":null,
+            "PostId":"52473",
+            "PostHistoryTypeId":"1",
+            "Id":"172602",
+            "Text":"Migrate contacts from iOS WITHOUT using Gmail"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-02T05:57:15.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"75c1e1cf-c3c8-41d1-9732-581df15018f1",
+            "UserId":"40569",
+            "CloseReasonId":null,
+            "PostId":"52473",
+            "PostHistoryTypeId":"3",
+            "Id":"172603",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-02T17:53:34.920",
+            "UserDisplayName":null,
+            "RevisionGUID":"de617bf6-1446-4d4d-9080-7a4ef90e230c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"52473",
+            "PostHistoryTypeId":"10",
+            "Id":"172759",
+            "Text":"{\"OriginalQuestionIds\":[7358],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

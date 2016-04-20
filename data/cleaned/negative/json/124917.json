@@ -1,0 +1,71 @@
+{
+    "Body":"On the S3 it was easy to find. I clicked on everything under Settings.  I can't find it. Where do I access it?",
+    "ViewCount":"2475",
+    "LastActivityDate":"2015-10-04T11:06:33.320",
+    "ClosedDate":"2015-10-04T16:38:21.590",
+    "Title":"Where is the Developer options in the Settings on the S6?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"124918",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32491",
+    "CreationDate":"2015-10-04T05:27:03.300",
+    "FavoriteCount":"1",
+    "Id":"124917",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-04T05:27:03.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c34857d-935c-474e-8680-ed36b9319bc8",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"124917",
+            "PostHistoryTypeId":"2",
+            "Id":"409052",
+            "Text":"On the S3 it was easy to find. I clicked on everything under Settings.  I can't find it. Where do I access it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-04T05:27:03.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c34857d-935c-474e-8680-ed36b9319bc8",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"124917",
+            "PostHistoryTypeId":"1",
+            "Id":"409053",
+            "Text":"Where is the Developer options in the Settings on the S6?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-04T05:27:03.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c34857d-935c-474e-8680-ed36b9319bc8",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"124917",
+            "PostHistoryTypeId":"3",
+            "Id":"409054",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-04T16:38:21.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"197ea81c-8c18-47dd-9c0c-291837efecea",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"124917",
+            "PostHistoryTypeId":"10",
+            "Id":"409169",
+            "Text":"{\"OriginalQuestionIds\":[33496],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

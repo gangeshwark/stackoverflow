@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How will a swap partition\/file affect the system?  so what do you think, is it better to use swap space or not for small memory phone such as T-Mobile G1 to increase responsiveness and overall performance?",
+    "ViewCount":"510",
+    "LastActivityDate":"2010-11-21T14:45:37.960",
+    "ClosedDate":"2012-10-08T06:13:31.463",
+    "Title":"swap space for performance",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"365",
+    "CreationDate":"2010-09-22T09:25:37.477",
+    "FavoriteCount":null,
+    "Id":"1359",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-22T09:25:37.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8be8763-6b76-4ecf-b564-c96c4f34dcf9",
+            "UserId":"365",
+            "CloseReasonId":null,
+            "PostId":"1359",
+            "PostHistoryTypeId":"2",
+            "Id":"2585",
+            "Text":"so what do you think, is it better to use swap space or not for small memory phone such as T-Mobile G1 to increase responsiveness and overall performance?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-22T09:25:37.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8be8763-6b76-4ecf-b564-c96c4f34dcf9",
+            "UserId":"365",
+            "CloseReasonId":null,
+            "PostId":"1359",
+            "PostHistoryTypeId":"1",
+            "Id":"2586",
+            "Text":"swap space for performance"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-22T09:25:37.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8be8763-6b76-4ecf-b564-c96c4f34dcf9",
+            "UserId":"365",
+            "CloseReasonId":null,
+            "PostId":"1359",
+            "PostHistoryTypeId":"3",
+            "Id":"2587",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-08T06:13:31.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"9529f2df-63da-4760-95c5-141b9e294a39",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"1359",
+            "PostHistoryTypeId":"5",
+            "Id":"91848",
+            "Text":"> **Possible Duplicate:**  > [How will a swap partition\/file affect the system?](http:\/\/android.stackexchange.com\/questions\/2310\/how-will-a-swap-partition-file-affect-the-system)  so what do you think, is it better to use swap space or not for small memory phone such as T-Mobile G1 to increase responsiveness and overall performance?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-08T06:13:31.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"29900296-0054-4dc4-913f-57d347cfa9ee",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"1359",
+            "PostHistoryTypeId":"10",
+            "Id":"91849",
+            "Text":"{\"OriginalQuestionIds\":[2310],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

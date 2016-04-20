@@ -1,0 +1,71 @@
+{
+    "Body":"i have htc wildfire 3 i can not scan qr code for whatsApp web i see the \"OK, got it\" button , no problem with that but it seems camera keep scanning but not getting anythingany idea how to fix that ?every thing is updated already ",
+    "ViewCount":"117",
+    "LastActivityDate":"2015-10-31T02:45:29.187",
+    "ClosedDate":"2015-11-02T17:19:32.100",
+    "Title":"can't scan whatsApp web qr code?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"134564",
+    "CreationDate":"2015-10-30T17:01:18.657",
+    "FavoriteCount":null,
+    "Id":"127512",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-30T17:01:18.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e8d1cae-a0c4-46fe-9bb6-310048594e5b",
+            "UserId":"134564",
+            "CloseReasonId":null,
+            "PostId":"127512",
+            "PostHistoryTypeId":"2",
+            "Id":"418751",
+            "Text":"i have htc wildfire 3 i can not scan qr code for whatsApp web i see the \"OK, got it\" button , no problem with that but it seems camera keep scanning but not getting anythingany idea how to fix that ?every thing is updated already "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-30T17:01:18.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e8d1cae-a0c4-46fe-9bb6-310048594e5b",
+            "UserId":"134564",
+            "CloseReasonId":null,
+            "PostId":"127512",
+            "PostHistoryTypeId":"1",
+            "Id":"418752",
+            "Text":"can't scan whatsApp web qr code?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-30T17:01:18.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e8d1cae-a0c4-46fe-9bb6-310048594e5b",
+            "UserId":"134564",
+            "CloseReasonId":null,
+            "PostId":"127512",
+            "PostHistoryTypeId":"3",
+            "Id":"418753",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-02T17:19:32.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"11d6ad99-4dc2-4f4b-8a41-91bdca6c557f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127512",
+            "PostHistoryTypeId":"10",
+            "Id":"419886",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

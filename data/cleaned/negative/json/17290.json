@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to break in a new cell phone battery?  Admittedly this could be aimed at any mobile device, but I have a new battery for a HTC sensation. To get the best out of it, does it need any special charge\/discharge cycling?",
+    "ViewCount":"175",
+    "LastActivityDate":"2011-12-21T20:00:36.863",
+    "ClosedDate":"2011-12-22T00:41:49.403",
+    "Title":"New battery - any special treatment required?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10851",
+    "CreationDate":"2011-12-21T19:34:07.357",
+    "FavoriteCount":null,
+    "Id":"17290",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-21T19:34:07.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"617e96c1-895f-47a0-beed-7e77af94f299",
+            "UserId":"10851",
+            "CloseReasonId":null,
+            "PostId":"17290",
+            "PostHistoryTypeId":"2",
+            "Id":"47223",
+            "Text":"Admittedly this could be aimed at any mobile device, but I have a new battery for a HTC sensation. To get the best out of it, does it need any special charge\/discharge cycling?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-21T19:34:07.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"617e96c1-895f-47a0-beed-7e77af94f299",
+            "UserId":"10851",
+            "CloseReasonId":null,
+            "PostId":"17290",
+            "PostHistoryTypeId":"1",
+            "Id":"47224",
+            "Text":"New battery - any special treatment required?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-21T19:34:07.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"617e96c1-895f-47a0-beed-7e77af94f299",
+            "UserId":"10851",
+            "CloseReasonId":null,
+            "PostId":"17290",
+            "PostHistoryTypeId":"3",
+            "Id":"47225",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-12-22T00:41:50.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"7560e6f9-fe2a-44df-929d-3b5783015848",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"17290",
+            "PostHistoryTypeId":"5",
+            "Id":"47258",
+            "Text":"> **Possible Duplicate:**  > [How to break in a new cell phone battery?](http:\/\/android.stackexchange.com\/questions\/1035\/how-to-break-in-a-new-cell-phone-battery)  Admittedly this could be aimed at any mobile device, but I have a new battery for a HTC sensation. To get the best out of it, does it need any special charge\/discharge cycling?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-12-22T00:41:49.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"18dcea6a-42b4-4a93-932f-d4da87b6638d",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"17290",
+            "PostHistoryTypeId":"10",
+            "Id":"47259",
+            "Text":"{\"OriginalQuestionIds\":[1035],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

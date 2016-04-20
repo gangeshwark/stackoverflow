@@ -1,0 +1,71 @@
+{
+    "Body":"My default calendar does not align horizontally when I rotate it. How can I get a calendar that notice how I have the phone in my hand?",
+    "ViewCount":"108",
+    "LastActivityDate":"2012-09-16T20:18:26.907",
+    "ClosedDate":"2012-12-23T06:41:16.783",
+    "Title":"How can I auto-rotate calendar when rotating my Android -phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16903",
+    "CreationDate":"2012-09-16T20:18:26.907",
+    "FavoriteCount":null,
+    "Id":"29465",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-16T20:18:26.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"80ce4975-1696-428f-bde5-1a07d82a7afc",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"29465",
+            "PostHistoryTypeId":"2",
+            "Id":"87697",
+            "Text":"My default calendar does not align horizontally when I rotate it. How can I get a calendar that notice how I have the phone in my hand?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-16T20:18:26.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"80ce4975-1696-428f-bde5-1a07d82a7afc",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"29465",
+            "PostHistoryTypeId":"1",
+            "Id":"87698",
+            "Text":"How can I auto-rotate calendar when rotating my Android -phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-16T20:18:26.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"80ce4975-1696-428f-bde5-1a07d82a7afc",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"29465",
+            "PostHistoryTypeId":"3",
+            "Id":"87699",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T06:41:16.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe2666da-3aad-4b30-b315-533727fa819e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29465",
+            "PostHistoryTypeId":"10",
+            "Id":"108405",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

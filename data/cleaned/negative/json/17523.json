@@ -1,0 +1,71 @@
+{
+    "Body":"I'm using ES Explorer to copy files from LAN to Local. If it's a large transfer that will likely run past the time when I allow the phone to sleep, there seems to be a good chance that the transfer will break and the transfer in the notification area just stops. I can't remove it, and the transfer icon in the notification bar continues to be animated. Force stopping ES Explorer gets rid of the transfer.How can I prevent large transfers from breaking? I'm using GNex \/ ICS \/ Android 4.0.1. I don't recall having this problem with ES Explorer on my Legend 2.2 or CM7",
+    "ViewCount":"325",
+    "LastActivityDate":"2011-12-28T16:40:15.387",
+    "ClosedDate":"2012-12-23T15:50:53.790",
+    "Title":"How can I prevent transfers breaking when using from from LAN to Local using ES Explorer?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4826",
+    "CreationDate":"2011-12-28T16:40:15.387",
+    "FavoriteCount":null,
+    "Id":"17523",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-28T16:40:15.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ada3108-a09b-4c64-9581-7d9db5076f5e",
+            "UserId":"4826",
+            "CloseReasonId":null,
+            "PostId":"17523",
+            "PostHistoryTypeId":"2",
+            "Id":"47941",
+            "Text":"I'm using ES Explorer to copy files from LAN to Local. If it's a large transfer that will likely run past the time when I allow the phone to sleep, there seems to be a good chance that the transfer will break and the transfer in the notification area just stops. I can't remove it, and the transfer icon in the notification bar continues to be animated. Force stopping ES Explorer gets rid of the transfer.How can I prevent large transfers from breaking? I'm using GNex \/ ICS \/ Android 4.0.1. I don't recall having this problem with ES Explorer on my Legend 2.2 or CM7"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-28T16:40:15.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ada3108-a09b-4c64-9581-7d9db5076f5e",
+            "UserId":"4826",
+            "CloseReasonId":null,
+            "PostId":"17523",
+            "PostHistoryTypeId":"1",
+            "Id":"47942",
+            "Text":"How can I prevent transfers breaking when using from from LAN to Local using ES Explorer?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-28T16:40:15.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ada3108-a09b-4c64-9581-7d9db5076f5e",
+            "UserId":"4826",
+            "CloseReasonId":null,
+            "PostId":"17523",
+            "PostHistoryTypeId":"3",
+            "Id":"47943",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T15:50:53.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"651d0ae4-b786-4db7-80e2-52bdf4039ea7",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"17523",
+            "PostHistoryTypeId":"10",
+            "Id":"108491",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

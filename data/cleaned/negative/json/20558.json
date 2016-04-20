@@ -1,0 +1,83 @@
+{
+    "Body":"But i cant find the folder for my SD card anywhere, does anyone know where i need to put the ROM?",
+    "ViewCount":"475",
+    "LastActivityDate":"2013-04-04T12:08:18.740",
+    "ClosedDate":"2013-07-24T09:14:39.187",
+    "Title":"I'm trying to put a ROM onto my SD card in my phone through USB storage?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-04-04T12:08:18.740",
+    "CommentCount":"2",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13361",
+    "CreationDate":"2012-03-13T12:54:46.210",
+    "FavoriteCount":null,
+    "Id":"20558",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-13T12:54:46.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0140b2c-4670-422b-bd6a-e403f8c70ccf",
+            "UserId":"13361",
+            "CloseReasonId":null,
+            "PostId":"20558",
+            "PostHistoryTypeId":"2",
+            "Id":"57306",
+            "Text":"But i cant find the folder for my SD card anywhere, does anyone know where i need to put the ROM?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-13T12:54:46.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0140b2c-4670-422b-bd6a-e403f8c70ccf",
+            "UserId":"13361",
+            "CloseReasonId":null,
+            "PostId":"20558",
+            "PostHistoryTypeId":"1",
+            "Id":"57307",
+            "Text":"I'm trying to put a ROM onto my SD card in my phone through USB storage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-13T12:54:46.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0140b2c-4670-422b-bd6a-e403f8c70ccf",
+            "UserId":"13361",
+            "CloseReasonId":null,
+            "PostId":"20558",
+            "PostHistoryTypeId":"3",
+            "Id":"57308",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-04-04T12:08:18.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9a36d7e-a483-43b0-8ced-92002a71f971",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"20558",
+            "PostHistoryTypeId":"6",
+            "Id":"136719",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2013-07-24T09:14:39.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"53efe5b7-57e8-4147-bdf6-ca0b3fe5e9c9",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"20558",
+            "PostHistoryTypeId":"10",
+            "Id":"162687",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

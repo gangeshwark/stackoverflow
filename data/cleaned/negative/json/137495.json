@@ -1,0 +1,71 @@
+{
+    "Body":"I didn't know that a swipe pattern would mess with TWRP backup and locked myself out of my phone.  In an attempt to get the pattern off, I used the android device manager from Google to erase my phone wirelessly.  Now, having fixed the pattern issue, when I restore my TWRP backup, my phone is instantly erased.  How do I tell Google to stop erasing my phone, or fix the issue otherwise?Nexus 6pMarshmallow 6.0.1 MMB29MRooted",
+    "ViewCount":"16",
+    "LastActivityDate":"2016-02-19T05:05:50.353",
+    "ClosedDate":"2016-02-19T16:29:26.783",
+    "Title":"Google keeps erasing phone after TWRP recovery",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117165",
+    "CreationDate":"2016-02-19T05:05:50.353",
+    "FavoriteCount":"0",
+    "Id":"137495",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-19T05:05:50.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"df18a4d9-1776-4e95-976b-d67b375bc351",
+            "UserId":"117165",
+            "CloseReasonId":null,
+            "PostId":"137495",
+            "PostHistoryTypeId":"2",
+            "Id":"458585",
+            "Text":"I didn't know that a swipe pattern would mess with TWRP backup and locked myself out of my phone.  In an attempt to get the pattern off, I used the android device manager from Google to erase my phone wirelessly.  Now, having fixed the pattern issue, when I restore my TWRP backup, my phone is instantly erased.  How do I tell Google to stop erasing my phone, or fix the issue otherwise?Nexus 6pMarshmallow 6.0.1 MMB29MRooted"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-19T05:05:50.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"df18a4d9-1776-4e95-976b-d67b375bc351",
+            "UserId":"117165",
+            "CloseReasonId":null,
+            "PostId":"137495",
+            "PostHistoryTypeId":"1",
+            "Id":"458586",
+            "Text":"Google keeps erasing phone after TWRP recovery"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-19T05:05:50.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"df18a4d9-1776-4e95-976b-d67b375bc351",
+            "UserId":"117165",
+            "CloseReasonId":null,
+            "PostId":"137495",
+            "PostHistoryTypeId":"3",
+            "Id":"458587",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-19T16:29:26.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"0226cc64-2124-4d33-908b-6cac74cf26e7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"137495",
+            "PostHistoryTypeId":"10",
+            "Id":"458748",
+            "Text":"{\"OriginalQuestionIds\":[62092],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

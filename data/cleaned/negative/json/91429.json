@@ -1,0 +1,71 @@
+{
+    "Body":"Im talking about the drivers that install when you plug your phone into a Windows computer.",
+    "ViewCount":"82",
+    "LastActivityDate":"2014-12-12T11:57:52.793",
+    "ClosedDate":"2015-01-25T21:07:30.067",
+    "Title":"Where are the drivers for Windows computers located on an Android phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"84692",
+    "CreationDate":"2014-12-11T17:05:55.703",
+    "FavoriteCount":null,
+    "Id":"91429",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-11T17:05:55.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"3bca3917-581d-4c57-b7c3-9215f666b9ef",
+            "UserId":"84692",
+            "CloseReasonId":null,
+            "PostId":"91429",
+            "PostHistoryTypeId":"2",
+            "Id":"299230",
+            "Text":"Im talking about the drivers that install when you plug your phone into a Windows computer."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-11T17:05:55.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"3bca3917-581d-4c57-b7c3-9215f666b9ef",
+            "UserId":"84692",
+            "CloseReasonId":null,
+            "PostId":"91429",
+            "PostHistoryTypeId":"1",
+            "Id":"299231",
+            "Text":"Where are the drivers for Windows computers located on an Android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-11T17:05:55.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"3bca3917-581d-4c57-b7c3-9215f666b9ef",
+            "UserId":"84692",
+            "CloseReasonId":null,
+            "PostId":"91429",
+            "PostHistoryTypeId":"3",
+            "Id":"299232",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2015-01-25T21:07:30.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"4236bb94-499f-4f04-a986-6aa7959fb07b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"91429",
+            "PostHistoryTypeId":"10",
+            "Id":"315778",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

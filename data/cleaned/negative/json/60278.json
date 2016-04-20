@@ -1,0 +1,83 @@
+{
+    "Body":"Hi I am user of Samsung Galaxy S4, I want to know how can I change the default location of the Received files to SD Card instead of the phone storage?",
+    "ViewCount":"376",
+    "LastActivityDate":"2014-01-02T14:45:36.447",
+    "ClosedDate":"2015-01-05T08:42:06.350",
+    "Title":"Changing the default location of Receiving files of bluetooth",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-01-02T14:45:36.447",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49865",
+    "CreationDate":"2014-01-02T14:10:57.993",
+    "FavoriteCount":null,
+    "Id":"60278",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-02T14:10:57.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"3088e0dd-315d-4312-9f3e-90d21e77bd93",
+            "UserId":"49865",
+            "CloseReasonId":null,
+            "PostId":"60278",
+            "PostHistoryTypeId":"2",
+            "Id":"203371",
+            "Text":"Hi I am user of Samsung Galaxy S4, I want to know how can I change the default location of the Received files to SD Card instead of the phone storage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-02T14:10:57.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"3088e0dd-315d-4312-9f3e-90d21e77bd93",
+            "UserId":"49865",
+            "CloseReasonId":null,
+            "PostId":"60278",
+            "PostHistoryTypeId":"1",
+            "Id":"203372",
+            "Text":"Changing the default location of Receiving files of bluetooth"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-02T14:10:57.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"3088e0dd-315d-4312-9f3e-90d21e77bd93",
+            "UserId":"49865",
+            "CloseReasonId":null,
+            "PostId":"60278",
+            "PostHistoryTypeId":"3",
+            "Id":"203373",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-02T14:45:36.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"1504099d-4009-4736-99ae-6c0d1d37488f",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"60278",
+            "PostHistoryTypeId":"6",
+            "Id":"203388",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-05T08:42:06.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e57d553-94e1-4e98-b3d5-664ca506ed6b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"60278",
+            "PostHistoryTypeId":"10",
+            "Id":"307877",
+            "Text":"{\"OriginalQuestionIds\":[23109],\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"}]}"
+        }
+    ]
+}

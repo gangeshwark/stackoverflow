@@ -1,0 +1,83 @@
+{
+    "Body":"I am looking for an application for my Android 2.3.5 Sony Xperia X10i.I want an app that will mount my phone on my hot spot as eg: http:\/\/192.36.02.08 , which will have both download and upload functions. I want this so that I can quickly transfer files from my computer to my mobile in a hurry, as I have found out that WiFi speeds for file transfers are much faster than that of an USB cable.Are there any apps that can do it?I appreciate any help.",
+    "ViewCount":"804",
+    "LastActivityDate":"2014-07-02T13:08:34.037",
+    "ClosedDate":"2014-07-02T05:22:22.743",
+    "Title":"Access and modify files on the SD card of my mobile using WIFI tethering",
+    "LastEditorUserId":"53859",
+    "Tags":"",
+    "LastEditDate":"2014-07-02T11:50:57.747",
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"75290",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"53859",
+    "CreationDate":"2014-07-01T13:17:11.060",
+    "FavoriteCount":"1",
+    "Id":"75288",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T13:17:11.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfbd2efc-cb0e-4d38-97fa-e3f99c4ab88f",
+            "UserId":"53859",
+            "CloseReasonId":null,
+            "PostId":"75288",
+            "PostHistoryTypeId":"2",
+            "Id":"250256",
+            "Text":"I am looking for an application for my Android 2.3.5 Sony Xperia X10i. I want to use this method so that I can copy or paste files on to my mobile in a hurry.I want an app that will mount my phone on my hot spot as eg: `http:\/\/192.36.02.08` , which will have both download and upload functions. Are there any apps that can do it?I appreciate any help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T13:17:11.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfbd2efc-cb0e-4d38-97fa-e3f99c4ab88f",
+            "UserId":"53859",
+            "CloseReasonId":null,
+            "PostId":"75288",
+            "PostHistoryTypeId":"1",
+            "Id":"250257",
+            "Text":"Access and modify files on the SD card of my mobile using WIFI tethering"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-01T13:17:11.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfbd2efc-cb0e-4d38-97fa-e3f99c4ab88f",
+            "UserId":"53859",
+            "CloseReasonId":null,
+            "PostId":"75288",
+            "PostHistoryTypeId":"3",
+            "Id":"250258",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-07-02T05:22:22.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"f0eaaa2a-87dc-4311-8266-92754cd73621",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"75288",
+            "PostHistoryTypeId":"10",
+            "Id":"250448",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        },
+        {
+            "Comment":"Improved reason for this question.",
+            "CreationDate":"2014-07-02T11:50:57.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"f6ce6fd0-9d5b-4920-b2e9-2a177ea36a19",
+            "UserId":"53859",
+            "CloseReasonId":null,
+            "PostId":"75288",
+            "PostHistoryTypeId":"5",
+            "Id":"250539",
+            "Text":"I am looking for an application for my Android 2.3.5 Sony Xperia X10i.I want an app that will mount my phone on my hot spot as eg: `http:\/\/192.36.02.08` , which will have both download and upload functions. I want this so that I can quickly transfer files from my computer to my mobile in a hurry, as I have found out that WiFi speeds for file transfers are much faster than that of an USB cable.Are there any apps that can do it?I appreciate any help."
+        }
+    ]
+}

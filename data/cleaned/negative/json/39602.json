@@ -1,0 +1,71 @@
+{
+    "Body":"I've just downloaded an app, and I want to move it to SD card. At the application setting, the app has data like this:Total       ... 10.05MB Application ... 9.97MBData        ...  80.00KBNext to 'Clear data' button, 'Move to SD card' button is disabled. Why?",
+    "ViewCount":"4007",
+    "LastActivityDate":"2013-02-14T11:07:32.770",
+    "ClosedDate":"2013-02-14T14:04:31.993",
+    "Title":"Why do some applications have `Move to SD card` button disabled?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"28231",
+    "CreationDate":"2013-02-14T09:26:47.887",
+    "FavoriteCount":null,
+    "Id":"39602",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-14T09:26:47.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"60acdfbd-9192-4148-9bee-cd955a6ddbba",
+            "UserId":"28231",
+            "CloseReasonId":null,
+            "PostId":"39602",
+            "PostHistoryTypeId":"2",
+            "Id":"122429",
+            "Text":"I've just downloaded an app, and I want to move it to SD card. At the application setting, the app has data like this:Total       ... 10.05MB Application ... 9.97MBData        ...  80.00KBNext to 'Clear data' button, 'Move to SD card' button is disabled. Why?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-14T09:26:47.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"60acdfbd-9192-4148-9bee-cd955a6ddbba",
+            "UserId":"28231",
+            "CloseReasonId":null,
+            "PostId":"39602",
+            "PostHistoryTypeId":"1",
+            "Id":"122430",
+            "Text":"Why do some applications have `Move to SD card` button disabled?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-14T09:26:47.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"60acdfbd-9192-4148-9bee-cd955a6ddbba",
+            "UserId":"28231",
+            "CloseReasonId":null,
+            "PostId":"39602",
+            "PostHistoryTypeId":"3",
+            "Id":"122431",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-14T14:04:31.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"35a4da70-b03c-4767-9aaf-ead3add0b9da",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"39602",
+            "PostHistoryTypeId":"10",
+            "Id":"122527",
+            "Text":"{\"OriginalQuestionIds\":[27816],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"user267\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

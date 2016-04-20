@@ -1,0 +1,71 @@
+{
+    "Body":"An hour ago I was walking around my apartment when I heard some music playing very soft. It turned out to be my phone. It was the kind of calm music that you'd hear in the background of a nature program on TV, totally unlike the hardcore stuff I have stored on my phone. The moment I pressed the screen button the music vanished.I thought it may be a new type of notification I've never heard before, (especially because recently I lowered the notification volume relative to the others), but I found nothing in the notification bar.I looked at the running programs but found nothing I don't know.Fearing that it may be a virus or hijack, I installed AVG Mobility antivirus, and it reported that my phone is clean!Any idea what this may have been?",
+    "ViewCount":"659",
+    "LastActivityDate":"2012-06-08T17:07:13.560",
+    "ClosedDate":"2012-06-08T17:30:20.927",
+    "Title":"strange music played, no virus",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15789",
+    "CreationDate":"2012-06-08T17:07:13.560",
+    "FavoriteCount":"0",
+    "Id":"23975",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-08T17:07:13.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"d97546fa-6873-427a-92d6-1340b61e6d59",
+            "UserId":"15789",
+            "CloseReasonId":null,
+            "PostId":"23975",
+            "PostHistoryTypeId":"2",
+            "Id":"68512",
+            "Text":"An hour ago I was walking around my apartment when I heard some music playing very soft. It turned out to be my phone. It was the kind of calm music that you'd hear in the background of a nature program on TV, totally unlike the hardcore stuff I have stored on my phone. The moment I pressed the screen button the music vanished.I thought it may be a new type of notification I've never heard before, (especially because recently I lowered the notification volume relative to the others), but I found nothing in the notification bar.I looked at the running programs but found nothing I don't know.Fearing that it may be a virus or hijack, I installed AVG Mobility antivirus, and it reported that my phone is clean!Any idea what this may have been?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-08T17:07:13.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"d97546fa-6873-427a-92d6-1340b61e6d59",
+            "UserId":"15789",
+            "CloseReasonId":null,
+            "PostId":"23975",
+            "PostHistoryTypeId":"1",
+            "Id":"68513",
+            "Text":"strange music played, no virus"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-08T17:07:13.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"d97546fa-6873-427a-92d6-1340b61e6d59",
+            "UserId":"15789",
+            "CloseReasonId":null,
+            "PostId":"23975",
+            "PostHistoryTypeId":"3",
+            "Id":"68514",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-06-08T17:30:20.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"97a57c33-c054-4deb-852f-9ef296f9df07",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"23975",
+            "PostHistoryTypeId":"10",
+            "Id":"68517",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

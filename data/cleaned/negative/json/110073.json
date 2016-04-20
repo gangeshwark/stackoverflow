@@ -1,0 +1,83 @@
+{
+    "Body":"How can i make the notification\/statusbar for Android 4.3 transparent, i know launchers like Dodol Launcher, Smart Launcher and Go Launcher has a transparent bar option. But i want it to be like it is in Android 5.0's notificationbar, so if the bar is light blue the statusbar becomes a little darker blue color.i don't mean to do it in like Youtube, i mean if you can program it into an Android app, like this import system.ui.transparentbar",
+    "ViewCount":"625",
+    "LastActivityDate":"2015-05-23T13:38:16.377",
+    "ClosedDate":"2015-05-26T13:40:46.353",
+    "Title":"Transparent notificationbar\/statusbar for Android 4.3",
+    "LastEditorUserId":"109727",
+    "Tags":"",
+    "LastEditDate":"2015-05-23T13:38:16.377",
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"110104",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"109727",
+    "CreationDate":"2015-05-22T19:06:56.050",
+    "FavoriteCount":null,
+    "Id":"110073",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T19:06:56.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"3402d2a9-10c8-428e-ba3c-b76f5bfc6bc5",
+            "UserId":"109727",
+            "CloseReasonId":null,
+            "PostId":"110073",
+            "PostHistoryTypeId":"2",
+            "Id":"359384",
+            "Text":"How can i make the notification\/statusbar for Android 4.3 transparent, i know launchers like Dodol Launcher, Smart Launcher and Go Launcher has a transparent bar option. But i want it to be like it is in Android 5.0's notificationbar, so if the bar is light blue the statusbar becomes a little darker blue color"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T19:06:56.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"3402d2a9-10c8-428e-ba3c-b76f5bfc6bc5",
+            "UserId":"109727",
+            "CloseReasonId":null,
+            "PostId":"110073",
+            "PostHistoryTypeId":"1",
+            "Id":"359385",
+            "Text":"Transparent notificationbar\/statusbar for Android 4.3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T19:06:56.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"3402d2a9-10c8-428e-ba3c-b76f5bfc6bc5",
+            "UserId":"109727",
+            "CloseReasonId":null,
+            "PostId":"110073",
+            "PostHistoryTypeId":"3",
+            "Id":"359386",
+            "Text":""
+        },
+        {
+            "Comment":"added 150 characters in body",
+            "CreationDate":"2015-05-23T13:38:16.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b1990cc-4b95-42d6-ab97-fbec70a2ed04",
+            "UserId":"109727",
+            "CloseReasonId":null,
+            "PostId":"110073",
+            "PostHistoryTypeId":"5",
+            "Id":"359611",
+            "Text":"How can i make the notification\/statusbar for Android 4.3 transparent, i know launchers like Dodol Launcher, Smart Launcher and Go Launcher has a transparent bar option. But i want it to be like it is in Android 5.0's notificationbar, so if the bar is light blue the statusbar becomes a little darker blue color.i don't mean to do it in like Youtube, i mean if you can program it into an Android app, like this import system.ui.transparentbar"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-26T13:40:46.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ad9bac3-741d-4118-82ce-1771ce11a88e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"110073",
+            "PostHistoryTypeId":"10",
+            "Id":"360632",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

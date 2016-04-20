@@ -1,0 +1,83 @@
+{
+    "Body":"I have developed an app and I need to test it. I have borrowed some devices from my friends and bought a few. Now problem is that I want to test it in both landscape mode and portrait mode but I don't want to  keep on changing the orientation of phones every 5 minutes manually by myself. Is there any adb command or anything else by which I can tell the phone to change its orientation? Can I fool it by simulating acceleration or any other alternative?I am open to rooting but I prefer any solution which works on non-rooted phones.",
+    "ViewCount":"4467",
+    "LastActivityDate":"2012-11-08T11:37:57.403",
+    "ClosedDate":"2014-08-10T17:40:31.317",
+    "Title":"How do I change Android screen orientation via simulating acceleration?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23363",
+    "CreationDate":"2012-11-08T08:55:16.833",
+    "FavoriteCount":"1",
+    "Id":"33097",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-08T08:55:16.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"09902552-ae6f-48e0-bc7d-00742e8d1a17",
+            "UserId":"23363",
+            "CloseReasonId":null,
+            "PostId":"33097",
+            "PostHistoryTypeId":"2",
+            "Id":"98085",
+            "Text":"I have developed an app and I need to test it. I have borrowed some devices from my friends and bought a few. Now problem is that I want to test it in both landscape mode and portrait mode but I don't want to  keep on changing the orientation of phones every 5 minutes manually by myself. Is there any adb command or anything else by which I can tell the phone to change its orientation? Can I fool it by simulating acceleration or any other alternative?I am open to rooting but I prefer any solution which works on non-rooted phones."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-08T08:55:16.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"09902552-ae6f-48e0-bc7d-00742e8d1a17",
+            "UserId":"23363",
+            "CloseReasonId":null,
+            "PostId":"33097",
+            "PostHistoryTypeId":"1",
+            "Id":"98086",
+            "Text":"How do I change Android screen orientation via simulating acceleration?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-08T08:55:16.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"09902552-ae6f-48e0-bc7d-00742e8d1a17",
+            "UserId":"23363",
+            "CloseReasonId":null,
+            "PostId":"33097",
+            "PostHistoryTypeId":"3",
+            "Id":"98087",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/266479718319140864",
+            "CreationDate":"2012-11-08T09:58:01.173",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc48ab2c-a3fd-467a-878f-fbefcdba9b4f",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"33097",
+            "PostHistoryTypeId":"25",
+            "Id":"98098",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-08-10T17:40:31.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fcb72a7-9b59-4650-8537-84133bb17959",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"33097",
+            "PostHistoryTypeId":"10",
+            "Id":"261433",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

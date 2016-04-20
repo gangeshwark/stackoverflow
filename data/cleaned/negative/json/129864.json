@@ -1,0 +1,83 @@
+{
+    "Body":"I've rooted my phone running 4.2.2 jb through computer (I tried all mobile rooting apps but nothing worked for me) I want to know what's the difference rooting program did?has it switched me to root user? To do that something has to be changed. Then what is it? ",
+    "ViewCount":"98",
+    "LastActivityDate":"2015-11-25T15:37:43.720",
+    "ClosedDate":"2015-11-26T08:08:13.607",
+    "Title":"what changes are done, while rooting an android phone?",
+    "LastEditorUserId":"138468",
+    "Tags":"",
+    "LastEditDate":"2015-11-25T15:37:43.720",
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"129869",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"138468",
+    "CreationDate":"2015-11-25T13:52:19.090",
+    "FavoriteCount":null,
+    "Id":"129864",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-25T13:52:19.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"12b62c04-71ce-42c3-9748-a8367c6fda31",
+            "UserId":"138468",
+            "CloseReasonId":null,
+            "PostId":"129864",
+            "PostHistoryTypeId":"2",
+            "Id":"428106",
+            "Text":"I've rooted my phone running 4.2.2 jb. I want to know what's the difference rooting program did? And why a computer is needed to do it? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-25T13:52:19.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"12b62c04-71ce-42c3-9748-a8367c6fda31",
+            "UserId":"138468",
+            "CloseReasonId":null,
+            "PostId":"129864",
+            "PostHistoryTypeId":"1",
+            "Id":"428107",
+            "Text":"what changes are done, while rooting an android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-25T13:52:19.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"12b62c04-71ce-42c3-9748-a8367c6fda31",
+            "UserId":"138468",
+            "CloseReasonId":null,
+            "PostId":"129864",
+            "PostHistoryTypeId":"3",
+            "Id":"428108",
+            "Text":""
+        },
+        {
+            "Comment":"question. ",
+            "CreationDate":"2015-11-25T15:37:43.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"65292ce9-7d0d-4ccf-9f64-89554badb7c1",
+            "UserId":"138468",
+            "CloseReasonId":null,
+            "PostId":"129864",
+            "PostHistoryTypeId":"5",
+            "Id":"428170",
+            "Text":"I've rooted my phone running 4.2.2 jb through computer (I tried all mobile rooting apps but nothing worked for me) I want to know what's the difference rooting program did?has it switched me to root user? To do that something has to be changed. Then what is it? "
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-26T08:08:13.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e653f1c-4797-4b8c-82cc-ffd24a5ade91",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"129864",
+            "PostHistoryTypeId":"10",
+            "Id":"428439",
+            "Text":"{\"OriginalQuestionIds\":[1,236],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

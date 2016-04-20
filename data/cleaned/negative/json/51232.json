@@ -1,0 +1,83 @@
+{
+    "Body":"If you get the Android 4.2.* version phone, you will notice that there is no Developer mode any more.How can you switch to development mode?",
+    "ViewCount":"207",
+    "LastActivityDate":"2013-09-05T15:12:23.713",
+    "ClosedDate":"2013-08-14T15:21:43.740",
+    "Title":"Switch to developer mode in Android 4.2.*",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-09-05T15:12:23.713",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"39392",
+    "CreationDate":"2013-08-14T15:19:09.080",
+    "FavoriteCount":null,
+    "Id":"51232",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-14T15:19:09.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"a186ebbf-3d91-4fb0-83ef-306065df0dc1",
+            "UserId":"39392",
+            "CloseReasonId":null,
+            "PostId":"51232",
+            "PostHistoryTypeId":"2",
+            "Id":"168009",
+            "Text":"If you get the Android 4.2.* version phone, you will notice that there is no Developer mode any more.How can you switch to development mode?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-14T15:19:09.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"a186ebbf-3d91-4fb0-83ef-306065df0dc1",
+            "UserId":"39392",
+            "CloseReasonId":null,
+            "PostId":"51232",
+            "PostHistoryTypeId":"1",
+            "Id":"168010",
+            "Text":"Switch to developer mode in Android 4.2.*"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-14T15:19:09.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"a186ebbf-3d91-4fb0-83ef-306065df0dc1",
+            "UserId":"39392",
+            "CloseReasonId":null,
+            "PostId":"51232",
+            "PostHistoryTypeId":"3",
+            "Id":"168011",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-08-14T15:21:43.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"8cf76db2-b5f5-4427-8a59-bfbe7b120287",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"51232",
+            "PostHistoryTypeId":"10",
+            "Id":"168014",
+            "Text":"{\"OriginalQuestionIds\":[33496],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-09-05T15:12:23.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"42c6cc7f-1210-4f9a-b8ae-fa56b1daa73e",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"51232",
+            "PostHistoryTypeId":"6",
+            "Id":"173508",
+            "Text":""
+        }
+    ]
+}

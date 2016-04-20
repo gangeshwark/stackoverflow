@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is this red star icon malware? How to get rid of it?  Recently I often get the popup ads like the snapshot as below.I wanna get rid of it. Please help!",
+    "ViewCount":"4374",
+    "LastActivityDate":"2013-01-18T23:01:29.723",
+    "ClosedDate":"2013-01-12T14:34:22.960",
+    "Title":"How to get rid of ads popup?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"37471",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"198",
+    "CreationDate":"2013-01-12T10:43:04.497",
+    "FavoriteCount":null,
+    "Id":"37470",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-12T10:43:04.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"0726cfd8-26de-40e4-b95e-885d7452cddd",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"37470",
+            "PostHistoryTypeId":"2",
+            "Id":"113752",
+            "Text":"Recently I often get the popup ads like the snapshot as below.I wanna get rid of it. Please help!![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/MIy0m.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-12T10:43:04.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"0726cfd8-26de-40e4-b95e-885d7452cddd",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"37470",
+            "PostHistoryTypeId":"1",
+            "Id":"113753",
+            "Text":"How to get rid of ads popup?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-12T10:43:04.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"0726cfd8-26de-40e4-b95e-885d7452cddd",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"37470",
+            "PostHistoryTypeId":"3",
+            "Id":"113754",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-12T14:34:22.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"a84dc4d4-de14-49ba-856b-bbc88bf1db58",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"37470",
+            "PostHistoryTypeId":"5",
+            "Id":"113805",
+            "Text":"> **Possible Duplicate:**  > [Is this red star icon malware? How to get rid of it?](http:\/\/android.stackexchange.com\/questions\/18232\/is-this-red-star-icon-malware-how-to-get-rid-of-it)  Recently I often get the popup ads like the snapshot as below.I wanna get rid of it. Please help!![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/MIy0m.jpg"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-12T14:34:22.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"07048f45-32c2-481a-b37d-0c4efb16c371",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"37470",
+            "PostHistoryTypeId":"10",
+            "Id":"113806",
+            "Text":"{\"OriginalQuestionIds\":[18232],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have a 2014 Moto X, and a Nexus 4. Is it safe to charge my Moto X using my Nexus 4 charger?",
+    "ViewCount":"53",
+    "LastActivityDate":"2014-12-17T16:44:26.950",
+    "ClosedDate":"2014-12-17T16:46:31.263",
+    "Title":"Is it safe to use an LG charger on a Moto X?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"85396",
+    "CreationDate":"2014-12-17T16:39:36.083",
+    "FavoriteCount":null,
+    "Id":"91984",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-17T16:39:36.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"5aa3cd6f-b387-490b-8ecb-fa2999575bfc",
+            "UserId":"85396",
+            "CloseReasonId":null,
+            "PostId":"91984",
+            "PostHistoryTypeId":"2",
+            "Id":"301340",
+            "Text":"I have a 2014 Moto X, and a Nexus 4. Is it safe to charge my Moto X using my Nexus 4 charger?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-17T16:39:36.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"5aa3cd6f-b387-490b-8ecb-fa2999575bfc",
+            "UserId":"85396",
+            "CloseReasonId":null,
+            "PostId":"91984",
+            "PostHistoryTypeId":"1",
+            "Id":"301341",
+            "Text":"Is it safe to use an LG charger on a Moto X?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-17T16:39:36.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"5aa3cd6f-b387-490b-8ecb-fa2999575bfc",
+            "UserId":"85396",
+            "CloseReasonId":null,
+            "PostId":"91984",
+            "PostHistoryTypeId":"3",
+            "Id":"301342",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-17T16:46:31.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"caba0b78-89b7-4ff1-a435-fadad83f64e1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"91984",
+            "PostHistoryTypeId":"10",
+            "Id":"301345",
+            "Text":"{\"OriginalQuestionIds\":[13448],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

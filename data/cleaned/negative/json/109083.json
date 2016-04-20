@@ -1,0 +1,71 @@
+{
+    "Body":"Describe a step by step process that you can follow to upgrade the version of android on a smart phone from one version to another",
+    "ViewCount":"7",
+    "LastActivityDate":"2015-05-11T19:09:48.787",
+    "ClosedDate":"2015-05-11T19:25:11.557",
+    "Title":"Android upgrading to another newer verson of android os",
+    "LastEditorUserId":null,
+    "Tags":"<4.1-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108304",
+    "CreationDate":"2015-05-11T19:09:48.787",
+    "FavoriteCount":null,
+    "Id":"109083",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-11T19:09:48.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b78125b-bc0a-4e35-a51f-cf91475ad833",
+            "UserId":"108304",
+            "CloseReasonId":null,
+            "PostId":"109083",
+            "PostHistoryTypeId":"2",
+            "Id":"355718",
+            "Text":"Describe a step by step process that you can follow to upgrade the version of android on a smart phone from one version to another"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-11T19:09:48.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b78125b-bc0a-4e35-a51f-cf91475ad833",
+            "UserId":"108304",
+            "CloseReasonId":null,
+            "PostId":"109083",
+            "PostHistoryTypeId":"1",
+            "Id":"355719",
+            "Text":"Android upgrading to another newer verson of android os"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-11T19:09:48.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b78125b-bc0a-4e35-a51f-cf91475ad833",
+            "UserId":"108304",
+            "CloseReasonId":null,
+            "PostId":"109083",
+            "PostHistoryTypeId":"3",
+            "Id":"355720",
+            "Text":"<4.1-jelly-bean>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-11T19:25:11.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"40781502-2f9f-4dab-b751-2e1dd311ca4e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"109083",
+            "PostHistoryTypeId":"10",
+            "Id":"355723",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

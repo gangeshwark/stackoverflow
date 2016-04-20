@@ -1,0 +1,71 @@
+{
+    "Body":"Why does Android require porting to each device, unlike Windows? Or rather, why isn't there a way to simply download a setup program for pure AOSP and install it in any device?I already read this question, and it says that Android requires specific porting to each device configuration (hardware setup) to even work at all. But my question is, why was Android designed in such a way that requires modification of its base source to suit the device hardware (adding drivers, etc)? Why doesn't it support installation of original AOSP from Google with basic drivers on any hardware, which can then be enhanced to work better with device-specific drivers from the manufacturer?In contrast, Windows has been designed such that the same setup program can install it on any variant of a hardware configuration. You can come up with a configuration that no one has ever come up with before, and Windows will most likely install and run on it just fine. The chances of a complete failure to run Windows on a particular configuration are extremely low and likely only because of niche hardware.Even if the correct drivers can't be found for a device, Windows will attempt to find the closest match for the device and attempt to run the device in a basic mode anyway - and the user can then upgrade to the correct driver after Windows installation is complete. And the chances of certain devices failing completely may be higher but still very low, and such failures can usually be resolved by installing the missing drivers.By contrast, Android doesn't even have a concept of \"driver installation\", but drivers are added at the source level in a process called porting, which leads to many different ROM variants, including stock ROMs from device manufacturers, and vanilla ports like CyanogenMod, MUIU, etc. This brings the problem that if no one is porting Android for your device, you don't have a ROM to install on it (except the stock ROM it came with) - unless you build one yourself.I understand that Android is fundamentally very different from Windows and even Linux (which it's based on), and I don't mean to compare apples with oranges. I merely want to understand why such a paradigm shift in device support was necessary for Android.",
+    "ViewCount":"119",
+    "LastActivityDate":"2014-11-13T13:06:34.433",
+    "ClosedDate":"2014-11-13T16:01:47.910",
+    "Title":"Why does Android require porting to each device, unlike Windows?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"87559",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18723",
+    "CreationDate":"2014-11-13T07:22:28.233",
+    "FavoriteCount":null,
+    "Id":"87539",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T07:22:28.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"e137ebc2-65c1-448d-ae35-b43b3f5f548d",
+            "UserId":"18723",
+            "CloseReasonId":null,
+            "PostId":"87539",
+            "PostHistoryTypeId":"2",
+            "Id":"287933",
+            "Text":"Why does Android require porting to each device, unlike Windows? *Or rather,* why isn't there a way to simply download a setup program for pure AOSP and install it in any device?I already read [this question][1], and it says that Android requires specific porting to each device configuration (hardware setup) to even *work at all*. But my question is, why was Android designed in such a way that requires modification of its base source to suit the device hardware (adding drivers, etc)? Why doesn't it support installation of original AOSP from Google with basic drivers on any hardware, which can then be enhanced to work better with device-specific drivers from the manufacturer?In contrast, Windows has been designed such that the same setup program can install it on any variant of a hardware configuration. You can come up with a configuration that no one has ever come up with before, and Windows will most likely install and run on it just fine. The chances of a complete failure to run Windows on a particular configuration are extremely low and likely only because of niche hardware.Even if the correct drivers can't be found for a device, Windows will attempt to find the closest match for the device and attempt to run the device in a basic mode anyway - and the user can then upgrade to the correct driver after Windows installation is complete. And the chances of certain devices failing completely may be higher but still very low, and such failures can usually be resolved by installing the missing drivers.By contrast, Android doesn't even have a concept of \"driver installation\", but drivers are added at the source level in a process called *porting*, which leads to many different ROM variants, including stock ROMs from device manufacturers, and vanilla ports like CyanogenMod, MUIU, etc. This brings the problem that if no one is porting Android for *your* device, you don't have a ROM to install on it (except the stock ROM it came with) - unless you build one yourself.I understand that Android is fundamentally very different from Windows and even Linux (which it's based on), and I don't mean to compare apples with oranges. I merely want to understand why such a **paradigm shift** in device support was necessary for Android.  [1]: http:\/\/android.stackexchange.com\/q\/84516\/18723"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T07:22:28.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"e137ebc2-65c1-448d-ae35-b43b3f5f548d",
+            "UserId":"18723",
+            "CloseReasonId":null,
+            "PostId":"87539",
+            "PostHistoryTypeId":"1",
+            "Id":"287934",
+            "Text":"Why does Android require porting to each device, unlike Windows?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T07:22:28.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"e137ebc2-65c1-448d-ae35-b43b3f5f548d",
+            "UserId":"18723",
+            "CloseReasonId":null,
+            "PostId":"87539",
+            "PostHistoryTypeId":"3",
+            "Id":"287935",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-13T16:01:47.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"c525e37d-57bc-4a79-946c-c79548dd2a32",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"87539",
+            "PostHistoryTypeId":"10",
+            "Id":"288081",
+            "Text":"{\"OriginalQuestionIds\":[63630],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

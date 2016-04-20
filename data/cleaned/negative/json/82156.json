@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to get an app, that can record also incoming and outgoing calls and it should record mine and also my partner's voice.",
+    "ViewCount":"99",
+    "LastActivityDate":"2014-09-08T10:24:39.087",
+    "ClosedDate":"2014-09-08T14:29:49.190",
+    "Title":"Call recording app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"82159",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71279",
+    "CreationDate":"2014-09-08T10:08:34.230",
+    "FavoriteCount":null,
+    "Id":"82156",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-08T10:08:34.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ad9b488-d9f9-47e9-b10a-5deae6dcd659",
+            "UserId":"71279",
+            "CloseReasonId":null,
+            "PostId":"82156",
+            "PostHistoryTypeId":"2",
+            "Id":"269088",
+            "Text":"I would like to get an app, that can record also incoming and outgoing calls and it should record mine and also my partner's voice."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-08T10:08:34.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ad9b488-d9f9-47e9-b10a-5deae6dcd659",
+            "UserId":"71279",
+            "CloseReasonId":null,
+            "PostId":"82156",
+            "PostHistoryTypeId":"1",
+            "Id":"269089",
+            "Text":"Call recording app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-08T10:08:34.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ad9b488-d9f9-47e9-b10a-5deae6dcd659",
+            "UserId":"71279",
+            "CloseReasonId":null,
+            "PostId":"82156",
+            "PostHistoryTypeId":"3",
+            "Id":"269090",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-08T14:29:49.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"db6233ea-73ec-4d1a-bae8-9d57d51d3bcc",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"82156",
+            "PostHistoryTypeId":"10",
+            "Id":"269142",
+            "Text":"{\"OriginalQuestionIds\":[1699],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

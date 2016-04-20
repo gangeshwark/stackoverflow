@@ -1,0 +1,71 @@
+{
+    "Body":"My phone is showing \" avoided poor internet connection \". But i have full signal and just 1 feet away from the modem. How to fix this problem. My android version is 4.2.2.",
+    "ViewCount":"7",
+    "LastActivityDate":"2015-04-17T05:43:58.207",
+    "ClosedDate":"2015-04-17T05:49:27.743",
+    "Title":"wifi Avoided poor internet connection?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102816",
+    "CreationDate":"2015-04-17T05:43:58.207",
+    "FavoriteCount":null,
+    "Id":"105720",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-17T05:43:58.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"729f3580-30a0-4ece-8485-837d016753e5",
+            "UserId":"102816",
+            "CloseReasonId":null,
+            "PostId":"105720",
+            "PostHistoryTypeId":"2",
+            "Id":"345638",
+            "Text":"My phone is showing \" avoided poor internet connection \". But i have full signal and just 1 feet away from the modem. How to fix this problem. My android version is 4.2.2."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-17T05:43:58.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"729f3580-30a0-4ece-8485-837d016753e5",
+            "UserId":"102816",
+            "CloseReasonId":null,
+            "PostId":"105720",
+            "PostHistoryTypeId":"1",
+            "Id":"345639",
+            "Text":"wifi Avoided poor internet connection?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-17T05:43:58.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"729f3580-30a0-4ece-8485-837d016753e5",
+            "UserId":"102816",
+            "CloseReasonId":null,
+            "PostId":"105720",
+            "PostHistoryTypeId":"3",
+            "Id":"345640",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-17T05:49:27.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"e1ee0f53-3aed-4ce8-b5b8-62b260b59c00",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"105720",
+            "PostHistoryTypeId":"10",
+            "Id":"345642",
+            "Text":"{\"OriginalQuestionIds\":[22848],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

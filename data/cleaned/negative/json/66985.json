@@ -1,0 +1,83 @@
+{
+    "Body":"Most of us will know that tapping \"build number\" a few times in \"about device\" gives us access to developer settings.Is there a way to reverse this, and hide developer settings from the menu without doing a factory reset?",
+    "ViewCount":"262",
+    "LastActivityDate":"2014-04-06T17:37:17.367",
+    "ClosedDate":"2014-04-06T19:03:19.607",
+    "Title":"Hide developer settings from menu",
+    "LastEditorUserId":"57153",
+    "Tags":"",
+    "LastEditDate":"2014-04-06T08:24:07.063",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"57153",
+    "CreationDate":"2014-04-06T06:46:21.457",
+    "FavoriteCount":null,
+    "Id":"66985",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-06T06:46:21.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"99745011-cbaf-4141-a518-11119e1353df",
+            "UserId":"57153",
+            "CloseReasonId":null,
+            "PostId":"66985",
+            "PostHistoryTypeId":"2",
+            "Id":"228255",
+            "Text":"Most of us will know that tapping \"build number\" a few times in \"about device\" gives us access to developer settings.Is there a way to reverse this, and hide developer settings from the menu without doing a factory reset?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-06T06:46:21.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"99745011-cbaf-4141-a518-11119e1353df",
+            "UserId":"57153",
+            "CloseReasonId":null,
+            "PostId":"66985",
+            "PostHistoryTypeId":"1",
+            "Id":"228256",
+            "Text":"Hide developer settings"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-06T06:46:21.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"99745011-cbaf-4141-a518-11119e1353df",
+            "UserId":"57153",
+            "CloseReasonId":null,
+            "PostId":"66985",
+            "PostHistoryTypeId":"3",
+            "Id":"228257",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2014-04-06T08:24:07.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd942806-5b30-466f-909e-444acc59c9e5",
+            "UserId":"57153",
+            "CloseReasonId":null,
+            "PostId":"66985",
+            "PostHistoryTypeId":"4",
+            "Id":"228264",
+            "Text":"Hide developer settings from menu"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-06T19:03:19.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"16dfcafc-84a8-4540-a9da-4b20bf93f91c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"66985",
+            "PostHistoryTypeId":"10",
+            "Id":"228343",
+            "Text":"{\"OriginalQuestionIds\":[38123],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

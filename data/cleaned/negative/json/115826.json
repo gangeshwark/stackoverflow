@@ -1,0 +1,83 @@
+{
+    "Body":"How can I get the first boot Android welcome screen again without doing a factory reset?",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-07-20T16:54:45.913",
+    "ClosedDate":"2015-07-20T16:55:14.617",
+    "Title":"First time boot",
+    "LastEditorUserId":"1465",
+    "Tags":"",
+    "LastEditDate":"2015-07-20T16:54:45.913",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117596",
+    "CreationDate":"2015-07-20T15:55:51.720",
+    "FavoriteCount":null,
+    "Id":"115826",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T15:55:51.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c608309-a227-4865-b0cb-4b489d68063f",
+            "UserId":"117596",
+            "CloseReasonId":null,
+            "PostId":"115826",
+            "PostHistoryTypeId":"2",
+            "Id":"380566",
+            "Text":"How can I get the first boot Android welcome screen again without doing a factory reset? have been looking for this answer from quite a long time please help thanks in advance"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T15:55:51.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c608309-a227-4865-b0cb-4b489d68063f",
+            "UserId":"117596",
+            "CloseReasonId":null,
+            "PostId":"115826",
+            "PostHistoryTypeId":"1",
+            "Id":"380567",
+            "Text":"First time boot"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-20T15:55:51.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c608309-a227-4865-b0cb-4b489d68063f",
+            "UserId":"117596",
+            "CloseReasonId":null,
+            "PostId":"115826",
+            "PostHistoryTypeId":"3",
+            "Id":"380568",
+            "Text":""
+        },
+        {
+            "Comment":"deleted 89 characters in body",
+            "CreationDate":"2015-07-20T16:54:45.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"38086fcc-6b4a-483f-b45b-03a9a0a4d853",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115826",
+            "PostHistoryTypeId":"5",
+            "Id":"380610",
+            "Text":"How can I get the first boot Android welcome screen again without doing a factory reset?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-20T16:55:14.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6ec0900-a6eb-4165-9978-69fb213816d7",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115826",
+            "PostHistoryTypeId":"10",
+            "Id":"380612",
+            "Text":"{\"OriginalQuestionIds\":[67177],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

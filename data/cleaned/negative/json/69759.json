@@ -1,0 +1,71 @@
+{
+    "Body":"As part of a beta test for my company's app, I've sent a link to an APK for the users to download. However, when a user has the Winzip app installed, instead of being prompted on whether they want to install the APK, they are instead redirected to the Winzip app (which of course has no options to install the APK). Is there any way to tell the Android OS that I don't want it to launch the Winzip app if I download an APK file, or is the only solution to uninstall the app?",
+    "ViewCount":"87",
+    "LastActivityDate":"2014-05-22T16:01:45.573",
+    "ClosedDate":"2014-05-23T19:24:17.513",
+    "Title":"Unassociate an app from a file extension?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"61209",
+    "CreationDate":"2014-05-21T23:10:13.607",
+    "FavoriteCount":null,
+    "Id":"69759",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-21T23:10:13.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"57e512cb-fce5-4d2f-8669-65b1b19db212",
+            "UserId":"61209",
+            "CloseReasonId":null,
+            "PostId":"69759",
+            "PostHistoryTypeId":"2",
+            "Id":"238067",
+            "Text":"As part of a beta test for my company's app, I've sent a link to an APK for the users to download. However, when a user has the [Winzip][1] app installed, instead of being prompted on whether they want to install the APK, they are instead redirected to the Winzip app (which of course has no options to install the APK). Is there any way to tell the Android OS that I don't want it to launch the Winzip app if I download an APK file, or is the only solution to uninstall the app?  [1]: https:\/\/play.google.com\/store\/apps\/details?id=com.winzip.android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-21T23:10:13.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"57e512cb-fce5-4d2f-8669-65b1b19db212",
+            "UserId":"61209",
+            "CloseReasonId":null,
+            "PostId":"69759",
+            "PostHistoryTypeId":"1",
+            "Id":"238068",
+            "Text":"Unassociate an app from a file extension?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-21T23:10:13.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"57e512cb-fce5-4d2f-8669-65b1b19db212",
+            "UserId":"61209",
+            "CloseReasonId":null,
+            "PostId":"69759",
+            "PostHistoryTypeId":"3",
+            "Id":"238069",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-23T19:24:17.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"61f49105-5657-4fe2-ac4f-d35e246afb2a",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"69759",
+            "PostHistoryTypeId":"10",
+            "Id":"238410",
+            "Text":"{\"OriginalQuestionIds\":[14231],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

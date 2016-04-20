@@ -1,0 +1,71 @@
+{
+    "Body":"I'm have connectivity issues with the Google Play Store app.  I have a non-rooted Note 3 (4.3).  The had worked the first few weeks I had the phone in December and then hasn't worked since.  I get the same \"No connection - Retry\" error everytime I access it.  I've been have trouble with Google Play Services since I tried disabling it when I realized how much battery life it drained.  I've had trouble using Youtube at times but never as persistent and consistent as the Play Store.I have done the following:Wi-fi\/LTE connections, no difference between the twoAirplane mode on\/offManual and automatic date\/timeUpdated both Google Play Services and Google Play Store via Android PoliceI have basically done everything except a factory reset which seems like the next logical step but it does not fix the problem for everyone.  I am trying to figure out if there is anything else I haven't tried that I may be overlooking.Thank you!",
+    "ViewCount":"10524",
+    "LastActivityDate":"2014-01-31T17:04:41.883",
+    "ClosedDate":"2014-02-01T22:24:43.880",
+    "Title":"Google Play Store - No Connection (Galaxy Note 3)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"52323",
+    "CreationDate":"2014-01-30T17:30:57.697",
+    "FavoriteCount":"2",
+    "Id":"62373",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-30T17:30:57.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7295e4b-534b-4bc2-a999-080be6fb84b7",
+            "UserId":"52323",
+            "CloseReasonId":null,
+            "PostId":"62373",
+            "PostHistoryTypeId":"2",
+            "Id":"211570",
+            "Text":"I'm have connectivity issues with the Google Play Store app.  I have a non-rooted Note 3 (4.3).  The had worked the first few weeks I had the phone in December and then hasn't worked since.  I get the same \"No connection - Retry\" error everytime I access it.  I've been have trouble with Google Play Services since I tried disabling it when I realized how much battery life it drained.  I've had trouble using Youtube at times but never as persistent and consistent as the Play Store.I have done the following:- Wi-fi\/LTE connections, no difference between the two- Airplane mode on\/off- Manual and automatic date\/time- Updated both Google Play Services and Google Play Store via Android PoliceI have basically done everything except a factory reset which seems like the next logical step but it does not fix the problem for everyone.  I am trying to figure out if there is anything else I haven't tried that I may be overlooking.Thank you!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-30T17:30:57.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7295e4b-534b-4bc2-a999-080be6fb84b7",
+            "UserId":"52323",
+            "CloseReasonId":null,
+            "PostId":"62373",
+            "PostHistoryTypeId":"1",
+            "Id":"211571",
+            "Text":"Google Play Store - No Connection (Galaxy Note 3)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-30T17:30:57.697",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7295e4b-534b-4bc2-a999-080be6fb84b7",
+            "UserId":"52323",
+            "CloseReasonId":null,
+            "PostId":"62373",
+            "PostHistoryTypeId":"3",
+            "Id":"211572",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-01T22:24:43.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c9d4766-5d73-401e-9037-b85613ef1fc5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"62373",
+            "PostHistoryTypeId":"10",
+            "Id":"212202",
+            "Text":"{\"OriginalQuestionIds\":[40763],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"}]}"
+        }
+    ]
+}

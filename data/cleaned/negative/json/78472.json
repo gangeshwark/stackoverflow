@@ -1,0 +1,71 @@
+{
+    "Body":"My phone is automatically sending sms to number 6592324290 and i have been charged heavily by my service provider. I don't remember that i have installed any app which can send such sms. please advice so that at lest further sms can be stopped. ",
+    "ViewCount":"35",
+    "LastActivityDate":"2014-07-31T13:54:04.647",
+    "ClosedDate":"2014-08-01T22:10:43.947",
+    "Title":"My phone is sending messages to international number",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68610",
+    "CreationDate":"2014-07-31T13:54:04.647",
+    "FavoriteCount":null,
+    "Id":"78472",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-31T13:54:04.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b8f6945-097a-49c9-b21b-4b57cf07c5d1",
+            "UserId":"68610",
+            "CloseReasonId":null,
+            "PostId":"78472",
+            "PostHistoryTypeId":"2",
+            "Id":"258816",
+            "Text":"My phone is automatically sending sms to number 6592324290 and i have been charged heavily by my service provider. I don't remember that i have installed any app which can send such sms. please advice so that at lest further sms can be stopped. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-31T13:54:04.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b8f6945-097a-49c9-b21b-4b57cf07c5d1",
+            "UserId":"68610",
+            "CloseReasonId":null,
+            "PostId":"78472",
+            "PostHistoryTypeId":"1",
+            "Id":"258817",
+            "Text":"My phone is sending messages to international number"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-31T13:54:04.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b8f6945-097a-49c9-b21b-4b57cf07c5d1",
+            "UserId":"68610",
+            "CloseReasonId":null,
+            "PostId":"78472",
+            "PostHistoryTypeId":"3",
+            "Id":"258818",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-01T22:10:43.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"99baf01d-9e6f-4409-9392-f086974cc9d7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"78472",
+            "PostHistoryTypeId":"10",
+            "Id":"259184",
+            "Text":"{\"OriginalQuestionIds\":[10115],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

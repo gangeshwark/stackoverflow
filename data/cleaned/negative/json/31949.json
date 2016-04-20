@@ -1,0 +1,71 @@
+{
+    "Body":"Is it technically possible to edit a file directly and don't create a copy inside the application directory ?I want to annotate an image or a PDF directly but every application saves a copy instead of modify my file.",
+    "ViewCount":"37",
+    "LastActivityDate":"2012-10-17T14:23:42.630",
+    "ClosedDate":"2012-10-17T16:44:27.197",
+    "Title":"Modify file without creating a copy",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"31953",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22530",
+    "CreationDate":"2012-10-17T11:25:36.340",
+    "FavoriteCount":null,
+    "Id":"31949",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T11:25:36.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"f11df3b2-bf4a-4c79-bb27-78e37f0f23ad",
+            "UserId":"22530",
+            "CloseReasonId":null,
+            "PostId":"31949",
+            "PostHistoryTypeId":"2",
+            "Id":"94293",
+            "Text":"Is it technically possible to edit a file directly and don't create a copy inside the application directory ?I want to annotate an image or a PDF directly but every application saves a copy instead of modify my file."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T11:25:36.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"f11df3b2-bf4a-4c79-bb27-78e37f0f23ad",
+            "UserId":"22530",
+            "CloseReasonId":null,
+            "PostId":"31949",
+            "PostHistoryTypeId":"1",
+            "Id":"94294",
+            "Text":"Modify file without creating a copy"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-17T11:25:36.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"f11df3b2-bf4a-4c79-bb27-78e37f0f23ad",
+            "UserId":"22530",
+            "CloseReasonId":null,
+            "PostId":"31949",
+            "PostHistoryTypeId":"3",
+            "Id":"94295",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-17T16:44:27.197",
+            "UserDisplayName":null,
+            "RevisionGUID":"92595909-ee5c-4004-b497-05ad405f8170",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"31949",
+            "PostHistoryTypeId":"10",
+            "Id":"94341",
+            "Text":"{\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

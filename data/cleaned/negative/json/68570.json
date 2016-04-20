@@ -1,0 +1,83 @@
+{
+    "Body":"Anyone have any hacks or tricks to be able to add multiple cell phones to a Google Voice number? We set up a GV#, and want to have it ring our 1) home line, 2) my wife's cell and 3) my cell.Can a GV# forward to another GV#? I'm wondering if maybe I set up a separate GV# for my phone, and then have the shared one forward to mine, which will then forward to my phone.Anyone out there found a way to do what we are looking to do?",
+    "ViewCount":"1671",
+    "LastActivityDate":"2014-05-01T16:25:48.440",
+    "ClosedDate":"2014-05-06T11:19:20.667",
+    "Title":"Any way to set up a Google Voice number to ring multiple cell phones?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"11",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"294",
+    "CreationDate":"2014-05-01T16:07:21.160",
+    "FavoriteCount":null,
+    "Id":"68570",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T16:07:21.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ebf1c36-f452-4e32-b80a-715287785d72",
+            "UserId":"294",
+            "CloseReasonId":null,
+            "PostId":"68570",
+            "PostHistoryTypeId":"2",
+            "Id":"233835",
+            "Text":"Anyone have any hacks or tricks to be able to add multiple cell phones to a Google Voice number? We set up a GV#, and want to have it ring our 1) home line, 2) my wife's cell and 3) my cell.Can a GV# forward to another GV#? I'm wondering if maybe I set up a separate GV# for my phone, and then have the shared one forward to mine, which will then forward to my phone.Anyone out there found a way to do what we are looking to do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T16:07:21.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ebf1c36-f452-4e32-b80a-715287785d72",
+            "UserId":"294",
+            "CloseReasonId":null,
+            "PostId":"68570",
+            "PostHistoryTypeId":"1",
+            "Id":"233836",
+            "Text":"Any way to set up a Google Voice number to ring multiple cell phones?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T16:07:21.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ebf1c36-f452-4e32-b80a-715287785d72",
+            "UserId":"294",
+            "CloseReasonId":null,
+            "PostId":"68570",
+            "PostHistoryTypeId":"3",
+            "Id":"233837",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/461972227333046272",
+            "CreationDate":"2014-05-01T20:55:36.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d9bcc7b-e93c-4883-8b7f-e3b6fd73d4ea",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"68570",
+            "PostHistoryTypeId":"25",
+            "Id":"233896",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-05-06T11:19:20.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"b78de265-8698-456e-9a82-0494d189dc24",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"68570",
+            "PostHistoryTypeId":"10",
+            "Id":"234838",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

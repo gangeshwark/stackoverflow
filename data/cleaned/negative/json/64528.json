@@ -1,0 +1,71 @@
+{
+    "Body":"A pop up window appeared on my phone ,about some wifi booster simuntaneously an other window got on and told that my phone was infected by an virus ,but my antivirus was active and then i scaned my phone but it was clean . Please explain did my phone really have a virus in it?",
+    "ViewCount":"230",
+    "LastActivityDate":"2014-03-12T10:46:23.283",
+    "ClosedDate":"2014-03-02T16:09:15.890",
+    "Title":"my phone may have virus but my antivirus scans clean that phon is protected",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54939",
+    "CreationDate":"2014-02-28T13:50:40.073",
+    "FavoriteCount":"1",
+    "Id":"64528",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-28T13:50:40.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"1db61fce-d700-49f7-9fb0-4f235c239628",
+            "UserId":"54939",
+            "CloseReasonId":null,
+            "PostId":"64528",
+            "PostHistoryTypeId":"2",
+            "Id":"219494",
+            "Text":"A pop up window appeared on my phone ,about some wifi booster simuntaneously an other window got on and told that my phone was infected by an virus ,but my antivirus was active and then i scaned my phone but it was clean . Please explain did my phone really have a virus in it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-28T13:50:40.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"1db61fce-d700-49f7-9fb0-4f235c239628",
+            "UserId":"54939",
+            "CloseReasonId":null,
+            "PostId":"64528",
+            "PostHistoryTypeId":"1",
+            "Id":"219495",
+            "Text":"my phone may have virus but my antivirus scans clean that phon is protected"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-28T13:50:40.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"1db61fce-d700-49f7-9fb0-4f235c239628",
+            "UserId":"54939",
+            "CloseReasonId":null,
+            "PostId":"64528",
+            "PostHistoryTypeId":"3",
+            "Id":"219496",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-02T16:09:15.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"55f3fb02-22b5-484e-bfdf-008e74ea9752",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"64528",
+            "PostHistoryTypeId":"10",
+            "Id":"219988",
+            "Text":"{\"OriginalQuestionIds\":[53467],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

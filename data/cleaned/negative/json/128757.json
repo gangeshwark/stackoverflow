@@ -1,0 +1,71 @@
+{
+    "Body":"Once I purchase an android app on the appstore, can I download it again and again in future (say I change devices or factory reset my phone)?",
+    "ViewCount":"41",
+    "LastActivityDate":"2015-11-13T19:17:47.507",
+    "ClosedDate":"2015-11-13T22:42:47.267",
+    "Title":"Once a paid app is purchased, can it be downloaded unlimited number of times?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"128761",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41544",
+    "CreationDate":"2015-11-13T18:30:38.450",
+    "FavoriteCount":null,
+    "Id":"128757",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-13T18:30:38.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"b220f6db-4696-4f66-8151-7b3a698bfdab",
+            "UserId":"41544",
+            "CloseReasonId":null,
+            "PostId":"128757",
+            "PostHistoryTypeId":"2",
+            "Id":"423778",
+            "Text":"Once I purchase an android app on the appstore, can I download it again and again in future (say I change devices or factory reset my phone)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-13T18:30:38.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"b220f6db-4696-4f66-8151-7b3a698bfdab",
+            "UserId":"41544",
+            "CloseReasonId":null,
+            "PostId":"128757",
+            "PostHistoryTypeId":"1",
+            "Id":"423779",
+            "Text":"Once a paid app is purchased, can it be downloaded unlimited number of times?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-13T18:30:38.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"b220f6db-4696-4f66-8151-7b3a698bfdab",
+            "UserId":"41544",
+            "CloseReasonId":null,
+            "PostId":"128757",
+            "PostHistoryTypeId":"3",
+            "Id":"423780",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-13T22:42:47.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f057d23-cdaf-4d90-addd-7bc5d38aab48",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"128757",
+            "PostHistoryTypeId":"10",
+            "Id":"423826",
+            "Text":"{\"OriginalQuestionIds\":[11407],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

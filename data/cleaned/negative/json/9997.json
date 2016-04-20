@@ -1,0 +1,83 @@
+{
+    "Body":"Is there any android widget which allows me to lock my phone?The 'power' button on my android phone is broken? I can't use that to lock my phone screen.Thank you.",
+    "ViewCount":"290",
+    "LastActivityDate":"2013-03-23T16:24:29.120",
+    "ClosedDate":"2013-03-23T21:53:43.143",
+    "Title":"Android widget to lock my android phone",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-03-23T16:24:29.120",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"9999",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2220",
+    "CreationDate":"2011-06-02T20:34:21.580",
+    "FavoriteCount":null,
+    "Id":"9997",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-02T20:34:21.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"be915edc-f714-4169-8bdc-cb05e56d604f",
+            "UserId":"2220",
+            "CloseReasonId":null,
+            "PostId":"9997",
+            "PostHistoryTypeId":"2",
+            "Id":"24803",
+            "Text":"Is there any android widget which allows me to lock my phone?The 'power' button on my android phone is broken? I can't use that to lock my phone screen.Thank you."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-02T20:34:21.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"be915edc-f714-4169-8bdc-cb05e56d604f",
+            "UserId":"2220",
+            "CloseReasonId":null,
+            "PostId":"9997",
+            "PostHistoryTypeId":"1",
+            "Id":"24804",
+            "Text":"Android widget to lock my android phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-02T20:34:21.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"be915edc-f714-4169-8bdc-cb05e56d604f",
+            "UserId":"2220",
+            "CloseReasonId":null,
+            "PostId":"9997",
+            "PostHistoryTypeId":"3",
+            "Id":"24805",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-03-23T16:24:29.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"62d53a91-5ebb-493e-b936-f5dc2298aa09",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"9997",
+            "PostHistoryTypeId":"6",
+            "Id":"132660",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-03-23T21:53:43.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"117c7011-a2b7-4503-a721-b7e2b1bc01b2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"9997",
+            "PostHistoryTypeId":"10",
+            "Id":"132776",
+            "Text":"{\"OriginalQuestionIds\":[9826],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"}]}"
+        }
+    ]
+}

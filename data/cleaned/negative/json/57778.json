@@ -1,0 +1,71 @@
+{
+    "Body":"Using adb shell or a terminal emulator on the device, entering this will clear all notifications (requires su)service call notification 1This will send an sms (doesn't require su)service call isms 5 s16 \"PhoneNumber\" i32 0 i32 0 s16 \"BodyText\"Where can I learn more about service call? I've found this question on StackOverflow and appreciate the answer's breakdown as to what everything means. But where can I find info on what method notification 2 might be trying to call?Running service call was incomplete and printed this usage:Usage: service [-h|-?]       service list       service check SERVICE       service call SERVICE CODE [i32 INT | s16 STR] ...Options:   i32: Write the integer INT into the send parcel.   s16: Write the UTF-16 string STR into the send parcel.I ran service list and it came back with 78 services for my device including isms and notification and for most services will print what seems to be a namespace (com.android.internal.telephony.ISms for isms and android.app.INotificationManager for notification). How can I use this information to find out what I can do with each of these services?",
+    "ViewCount":"33",
+    "LastActivityDate":"2013-11-26T20:24:51.153",
+    "ClosedDate":"2013-11-27T06:18:41.067",
+    "Title":"Where to find info on the \"service call\" shell command?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5479",
+    "CreationDate":"2013-11-26T20:24:51.153",
+    "FavoriteCount":null,
+    "Id":"57778",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-26T20:24:51.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8f28740-3ad2-426a-a9e5-8427da0919a9",
+            "UserId":"5479",
+            "CloseReasonId":null,
+            "PostId":"57778",
+            "PostHistoryTypeId":"2",
+            "Id":"194026",
+            "Text":"Using `adb shell` or a terminal emulator on the device, entering this will clear all notifications (requires `su`)    service call notification 1This will send an sms (doesn't require `su`)    service call isms 5 s16 \"PhoneNumber\" i32 0 i32 0 s16 \"BodyText\"Where can I learn more about `service call`? I've found [this question][1] on StackOverflow and appreciate the answer's breakdown as to what everything means. But where can I find info on what method `notification 2` might be trying to call?Running `service call` was incomplete and printed this usage:    Usage: service [-h|-?]           service list           service check SERVICE           service call SERVICE CODE [i32 INT | s16 STR] ...    Options:       i32: Write the integer INT into the send parcel.       s16: Write the UTF-16 string STR into the send parcel.I ran `service list` and it came back with 78 services for my device including `isms` and `notification` and for most services will print what seems to be a namespace (`com.android.internal.telephony.ISms` for `isms` and `android.app.INotificationManager` for `notification`). How can I use this information to find out what I can do with each of these services?  [1]: https:\/\/stackoverflow.com\/questions\/17719898\/service-call-isms-with-adb-shell-android-sdk"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-26T20:24:51.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8f28740-3ad2-426a-a9e5-8427da0919a9",
+            "UserId":"5479",
+            "CloseReasonId":null,
+            "PostId":"57778",
+            "PostHistoryTypeId":"1",
+            "Id":"194027",
+            "Text":"Where to find info on the \"service call\" shell command?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-26T20:24:51.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8f28740-3ad2-426a-a9e5-8427da0919a9",
+            "UserId":"5479",
+            "CloseReasonId":null,
+            "PostId":"57778",
+            "PostHistoryTypeId":"3",
+            "Id":"194028",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-27T06:18:41.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee2abc45-9a7c-4b9d-8cd6-4ff201678bcb",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"57778",
+            "PostHistoryTypeId":"10",
+            "Id":"194121",
+            "Text":"{\"OriginalQuestionIds\":[34625],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

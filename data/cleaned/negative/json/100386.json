@@ -1,0 +1,71 @@
+{
+    "Body":"I don't understand, why some programs are requesting some permissions, especially concerning my privacy. So I want not to grant them or revoke after granting.I don't care if application will crash. I expect, that polite application will never access my private data without first asking explicitly. Since I won't permit this, then polite application will never crash. And mutual, if application will crash, then it is not polite and should be uninstalled.How to revoke permissions on Android?",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-02-20T14:20:08.280",
+    "ClosedDate":"2015-02-20T14:58:39.787",
+    "Title":"How to revoke permissions from applications?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13785",
+    "CreationDate":"2015-02-20T14:20:08.280",
+    "FavoriteCount":null,
+    "Id":"100386",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T14:20:08.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"76ab5e08-abaa-40dc-a130-fcbd8205c00d",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"100386",
+            "PostHistoryTypeId":"2",
+            "Id":"325986",
+            "Text":"I don't understand, why some programs are requesting some permissions, especially concerning my privacy. So I want not to grant them or revoke after granting.I don't care if application will crash. I expect, that polite application will never access my private data without first asking explicitly. Since I won't permit this, then polite application will never crash. And mutual, if application will crash, then it is not polite and should be uninstalled.How to revoke permissions on Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T14:20:08.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"76ab5e08-abaa-40dc-a130-fcbd8205c00d",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"100386",
+            "PostHistoryTypeId":"1",
+            "Id":"325987",
+            "Text":"How to revoke permissions from applications?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T14:20:08.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"76ab5e08-abaa-40dc-a130-fcbd8205c00d",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"100386",
+            "PostHistoryTypeId":"3",
+            "Id":"325988",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-20T14:58:39.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dde32eb-e5fe-4bbc-b2e4-4edb5495b435",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"100386",
+            "PostHistoryTypeId":"10",
+            "Id":"326006",
+            "Text":"{\"OriginalQuestionIds\":[3091],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

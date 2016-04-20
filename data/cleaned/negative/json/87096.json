@@ -1,0 +1,71 @@
+{
+    "Body":"I have installed and also properly configured AdBlock Plus. The problem is, that it doesn't remove all the ads. Sometimes I see ads at the bottom\/top of the screen. Sometimes I see full screen ads and also there is an automatic popup after I unlock the screen lock(so not only in applications). I have installed also AirPush Ad detector.Are there any better apps for this purpose.",
+    "ViewCount":"154",
+    "LastActivityDate":"2014-11-12T16:31:50.787",
+    "ClosedDate":"2014-11-19T19:19:43.410",
+    "Title":"Full ad blocking",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"87418",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71279",
+    "CreationDate":"2014-11-08T07:37:23.743",
+    "FavoriteCount":null,
+    "Id":"87096",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-08T07:37:23.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"252fab51-708f-46ac-9ca0-6a40c035758d",
+            "UserId":"71279",
+            "CloseReasonId":null,
+            "PostId":"87096",
+            "PostHistoryTypeId":"2",
+            "Id":"286468",
+            "Text":"I have installed and also properly configured AdBlock Plus. The problem is, that it doesn't remove all the ads. Sometimes I see ads at the bottom\/top of the screen. Sometimes I see full screen ads and also there is an automatic popup after I unlock the screen lock(so not only in applications). I have installed also AirPush Ad detector.Are there any better apps for this purpose."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-08T07:37:23.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"252fab51-708f-46ac-9ca0-6a40c035758d",
+            "UserId":"71279",
+            "CloseReasonId":null,
+            "PostId":"87096",
+            "PostHistoryTypeId":"1",
+            "Id":"286469",
+            "Text":"Full ad blocking"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-08T07:37:23.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"252fab51-708f-46ac-9ca0-6a40c035758d",
+            "UserId":"71279",
+            "CloseReasonId":null,
+            "PostId":"87096",
+            "PostHistoryTypeId":"3",
+            "Id":"286470",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-11-19T19:19:43.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"112a611e-e3a9-4080-b8c7-cf4704f94cb9",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"87096",
+            "PostHistoryTypeId":"10",
+            "Id":"290339",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

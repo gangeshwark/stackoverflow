@@ -1,0 +1,83 @@
+{
+    "Body":"I want to refresh (reload) a webpage every x minutes. How can i do this? Firefox addon's don't work, dolphin addon's don't work either...",
+    "ViewCount":"2793",
+    "LastActivityDate":"2014-09-12T18:29:58.810",
+    "ClosedDate":"2015-05-13T13:45:13.737",
+    "Title":"How can I auto refresh my web browser in android? (Any web browser)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"72773",
+    "CreationDate":"2014-09-09T09:50:51.030",
+    "FavoriteCount":null,
+    "Id":"82241",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-09T09:50:51.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"9257609d-8eaa-47e6-876a-0a3531b3b13a",
+            "UserId":"72773",
+            "CloseReasonId":null,
+            "PostId":"82241",
+            "PostHistoryTypeId":"2",
+            "Id":"269378",
+            "Text":"I want to refresh (reload) a webpage every x minutes. How can i do this? Firefox addon's don't work, dolphin addon's don't work either..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-09T09:50:51.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"9257609d-8eaa-47e6-876a-0a3531b3b13a",
+            "UserId":"72773",
+            "CloseReasonId":null,
+            "PostId":"82241",
+            "PostHistoryTypeId":"1",
+            "Id":"269379",
+            "Text":"How can I auto refresh my web browser in android? (Any web browser)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-09T09:50:51.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"9257609d-8eaa-47e6-876a-0a3531b3b13a",
+            "UserId":"72773",
+            "CloseReasonId":null,
+            "PostId":"82241",
+            "PostHistoryTypeId":"3",
+            "Id":"269380",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/510487542446030848",
+            "CreationDate":"2014-09-12T17:58:09.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"8952bece-9994-4ab6-a745-715070153c09",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"82241",
+            "PostHistoryTypeId":"25",
+            "Id":"270195",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-13T13:45:13.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"16a1c6a2-87ae-41e6-8396-ea924239de53",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"82241",
+            "PostHistoryTypeId":"10",
+            "Id":"356303",
+            "Text":"{\"OriginalQuestionIds\":[109082],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

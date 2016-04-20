@@ -1,0 +1,83 @@
+{
+    "Body":"I've been exploring the ups and downs of rooting Android, and I'm here asking for tips and the like so that no damage is done to my phone. What is the risk, exactly, of rooting? What kind of things cause boot loops or bricking?Any input is appreciated. Thanks!EDIT: The only things I would be looking to root for are the following: screen recorder, Autopilot (which is an app that enables Airplane Mode when you are in a cellular 'dead zone', which causes your phone to consume truckloads of battery), and Tasker.Also, are there any advantages from the point of view of a developer? I am currently learning Java, and will soon get into Android development.",
+    "ViewCount":"37",
+    "LastActivityDate":"2015-10-08T17:38:11.957",
+    "ClosedDate":"2015-10-23T00:06:49.467",
+    "Title":"How dangerous is rooting my Samsung Note 3?",
+    "LastEditorUserId":"131114",
+    "Tags":"",
+    "LastEditDate":"2015-10-08T17:38:11.957",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131114",
+    "CreationDate":"2015-10-08T17:30:46.307",
+    "FavoriteCount":null,
+    "Id":"125363",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T17:30:46.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"05cd563f-c5e1-4db4-a44f-18d905df1c4a",
+            "UserId":"131114",
+            "CloseReasonId":null,
+            "PostId":"125363",
+            "PostHistoryTypeId":"2",
+            "Id":"410780",
+            "Text":"I've been exploring the ups and downs of rooting Android, and I'm here asking for tips and the like so that no damage is done to my phone. What is the risk, exactly, of rooting? What kind of things cause boot loops or bricking?Any input is appreciated. Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T17:30:46.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"05cd563f-c5e1-4db4-a44f-18d905df1c4a",
+            "UserId":"131114",
+            "CloseReasonId":null,
+            "PostId":"125363",
+            "PostHistoryTypeId":"1",
+            "Id":"410781",
+            "Text":"How dangerous is rooting my Samsung Note 3?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-08T17:30:46.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"05cd563f-c5e1-4db4-a44f-18d905df1c4a",
+            "UserId":"131114",
+            "CloseReasonId":null,
+            "PostId":"125363",
+            "PostHistoryTypeId":"3",
+            "Id":"410782",
+            "Text":""
+        },
+        {
+            "Comment":"added 408 characters in body",
+            "CreationDate":"2015-10-08T17:38:11.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"284f1bc1-28fd-4d31-a77c-378ac8d277ca",
+            "UserId":"131114",
+            "CloseReasonId":null,
+            "PostId":"125363",
+            "PostHistoryTypeId":"5",
+            "Id":"410785",
+            "Text":"I've been exploring the ups and downs of rooting Android, and I'm here asking for tips and the like so that no damage is done to my phone. What is the risk, exactly, of rooting? What kind of things cause boot loops or bricking?Any input is appreciated. Thanks!**EDIT:** The only things I would be looking to root for are the following: screen recorder, Autopilot (which is an app that enables Airplane Mode when you are in a cellular 'dead zone', which causes your phone to consume truckloads of battery), and Tasker.Also, are there any advantages from the point of view of a developer? I am currently learning Java, and will soon get into Android development."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-23T00:06:49.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a45bac8-0853-46b3-b18f-d27060466317",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125363",
+            "PostHistoryTypeId":"10",
+            "Id":"416142",
+            "Text":"{\"OriginalQuestionIds\":[164],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

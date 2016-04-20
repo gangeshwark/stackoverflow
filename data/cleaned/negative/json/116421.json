@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a list of which kernel version comes in each Android AOSP version?And what changes are propogated back to Linux mainline on Kernel.org\/",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-07-27T07:22:58.730",
+    "ClosedDate":"2015-07-27T17:33:08.860",
+    "Title":"list of which kernel version comes in each Android AOSP version",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"118526",
+    "CreationDate":"2015-07-27T07:22:58.730",
+    "FavoriteCount":null,
+    "Id":"116421",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-27T07:22:58.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fef7387-3e52-4710-ba82-5d73d0b858e8",
+            "UserId":"118526",
+            "CloseReasonId":null,
+            "PostId":"116421",
+            "PostHistoryTypeId":"2",
+            "Id":"382800",
+            "Text":"Is there a list of which kernel version comes in each Android AOSP version?And what changes are propogated back to Linux mainline on Kernel.org\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-27T07:22:58.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fef7387-3e52-4710-ba82-5d73d0b858e8",
+            "UserId":"118526",
+            "CloseReasonId":null,
+            "PostId":"116421",
+            "PostHistoryTypeId":"1",
+            "Id":"382801",
+            "Text":"list of which kernel version comes in each Android AOSP version"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-27T07:22:58.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fef7387-3e52-4710-ba82-5d73d0b858e8",
+            "UserId":"118526",
+            "CloseReasonId":null,
+            "PostId":"116421",
+            "PostHistoryTypeId":"3",
+            "Id":"382802",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-27T17:33:08.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"b46974c5-2857-4829-ae42-5e2ef85db31f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"116421",
+            "PostHistoryTypeId":"10",
+            "Id":"383045",
+            "Text":"{\"OriginalQuestionIds\":[51651],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

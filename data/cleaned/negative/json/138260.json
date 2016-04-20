@@ -1,0 +1,71 @@
+{
+    "Body":"Is the most used method also the best one available today, or are there multiple effective ways to go about this.",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-02-27T13:50:18.083",
+    "ClosedDate":"2016-02-27T16:33:15.797",
+    "Title":"How do apps typicaly communicate with a database?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153568",
+    "CreationDate":"2016-02-27T13:50:18.083",
+    "FavoriteCount":null,
+    "Id":"138260",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T13:50:18.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"a288b499-b341-4f94-94c6-1ce8d89810ae",
+            "UserId":"153568",
+            "CloseReasonId":null,
+            "PostId":"138260",
+            "PostHistoryTypeId":"2",
+            "Id":"461981",
+            "Text":"Is the most used method also the best one available today, or are there multiple effective ways to go about this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T13:50:18.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"a288b499-b341-4f94-94c6-1ce8d89810ae",
+            "UserId":"153568",
+            "CloseReasonId":null,
+            "PostId":"138260",
+            "PostHistoryTypeId":"1",
+            "Id":"461982",
+            "Text":"How do apps typicaly communicate with a database?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T13:50:18.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"a288b499-b341-4f94-94c6-1ce8d89810ae",
+            "UserId":"153568",
+            "CloseReasonId":null,
+            "PostId":"138260",
+            "PostHistoryTypeId":"3",
+            "Id":"461983",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2016-02-27T16:33:15.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ade4546-47ea-40c9-bb2b-5ceed9c4e226",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138260",
+            "PostHistoryTypeId":"10",
+            "Id":"462022",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have an unrooted Nexus 4 and running Android 5.0. When the 5.0.1 OTA update came out I could download it and start installing it and then get screen that said error with the android robot on it's back but with no helpful information. I just tried again with 5.1 and I got the same problem. I factory reset my phone and it still doesn't work!Please can someone advise on what to do? Thanks in advance.",
+    "ViewCount":"23",
+    "LastActivityDate":"2015-04-22T09:05:15.820",
+    "ClosedDate":"2015-04-22T17:19:01.000",
+    "Title":"My Nexus 4 won't upgrade - I keep getting an error",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"8",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103589",
+    "CreationDate":"2015-04-22T09:05:15.820",
+    "FavoriteCount":null,
+    "Id":"106228",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T09:05:15.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fc9e052-fcd8-46e5-a9fd-afa8197649b8",
+            "UserId":"103589",
+            "CloseReasonId":null,
+            "PostId":"106228",
+            "PostHistoryTypeId":"2",
+            "Id":"347562",
+            "Text":"I have an unrooted Nexus 4 and running Android 5.0. When the 5.0.1 OTA update came out I could download it and start installing it and then get screen that said error with the android robot on it's back but with no helpful information. I just tried again with 5.1 and I got the same problem. I factory reset my phone and it still doesn't work!Please can someone advise on what to do? Thanks in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T09:05:15.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fc9e052-fcd8-46e5-a9fd-afa8197649b8",
+            "UserId":"103589",
+            "CloseReasonId":null,
+            "PostId":"106228",
+            "PostHistoryTypeId":"1",
+            "Id":"347563",
+            "Text":"My Nexus 4 won't upgrade - I keep getting an error"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T09:05:15.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fc9e052-fcd8-46e5-a9fd-afa8197649b8",
+            "UserId":"103589",
+            "CloseReasonId":null,
+            "PostId":"106228",
+            "PostHistoryTypeId":"3",
+            "Id":"347564",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-22T17:19:01.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"ed8d124d-7728-4323-99a8-f9fa8e369d92",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"106228",
+            "PostHistoryTypeId":"10",
+            "Id":"347733",
+            "Text":"{\"OriginalQuestionIds\":[96571],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

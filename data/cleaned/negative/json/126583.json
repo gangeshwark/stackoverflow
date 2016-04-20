@@ -1,0 +1,83 @@
+{
+    "Body":"I need to make the browser direct to an arbitrary file e.g. instead of connecting to johnnycash.com\/lyrics.doc it would go to file:\/\/\/sdcard\/lyrics.doc\/So I've read that I need to create a local server and edit the hosts file? I'm not sure, so could you please give me a guide? ",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-10-20T22:19:55.047",
+    "ClosedDate":"2015-10-22T19:39:31.103",
+    "Title":"How to redirect external link to a file (.doc) to my own internal file?",
+    "LastEditorUserId":"133040",
+    "Tags":"",
+    "LastEditDate":"2015-10-20T22:19:55.047",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"133040",
+    "CreationDate":"2015-10-20T22:05:28.613",
+    "FavoriteCount":null,
+    "Id":"126583",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-20T22:05:28.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"48286008-4ed6-4b34-bb50-2259eec13ed4",
+            "UserId":"133040",
+            "CloseReasonId":null,
+            "PostId":"126583",
+            "PostHistoryTypeId":"2",
+            "Id":"415385",
+            "Text":"I need to make the device arbitrary file e.g. johnnycash.com\/lyrics.doc to file:\/\/\/sdcard\/lyrics.doc\/So I've read that I need to create a local server and edit the hosts file? I'm not sure, so could you please give me a guide? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-20T22:05:28.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"48286008-4ed6-4b34-bb50-2259eec13ed4",
+            "UserId":"133040",
+            "CloseReasonId":null,
+            "PostId":"126583",
+            "PostHistoryTypeId":"1",
+            "Id":"415386",
+            "Text":"How to redirect external link to a file (.doc) to my own internal file?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-20T22:05:28.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"48286008-4ed6-4b34-bb50-2259eec13ed4",
+            "UserId":"133040",
+            "CloseReasonId":null,
+            "PostId":"126583",
+            "PostHistoryTypeId":"3",
+            "Id":"415387",
+            "Text":""
+        },
+        {
+            "Comment":"added 51 characters in body",
+            "CreationDate":"2015-10-20T22:19:55.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d5d00a8-0c4f-4387-802e-fddc611e39ee",
+            "UserId":"133040",
+            "CloseReasonId":null,
+            "PostId":"126583",
+            "PostHistoryTypeId":"5",
+            "Id":"415389",
+            "Text":"I need to make the browser direct to an arbitrary file e.g. instead of connecting to johnnycash.com\/lyrics.doc it would go to file:\/\/\/sdcard\/lyrics.doc\/So I've read that I need to create a local server and edit the hosts file? I'm not sure, so could you please give me a guide? "
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-22T19:39:31.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"65c2c996-b0f5-490c-a927-8a8739eff5e5",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"126583",
+            "PostHistoryTypeId":"10",
+            "Id":"416049",
+            "Text":"{\"OriginalQuestionIds\":[126580],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

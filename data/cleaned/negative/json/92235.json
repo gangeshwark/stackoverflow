@@ -1,0 +1,71 @@
+{
+    "Body":"sorry but i cannot find a link to download adb for Mac..can somebody provide me a link,please?thank you!",
+    "ViewCount":"536",
+    "LastActivityDate":"2014-12-20T08:05:30.733",
+    "ClosedDate":"2014-12-29T06:02:30.187",
+    "Title":"Link to download adb for Mac,please?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"85731",
+    "CreationDate":"2014-12-20T07:48:39.323",
+    "FavoriteCount":null,
+    "Id":"92235",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T07:48:39.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"d80227a3-2452-4ac1-ba52-ce82d49bed81",
+            "UserId":"85731",
+            "CloseReasonId":null,
+            "PostId":"92235",
+            "PostHistoryTypeId":"2",
+            "Id":"302324",
+            "Text":"sorry but i cannot find a link to download adb for Mac..can somebody provide me a link,please?thank you!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T07:48:39.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"d80227a3-2452-4ac1-ba52-ce82d49bed81",
+            "UserId":"85731",
+            "CloseReasonId":null,
+            "PostId":"92235",
+            "PostHistoryTypeId":"1",
+            "Id":"302325",
+            "Text":"Link to download adb for Mac,please?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T07:48:39.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"d80227a3-2452-4ac1-ba52-ce82d49bed81",
+            "UserId":"85731",
+            "CloseReasonId":null,
+            "PostId":"92235",
+            "PostHistoryTypeId":"3",
+            "Id":"302326",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-29T06:02:30.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"56b5c526-b16a-43a2-a462-5bd76585b2a6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"92235",
+            "PostHistoryTypeId":"10",
+            "Id":"305252",
+            "Text":"{\"OriginalQuestionIds\":[42474],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

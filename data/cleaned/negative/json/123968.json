@@ -1,0 +1,71 @@
+{
+    "Body":"my phone is Samsung Galaxy S advance GT-I9070 and has a lower android version 2.3.6 ( gingerbread). I want to upgrade it to higher version but there is no upgrade available for my phone. how can i upgrade it to higher android version?",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-09-23T09:27:52.583",
+    "ClosedDate":"2015-09-23T13:53:50.257",
+    "Title":"how can i upgrade my android version from 2.3.6 to higher",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"128655",
+    "CreationDate":"2015-09-23T09:27:52.583",
+    "FavoriteCount":null,
+    "Id":"123968",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-23T09:27:52.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"b87690b1-8658-424a-9523-2432a758125a",
+            "UserId":"128655",
+            "CloseReasonId":null,
+            "PostId":"123968",
+            "PostHistoryTypeId":"2",
+            "Id":"405125",
+            "Text":"my phone is Samsung Galaxy S advance GT-I9070 and has a lower android version 2.3.6 ( gingerbread). I want to upgrade it to higher version but there is no upgrade available for my phone. how can i upgrade it to higher android version?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-23T09:27:52.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"b87690b1-8658-424a-9523-2432a758125a",
+            "UserId":"128655",
+            "CloseReasonId":null,
+            "PostId":"123968",
+            "PostHistoryTypeId":"1",
+            "Id":"405126",
+            "Text":"how can i upgrade my android version from 2.3.6 to higher"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-23T09:27:52.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"b87690b1-8658-424a-9523-2432a758125a",
+            "UserId":"128655",
+            "CloseReasonId":null,
+            "PostId":"123968",
+            "PostHistoryTypeId":"3",
+            "Id":"405127",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-23T13:53:50.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"74cc8614-f4fc-4606-9127-6f314b497704",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"123968",
+            "PostHistoryTypeId":"10",
+            "Id":"405233",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"recently, I downloaded Android 5.0 on my nexus 7. I hate it, and want to reset my tablet. If I do, will that take me back to the original factory setting (4.1), and if so, can I upgrade to 4.4 kit kat?",
+    "ViewCount":"313",
+    "LastActivityDate":"2014-12-11T17:08:13.937",
+    "ClosedDate":"2014-12-11T06:02:09.763",
+    "Title":"resetting my Nexus 7",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"83608",
+    "CreationDate":"2014-12-11T04:09:52.727",
+    "FavoriteCount":null,
+    "Id":"90376",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-11T04:09:52.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"36d3c199-2e8e-4f32-a03e-7fa7c5cdd1fc",
+            "UserId":"83608",
+            "CloseReasonId":null,
+            "PostId":"90376",
+            "PostHistoryTypeId":"2",
+            "Id":"298032",
+            "Text":"recently, I downloaded Android 5.0 on my nexus 7. I hate it, and want to reset my tablet. If I do, will that take me back to the original factory setting (4.1), and if so, can I upgrade to 4.4 kit kat?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-11T04:09:52.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"36d3c199-2e8e-4f32-a03e-7fa7c5cdd1fc",
+            "UserId":"83608",
+            "CloseReasonId":null,
+            "PostId":"90376",
+            "PostHistoryTypeId":"1",
+            "Id":"298033",
+            "Text":"resetting my Nexus 7"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-11T04:09:52.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"36d3c199-2e8e-4f32-a03e-7fa7c5cdd1fc",
+            "UserId":"83608",
+            "CloseReasonId":null,
+            "PostId":"90376",
+            "PostHistoryTypeId":"3",
+            "Id":"298034",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-11T06:02:09.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"4eb67ad2-a3cf-4bc2-85c2-bd3ed0a7720d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"90376",
+            "PostHistoryTypeId":"10",
+            "Id":"299031",
+            "Text":"{\"OriginalQuestionIds\":[12626],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

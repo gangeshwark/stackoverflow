@@ -1,0 +1,71 @@
+{
+    "Body":"How do I keep certain apps from auto run if I never use them?",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-03-20T18:48:18.020",
+    "ClosedDate":"2015-03-20T19:38:10.133",
+    "Title":"How do I keep Applications I don't use from runNing automatically?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"98970",
+    "CreationDate":"2015-03-20T18:48:18.020",
+    "FavoriteCount":null,
+    "Id":"103074",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-20T18:48:18.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ecd4bf0-48ac-4446-924d-a029232bcc74",
+            "UserId":"98970",
+            "CloseReasonId":null,
+            "PostId":"103074",
+            "PostHistoryTypeId":"2",
+            "Id":"335984",
+            "Text":"How do I keep certain apps from auto run if I never use them?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-20T18:48:18.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ecd4bf0-48ac-4446-924d-a029232bcc74",
+            "UserId":"98970",
+            "CloseReasonId":null,
+            "PostId":"103074",
+            "PostHistoryTypeId":"1",
+            "Id":"335985",
+            "Text":"How do I keep Applications I don't use from runNing automatically?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-20T18:48:18.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ecd4bf0-48ac-4446-924d-a029232bcc74",
+            "UserId":"98970",
+            "CloseReasonId":null,
+            "PostId":"103074",
+            "PostHistoryTypeId":"3",
+            "Id":"335986",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-20T19:38:10.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf2ed21e-370b-414e-a619-f495c203c186",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"103074",
+            "PostHistoryTypeId":"10",
+            "Id":"335998",
+            "Text":"{\"OriginalQuestionIds\":[30332],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

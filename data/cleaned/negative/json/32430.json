@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can find older versions of Apps?  Sony LiveView -application dropped the support from the old Android versions -- some problems here -- and now I cannot use it. I want to get the old version of the Sony LiveView but it is not available in the market. It was replaced by the newest Android version. How can I get the old version of App thaw was later available in Android Market?",
+    "ViewCount":"32",
+    "LastActivityDate":"2012-10-26T18:58:35.907",
+    "ClosedDate":"2012-10-27T04:15:50.597",
+    "Title":"How can I get old Android softwares?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16903",
+    "CreationDate":"2012-10-26T18:58:35.907",
+    "FavoriteCount":null,
+    "Id":"32430",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-26T18:58:35.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c791f72-09e3-4864-aa8b-db45469b1f1d",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"32430",
+            "PostHistoryTypeId":"2",
+            "Id":"95919",
+            "Text":"Sony LiveView -application dropped the support from the old Android versions -- some problems [here](http:\/\/android.stackexchange.com\/questions\/27666\/cannot-establish-connection-with-liveview-with-h8800-android-device) -- and now I cannot use it. I want to get the old version of the Sony LiveView but it is not available in the market. It was replaced by the newest Android version. How can I get the old version of App thaw was later available in Android Market?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-26T18:58:35.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c791f72-09e3-4864-aa8b-db45469b1f1d",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"32430",
+            "PostHistoryTypeId":"1",
+            "Id":"95920",
+            "Text":"How can I get old Android softwares?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-26T18:58:35.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c791f72-09e3-4864-aa8b-db45469b1f1d",
+            "UserId":"16903",
+            "CloseReasonId":null,
+            "PostId":"32430",
+            "PostHistoryTypeId":"3",
+            "Id":"95921",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-27T04:15:50.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9a20bc3-ea50-402d-b752-bbed3264788a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32430",
+            "PostHistoryTypeId":"5",
+            "Id":"95957",
+            "Text":"> **Possible Duplicate:**  > [Where can find older versions of Apps?](http:\/\/android.stackexchange.com\/questions\/14910\/where-can-find-older-versions-of-apps)  Sony LiveView -application dropped the support from the old Android versions -- some problems [here](http:\/\/android.stackexchange.com\/questions\/27666\/cannot-establish-connection-with-liveview-with-h8800-android-device) -- and now I cannot use it. I want to get the old version of the Sony LiveView but it is not available in the market. It was replaced by the newest Android version. How can I get the old version of App thaw was later available in Android Market?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-27T04:15:50.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4e9e692-1640-4829-9f70-fc08d25c5876",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32430",
+            "PostHistoryTypeId":"10",
+            "Id":"95958",
+            "Text":"{\"OriginalQuestionIds\":[14910],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

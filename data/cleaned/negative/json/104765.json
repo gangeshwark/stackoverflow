@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to upgrade my Nexus 5 with version 5.0.1 (Build number LRX22C) via OTA to Android 5.1.The OTA update is downloaded successfully and after pressing \"Restart & Install\" I see a dead droid with the message \"Error!\".The phone was rooted",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-04-07T17:36:22.657",
+    "ClosedDate":"2015-04-07T18:07:55.523",
+    "Title":"trying to install 5.1 update in my nexus 5",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101423",
+    "CreationDate":"2015-04-07T17:36:22.657",
+    "FavoriteCount":null,
+    "Id":"104765",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T17:36:22.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"86ffe580-101b-4b66-9a15-4bc2aa9f5819",
+            "UserId":"101423",
+            "CloseReasonId":null,
+            "PostId":"104765",
+            "PostHistoryTypeId":"2",
+            "Id":"342065",
+            "Text":"I am trying to upgrade my Nexus 5 with version 5.0.1 (Build number LRX22C) via OTA to Android 5.1.The OTA update is downloaded successfully and after pressing \"Restart & Install\" I see a dead droid with the message \"Error!\".The phone was rooted"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T17:36:22.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"86ffe580-101b-4b66-9a15-4bc2aa9f5819",
+            "UserId":"101423",
+            "CloseReasonId":null,
+            "PostId":"104765",
+            "PostHistoryTypeId":"1",
+            "Id":"342066",
+            "Text":"trying to install 5.1 update in my nexus 5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-07T17:36:22.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"86ffe580-101b-4b66-9a15-4bc2aa9f5819",
+            "UserId":"101423",
+            "CloseReasonId":null,
+            "PostId":"104765",
+            "PostHistoryTypeId":"3",
+            "Id":"342067",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-07T18:07:55.523",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee7e1cc9-91e9-4e6a-a69b-5b0fbd3f2e86",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"104765",
+            "PostHistoryTypeId":"10",
+            "Id":"342078",
+            "Text":"{\"OriginalQuestionIds\":[104764],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

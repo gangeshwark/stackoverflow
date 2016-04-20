@@ -1,0 +1,71 @@
+{
+    "Body":"After too many unlocking pattern attempts, my android tablet have locked me out..How do i fix this? Is there a manually direction on how to unlock my tablet?",
+    "ViewCount":"7732",
+    "LastActivityDate":"2013-09-22T15:57:19.550",
+    "ClosedDate":"2013-09-22T18:19:59.687",
+    "Title":"android tablet locked after too many unlocking pattern attempts",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41918",
+    "CreationDate":"2013-09-22T14:48:26.003",
+    "FavoriteCount":null,
+    "Id":"53761",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-22T14:48:26.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"32655640-6685-44ed-8022-8563e0bd1e3b",
+            "UserId":"41918",
+            "CloseReasonId":null,
+            "PostId":"53761",
+            "PostHistoryTypeId":"2",
+            "Id":"177738",
+            "Text":"After too many unlocking pattern attempts, my android tablet have locked me out..How do i fix this? Is there a manually direction on how to unlock my tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-22T14:48:26.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"32655640-6685-44ed-8022-8563e0bd1e3b",
+            "UserId":"41918",
+            "CloseReasonId":null,
+            "PostId":"53761",
+            "PostHistoryTypeId":"1",
+            "Id":"177739",
+            "Text":"android tablet locked after too many unlocking pattern attempts"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-22T14:48:26.003",
+            "UserDisplayName":null,
+            "RevisionGUID":"32655640-6685-44ed-8022-8563e0bd1e3b",
+            "UserId":"41918",
+            "CloseReasonId":null,
+            "PostId":"53761",
+            "PostHistoryTypeId":"3",
+            "Id":"177740",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-22T18:19:59.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"70bf31da-0b01-41ca-9a0f-6da2f4c30773",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"53761",
+            "PostHistoryTypeId":"10",
+            "Id":"177778",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

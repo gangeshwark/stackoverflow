@@ -1,0 +1,71 @@
+{
+    "Body":"I am a Android greenhorn, and seems like there are a lot of jargon that float around.Example:Android OSAndroid KernelRootingRecoveryPartitionROMBoot lockedBIOSSIM Lockedstock androidetc.Could any one point me to resource(s) that would clarify these core concepts to me?I am not looking for easy answers; but rather I need right approach to read and understand these concepts.",
+    "ViewCount":"63",
+    "LastActivityDate":"2014-11-20T10:51:31.040",
+    "ClosedDate":"2014-11-20T19:25:32.060",
+    "Title":"Understanding Android terminologies",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"80930",
+    "CreationDate":"2014-11-20T09:57:55.273",
+    "FavoriteCount":null,
+    "Id":"88282",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T09:57:55.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb71bf2c-158f-4da9-b66b-9f726512163a",
+            "UserId":"80930",
+            "CloseReasonId":null,
+            "PostId":"88282",
+            "PostHistoryTypeId":"2",
+            "Id":"290616",
+            "Text":"I am a Android greenhorn, and seems like there are a lot of jargon that float around.Example:    Android OS    Android Kernel    Rooting    Recovery    Partition    ROM    Boot locked    BIOS    SIM Locked    stock androidetc.Could any one point me to resource(s) that would clarify these core concepts to me?I am not looking for easy answers; but rather I need right approach to read and understand these concepts."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T09:57:55.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb71bf2c-158f-4da9-b66b-9f726512163a",
+            "UserId":"80930",
+            "CloseReasonId":null,
+            "PostId":"88282",
+            "PostHistoryTypeId":"1",
+            "Id":"290617",
+            "Text":"Understanding Android terminologies"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T09:57:55.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb71bf2c-158f-4da9-b66b-9f726512163a",
+            "UserId":"80930",
+            "CloseReasonId":null,
+            "PostId":"88282",
+            "PostHistoryTypeId":"3",
+            "Id":"290618",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-20T19:25:32.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf1e5feb-3bc1-4abf-914d-3a21a72468a6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"88282",
+            "PostHistoryTypeId":"10",
+            "Id":"290821",
+            "Text":"{\"OriginalQuestionIds\":[2885],\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

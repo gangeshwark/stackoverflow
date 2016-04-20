@@ -1,0 +1,71 @@
+{
+    "Body":"I want to compile (through make) on my Android phone. I have root access.I have almost all the things set up.But there's this hitch. All the configure files have a shebang of #!\/bin\/sh.I can execute them by $SHELL configureI've also set $CONFIG_SHELLBut some configure files execute other shell scripts and they give the \/bin\/sh: no such file or directory.I'm thinking about creating a symlink \/bin\/sh -> \/system\/bin\/shI've read somewhere that the root file system is the ramdisk and any changes to it will require to be done in the init.rc file.So, if I want to accomplish this I'd need to first create a directory 'bin' then make a symlink 'sh' in it. I doubt that ln will work in init.rc.I have this another idea.Make a directory 'bin' somewhere preferably in Terminal IDE's (I'm using that) data directory. Then create a symlink in there sh -> \/system\/bin\/sh.Then create 'bin' in \/ through and use mount the first bin to \/bin through init.rcThirdly, I can just mkdir bin and cp \/system\/bin\/sh \/bin\/shAlso, all of these methods will fail and result in boot failure if any of the source directories cannot be found.I want to know which method will be more safe and if there exists a safer alternative?",
+    "ViewCount":"248",
+    "LastActivityDate":"2015-08-06T14:30:08.433",
+    "ClosedDate":"2015-08-17T21:13:49.870",
+    "Title":"Create symlink\/mount\/bind in root",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"117194",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101012",
+    "CreationDate":"2015-08-02T12:40:04.797",
+    "FavoriteCount":null,
+    "Id":"117040",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-02T12:40:04.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a55ca4e-1c3f-47b5-986b-6aa80a77c6e3",
+            "UserId":"101012",
+            "CloseReasonId":null,
+            "PostId":"117040",
+            "PostHistoryTypeId":"2",
+            "Id":"385199",
+            "Text":"I want to compile (through make) on my Android phone. I have root access.I have almost all the things set up.But there's this hitch. All the configure files have a shebang of **#!\/bin\/sh**.I can execute them by *$SHELL configure*I've also set **$CONFIG_SHELL**But some configure files execute other shell scripts and they give the **\/bin\/sh: no such file or directory**.I'm thinking about creating a symlink \/bin\/sh -> \/system\/bin\/shI've read somewhere that the root file system is the ramdisk and any changes to it will require to be done in the **init.rc** file.So, if I want to accomplish this I'd need to first create a directory 'bin' then make a symlink 'sh' in it. I doubt that **ln** will work in init.rc.I have this another idea.Make a directory 'bin' somewhere preferably in Terminal IDE's (I'm using that) data directory. Then create a symlink in there sh -> \/system\/bin\/sh.Then create 'bin' in \/ through and use mount the first bin to \/bin through init.rcThirdly, I can just mkdir bin and cp \/system\/bin\/sh \/bin\/shAlso, all of these methods will fail and result in boot failure if any of the source directories cannot be found.I want to know which method will be more safe and if there exists a safer alternative?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-02T12:40:04.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a55ca4e-1c3f-47b5-986b-6aa80a77c6e3",
+            "UserId":"101012",
+            "CloseReasonId":null,
+            "PostId":"117040",
+            "PostHistoryTypeId":"1",
+            "Id":"385200",
+            "Text":"Create symlink\/mount\/bind in root"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-02T12:40:04.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a55ca4e-1c3f-47b5-986b-6aa80a77c6e3",
+            "UserId":"101012",
+            "CloseReasonId":null,
+            "PostId":"117040",
+            "PostHistoryTypeId":"3",
+            "Id":"385201",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-17T21:13:49.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"63f02bdb-743e-4934-b0ef-228b514f9626",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"117040",
+            "PostHistoryTypeId":"10",
+            "Id":"391666",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

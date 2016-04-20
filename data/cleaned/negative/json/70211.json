@@ -1,0 +1,71 @@
+{
+    "Body":"I made the unfortunate mistake of buying a Galaxy S5 through AT&T and was rewarded with a locked bootloader and no fun whatsoever for any reason ever. As a remedy, I've considered purchasing a T-Mobile Galaxy S5 and somehow unlocking  it (how does that process work again?) for use on AT&T. Two questions:Will it be compatible with most (if not all) bands on AT&T? (ie: will I lack anything or will I be able to use the network just as well as with the AT&T S5?)How do I unlock a device for use on a different carrier?According to AT&T, these are the supported bands for the AT&T S5:4G-LTE: 1, 2, 3, 4, 5, 7, and 174G: HSPA+ with enhanced backhaul3G - UTMS: 840, 1900, 2100MHzGSM\/GPRS\/EDGE: 850, 900, 1800, 1900MHzAccording to T-Mobile, these are the supported bands for the T-Mobile S5:LTE: 1, 2, 3, 4, 5, 7, 8, and 17UMTS: Band 1 (2100), Band 2 (1900), Band 4 (1700\/2100), Band 5 (850)\"Quad Band GSM\" (what bands?)It seems to be compatible.See also AT&T Radio Frequencies and T-Mobile Radio FrequenciesWill it work?",
+    "ViewCount":"9162",
+    "LastActivityDate":"2016-02-03T03:04:16.763",
+    "ClosedDate":"2016-02-05T22:18:37.367",
+    "Title":"Can I use an unlocked T-Mobile Galaxy S5 on AT&T?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"136029",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2829",
+    "CreationDate":"2014-05-29T19:06:41.083",
+    "FavoriteCount":null,
+    "Id":"70211",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-29T19:06:41.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"73bf9dd4-64d1-4495-9cc6-3e68b821a377",
+            "UserId":"2829",
+            "CloseReasonId":null,
+            "PostId":"70211",
+            "PostHistoryTypeId":"2",
+            "Id":"239744",
+            "Text":"I made the unfortunate mistake of buying a Galaxy S5 through AT&T and was rewarded with a locked bootloader and no fun whatsoever for any reason ever. As a remedy, I've considered purchasing a T-Mobile Galaxy S5 and somehow unlocking  it (how does that process work again?) for use on AT&T. Two questions: 1. Will it be compatible with most (if not all) bands on AT&T? (ie: will I lack anything or will I be able to use the network just as well as with the AT&T S5?) 1. How do I unlock a device for use on a different carrier?According to [AT&T](https:\/\/www.att.com\/shop\/wireless\/devices\/samsung\/galaxy-s-5-charcoal-black.html#fbid=fUFfWuDxx3s), these are the supported bands for the AT&T S5: 1. 4G-LTE: 1, 2, 3, 4, 5, 7, and 17 2. 4G: HSPA+ with enhanced backhaul 3. 3G - UTMS: 840, 1900, 2100MHz 4. GSM\/GPRS\/EDGE: 850, 900, 1800, 1900MHzAccording to [T-Mobile](http:\/\/www.t-mobile.com\/cell-phones\/samsung-galaxy-s-5.html?icid=WMM_TM_SMSNGGLXYS_04BTTJZOAN144#features), these are the supported bands for the T-Mobile S5:  1. LTE: 1, 2, 3, 4, 5, 7, 8, and 17 1. UMTS: Band 1 (2100), Band 2 (1900), Band 4 (1700\/2100), Band 5 (850) 1. \"Quad Band GSM\" (what bands?)It seems to be compatible.See also [AT&T Radio Frequencies](https:\/\/en.wikipedia.org\/wiki\/AT%26T_Mobility#Radio_frequency_summary) and [T-Mobile Radio Frequencies](https:\/\/en.wikipedia.org\/wiki\/T-Mobile_USA#Radio_frequency_spectrum_chart)**Will it work?**"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-29T19:06:41.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"73bf9dd4-64d1-4495-9cc6-3e68b821a377",
+            "UserId":"2829",
+            "CloseReasonId":null,
+            "PostId":"70211",
+            "PostHistoryTypeId":"1",
+            "Id":"239745",
+            "Text":"Can I use an unlocked T-Mobile Galaxy S5 on AT&T?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-29T19:06:41.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"73bf9dd4-64d1-4495-9cc6-3e68b821a377",
+            "UserId":"2829",
+            "CloseReasonId":null,
+            "PostId":"70211",
+            "PostHistoryTypeId":"3",
+            "Id":"239746",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-05T22:18:37.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c307b7f-db17-4cbc-b339-4320401dba6a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"70211",
+            "PostHistoryTypeId":"10",
+            "Id":"453810",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

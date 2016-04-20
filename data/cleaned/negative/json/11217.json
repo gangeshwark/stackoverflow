@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  unwanted folders showing up in gallery (bejeweled 2). can they be removed?  I had installed a few application and games, for example beautiful widgets, and several weather widgets etc just to experiment.After that I have flashed my phone several times, installed different roms, and wiped cache and phone, and did not re-install the apps. But what I see is that the pictures still show up in my phones gallery. How can I remove them.And how can I make sure files from apps do not show up in my phones gallery app.",
+    "ViewCount":"1139",
+    "LastActivityDate":"2011-07-06T14:00:46.267",
+    "ClosedDate":"2011-07-06T14:38:04.863",
+    "Title":"How to remove app images from gallery",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"11221",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5832",
+    "CreationDate":"2011-07-06T13:18:55.367",
+    "FavoriteCount":"1",
+    "Id":"11217",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-06T13:18:55.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca215057-7a2c-4986-a641-3a058e92c8c2",
+            "UserId":"5832",
+            "CloseReasonId":null,
+            "PostId":"11217",
+            "PostHistoryTypeId":"2",
+            "Id":"27977",
+            "Text":"I had installed a few application and games, for example beautiful widgets, and several weather widgets etc just to experiment.After that I have flashed my phone several times, installed different roms, and wiped cache and phone, and did not re-install the apps. But what I see is that the pictures still show up in my phones gallery. How can I remove them.And how can I make sure files from apps do not show up in my phones gallery app."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-06T13:18:55.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca215057-7a2c-4986-a641-3a058e92c8c2",
+            "UserId":"5832",
+            "CloseReasonId":null,
+            "PostId":"11217",
+            "PostHistoryTypeId":"1",
+            "Id":"27978",
+            "Text":"How to remove app images from gallery"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-06T13:18:55.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca215057-7a2c-4986-a641-3a058e92c8c2",
+            "UserId":"5832",
+            "CloseReasonId":null,
+            "PostId":"11217",
+            "PostHistoryTypeId":"3",
+            "Id":"27979",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-07-06T14:38:05.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5314836-8f3e-45fd-93a2-d3c02f894162",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"11217",
+            "PostHistoryTypeId":"5",
+            "Id":"27988",
+            "Text":"> **Possible Duplicate:**  > [unwanted folders showing up in gallery (bejeweled 2). can they be removed?](http:\/\/android.stackexchange.com\/questions\/7866\/unwanted-folders-showing-up-in-gallery-bejeweled-2-can-they-be-removed)  I had installed a few application and games, for example beautiful widgets, and several weather widgets etc just to experiment.After that I have flashed my phone several times, installed different roms, and wiped cache and phone, and did not re-install the apps. But what I see is that the pictures still show up in my phones gallery. How can I remove them.And how can I make sure files from apps do not show up in my phones gallery app."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-07-06T14:38:04.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"b08e2e25-7a15-41ec-945d-df28e14589d2",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"11217",
+            "PostHistoryTypeId":"10",
+            "Id":"27989",
+            "Text":"{\"OriginalQuestionIds\":[7866],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

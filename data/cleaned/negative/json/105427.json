@@ -1,0 +1,83 @@
+{
+    "Body":"A few days back I deleted one audio file accidentally. I created that file by recording using the application Asus sound recorder. That file had the extension of .3gpp or .wav.I'm working on Android lolipop. Also, I would prefer a solution that doesn't require rooting my android device.",
+    "ViewCount":"25",
+    "LastActivityDate":"2015-04-25T14:14:45.403",
+    "ClosedDate":"2015-04-14T15:35:02.050",
+    "Title":"How to undelete an audio file from Asus fonepad 7 tablet?",
+    "LastEditorUserId":"53867",
+    "Tags":"",
+    "LastEditDate":"2015-04-25T14:14:45.403",
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"53867",
+    "CreationDate":"2015-04-14T15:13:02.437",
+    "FavoriteCount":null,
+    "Id":"105427",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-14T15:13:02.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"45a04485-3344-4fd5-b0ac-25e6963393e8",
+            "UserId":"53867",
+            "CloseReasonId":null,
+            "PostId":"105427",
+            "PostHistoryTypeId":"2",
+            "Id":"344557",
+            "Text":"A few days back I deleted one audio file accidentally. I created that file by recording using the application `Asus sound recorder`. That file had the extension of `.3gpp` or `.wav`."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-14T15:13:02.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"45a04485-3344-4fd5-b0ac-25e6963393e8",
+            "UserId":"53867",
+            "CloseReasonId":null,
+            "PostId":"105427",
+            "PostHistoryTypeId":"1",
+            "Id":"344558",
+            "Text":"How to undelete an audio file from Asus fonepad 7 tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-14T15:13:02.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"45a04485-3344-4fd5-b0ac-25e6963393e8",
+            "UserId":"53867",
+            "CloseReasonId":null,
+            "PostId":"105427",
+            "PostHistoryTypeId":"3",
+            "Id":"344559",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-14T15:35:02.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"951e15f4-6f80-4d47-8057-bbbf4121b509",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"105427",
+            "PostHistoryTypeId":"10",
+            "Id":"344565",
+            "Text":"{\"OriginalQuestionIds\":[15869],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"added 115 characters in body",
+            "CreationDate":"2015-04-25T14:14:45.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0eb5f9d-aa2a-4d78-bd33-248fb262c204",
+            "UserId":"53867",
+            "CloseReasonId":null,
+            "PostId":"105427",
+            "PostHistoryTypeId":"5",
+            "Id":"348943",
+            "Text":"A few days back I deleted one audio file accidentally. I created that file by recording using the application `Asus sound recorder`. That file had the extension of `.3gpp` or `.wav`.I'm working on Android lolipop. Also, I would prefer a solution that doesn't require rooting my android device."
+        }
+    ]
+}

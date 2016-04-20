@@ -1,0 +1,71 @@
+{
+    "Body":"Let's assume that I know my device will fall in the ocean in 6 months, I'm not allowed to buy insurance, and my contract expires in 18 months. I'm also a terrible swimmer, and Michael Phelps won't get it for me.I would think that you could reverse engineer the code and make your own phone calls from a different device, even without the sim card. You just need to be able to program it. I'm mostly curious if this has been done before and if it has a name. Are there any similar tricks\/ideas?",
+    "ViewCount":"35",
+    "LastActivityDate":"2014-03-26T00:05:34.997",
+    "ClosedDate":"2014-03-26T15:33:22.093",
+    "Title":"Making Phone Calls from a Different Device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"57015",
+    "CreationDate":"2014-03-25T23:37:25.617",
+    "FavoriteCount":null,
+    "Id":"66215",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-25T23:37:25.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"366cc90a-3ecf-4c16-84de-068f4ec19759",
+            "UserId":"57015",
+            "CloseReasonId":null,
+            "PostId":"66215",
+            "PostHistoryTypeId":"2",
+            "Id":"225543",
+            "Text":"Let's assume that I know my device will fall in the ocean in 6 months, I'm not allowed to buy insurance, and my contract expires in 18 months. I'm also a terrible swimmer, and Michael Phelps won't get it for me.I would think that you could reverse engineer the code and make your own phone calls from a different device, even without the sim card. You just need to be able to program it. I'm mostly curious if this has been done before and if it has a name. Are there any similar tricks\/ideas?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-25T23:37:25.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"366cc90a-3ecf-4c16-84de-068f4ec19759",
+            "UserId":"57015",
+            "CloseReasonId":null,
+            "PostId":"66215",
+            "PostHistoryTypeId":"1",
+            "Id":"225544",
+            "Text":"Making Phone Calls from a Different Device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-25T23:37:25.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"366cc90a-3ecf-4c16-84de-068f4ec19759",
+            "UserId":"57015",
+            "CloseReasonId":null,
+            "PostId":"66215",
+            "PostHistoryTypeId":"3",
+            "Id":"225545",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-03-26T15:33:22.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"71c78a89-9d50-4173-ad57-c0db2979a965",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"66215",
+            "PostHistoryTypeId":"10",
+            "Id":"225682",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

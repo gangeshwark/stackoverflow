@@ -1,0 +1,71 @@
+{
+    "Body":"In airplane mode, both SIM(s) and wi-fi are disconnected. Is there a way to just disconnect the SIM(s) and keep wi-fi connected without root privilege?",
+    "ViewCount":"45",
+    "LastActivityDate":"2015-05-09T17:24:18.117",
+    "ClosedDate":"2015-05-09T17:20:47.663",
+    "Title":"setting kind of semi - airplane mode",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"108909",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92613",
+    "CreationDate":"2015-05-09T16:37:01.260",
+    "FavoriteCount":null,
+    "Id":"108904",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-09T16:37:01.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"1aa9d113-5bed-406f-b70c-52b2ff3af2a8",
+            "UserId":"92613",
+            "CloseReasonId":null,
+            "PostId":"108904",
+            "PostHistoryTypeId":"2",
+            "Id":"354986",
+            "Text":"In airplane mode, both SIM(s) and wi-fi are disconnected. Is there a way to just disconnect the SIM(s) and keep wi-fi connected without root privilege?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-09T16:37:01.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"1aa9d113-5bed-406f-b70c-52b2ff3af2a8",
+            "UserId":"92613",
+            "CloseReasonId":null,
+            "PostId":"108904",
+            "PostHistoryTypeId":"1",
+            "Id":"354987",
+            "Text":"setting kind of semi - airplane mode"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-09T16:37:01.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"1aa9d113-5bed-406f-b70c-52b2ff3af2a8",
+            "UserId":"92613",
+            "CloseReasonId":null,
+            "PostId":"108904",
+            "PostHistoryTypeId":"3",
+            "Id":"354988",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-09T17:20:47.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"632a02ba-8dae-4e18-bcce-64113fb4a7fd",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"108904",
+            "PostHistoryTypeId":"10",
+            "Id":"355013",
+            "Text":"{\"OriginalQuestionIds\":[59664],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

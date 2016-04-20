@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why are some apps on the market incompatible with my device?  My phone (Orange San Francisco) came with Android 2.1 and has not been officially updated in the UK so I'm now running a nightly beta of Cyanogen 7 (Android 2.3.3) which works pretty well.  I'm trying to install an app from the Android Market that requires 2.2 (Froyo) and up but the Market insists that the app is incompatible with my phone and greys it out in the install dialog box.  Is it possible to either update the Market with my details (couldn't find this option in 'My Market Account' settings) or to spoof another phone\/android version so that I can download apps?  ",
+    "ViewCount":"1125",
+    "LastActivityDate":"2011-07-03T15:15:59.767",
+    "ClosedDate":"2012-01-13T21:11:18.917",
+    "Title":"How can I tell the Android Market that I'm running an updated version of Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"780",
+    "CreationDate":"2011-03-21T21:45:15.930",
+    "FavoriteCount":null,
+    "Id":"7238",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T21:45:15.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"dda4ba93-f97e-4cf7-972e-440743b9c52a",
+            "UserId":"780",
+            "CloseReasonId":null,
+            "PostId":"7238",
+            "PostHistoryTypeId":"2",
+            "Id":"16811",
+            "Text":"My phone (Orange San Francisco) came with Android 2.1 and has not been officially updated in the UK so I'm now running a nightly beta of Cyanogen 7 (Android 2.3.3) which works pretty well.  I'm trying to install an app from the Android Market that requires 2.2 (Froyo) and up but the Market insists that the app is incompatible with my phone and greys it out in the install dialog box.  Is it possible to either update the Market with my details (couldn't find this option in 'My Market Account' settings) or to spoof another phone\/android version so that I can download apps?  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T21:45:15.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"dda4ba93-f97e-4cf7-972e-440743b9c52a",
+            "UserId":"780",
+            "CloseReasonId":null,
+            "PostId":"7238",
+            "PostHistoryTypeId":"1",
+            "Id":"16812",
+            "Text":"How can I tell the Android Market that I'm running an updated version of Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T21:45:15.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"dda4ba93-f97e-4cf7-972e-440743b9c52a",
+            "UserId":"780",
+            "CloseReasonId":null,
+            "PostId":"7238",
+            "PostHistoryTypeId":"3",
+            "Id":"16813",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-01-13T21:11:19.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"6669782b-3118-4435-ac05-9af03802ebe9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"7238",
+            "PostHistoryTypeId":"5",
+            "Id":"50225",
+            "Text":"> **Possible Duplicate:**  > [Why are some apps on the market incompatible with my device?](http:\/\/android.stackexchange.com\/questions\/15814\/why-are-some-apps-on-the-market-incompatible-with-my-device)  My phone (Orange San Francisco) came with Android 2.1 and has not been officially updated in the UK so I'm now running a nightly beta of Cyanogen 7 (Android 2.3.3) which works pretty well.  I'm trying to install an app from the Android Market that requires 2.2 (Froyo) and up but the Market insists that the app is incompatible with my phone and greys it out in the install dialog box.  Is it possible to either update the Market with my details (couldn't find this option in 'My Market Account' settings) or to spoof another phone\/android version so that I can download apps?  "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-01-13T21:11:18.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"9b8c86b0-8dff-44bf-97e3-f3117c618528",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"7238",
+            "PostHistoryTypeId":"10",
+            "Id":"50226",
+            "Text":"{\"OriginalQuestionIds\":[15814],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

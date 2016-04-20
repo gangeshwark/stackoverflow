@@ -1,0 +1,71 @@
+{
+    "Body":"First off, I know this question has already been asked three times, but since I can't comment (don't have enough points), I'll just create a new post!So, none of the workarounds mentioned in the other three questions solves the problem. First, I tried killing the background process, but I still get skype messages, for example. Then, I tried to force quit the application, but when something triggers it, it loads again!For now, I decided to uninstall it and install it whenever I want to actually use it. But the lack of respect is really annoying. And my feeling is that it's intentional, not a bug.Anyway... Has anyone found something that really works, except installing a firewall or installing another application that will specifically kill skype?Thanks and sorry for asking a question that has already been asked...",
+    "ViewCount":"619",
+    "LastActivityDate":"2014-02-19T15:45:59.803",
+    "ClosedDate":"2014-02-20T06:25:27.783",
+    "Title":"How to shut down Skype",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54152",
+    "CreationDate":"2014-02-19T15:45:59.803",
+    "FavoriteCount":null,
+    "Id":"63865",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T15:45:59.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ded84e5-79da-41c5-b28d-aa891bfc9525",
+            "UserId":"54152",
+            "CloseReasonId":null,
+            "PostId":"63865",
+            "PostHistoryTypeId":"2",
+            "Id":"216997",
+            "Text":"First off, I know this question has already been asked three times, but since I can't comment (don't have enough points), I'll just create a new post!So, none of the workarounds mentioned in the other three questions solves the problem. First, I tried killing the background process, but I still get skype messages, for example. Then, I tried to force quit the application, but when something triggers it, it loads again!For now, I decided to uninstall it and install it whenever I want to actually use it. But the lack of respect is really annoying. And my feeling is that it's intentional, not a bug.Anyway... Has anyone found something that really works, except installing a firewall or installing another application that will specifically kill skype?Thanks and sorry for asking a question that has already been asked..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T15:45:59.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ded84e5-79da-41c5-b28d-aa891bfc9525",
+            "UserId":"54152",
+            "CloseReasonId":null,
+            "PostId":"63865",
+            "PostHistoryTypeId":"1",
+            "Id":"216998",
+            "Text":"How to shut down Skype"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T15:45:59.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ded84e5-79da-41c5-b28d-aa891bfc9525",
+            "UserId":"54152",
+            "CloseReasonId":null,
+            "PostId":"63865",
+            "PostHistoryTypeId":"3",
+            "Id":"216999",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-20T06:25:27.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"cfb0e710-4543-4b13-ad82-55b3ab0e934b",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"63865",
+            "PostHistoryTypeId":"10",
+            "Id":"217178",
+            "Text":"{\"OriginalQuestionIds\":[30332,1949],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

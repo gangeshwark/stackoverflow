@@ -1,0 +1,71 @@
+{
+    "Body":"I am getting a new phone. I have an old Galaxy and am getting a new(er) one to use with my pre-paid plan ($30\/mo unlimited).I plan on keeping my old service and phone number. Should I use my old SIM card or use the new SIM that comes with the new phone?I don't know if there are any reasons why I should keep my old one (like keeping data) or to use the new one (such as new features or security reasons).",
+    "ViewCount":"83",
+    "LastActivityDate":"2015-10-20T18:55:09.583",
+    "ClosedDate":"2015-10-22T19:39:53.070",
+    "Title":"New phone - New SIM or Old",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"126565",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"133021",
+    "CreationDate":"2015-10-20T18:01:31.100",
+    "FavoriteCount":null,
+    "Id":"126564",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-20T18:01:31.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0ab6d1d-6020-4148-82c3-6c4d0702d57d",
+            "UserId":"133021",
+            "CloseReasonId":null,
+            "PostId":"126564",
+            "PostHistoryTypeId":"2",
+            "Id":"415330",
+            "Text":"I am getting a new phone. I have an old Galaxy and am getting a new(er) one to use with my pre-paid plan ($30\/mo unlimited).I plan on keeping my old service and phone number. Should I use my old SIM card or use the new SIM that comes with the new phone?I don't know if there are any reasons why I should keep my old one (like keeping data) or to use the new one (such as new features or security reasons)."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-20T18:01:31.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0ab6d1d-6020-4148-82c3-6c4d0702d57d",
+            "UserId":"133021",
+            "CloseReasonId":null,
+            "PostId":"126564",
+            "PostHistoryTypeId":"1",
+            "Id":"415331",
+            "Text":"New phone - New SIM or Old"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-20T18:01:31.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0ab6d1d-6020-4148-82c3-6c4d0702d57d",
+            "UserId":"133021",
+            "CloseReasonId":null,
+            "PostId":"126564",
+            "PostHistoryTypeId":"3",
+            "Id":"415332",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-10-22T19:39:53.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"dffc7baf-d59c-4d0e-ac58-c94ce7f24a70",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"126564",
+            "PostHistoryTypeId":"10",
+            "Id":"416051",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

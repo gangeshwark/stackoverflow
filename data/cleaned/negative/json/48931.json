@@ -1,0 +1,71 @@
+{
+    "Body":"I bought the HTC One from China. I have rooted it succesfully and removed all bloatwares in chinese language. It has english language but it says \"English (China)\" How can I install any other english like english(India) or english (UK)The problem is still when someone calls me its shows some chinese charcter . Even in call logs it shows the same.I installed the Morelocale2 but when I change ot to English India. it says NA.But can be done? Please help. I searched on internet too but didnt find any solution for this.",
+    "ViewCount":"34",
+    "LastActivityDate":"2013-07-11T02:12:59.550",
+    "ClosedDate":"2013-07-12T06:20:17.813",
+    "Title":"How to change System Language in Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34265",
+    "CreationDate":"2013-07-11T02:12:59.550",
+    "FavoriteCount":"1",
+    "Id":"48931",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-11T02:12:59.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"48ff4d8c-ae83-4594-be72-6c145356716a",
+            "UserId":"34265",
+            "CloseReasonId":null,
+            "PostId":"48931",
+            "PostHistoryTypeId":"2",
+            "Id":"159233",
+            "Text":"I bought the HTC One from China. I have rooted it succesfully and removed all bloatwares in chinese language. It has english language but it says \"English (China)\" How can I install any other english like english(India) or english (UK)The problem is still when someone calls me its shows some chinese charcter . Even in call logs it shows the same.I installed the Morelocale2 but when I change ot to English India. it says NA.But can be done? Please help. I searched on internet too but didnt find any solution for this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-11T02:12:59.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"48ff4d8c-ae83-4594-be72-6c145356716a",
+            "UserId":"34265",
+            "CloseReasonId":null,
+            "PostId":"48931",
+            "PostHistoryTypeId":"1",
+            "Id":"159234",
+            "Text":"How to change System Language in Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-11T02:12:59.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"48ff4d8c-ae83-4594-be72-6c145356716a",
+            "UserId":"34265",
+            "CloseReasonId":null,
+            "PostId":"48931",
+            "PostHistoryTypeId":"3",
+            "Id":"159235",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-12T06:20:17.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1c62992-ea80-437b-929e-273a17054ac7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"48931",
+            "PostHistoryTypeId":"10",
+            "Id":"159545",
+            "Text":"{\"OriginalQuestionIds\":[20599],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"My son received an asus tablet for his birthday last year and has now told me the screen does not work completely (some areas are dead to the touch). I have told him we will send it for repair but he is worried that when it comes back they will have reset it and he will have lost all his apps, videos, photos, programs etc. Can anyone tell me how I back it up so that when it comes back I can just put all the information back on so that it is exactly as it is now. Please can any answers be as easy to understand as possible",
+    "ViewCount":"55",
+    "LastActivityDate":"2015-08-13T14:16:45.163",
+    "ClosedDate":"2015-08-13T14:37:59.737",
+    "Title":"Backup tablet before repair",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122033",
+    "CreationDate":"2015-08-13T13:51:30.497",
+    "FavoriteCount":null,
+    "Id":"119167",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-13T13:51:30.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"c11bf9b1-c5c4-4a2c-837a-ee945a4d4276",
+            "UserId":"122033",
+            "CloseReasonId":null,
+            "PostId":"119167",
+            "PostHistoryTypeId":"2",
+            "Id":"390257",
+            "Text":"My son received an asus tablet for his birthday last year and has now told me the screen does not work completely (some areas are dead to the touch). I have told him we will send it for repair but he is worried that when it comes back they will have reset it and he will have lost all his apps, videos, photos, programs etc. Can anyone tell me how I back it up so that when it comes back I can just put all the information back on so that it is exactly as it is now. Please can any answers be as easy to understand as possible"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-13T13:51:30.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"c11bf9b1-c5c4-4a2c-837a-ee945a4d4276",
+            "UserId":"122033",
+            "CloseReasonId":null,
+            "PostId":"119167",
+            "PostHistoryTypeId":"1",
+            "Id":"390258",
+            "Text":"Backup tablet before repair"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-13T13:51:30.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"c11bf9b1-c5c4-4a2c-837a-ee945a4d4276",
+            "UserId":"122033",
+            "CloseReasonId":null,
+            "PostId":"119167",
+            "PostHistoryTypeId":"3",
+            "Id":"390259",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-13T14:37:59.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"527108dd-8af1-4f7c-a827-07f6aafb395b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"119167",
+            "PostHistoryTypeId":"10",
+            "Id":"390282",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

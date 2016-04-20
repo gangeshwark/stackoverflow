@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to remove device(s) from My Market Account?  I've two devices showing in my Google Play Account, probably because of some old ROM. I want to remove the old entry. I can't install apps to my phone through the website anymore...I can't see any Option in the Google Play Settings.",
+    "ViewCount":"24",
+    "LastActivityDate":"2012-09-02T14:48:16.430",
+    "ClosedDate":"2012-09-02T15:44:24.187",
+    "Title":"Unregister device in Google Play",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18071",
+    "CreationDate":"2012-09-02T14:48:16.430",
+    "FavoriteCount":null,
+    "Id":"28652",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-02T14:48:16.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe06d7bd-9309-458a-9522-adf8379fddf2",
+            "UserId":"18071",
+            "CloseReasonId":null,
+            "PostId":"28652",
+            "PostHistoryTypeId":"2",
+            "Id":"83792",
+            "Text":"I've two devices showing in my Google Play Account, probably because of some old ROM. I want to remove the old entry. I can't install apps to my phone through the website anymore...![The same devices!][1]I can't see any Option in the Google Play Settings.  [1]: http:\/\/i.stack.imgur.com\/g2nIi.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-02T14:48:16.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe06d7bd-9309-458a-9522-adf8379fddf2",
+            "UserId":"18071",
+            "CloseReasonId":null,
+            "PostId":"28652",
+            "PostHistoryTypeId":"1",
+            "Id":"83793",
+            "Text":"Unregister device in Google Play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-02T14:48:16.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe06d7bd-9309-458a-9522-adf8379fddf2",
+            "UserId":"18071",
+            "CloseReasonId":null,
+            "PostId":"28652",
+            "PostHistoryTypeId":"3",
+            "Id":"83794",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-02T15:44:24.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f5e487c-1a29-4a6a-953b-68a99a59e76e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28652",
+            "PostHistoryTypeId":"5",
+            "Id":"83806",
+            "Text":"> **Possible Duplicate:**  > [How to remove device(s) from My Market Account?](http:\/\/android.stackexchange.com\/questions\/8276\/how-to-remove-devices-from-my-market-account)  I've two devices showing in my Google Play Account, probably because of some old ROM. I want to remove the old entry. I can't install apps to my phone through the website anymore...![The same devices!][1]I can't see any Option in the Google Play Settings.  [1]: http:\/\/i.stack.imgur.com\/g2nIi.png"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-02T15:44:24.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"0465c6c7-4467-448d-8b1e-3f613a4c60a7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"28652",
+            "PostHistoryTypeId":"10",
+            "Id":"83807",
+            "Text":"{\"OriginalQuestionIds\":[8276],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

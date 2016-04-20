@@ -1,0 +1,71 @@
+{
+    "Body":"I've just wasted 3GB trying to download Injustice on my tablet, i keep on getting this error \"could not be downloaded due to an error 905\". I tried uninstalling Google Play updates as suggested on most forums. Can anybody help?",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-06-05T14:14:26.900",
+    "ClosedDate":"2015-06-05T14:45:28.273",
+    "Title":"Not able to download application via google play",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111575",
+    "CreationDate":"2015-06-05T14:10:29.547",
+    "FavoriteCount":null,
+    "Id":"111557",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T14:10:29.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"347c22c8-2fcd-42df-88a8-6931f276479c",
+            "UserId":"111575",
+            "CloseReasonId":null,
+            "PostId":"111557",
+            "PostHistoryTypeId":"2",
+            "Id":"364770",
+            "Text":"I've just wasted 3GB trying to download Injustice on my tablet, i keep on getting this error \"could not be downloaded due to an error 905\". I tried uninstalling Google Play updates as suggested on most forums. Can anybody help?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T14:10:29.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"347c22c8-2fcd-42df-88a8-6931f276479c",
+            "UserId":"111575",
+            "CloseReasonId":null,
+            "PostId":"111557",
+            "PostHistoryTypeId":"1",
+            "Id":"364771",
+            "Text":"Not able to download application via google play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T14:10:29.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"347c22c8-2fcd-42df-88a8-6931f276479c",
+            "UserId":"111575",
+            "CloseReasonId":null,
+            "PostId":"111557",
+            "PostHistoryTypeId":"3",
+            "Id":"364772",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-05T14:45:28.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"e6c99a28-41c5-4686-9168-865f5c96b229",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"111557",
+            "PostHistoryTypeId":"10",
+            "Id":"364786",
+            "Text":"{\"OriginalQuestionIds\":[25918],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

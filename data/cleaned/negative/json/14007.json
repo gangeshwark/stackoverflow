@@ -1,0 +1,71 @@
+{
+    "Body":"I have Xperia Mini Pro that run on Android 2.3.3I don't normally turn off the auto-sync, but my wifi is rarely turned on. I don't use 3G either.The problem is, whenever I'm in a wifi zone, though the wifi is off, my phone will auto-sync. As in, I'll be notified about new mails and twitters updates. What can I do about this?",
+    "ViewCount":"130",
+    "LastActivityDate":"2011-10-01T01:57:50.150",
+    "ClosedDate":"2012-12-28T14:43:56.210",
+    "Title":"Phone will Sync though Wifi and 3G is off",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7801",
+    "CreationDate":"2011-10-01T01:57:50.150",
+    "FavoriteCount":null,
+    "Id":"14007",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-01T01:57:50.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc9c2fad-2190-44c4-a146-1e66538db53d",
+            "UserId":"7801",
+            "CloseReasonId":null,
+            "PostId":"14007",
+            "PostHistoryTypeId":"2",
+            "Id":"36960",
+            "Text":"I have Xperia Mini Pro that run on Android 2.3.3I don't normally turn off the auto-sync, but my wifi is rarely turned on. I don't use 3G either.The problem is, whenever I'm in a wifi zone, though the wifi is off, my phone will auto-sync. As in, I'll be notified about new mails and twitters updates. What can I do about this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-01T01:57:50.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc9c2fad-2190-44c4-a146-1e66538db53d",
+            "UserId":"7801",
+            "CloseReasonId":null,
+            "PostId":"14007",
+            "PostHistoryTypeId":"1",
+            "Id":"36961",
+            "Text":"Phone will Sync though Wifi and 3G is off"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-10-01T01:57:50.150",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc9c2fad-2190-44c4-a146-1e66538db53d",
+            "UserId":"7801",
+            "CloseReasonId":null,
+            "PostId":"14007",
+            "PostHistoryTypeId":"3",
+            "Id":"36962",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-28T14:43:56.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"d7c6d676-41f2-475f-bca9-5cc50114ed7e",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"14007",
+            "PostHistoryTypeId":"10",
+            "Id":"109569",
+            "Text":"{\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

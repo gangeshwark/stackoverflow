@@ -1,0 +1,71 @@
+{
+    "Body":"I had rooted a mobile BQ S37, I had changed some settings by using root explorer and I had unrooted it and restarted that mobile.Now I am facing a problem that no app is installing in that mobile.what can I do to solve this problem??",
+    "ViewCount":"68",
+    "LastActivityDate":"2016-02-15T17:26:31.367",
+    "ClosedDate":"2016-02-27T19:54:34.930",
+    "Title":"internal memory had disappeared",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat>",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"151511",
+    "CreationDate":"2016-02-15T17:26:31.367",
+    "FavoriteCount":null,
+    "Id":"137141",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-15T17:26:31.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0c118d1-a9f2-4a30-b93d-7d56ab7bb6e5",
+            "UserId":"151511",
+            "CloseReasonId":null,
+            "PostId":"137141",
+            "PostHistoryTypeId":"2",
+            "Id":"457255",
+            "Text":"I had rooted a mobile BQ S37, I had changed some settings by using root explorer and I had unrooted it and restarted that mobile.Now I am facing a problem that no app is installing in that mobile.what can I do to solve this problem??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-15T17:26:31.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0c118d1-a9f2-4a30-b93d-7d56ab7bb6e5",
+            "UserId":"151511",
+            "CloseReasonId":null,
+            "PostId":"137141",
+            "PostHistoryTypeId":"1",
+            "Id":"457256",
+            "Text":"internal memory had disappeared"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-15T17:26:31.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0c118d1-a9f2-4a30-b93d-7d56ab7bb6e5",
+            "UserId":"151511",
+            "CloseReasonId":null,
+            "PostId":"137141",
+            "PostHistoryTypeId":"3",
+            "Id":"457257",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2016-02-27T19:54:34.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7377bc9-129e-405e-9e91-add2284d3f52",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"137141",
+            "PostHistoryTypeId":"10",
+            "Id":"462107",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

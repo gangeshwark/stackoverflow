@@ -1,0 +1,83 @@
+{
+    "Body":"My wife uses a Droid (first gen) running v2.2, and in the past month or so she can no longer download or update apps from the Market. We've tried rebooting the phone without any luck. The phone has internal storage available, so I don't believe that's an issue. Please help!",
+    "ViewCount":"548",
+    "LastActivityDate":"2014-02-04T15:02:17.470",
+    "ClosedDate":"2014-02-05T09:51:19.930",
+    "Title":"App Installation Fails Every Time",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-02-04T15:02:17.470",
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"961",
+    "CreationDate":"2010-11-04T03:17:14.043",
+    "FavoriteCount":null,
+    "Id":"2622",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-04T03:17:14.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"42aba78c-41a9-4685-8b30-e93956e3f6a3",
+            "UserId":"961",
+            "CloseReasonId":null,
+            "PostId":"2622",
+            "PostHistoryTypeId":"2",
+            "Id":"5224",
+            "Text":"My wife uses a Droid (first gen) running v2.2, and in the past month or so she can no longer download or update apps from the Market. We've tried rebooting the phone without any luck. The phone has internal storage available, so I don't believe that's an issue. Please help!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-04T03:17:14.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"42aba78c-41a9-4685-8b30-e93956e3f6a3",
+            "UserId":"961",
+            "CloseReasonId":null,
+            "PostId":"2622",
+            "PostHistoryTypeId":"1",
+            "Id":"5225",
+            "Text":"App Installation Fails Every Time"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-04T03:17:14.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"42aba78c-41a9-4685-8b30-e93956e3f6a3",
+            "UserId":"961",
+            "CloseReasonId":null,
+            "PostId":"2622",
+            "PostHistoryTypeId":"3",
+            "Id":"5226",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-02-04T15:02:17.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9f2a081-8594-44c1-a740-57b5f3d2c647",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"2622",
+            "PostHistoryTypeId":"6",
+            "Id":"212842",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-05T09:51:19.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba11aede-2a19-4ac2-8c69-47edb1709a9e",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"2622",
+            "PostHistoryTypeId":"10",
+            "Id":"213049",
+            "Text":"{\"OriginalQuestionIds\":[15932],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

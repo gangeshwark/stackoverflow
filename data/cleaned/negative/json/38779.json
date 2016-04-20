@@ -1,0 +1,83 @@
+{
+    "Body":"How can I install Android on the TouchPad? Looking for the latest android mod that can run on the TouchPad and support sound. ",
+    "ViewCount":"211",
+    "LastActivityDate":"2013-03-11T23:36:53.133",
+    "ClosedDate":"2013-03-12T09:41:25.973",
+    "Title":"How to install Android on the Touch Pad",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-02-09T21:18:03.983",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"27669",
+    "CreationDate":"2013-02-01T02:09:20.287",
+    "FavoriteCount":null,
+    "Id":"38779",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-01T02:09:20.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"6badefab-9277-4406-920e-350dda21607a",
+            "UserId":"27669",
+            "CloseReasonId":null,
+            "PostId":"38779",
+            "PostHistoryTypeId":"2",
+            "Id":"119076",
+            "Text":"How can I install Android on the TouchPad? Looking for the latest android mod that can run on the TouchPad and support sound. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-01T02:09:20.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"6badefab-9277-4406-920e-350dda21607a",
+            "UserId":"27669",
+            "CloseReasonId":null,
+            "PostId":"38779",
+            "PostHistoryTypeId":"1",
+            "Id":"119077",
+            "Text":"How to install Android on the Touch Pad"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-01T02:09:20.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"6badefab-9277-4406-920e-350dda21607a",
+            "UserId":"27669",
+            "CloseReasonId":null,
+            "PostId":"38779",
+            "PostHistoryTypeId":"3",
+            "Id":"119078",
+            "Text":"<4.1-jelly-bean>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-02-09T21:18:03.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d52361c-21f9-4654-8335-1ccea9204281",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"38779",
+            "PostHistoryTypeId":"6",
+            "Id":"121226",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-03-12T09:41:25.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"01bcc0b4-f475-4e0a-b508-a666b4e9dc42",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"38779",
+            "PostHistoryTypeId":"10",
+            "Id":"129227",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":267,\"DisplayName\":\"user267\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

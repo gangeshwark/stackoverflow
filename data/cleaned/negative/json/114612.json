@@ -1,0 +1,83 @@
+{
+    "Body":"I cannot download games even though I have a lot of storage. I tried uninstalling my apps but it still did not work.Is there a way to fix this?",
+    "ViewCount":"41",
+    "LastActivityDate":"2015-07-08T00:31:49.617",
+    "ClosedDate":"2015-07-10T14:37:25.633",
+    "Title":"What is Error 905 in Google Play Store?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2015-07-03T17:38:09.283",
+    "FavoriteCount":null,
+    "Id":"114612",
+    "history":[
+        {
+            "Comment":"from http:\/\/gaming.stackexchange.com\/questions\/226386\/what-is-error-905-in-google-play-store",
+            "CreationDate":"2015-07-08T00:31:49.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"e080ecc5-d33f-4004-a7ac-a8b79ccc427c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"114612",
+            "PostHistoryTypeId":"36",
+            "Id":"375994",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-03T17:38:09.283",
+            "UserDisplayName":"anton",
+            "RevisionGUID":"35af9655-e3fa-4779-af04-0dfbec7aa7e5",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"114612",
+            "PostHistoryTypeId":"2",
+            "Id":"375995",
+            "Text":"I cannot download games even though I have a lot of storage. I tried uninstalling my apps but it still did not work. Is there a way to fix this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-03T17:38:09.283",
+            "UserDisplayName":"anton",
+            "RevisionGUID":"35af9655-e3fa-4779-af04-0dfbec7aa7e5",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"114612",
+            "PostHistoryTypeId":"1",
+            "Id":"375996",
+            "Text":"What is Error 905 in Google Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-03T17:38:09.283",
+            "UserDisplayName":"anton",
+            "RevisionGUID":"35af9655-e3fa-4779-af04-0dfbec7aa7e5",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"114612",
+            "PostHistoryTypeId":"3",
+            "Id":"375997",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-10T14:37:25.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7bc26f7-1164-4211-ad52-5518e8744c2c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114612",
+            "PostHistoryTypeId":"10",
+            "Id":"377089",
+            "Text":"{\"OriginalQuestionIds\":[25918],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

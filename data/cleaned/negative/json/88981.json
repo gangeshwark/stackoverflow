@@ -1,0 +1,71 @@
+{
+    "Body":"I want to turn a iPhone in to a Android OS phone.Is this possible? ",
+    "ViewCount":"325",
+    "LastActivityDate":"2014-11-27T05:37:08.037",
+    "ClosedDate":"2014-11-27T06:04:22.960",
+    "Title":"Is there a way to install the Android firmware into a iPhone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81849",
+    "CreationDate":"2014-11-27T05:05:26.477",
+    "FavoriteCount":null,
+    "Id":"88981",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T05:05:26.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"76a1aafa-5bb4-4588-9c52-4cd4da1e3d6d",
+            "UserId":"81849",
+            "CloseReasonId":null,
+            "PostId":"88981",
+            "PostHistoryTypeId":"2",
+            "Id":"293094",
+            "Text":"I want to turn a iPhone in to a Android OS phone.Is this possible? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T05:05:26.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"76a1aafa-5bb4-4588-9c52-4cd4da1e3d6d",
+            "UserId":"81849",
+            "CloseReasonId":null,
+            "PostId":"88981",
+            "PostHistoryTypeId":"1",
+            "Id":"293095",
+            "Text":"Is there a way to install the Android firmware into a iPhone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T05:05:26.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"76a1aafa-5bb4-4588-9c52-4cd4da1e3d6d",
+            "UserId":"81849",
+            "CloseReasonId":null,
+            "PostId":"88981",
+            "PostHistoryTypeId":"3",
+            "Id":"293096",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-27T06:04:22.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1de2eaf-344c-43f9-a86f-992f80c995fa",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"88981",
+            "PostHistoryTypeId":"10",
+            "Id":"293110",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

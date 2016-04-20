@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I install Android on my non-Android device?  I have a samsung smartphone Wave Y GT-S5380K with Bada 2.0 OS installed. Can one install android OS on this Phone ? If yes then how ?",
+    "ViewCount":"223",
+    "LastActivityDate":"2012-02-24T18:46:27.680",
+    "ClosedDate":"2012-02-24T19:50:28.943",
+    "Title":"Can we install Android 2.3 on Samsung Wave Y GT-S5380K",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12868",
+    "CreationDate":"2012-02-24T18:46:27.680",
+    "FavoriteCount":null,
+    "Id":"19894",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-24T18:46:27.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"594c0518-8d35-455f-bd7c-3d36ca5a196c",
+            "UserId":"12868",
+            "CloseReasonId":null,
+            "PostId":"19894",
+            "PostHistoryTypeId":"2",
+            "Id":"55116",
+            "Text":"I have a samsung smartphone Wave Y GT-S5380K with Bada 2.0 OS installed. Can one install android OS on this Phone ? If yes then how ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-24T18:46:27.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"594c0518-8d35-455f-bd7c-3d36ca5a196c",
+            "UserId":"12868",
+            "CloseReasonId":null,
+            "PostId":"19894",
+            "PostHistoryTypeId":"1",
+            "Id":"55117",
+            "Text":"Can we install Android 2.3 on Samsung Wave Y GT-S5380K"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-24T18:46:27.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"594c0518-8d35-455f-bd7c-3d36ca5a196c",
+            "UserId":"12868",
+            "CloseReasonId":null,
+            "PostId":"19894",
+            "PostHistoryTypeId":"3",
+            "Id":"55118",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-02-24T19:50:30.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"6046a2e9-88c9-4e1f-afb8-cc463342a192",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19894",
+            "PostHistoryTypeId":"5",
+            "Id":"55150",
+            "Text":"> **Possible Duplicate:**  > [Can I install Android on my non-Android device?](http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-device)  I have a samsung smartphone Wave Y GT-S5380K with Bada 2.0 OS installed. Can one install android OS on this Phone ? If yes then how ?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-02-24T19:50:28.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b56a3d8-95a0-4501-b239-e27574b578ca",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"19894",
+            "PostHistoryTypeId":"10",
+            "Id":"55151",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

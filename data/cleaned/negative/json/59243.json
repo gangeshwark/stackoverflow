@@ -1,0 +1,83 @@
+{
+    "Body":"I am trying to figure out when my devices (tablet, tv dongle, etc) were activated. Is there a place (in google account settings, device files, anywhere) this data can be obtained?My devices are rooted, so I can use terminal access to read internal files if needed.Some suggestions in the net say to find the first day of data usage in the logs, but I want to find an accurate date (preferably a timestamp) of the device activation.I can't seem t be able to type dialer codes in a tablet, there's no phone app. Also this question is about android devices in general, not only phones.",
+    "ViewCount":"17000",
+    "LastActivityDate":"2013-12-18T18:16:36.210",
+    "ClosedDate":"2013-12-19T21:22:23.963",
+    "Title":"Find when device was activated",
+    "LastEditorUserId":"17770",
+    "Tags":"",
+    "LastEditDate":"2013-12-18T18:16:36.210",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"59252",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17770",
+    "CreationDate":"2013-12-18T14:41:01.207",
+    "FavoriteCount":null,
+    "Id":"59243",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-18T14:41:01.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c073b21-1532-4e0a-81ef-06e3b64ab5ae",
+            "UserId":"17770",
+            "CloseReasonId":null,
+            "PostId":"59243",
+            "PostHistoryTypeId":"2",
+            "Id":"199438",
+            "Text":"I am trying to figure out when my devices (tablet, phone) were activated. Is there a place (in google account settings, device files, anywhere) this data can be obtained?My devices are rooted, so I can use terminal access to read internal files if needed.Some suggestions in the net say to find the first day of data usage in the logs, but I want to find an accurate date (preferably a timestamp) of the device activation."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-18T14:41:01.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c073b21-1532-4e0a-81ef-06e3b64ab5ae",
+            "UserId":"17770",
+            "CloseReasonId":null,
+            "PostId":"59243",
+            "PostHistoryTypeId":"1",
+            "Id":"199439",
+            "Text":"Find when device was activated"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-18T14:41:01.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c073b21-1532-4e0a-81ef-06e3b64ab5ae",
+            "UserId":"17770",
+            "CloseReasonId":null,
+            "PostId":"59243",
+            "PostHistoryTypeId":"3",
+            "Id":"199440",
+            "Text":""
+        },
+        {
+            "Comment":"added 164 characters in body",
+            "CreationDate":"2013-12-18T18:16:36.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7ed44f8-25b3-4166-be3c-f5c0764ac0e1",
+            "UserId":"17770",
+            "CloseReasonId":null,
+            "PostId":"59243",
+            "PostHistoryTypeId":"5",
+            "Id":"199503",
+            "Text":"I am trying to figure out when my devices (tablet, tv dongle, etc) were activated. Is there a place (in google account settings, device files, anywhere) this data can be obtained?My devices are rooted, so I can use terminal access to read internal files if needed.Some suggestions in the net say to find the first day of data usage in the logs, but I want to find an accurate date (preferably a timestamp) of the device activation.I can't seem t be able to type dialer codes in a tablet, there's no phone app. Also this question is about android devices in general, not only phones."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-19T21:22:23.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"abce8cae-ab2d-4a8d-990d-242ceed8ad86",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"59243",
+            "PostHistoryTypeId":"10",
+            "Id":"199881",
+            "Text":"{\"OriginalQuestionIds\":[51153],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Krampus\"},{\"Id\":23562,\"DisplayName\":\"Compro01\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

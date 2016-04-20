@@ -1,0 +1,71 @@
+{
+    "Body":"Im new when it comes to rooting stuff.I have read alot about these words but i dnt get a perfect idea about it. So plz if any1 could explain it simple possible way.Thanx in advance.",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-05-10T12:23:40.427",
+    "ClosedDate":"2015-05-10T13:35:40.080",
+    "Title":"What is flash, kernel and bootloader in android..?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108095",
+    "CreationDate":"2015-05-10T12:23:40.427",
+    "FavoriteCount":null,
+    "Id":"108965",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-10T12:23:40.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"7050089b-bd20-4a1e-8964-a6d349422031",
+            "UserId":"108095",
+            "CloseReasonId":null,
+            "PostId":"108965",
+            "PostHistoryTypeId":"2",
+            "Id":"355195",
+            "Text":"Im new when it comes to rooting stuff.I have read alot about these words but i dnt get a perfect idea about it. So plz if any1 could explain it simple possible way.Thanx in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-10T12:23:40.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"7050089b-bd20-4a1e-8964-a6d349422031",
+            "UserId":"108095",
+            "CloseReasonId":null,
+            "PostId":"108965",
+            "PostHistoryTypeId":"1",
+            "Id":"355196",
+            "Text":"What is flash, kernel and bootloader in android..?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-10T12:23:40.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"7050089b-bd20-4a1e-8964-a6d349422031",
+            "UserId":"108095",
+            "CloseReasonId":null,
+            "PostId":"108965",
+            "PostHistoryTypeId":"3",
+            "Id":"355197",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-10T13:35:40.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"96350677-c5e9-44f0-88bc-e4d1c169dee5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"108965",
+            "PostHistoryTypeId":"10",
+            "Id":"355210",
+            "Text":"{\"OriginalQuestionIds\":[2885],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

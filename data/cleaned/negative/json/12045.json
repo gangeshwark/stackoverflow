@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my phone get the Android 2.3 update (Gingerbread)?  I recently bought Samsung Galaxy Mini with Froyo installed on it. Can any one tell me when can I get Gingerbread on it using Kies? I did not buy it from any operator. Also, I live in Pakistan (in case region matters for updates).I do not have any experience of using Android before (though I have written a couple of apps for it :P ).",
+    "ViewCount":"384",
+    "LastActivityDate":"2011-08-03T12:43:11.157",
+    "ClosedDate":"2011-08-03T12:50:18.800",
+    "Title":"Gingerbread on Samsung Galaxy Mini",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6371",
+    "CreationDate":"2011-08-03T07:40:32.907",
+    "FavoriteCount":null,
+    "Id":"12045",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-03T07:40:32.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"a76ba678-8a8a-470a-ae62-cd7615cc1b73",
+            "UserId":"6371",
+            "CloseReasonId":null,
+            "PostId":"12045",
+            "PostHistoryTypeId":"2",
+            "Id":"30660",
+            "Text":"I recently bought Samsung Galaxy Mini with Froyo installed on it. Can any one tell me when can I get Gingerbread on it using Kies? I did not buy it from any operator. Also, I live in Pakistan (in case region matters for updates).I do not have any experience of using Android before (though I have written a couple of apps for it :P ).  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-03T07:40:32.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"a76ba678-8a8a-470a-ae62-cd7615cc1b73",
+            "UserId":"6371",
+            "CloseReasonId":null,
+            "PostId":"12045",
+            "PostHistoryTypeId":"1",
+            "Id":"30661",
+            "Text":"Gingerbread on Samsung Galaxy Mini"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-03T07:40:32.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"a76ba678-8a8a-470a-ae62-cd7615cc1b73",
+            "UserId":"6371",
+            "CloseReasonId":null,
+            "PostId":"12045",
+            "PostHistoryTypeId":"3",
+            "Id":"30662",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-08-03T12:50:19.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"c6b22eab-0d79-45d8-ab92-9e364271ed70",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"12045",
+            "PostHistoryTypeId":"5",
+            "Id":"30676",
+            "Text":"> **Possible Duplicate:**  > [When will my phone get the Android 2.3 update (Gingerbread)?](http:\/\/android.stackexchange.com\/questions\/2695\/when-will-my-phone-get-the-android-2-3-update-gingerbread)  I recently bought Samsung Galaxy Mini with Froyo installed on it. Can any one tell me when can I get Gingerbread on it using Kies? I did not buy it from any operator. Also, I live in Pakistan (in case region matters for updates).I do not have any experience of using Android before (though I have written a couple of apps for it :P ).  "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-08-03T12:50:18.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"a54fe785-fb01-4954-8b1d-303ee815dd78",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"12045",
+            "PostHistoryTypeId":"10",
+            "Id":"30677",
+            "Text":"{\"OriginalQuestionIds\":[2695],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

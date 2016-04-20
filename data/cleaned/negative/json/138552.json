@@ -1,0 +1,71 @@
+{
+    "Body":"I'm looking for a way to have a setting in my settings activity, to manipulate an array of strings.For example, I want to have a list of people's names, with the ability to remove from, or add to, the list.I've been googling for some time now but I don't really have an idea so far.Thanks for helping!",
+    "ViewCount":"25",
+    "LastActivityDate":"2016-03-01T19:48:37.060",
+    "ClosedDate":"2016-03-01T21:09:30.007",
+    "Title":"Editable string array preferences",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154090",
+    "CreationDate":"2016-03-01T18:43:39.520",
+    "FavoriteCount":null,
+    "Id":"138552",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T18:43:39.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ff871c2-9230-40e1-a957-53986b5bba4e",
+            "UserId":"154090",
+            "CloseReasonId":null,
+            "PostId":"138552",
+            "PostHistoryTypeId":"2",
+            "Id":"463042",
+            "Text":"I'm looking for a way to have a setting in my settings activity, to manipulate an array of strings.For example, I want to have a list of people's names, with the ability to remove from, or add to, the list.I've been googling for some time now but I don't really have an idea so far.Thanks for helping!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T18:43:39.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ff871c2-9230-40e1-a957-53986b5bba4e",
+            "UserId":"154090",
+            "CloseReasonId":null,
+            "PostId":"138552",
+            "PostHistoryTypeId":"1",
+            "Id":"463043",
+            "Text":"Editable string array preferences"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-01T18:43:39.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ff871c2-9230-40e1-a957-53986b5bba4e",
+            "UserId":"154090",
+            "CloseReasonId":null,
+            "PostId":"138552",
+            "PostHistoryTypeId":"3",
+            "Id":"463044",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-01T21:09:30.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ee6aa33-cd93-4f43-b791-ac5921cc1ca2",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138552",
+            "PostHistoryTypeId":"10",
+            "Id":"463081",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I had a Samsung Galaxy Ace 4. Last week, it fell of and the screen broke. Still, when turned on, it seems to be everything else OK (the notificacion bar shows some pending messages, the hour keeps getting up to date, the USB symbol appears when connected to a PC), but below, all is bright white within the lines of the broken screen.I got a new phone, as probably it'd be cheaper than waiting for the old one to be repaired, and once the SIM was inserted, I realized most contacts were stored on the device memory.I've been looking for a (cheap) way to recover the missing contacts, but almost every found solution has any of the given problems:USB debugging should be enabled, seems it wasn't before the incident.Requires the use of some app running, which I can't achieve (say Kies or AndroidLost).Contacts coud be synced with the Google account, but it wasn't setted up.Is there any other way to access this information to create de 'back-up' on a PC and restore it on the new device (even through console management of the phone)?I appreciate in advance any given help.",
+    "ViewCount":"4",
+    "LastActivityDate":"2016-03-06T02:58:45.713",
+    "ClosedDate":"2016-03-06T03:12:23.280",
+    "Title":"How to recover contacts from phone with broken & unresponsive screen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154777",
+    "CreationDate":"2016-03-06T02:50:37.467",
+    "FavoriteCount":null,
+    "Id":"138920",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T02:50:37.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea7e84d0-f093-4a16-b244-a9ac915952a4",
+            "UserId":"154777",
+            "CloseReasonId":null,
+            "PostId":"138920",
+            "PostHistoryTypeId":"2",
+            "Id":"464585",
+            "Text":"I had a Samsung Galaxy Ace 4. Last week, it fell of and the screen broke. Still, when turned on, it seems to be everything else OK (the notificacion bar shows some pending messages, the hour keeps getting up to date, the USB symbol appears when connected to a PC), but below, all is bright white within the lines of the broken screen.I got a new phone, as probably it'd be cheaper than waiting for the old one to be repaired, and once the SIM was inserted, I realized most contacts were stored on the device memory.I've been looking for a (cheap) way to recover the missing contacts, but almost every found solution has any of the given problems:* USB debugging should be enabled, seems it wasn't before the incident.* Requires the use of some app running, which I can't achieve (say Kies or AndroidLost).* Contacts coud be synced with the Google account, but it wasn't setted up.Is there any other way to access this information to create de 'back-up' on a PC and restore it on the new device (even through console management of the phone)?I appreciate in advance any given help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T02:50:37.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea7e84d0-f093-4a16-b244-a9ac915952a4",
+            "UserId":"154777",
+            "CloseReasonId":null,
+            "PostId":"138920",
+            "PostHistoryTypeId":"1",
+            "Id":"464586",
+            "Text":"How to recover contacts from phone with broken & unresponsive screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T02:50:37.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea7e84d0-f093-4a16-b244-a9ac915952a4",
+            "UserId":"154777",
+            "CloseReasonId":null,
+            "PostId":"138920",
+            "PostHistoryTypeId":"3",
+            "Id":"464587",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-06T03:12:23.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"38643263-eeee-44c7-a2b7-c378107c37df",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138920",
+            "PostHistoryTypeId":"10",
+            "Id":"464606",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

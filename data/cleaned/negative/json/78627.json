@@ -1,0 +1,83 @@
+{
+    "Body":"I'm going on holiday soon and we planned to take a USB hub to charge all of our devices rather than take several wall adapters, however when I checked that my 7\" Samsung Galaxy Tab 3 would charge I found that it didn't. After investigating I found that my iPad charger wouldn't charge it either and in fact the only that would charge it was the USB wall adapter that came in the box with the tablet, even though the port on the USB hub and the iPad charger are rated at 2.1 A (5 V).When I plug the tablet into to a non-Samsung adapter powered off however, the screen flashes lighter and darker but nothing else happens which seems odd behavior to me.What is the reason it will not charge by any other means, and is there a solution?",
+    "ViewCount":"5153",
+    "LastActivityDate":"2014-08-02T18:05:15.203",
+    "ClosedDate":"2014-08-16T14:13:53.927",
+    "Title":"My Tab 3 will only charge from the wall adapter from Samsung",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68767",
+    "CreationDate":"2014-08-02T16:07:22.297",
+    "FavoriteCount":null,
+    "Id":"78627",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-02T16:07:22.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e874e6e-2766-46d7-ba29-d565f55c9d5e",
+            "UserId":"68767",
+            "CloseReasonId":null,
+            "PostId":"78627",
+            "PostHistoryTypeId":"2",
+            "Id":"259322",
+            "Text":"I'm going on holiday soon and we planned to take a USB hub to charge all of our devices rather than take several wall adapters, however when I checked that my 7\" Samsung Galaxy Tab 3 would charge I found that it didn't. After investigating I found that my iPad charger wouldn't charge it either and in fact the only that would charge it was the USB wall adapter that came in the box with the tablet, even though the port on the USB hub and the iPad charger are rated at 2.1 A (5 V).When I plug the tablet into to a non-Samsung adapter powered off however, the screen flashes lighter and darker but nothing else happens which seems odd behavior to me.What is the reason it will not charge by any other means, and is there a solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-02T16:07:22.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e874e6e-2766-46d7-ba29-d565f55c9d5e",
+            "UserId":"68767",
+            "CloseReasonId":null,
+            "PostId":"78627",
+            "PostHistoryTypeId":"1",
+            "Id":"259323",
+            "Text":"My Tab 3 will only charge from the wall adapter from Samsung"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-02T16:07:22.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e874e6e-2766-46d7-ba29-d565f55c9d5e",
+            "UserId":"68767",
+            "CloseReasonId":null,
+            "PostId":"78627",
+            "PostHistoryTypeId":"3",
+            "Id":"259324",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/495644630864908288",
+            "CreationDate":"2014-08-02T18:57:43.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b0d54fd-5779-422a-8036-485e4c7833b9",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"78627",
+            "PostHistoryTypeId":"25",
+            "Id":"259346",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-16T14:13:53.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e5a94ed-3808-4dae-a065-c53ded321212",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"78627",
+            "PostHistoryTypeId":"10",
+            "Id":"262921",
+            "Text":"{\"OriginalQuestionIds\":[78397],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        }
+    ]
+}

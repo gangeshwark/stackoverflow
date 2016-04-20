@@ -1,0 +1,83 @@
+{
+    "Body":"Have developers of Swype keyboard ever told anywhere why they haven't added their app in Play Store yet? As Play Store is easiest way of installing and updating apps, it'd be nice..",
+    "ViewCount":"2601",
+    "LastActivityDate":"2012-04-03T05:50:24.477",
+    "ClosedDate":"2012-12-03T17:28:02.993",
+    "Title":"Any reason why Swype isn't in Play Store?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"21312",
+    "Score":"5",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3303",
+    "CreationDate":"2012-04-03T04:32:30.927",
+    "FavoriteCount":null,
+    "Id":"21311",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T04:32:30.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b6db06b-8980-4fb0-b237-3440946beff2",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"21311",
+            "PostHistoryTypeId":"2",
+            "Id":"59667",
+            "Text":"Have developers of Swype keyboard ever told anywhere why they haven't added their app in Play Store yet? As Play Store is easiest way of installing and updating apps, it'd be nice.."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T04:32:30.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b6db06b-8980-4fb0-b237-3440946beff2",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"21311",
+            "PostHistoryTypeId":"1",
+            "Id":"59668",
+            "Text":"Any reason why Swype isn't in Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T04:32:30.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b6db06b-8980-4fb0-b237-3440946beff2",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"21311",
+            "PostHistoryTypeId":"3",
+            "Id":"59669",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/187145217105866753",
+            "CreationDate":"2012-04-03T11:51:11.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2ae0c66-8937-48dd-89e1-01fc8fd0591e",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"21311",
+            "PostHistoryTypeId":"25",
+            "Id":"59684",
+            "Text":null
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-12-03T17:28:02.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"060167fd-139e-4ac0-9555-d59254fcdb7b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21311",
+            "PostHistoryTypeId":"10",
+            "Id":"103292",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

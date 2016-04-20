@@ -1,0 +1,71 @@
+{
+    "Body":"My phone (Nokia XL) did not come with Google Play application. How do i install it (i've already tried with some weird .apk files)? If my phone cant use Google Play can you at least tell me if there is some way i can download the apps on my computer and then send them to my phone through USB.Thanks",
+    "ViewCount":"2973",
+    "LastActivityDate":"2014-11-07T22:40:14.087",
+    "ClosedDate":"2014-11-14T09:44:36.540",
+    "Title":"Missing \"Google Play\"app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"8",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"78987",
+    "CreationDate":"2014-11-05T09:04:01.823",
+    "FavoriteCount":null,
+    "Id":"86811",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-05T09:04:01.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bd99454-ef19-4a12-841b-0783c45afe11",
+            "UserId":"78987",
+            "CloseReasonId":null,
+            "PostId":"86811",
+            "PostHistoryTypeId":"2",
+            "Id":"285484",
+            "Text":"My phone (Nokia XL) did not come with Google Play application. How do i install it (i've already tried with some weird .apk files)? If my phone cant use Google Play can you at least tell me if there is some way i can download the apps on my computer and then send them to my phone through USB.Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-05T09:04:01.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bd99454-ef19-4a12-841b-0783c45afe11",
+            "UserId":"78987",
+            "CloseReasonId":null,
+            "PostId":"86811",
+            "PostHistoryTypeId":"1",
+            "Id":"285485",
+            "Text":"Missing \"Google Play\"app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-05T09:04:01.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bd99454-ef19-4a12-841b-0783c45afe11",
+            "UserId":"78987",
+            "CloseReasonId":null,
+            "PostId":"86811",
+            "PostHistoryTypeId":"3",
+            "Id":"285486",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-14T09:44:36.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"2100d5d0-bfab-4474-b4f8-58ca726c9e73",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"86811",
+            "PostHistoryTypeId":"10",
+            "Id":"288338",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

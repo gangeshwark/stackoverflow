@@ -1,0 +1,71 @@
+{
+    "Body":"My quetion is - how I can enter \"new line\" symbol using android voice input?For example I tyr to create shopping list using Evernote and voice, but to create new item in list I must switch to keybord, and press enter. How to do that using only my voice?",
+    "ViewCount":"16",
+    "LastActivityDate":"2014-01-12T13:12:26.620",
+    "ClosedDate":"2014-01-13T10:26:32.200",
+    "Title":"\"New line\" using Android voice input",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"50702",
+    "CreationDate":"2014-01-12T13:12:26.620",
+    "FavoriteCount":null,
+    "Id":"61029",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-12T13:12:26.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"1775594a-1e2a-4306-a166-becd48bbdf4b",
+            "UserId":"50702",
+            "CloseReasonId":null,
+            "PostId":"61029",
+            "PostHistoryTypeId":"2",
+            "Id":"206216",
+            "Text":"My quetion is - how I can enter \"new line\" symbol using android voice input?For example I tyr to create shopping list using Evernote and voice, but to create new item in list I must switch to keybord, and press enter. How to do that using only my voice?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-12T13:12:26.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"1775594a-1e2a-4306-a166-becd48bbdf4b",
+            "UserId":"50702",
+            "CloseReasonId":null,
+            "PostId":"61029",
+            "PostHistoryTypeId":"1",
+            "Id":"206217",
+            "Text":"\"New line\" using Android voice input"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-12T13:12:26.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"1775594a-1e2a-4306-a166-becd48bbdf4b",
+            "UserId":"50702",
+            "CloseReasonId":null,
+            "PostId":"61029",
+            "PostHistoryTypeId":"3",
+            "Id":"206218",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-13T10:26:32.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"11c9e05e-f58f-44ac-8ee4-4d58bf03001d",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"61029",
+            "PostHistoryTypeId":"10",
+            "Id":"206434",
+            "Text":"{\"OriginalQuestionIds\":[12639],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

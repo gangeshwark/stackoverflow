@@ -1,0 +1,71 @@
+{
+    "Body":"My Samsung Galaxy Y (GT-S5360L) can run a wifi tethering network at 32 dBm, according to iwconfig. This is almost 2 watts. Is this reading accurate, (my battery is 1200mAh, 5v, or 6 watt hours, so it seems sort of fishy, but it does drain my battery really fast when I run it), and if it is, (assuming nothing blocking the signal) what is the range of the network in meters?",
+    "ViewCount":"3004",
+    "LastActivityDate":"2013-10-17T15:11:46.157",
+    "ClosedDate":"2013-10-18T10:46:33.973",
+    "Title":"What is the range of my wifi tethering network?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"55267",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"39000",
+    "CreationDate":"2013-10-17T11:38:25.683",
+    "FavoriteCount":"0",
+    "Id":"55248",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-17T11:38:25.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"efdf7aa0-778e-4964-9c79-f6422bb559f1",
+            "UserId":"39000",
+            "CloseReasonId":null,
+            "PostId":"55248",
+            "PostHistoryTypeId":"2",
+            "Id":"183519",
+            "Text":"My Samsung Galaxy Y (GT-S5360L) can run a wifi tethering network at 32 dBm, according to iwconfig. This is almost 2 watts. Is this reading accurate, (my battery is 1200mAh, 5v, or 6 watt hours, so it seems sort of fishy, but it does drain my battery really fast when I run it), and if it is, (assuming nothing blocking the signal) what is the range of the network in meters?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-17T11:38:25.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"efdf7aa0-778e-4964-9c79-f6422bb559f1",
+            "UserId":"39000",
+            "CloseReasonId":null,
+            "PostId":"55248",
+            "PostHistoryTypeId":"1",
+            "Id":"183520",
+            "Text":"What is the range of my wifi tethering network?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-17T11:38:25.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"efdf7aa0-778e-4964-9c79-f6422bb559f1",
+            "UserId":"39000",
+            "CloseReasonId":null,
+            "PostId":"55248",
+            "PostHistoryTypeId":"3",
+            "Id":"183521",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-10-18T10:46:33.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9434d09-fc00-47eb-a7f5-576423bd51b3",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"55248",
+            "PostHistoryTypeId":"10",
+            "Id":"183788",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

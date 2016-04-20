@@ -1,0 +1,71 @@
+{
+    "Body":"In-line call recording feature is not something that can be found in the specifications listed by the manufactures or on the websites aggregating such data such as GSM Arena. It is also a source of bad rep given to the developers of call recording apps because the general public does not understand that they own devices which do not support such feature for one reason or another and the app they use have nothing to do with it. A short trip around the Web only confirms that there is a lot of confusion surrounding this subject.If you own an Android device and are able to verify whether it and its stock  ROM support in-line call recording please post the make and model. I'm not sure if the country of purchase is necessary but I would not be surprised if handsets sold in some countries had this feature enabled while in others disabled (in the same fashion as DVD players supported different regions depending on where they were sold).The in-line recording should result in a recording where both the caller and the callee can be heard loud, clear and background noise free, just as they can hear each other during the conversation. It should be achievable while having the handset by the ear with the loudspeaker set to off.Some information on handsets that do not have such feature can be found on the Google Play storefronts. I was initially going to pre-populate the below list with the 'unconfirmed' information from there but I think it will be better if it grows organically :-)",
+    "ViewCount":"765",
+    "LastActivityDate":"2013-12-30T09:15:50.423",
+    "ClosedDate":"2013-12-25T10:00:16.630",
+    "Title":"Which Android handsets support in-line call recording?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"40529",
+    "CreationDate":"2013-12-24T00:00:08.373",
+    "FavoriteCount":null,
+    "Id":"59632",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-24T00:00:08.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3a31c11-5158-4d6d-8b38-7d31630d78f3",
+            "UserId":"40529",
+            "CloseReasonId":null,
+            "PostId":"59632",
+            "PostHistoryTypeId":"2",
+            "Id":"200946",
+            "Text":"In-line call recording feature is not something that can be found in the specifications listed by the manufactures or on the websites aggregating such data such as GSM Arena. It is also a source of bad rep given to the developers of call recording apps because the general public does not understand that they own devices which do not support such feature for one reason or another and the app they use have nothing to do with it. A short trip around the Web only confirms that there is a lot of confusion surrounding this subject.If you own an Android device and are able to verify whether it and its stock  ROM support in-line call recording please post the make and model. I'm not sure if the country of purchase is necessary but I would not be surprised if handsets sold in some countries had this feature enabled while in others disabled (in the same fashion as DVD players supported different regions depending on where they were sold).The in-line recording should result in a recording where both the caller and the callee can be heard loud, clear and background noise free, just as they can hear each other during the conversation. It should be achievable while having the handset by the ear with the loudspeaker set to off.Some information on handsets that do not have such feature can be found on the Google Play storefronts. I was initially going to pre-populate the below list with the 'unconfirmed' information from there but I think it will be better if it grows organically :-)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-24T00:00:08.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3a31c11-5158-4d6d-8b38-7d31630d78f3",
+            "UserId":"40529",
+            "CloseReasonId":null,
+            "PostId":"59632",
+            "PostHistoryTypeId":"1",
+            "Id":"200947",
+            "Text":"Which Android handsets support in-line call recording?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-24T00:00:08.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3a31c11-5158-4d6d-8b38-7d31630d78f3",
+            "UserId":"40529",
+            "CloseReasonId":null,
+            "PostId":"59632",
+            "PostHistoryTypeId":"3",
+            "Id":"200948",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-25T10:00:16.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"8aa2275c-6aba-4463-8397-ddfbf5f871c4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"59632",
+            "PostHistoryTypeId":"10",
+            "Id":"201328",
+            "Text":"{\"OriginalQuestionIds\":[1699],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Krampus\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

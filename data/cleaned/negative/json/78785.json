@@ -1,0 +1,83 @@
+{
+    "Body":"I'd like to capture RAW images from my Droid Camera rather than those compressed jpg's, is there anyway to achieve this?EDIT: I saw that it's not possible due to kernel limitation, but, what kind of limitation? Do i need to load a kernel module? or the kernel must be modified and re-built from scratch? Is there ANY way to achieve this? i can chroot Ubuntu, i can load Kernel Modules, i will do everything just to achieve this",
+    "ViewCount":"121",
+    "LastActivityDate":"2014-08-05T00:00:34.147",
+    "ClosedDate":"2015-11-20T07:11:22.503",
+    "Title":"Does android Support RAW image capturing?",
+    "LastEditorUserId":"38364",
+    "Tags":"",
+    "LastEditDate":"2014-08-05T00:00:34.147",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38364",
+    "CreationDate":"2014-08-04T23:43:13.213",
+    "FavoriteCount":null,
+    "Id":"78785",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T23:43:13.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e045fa6-a092-4a54-b52e-007aa0cf3daf",
+            "UserId":"38364",
+            "CloseReasonId":null,
+            "PostId":"78785",
+            "PostHistoryTypeId":"2",
+            "Id":"259912",
+            "Text":"I'd like to capture RAW images from my Droid Camera rather than those compressed jpg's, is there anyway to achieve this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T23:43:13.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e045fa6-a092-4a54-b52e-007aa0cf3daf",
+            "UserId":"38364",
+            "CloseReasonId":null,
+            "PostId":"78785",
+            "PostHistoryTypeId":"1",
+            "Id":"259913",
+            "Text":"Does android Support RAW image capturing?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T23:43:13.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"0e045fa6-a092-4a54-b52e-007aa0cf3daf",
+            "UserId":"38364",
+            "CloseReasonId":null,
+            "PostId":"78785",
+            "PostHistoryTypeId":"3",
+            "Id":"259914",
+            "Text":""
+        },
+        {
+            "Comment":"added 323 characters in body",
+            "CreationDate":"2014-08-05T00:00:34.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"7065ce30-15b5-4297-b5b4-5eab1a285a80",
+            "UserId":"38364",
+            "CloseReasonId":null,
+            "PostId":"78785",
+            "PostHistoryTypeId":"5",
+            "Id":"259926",
+            "Text":"I'd like to capture RAW images from my Droid Camera rather than those compressed jpg's, is there anyway to achieve this?EDIT: I saw that it's **not** possible due to kernel limitation, **but**, what kind of limitation? Do i need to load a kernel module? or the kernel must be modified and re-built from scratch? Is there **ANY** way to achieve this? i can **chroot** Ubuntu, i can load Kernel Modules, i will do everything just to achieve this"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-20T07:11:22.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"b7516f5b-25fb-4216-b3c7-c0edf65d5862",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"78785",
+            "PostHistoryTypeId":"10",
+            "Id":"426208",
+            "Text":"{\"OriginalQuestionIds\":[48880],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

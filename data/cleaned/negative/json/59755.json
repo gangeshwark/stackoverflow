@@ -1,0 +1,71 @@
+{
+    "Body":"I got a samsung galaxy note 8, and it came with an app called browser and also Chrome.Obviously Chrome is better, so how can I remove the generic browser app (or at least hide it)?The same goes for apps like Email and Gmail.",
+    "ViewCount":"13487",
+    "LastActivityDate":"2013-12-25T19:03:07.757",
+    "ClosedDate":"2013-12-25T19:39:50.507",
+    "Title":"remove apps like Browser",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49263",
+    "CreationDate":"2013-12-25T17:08:38.803",
+    "FavoriteCount":null,
+    "Id":"59755",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-25T17:08:38.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d85824d-b773-40dc-b618-bf241e31dd88",
+            "UserId":"49263",
+            "CloseReasonId":null,
+            "PostId":"59755",
+            "PostHistoryTypeId":"2",
+            "Id":"201413",
+            "Text":"I got a samsung galaxy note 8, and it came with an app called browser and also Chrome.Obviously Chrome is better, so how can I remove the generic browser app (or at least hide it)?The same goes for apps like Email and Gmail."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-25T17:08:38.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d85824d-b773-40dc-b618-bf241e31dd88",
+            "UserId":"49263",
+            "CloseReasonId":null,
+            "PostId":"59755",
+            "PostHistoryTypeId":"1",
+            "Id":"201414",
+            "Text":"remove apps like Browser"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-25T17:08:38.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d85824d-b773-40dc-b618-bf241e31dd88",
+            "UserId":"49263",
+            "CloseReasonId":null,
+            "PostId":"59755",
+            "PostHistoryTypeId":"3",
+            "Id":"201415",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-25T19:39:50.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"2bd738ce-337b-4b26-b0db-f2959b6e1edd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"59755",
+            "PostHistoryTypeId":"10",
+            "Id":"201447",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

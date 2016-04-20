@@ -1,0 +1,71 @@
+{
+    "Body":"Hi I already insered some events with this code :long calID = 1;                long startMillis = 0;                long endMillis = 0;                Calendar beginTime = Calendar.getInstance();                beginTime.set(2016, 6, 15, 7, 30);                startMillis = beginTime.getTimeInMillis();                Calendar endTime = Calendar.getInstance();                endTime.set(2016, 6, 15, 8, 45);                endMillis = endTime.getTimeInMillis();            ContentResolver cr = getContentResolver();            ContentValues values = new ContentValues();            values.put(Events.DTSTART, startMillis);            values.put(Events.DTEND, endMillis);            values.put(Events.TITLE, \"Luxfero\");            values.put(Events.DESCRIPTION, \"test event\");            values.put(Events.CALENDAR_ID, calID);            values.put(Events.EVENT_TIMEZONE, \"Morocco\/Casablanca\");            if (ActivityCompat.checkSelfPermission(MainActivity.this, Manifest.permission.WRITE_CALENDAR) != PackageManager.PERMISSION_GRANTED) {                \/\/ TODO: Consider calling                \/\/    ActivityCompat#requestPermissions                \/\/ here to request the missing permissions, and then overriding                \/\/   public void onRequestPermissionsResult(int requestCode, String[] permissions,                \/\/                                          int[] grantResults)                \/\/ to handle the case where the user grants the permission. See the documentation                \/\/ for ActivityCompat#requestPermissions for more details.                return;            }            Uri uri = cr.insert(Events.CONTENT_URI, values);\/\/ get the event ID that is the last element in the Uri                Long eventID = Long.parseLong(uri.getLastPathSegment());            Log.i(\"event id\", eventID.toString());but now i want to display all events.",
+    "ViewCount":"21",
+    "LastActivityDate":"2016-02-26T10:39:23.097",
+    "ClosedDate":"2016-02-26T14:59:08.813",
+    "Title":"How Display all calendar events with calendar provied",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153366",
+    "CreationDate":"2016-02-26T10:39:23.097",
+    "FavoriteCount":null,
+    "Id":"138157",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T10:39:23.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2be8871-77ef-4c37-9668-dbbb25717173",
+            "UserId":"153366",
+            "CloseReasonId":null,
+            "PostId":"138157",
+            "PostHistoryTypeId":"2",
+            "Id":"461186",
+            "Text":"Hi I already insered some events with this code :long calID = 1;                long startMillis = 0;                long endMillis = 0;                Calendar beginTime = Calendar.getInstance();                beginTime.set(2016, 6, 15, 7, 30);                startMillis = beginTime.getTimeInMillis();                Calendar endTime = Calendar.getInstance();                endTime.set(2016, 6, 15, 8, 45);                endMillis = endTime.getTimeInMillis();                ContentResolver cr = getContentResolver();                ContentValues values = new ContentValues();                values.put(Events.DTSTART, startMillis);                values.put(Events.DTEND, endMillis);                values.put(Events.TITLE, \"Luxfero\");                values.put(Events.DESCRIPTION, \"test event\");                values.put(Events.CALENDAR_ID, calID);                values.put(Events.EVENT_TIMEZONE, \"Morocco\/Casablanca\");                if (ActivityCompat.checkSelfPermission(MainActivity.this, Manifest.permission.WRITE_CALENDAR) != PackageManager.PERMISSION_GRANTED) {                    \/\/ TODO: Consider calling                    \/\/    ActivityCompat#requestPermissions                    \/\/ here to request the missing permissions, and then overriding                    \/\/   public void onRequestPermissionsResult(int requestCode, String[] permissions,                    \/\/                                          int[] grantResults)                    \/\/ to handle the case where the user grants the permission. See the documentation                    \/\/ for ActivityCompat#requestPermissions for more details.                    return;                }                Uri uri = cr.insert(Events.CONTENT_URI, values);\/\/ get the event ID that is the last element in the Uri                Long eventID = Long.parseLong(uri.getLastPathSegment());                Log.i(\"event id\", eventID.toString());but now i want to display all events."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T10:39:23.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2be8871-77ef-4c37-9668-dbbb25717173",
+            "UserId":"153366",
+            "CloseReasonId":null,
+            "PostId":"138157",
+            "PostHistoryTypeId":"1",
+            "Id":"461187",
+            "Text":"How Display all calendar events with calendar provied"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T10:39:23.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2be8871-77ef-4c37-9668-dbbb25717173",
+            "UserId":"153366",
+            "CloseReasonId":null,
+            "PostId":"138157",
+            "PostHistoryTypeId":"3",
+            "Id":"461188",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-26T14:59:08.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"4700ad03-2225-4abd-a6f7-56459a932223",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138157",
+            "PostHistoryTypeId":"10",
+            "Id":"461253",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

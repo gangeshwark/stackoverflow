@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I find out which app is putting ads in my notification bar?  Sometimes I get ads on statusbar. These ads came from some free apps. I have lots of installed apps and I can't figure out from which app the ads come from.Is there any solution to find the app? I would like to uninstall it to get rid of this messages.Or is there any solutions to block the ads? My phone is not rooted and I don't want to root.Hubi",
+    "ViewCount":"343",
+    "LastActivityDate":"2012-08-09T12:03:25.437",
+    "ClosedDate":"2012-08-09T16:42:03.297",
+    "Title":"ad on statusbar",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2077",
+    "CreationDate":"2012-08-08T22:52:58.077",
+    "FavoriteCount":null,
+    "Id":"27250",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-08T22:52:58.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f6ecb4d-aff9-4f67-9236-b18c574dc7d4",
+            "UserId":"2077",
+            "CloseReasonId":null,
+            "PostId":"27250",
+            "PostHistoryTypeId":"2",
+            "Id":"79065",
+            "Text":"Sometimes I get ads on statusbar. These ads came from some free apps. I have lots of installed apps and I can't figure out from which app the ads come from.Is there any solution to find the app? I would like to uninstall it to get rid of this messages.Or is there any solutions to block the ads? My phone is not rooted and I don't want to root.Hubi"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-08T22:52:58.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f6ecb4d-aff9-4f67-9236-b18c574dc7d4",
+            "UserId":"2077",
+            "CloseReasonId":null,
+            "PostId":"27250",
+            "PostHistoryTypeId":"1",
+            "Id":"79066",
+            "Text":"ad on statusbar"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-08T22:52:58.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f6ecb4d-aff9-4f67-9236-b18c574dc7d4",
+            "UserId":"2077",
+            "CloseReasonId":null,
+            "PostId":"27250",
+            "PostHistoryTypeId":"3",
+            "Id":"79067",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-09T16:42:03.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"9dbe158f-1764-4c3e-99a5-3e12d65b4371",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27250",
+            "PostHistoryTypeId":"5",
+            "Id":"79250",
+            "Text":"> **Possible Duplicate:**  > [How can I find out which app is putting ads in my notification bar?](http:\/\/android.stackexchange.com\/questions\/18312\/how-can-i-find-out-which-app-is-putting-ads-in-my-notification-bar)  Sometimes I get ads on statusbar. These ads came from some free apps. I have lots of installed apps and I can't figure out from which app the ads come from.Is there any solution to find the app? I would like to uninstall it to get rid of this messages.Or is there any solutions to block the ads? My phone is not rooted and I don't want to root.Hubi"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-09T16:42:03.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f7fdd44-69d2-4dd1-acb0-7f5e31bc47fd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"27250",
+            "PostHistoryTypeId":"10",
+            "Id":"79251",
+            "Text":"{\"OriginalQuestionIds\":[18312],\"Voters\":[{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

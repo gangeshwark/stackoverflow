@@ -1,0 +1,71 @@
+{
+    "Body":"I know Android is a modified linux kernel, but does that mean there is any relation between the kernel numbers?In other words, Is kernel number (for example) 2.6.xx of Android somehow based on or modified from 2.6.xx of Linux? or is it maintained separately?",
+    "ViewCount":"171",
+    "LastActivityDate":"2013-11-08T09:36:55.057",
+    "ClosedDate":"2013-11-10T23:17:30.377",
+    "Title":"Relation between Linux and Android kernel versions",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"56590",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41681",
+    "CreationDate":"2013-11-08T08:39:22.910",
+    "FavoriteCount":null,
+    "Id":"56587",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-08T08:39:22.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"0415aa1a-313b-494f-9865-dcae8499ff2b",
+            "UserId":"41681",
+            "CloseReasonId":null,
+            "PostId":"56587",
+            "PostHistoryTypeId":"2",
+            "Id":"188547",
+            "Text":"I know Android is a modified linux kernel, but does that mean there is any relation between the kernel numbers?In other words, Is kernel number (for example) 2.6.xx of Android somehow based on or modified from 2.6.xx of Linux? or is it maintained separately?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-08T08:39:22.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"0415aa1a-313b-494f-9865-dcae8499ff2b",
+            "UserId":"41681",
+            "CloseReasonId":null,
+            "PostId":"56587",
+            "PostHistoryTypeId":"1",
+            "Id":"188548",
+            "Text":"Relation between Linux and Android kernel versions"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-08T08:39:22.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"0415aa1a-313b-494f-9865-dcae8499ff2b",
+            "UserId":"41681",
+            "CloseReasonId":null,
+            "PostId":"56587",
+            "PostHistoryTypeId":"3",
+            "Id":"188549",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-10T23:17:30.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"fab4766b-c9c0-4f18-ac1b-597937d7db9c",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"56587",
+            "PostHistoryTypeId":"10",
+            "Id":"190111",
+            "Text":"{\"OriginalQuestionIds\":[47650],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

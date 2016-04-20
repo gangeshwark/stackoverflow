@@ -1,0 +1,83 @@
+{
+    "Body":"So, there is an interesting situation.I had an accident earlier today, and my phone screen broke. I plugged it back in my laptop after comming hope, i knew i have usb debugging mode enabled and also i could access memory card through cable connection on my windows 10.Now, as i have my usb debugging enabled, i am sure their can be a way to access all the data on my phone, i want to recover all my contacts and data from phone storage. I am sure their would be some products for this or some sort of commands for this task. I am a software engineering student, so their is no issue doing any technical or command line work. I just need some direction.I am sure if someone explains a procedure here for this kind of situation. Possibaly using some commands or some tiny free tools. This would help many people in this situation.Edit: Its android 4.4.4 and Qmobile Z10 (China made)",
+    "ViewCount":"26",
+    "LastActivityDate":"2016-02-27T14:31:41.993",
+    "ClosedDate":"2016-03-04T19:07:38.040",
+    "Title":"How to access all data in usb debugging mode without interaction",
+    "LastEditorUserId":"153575",
+    "Tags":"",
+    "LastEditDate":"2016-02-27T14:31:41.993",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153575",
+    "CreationDate":"2016-02-27T14:24:11.520",
+    "FavoriteCount":"1",
+    "Id":"138265",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T14:24:11.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa10ebea-8b8d-4d88-9ef2-d4348e2ebfcf",
+            "UserId":"153575",
+            "CloseReasonId":null,
+            "PostId":"138265",
+            "PostHistoryTypeId":"2",
+            "Id":"461997",
+            "Text":"So, there is an interesting situation.I had an accident earlier today, and **my phone screen broke**. I plugged it back in my laptop after comming hope, i knew **i have usb debugging mode enabled** and also i could access memory card through cable connection on my windows 10.Now, as i have my usb debugging enabled, i am sure **their can be a way to access all the data on my phone, i want to recover all my contacts and data from phone storage.** I am sure their would be some products for this or some sort of commands for this task. I am a software engineering student, so their is no issue doing any technical or command line work. I just need some direction.I am sure if someone explains a procedure here for this kind of situation. Possibaly using some commands or some tiny free tools. This would help many people in this situation."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T14:24:11.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa10ebea-8b8d-4d88-9ef2-d4348e2ebfcf",
+            "UserId":"153575",
+            "CloseReasonId":null,
+            "PostId":"138265",
+            "PostHistoryTypeId":"1",
+            "Id":"461998",
+            "Text":"How to access all data in usb debugging mode without interaction"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-27T14:24:11.520",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa10ebea-8b8d-4d88-9ef2-d4348e2ebfcf",
+            "UserId":"153575",
+            "CloseReasonId":null,
+            "PostId":"138265",
+            "PostHistoryTypeId":"3",
+            "Id":"461999",
+            "Text":""
+        },
+        {
+            "Comment":"added version",
+            "CreationDate":"2016-02-27T14:31:41.993",
+            "UserDisplayName":null,
+            "RevisionGUID":"035f0456-6b47-4580-ac4f-96327f076f4b",
+            "UserId":"153575",
+            "CloseReasonId":null,
+            "PostId":"138265",
+            "PostHistoryTypeId":"5",
+            "Id":"462001",
+            "Text":"So, there is an interesting situation.I had an accident earlier today, and **my phone screen broke**. I plugged it back in my laptop after comming hope, i knew **i have usb debugging mode enabled** and also i could access memory card through cable connection on my windows 10.Now, as i have my usb debugging enabled, i am sure **their can be a way to access all the data on my phone, i want to recover all my contacts and data from phone storage.** I am sure their would be some products for this or some sort of commands for this task. I am a software engineering student, so their is no issue doing any technical or command line work. I just need some direction.I am sure if someone explains a procedure here for this kind of situation. Possibaly using some commands or some tiny free tools. This would help many people in this situation.**Edit:** Its android **4.4.4** and Qmobile Z10 (China made)"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-04T19:07:38.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"98c9a4c8-7564-489e-b33b-afacbc70fe2f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138265",
+            "PostHistoryTypeId":"10",
+            "Id":"464046",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

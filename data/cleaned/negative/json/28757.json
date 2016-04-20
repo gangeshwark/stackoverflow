@@ -1,0 +1,83 @@
+{
+    "Body":"I had connected my Galaxy SL (2.3.6) to USB for charging in Kies mode just for charging. I do this daily. After removal from pc today, there are no contacts in address book it shows only SIM contacts. Displays 0 phone contacts. All other phone data is available.How to retrieve the contact book back?",
+    "ViewCount":"135",
+    "LastActivityDate":"2013-06-19T12:22:21.970",
+    "ClosedDate":"2013-09-23T07:40:36.857",
+    "Title":"Contact book got deleted without any action. How to retrieve the contacts back?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-06-19T12:22:21.970",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9023",
+    "CreationDate":"2012-09-04T13:33:51.370",
+    "FavoriteCount":null,
+    "Id":"28757",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-04T13:33:51.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"80ab1297-d2fb-45a9-9b82-0b0aa9555aa3",
+            "UserId":"9023",
+            "CloseReasonId":null,
+            "PostId":"28757",
+            "PostHistoryTypeId":"2",
+            "Id":"84127",
+            "Text":"I had connected my Galaxy SL (2.3.6) to USB for charging in Kies mode just for charging. I do this daily. After removal from pc today, there are no contacts in address book it shows only SIM contacts. Displays 0 phone contacts. All other phone data is available.How to retrieve the contact book back?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-04T13:33:51.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"80ab1297-d2fb-45a9-9b82-0b0aa9555aa3",
+            "UserId":"9023",
+            "CloseReasonId":null,
+            "PostId":"28757",
+            "PostHistoryTypeId":"1",
+            "Id":"84128",
+            "Text":"Contact book got deleted without any action. How to retrieve the contacts back?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-04T13:33:51.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"80ab1297-d2fb-45a9-9b82-0b0aa9555aa3",
+            "UserId":"9023",
+            "CloseReasonId":null,
+            "PostId":"28757",
+            "PostHistoryTypeId":"3",
+            "Id":"84129",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-06-19T12:22:21.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"b144897e-81b5-47ce-9966-17ff256096ff",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"28757",
+            "PostHistoryTypeId":"6",
+            "Id":"154128",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2013-09-23T07:40:36.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"853cb7b7-dc41-4aa1-94c7-2e1c3a4fc4e4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28757",
+            "PostHistoryTypeId":"10",
+            "Id":"177894",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

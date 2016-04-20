@@ -1,0 +1,71 @@
+{
+    "Body":"Can anyone tell me what those two pieces on the following image? (colored with yellow)i suspect its the CPU and the Wifi but im not sure.my issue here is that the temps on my tab is pretty hot (since a long time) i never had time to check but now this will changeThe heat comes from the red area that i have selected but i dont see any other pieces that can cause the heatidle temps are 40-50 (recovery mode) with my window open, cold air is comming into my room)load temps are getting high as 91 (i got this when i was making a backup within the recovery mode.My tab is an Samsung Galaxy TabPro 10.1Thank you for your time.",
+    "ViewCount":"49",
+    "LastActivityDate":"2015-10-30T09:40:28.137",
+    "ClosedDate":"2015-11-02T17:32:56.243",
+    "Title":"What are those 2 parts on my tab's circuit board?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"127420",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"134256",
+    "CreationDate":"2015-10-28T17:20:53.650",
+    "FavoriteCount":null,
+    "Id":"127324",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-28T17:20:53.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"302bdb14-76bf-45b4-aaf9-0b8e76238150",
+            "UserId":"134256",
+            "CloseReasonId":null,
+            "PostId":"127324",
+            "PostHistoryTypeId":"2",
+            "Id":"418065",
+            "Text":"Can anyone tell me what those two pieces on the following image? (colored with yellow)i suspect its the CPU and the Wifi but im not sure.[![enter image description here][1]][1]  [1]: http:\/\/i.stack.imgur.com\/8vvbA.jpgmy issue here is that the temps on my tab is pretty hot (since a long time) i never had time to check but now this will changeThe heat comes from the red area that i have selected but i dont see any other pieces that can cause the heatidle temps are 40-50 (recovery mode) with my window open, cold air is comming into my room)load temps are getting high as 91 (i got this when i was making a backup within the recovery mode.My tab is an Samsung Galaxy TabPro 10.1Thank you for your time."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-28T17:20:53.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"302bdb14-76bf-45b4-aaf9-0b8e76238150",
+            "UserId":"134256",
+            "CloseReasonId":null,
+            "PostId":"127324",
+            "PostHistoryTypeId":"1",
+            "Id":"418066",
+            "Text":"What are those 2 parts on my tab's circuit board?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-28T17:20:53.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"302bdb14-76bf-45b4-aaf9-0b8e76238150",
+            "UserId":"134256",
+            "CloseReasonId":null,
+            "PostId":"127324",
+            "PostHistoryTypeId":"3",
+            "Id":"418067",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-11-02T17:32:56.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b1602b-a159-498c-8aab-de50f81018d8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"127324",
+            "PostHistoryTypeId":"10",
+            "Id":"419899",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

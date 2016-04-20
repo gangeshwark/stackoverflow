@@ -1,0 +1,71 @@
+{
+    "Body":"My android was working fine until one day, i saw  Error retrieving information from server. [DF-DFERH-01]with a RETRY button.This is happening only in the \"My wishlist\" menu. No errors before.I have ZTE Blade III with android 4.0.4 Ice Cream Sandwich.SCREENSHOT:",
+    "ViewCount":"2479",
+    "LastActivityDate":"2015-03-26T04:30:37.030",
+    "ClosedDate":"2015-11-02T17:49:58.840",
+    "Title":"Play store - Wishlist server error DF-DFERH-01 - ZTE Blade III",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"103608",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"60513",
+    "CreationDate":"2014-05-12T06:58:22.437",
+    "FavoriteCount":null,
+    "Id":"69212",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-12T06:58:22.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f6f1b36-5345-47b5-9d47-ad99d3805087",
+            "UserId":"60513",
+            "CloseReasonId":null,
+            "PostId":"69212",
+            "PostHistoryTypeId":"2",
+            "Id":"236076",
+            "Text":"My android was working fine until one day, i saw> **Error retrieving information from server. [DF-DFERH-01]**with a RETRY button.This is happening only in the \"My wishlist\" menu. No errors before.I have ZTE Blade III with android 4.0.4 Ice Cream Sandwich.**SCREENSHOT:**![My wishlist error][1]  [1]: http:\/\/i.stack.imgur.com\/P7vCj.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-12T06:58:22.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f6f1b36-5345-47b5-9d47-ad99d3805087",
+            "UserId":"60513",
+            "CloseReasonId":null,
+            "PostId":"69212",
+            "PostHistoryTypeId":"1",
+            "Id":"236077",
+            "Text":"Play store - Wishlist server error DF-DFERH-01 - ZTE Blade III"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-12T06:58:22.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f6f1b36-5345-47b5-9d47-ad99d3805087",
+            "UserId":"60513",
+            "CloseReasonId":null,
+            "PostId":"69212",
+            "PostHistoryTypeId":"3",
+            "Id":"236078",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-02T17:49:58.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc8aaf0b-350c-4061-bc60-1e2466e0415d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"69212",
+            "PostHistoryTypeId":"10",
+            "Id":"419929",
+            "Text":"{\"OriginalQuestionIds\":[36321],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have a ZTE Grand X and I keep getting a notice that I am running out of staorage space? How do I fix it?",
+    "ViewCount":"4",
+    "LastActivityDate":"2015-06-05T02:57:42.770",
+    "ClosedDate":"2015-06-05T03:08:32.037",
+    "Title":"ZTE Grand X running low on storage space",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111506",
+    "CreationDate":"2015-06-05T02:57:42.770",
+    "FavoriteCount":null,
+    "Id":"111510",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T02:57:42.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3a91683-de9a-44d1-89f5-8f980186ff0d",
+            "UserId":"111506",
+            "CloseReasonId":null,
+            "PostId":"111510",
+            "PostHistoryTypeId":"2",
+            "Id":"364633",
+            "Text":"I have a ZTE Grand X and I keep getting a notice that I am running out of staorage space? How do I fix it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T02:57:42.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3a91683-de9a-44d1-89f5-8f980186ff0d",
+            "UserId":"111506",
+            "CloseReasonId":null,
+            "PostId":"111510",
+            "PostHistoryTypeId":"1",
+            "Id":"364634",
+            "Text":"ZTE Grand X running low on storage space"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-05T02:57:42.770",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3a91683-de9a-44d1-89f5-8f980186ff0d",
+            "UserId":"111506",
+            "CloseReasonId":null,
+            "PostId":"111510",
+            "PostHistoryTypeId":"3",
+            "Id":"364635",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-05T03:08:32.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0d69275-b455-48a8-a45f-b13f95586728",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"111510",
+            "PostHistoryTypeId":"10",
+            "Id":"364645",
+            "Text":"{\"OriginalQuestionIds\":[2065],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

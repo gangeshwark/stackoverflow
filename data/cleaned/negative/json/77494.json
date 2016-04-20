@@ -1,0 +1,71 @@
+{
+    "Body":"My wife has an Optimus LG. Every photo she takes automatically syncs with Dropbox and Facebook. I have looked but I can't see a way to stop this.How can I stop this behavior? ",
+    "ViewCount":"783",
+    "LastActivityDate":"2014-07-17T23:17:11.840",
+    "ClosedDate":"2014-07-19T21:39:45.297",
+    "Title":"Stop android from automatically uploading images to dropbox and facebook",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67580",
+    "CreationDate":"2014-07-17T21:37:44.633",
+    "FavoriteCount":null,
+    "Id":"77494",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-17T21:37:44.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7074814-07a1-45ad-9f96-7a2167be21ca",
+            "UserId":"67580",
+            "CloseReasonId":null,
+            "PostId":"77494",
+            "PostHistoryTypeId":"2",
+            "Id":"255408",
+            "Text":"My wife has an Optimus LG. Every photo she takes automatically syncs with Dropbox and Facebook. I have looked but I can't see a way to stop this.How can I stop this behavior? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-17T21:37:44.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7074814-07a1-45ad-9f96-7a2167be21ca",
+            "UserId":"67580",
+            "CloseReasonId":null,
+            "PostId":"77494",
+            "PostHistoryTypeId":"1",
+            "Id":"255409",
+            "Text":"Stop android from automatically uploading images to dropbox and facebook"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-17T21:37:44.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7074814-07a1-45ad-9f96-7a2167be21ca",
+            "UserId":"67580",
+            "CloseReasonId":null,
+            "PostId":"77494",
+            "PostHistoryTypeId":"3",
+            "Id":"255410",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-19T21:39:45.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"8974a080-7af8-4780-bb58-115e95d7e061",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"77494",
+            "PostHistoryTypeId":"10",
+            "Id":"255912",
+            "Text":"{\"OriginalQuestionIds\":[43718],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I understand that the colour of the signal indicator tells me whether or not I've got a connection to Google servers or not, but what is the \"H\" that sometimes pops up?Usually my indicator says \"3G\":But, in addition to having an \"H\" now and again, sometimes it has no letters at all:I assume this is telling something about what kind of data network I'm on, or not on, but what exactly is happening?",
+    "ViewCount":"58409",
+    "LastActivityDate":"2014-12-04T12:26:53.450",
+    "ClosedDate":"2014-04-03T20:27:48.417",
+    "Title":"What does \"H\" mean in the signal indicator?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"25625",
+    "Score":"23",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5892",
+    "CreationDate":"2012-07-11T04:30:34.897",
+    "FavoriteCount":"4",
+    "Id":"25623",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-11T04:30:34.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab8a4f10-6f13-408a-bc5c-e803448c2688",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"25623",
+            "PostHistoryTypeId":"2",
+            "Id":"73985",
+            "Text":"I understand that the [colour of the signal indicator tells me whether or not I've got a connection to Google servers or not][1], but what is the \"H\" that sometimes pops up?![H][2]Usually my indicator says \"3G\":![3G][3]But, in addition to having an \"H\" now and again, sometimes it has no letters at all:![nothing][4]I assume this is telling something about what kind of data network I'm on, or not on, but what exactly is happening?  [1]: http:\/\/android.stackexchange.com\/questions\/9642\/what-does-it-mean-when-the-connectivity-icons-in-the-status-bar-go-white-gray  [2]: http:\/\/i.stack.imgur.com\/Gmdol.png  [3]: http:\/\/i.stack.imgur.com\/bBUux.png  [4]: http:\/\/i.stack.imgur.com\/hGWe0.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-11T04:30:34.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab8a4f10-6f13-408a-bc5c-e803448c2688",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"25623",
+            "PostHistoryTypeId":"1",
+            "Id":"73986",
+            "Text":"What does \"H\" mean in the signal indicator?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-11T04:30:34.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab8a4f10-6f13-408a-bc5c-e803448c2688",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"25623",
+            "PostHistoryTypeId":"3",
+            "Id":"73987",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/222957214019747840",
+            "CreationDate":"2012-07-11T07:35:16.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"9133b8d2-5df6-4482-9ed3-b5c789ef84a7",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"25623",
+            "PostHistoryTypeId":"25",
+            "Id":"74004",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-03T20:27:48.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"f12b0db2-4d19-428c-ad66-28ea570a63d4",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"25623",
+            "PostHistoryTypeId":"10",
+            "Id":"227772",
+            "Text":"{\"OriginalQuestionIds\":[56269],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"At the time charging battery percentage will display on lock screen on my moto g2.How activate this percentage permanently in status bar aside battery symbolWill anyone please help me",
+    "ViewCount":"80",
+    "LastActivityDate":"2015-04-13T08:29:24.483",
+    "ClosedDate":"2015-04-30T04:11:09.177",
+    "Title":"How to enable battery percent in moto g2",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102191",
+    "CreationDate":"2015-04-13T08:29:24.483",
+    "FavoriteCount":null,
+    "Id":"105298",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T08:29:24.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b7bb702-7ff0-45a4-b7f4-014ffa2e6a26",
+            "UserId":"102191",
+            "CloseReasonId":null,
+            "PostId":"105298",
+            "PostHistoryTypeId":"2",
+            "Id":"344066",
+            "Text":"At the time charging battery percentage will display on lock screen on my moto g2.How activate this percentage permanently in status bar aside battery symbolWill anyone please help me"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T08:29:24.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b7bb702-7ff0-45a4-b7f4-014ffa2e6a26",
+            "UserId":"102191",
+            "CloseReasonId":null,
+            "PostId":"105298",
+            "PostHistoryTypeId":"1",
+            "Id":"344067",
+            "Text":"How to enable battery percent in moto g2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T08:29:24.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b7bb702-7ff0-45a4-b7f4-014ffa2e6a26",
+            "UserId":"102191",
+            "CloseReasonId":null,
+            "PostId":"105298",
+            "PostHistoryTypeId":"3",
+            "Id":"344068",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-30T04:11:09.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"13b2e90c-a479-43e6-aa10-2b50fad6cdde",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105298",
+            "PostHistoryTypeId":"10",
+            "Id":"350677",
+            "Text":"{\"OriginalQuestionIds\":[75487],\"Voters\":[{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

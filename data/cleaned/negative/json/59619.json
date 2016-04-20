@@ -1,0 +1,83 @@
+{
+    "Body":"I have many photos of my family on my phone. I like to draw with my daughters and I invariably end up drawing family members. It would be really nice to have an android phone app that displays a photo and simply leaves it there without allowing the screen to dim or to lock the phone. Certainly such permissions are commonly used by video player apps, but photo viewer apps seem to always allow screen dimming and phone locking. Is there such a photo viewer app? I would expect a handful, but haven't been able to find one.(Yes, I know display costs battery, and that if I don't close it my battery will be drained.)",
+    "ViewCount":"71",
+    "LastActivityDate":"2013-12-24T05:18:55.687",
+    "ClosedDate":"2013-12-25T14:07:04.837",
+    "Title":"Android photo viewer that doesn't blank screen",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-12-23T21:26:16.090",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13838",
+    "CreationDate":"2013-12-23T20:01:40.967",
+    "FavoriteCount":null,
+    "Id":"59619",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-23T20:01:40.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c9d552e-254b-4c4a-8e68-5c782bcde443",
+            "UserId":"13838",
+            "CloseReasonId":null,
+            "PostId":"59619",
+            "PostHistoryTypeId":"2",
+            "Id":"200896",
+            "Text":"I have many photos of my family on my phone. I like to draw with my daughters and I invariably end up drawing family members. It would be really nice to have an android phone app that displays a photo and simply leaves it there without allowing the screen to dim or to lock the phone. Certainly such permissions are commonly used by video player apps, but photo viewer apps seem to always allow screen dimming and phone locking. Is there such a photo viewer app? I would expect a handful, but haven't been able to find one.(Yes, I know display costs battery, and that if I don't close it my battery will be drained.)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-23T20:01:40.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c9d552e-254b-4c4a-8e68-5c782bcde443",
+            "UserId":"13838",
+            "CloseReasonId":null,
+            "PostId":"59619",
+            "PostHistoryTypeId":"1",
+            "Id":"200897",
+            "Text":"Android photo viewer that doesn't blank screen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-23T20:01:40.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c9d552e-254b-4c4a-8e68-5c782bcde443",
+            "UserId":"13838",
+            "CloseReasonId":null,
+            "PostId":"59619",
+            "PostHistoryTypeId":"3",
+            "Id":"200898",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-12-23T21:26:16.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ce96f33-05a8-493b-9db2-b31b8c496817",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"59619",
+            "PostHistoryTypeId":"6",
+            "Id":"200915",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-12-25T14:07:04.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"3814ac24-3479-4fe0-bc9c-a1174dec5d72",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"59619",
+            "PostHistoryTypeId":"10",
+            "Id":"201378",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

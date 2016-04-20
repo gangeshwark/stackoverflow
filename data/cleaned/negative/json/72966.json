@@ -1,0 +1,83 @@
+{
+    "Body":"I just broke the screen on my phone, and the way my insurance works, they're going to replace it with a new one... However, I've spent a lot of time setting up everything in my phone, and would like to not have to do it again... Is it possible to transfer EVERY SINGLE BIT OF DATA on my phone to my pc, and then restore it in a new one? ",
+    "ViewCount":"6596",
+    "LastActivityDate":"2014-06-11T08:09:47.773",
+    "ClosedDate":"2014-06-11T14:02:26.203",
+    "Title":"Is it possible to transfer EVERYTHING from one Nexus 5 to another?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2014-06-07T11:48:08.087",
+    "FavoriteCount":null,
+    "Id":"72966",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/764841\/is-it-possible-to-transfer-everything-from-one-nexus-5-to-another",
+            "CreationDate":"2014-06-11T08:09:47.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec865cb7-eb25-4179-b6fb-9a11f9ba677a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"72966",
+            "PostHistoryTypeId":"36",
+            "Id":"244472",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-07T11:48:08.087",
+            "UserDisplayName":"Daniel Magliola",
+            "RevisionGUID":"8bb11213-bcf2-416a-815f-95d8e4d6b3ad",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"72966",
+            "PostHistoryTypeId":"2",
+            "Id":"244475",
+            "Text":"I just broke the screen on my phone, and the way my insurance works, they're going to replace it with a new one... However, I've spent a lot of time setting up everything in my phone, and would like to not have to do it again... Is it possible to transfer EVERY SINGLE BIT OF DATA on my phone to my pc, and then restore it in a new one? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-07T11:48:08.087",
+            "UserDisplayName":"Daniel Magliola",
+            "RevisionGUID":"8bb11213-bcf2-416a-815f-95d8e4d6b3ad",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"72966",
+            "PostHistoryTypeId":"1",
+            "Id":"244476",
+            "Text":"Is it possible to transfer EVERYTHING from one Nexus 5 to another?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-07T11:48:08.087",
+            "UserDisplayName":"Daniel Magliola",
+            "RevisionGUID":"8bb11213-bcf2-416a-815f-95d8e4d6b3ad",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"72966",
+            "PostHistoryTypeId":"3",
+            "Id":"244477",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-11T14:02:26.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"39e533e5-438a-4d88-97f1-146660522e48",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"72966",
+            "PostHistoryTypeId":"10",
+            "Id":"244569",
+            "Text":"{\"OriginalQuestionIds\":[28296,25646],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

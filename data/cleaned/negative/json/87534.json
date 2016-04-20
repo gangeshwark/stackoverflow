@@ -1,0 +1,71 @@
+{
+    "Body":"i was wondering if there was an app for android that is like cydia. i want an app that has a huge collection of tweaks, hacks, roms, scrips, apps, themes; just like how cydia (for ios) has. im not looking for apps like app-toid or 1-market.",
+    "ViewCount":"5540",
+    "LastActivityDate":"2015-02-18T16:25:30.547",
+    "ClosedDate":"2016-02-27T05:57:18.930",
+    "Title":"(ROOT apps, tweaks, roms, scripts, hacks) cydia like app for android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79924",
+    "CreationDate":"2014-11-13T06:10:56.493",
+    "FavoriteCount":null,
+    "Id":"87534",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T06:10:56.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"8c060212-652c-499b-b8d0-3f93d2f31d73",
+            "UserId":"79924",
+            "CloseReasonId":null,
+            "PostId":"87534",
+            "PostHistoryTypeId":"2",
+            "Id":"287914",
+            "Text":"i was wondering if there was an app for android that is like cydia. i want an app that has a huge collection of tweaks, hacks, roms, scrips, apps, themes; just like how cydia (for ios) has. im not looking for apps like app-toid or 1-market."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T06:10:56.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"8c060212-652c-499b-b8d0-3f93d2f31d73",
+            "UserId":"79924",
+            "CloseReasonId":null,
+            "PostId":"87534",
+            "PostHistoryTypeId":"1",
+            "Id":"287915",
+            "Text":"(ROOT apps, tweaks, roms, scripts, hacks) cydia like app for android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T06:10:56.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"8c060212-652c-499b-b8d0-3f93d2f31d73",
+            "UserId":"79924",
+            "CloseReasonId":null,
+            "PostId":"87534",
+            "PostHistoryTypeId":"3",
+            "Id":"287916",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T05:57:18.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"2063dc9c-89e5-4cdb-844b-c22c3da65177",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"87534",
+            "PostHistoryTypeId":"10",
+            "Id":"461803",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I only have Internet connection from LAN through Linux PC.How can I connect my Android 2.1 to the Internet though USB cable?",
+    "ViewCount":"341",
+    "LastActivityDate":"2013-11-07T11:14:01.330",
+    "ClosedDate":"2013-11-07T16:33:27.567",
+    "Title":"Get the internet from my PC",
+    "LastEditorUserId":"156",
+    "Tags":"",
+    "LastEditDate":"2013-11-07T11:11:20.177",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"27417",
+    "CreationDate":"2013-11-07T10:52:45.343",
+    "FavoriteCount":null,
+    "Id":"56524",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-07T10:52:45.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cef6b7f-1d08-4539-a796-7e10ce38b77c",
+            "UserId":"27417",
+            "CloseReasonId":null,
+            "PostId":"56524",
+            "PostHistoryTypeId":"2",
+            "Id":"188321",
+            "Text":"I only have Internet connection from LAN through Linux PC.How can I connect my Android 2.1 to the Internet though USB cable?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-07T10:52:45.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cef6b7f-1d08-4539-a796-7e10ce38b77c",
+            "UserId":"27417",
+            "CloseReasonId":null,
+            "PostId":"56524",
+            "PostHistoryTypeId":"1",
+            "Id":"188322",
+            "Text":"Get the internet from my PC"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-07T10:52:45.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cef6b7f-1d08-4539-a796-7e10ce38b77c",
+            "UserId":"27417",
+            "CloseReasonId":null,
+            "PostId":"56524",
+            "PostHistoryTypeId":"3",
+            "Id":"188323",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags; edited tags",
+            "CreationDate":"2013-11-07T11:11:20.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e830783-168f-4d80-b0dd-bfb17f4d2af3",
+            "UserId":"156",
+            "CloseReasonId":null,
+            "PostId":"56524",
+            "PostHistoryTypeId":"6",
+            "Id":"188328",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-07T16:33:27.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b922488-e47d-4e03-8183-7508776f8010",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"56524",
+            "PostHistoryTypeId":"10",
+            "Id":"188397",
+            "Text":"{\"OriginalQuestionIds\":[2298],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

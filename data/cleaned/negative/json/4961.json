@@ -1,0 +1,83 @@
+{
+    "Body":"I have found that the email client which came with my device (Droid X, stock motoblur email client) is lacking in several areas.  Some of my gripes areLimited number of emails shown in the inbox and no way to change this - At any given time, no matter how many emails are in my Exchange inbox, I can only see the most recent 7.No option for multiple signatures - with two different business email accounts and a personal email account, I want the option to have different signaturesAccessing exchange folders - Items are not shown in the folders viewed on the device even though there are items in these folders I have tried k9mail in the past, but the last few updates seem to have broken it for my device (I reinstalled twice and I still get errors when sending email and new email is not showing up in a timely manner).  So are there any other options available?    ",
+    "ViewCount":"1004",
+    "LastActivityDate":"2012-11-29T14:12:30.900",
+    "ClosedDate":"2013-08-23T02:33:05.560",
+    "Title":"Can anyone recommend a good email client?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"4965",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2274",
+    "CreationDate":"2011-01-20T14:28:53.207",
+    "FavoriteCount":"2",
+    "Id":"4961",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-20T14:28:53.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f68855f-2302-4852-8763-e98b3400ea69",
+            "UserId":"2274",
+            "CloseReasonId":null,
+            "PostId":"4961",
+            "PostHistoryTypeId":"2",
+            "Id":"10617",
+            "Text":"I have found that the email client which came with my device (Droid X, stock motoblur email client) is lacking in several areas.  Some of my gripes are - Limited number of emails shown in the inbox and no way to change this - At any given time, no matter how many emails are in my Exchange inbox, I can only see the most recent 7. - No option for multiple signatures - with two different business email accounts and a personal email account, I want the option to have different signatures - Accessing exchange folders - Items are not shown in the folders viewed on the device even though there are items in these folders I have tried k9mail in the past, but the last few updates seem to have broken it for my device (I reinstalled twice and I still get errors when sending email and new email is not showing up in a timely manner).  So are there any other options available?    "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-20T14:28:53.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f68855f-2302-4852-8763-e98b3400ea69",
+            "UserId":"2274",
+            "CloseReasonId":null,
+            "PostId":"4961",
+            "PostHistoryTypeId":"1",
+            "Id":"10618",
+            "Text":"Can anyone recommend a good email client?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-20T14:28:53.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f68855f-2302-4852-8763-e98b3400ea69",
+            "UserId":"2274",
+            "CloseReasonId":null,
+            "PostId":"4961",
+            "PostHistoryTypeId":"3",
+            "Id":"10619",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/28133579322036224",
+            "CreationDate":"2011-01-20T16:55:42.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"55211085-8938-4bf0-a5ec-aee8f253c959",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"4961",
+            "PostHistoryTypeId":"25",
+            "Id":"10631",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-08-23T02:33:05.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"71486ed9-aa8d-4098-b311-c1c7634ec0bd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"4961",
+            "PostHistoryTypeId":"10",
+            "Id":"170085",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

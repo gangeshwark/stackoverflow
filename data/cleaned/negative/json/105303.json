@@ -1,0 +1,71 @@
+{
+    "Body":"I need to flash my phone because, I tried to install some framework after I rooted my phone but I didn't turn on USB debugging when the screen broke. The screen isn't cracked as such, it is just enlarged so I can't really select anything I just my wallpaper bigger. I have a flashtool installed but I need to have my USB debugging turned on, to use it. What can I do ?",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-04-13T09:50:38.543",
+    "ClosedDate":"2015-04-13T19:36:34.563",
+    "Title":"How can I enable USB debugging on my Sony Xperia M with a broken screen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102199",
+    "CreationDate":"2015-04-13T09:50:38.543",
+    "FavoriteCount":null,
+    "Id":"105303",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T09:50:38.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"74fccb7e-3b65-47a0-a8f5-ab8f8d33f348",
+            "UserId":"102199",
+            "CloseReasonId":null,
+            "PostId":"105303",
+            "PostHistoryTypeId":"2",
+            "Id":"344083",
+            "Text":"I need to flash my phone because, I tried to install some framework after I rooted my phone but I didn't turn on USB debugging when the screen broke. The screen isn't cracked as such, it is just enlarged so I can't really select anything I just my wallpaper bigger. I have a flashtool installed but I need to have my USB debugging turned on, to use it. What can I do ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T09:50:38.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"74fccb7e-3b65-47a0-a8f5-ab8f8d33f348",
+            "UserId":"102199",
+            "CloseReasonId":null,
+            "PostId":"105303",
+            "PostHistoryTypeId":"1",
+            "Id":"344084",
+            "Text":"How can I enable USB debugging on my Sony Xperia M with a broken screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T09:50:38.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"74fccb7e-3b65-47a0-a8f5-ab8f8d33f348",
+            "UserId":"102199",
+            "CloseReasonId":null,
+            "PostId":"105303",
+            "PostHistoryTypeId":"3",
+            "Id":"344085",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-13T19:36:34.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"0541a3c5-6bda-4923-bfa9-aa36ee2f0fdf",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"105303",
+            "PostHistoryTypeId":"10",
+            "Id":"344281",
+            "Text":"{\"OriginalQuestionIds\":[12834],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

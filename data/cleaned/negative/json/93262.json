@@ -1,0 +1,71 @@
+{
+    "Body":"How to logout from Skype to relogin under other name?I mean skype for pad-sized computers.If I press avatar, then I have \"exit\" entry at the bottom. But if I click this entry, then Skype just closes. If I open it again, then it enters under old name again.I want to logout so that it ask password.Is it possible?",
+    "ViewCount":"51",
+    "LastActivityDate":"2014-12-31T23:12:06.660",
+    "ClosedDate":"2015-01-09T12:04:32.757",
+    "Title":"How to logout from Skype to relogin under other name?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13785",
+    "CreationDate":"2014-12-30T14:27:23.027",
+    "FavoriteCount":null,
+    "Id":"93262",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T14:27:23.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdb20eb3-31c3-4211-8c85-29c12de27500",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"93262",
+            "PostHistoryTypeId":"2",
+            "Id":"305780",
+            "Text":"How to logout from Skype to relogin under other name?I mean skype for pad-sized computers.If I press avatar, then I have \"exit\" entry at the bottom. But if I click this entry, then Skype just closes. If I open it again, then it enters under old name again.I want to logout so that it ask password.Is it possible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T14:27:23.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdb20eb3-31c3-4211-8c85-29c12de27500",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"93262",
+            "PostHistoryTypeId":"1",
+            "Id":"305781",
+            "Text":"How to logout from Skype to relogin under other name?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T14:27:23.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdb20eb3-31c3-4211-8c85-29c12de27500",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"93262",
+            "PostHistoryTypeId":"3",
+            "Id":"305782",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-09T12:04:32.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd5aad9e-4e89-4fb8-ab4a-9cbe07a8ec4b",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"93262",
+            "PostHistoryTypeId":"10",
+            "Id":"310449",
+            "Text":"{\"OriginalQuestionIds\":[83264],\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

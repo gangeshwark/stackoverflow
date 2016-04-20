@@ -1,0 +1,83 @@
+{
+    "Body":"Reading around I can see that Android Market doesn't yet support Gift tokens or similar, and while Amazon's Android market does, its only available in the USA. So the question is, what sort of workarounds are there for this? For example, could I log in to android market from the recipients phone with my google credentials, buy and then download the application, then logout again? Would the application still work? Can I pay with my credit card with the other persons Google wallet? Is this consistent with the usage policy of the Android market? What other options might I have?",
+    "ViewCount":"4851",
+    "LastActivityDate":"2011-12-21T00:23:50.730",
+    "ClosedDate":"2015-01-09T12:06:34.570",
+    "Title":"Workaround needed: Buying an application for someone else in the Android Market",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"15",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10349",
+    "CreationDate":"2011-12-19T09:09:01.433",
+    "FavoriteCount":"3",
+    "Id":"17138",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-19T09:09:01.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff7b313e-97c5-4515-92dc-e6765751ccb3",
+            "UserId":"10349",
+            "CloseReasonId":null,
+            "PostId":"17138",
+            "PostHistoryTypeId":"2",
+            "Id":"46767",
+            "Text":"Reading around I can see that Android Market doesn't yet support Gift tokens or similar, and while Amazon's Android market does, its only available in the USA. So the question is, what sort of workarounds are there for this? For example, could I log in to android market from the recipients phone with my google credentials, buy and then download the application, then logout again? Would the application still work? Can I pay with my credit card with the other persons Google wallet? Is this consistent with the usage policy of the Android market? What other options might I have?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-19T09:09:01.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff7b313e-97c5-4515-92dc-e6765751ccb3",
+            "UserId":"10349",
+            "CloseReasonId":null,
+            "PostId":"17138",
+            "PostHistoryTypeId":"1",
+            "Id":"46768",
+            "Text":"Workaround needed: Buying an application for someone else in the Android Market"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-12-19T09:09:01.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff7b313e-97c5-4515-92dc-e6765751ccb3",
+            "UserId":"10349",
+            "CloseReasonId":null,
+            "PostId":"17138",
+            "PostHistoryTypeId":"3",
+            "Id":"46769",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/149178664846761986",
+            "CreationDate":"2011-12-20T17:25:40.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e9a3032-a5d0-4772-80c7-9a5aa5595674",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"17138",
+            "PostHistoryTypeId":"25",
+            "Id":"47015",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-09T12:06:34.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5dc39b1-715d-443a-a1d3-05826b5cf5b6",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"17138",
+            "PostHistoryTypeId":"10",
+            "Id":"310454",
+            "Text":"{\"OriginalQuestionIds\":[3983],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

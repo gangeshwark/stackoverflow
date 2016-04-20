@@ -1,0 +1,83 @@
+{
+    "Body":"This may sound silly but it's a good point. In apps such as web browsers pressing the back key only navigates the browser back to the previous page. Pressing the home key makes an app disappear, but isn't it still running in the back ground? So for apps like web browsers where pressing the back key doesn't close them how do you close them when you want to change applications and not have an unused one taking resources?Isn't it a bit rediculous that there's no built in way in android to exit an app?",
+    "ViewCount":"192",
+    "LastActivityDate":"2013-09-21T10:35:10.070",
+    "ClosedDate":"2013-09-23T07:36:30.837",
+    "Title":"How do you close apps in Android so they aren't taking up resources?",
+    "LastEditorUserId":"17808",
+    "Tags":"",
+    "LastEditDate":"2013-09-21T10:35:10.070",
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17808",
+    "CreationDate":"2013-09-21T01:06:52.110",
+    "FavoriteCount":null,
+    "Id":"53672",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-21T01:06:52.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"4295c03f-9366-4fac-bd4e-59f573cef389",
+            "UserId":"17808",
+            "CloseReasonId":null,
+            "PostId":"53672",
+            "PostHistoryTypeId":"2",
+            "Id":"177389",
+            "Text":"This may sound silly but it's a good point. In apps such as web browsers pressing the back key only navigates the browser back to the previous page. Pressing the home key makes an app disappear, but isn't it still running in the back ground? So for apps like web browsers where pressing the back key doesn't close them how do you close them when you want to change applications and not have an unused one taking resources?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-21T01:06:52.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"4295c03f-9366-4fac-bd4e-59f573cef389",
+            "UserId":"17808",
+            "CloseReasonId":null,
+            "PostId":"53672",
+            "PostHistoryTypeId":"1",
+            "Id":"177390",
+            "Text":"How do you close apps in Android so they aren't taking up resources?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-21T01:06:52.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"4295c03f-9366-4fac-bd4e-59f573cef389",
+            "UserId":"17808",
+            "CloseReasonId":null,
+            "PostId":"53672",
+            "PostHistoryTypeId":"3",
+            "Id":"177391",
+            "Text":""
+        },
+        {
+            "Comment":"added 85 characters in body",
+            "CreationDate":"2013-09-21T10:35:10.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"711f0f48-e660-4a66-a4b0-1109ffdf2d6b",
+            "UserId":"17808",
+            "CloseReasonId":null,
+            "PostId":"53672",
+            "PostHistoryTypeId":"5",
+            "Id":"177456",
+            "Text":"This may sound silly but it's a good point. In apps such as web browsers pressing the back key only navigates the browser back to the previous page. Pressing the home key makes an app disappear, but isn't it still running in the back ground? So for apps like web browsers where pressing the back key doesn't close them how do you close them when you want to change applications and not have an unused one taking resources?Isn't it a bit rediculous that there's no built in way in android to exit an app?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-23T07:36:30.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"332a6211-f39a-40f2-865e-fa6923cf53da",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"53672",
+            "PostHistoryTypeId":"10",
+            "Id":"177892",
+            "Text":"{\"OriginalQuestionIds\":[22018],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

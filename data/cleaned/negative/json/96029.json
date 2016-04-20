@@ -1,0 +1,71 @@
+{
+    "Body":"When I'm trying to download samthing it says \"insuffient space on my device\"my brean it does work when I hear that......it so confusing me..and I have engh space on my memory card",
+    "ViewCount":"143",
+    "LastActivityDate":"2015-02-14T04:25:44.710",
+    "ClosedDate":"2015-01-26T05:09:08.270",
+    "Title":"insuffient dont have enough space on my sd card",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"90337",
+    "CreationDate":"2015-01-16T14:35:14.797",
+    "FavoriteCount":null,
+    "Id":"96029",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T14:35:14.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"38573bc0-1188-43c1-aba4-4e6983152cc2",
+            "UserId":"90337",
+            "CloseReasonId":null,
+            "PostId":"96029",
+            "PostHistoryTypeId":"2",
+            "Id":"312758",
+            "Text":"When I'm trying to download samthing it says \"insuffient space on my device\"my brean it does work when I hear that......it so confusing me..and I have engh space on my memory card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T14:35:14.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"38573bc0-1188-43c1-aba4-4e6983152cc2",
+            "UserId":"90337",
+            "CloseReasonId":null,
+            "PostId":"96029",
+            "PostHistoryTypeId":"1",
+            "Id":"312759",
+            "Text":"insuffient dont have enough space on my sd card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T14:35:14.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"38573bc0-1188-43c1-aba4-4e6983152cc2",
+            "UserId":"90337",
+            "CloseReasonId":null,
+            "PostId":"96029",
+            "PostHistoryTypeId":"3",
+            "Id":"312760",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-26T05:09:08.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cdc1b4c-85fe-4d3b-9992-3845776b68e0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"96029",
+            "PostHistoryTypeId":"10",
+            "Id":"315912",
+            "Text":"{\"OriginalQuestionIds\":[18043],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"i am getting error 905 while downloading big games i have tried uninstalling the updates,factory reset(note3) but its still not workingCan any one tell me how to fix it please",
+    "ViewCount":"12",
+    "LastActivityDate":"2015-06-24T09:04:56.130",
+    "ClosedDate":"2015-06-24T13:21:34.980",
+    "Title":"i am getting error 905 while downloading big games i have tried uninstalling the updates,can anyone help please?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"114020",
+    "CreationDate":"2015-06-24T09:04:56.130",
+    "FavoriteCount":null,
+    "Id":"113287",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-24T09:04:56.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"a734d1bc-0e46-4626-98c9-0cfd0e7c6acb",
+            "UserId":"114020",
+            "CloseReasonId":null,
+            "PostId":"113287",
+            "PostHistoryTypeId":"2",
+            "Id":"371229",
+            "Text":"i am getting error 905 while downloading big games i have tried uninstalling the updates,factory reset(note3) but its still not workingCan any one tell me how to fix it please"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-24T09:04:56.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"a734d1bc-0e46-4626-98c9-0cfd0e7c6acb",
+            "UserId":"114020",
+            "CloseReasonId":null,
+            "PostId":"113287",
+            "PostHistoryTypeId":"1",
+            "Id":"371230",
+            "Text":"i am getting error 905 while downloading big games i have tried uninstalling the updates,can anyone help please?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-24T09:04:56.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"a734d1bc-0e46-4626-98c9-0cfd0e7c6acb",
+            "UserId":"114020",
+            "CloseReasonId":null,
+            "PostId":"113287",
+            "PostHistoryTypeId":"3",
+            "Id":"371231",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-24T13:21:34.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"35ea90cd-83ab-41eb-ad6d-c1e24404cc56",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"113287",
+            "PostHistoryTypeId":"10",
+            "Id":"371283",
+            "Text":"{\"OriginalQuestionIds\":[25918],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a way to explicitly add a URL to Chrome's new tab page dial pad?",
+    "ViewCount":"1060",
+    "LastActivityDate":"2015-09-02T22:40:55.470",
+    "ClosedDate":"2015-09-03T22:41:13.587",
+    "Title":"Add specific website to Chrome's New Tab Page",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"121051",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5962",
+    "CreationDate":"2015-09-02T21:11:25.387",
+    "FavoriteCount":null,
+    "Id":"121043",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-02T21:11:25.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"209640b0-bff0-48a3-be52-366694ba3ba4",
+            "UserId":"5962",
+            "CloseReasonId":null,
+            "PostId":"121043",
+            "PostHistoryTypeId":"2",
+            "Id":"397015",
+            "Text":"Is there a way to explicitly add a URL to Chrome's new tab page dial pad?[![enter image description here][1]][1]  [1]: http:\/\/i.stack.imgur.com\/zt4y9m.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-02T21:11:25.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"209640b0-bff0-48a3-be52-366694ba3ba4",
+            "UserId":"5962",
+            "CloseReasonId":null,
+            "PostId":"121043",
+            "PostHistoryTypeId":"1",
+            "Id":"397016",
+            "Text":"Add specific website to Chrome's New Tab Page"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-02T21:11:25.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"209640b0-bff0-48a3-be52-366694ba3ba4",
+            "UserId":"5962",
+            "CloseReasonId":null,
+            "PostId":"121043",
+            "PostHistoryTypeId":"3",
+            "Id":"397017",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-03T22:41:13.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"470d3ebe-d6b8-4fd9-9bf9-71f0393eede7",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"121043",
+            "PostHistoryTypeId":"10",
+            "Id":"397434",
+            "Text":"{\"OriginalQuestionIds\":[84556],\"Voters\":[{\"Id\":5962,\"DisplayName\":\"Shimmy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I have been looking for a download for a long time, and couldn't find one. I know this is a pretty little known phone, but I still want it. Are there any devs willing to port CM12 on to this phone? I am willing to flash a custom kernel, and do pretty much whatever it takes, aside from hardware mods.",
+    "ViewCount":"2289",
+    "LastActivityDate":"2015-08-14T05:38:17.537",
+    "ClosedDate":"2015-08-17T21:11:04.643",
+    "Title":"CM12 for Htc desire 610 at&t?",
+    "LastEditorUserId":"120063",
+    "Tags":"",
+    "LastEditDate":"2015-08-07T05:15:19.460",
+    "CommentCount":"4",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"117622",
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"120063",
+    "CreationDate":"2015-08-06T20:34:27.813",
+    "FavoriteCount":null,
+    "Id":"117527",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-06T20:34:27.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"47bdf6ca-4843-421f-a0a9-3668f966f1aa",
+            "UserId":"120063",
+            "CloseReasonId":null,
+            "PostId":"117527",
+            "PostHistoryTypeId":"2",
+            "Id":"387031",
+            "Text":"I have been looking for a download for a long time, and couldn't find one. I know this is a pretty little known phone, but I still want it. If there is any way I can get CM12 on this phone (Yes it has to be 12)? If not, and i know this might be a lot to ask, but are there any devs who can port it over?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-06T20:34:27.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"47bdf6ca-4843-421f-a0a9-3668f966f1aa",
+            "UserId":"120063",
+            "CloseReasonId":null,
+            "PostId":"117527",
+            "PostHistoryTypeId":"1",
+            "Id":"387032",
+            "Text":"CM12 for Htc desire 610 at&t?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-06T20:34:27.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"47bdf6ca-4843-421f-a0a9-3668f966f1aa",
+            "UserId":"120063",
+            "CloseReasonId":null,
+            "PostId":"117527",
+            "PostHistoryTypeId":"3",
+            "Id":"387033",
+            "Text":""
+        },
+        {
+            "Comment":"Changed latter of the question to fit guidelines. A bit of a noob, I am. ",
+            "CreationDate":"2015-08-07T05:15:19.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"babe3441-093b-4b1f-8dd1-8dc2ac8d130d",
+            "UserId":"120063",
+            "CloseReasonId":null,
+            "PostId":"117527",
+            "PostHistoryTypeId":"5",
+            "Id":"387155",
+            "Text":"I have been looking for a download for a long time, and couldn't find one. I know this is a pretty little known phone, but I still want it. Are there any devs willing to port CM12 on to this phone? I am willing to flash a custom kernel, and do pretty much whatever it takes, aside from hardware mods."
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-17T21:11:04.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"68c7a0c5-cfcf-41c3-b2a7-f38f0fa45e5c",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"117527",
+            "PostHistoryTypeId":"10",
+            "Id":"391661",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

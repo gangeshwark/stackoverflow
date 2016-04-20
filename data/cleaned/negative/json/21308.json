@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I prevent my WiFi connection from glitching?  I have consistent hanging\/speed issues with my Apps when I use WiFi compared to 3G.For instance, last night, I played a move with Word With Friends and the app said \"Sending Move...\".  It sat there for a while so, out of curiosity, I just turned the display off and went to bed.  When I turned the display on that morning, I still saw the \"Sending Move..\" screen.I closed the app, turned off WiFi (thereby enabling 3G) and then loaded WWF.  The move sent instantly.  Other WiFi apps do the same thing; Facebook for instance hangs constantly on WiFi.  Also, there are times I open up the browser and it responds with \"Can't connect\"...even though the icon at the top of my screen says I'm connected to WiFi.  Usually, if I take the battery out, put it back in, let the phone reboot, WiFi resumes back to normal.  However, this is cumbersome.I realize it could be a router issue though I have other devices connected to my router and they work fine 100% of the time. (One of the other devices is my wife's iPhone :P)Is there a way I can pinpoint what the issue is?Or, even better, have you had this problem and have a fix for it?",
+    "ViewCount":"36",
+    "LastActivityDate":"2012-04-03T02:18:21.950",
+    "ClosedDate":"2012-04-03T16:27:08.333",
+    "Title":"Poor performance on Wifi compared to 3G",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10965",
+    "CreationDate":"2012-04-03T02:18:21.950",
+    "FavoriteCount":null,
+    "Id":"21308",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T02:18:21.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"2789f705-7343-4b53-b1df-a5d4590a3191",
+            "UserId":"10965",
+            "CloseReasonId":null,
+            "PostId":"21308",
+            "PostHistoryTypeId":"2",
+            "Id":"59657",
+            "Text":"I have consistent hanging\/speed issues with my Apps when I use WiFi compared to 3G.For instance, last night, I played a move with Word With Friends and the app said \"Sending Move...\".  It sat there for a while so, out of curiosity, I just turned the display off and went to bed.  When I turned the display on that morning, I still saw the \"Sending Move..\" screen.I closed the app, turned off WiFi (thereby enabling 3G) and then loaded WWF.  The move sent instantly.  Other WiFi apps do the same thing; Facebook for instance hangs constantly on WiFi.  Also, there are times I open up the browser and it responds with \"Can't connect\"...even though the icon at the top of my screen says I'm connected to WiFi.  Usually, if I take the battery out, put it back in, let the phone reboot, WiFi resumes back to normal.  However, this is cumbersome.I realize it could be a router issue though I have other devices connected to my router and they work fine 100% of the time. (One of the other devices is my wife's iPhone :P)Is there a way I can pinpoint what the issue is?Or, even better, have you had this problem and have a fix for it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T02:18:21.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"2789f705-7343-4b53-b1df-a5d4590a3191",
+            "UserId":"10965",
+            "CloseReasonId":null,
+            "PostId":"21308",
+            "PostHistoryTypeId":"1",
+            "Id":"59658",
+            "Text":"Poor performance on Wifi compared to 3G"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T02:18:21.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"2789f705-7343-4b53-b1df-a5d4590a3191",
+            "UserId":"10965",
+            "CloseReasonId":null,
+            "PostId":"21308",
+            "PostHistoryTypeId":"3",
+            "Id":"59659",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-04-03T16:27:09.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"22eef3c8-4832-4718-bd7e-9507b29fae72",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21308",
+            "PostHistoryTypeId":"5",
+            "Id":"59743",
+            "Text":"> **Possible Duplicate:**  > [How can I prevent my WiFi connection from glitching?](http:\/\/android.stackexchange.com\/questions\/14162\/how-can-i-prevent-my-wifi-connection-from-glitching)  I have consistent hanging\/speed issues with my Apps when I use WiFi compared to 3G.For instance, last night, I played a move with Word With Friends and the app said \"Sending Move...\".  It sat there for a while so, out of curiosity, I just turned the display off and went to bed.  When I turned the display on that morning, I still saw the \"Sending Move..\" screen.I closed the app, turned off WiFi (thereby enabling 3G) and then loaded WWF.  The move sent instantly.  Other WiFi apps do the same thing; Facebook for instance hangs constantly on WiFi.  Also, there are times I open up the browser and it responds with \"Can't connect\"...even though the icon at the top of my screen says I'm connected to WiFi.  Usually, if I take the battery out, put it back in, let the phone reboot, WiFi resumes back to normal.  However, this is cumbersome.I realize it could be a router issue though I have other devices connected to my router and they work fine 100% of the time. (One of the other devices is my wife's iPhone :P)Is there a way I can pinpoint what the issue is?Or, even better, have you had this problem and have a fix for it?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-04-03T16:27:08.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3627ad1-54f5-4dbd-9019-fab99c5689de",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21308",
+            "PostHistoryTypeId":"10",
+            "Id":"59744",
+            "Text":"{\"OriginalQuestionIds\":[14162],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

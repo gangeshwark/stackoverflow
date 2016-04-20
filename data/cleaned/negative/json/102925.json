@@ -1,0 +1,83 @@
+{
+    "Body":"I have an HTC One E8 and I forgot my password, and for some reason it doesn't have a \"Forgot password?\" option. I need to know how to reset my password. P.S. I do have a Google account. Thanks",
+    "ViewCount":"24",
+    "LastActivityDate":"2015-03-25T15:48:31.837",
+    "ClosedDate":"2015-03-25T16:08:38.610",
+    "Title":"It won't let me reset my password",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-03-25T15:48:31.837",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"98728",
+    "CreationDate":"2015-03-19T00:33:41.997",
+    "FavoriteCount":null,
+    "Id":"102925",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-19T00:33:41.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7543c9f-0cee-46f9-b1b3-a7bbb38b4bdf",
+            "UserId":"98728",
+            "CloseReasonId":null,
+            "PostId":"102925",
+            "PostHistoryTypeId":"2",
+            "Id":"335389",
+            "Text":"I have an HTC One E8 and I forgot my password, and for some reason it doesn't have a \"Forgot password?\" option. I need to know how to reset my password. P.S. I do have a Google account. Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-19T00:33:41.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7543c9f-0cee-46f9-b1b3-a7bbb38b4bdf",
+            "UserId":"98728",
+            "CloseReasonId":null,
+            "PostId":"102925",
+            "PostHistoryTypeId":"1",
+            "Id":"335390",
+            "Text":"It won't let me reset my password"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-19T00:33:41.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7543c9f-0cee-46f9-b1b3-a7bbb38b4bdf",
+            "UserId":"98728",
+            "CloseReasonId":null,
+            "PostId":"102925",
+            "PostHistoryTypeId":"3",
+            "Id":"335391",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-03-25T15:48:31.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"b1ce696e-fae7-4b4a-8638-00365cb73b3d",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"102925",
+            "PostHistoryTypeId":"6",
+            "Id":"337714",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-25T16:08:38.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a37f666-bdb0-4850-b6d2-9455f5bf64b5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"102925",
+            "PostHistoryTypeId":"10",
+            "Id":"337718",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

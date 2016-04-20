@@ -1,0 +1,71 @@
+{
+    "Body":"I have nextbook NX008HI8GI am looking for its own romAbout deviceNextBook NX008HI8GEBM909NP_W",
+    "ViewCount":"10",
+    "LastActivityDate":"2016-03-02T17:58:57.673",
+    "ClosedDate":"2016-03-02T20:41:49.543",
+    "Title":"I am looking for a nextbook rom's",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154246",
+    "CreationDate":"2016-03-02T17:58:57.673",
+    "FavoriteCount":null,
+    "Id":"138649",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T17:58:57.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"8158426f-529e-4b51-885a-1c31810b5723",
+            "UserId":"154246",
+            "CloseReasonId":null,
+            "PostId":"138649",
+            "PostHistoryTypeId":"2",
+            "Id":"463395",
+            "Text":"I have nextbook NX008HI8GI am looking for its own romAbout deviceNextBook NX008HI8GEBM909NP_W"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T17:58:57.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"8158426f-529e-4b51-885a-1c31810b5723",
+            "UserId":"154246",
+            "CloseReasonId":null,
+            "PostId":"138649",
+            "PostHistoryTypeId":"1",
+            "Id":"463396",
+            "Text":"I am looking for a nextbook rom's"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T17:58:57.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"8158426f-529e-4b51-885a-1c31810b5723",
+            "UserId":"154246",
+            "CloseReasonId":null,
+            "PostId":"138649",
+            "PostHistoryTypeId":"3",
+            "Id":"463397",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-02T20:41:49.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6be7591-9373-4504-9a3b-2acedd384fee",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138649",
+            "PostHistoryTypeId":"10",
+            "Id":"463440",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

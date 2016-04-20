@@ -1,0 +1,71 @@
+{
+    "Body":"Memory card is having enough space around 7 GB.then also while downloading apps Google play showing insufficient space. I have tried all the methods like shifting apps from internal storage to memory card,uninstalling futile apps,changing the preferred install location from internal storage to memory card . but then also all in vain. What to do now?? Internal storage is left with a low space around 150 mb.",
+    "ViewCount":"28",
+    "LastActivityDate":"2015-06-01T05:31:28.457",
+    "ClosedDate":"2015-06-01T14:16:11.583",
+    "Title":"have enough space on memory card then also google play showing insufficient memory",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"110944",
+    "CreationDate":"2015-06-01T05:31:28.457",
+    "FavoriteCount":null,
+    "Id":"111019",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T05:31:28.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1fc8adc-1321-4d05-b718-6560f503221b",
+            "UserId":"110944",
+            "CloseReasonId":null,
+            "PostId":"111019",
+            "PostHistoryTypeId":"2",
+            "Id":"362922",
+            "Text":"Memory card is having enough space around 7 GB.then also while downloading apps Google play showing insufficient space. I have tried all the methods like shifting apps from internal storage to memory card,uninstalling futile apps,changing the preferred install location from internal storage to memory card . but then also all in vain. What to do now?? Internal storage is left with a low space around 150 mb."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T05:31:28.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1fc8adc-1321-4d05-b718-6560f503221b",
+            "UserId":"110944",
+            "CloseReasonId":null,
+            "PostId":"111019",
+            "PostHistoryTypeId":"1",
+            "Id":"362923",
+            "Text":"have enough space on memory card then also google play showing insufficient memory"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T05:31:28.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1fc8adc-1321-4d05-b718-6560f503221b",
+            "UserId":"110944",
+            "CloseReasonId":null,
+            "PostId":"111019",
+            "PostHistoryTypeId":"3",
+            "Id":"362924",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-01T14:16:11.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"75a600a1-1c1f-48a7-9bdc-199b54138b41",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111019",
+            "PostHistoryTypeId":"10",
+            "Id":"363117",
+            "Text":"{\"OriginalQuestionIds\":[27083],\"Voters\":[{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

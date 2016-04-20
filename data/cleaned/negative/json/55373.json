@@ -1,0 +1,71 @@
+{
+    "Body":"I have two browsers on my device: Chrome and Firefox. I usually use Firefox, but I have to use Chrome for some sites to work around Firefox bugs. All the same, I get bored of having to choose the browser every time I click a link, when it would be simple to teach the computer which sites I want to use with Chrome.Is there another way to handle links so that I can set up Chrome to open automatically for some websites and Firefox for others, instead of having to choose every time?",
+    "ViewCount":"23",
+    "LastActivityDate":"2013-10-19T13:23:29.810",
+    "ClosedDate":"2013-10-21T22:25:01.223",
+    "Title":"How to always use a particular browser for certain URLs",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12442",
+    "CreationDate":"2013-10-19T13:23:29.810",
+    "FavoriteCount":null,
+    "Id":"55373",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-19T13:23:29.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2c38c98-2b64-4171-8903-e8e625a45ded",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"55373",
+            "PostHistoryTypeId":"2",
+            "Id":"184021",
+            "Text":"I have two browsers on my device: Chrome and Firefox. I usually use Firefox, but I have to use Chrome for some sites to work around Firefox bugs. All the same, I get bored of having to choose the browser every time I click a link, when it would be simple to teach the computer which sites I want to use with Chrome.Is there another way to handle links so that I can set up Chrome to open automatically for some websites and Firefox for others, instead of having to choose every time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-19T13:23:29.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2c38c98-2b64-4171-8903-e8e625a45ded",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"55373",
+            "PostHistoryTypeId":"1",
+            "Id":"184022",
+            "Text":"How to always use a particular browser for certain URLs"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-19T13:23:29.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2c38c98-2b64-4171-8903-e8e625a45ded",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"55373",
+            "PostHistoryTypeId":"3",
+            "Id":"184023",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-21T22:25:01.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"465c2594-10e8-4c22-b869-6c1639a38391",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"55373",
+            "PostHistoryTypeId":"10",
+            "Id":"184510",
+            "Text":"{\"OriginalQuestionIds\":[8674],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

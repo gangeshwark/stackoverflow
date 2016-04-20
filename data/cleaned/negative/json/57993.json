@@ -1,0 +1,71 @@
+{
+    "Body":"The clock on the previous Android had the hour displayed with bold text. Is there any way to get it back?",
+    "ViewCount":"968",
+    "LastActivityDate":"2013-11-30T16:59:42.033",
+    "ClosedDate":"2013-12-01T00:28:12.797",
+    "Title":"How do I get the bold hour back?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47205",
+    "CreationDate":"2013-11-29T22:06:11.820",
+    "FavoriteCount":null,
+    "Id":"57993",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-29T22:06:11.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"905f5b03-7cc5-47b9-9b89-9f6ea39a41bb",
+            "UserId":"47205",
+            "CloseReasonId":null,
+            "PostId":"57993",
+            "PostHistoryTypeId":"2",
+            "Id":"194794",
+            "Text":"The clock on the previous Android had the hour displayed with bold text. Is there any way to get it back?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-29T22:06:11.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"905f5b03-7cc5-47b9-9b89-9f6ea39a41bb",
+            "UserId":"47205",
+            "CloseReasonId":null,
+            "PostId":"57993",
+            "PostHistoryTypeId":"1",
+            "Id":"194795",
+            "Text":"How do I get the bold hour back?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-29T22:06:11.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"905f5b03-7cc5-47b9-9b89-9f6ea39a41bb",
+            "UserId":"47205",
+            "CloseReasonId":null,
+            "PostId":"57993",
+            "PostHistoryTypeId":"3",
+            "Id":"194796",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2013-12-01T00:28:12.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"3d360f03-810c-4806-a4c9-0227179113af",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"57993",
+            "PostHistoryTypeId":"10",
+            "Id":"194996",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

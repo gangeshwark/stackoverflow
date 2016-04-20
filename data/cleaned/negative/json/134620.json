@@ -1,0 +1,71 @@
+{
+    "Body":"I have a phone that has the all the OS requerements to run a Windows. My question is that is this possible without virtualization? I want my Windows to be as main as the android, so when I turn on my phone, I can select what OS to boot to. So I don't want to run the WIndows from the Android.Thank you!",
+    "ViewCount":"17",
+    "LastActivityDate":"2016-01-18T15:05:21.623",
+    "ClosedDate":"2016-01-18T19:13:51.360",
+    "Title":"Is there a way to install Windows or any other OS on an Android phone without virtualization?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"146891",
+    "CreationDate":"2016-01-18T15:05:21.623",
+    "FavoriteCount":null,
+    "Id":"134620",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-18T15:05:21.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2d6f8c1-4a97-495f-9d3c-e8aa472db7f1",
+            "UserId":"146891",
+            "CloseReasonId":null,
+            "PostId":"134620",
+            "PostHistoryTypeId":"2",
+            "Id":"446897",
+            "Text":"I have a phone that has the all the OS requerements to run a Windows. My question is that is this possible without virtualization? I want my Windows to be as main as the android, so when I turn on my phone, I can select what OS to boot to. So I don't want to run the WIndows from the Android.Thank you!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-18T15:05:21.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2d6f8c1-4a97-495f-9d3c-e8aa472db7f1",
+            "UserId":"146891",
+            "CloseReasonId":null,
+            "PostId":"134620",
+            "PostHistoryTypeId":"1",
+            "Id":"446898",
+            "Text":"Is there a way to install Windows or any other OS on an Android phone without virtualization?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-18T15:05:21.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"a2d6f8c1-4a97-495f-9d3c-e8aa472db7f1",
+            "UserId":"146891",
+            "CloseReasonId":null,
+            "PostId":"134620",
+            "PostHistoryTypeId":"3",
+            "Id":"446899",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-18T19:13:51.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3b97798-9b7e-4fbc-bce5-0910c67fc3bc",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"134620",
+            "PostHistoryTypeId":"10",
+            "Id":"446957",
+            "Text":"{\"OriginalQuestionIds\":[123856],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"The default calendar on my HTC Desire has completely disappeared. Not just the events...the entire thing. I don't use a calendar app, and it doesn't sync up with any other calendars. I have tried the \"clear storage\" solution, but nothing worked. Any ideas? Thanks in advance.",
+    "ViewCount":"217",
+    "LastActivityDate":"2012-03-07T04:42:20.790",
+    "ClosedDate":"2012-12-19T19:58:20.987",
+    "Title":"Where did my calendar go?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13201",
+    "CreationDate":"2012-03-07T04:42:20.790",
+    "FavoriteCount":null,
+    "Id":"20362",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-07T04:42:20.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca2f5969-e91b-47c7-a809-99f30494c1cb",
+            "UserId":"13201",
+            "CloseReasonId":null,
+            "PostId":"20362",
+            "PostHistoryTypeId":"2",
+            "Id":"56677",
+            "Text":"The default calendar on my HTC Desire has completely disappeared. Not just the events...the entire thing. I don't use a calendar app, and it doesn't sync up with any other calendars. I have tried the \"clear storage\" solution, but nothing worked. Any ideas? Thanks in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-07T04:42:20.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca2f5969-e91b-47c7-a809-99f30494c1cb",
+            "UserId":"13201",
+            "CloseReasonId":null,
+            "PostId":"20362",
+            "PostHistoryTypeId":"1",
+            "Id":"56678",
+            "Text":"Where did my calendar go?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-07T04:42:20.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca2f5969-e91b-47c7-a809-99f30494c1cb",
+            "UserId":"13201",
+            "CloseReasonId":null,
+            "PostId":"20362",
+            "PostHistoryTypeId":"3",
+            "Id":"56679",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T19:58:20.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"f24278c3-60f9-4e05-ae67-76eca965357d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20362",
+            "PostHistoryTypeId":"10",
+            "Id":"107557",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

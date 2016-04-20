@@ -1,0 +1,71 @@
+{
+    "Body":"Does anyone administer any Android devices as kiosks which you need to be able to monitor remotely?I've been looking for something like TeamViewer for Android. I found there's a Support version which should allow people to connect to the Android device but I am unsure if you can fully control it? i.e load up certain apps, change app settings etc.? I also found Bomgar and AirDroid or something similar.Ideally, I need to know the status of the device (online or offline) and be able to diagnose any problems (or update the settings and apps). We already use SureFox Kiosk Web Browser which works OK (although it's not as responsive as just running the Chrome app)",
+    "ViewCount":"169",
+    "LastActivityDate":"2013-12-28T05:54:22.420",
+    "ClosedDate":"2014-12-16T01:13:29.627",
+    "Title":"Remotely control an Android tablet from a Mac or Windows machine?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8962",
+    "CreationDate":"2013-12-14T11:47:37.683",
+    "FavoriteCount":null,
+    "Id":"58952",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-14T11:47:37.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"a4bc2141-a462-4e34-9ec8-ca7578f7b5df",
+            "UserId":"8962",
+            "CloseReasonId":null,
+            "PostId":"58952",
+            "PostHistoryTypeId":"2",
+            "Id":"198334",
+            "Text":"Does anyone administer any Android devices as kiosks which you need to be able to monitor remotely?I've been looking for something like TeamViewer for Android. I found there's a Support version which should allow people to connect to the Android device but I am unsure if you can fully control it? i.e load up certain apps, change app settings etc.? I also found Bomgar and AirDroid or something similar.Ideally, I need to know the status of the device (online or offline) and be able to diagnose any problems (or update the settings and apps). We already use SureFox Kiosk Web Browser which works OK (although it's not as responsive as just running the Chrome app)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-14T11:47:37.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"a4bc2141-a462-4e34-9ec8-ca7578f7b5df",
+            "UserId":"8962",
+            "CloseReasonId":null,
+            "PostId":"58952",
+            "PostHistoryTypeId":"1",
+            "Id":"198335",
+            "Text":"Remotely control an Android tablet from a Mac or Windows machine?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-14T11:47:37.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"a4bc2141-a462-4e34-9ec8-ca7578f7b5df",
+            "UserId":"8962",
+            "CloseReasonId":null,
+            "PostId":"58952",
+            "PostHistoryTypeId":"3",
+            "Id":"198336",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-16T01:13:29.627",
+            "UserDisplayName":null,
+            "RevisionGUID":"c99a7021-e47b-40cb-9741-f356537bf557",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"58952",
+            "PostHistoryTypeId":"10",
+            "Id":"300689",
+            "Text":"{\"OriginalQuestionIds\":[1931],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

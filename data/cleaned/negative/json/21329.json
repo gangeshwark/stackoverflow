@@ -1,0 +1,71 @@
+{
+    "Body":"I've tried to search the internet for the answer and got no luck yet.I need to develop an application that will be used on tablets that meant for this one purpose only, and thus, I need to find a way to either lock or disable the bottom system bar. The tablets I will use are running Android 3.2 system.I saw a couple of options to achieve that on rooted devices, but, then I saw that some applications have managed to lock the bottom bar without rooting the device first. For example \"MX Player\" application on android market.Could someone point me to the right direction please?Thanks in advance, Danny",
+    "ViewCount":"487",
+    "LastActivityDate":"2012-04-03T13:53:04.067",
+    "ClosedDate":"2012-04-03T16:11:39.977",
+    "Title":"Hiding\/Locking bottom bar on android 3.2",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13941",
+    "CreationDate":"2012-04-03T13:53:04.067",
+    "FavoriteCount":null,
+    "Id":"21329",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T13:53:04.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7f095cf-d8b1-4f92-91d5-01268d9df91f",
+            "UserId":"13941",
+            "CloseReasonId":null,
+            "PostId":"21329",
+            "PostHistoryTypeId":"2",
+            "Id":"59705",
+            "Text":"I've tried to search the internet for the answer and got no luck yet.I need to develop an application that will be used on tablets that meant for this one purpose only, and thus, I need to find a way to either lock or disable the bottom system bar. The tablets I will use are running Android 3.2 system.I saw a couple of options to achieve that on rooted devices, but, then I saw that some applications have managed to lock the bottom bar without rooting the device first. For example \"MX Player\" application on android market.Could someone point me to the right direction please?Thanks in advance, Danny"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T13:53:04.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7f095cf-d8b1-4f92-91d5-01268d9df91f",
+            "UserId":"13941",
+            "CloseReasonId":null,
+            "PostId":"21329",
+            "PostHistoryTypeId":"1",
+            "Id":"59706",
+            "Text":"Hiding\/Locking bottom bar on android 3.2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-03T13:53:04.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7f095cf-d8b1-4f92-91d5-01268d9df91f",
+            "UserId":"13941",
+            "CloseReasonId":null,
+            "PostId":"21329",
+            "PostHistoryTypeId":"3",
+            "Id":"59707",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-04-03T16:11:39.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf03086e-d9a7-4d65-9bdd-6df83b08ce9d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21329",
+            "PostHistoryTypeId":"10",
+            "Id":"59739",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

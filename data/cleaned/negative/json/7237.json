@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is it somehow possible to change the format of a telephone number being displayed ?  In Brazil, phone numbers have two digits for the area code and eight for the phone number. Moreover, the carrier sends the caller ID with a leading zero, so that's how I store phone numbers. Example: 02155557777 for the Rio (21) number 5555-7777.Before I updated from 2.1 to Froyo, numbers were presented with no hyphens. Now, the phone hyphenates them all. But it assumes a US standard, so it comes like 021-555-57777.Moreover, when I'm dialing local (i.e. 8 digits), say, 5555-2222, it shows as 555-222-22.Is there any way I can change that? Either positioning the hyphens correctly, or getting rid of the hyphens altogether?",
+    "ViewCount":"646",
+    "LastActivityDate":"2011-03-23T21:12:47.913",
+    "ClosedDate":"2011-03-28T12:07:36.387",
+    "Title":"Is it possible to change how Froyo hyphenates phone numbers?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"7357",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3251",
+    "CreationDate":"2011-03-21T21:41:40.633",
+    "FavoriteCount":null,
+    "Id":"7237",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T21:41:40.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"90436507-925d-4e0e-8de6-1a7d93d2b08b",
+            "UserId":"3251",
+            "CloseReasonId":null,
+            "PostId":"7237",
+            "PostHistoryTypeId":"2",
+            "Id":"16808",
+            "Text":"In Brazil, phone numbers have two digits for the area code and eight for the phone number. Moreover, the carrier sends the caller ID with a leading zero, so that's how I store phone numbers. Example: 02155557777 for the Rio (21) number 5555-7777.Before I updated from 2.1 to Froyo, numbers were presented with no hyphens. Now, the phone hyphenates them all. But it assumes a US standard, so it comes like 021-555-57777.Moreover, when I'm dialing local (i.e. 8 digits), say, 5555-2222, it shows as 555-222-22.Is there any way I can change that? Either positioning the hyphens correctly, or getting rid of the hyphens altogether?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T21:41:40.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"90436507-925d-4e0e-8de6-1a7d93d2b08b",
+            "UserId":"3251",
+            "CloseReasonId":null,
+            "PostId":"7237",
+            "PostHistoryTypeId":"1",
+            "Id":"16809",
+            "Text":"Is it possible to change how Froyo hyphenates phone numbers?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T21:41:40.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"90436507-925d-4e0e-8de6-1a7d93d2b08b",
+            "UserId":"3251",
+            "CloseReasonId":null,
+            "PostId":"7237",
+            "PostHistoryTypeId":"3",
+            "Id":"16810",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-03-28T12:07:36.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1a46384-680e-430c-bc0b-f1e021856fc5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"7237",
+            "PostHistoryTypeId":"5",
+            "Id":"17858",
+            "Text":"> **Possible Duplicate:**  > [Is it somehow possible to change the format of a telephone number being displayed ?](http:\/\/android.stackexchange.com\/questions\/3527\/is-it-somehow-possible-to-change-the-format-of-a-telephone-number-being-displayed)  In Brazil, phone numbers have two digits for the area code and eight for the phone number. Moreover, the carrier sends the caller ID with a leading zero, so that's how I store phone numbers. Example: 02155557777 for the Rio (21) number 5555-7777.Before I updated from 2.1 to Froyo, numbers were presented with no hyphens. Now, the phone hyphenates them all. But it assumes a US standard, so it comes like 021-555-57777.Moreover, when I'm dialing local (i.e. 8 digits), say, 5555-2222, it shows as 555-222-22.Is there any way I can change that? Either positioning the hyphens correctly, or getting rid of the hyphens altogether?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-03-28T12:07:36.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"7751be36-120d-4451-a08c-9bcae384e257",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"7237",
+            "PostHistoryTypeId":"10",
+            "Id":"17859",
+            "Text":"{\"OriginalQuestionIds\":[3527],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

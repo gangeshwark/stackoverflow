@@ -1,0 +1,83 @@
+{
+    "Body":"I've noticed that for the last couple of days any time I open or refresh the Google Reader app (the official one from Google) it marks the last 200+ items that are in my feed as Unread (which it then syncs out to my account! So viewing them online shows the same unread count), and seemingly refuses to sync out which articles I have read (though it does seem to sync starred articles correctly.) I've made sure that syncing is turned on, but this doesn't seem to affect it one way or another. Any idea's for how to fix this behavior? Anyone else seeing it too?Beyond that, I'd be open to suggestions for an alternate reader app. My wishlist is for one that allows me to easily star an article from the list, only shows me unread articles unless otherwise requested (sorry, Pulse) and preferably has a widget that notifies me when there are unread items.  ",
+    "ViewCount":"85",
+    "LastActivityDate":"2011-02-13T17:01:48.280",
+    "ClosedDate":"2014-09-09T18:06:44.630",
+    "Title":"Google Reader is \"de-syncing\"",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"5922",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2892",
+    "CreationDate":"2011-02-13T16:21:36.953",
+    "FavoriteCount":null,
+    "Id":"5921",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-02-13T16:21:36.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f4f3aab-5530-4a46-92d1-f8833e3b6f98",
+            "UserId":"2892",
+            "CloseReasonId":null,
+            "PostId":"5921",
+            "PostHistoryTypeId":"2",
+            "Id":"13241",
+            "Text":"I've noticed that for the last couple of days any time I open or refresh the Google Reader app (the official one from Google) it marks the last 200+ items that are in my feed as Unread (which it then syncs out to my account! So viewing them online shows the same unread count), and seemingly refuses to sync out which articles I have read (though it does seem to sync starred articles correctly.) I've made sure that syncing is turned on, but this doesn't seem to affect it one way or another. Any idea's for how to fix this behavior? Anyone else seeing it too?Beyond that, I'd be open to suggestions for an alternate reader app. My wishlist is for one that allows me to easily star an article from the list, only shows me unread articles unless otherwise requested (sorry, Pulse) and preferably has a widget that notifies me when there are unread items.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-02-13T16:21:36.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f4f3aab-5530-4a46-92d1-f8833e3b6f98",
+            "UserId":"2892",
+            "CloseReasonId":null,
+            "PostId":"5921",
+            "PostHistoryTypeId":"1",
+            "Id":"13242",
+            "Text":"Google Reader is \"de-syncing\""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-02-13T16:21:36.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f4f3aab-5530-4a46-92d1-f8833e3b6f98",
+            "UserId":"2892",
+            "CloseReasonId":null,
+            "PostId":"5921",
+            "PostHistoryTypeId":"3",
+            "Id":"13243",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/36837696525565952",
+            "CreationDate":"2011-02-13T17:22:46.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7fe85e3-5d35-4f94-b61a-9be5b4aa0bea",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"5921",
+            "PostHistoryTypeId":"25",
+            "Id":"13246",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-09-09T18:06:44.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ad9a0e5-d644-4b26-a7ff-bae0c44e5076",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"5921",
+            "PostHistoryTypeId":"10",
+            "Id":"269499",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

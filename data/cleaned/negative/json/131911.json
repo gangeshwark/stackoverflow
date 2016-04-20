@@ -1,0 +1,71 @@
+{
+    "Body":"Some providers offer a \"data only\" sim card. Do these types of sim cards have a phone number assigned to them? If yes, what happens if a dial out is attempted of if there's an incoming call?",
+    "ViewCount":"232",
+    "LastActivityDate":"2015-12-18T23:55:11.803",
+    "ClosedDate":"2015-12-19T03:17:27.730",
+    "Title":"Do data-only SIM cards have a phone number assigned to them?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"72924",
+    "CreationDate":"2015-12-18T20:55:12.923",
+    "FavoriteCount":null,
+    "Id":"131911",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-18T20:55:12.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e34f4df-3a82-4247-a8e7-25263a21c798",
+            "UserId":"72924",
+            "CloseReasonId":null,
+            "PostId":"131911",
+            "PostHistoryTypeId":"2",
+            "Id":"436031",
+            "Text":"Some providers offer a \"data only\" sim card. Do these types of sim cards have a phone number assigned to them? If yes, what happens if a dial out is attempted of if there's an incoming call?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-18T20:55:12.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e34f4df-3a82-4247-a8e7-25263a21c798",
+            "UserId":"72924",
+            "CloseReasonId":null,
+            "PostId":"131911",
+            "PostHistoryTypeId":"1",
+            "Id":"436032",
+            "Text":"Do data-only SIM cards have a phone number assigned to them?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-18T20:55:12.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e34f4df-3a82-4247-a8e7-25263a21c798",
+            "UserId":"72924",
+            "CloseReasonId":null,
+            "PostId":"131911",
+            "PostHistoryTypeId":"3",
+            "Id":"436033",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-12-19T03:17:27.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"d53f0d2a-264e-4a66-b413-6ce38753b9c9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"131911",
+            "PostHistoryTypeId":"10",
+            "Id":"436254",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"When a text message comes in, the stock email app throws a copy into my Exchange email accounts that are on the phone. I want to turn this feature off but cannot find a setting for it anywhere. I have a Galaxy note 5",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-10-13T20:47:12.693",
+    "ClosedDate":"2015-10-13T20:57:27.603",
+    "Title":"email, text message",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131858",
+    "CreationDate":"2015-10-13T20:47:12.693",
+    "FavoriteCount":null,
+    "Id":"125861",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-13T20:47:12.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fcc22e5-f8d0-4e7a-8e38-f7e18a2340c7",
+            "UserId":"131858",
+            "CloseReasonId":null,
+            "PostId":"125861",
+            "PostHistoryTypeId":"2",
+            "Id":"412728",
+            "Text":"When a text message comes in, the stock email app throws a copy into my Exchange email accounts that are on the phone. I want to turn this feature off but cannot find a setting for it anywhere. I have a Galaxy note 5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-13T20:47:12.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fcc22e5-f8d0-4e7a-8e38-f7e18a2340c7",
+            "UserId":"131858",
+            "CloseReasonId":null,
+            "PostId":"125861",
+            "PostHistoryTypeId":"1",
+            "Id":"412729",
+            "Text":"email, text message"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-13T20:47:12.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fcc22e5-f8d0-4e7a-8e38-f7e18a2340c7",
+            "UserId":"131858",
+            "CloseReasonId":null,
+            "PostId":"125861",
+            "PostHistoryTypeId":"3",
+            "Id":"412730",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-13T20:57:27.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"73a9000d-7f86-41a5-a97b-3653221235a1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"125861",
+            "PostHistoryTypeId":"10",
+            "Id":"412735",
+            "Text":"{\"OriginalQuestionIds\":[113110],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"In Lollipop the volume buttons seem to be context sensitive.  In some apps the volume buttons adjust ringer volume, while in others it adjusts app volume.  This usually works well, but I often want to turn app volume down before I open an app with sound to avoid disturbing those around me.  Is there a way to force the application volume down without being in a \"app volume context\" for lack of a better word?",
+    "ViewCount":"850",
+    "LastActivityDate":"2015-01-12T18:10:36.480",
+    "ClosedDate":"2015-10-08T11:59:16.590",
+    "Title":"Turn down app volume in Lollipop while not in app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22703",
+    "CreationDate":"2015-01-12T16:16:38.710",
+    "FavoriteCount":null,
+    "Id":"95665",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-12T16:16:38.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"38e8093f-82fa-40e0-ba7f-96589187fd12",
+            "UserId":"22703",
+            "CloseReasonId":null,
+            "PostId":"95665",
+            "PostHistoryTypeId":"2",
+            "Id":"311450",
+            "Text":"In Lollipop the volume buttons seem to be context sensitive.  In some apps the volume buttons adjust ringer volume, while in others it adjusts app volume.  This usually works well, but I often want to turn app volume down before I open an app with sound to avoid disturbing those around me.  Is there a way to force the application volume down without being in a \"app volume context\" for lack of a better word?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-12T16:16:38.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"38e8093f-82fa-40e0-ba7f-96589187fd12",
+            "UserId":"22703",
+            "CloseReasonId":null,
+            "PostId":"95665",
+            "PostHistoryTypeId":"1",
+            "Id":"311451",
+            "Text":"Turn down app volume in Lollipop while not in app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-12T16:16:38.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"38e8093f-82fa-40e0-ba7f-96589187fd12",
+            "UserId":"22703",
+            "CloseReasonId":null,
+            "PostId":"95665",
+            "PostHistoryTypeId":"3",
+            "Id":"311452",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-08T11:59:16.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"8a7fab72-352a-40f2-ac5e-cd9ec4e91d28",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"95665",
+            "PostHistoryTypeId":"10",
+            "Id":"410661",
+            "Text":"{\"OriginalQuestionIds\":[9815],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

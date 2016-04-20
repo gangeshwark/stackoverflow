@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I backup and restore SMS Messages?  Is there a way to easily transfer my SMS messages to my new phone if both are Android?",
+    "ViewCount":"19190",
+    "LastActivityDate":"2011-08-23T01:15:01.867",
+    "ClosedDate":"2011-08-23T02:15:01.363",
+    "Title":"Transfer SMS messages from Android to new Android phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"12704",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"366",
+    "CreationDate":"2011-08-23T00:09:53.263",
+    "FavoriteCount":null,
+    "Id":"12703",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-23T00:09:53.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"a68360be-3be9-46c2-a517-68a5a406bbcd",
+            "UserId":"366",
+            "CloseReasonId":null,
+            "PostId":"12703",
+            "PostHistoryTypeId":"2",
+            "Id":"32701",
+            "Text":"Is there a way to easily transfer my SMS messages to my new phone if both are Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-23T00:09:53.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"a68360be-3be9-46c2-a517-68a5a406bbcd",
+            "UserId":"366",
+            "CloseReasonId":null,
+            "PostId":"12703",
+            "PostHistoryTypeId":"1",
+            "Id":"32702",
+            "Text":"Transfer SMS messages from Android to new Android phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-08-23T00:09:53.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"a68360be-3be9-46c2-a517-68a5a406bbcd",
+            "UserId":"366",
+            "CloseReasonId":null,
+            "PostId":"12703",
+            "PostHistoryTypeId":"3",
+            "Id":"32703",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-08-23T02:15:01.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"03dda29d-61a8-4387-95e0-0e357ad2077d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"12703",
+            "PostHistoryTypeId":"5",
+            "Id":"32711",
+            "Text":"> **Possible Duplicate:**  > [How do I backup and restore SMS Messages?](http:\/\/android.stackexchange.com\/questions\/2466\/how-do-i-backup-and-restore-sms-messages)  Is there a way to easily transfer my SMS messages to my new phone if both are Android?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-08-23T02:15:01.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab4235a6-6e98-4bba-bbd4-c15688c0c067",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"12703",
+            "PostHistoryTypeId":"10",
+            "Id":"32712",
+            "Text":"{\"OriginalQuestionIds\":[2466],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

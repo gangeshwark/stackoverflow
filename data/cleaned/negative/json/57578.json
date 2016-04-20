@@ -1,0 +1,71 @@
+{
+    "Body":"I can't find the path of SMS database files in android os.where is the right path for SMS database files?I already tried these values and these values are not right:\/data\/data\/com.jb.gosms\/databases\/gommssms.db\/data\/data\/com.android.providers.telephony\/databases\/mmssms.db",
+    "ViewCount":"14",
+    "LastActivityDate":"2013-11-23T12:01:12.870",
+    "ClosedDate":"2013-11-23T16:48:28.640",
+    "Title":"Android SMS path",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46769",
+    "CreationDate":"2013-11-23T12:01:12.870",
+    "FavoriteCount":"0",
+    "Id":"57578",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-23T12:01:12.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"642183b5-ed6f-4cc6-97bb-05a9b43e4702",
+            "UserId":"46769",
+            "CloseReasonId":null,
+            "PostId":"57578",
+            "PostHistoryTypeId":"2",
+            "Id":"193275",
+            "Text":"I can't find the path of SMS database files in android os.where is the right path for SMS database files?I already tried these values and these values are not right:    \/data\/data\/com.jb.gosms\/databases\/gommssms.db    \/data\/data\/com.android.providers.telephony\/databases\/mmssms.db"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-23T12:01:12.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"642183b5-ed6f-4cc6-97bb-05a9b43e4702",
+            "UserId":"46769",
+            "CloseReasonId":null,
+            "PostId":"57578",
+            "PostHistoryTypeId":"1",
+            "Id":"193276",
+            "Text":"Android SMS path"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-23T12:01:12.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"642183b5-ed6f-4cc6-97bb-05a9b43e4702",
+            "UserId":"46769",
+            "CloseReasonId":null,
+            "PostId":"57578",
+            "PostHistoryTypeId":"3",
+            "Id":"193277",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-23T16:48:28.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"e1e06d35-36d9-4c8a-b316-45e19bb16a1d",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"57578",
+            "PostHistoryTypeId":"10",
+            "Id":"193357",
+            "Text":"{\"OriginalQuestionIds\":[16915],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

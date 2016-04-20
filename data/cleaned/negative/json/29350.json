@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I install an app given only its APK file?  I'm thinking abount getting a smartphone, mainly for tinkering with it. On iOS, in order to install your own code, you need to either root the device, or buy into Apple's developer program. What's the current state of things in the Android world? I see the SDK and developer documentation are readily available, but people talk about Kindle's Fire and Google's Nexus as closed systems.",
+    "ViewCount":"73",
+    "LastActivityDate":"2012-09-14T07:18:56.747",
+    "ClosedDate":"2012-09-14T11:13:10.907",
+    "Title":"Install your own software",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"19222",
+    "CreationDate":"2012-09-14T06:21:29.960",
+    "FavoriteCount":null,
+    "Id":"29350",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-14T06:21:29.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"b99ab954-e6ef-4e7c-bed9-96b9036759a0",
+            "UserId":"19222",
+            "CloseReasonId":null,
+            "PostId":"29350",
+            "PostHistoryTypeId":"2",
+            "Id":"86190",
+            "Text":"I'm thinking abount getting a smartphone, mainly for tinkering with it. On iOS, in order to install your own code, you need to either root the device, or buy into Apple's developer program. What's the current state of things in the Android world? I see the SDK and developer documentation are readily available, but people talk about Kindle's Fire and Google's Nexus as closed systems."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-14T06:21:29.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"b99ab954-e6ef-4e7c-bed9-96b9036759a0",
+            "UserId":"19222",
+            "CloseReasonId":null,
+            "PostId":"29350",
+            "PostHistoryTypeId":"1",
+            "Id":"86191",
+            "Text":"Install your own software"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-14T06:21:29.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"b99ab954-e6ef-4e7c-bed9-96b9036759a0",
+            "UserId":"19222",
+            "CloseReasonId":null,
+            "PostId":"29350",
+            "PostHistoryTypeId":"3",
+            "Id":"86192",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-14T11:13:10.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"95c823a7-44c2-4d59-b574-caa3549a7b39",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29350",
+            "PostHistoryTypeId":"5",
+            "Id":"86245",
+            "Text":"> **Possible Duplicate:**  > [How can I install an app given only its APK file?](http:\/\/android.stackexchange.com\/questions\/5566\/how-can-i-install-an-app-given-only-its-apk-file)  I'm thinking abount getting a smartphone, mainly for tinkering with it. On iOS, in order to install your own code, you need to either root the device, or buy into Apple's developer program. What's the current state of things in the Android world? I see the SDK and developer documentation are readily available, but people talk about Kindle's Fire and Google's Nexus as closed systems."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-14T11:13:10.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"d43f9b05-8bca-46be-85ab-ab50dc42b335",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29350",
+            "PostHistoryTypeId":"10",
+            "Id":"86246",
+            "Text":"{\"OriginalQuestionIds\":[5566],\"Voters\":[{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":1250,\"DisplayName\":\"Sparx\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

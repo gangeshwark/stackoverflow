@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I reliably screen or block callers on a number-by-number basis?  I'm receiving calls from call-center companies that wan't to offer me services that I don't want. I already ask them to stop calling but they keep trying.. Can I configure my 2.2 Android Phone(Galaxy 551) to block the incomming calls from certain numbers?",
+    "ViewCount":"4176",
+    "LastActivityDate":"2011-11-11T18:33:03.707",
+    "ClosedDate":"2011-11-11T20:29:42.883",
+    "Title":"Can I configure my Android Phone to block certain numbers calls?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"15536",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5208",
+    "CreationDate":"2011-11-11T15:26:07.407",
+    "FavoriteCount":null,
+    "Id":"15533",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-11T15:26:07.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"b07073c8-dfaa-4ea4-862a-852e72d61a78",
+            "UserId":"5208",
+            "CloseReasonId":null,
+            "PostId":"15533",
+            "PostHistoryTypeId":"2",
+            "Id":"41702",
+            "Text":"I'm receiving calls from call-center companies that wan't to offer me services that I don't want. I already ask them to stop calling but they keep trying.. Can I configure my 2.2 Android Phone(Galaxy 551) to block the incomming calls from certain numbers?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-11T15:26:07.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"b07073c8-dfaa-4ea4-862a-852e72d61a78",
+            "UserId":"5208",
+            "CloseReasonId":null,
+            "PostId":"15533",
+            "PostHistoryTypeId":"1",
+            "Id":"41703",
+            "Text":"Can I configure my Android Phone to block certain numbers calls?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-11T15:26:07.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"b07073c8-dfaa-4ea4-862a-852e72d61a78",
+            "UserId":"5208",
+            "CloseReasonId":null,
+            "PostId":"15533",
+            "PostHistoryTypeId":"3",
+            "Id":"41704",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-11-11T20:29:44.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3150f99-9a52-48b4-b51b-cb1d7d557ec7",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"15533",
+            "PostHistoryTypeId":"5",
+            "Id":"41751",
+            "Text":"> **Possible Duplicate:**  > [How can I reliably screen or block callers on a number-by-number basis?](http:\/\/android.stackexchange.com\/questions\/9977\/how-can-i-reliably-screen-or-block-callers-on-a-number-by-number-basis)  I'm receiving calls from call-center companies that wan't to offer me services that I don't want. I already ask them to stop calling but they keep trying.. Can I configure my 2.2 Android Phone(Galaxy 551) to block the incomming calls from certain numbers?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-11-11T20:29:42.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"875ac5c2-915e-4c64-a04e-f91388b56891",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"15533",
+            "PostHistoryTypeId":"10",
+            "Id":"41752",
+            "Text":"{\"OriginalQuestionIds\":[9977],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

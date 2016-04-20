@@ -1,0 +1,71 @@
+{
+    "Body":"when I started the game, I went in the 'You' option to change my name but it didn't give any option for changing profile name. Now that I have discovered that I need to link accounts, can I login my Facebook account without any loss to my current career?",
+    "ViewCount":"66",
+    "LastActivityDate":"2015-09-07T05:42:20.623",
+    "ClosedDate":"2016-02-27T01:08:20.903",
+    "Title":"Connection of Asphalt 8 with Facebook account without loss of current stats",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"126388",
+    "CreationDate":"2015-09-07T05:42:20.623",
+    "FavoriteCount":null,
+    "Id":"122412",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-07T05:42:20.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5d3d4a3-f388-40c6-8268-a95b3385c6b6",
+            "UserId":"126388",
+            "CloseReasonId":null,
+            "PostId":"122412",
+            "PostHistoryTypeId":"2",
+            "Id":"399452",
+            "Text":"when I started the game, I went in the 'You' option to change my name but it didn't give any option for changing profile name. Now that I have discovered that I need to link accounts, can I login my Facebook account without any loss to my current career?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-07T05:42:20.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5d3d4a3-f388-40c6-8268-a95b3385c6b6",
+            "UserId":"126388",
+            "CloseReasonId":null,
+            "PostId":"122412",
+            "PostHistoryTypeId":"1",
+            "Id":"399453",
+            "Text":"Connection of Asphalt 8 with Facebook account without loss of current stats"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-07T05:42:20.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5d3d4a3-f388-40c6-8268-a95b3385c6b6",
+            "UserId":"126388",
+            "CloseReasonId":null,
+            "PostId":"122412",
+            "PostHistoryTypeId":"3",
+            "Id":"399454",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T01:08:20.903",
+            "UserDisplayName":null,
+            "RevisionGUID":"6df829bb-3842-4e0b-be36-1d390ce14432",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"122412",
+            "PostHistoryTypeId":"10",
+            "Id":"461561",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

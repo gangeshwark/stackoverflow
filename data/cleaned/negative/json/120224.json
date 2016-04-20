@@ -1,0 +1,71 @@
+{
+    "Body":"My phones play store is not connecting to internet it shows connection error.... and some of the app is not connecting to internet. I think factory reset may solve this problem but I have rooted my phone and then unrooted. what will happened if I reset my phone?   device name : Intex Aqua Q5 (released recently) currently no firmwares available on the internet.  Android Version : 4.4 kitkat",
+    "ViewCount":"45",
+    "LastActivityDate":"2015-08-26T00:33:52.490",
+    "ClosedDate":"2015-09-24T02:14:12.880",
+    "Title":"is there any problem if i reset my unrooted andoif mobile that is previously rooted?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"123640",
+    "CreationDate":"2015-08-25T06:50:03.267",
+    "FavoriteCount":null,
+    "Id":"120224",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-25T06:50:03.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e6016cc-7c43-4064-b0a7-0a7b91e6e5c5",
+            "UserId":"123640",
+            "CloseReasonId":null,
+            "PostId":"120224",
+            "PostHistoryTypeId":"2",
+            "Id":"394083",
+            "Text":"My phones play store is not connecting to internet it shows connection error.... and some of the app is not connecting to internet. I think factory reset may solve this problem but I have rooted my phone and then unrooted. what will happened if I reset my phone?   device name : Intex Aqua Q5 (released recently) currently no firmwares available on the internet.  Android Version : 4.4 kitkat"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-25T06:50:03.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e6016cc-7c43-4064-b0a7-0a7b91e6e5c5",
+            "UserId":"123640",
+            "CloseReasonId":null,
+            "PostId":"120224",
+            "PostHistoryTypeId":"1",
+            "Id":"394084",
+            "Text":"is there any problem if i reset my unrooted andoif mobile that is previously rooted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-25T06:50:03.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e6016cc-7c43-4064-b0a7-0a7b91e6e5c5",
+            "UserId":"123640",
+            "CloseReasonId":null,
+            "PostId":"120224",
+            "PostHistoryTypeId":"3",
+            "Id":"394085",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-24T02:14:12.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"4854b004-464a-4e2a-ab9d-42dd02e7c28a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"120224",
+            "PostHistoryTypeId":"10",
+            "Id":"405449",
+            "Text":"{\"OriginalQuestionIds\":[46482],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

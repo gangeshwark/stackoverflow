@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my phone get the Android 2.2 update (FroYo)?  I have a Samsung Galaxy 5 I5503 running Android 2.1. Does Android 2.2 is available for my device? If yes, How can I update the firmware and what should I do first before upgrading it? Thanks.",
+    "ViewCount":"11845",
+    "LastActivityDate":"2010-12-20T13:43:41.480",
+    "ClosedDate":"2010-12-20T13:48:29.787",
+    "Title":"Upgrade Samsung Galaxy 5 I5503 into Android 2.2",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1270",
+    "CreationDate":"2010-12-20T13:43:41.480",
+    "FavoriteCount":null,
+    "Id":"3872",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-20T13:43:41.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"1904b402-e681-4105-b894-c85069a67c09",
+            "UserId":"1270",
+            "CloseReasonId":null,
+            "PostId":"3872",
+            "PostHistoryTypeId":"2",
+            "Id":"7976",
+            "Text":"I have a Samsung Galaxy 5 I5503 running Android 2.1. Does Android 2.2 is available for my device? If yes, How can I update the firmware and what should I do first before upgrading it? Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-20T13:43:41.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"1904b402-e681-4105-b894-c85069a67c09",
+            "UserId":"1270",
+            "CloseReasonId":null,
+            "PostId":"3872",
+            "PostHistoryTypeId":"1",
+            "Id":"7977",
+            "Text":"Upgrade Samsung Galaxy 5 I5503 into Android 2.2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-20T13:43:41.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"1904b402-e681-4105-b894-c85069a67c09",
+            "UserId":"1270",
+            "CloseReasonId":null,
+            "PostId":"3872",
+            "PostHistoryTypeId":"3",
+            "Id":"7978",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-20T13:48:29.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"896b74bb-8e4c-4d9f-ba2b-f55f77c2b804",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"3872",
+            "PostHistoryTypeId":"10",
+            "Id":"7981",
+            "Text":"{\"OriginalQuestionIds\":[2696],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-20T13:48:29.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"5177b701-d8e4-4bbf-8a8c-c909b5ad55d9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3872",
+            "PostHistoryTypeId":"5",
+            "Id":"7982",
+            "Text":"> **Possible Duplicate:**  > [When will my phone get the Android 2.2 update (FroYo)?](http:\/\/android.stackexchange.com\/questions\/2696\/when-will-my-phone-get-the-android-2-2-update-froyo)  I have a Samsung Galaxy 5 I5503 running Android 2.1. Does Android 2.2 is available for my device? If yes, How can I update the firmware and what should I do first before upgrading it? Thanks."
+        }
+    ]
+}

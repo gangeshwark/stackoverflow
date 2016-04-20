@@ -1,0 +1,71 @@
+{
+    "Body":"When sychronising, all the emails i moved to archive on my pc disappear from my Galaxy S3 inbox. I had a Blackberry previously and it would retain all emails received for a set period, 4 weeks in my case, regardless of what i did on the pc. Is there anyway to set the Galaxy S3 to retain all incoming emails ?",
+    "ViewCount":"2190",
+    "LastActivityDate":"2012-09-11T18:43:10.323",
+    "ClosedDate":"2012-09-20T15:31:24.400",
+    "Title":"How do keep all my inbox received emails on my Galaxy 3",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"19114",
+    "CreationDate":"2012-09-11T11:28:36.017",
+    "FavoriteCount":"1",
+    "Id":"29157",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-11T11:28:36.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"448094a9-a80e-46d7-9e42-02de19967618",
+            "UserId":"19114",
+            "CloseReasonId":null,
+            "PostId":"29157",
+            "PostHistoryTypeId":"2",
+            "Id":"85503",
+            "Text":"When sychronising, all the emails i moved to archive on my pc disappear from my Galaxy S3 inbox. I had a Blackberry previously and it would retain all emails received for a set period, 4 weeks in my case, regardless of what i did on the pc. Is there anyway to set the Galaxy S3 to retain all incoming emails ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-11T11:28:36.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"448094a9-a80e-46d7-9e42-02de19967618",
+            "UserId":"19114",
+            "CloseReasonId":null,
+            "PostId":"29157",
+            "PostHistoryTypeId":"1",
+            "Id":"85504",
+            "Text":"How do keep all my inbox received emails on my Galaxy 3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-11T11:28:36.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"448094a9-a80e-46d7-9e42-02de19967618",
+            "UserId":"19114",
+            "CloseReasonId":null,
+            "PostId":"29157",
+            "PostHistoryTypeId":"3",
+            "Id":"85505",
+            "Text":""
+        },
+        {
+            "Comment":"4",
+            "CreationDate":"2012-09-20T15:31:24.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"168cfec7-05c0-47c2-a659-cecfc926e460",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29157",
+            "PostHistoryTypeId":"10",
+            "Id":"88490",
+            "Text":"{\"Voters\":[{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

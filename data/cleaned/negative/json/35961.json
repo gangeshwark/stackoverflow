@@ -1,0 +1,71 @@
+{
+    "Body":"I have a new HTC Desire running Froyo, and I found the built in Polish keyboard\/dictionary to be absolutely appalling, a lot of basic words seem to be missing. The auto correct feature works worse than my fiddly typing. How can I fix it?",
+    "ViewCount":"226",
+    "LastActivityDate":"2012-12-22T14:57:13.323",
+    "ClosedDate":"2012-12-23T11:40:04.213",
+    "Title":"Polish keyboard\/dictionary",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4345",
+    "CreationDate":"2012-12-22T14:57:13.323",
+    "FavoriteCount":null,
+    "Id":"35961",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-22T14:57:13.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8868766-b21a-4ff2-8a66-893e589d9bcd",
+            "UserId":"4345",
+            "CloseReasonId":null,
+            "PostId":"35961",
+            "PostHistoryTypeId":"2",
+            "Id":"108297",
+            "Text":"I have a new HTC Desire running Froyo, and I found the built in Polish keyboard\/dictionary to be absolutely appalling, a lot of basic words seem to be missing. The auto correct feature works worse than my fiddly typing. How can I fix it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-22T14:57:13.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8868766-b21a-4ff2-8a66-893e589d9bcd",
+            "UserId":"4345",
+            "CloseReasonId":null,
+            "PostId":"35961",
+            "PostHistoryTypeId":"1",
+            "Id":"108298",
+            "Text":"Polish keyboard\/dictionary"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-22T14:57:13.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8868766-b21a-4ff2-8a66-893e589d9bcd",
+            "UserId":"4345",
+            "CloseReasonId":null,
+            "PostId":"35961",
+            "PostHistoryTypeId":"3",
+            "Id":"108299",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T11:40:04.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee0d195a-adfb-4242-901f-d8b472dce3ff",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"35961",
+            "PostHistoryTypeId":"10",
+            "Id":"108452",
+            "Text":"{\"Voters\":[{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

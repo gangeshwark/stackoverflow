@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Does any version of Android support ad-hoc connections?  Which versions of Android do support Ad-Hoc (peer-to-peer) Wi-Fi? Or neither? Where to read about it? May be some table somewhere?P.S. I mean without rooting.",
+    "ViewCount":"25",
+    "LastActivityDate":"2013-01-08T11:39:26.300",
+    "ClosedDate":"2013-01-08T14:52:26.010",
+    "Title":"Android Ad-Hoc Wi-Fi support",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13785",
+    "CreationDate":"2013-01-08T11:39:26.300",
+    "FavoriteCount":null,
+    "Id":"37142",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-08T11:39:26.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"caaf0577-4b48-4152-97d9-dd6deade7ae6",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"37142",
+            "PostHistoryTypeId":"2",
+            "Id":"112524",
+            "Text":"Which versions of Android do support Ad-Hoc (peer-to-peer) Wi-Fi? Or neither? Where to read about it? May be some table somewhere?P.S. I mean without rooting."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-08T11:39:26.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"caaf0577-4b48-4152-97d9-dd6deade7ae6",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"37142",
+            "PostHistoryTypeId":"1",
+            "Id":"112525",
+            "Text":"Android Ad-Hoc Wi-Fi support"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-08T11:39:26.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"caaf0577-4b48-4152-97d9-dd6deade7ae6",
+            "UserId":"13785",
+            "CloseReasonId":null,
+            "PostId":"37142",
+            "PostHistoryTypeId":"3",
+            "Id":"112526",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-08T14:52:26.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5675cc4-8e93-4de9-bf8e-63d32b7f1fe0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"37142",
+            "PostHistoryTypeId":"5",
+            "Id":"112570",
+            "Text":"> **Possible Duplicate:**  > [Does any version of Android support ad-hoc connections?](http:\/\/android.stackexchange.com\/questions\/16657\/does-any-version-of-android-support-ad-hoc-connections)  Which versions of Android do support Ad-Hoc (peer-to-peer) Wi-Fi? Or neither? Where to read about it? May be some table somewhere?P.S. I mean without rooting."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-08T14:52:26.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"b2275837-0cdc-407e-903b-ec8db3f1d869",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"37142",
+            "PostHistoryTypeId":"10",
+            "Id":"112571",
+            "Text":"{\"OriginalQuestionIds\":[16657],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

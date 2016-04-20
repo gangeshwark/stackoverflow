@@ -1,0 +1,71 @@
+{
+    "Body":"Do any good file servers exist for Android that do not require root?  Ideally, it'd be nice to just be able to have an SMB share, but the only app I was able to find for this (Samba Filesharing) requires root.I'm currently using FTPDroid, but it's pretty slow (I'm getting about 200 KB\/s downloads on my n600 wifi).  Are there any better options?I'm using a Verizon Galaxy S3.",
+    "ViewCount":"2259",
+    "LastActivityDate":"2014-07-06T16:54:21.793",
+    "ClosedDate":"2014-07-08T14:20:41.183",
+    "Title":"File servers for Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"5",
+    "AcceptedAnswerId":"28907",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14275",
+    "CreationDate":"2012-09-07T06:00:42.600",
+    "FavoriteCount":null,
+    "Id":"28905",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T06:00:42.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b6ad77c-6164-4373-ab1c-c2fda4fe9b3f",
+            "UserId":"14275",
+            "CloseReasonId":null,
+            "PostId":"28905",
+            "PostHistoryTypeId":"2",
+            "Id":"84698",
+            "Text":"Do any good file servers exist for Android that do not require root?  Ideally, it'd be nice to just be able to have an SMB share, but the only app I was able to find for this ([Samba Filesharing][1]) requires root.I'm currently using FTPDroid, but it's pretty slow (I'm getting about 200 KB\/s downloads on my n600 wifi).  Are there any better options?I'm using a Verizon Galaxy S3.  [1]: https:\/\/play.google.com\/store\/apps\/details?id=com.funkyfresh.samba&hl=en"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T06:00:42.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b6ad77c-6164-4373-ab1c-c2fda4fe9b3f",
+            "UserId":"14275",
+            "CloseReasonId":null,
+            "PostId":"28905",
+            "PostHistoryTypeId":"1",
+            "Id":"84699",
+            "Text":"File servers for Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T06:00:42.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b6ad77c-6164-4373-ab1c-c2fda4fe9b3f",
+            "UserId":"14275",
+            "CloseReasonId":null,
+            "PostId":"28905",
+            "PostHistoryTypeId":"3",
+            "Id":"84700",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-07-08T14:20:41.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"843b656a-5e01-49d3-8aa5-2e0f8dbb4569",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28905",
+            "PostHistoryTypeId":"10",
+            "Id":"252130",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        }
+    ]
+}

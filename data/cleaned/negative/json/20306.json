@@ -1,0 +1,71 @@
+{
+    "Body":"Will using the built-in tethering under Settings --> Wireless and network --> Tethering and portable hotspot incur extra charges on a rooted AT&T Galaxy S2 (SGH-i777)?I don't remember if the option was available before rooting or if AT&T have some other application that they try to get you to tether through, but I'd rather not be double-charged for capped data service I've already paid for and am not using up otherwise.",
+    "ViewCount":"178",
+    "LastActivityDate":"2012-03-06T01:58:29.677",
+    "ClosedDate":"2012-03-06T02:56:39.883",
+    "Title":"Will using the built in tethering on a rooted AT&T phone incure extra charges?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9028",
+    "CreationDate":"2012-03-06T01:58:29.677",
+    "FavoriteCount":null,
+    "Id":"20306",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-06T01:58:29.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"88d0430e-5afd-4d6e-8d38-ac1114d9fe35",
+            "UserId":"9028",
+            "CloseReasonId":null,
+            "PostId":"20306",
+            "PostHistoryTypeId":"2",
+            "Id":"56474",
+            "Text":"Will using the built-in tethering under `Settings --> Wireless and network --> Tethering and portable hotspot` incur extra charges on a rooted AT&T Galaxy S2 (SGH-i777)?I don't remember if the option was available before rooting or if AT&T have some other application that they try to get you to tether through, but I'd rather not be double-charged for capped data service I've already paid for and am not using up otherwise."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-06T01:58:29.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"88d0430e-5afd-4d6e-8d38-ac1114d9fe35",
+            "UserId":"9028",
+            "CloseReasonId":null,
+            "PostId":"20306",
+            "PostHistoryTypeId":"1",
+            "Id":"56475",
+            "Text":"Will using the built in tethering on a rooted AT&T phone incure extra charges?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-06T01:58:29.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"88d0430e-5afd-4d6e-8d38-ac1114d9fe35",
+            "UserId":"9028",
+            "CloseReasonId":null,
+            "PostId":"20306",
+            "PostHistoryTypeId":"3",
+            "Id":"56476",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-03-06T02:56:39.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"7af34df0-f322-4dfb-83d8-cd4c6c54f655",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20306",
+            "PostHistoryTypeId":"10",
+            "Id":"56482",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

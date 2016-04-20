@@ -1,0 +1,83 @@
+{
+    "Body":"Is it possible to find out when the first version of an app was issued?Google Play only shows the date of the latest update in ADDITIONAL INFORMATION field (see picture).Ideally, I'd like to see when all the updates were issued. Probably, that's too much. ",
+    "ViewCount":"39",
+    "LastActivityDate":"2015-11-09T15:04:37.463",
+    "ClosedDate":"2015-11-09T18:49:19.207",
+    "Title":"Find out when the app was created",
+    "LastEditorUserId":"136034",
+    "Tags":"",
+    "LastEditDate":"2015-11-09T15:01:49.870",
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"136034",
+    "CreationDate":"2015-11-09T14:50:50.147",
+    "FavoriteCount":null,
+    "Id":"128380",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-09T14:50:50.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"977003b7-3b7c-4d88-b305-416761681acc",
+            "UserId":"136034",
+            "CloseReasonId":null,
+            "PostId":"128380",
+            "PostHistoryTypeId":"2",
+            "Id":"422273",
+            "Text":"Is it possible to find out when the first version of an app was issued?Google Play only shows the date of the latest update in ADDITIONAL INFORMATION field (see picture).[![enter image description here][1]][1]  [1]: http:\/\/i.stack.imgur.com\/Fs7sU.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-09T14:50:50.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"977003b7-3b7c-4d88-b305-416761681acc",
+            "UserId":"136034",
+            "CloseReasonId":null,
+            "PostId":"128380",
+            "PostHistoryTypeId":"1",
+            "Id":"422274",
+            "Text":"Find out when the app was created"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-09T14:50:50.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"977003b7-3b7c-4d88-b305-416761681acc",
+            "UserId":"136034",
+            "CloseReasonId":null,
+            "PostId":"128380",
+            "PostHistoryTypeId":"3",
+            "Id":"422275",
+            "Text":""
+        },
+        {
+            "Comment":"added an extra sub-question",
+            "CreationDate":"2015-11-09T15:01:49.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b0f9286-8146-4832-9772-a79cbc3dc8d9",
+            "UserId":"136034",
+            "CloseReasonId":null,
+            "PostId":"128380",
+            "PostHistoryTypeId":"5",
+            "Id":"422291",
+            "Text":"Is it possible to find out when the first version of an app was issued?Google Play only shows the date of the latest update in ADDITIONAL INFORMATION field (see picture).[![enter image description here][1]][1]Ideally, I'd like to see when all the updates were issued. Probably, that's too much.   [1]: http:\/\/i.stack.imgur.com\/Fs7sU.png"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-09T18:49:19.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"15575b01-756f-485e-892c-e86fd378e10c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"128380",
+            "PostHistoryTypeId":"10",
+            "Id":"422392",
+            "Text":"{\"OriginalQuestionIds\":[63904],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I am attempting to make my own 3D printed case for my phone. I need either very specific dimensions or a CAD model of it. I've searched around but couldn't find anything.",
+    "ViewCount":"432",
+    "LastActivityDate":"2014-06-12T18:18:21.687",
+    "ClosedDate":"2014-06-13T01:03:44.483",
+    "Title":"Where can I get a CAD model for the Moto X",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"73080",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"63888",
+    "CreationDate":"2014-06-12T18:06:26.480",
+    "FavoriteCount":null,
+    "Id":"73079",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-12T18:06:26.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fa7d55a-88aa-4bcc-b295-fe1c3c4e9639",
+            "UserId":"63888",
+            "CloseReasonId":null,
+            "PostId":"73079",
+            "PostHistoryTypeId":"2",
+            "Id":"244880",
+            "Text":"I am attempting to make my own 3D printed case for my phone. I need either very specific dimensions or a CAD model of it. I've searched around but couldn't find anything."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-12T18:06:26.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fa7d55a-88aa-4bcc-b295-fe1c3c4e9639",
+            "UserId":"63888",
+            "CloseReasonId":null,
+            "PostId":"73079",
+            "PostHistoryTypeId":"1",
+            "Id":"244881",
+            "Text":"Where can I get a CAD model for the Moto X"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-12T18:06:26.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fa7d55a-88aa-4bcc-b295-fe1c3c4e9639",
+            "UserId":"63888",
+            "CloseReasonId":null,
+            "PostId":"73079",
+            "PostHistoryTypeId":"3",
+            "Id":"244882",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-06-13T01:03:44.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"519c6834-ad2f-4391-bf74-3d0c3517e44b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"73079",
+            "PostHistoryTypeId":"10",
+            "Id":"244938",
+            "Text":"{\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

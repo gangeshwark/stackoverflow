@@ -1,0 +1,71 @@
+{
+    "Body":"Trying to access internet in Moto G android device by connecting to my Windows XP SP2 Laptop.But after giving a lot of effort, I found it is not easy.We have Adhoc connection in XP but no Access Point in XP.For that we have some tools like Connectify but they have no support for XP. And if you go for older version that is only for XP SP3.Finally I am not able to access internet using my Laptop as hotspot on Moto G.",
+    "ViewCount":"16",
+    "LastActivityDate":"2014-03-08T19:15:26.573",
+    "ClosedDate":"2014-03-13T12:21:15.183",
+    "Title":"Unable to make Windows XP SP2 pc as hotspot for android device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"55614",
+    "CreationDate":"2014-03-08T19:15:26.573",
+    "FavoriteCount":null,
+    "Id":"65105",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-08T19:15:26.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0112926-06c7-41bd-88b0-4aec6294e156",
+            "UserId":"55614",
+            "CloseReasonId":null,
+            "PostId":"65105",
+            "PostHistoryTypeId":"2",
+            "Id":"221573",
+            "Text":"Trying to access internet in Moto G android device by connecting to my Windows XP SP2 Laptop.But after giving a lot of effort, I found it is not easy.We have Adhoc connection in XP but no Access Point in XP.For that we have some tools like Connectify but they have no support for XP. And if you go for older version that is only for XP SP3.Finally I am not able to access internet using my Laptop as hotspot on Moto G."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-08T19:15:26.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0112926-06c7-41bd-88b0-4aec6294e156",
+            "UserId":"55614",
+            "CloseReasonId":null,
+            "PostId":"65105",
+            "PostHistoryTypeId":"1",
+            "Id":"221574",
+            "Text":"Unable to make Windows XP SP2 pc as hotspot for android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-08T19:15:26.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0112926-06c7-41bd-88b0-4aec6294e156",
+            "UserId":"55614",
+            "CloseReasonId":null,
+            "PostId":"65105",
+            "PostHistoryTypeId":"3",
+            "Id":"221575",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-13T12:21:15.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b53182b-3103-4bc3-bcdb-54bc051ca744",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"65105",
+            "PostHistoryTypeId":"10",
+            "Id":"222588",
+            "Text":"{\"OriginalQuestionIds\":[4418],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have an android phone and use chrome. I have the stack exchange app. But I happened to be googling and went to the stack exchange via chrome. A pop up came up that asked me whether I would prefer to use chrome or the stack exchange app whenever I click on a stack exchange link. Unfortunately, I accidentally set it so that it always chooses chrome. Really, I would prefer to be asked each time. Is there a way to reset this? ",
+    "ViewCount":"34",
+    "LastActivityDate":"2015-02-22T02:04:39.200",
+    "ClosedDate":"2015-02-22T02:44:14.957",
+    "Title":"accidentally set chrome so it never asks me whether I prefer chrome or stack exchange app. how do I fix this?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"100523",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95374",
+    "CreationDate":"2015-02-22T01:59:53.390",
+    "FavoriteCount":null,
+    "Id":"100521",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-22T01:59:53.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"2907be76-2609-4b3b-8832-df2f443da44e",
+            "UserId":"95374",
+            "CloseReasonId":null,
+            "PostId":"100521",
+            "PostHistoryTypeId":"2",
+            "Id":"326514",
+            "Text":"I have an android phone and use chrome. I have the stack exchange app. But I happened to be googling and went to the stack exchange via chrome. A pop up came up that asked me whether I would prefer to use chrome or the stack exchange app whenever I click on a stack exchange link. Unfortunately, I accidentally set it so that it always chooses chrome. Really, I would prefer to be asked each time. Is there a way to reset this? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-22T01:59:53.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"2907be76-2609-4b3b-8832-df2f443da44e",
+            "UserId":"95374",
+            "CloseReasonId":null,
+            "PostId":"100521",
+            "PostHistoryTypeId":"1",
+            "Id":"326515",
+            "Text":"accidentally set chrome so it never asks me whether I prefer chrome or stack exchange app. how do I fix this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-22T01:59:53.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"2907be76-2609-4b3b-8832-df2f443da44e",
+            "UserId":"95374",
+            "CloseReasonId":null,
+            "PostId":"100521",
+            "PostHistoryTypeId":"3",
+            "Id":"326516",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-22T02:44:14.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"92dcf9d8-1700-43ef-b3cf-1579fa830640",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100521",
+            "PostHistoryTypeId":"10",
+            "Id":"326537",
+            "Text":"{\"OriginalQuestionIds\":[17128],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

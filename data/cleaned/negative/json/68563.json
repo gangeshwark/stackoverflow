@@ -1,0 +1,83 @@
+{
+    "Body":"I am looking for a way to automatically download new Youtube videos from all my subscriptions or from a certain user\/channel to my Android phone for later offline viewing. Some sort of video podcast functionality.I tried a lot of different methods which I read on the web, but none of them seem to work. I first looked in the official Youtube app. You can see your subscriptions there, but no possibility to automatically download new videos for offline viewing. Next step was using a podcast app (AntennaPod) and a url generated from Youtube api:http:\/\/gdata.youtube.com\/feeds\/base\/users\/simonscat\/uploads?alt=rss&orderby=publishedThis did not work, it just downloaded a small summary and a link to the video. After trying this, I used the YTPodcaster website to generate a podcast link:http:\/\/ytpodcaster.com\/api\/index.php\/rss?youtubeid=simonscat&quality=22Sadly, also this did not work. Latest episodes seemed to be downloading, but when I opened one it just returned \"null\".I tried other podcast apps (BeyondPod, Podcast Addict, DoggCatcher) but none of them seem to be able to automatically download Youtube videos.Does anybody know a solution for this?(Using Android 4.4.2 on Xperia T)",
+    "ViewCount":"444",
+    "LastActivityDate":"2014-09-24T22:18:20.393",
+    "ClosedDate":"2015-02-18T08:22:54.460",
+    "Title":"Automatically download new Youtube videos",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"58989",
+    "CreationDate":"2014-05-01T14:52:21.510",
+    "FavoriteCount":"3",
+    "Id":"68563",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T14:52:21.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f4e428d-3696-4033-abce-0a27803e9417",
+            "UserId":"58989",
+            "CloseReasonId":null,
+            "PostId":"68563",
+            "PostHistoryTypeId":"2",
+            "Id":"233812",
+            "Text":"I am looking for a way to automatically download new Youtube videos from all my subscriptions or from a certain user\/channel to my Android phone for later offline viewing. Some sort of video podcast functionality.I tried a lot of different methods which I read on the web, but none of them seem to work. I first looked in the official Youtube app. You can see your subscriptions there, but no possibility to automatically download new videos for offline viewing. Next step was using a podcast app (AntennaPod) and a url generated from Youtube api:http:\/\/gdata.youtube.com\/feeds\/base\/users\/simonscat\/uploads?alt=rss&orderby=publishedThis did not work, it just downloaded a small summary and a link to the video. After trying this, I used the YTPodcaster website to generate a podcast link:http:\/\/ytpodcaster.com\/api\/index.php\/rss?youtubeid=simonscat&quality=22Sadly, also this did not work. Latest episodes seemed to be downloading, but when I opened one it just returned \"null\".I tried other podcast apps (BeyondPod, Podcast Addict, DoggCatcher) but none of them seem to be able to automatically download Youtube videos.Does anybody know a solution for this?(Using Android 4.4.2 on Xperia T)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T14:52:21.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f4e428d-3696-4033-abce-0a27803e9417",
+            "UserId":"58989",
+            "CloseReasonId":null,
+            "PostId":"68563",
+            "PostHistoryTypeId":"1",
+            "Id":"233813",
+            "Text":"Automatically download new Youtube videos"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-01T14:52:21.510",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f4e428d-3696-4033-abce-0a27803e9417",
+            "UserId":"58989",
+            "CloseReasonId":null,
+            "PostId":"68563",
+            "PostHistoryTypeId":"3",
+            "Id":"233814",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/465427438172790784",
+            "CreationDate":"2014-05-11T09:45:22.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"00a34dfd-470f-43d3-81c2-77b78f9fc783",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"68563",
+            "PostHistoryTypeId":"25",
+            "Id":"235958",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-02-18T08:22:54.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"934f298e-5d54-4bf6-96fe-2b2f46a1b8d3",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"68563",
+            "PostHistoryTypeId":"10",
+            "Id":"325141",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

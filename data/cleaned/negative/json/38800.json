@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Suggestions for syncing data to someone besides Google? Funambol?  Sync to my own server for contacts, sms and notes?  Has anyone been able to setup a home server as a replacement for Google Sync?I've found a handful of people touching on the right idea, Funambol is one but requires giving your data to another provider. I'd like, to be responsible for my own data. ",
+    "ViewCount":"182",
+    "LastActivityDate":"2013-02-01T09:33:08.030",
+    "ClosedDate":"2013-02-01T14:53:52.320",
+    "Title":"Has anyone been able to setup a home server as a replacement for Google Sync?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26179",
+    "CreationDate":"2013-02-01T09:33:08.030",
+    "FavoriteCount":"2",
+    "Id":"38800",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-01T09:33:08.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b48f5c3-cc75-42c5-b840-7c9c69c87fd5",
+            "UserId":"26179",
+            "CloseReasonId":null,
+            "PostId":"38800",
+            "PostHistoryTypeId":"2",
+            "Id":"119143",
+            "Text":"Has anyone been able to setup a home server as a replacement for Google Sync?I've found a handful of people touching on the right idea, Funambol is one but requires giving your data to another provider. I'd like, to be responsible for my own data. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-01T09:33:08.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b48f5c3-cc75-42c5-b840-7c9c69c87fd5",
+            "UserId":"26179",
+            "CloseReasonId":null,
+            "PostId":"38800",
+            "PostHistoryTypeId":"1",
+            "Id":"119144",
+            "Text":"Has anyone been able to setup a home server as a replacement for Google Sync?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-01T09:33:08.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b48f5c3-cc75-42c5-b840-7c9c69c87fd5",
+            "UserId":"26179",
+            "CloseReasonId":null,
+            "PostId":"38800",
+            "PostHistoryTypeId":"3",
+            "Id":"119145",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-02-01T14:53:52.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"43ba6bc0-554f-4273-ad12-61c48bce13d2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38800",
+            "PostHistoryTypeId":"5",
+            "Id":"119188",
+            "Text":"> **Possible Duplicate:**  > [Suggestions for syncing data to someone besides Google? Funambol?](http:\/\/android.stackexchange.com\/questions\/7774\/suggestions-for-syncing-data-to-someone-besides-google-funambol)  > [Sync to my own server for contacts, sms and notes?](http:\/\/android.stackexchange.com\/questions\/29199\/sync-to-my-own-server-for-contacts-sms-and-notes)  Has anyone been able to setup a home server as a replacement for Google Sync?I've found a handful of people touching on the right idea, Funambol is one but requires giving your data to another provider. I'd like, to be responsible for my own data. "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-01T14:53:52.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"d97ec91c-306d-4c9b-92be-4d07abdab58f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"38800",
+            "PostHistoryTypeId":"10",
+            "Id":"119189",
+            "Text":"{\"OriginalQuestionIds\":[7774,29199],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

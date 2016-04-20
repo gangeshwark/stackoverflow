@@ -1,0 +1,71 @@
+{
+    "Body":"my keyboard is recognized, but when I select it, I get a \"cannot communicate\" popup. I suspect if I can reset the keyboard (or something) the tablet will treat it as new and allow me to pair and sync it again.",
+    "ViewCount":"6",
+    "LastActivityDate":"2016-02-20T17:07:03.507",
+    "ClosedDate":"2016-02-20T17:32:18.440",
+    "Title":"How do I reset a samsung bluetooth keyboard so my samsung tab s2 will ask for the sync code?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"152297",
+    "CreationDate":"2016-02-20T17:07:03.507",
+    "FavoriteCount":null,
+    "Id":"137633",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-20T17:07:03.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"12e9df38-d88b-45f4-be45-26e024c0dc3d",
+            "UserId":"152297",
+            "CloseReasonId":null,
+            "PostId":"137633",
+            "PostHistoryTypeId":"2",
+            "Id":"459251",
+            "Text":"my keyboard is recognized, but when I select it, I get a \"cannot communicate\" popup. I suspect if I can reset the keyboard (or something) the tablet will treat it as new and allow me to pair and sync it again."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-20T17:07:03.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"12e9df38-d88b-45f4-be45-26e024c0dc3d",
+            "UserId":"152297",
+            "CloseReasonId":null,
+            "PostId":"137633",
+            "PostHistoryTypeId":"1",
+            "Id":"459252",
+            "Text":"How do I reset a samsung bluetooth keyboard so my samsung tab s2 will ask for the sync code?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-20T17:07:03.507",
+            "UserDisplayName":null,
+            "RevisionGUID":"12e9df38-d88b-45f4-be45-26e024c0dc3d",
+            "UserId":"152297",
+            "CloseReasonId":null,
+            "PostId":"137633",
+            "PostHistoryTypeId":"3",
+            "Id":"459253",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-20T17:32:18.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0daa02b-e9e3-4cdc-8215-6b08b9dbab3e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"137633",
+            "PostHistoryTypeId":"10",
+            "Id":"459258",
+            "Text":"{\"OriginalQuestionIds\":[137591],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

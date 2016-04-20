@@ -1,0 +1,83 @@
+{
+    "Body":"My phone is broken and it's touch doesn't work but the phone boots and it seems to be working now i want to recover its content( like contacts)but its locked.My phone is Samsung galaxy duos running android 4.2.2.",
+    "ViewCount":"4",
+    "LastActivityDate":"2015-07-06T16:59:15.393",
+    "ClosedDate":"2015-07-06T17:02:13.360",
+    "Title":"How to access a broken android phone content while its locked",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2015-07-06T12:23:52.020",
+    "FavoriteCount":null,
+    "Id":"114490",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/936860\/how-to-access-a-broken-android-phone-content-while-its-locked",
+            "CreationDate":"2015-07-06T16:59:15.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dca65d2-bc5e-41fc-8e2f-7392edae0e98",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"114490",
+            "PostHistoryTypeId":"36",
+            "Id":"375521",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T12:23:52.020",
+            "UserDisplayName":"vaas montenegro",
+            "RevisionGUID":"291a0eb5-6c52-423c-90b5-34579098b901",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"114490",
+            "PostHistoryTypeId":"2",
+            "Id":"375522",
+            "Text":"My phone is broken and it's **touch doesn't work** but the phone boots and it seems to be working now i want to recover its content( like contacts)but its **locked**.My phone is Samsung galaxy duos running android 4.2.2."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T12:23:52.020",
+            "UserDisplayName":"vaas montenegro",
+            "RevisionGUID":"291a0eb5-6c52-423c-90b5-34579098b901",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"114490",
+            "PostHistoryTypeId":"1",
+            "Id":"375523",
+            "Text":"How to access a broken android phone content while its locked"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-06T12:23:52.020",
+            "UserDisplayName":"vaas montenegro",
+            "RevisionGUID":"291a0eb5-6c52-423c-90b5-34579098b901",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"114490",
+            "PostHistoryTypeId":"3",
+            "Id":"375524",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-06T17:02:13.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce3b1aed-bee8-444a-9800-6d07b2f0c992",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114490",
+            "PostHistoryTypeId":"10",
+            "Id":"375529",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

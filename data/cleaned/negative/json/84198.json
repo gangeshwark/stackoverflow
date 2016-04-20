@@ -1,0 +1,71 @@
+{
+    "Body":"I am having a problem with my sd card installation. After inserting sd card in my phone, still its showing \"insert sd card\". Can anyone help me out with this problem?",
+    "ViewCount":"234",
+    "LastActivityDate":"2014-10-06T19:23:57.713",
+    "ClosedDate":"2014-10-07T17:34:28.330",
+    "Title":"sd card installation in s7582",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"75360",
+    "CreationDate":"2014-10-06T06:40:39.097",
+    "FavoriteCount":null,
+    "Id":"84198",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-06T06:40:39.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4610138-ad8c-41b5-b520-d7881ae2dc1b",
+            "UserId":"75360",
+            "CloseReasonId":null,
+            "PostId":"84198",
+            "PostHistoryTypeId":"2",
+            "Id":"276289",
+            "Text":"I am having a problem with my sd card installation. After inserting sd card in my phone, still its showing \"insert sd card\". Can anyone help me out with this problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-06T06:40:39.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4610138-ad8c-41b5-b520-d7881ae2dc1b",
+            "UserId":"75360",
+            "CloseReasonId":null,
+            "PostId":"84198",
+            "PostHistoryTypeId":"1",
+            "Id":"276290",
+            "Text":"sd card installation in s7582"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-06T06:40:39.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4610138-ad8c-41b5-b520-d7881ae2dc1b",
+            "UserId":"75360",
+            "CloseReasonId":null,
+            "PostId":"84198",
+            "PostHistoryTypeId":"3",
+            "Id":"276291",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-07T17:34:28.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd0e22e4-1829-4fe5-b524-9b6564a9aeb2",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84198",
+            "PostHistoryTypeId":"10",
+            "Id":"276692",
+            "Text":"{\"OriginalQuestionIds\":[23563],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

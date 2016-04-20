@@ -1,0 +1,71 @@
+{
+    "Body":"I have very recently purchased Mote E. I have disabled Mobile data and work only with Wifi.Even after this I see I am being charged with 0 MB data usage.enter image description here(Click for full size)I don't understand what is happening here. It is coming very frequently. I am very sure none of the Apps are using it since I uninstalled almost every app that I installed after this problem has arisen. I have checked data usage logs and it says 0 MB data usage and that none of my app have used any mobile data.Why is this happening? Probably some check after wifi gets disconnected? I checked with android debugger but there is too many log statement... anything particular I should be looking at?Any help or suggestion is apprecia",
+    "ViewCount":"401",
+    "LastActivityDate":"2014-12-21T04:34:20.990",
+    "ClosedDate":"2014-12-21T05:13:07.183",
+    "Title":"Mobile Data is Off but still i am being charged 0.041INR..Crazy issue on MOTO E.I am using Vodafone Karnataka SIM",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"85778",
+    "CreationDate":"2014-12-20T16:43:27.807",
+    "FavoriteCount":null,
+    "Id":"92273",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T16:43:27.807",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8324ce8-0903-48a8-aa40-fe7b89fce03f",
+            "UserId":"85778",
+            "CloseReasonId":null,
+            "PostId":"92273",
+            "PostHistoryTypeId":"2",
+            "Id":"302434",
+            "Text":"I have very recently purchased Mote E. I have disabled Mobile data and work only with Wifi.Even after this I see I am being charged with 0 MB data usage.enter image description here(Click for full size)I don't understand what is happening here. It is coming very frequently. I am very sure none of the Apps are using it since I uninstalled almost every app that I installed after this problem has arisen. I have checked data usage logs and it says 0 MB data usage and that none of my app have used any mobile data.Why is this happening? Probably some check after wifi gets disconnected? I checked with android debugger but there is too many log statement... anything particular I should be looking at?Any help or suggestion is apprecia"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T16:43:27.807",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8324ce8-0903-48a8-aa40-fe7b89fce03f",
+            "UserId":"85778",
+            "CloseReasonId":null,
+            "PostId":"92273",
+            "PostHistoryTypeId":"1",
+            "Id":"302435",
+            "Text":"Mobile Data is Off but still i am being charged 0.041INR..Crazy issue on MOTO E.I am using Vodafone Karnataka SIM"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-20T16:43:27.807",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8324ce8-0903-48a8-aa40-fe7b89fce03f",
+            "UserId":"85778",
+            "CloseReasonId":null,
+            "PostId":"92273",
+            "PostHistoryTypeId":"3",
+            "Id":"302436",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-21T05:13:07.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"f71bbf1c-f199-46ea-8403-ee7f1f047dc7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"92273",
+            "PostHistoryTypeId":"10",
+            "Id":"302563",
+            "Text":"{\"OriginalQuestionIds\":[78193],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

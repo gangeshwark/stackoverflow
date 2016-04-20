@@ -1,0 +1,71 @@
+{
+    "Body":"On a stolen device with no sim or data connection, if a whatsapp account is deactivated using another device can people still open whatsapp and see the chat history?",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-05-05T13:05:44.960",
+    "ClosedDate":"2015-05-05T15:35:00.380",
+    "Title":"Stolen device with no data connection, and whatsapp account deactivated, are the old chats still visible?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"106487",
+    "CreationDate":"2015-05-05T13:05:44.960",
+    "FavoriteCount":null,
+    "Id":"108513",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T13:05:44.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5ed93a6-12e3-4fb9-b312-304c8d963352",
+            "UserId":"106487",
+            "CloseReasonId":null,
+            "PostId":"108513",
+            "PostHistoryTypeId":"2",
+            "Id":"353420",
+            "Text":"On a stolen device with no sim or data connection, if a whatsapp account is deactivated using another device can people still open whatsapp and see the chat history?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T13:05:44.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5ed93a6-12e3-4fb9-b312-304c8d963352",
+            "UserId":"106487",
+            "CloseReasonId":null,
+            "PostId":"108513",
+            "PostHistoryTypeId":"1",
+            "Id":"353421",
+            "Text":"Stolen device with no data connection, and whatsapp account deactivated, are the old chats still visible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-05T13:05:44.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5ed93a6-12e3-4fb9-b312-304c8d963352",
+            "UserId":"106487",
+            "CloseReasonId":null,
+            "PostId":"108513",
+            "PostHistoryTypeId":"3",
+            "Id":"353422",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-05T15:35:00.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"4bb31d5e-e927-47cd-ae07-35a1223fb6d1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"108513",
+            "PostHistoryTypeId":"10",
+            "Id":"353454",
+            "Text":"{\"OriginalQuestionIds\":[51703],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

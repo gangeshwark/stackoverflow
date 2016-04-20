@@ -1,0 +1,71 @@
+{
+    "Body":"Is there an application that doesn't allow me to move icons on the home page when I long press them in order to prevent accidental movements?So for instance if I long press the Camera icon on the main screen I'd like nothing to happen while this application I'm asking about is active\/installed.LE: Of course I search the Play store and haven't found such an app.",
+    "ViewCount":"43",
+    "LastActivityDate":"2014-07-12T18:27:19.640",
+    "ClosedDate":"2014-07-15T01:03:12.210",
+    "Title":"Application to block icon movements on home pages",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"77108",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24253",
+    "CreationDate":"2014-07-12T17:50:27.470",
+    "FavoriteCount":null,
+    "Id":"77106",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-12T17:50:27.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"3385f587-04e3-410d-badb-bfff9ed7218f",
+            "UserId":"24253",
+            "CloseReasonId":null,
+            "PostId":"77106",
+            "PostHistoryTypeId":"2",
+            "Id":"254139",
+            "Text":"Is there an application that doesn't allow me to move icons on the home page when I long press them in order to prevent accidental movements?So for instance if I long press the Camera icon on the main screen I'd like nothing to happen while this application I'm asking about is active\/installed.LE: Of course I search the Play store and haven't found such an app."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-12T17:50:27.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"3385f587-04e3-410d-badb-bfff9ed7218f",
+            "UserId":"24253",
+            "CloseReasonId":null,
+            "PostId":"77106",
+            "PostHistoryTypeId":"1",
+            "Id":"254140",
+            "Text":"Application to block icon movements on home pages"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-12T17:50:27.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"3385f587-04e3-410d-badb-bfff9ed7218f",
+            "UserId":"24253",
+            "CloseReasonId":null,
+            "PostId":"77106",
+            "PostHistoryTypeId":"3",
+            "Id":"254141",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-15T01:03:12.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"bfa695e2-dd2e-4d5c-a68f-8be0bdd74455",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77106",
+            "PostHistoryTypeId":"10",
+            "Id":"254688",
+            "Text":"{\"OriginalQuestionIds\":[38297],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

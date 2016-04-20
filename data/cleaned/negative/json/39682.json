@@ -1,0 +1,71 @@
+{
+    "Body":"I created an adhoc wireless network on my windows 7 machine. My windows phone is detecting this wireless network but my android ICS phone is not detecting it at all. Why is that?I have an unrooted phone. How can I solve this problem?",
+    "ViewCount":"40",
+    "LastActivityDate":"2013-02-15T11:20:03.433",
+    "ClosedDate":"2013-02-15T14:57:15.970",
+    "Title":"ICS not detecting adhoc network",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"28265",
+    "CreationDate":"2013-02-15T11:20:03.433",
+    "FavoriteCount":null,
+    "Id":"39682",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-15T11:20:03.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"18445e96-a631-4b77-afba-7058c84fd8ca",
+            "UserId":"28265",
+            "CloseReasonId":null,
+            "PostId":"39682",
+            "PostHistoryTypeId":"2",
+            "Id":"122746",
+            "Text":"I created an adhoc wireless network on my windows 7 machine. My windows phone is detecting this wireless network but my android ICS phone is not detecting it at all. Why is that?I have an unrooted phone. How can I solve this problem?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-15T11:20:03.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"18445e96-a631-4b77-afba-7058c84fd8ca",
+            "UserId":"28265",
+            "CloseReasonId":null,
+            "PostId":"39682",
+            "PostHistoryTypeId":"1",
+            "Id":"122747",
+            "Text":"ICS not detecting adhoc network"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-15T11:20:03.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"18445e96-a631-4b77-afba-7058c84fd8ca",
+            "UserId":"28265",
+            "CloseReasonId":null,
+            "PostId":"39682",
+            "PostHistoryTypeId":"3",
+            "Id":"122748",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-15T14:57:15.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"5cb91ffc-fdea-482b-b43f-86343d2e5ed1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"39682",
+            "PostHistoryTypeId":"10",
+            "Id":"122800",
+            "Text":"{\"OriginalQuestionIds\":[4418],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

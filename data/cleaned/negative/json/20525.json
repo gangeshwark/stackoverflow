@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Phone not updating Market to Google Play?  I'm having 3.4.4 of google market. But google has change it to google play and upgrade it's app to 3.4.7  But it doesn't upgrade when I launch it.How to upgrade it? Thanks!",
+    "ViewCount":"454",
+    "LastActivityDate":"2012-03-12T09:13:41.610",
+    "ClosedDate":"2012-03-12T12:52:12.170",
+    "Title":"How to upgrade google play app?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13333",
+    "CreationDate":"2012-03-12T07:25:28.687",
+    "FavoriteCount":"1",
+    "Id":"20525",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-12T07:25:28.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"549a720f-548e-4cb4-b32e-1dc2a335cb40",
+            "UserId":"13333",
+            "CloseReasonId":null,
+            "PostId":"20525",
+            "PostHistoryTypeId":"2",
+            "Id":"57179",
+            "Text":"I'm having 3.4.4 of google market. But google has change it to google play and upgrade it's app to 3.4.7  But it doesn't upgrade when I launch it.  How to upgrade it? Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-12T07:25:28.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"549a720f-548e-4cb4-b32e-1dc2a335cb40",
+            "UserId":"13333",
+            "CloseReasonId":null,
+            "PostId":"20525",
+            "PostHistoryTypeId":"1",
+            "Id":"57180",
+            "Text":"How to upgrade google play app?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-12T07:25:28.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"549a720f-548e-4cb4-b32e-1dc2a335cb40",
+            "UserId":"13333",
+            "CloseReasonId":null,
+            "PostId":"20525",
+            "PostHistoryTypeId":"3",
+            "Id":"57181",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-12T12:52:13.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"d43a8ad3-9ebd-4833-a574-75fd9423b651",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20525",
+            "PostHistoryTypeId":"5",
+            "Id":"57213",
+            "Text":"> **Possible Duplicate:**  > [Phone not updating Market to Google Play?](http:\/\/android.stackexchange.com\/questions\/20405\/phone-not-updating-market-to-google-play)  I'm having 3.4.4 of google market. But google has change it to google play and upgrade it's app to 3.4.7  But it doesn't upgrade when I launch it.  How to upgrade it? Thanks!"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-12T12:52:12.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"eb79b717-e434-46ce-a336-a1e2aac8efa3",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"20525",
+            "PostHistoryTypeId":"10",
+            "Id":"57214",
+            "Text":"{\"OriginalQuestionIds\":[20405],\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

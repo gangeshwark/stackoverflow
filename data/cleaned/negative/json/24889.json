@@ -1,0 +1,83 @@
+{
+    "Body":"I discovered today that the system font on my rooted Galaxy S2 phone has some errors in the way it renders some Japanese characters.I want to change the font to something I'm sure is more reliable, but I'm unsure that I can change just the Japanese, and impact all fonts.I have looked into font changing apps, but I'm a little nervous as there are a lot of comments suggesting the potential to brick the phone. So I want to proceed carefully.I don't really know how font handling works, especially with an Android device, so is it possible for me to change the font for just the Japanese text?",
+    "ViewCount":"827",
+    "LastActivityDate":"2012-06-27T16:04:14.620",
+    "ClosedDate":"2012-12-03T13:34:27.733",
+    "Title":"Can I replace the system font just for Japanese text?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5892",
+    "CreationDate":"2012-06-27T07:02:24.167",
+    "FavoriteCount":null,
+    "Id":"24889",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-27T07:02:24.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"93b4a5cc-5c5f-4a2f-89a6-36c2157d806a",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"24889",
+            "PostHistoryTypeId":"2",
+            "Id":"71409",
+            "Text":"I discovered today that the system font on my rooted Galaxy S2 phone has some errors in the way it renders some Japanese characters.I want to change the font to something I'm sure is more reliable, but I'm unsure that I can change just the Japanese, and impact all fonts.I have looked into [font changing apps][1], but I'm a little nervous as there are a lot of comments suggesting the potential to brick the phone. So I want to proceed carefully.I don't really know how font handling works, especially with an Android device, so is it possible for me to change the font for just the Japanese text?  [1]: https:\/\/market.android.com\/details?id=net.pixelpod.typefresh"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-27T07:02:24.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"93b4a5cc-5c5f-4a2f-89a6-36c2157d806a",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"24889",
+            "PostHistoryTypeId":"1",
+            "Id":"71410",
+            "Text":"Can I replace the system font just for Japanese text?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-27T07:02:24.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"93b4a5cc-5c5f-4a2f-89a6-36c2157d806a",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"24889",
+            "PostHistoryTypeId":"3",
+            "Id":"71411",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/218246134559285249",
+            "CreationDate":"2012-06-28T07:35:08.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"6274c551-e001-414b-bc1c-9a99a7807b31",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"24889",
+            "PostHistoryTypeId":"25",
+            "Id":"71631",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-03T13:34:27.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"feab41f9-f53c-44f9-be09-019449d1fd7b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"24889",
+            "PostHistoryTypeId":"10",
+            "Id":"103239",
+            "Text":"{\"Voters\":[{\"Id\":5892,\"DisplayName\":\"Dave M G\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I'm using Sony Xperia S (also I have old SE Xperia X10 Mini) and want to install mytaxi app. But Google Play says that I'm not eligible to do this and I do not understand why! I've found an apk in the internets and it works fine, but I want to know the reason and have updates.",
+    "ViewCount":"407",
+    "LastActivityDate":"2013-09-19T22:58:39.870",
+    "ClosedDate":"2013-09-20T14:00:20.253",
+    "Title":"Is there any way to know the cause I cannot install app from Google Play",
+    "LastEditorUserId":"41782",
+    "Tags":"",
+    "LastEditDate":"2013-09-19T22:46:12.413",
+    "CommentCount":"7",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"53594",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41782",
+    "CreationDate":"2013-09-19T21:42:29.907",
+    "FavoriteCount":null,
+    "Id":"53588",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-19T21:42:29.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c1b35db-a161-4c86-a2d3-a92883e44f79",
+            "UserId":"41782",
+            "CloseReasonId":null,
+            "PostId":"53588",
+            "PostHistoryTypeId":"2",
+            "Id":"177104",
+            "Text":"I'm using Sony Xperia S (also I have old SE Xperia X10 Mini) and want to install [mytaxi app][1]. But Google Play says that I'm not eligible to do this and I do not understand why! I've found an apk in the internets and it works fine, but I want to know the reason and have updates.  [1]: https:\/\/play.google.com\/store\/apps\/details?id=taxi.android.client&hl=en"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-19T21:42:29.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c1b35db-a161-4c86-a2d3-a92883e44f79",
+            "UserId":"41782",
+            "CloseReasonId":null,
+            "PostId":"53588",
+            "PostHistoryTypeId":"1",
+            "Id":"177105",
+            "Text":"Is there any way to know cause I cannot install app from Google Play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-19T21:42:29.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c1b35db-a161-4c86-a2d3-a92883e44f79",
+            "UserId":"41782",
+            "CloseReasonId":null,
+            "PostId":"53588",
+            "PostHistoryTypeId":"3",
+            "Id":"177106",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2013-09-19T22:46:12.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba1fce4f-f1fa-4189-befa-5d496874c58e",
+            "UserId":"41782",
+            "CloseReasonId":null,
+            "PostId":"53588",
+            "PostHistoryTypeId":"4",
+            "Id":"177118",
+            "Text":"Is there any way to know the cause I cannot install app from Google Play"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-20T14:00:20.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a15353d-4bc6-497a-9682-f4188339dd6c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"53588",
+            "PostHistoryTypeId":"10",
+            "Id":"177247",
+            "Text":"{\"OriginalQuestionIds\":[15814],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

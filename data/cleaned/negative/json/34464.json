@@ -1,0 +1,71 @@
+{
+    "Body":"I have a hardware accessing question. For a project, I was wondering if it would be possible to use the smartphone's speaker as a second microphone, similar to the idea that you can plug in a headset into your computer's audio jack and use it as a microphone. ",
+    "ViewCount":"536",
+    "LastActivityDate":"2012-12-01T09:20:16.173",
+    "ClosedDate":"2012-12-01T20:08:20.320",
+    "Title":"Using the a smartphone's speaker as a microphone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24373",
+    "CreationDate":"2012-12-01T06:17:48.927",
+    "FavoriteCount":null,
+    "Id":"34464",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-01T06:17:48.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"5987161a-b2d4-4011-8c47-486732a39307",
+            "UserId":"24373",
+            "CloseReasonId":null,
+            "PostId":"34464",
+            "PostHistoryTypeId":"2",
+            "Id":"102661",
+            "Text":"I have a hardware accessing question. For a project, I was wondering if it would be possible to use the smartphone's speaker as a second microphone, similar to the idea that you can plug in a headset into your computer's audio jack and use it as a microphone. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-01T06:17:48.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"5987161a-b2d4-4011-8c47-486732a39307",
+            "UserId":"24373",
+            "CloseReasonId":null,
+            "PostId":"34464",
+            "PostHistoryTypeId":"1",
+            "Id":"102662",
+            "Text":"Using the a smartphone's speaker as a microphone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-01T06:17:48.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"5987161a-b2d4-4011-8c47-486732a39307",
+            "UserId":"24373",
+            "CloseReasonId":null,
+            "PostId":"34464",
+            "PostHistoryTypeId":"3",
+            "Id":"102663",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-12-01T20:08:20.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee5bc9f9-d163-4fff-b029-de715a2544ce",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"34464",
+            "PostHistoryTypeId":"10",
+            "Id":"102797",
+            "Text":"{\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

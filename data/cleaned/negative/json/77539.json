@@ -1,0 +1,83 @@
+{
+    "Body":"Besides the obvious battery and storage limitations, are there any limits to how long can a smartphone record video? For example, could the image sensor overheat after an hour or more? Would the camera software explode?",
+    "ViewCount":"1438",
+    "LastActivityDate":"2014-07-18T19:18:31.403",
+    "ClosedDate":"2014-08-04T10:57:07.710",
+    "Title":"Is there a hardware or software limitation to how long smartphone can record video?",
+    "LastEditorUserId":"24692",
+    "Tags":"",
+    "LastEditDate":"2014-07-18T19:18:31.403",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24692",
+    "CreationDate":"2014-07-18T14:12:05.677",
+    "FavoriteCount":null,
+    "Id":"77539",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T14:12:05.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0953c609-2a16-47fe-ba45-abdccb03f106",
+            "UserId":"24692",
+            "CloseReasonId":null,
+            "PostId":"77539",
+            "PostHistoryTypeId":"2",
+            "Id":"255571",
+            "Text":"Besides the obvious battery and storage limitations, are there any limits to how long can a smartphone record video? For example, could the image sensor overhear after an hour or more? Would the camera software explode?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T14:12:05.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0953c609-2a16-47fe-ba45-abdccb03f106",
+            "UserId":"24692",
+            "CloseReasonId":null,
+            "PostId":"77539",
+            "PostHistoryTypeId":"1",
+            "Id":"255572",
+            "Text":"Is there a hardware or software limitation to how long smartphone can record video?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-18T14:12:05.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0953c609-2a16-47fe-ba45-abdccb03f106",
+            "UserId":"24692",
+            "CloseReasonId":null,
+            "PostId":"77539",
+            "PostHistoryTypeId":"3",
+            "Id":"255573",
+            "Text":""
+        },
+        {
+            "Comment":"edited body",
+            "CreationDate":"2014-07-18T19:18:31.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"07c9eb1f-c5be-43df-a4ed-5b49b02c0038",
+            "UserId":"24692",
+            "CloseReasonId":null,
+            "PostId":"77539",
+            "PostHistoryTypeId":"5",
+            "Id":"255645",
+            "Text":"Besides the obvious battery and storage limitations, are there any limits to how long can a smartphone record video? For example, could the image sensor overheat after an hour or more? Would the camera software explode?"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-08-04T10:57:07.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"c5d7d87d-554a-481f-a924-317359f49156",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"77539",
+            "PostHistoryTypeId":"10",
+            "Id":"259707",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

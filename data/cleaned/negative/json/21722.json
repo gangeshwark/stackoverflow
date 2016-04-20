@@ -1,0 +1,83 @@
+{
+    "Body":"I'm really getting mad with this one..! I tried to root the emulator, Adb commands executed and shows no error. But I can't run the apps which needs root access.  It says that, Need root access..!How can i determine that my emulator is rooted..! Besides, I wanna capture the phone screen and make it as video to play back. How can i do this..? I don't mind about rooting. I don't have any idea about this one.Please suggest me something.How can i record each frame in android phone..? Would you please help me with sample source or some suggestions..? ",
+    "ViewCount":"152",
+    "LastActivityDate":"2012-04-12T07:19:00.393",
+    "ClosedDate":"2012-04-12T13:02:39.577",
+    "Title":"How to take a video capture of the screen?",
+    "LastEditorUserId":"475",
+    "Tags":"",
+    "LastEditDate":"2012-04-12T07:19:00.393",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14197",
+    "CreationDate":"2012-04-12T06:19:43.410",
+    "FavoriteCount":null,
+    "Id":"21722",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-12T06:19:43.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e046bfd-57cb-407b-a209-7eb5d52f62b8",
+            "UserId":"14197",
+            "CloseReasonId":null,
+            "PostId":"21722",
+            "PostHistoryTypeId":"2",
+            "Id":"60890",
+            "Text":"I'm really getting mad with this one..! I tried to root the emulator, Adb commands executed and shows no error. But I can't run the apps which needs root access.  It says that, Need root access..!How can i determine that my emulator is rooted..! Besides, I wanna capture the phone screen and make it as video to play back. How can i do this..? I don't mind about rooting. I don't have any idea about this one.Please suggest me something.How can i record each frame in android phone..? Would you please help me with sample source or some suggestions..? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-12T06:19:43.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e046bfd-57cb-407b-a209-7eb5d52f62b8",
+            "UserId":"14197",
+            "CloseReasonId":null,
+            "PostId":"21722",
+            "PostHistoryTypeId":"1",
+            "Id":"60891",
+            "Text":"Really i don't wanna take screenshot of my android screen, Instead of it i wanna make a video by capturing the screen..!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-12T06:19:43.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e046bfd-57cb-407b-a209-7eb5d52f62b8",
+            "UserId":"14197",
+            "CloseReasonId":null,
+            "PostId":"21722",
+            "PostHistoryTypeId":"3",
+            "Id":"60892",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2012-04-12T07:19:00.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"67351f93-4db4-4a95-99bf-a8b689bd3f44",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"21722",
+            "PostHistoryTypeId":"4",
+            "Id":"60896",
+            "Text":"How to take a video capture of the screen?"
+        },
+        {
+            "Comment":"4",
+            "CreationDate":"2012-04-12T13:02:39.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"d21016f8-5e21-46d0-a018-ee70de04d98f",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"21722",
+            "PostHistoryTypeId":"10",
+            "Id":"60930",
+            "Text":"{\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

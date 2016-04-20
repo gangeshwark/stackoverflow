@@ -1,0 +1,71 @@
+{
+    "Body":"I am searching for an alarm clock app which uses the 10 digit keypad (phone dialer keypad) to set alarm times.I've been using the pre-installed alarm clock app, and I hate having the standard text entry boxes for times. These input fields must be numbers, but the screen keyboard appears with the numbers plus symbols and punctuation. With the screen keyboard as is, the numbers are small and hard to accurately push on my Motorola Droid 2.An alarm clock and timer are essential apps for me, but I have not yet seen one which uses the big 10 digit keypad instead of the one with symbols and punctuation.Does anyone here know if such an app exists? Is anyone here writing an alarm clock and timer app which might one day include this feature?Thanks!",
+    "ViewCount":"275",
+    "LastActivityDate":"2013-02-08T22:13:41.303",
+    "ClosedDate":"2013-03-03T16:13:49.327",
+    "Title":"Is there an alarm clock app with a large screen keypad to enter times?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26395",
+    "CreationDate":"2013-01-08T22:52:09.613",
+    "FavoriteCount":null,
+    "Id":"37179",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-08T22:52:09.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"d097eefc-0b17-4836-9f4b-b6776a533897",
+            "UserId":"26395",
+            "CloseReasonId":null,
+            "PostId":"37179",
+            "PostHistoryTypeId":"2",
+            "Id":"112649",
+            "Text":"I am searching for an alarm clock app which uses the 10 digit keypad (phone dialer keypad) to set alarm times.I've been using the pre-installed alarm clock app, and I hate having the standard text entry boxes for times. These input fields must be numbers, but the screen keyboard appears with the numbers plus symbols and punctuation. With the screen keyboard as is, the numbers are small and hard to accurately push on my Motorola Droid 2.An alarm clock and timer are essential apps for me, but I have not yet seen one which uses the big 10 digit keypad instead of the one with symbols and punctuation.Does anyone here know if such an app exists? Is anyone here writing an alarm clock and timer app which might one day include this feature?Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-08T22:52:09.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"d097eefc-0b17-4836-9f4b-b6776a533897",
+            "UserId":"26395",
+            "CloseReasonId":null,
+            "PostId":"37179",
+            "PostHistoryTypeId":"1",
+            "Id":"112650",
+            "Text":"Is there an alarm clock app with a large screen keypad to enter times?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-08T22:52:09.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"d097eefc-0b17-4836-9f4b-b6776a533897",
+            "UserId":"26395",
+            "CloseReasonId":null,
+            "PostId":"37179",
+            "PostHistoryTypeId":"3",
+            "Id":"112651",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-03-03T16:13:49.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"050000c6-6a4b-4424-a217-8ffb9ffc377c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"37179",
+            "PostHistoryTypeId":"10",
+            "Id":"126823",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

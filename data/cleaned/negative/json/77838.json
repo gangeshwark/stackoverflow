@@ -1,0 +1,83 @@
+{
+    "Body":"At some point it seems that Google Play showed \"Release Date\" for its apps.  Now i can not find this.  Does anyone have any ideas here?Does anyone know what OS of Android used to show this?Note this is different than Android App initial release date as it does not answer the question.They proposed hacked solutions.  I am asking if someone knows what operating system this information was available on?",
+    "ViewCount":"16",
+    "LastActivityDate":"2014-07-22T20:09:19.253",
+    "ClosedDate":"2014-07-22T19:09:39.447",
+    "Title":"How to find release date for Google Play apps?",
+    "LastEditorUserId":"67935",
+    "Tags":"",
+    "LastEditDate":"2014-07-22T20:09:19.253",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67935",
+    "CreationDate":"2014-07-22T18:08:47.717",
+    "FavoriteCount":null,
+    "Id":"77838",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-22T18:08:47.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"afc4b43e-9551-492c-b24e-7a6f8ad84d3c",
+            "UserId":"67935",
+            "CloseReasonId":null,
+            "PostId":"77838",
+            "PostHistoryTypeId":"2",
+            "Id":"256626",
+            "Text":"At some point it seems that Google Play showed \"Release Date\" for its apps.  Now i can not find this.  Does anyone have any ideas here?Does anyone know what OS of Android used to show this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-22T18:08:47.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"afc4b43e-9551-492c-b24e-7a6f8ad84d3c",
+            "UserId":"67935",
+            "CloseReasonId":null,
+            "PostId":"77838",
+            "PostHistoryTypeId":"1",
+            "Id":"256627",
+            "Text":"How to find release date for Google Play apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-22T18:08:47.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"afc4b43e-9551-492c-b24e-7a6f8ad84d3c",
+            "UserId":"67935",
+            "CloseReasonId":null,
+            "PostId":"77838",
+            "PostHistoryTypeId":"3",
+            "Id":"256628",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-22T19:09:39.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2bcce03-ba96-4691-a123-0dc541c2e461",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77838",
+            "PostHistoryTypeId":"10",
+            "Id":"256637",
+            "Text":"{\"OriginalQuestionIds\":[63904],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"added 271 characters in body",
+            "CreationDate":"2014-07-22T20:09:19.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"5bace9b3-5296-4bf9-b185-ad7be02015e6",
+            "UserId":"67935",
+            "CloseReasonId":null,
+            "PostId":"77838",
+            "PostHistoryTypeId":"5",
+            "Id":"256643",
+            "Text":"At some point it seems that Google Play showed \"Release Date\" for its apps.  Now i can not find this.  Does anyone have any ideas here?Does anyone know what OS of Android used to show this?Note this is different than http:\/\/android.stackexchange.com\/questions\/63904\/android-app-initial-release-date as it does not answer the question.They proposed hacked solutions.  I am asking if someone knows what operating system this information was available on?"
+        }
+    ]
+}

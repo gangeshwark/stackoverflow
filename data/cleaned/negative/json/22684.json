@@ -1,0 +1,71 @@
+{
+    "Body":"Why is it possible that Android users have to wait until their carrier releases an update and iPhone users get their updates directly from Apple?",
+    "ViewCount":"132",
+    "LastActivityDate":"2012-05-06T15:33:42.960",
+    "ClosedDate":"2012-05-05T15:45:13.853",
+    "Title":"Android Updates: Why Carrier Involvement?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14826",
+    "CreationDate":"2012-05-05T13:38:19.280",
+    "FavoriteCount":null,
+    "Id":"22684",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-05T13:38:19.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"9034447a-52c7-4cd0-8d61-7c75b2a2988a",
+            "UserId":"14826",
+            "CloseReasonId":null,
+            "PostId":"22684",
+            "PostHistoryTypeId":"2",
+            "Id":"64179",
+            "Text":"Why is it possible that Android users have to wait until their carrier releases an update and iPhone users get their updates directly from Apple?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-05T13:38:19.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"9034447a-52c7-4cd0-8d61-7c75b2a2988a",
+            "UserId":"14826",
+            "CloseReasonId":null,
+            "PostId":"22684",
+            "PostHistoryTypeId":"1",
+            "Id":"64180",
+            "Text":"Android Updates: Why Carrier Involvement?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-05T13:38:19.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"9034447a-52c7-4cd0-8d61-7c75b2a2988a",
+            "UserId":"14826",
+            "CloseReasonId":null,
+            "PostId":"22684",
+            "PostHistoryTypeId":"3",
+            "Id":"64181",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-05-05T15:45:13.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"0dcb6e03-20c2-401a-a18e-a4b8bf2754fa",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"22684",
+            "PostHistoryTypeId":"10",
+            "Id":"64195",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I want to be able to change the dashbord icons\/text on my Android.I've got HTC sense on the phone, but I'm currently running ADW.Launcher.I know there's another launcher widget that allows photos as icons, but I'd like something so I can get the sleakness of the iOS icons e.g. http:\/\/dribbble.com\/shots\/57799",
+    "ViewCount":"1140",
+    "LastActivityDate":"2010-09-28T04:18:08.267",
+    "ClosedDate":"2013-02-19T20:46:10.160",
+    "Title":"How to change dashboard icons?",
+    "LastEditorUserId":"137",
+    "Tags":"",
+    "LastEditDate":"2010-09-28T04:18:08.267",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107",
+    "CreationDate":"2010-09-23T23:09:52.917",
+    "FavoriteCount":null,
+    "Id":"1485",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-23T23:09:52.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ed9bd47-4eac-413d-a391-f600d5f055c0",
+            "UserId":"107",
+            "CloseReasonId":null,
+            "PostId":"1485",
+            "PostHistoryTypeId":"2",
+            "Id":"2872",
+            "Text":"I want to be able to change the dashbord icons\/text on my Android.I've got HTC sense on the phone, but I'm currently running ADW.Launcher.I know there's another launcher widget that allows photos as icons, but I'd like something so I can get the sleakness of the iOS icons e.g. http:\/\/dribbble.com\/shots\/57799"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-23T23:09:52.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ed9bd47-4eac-413d-a391-f600d5f055c0",
+            "UserId":"107",
+            "CloseReasonId":null,
+            "PostId":"1485",
+            "PostHistoryTypeId":"1",
+            "Id":"2873",
+            "Text":"How to change dashboard icons?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-23T23:09:52.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ed9bd47-4eac-413d-a391-f600d5f055c0",
+            "UserId":"107",
+            "CloseReasonId":null,
+            "PostId":"1485",
+            "PostHistoryTypeId":"3",
+            "Id":"2874",
+            "Text":""
+        },
+        {
+            "Comment":"added a tag",
+            "CreationDate":"2010-09-28T04:18:08.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"2508b24a-4c2d-4c00-8f28-c50bbd6a0725",
+            "UserId":"137",
+            "CloseReasonId":null,
+            "PostId":"1485",
+            "PostHistoryTypeId":"6",
+            "Id":"3220",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-19T20:46:10.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad9842ee-34c8-4f8d-b3a0-05a2e84def0d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"1485",
+            "PostHistoryTypeId":"10",
+            "Id":"124008",
+            "Text":"{\"OriginalQuestionIds\":[9325],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

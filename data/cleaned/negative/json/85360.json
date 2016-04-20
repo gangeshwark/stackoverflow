@@ -1,0 +1,71 @@
+{
+    "Body":"My ASUS tablet runs slow. I've stopped using active desktop backgrounds, uninstalled apps that I don't use and changed the animations, but nothing seems to solve the problem. My memory is reporting at 77% full with Facebook and Twitter being two of the biggest culprits. I don't have them open all the time and only want them running when I use them. How can I prevent them from starting up? ASUS TF700T running version 4.2.1",
+    "ViewCount":"32",
+    "LastActivityDate":"2014-10-20T20:28:16.543",
+    "ClosedDate":"2014-10-24T19:08:35.947",
+    "Title":"Auto-start slowing me down",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"77083",
+    "CreationDate":"2014-10-20T19:36:59.587",
+    "FavoriteCount":null,
+    "Id":"85360",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-20T19:36:59.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"67b210c9-e77c-40a6-b1e2-1bf573d54204",
+            "UserId":"77083",
+            "CloseReasonId":null,
+            "PostId":"85360",
+            "PostHistoryTypeId":"2",
+            "Id":"280429",
+            "Text":"My ASUS tablet runs slow. I've stopped using active desktop backgrounds, uninstalled apps that I don't use and changed the animations, but nothing seems to solve the problem. My memory is reporting at 77% full with Facebook and Twitter being two of the biggest culprits. I don't have them open all the time and only want them running when I use them. How can I prevent them from starting up? ASUS TF700T running version 4.2.1"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-20T19:36:59.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"67b210c9-e77c-40a6-b1e2-1bf573d54204",
+            "UserId":"77083",
+            "CloseReasonId":null,
+            "PostId":"85360",
+            "PostHistoryTypeId":"1",
+            "Id":"280430",
+            "Text":"Auto-start slowing me down"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-20T19:36:59.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"67b210c9-e77c-40a6-b1e2-1bf573d54204",
+            "UserId":"77083",
+            "CloseReasonId":null,
+            "PostId":"85360",
+            "PostHistoryTypeId":"3",
+            "Id":"280431",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-24T19:08:35.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"93945f6c-cba2-4786-8781-005be55c78f3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"85360",
+            "PostHistoryTypeId":"10",
+            "Id":"281788",
+            "Text":"{\"OriginalQuestionIds\":[30332],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

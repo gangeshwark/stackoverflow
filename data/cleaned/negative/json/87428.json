@@ -1,0 +1,71 @@
+{
+    "Body":"i sent a whatsapp message with my mobile data off. And then deleted it before turning on my mobile data. does this message get delivered?",
+    "ViewCount":"68",
+    "LastActivityDate":"2014-11-12T07:26:57.353",
+    "ClosedDate":"2014-11-28T05:47:40.550",
+    "Title":"Deleting messages in whatsapp with mobile data off",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"79777",
+    "CreationDate":"2014-11-12T05:44:55.023",
+    "FavoriteCount":null,
+    "Id":"87428",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-12T05:44:55.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"a33db642-448e-4930-8339-33f3800841fc",
+            "UserId":"79777",
+            "CloseReasonId":null,
+            "PostId":"87428",
+            "PostHistoryTypeId":"2",
+            "Id":"287582",
+            "Text":"i sent a whatsapp message with my mobile data off. And then deleted it before turning on my mobile data. does this message get delivered?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-12T05:44:55.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"a33db642-448e-4930-8339-33f3800841fc",
+            "UserId":"79777",
+            "CloseReasonId":null,
+            "PostId":"87428",
+            "PostHistoryTypeId":"1",
+            "Id":"287583",
+            "Text":"Deleting messages in whatsapp with mobile data off"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-12T05:44:55.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"a33db642-448e-4930-8339-33f3800841fc",
+            "UserId":"79777",
+            "CloseReasonId":null,
+            "PostId":"87428",
+            "PostHistoryTypeId":"3",
+            "Id":"287584",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-28T05:47:40.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"2bef423d-7de5-4247-8daa-b9a9a5b7ecbe",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"87428",
+            "PostHistoryTypeId":"10",
+            "Id":"293455",
+            "Text":"{\"OriginalQuestionIds\":[85752],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

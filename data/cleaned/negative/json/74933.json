@@ -1,0 +1,71 @@
+{
+    "Body":"ART has better performance and better battery life on paper at least.  Should I consider switching to it on my moto g? What are the results I can expect? What precautions should I take? Is it easy to turn back to dalvik?",
+    "ViewCount":"941",
+    "LastActivityDate":"2014-06-26T20:52:06.483",
+    "ClosedDate":"2014-06-27T09:05:10.430",
+    "Title":"Should I switch to ART?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"74938",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33654",
+    "CreationDate":"2014-06-26T12:37:13.540",
+    "FavoriteCount":"1",
+    "Id":"74933",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-26T12:37:13.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b0e3961-39e2-4b90-90c4-0dff5ce429c9",
+            "UserId":"33654",
+            "CloseReasonId":null,
+            "PostId":"74933",
+            "PostHistoryTypeId":"2",
+            "Id":"248968",
+            "Text":"ART has better performance and better battery life on paper at least.  Should I consider switching to it on my moto g? What are the results I can expect? What precautions should I take? Is it easy to turn back to dalvik?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-26T12:37:13.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b0e3961-39e2-4b90-90c4-0dff5ce429c9",
+            "UserId":"33654",
+            "CloseReasonId":null,
+            "PostId":"74933",
+            "PostHistoryTypeId":"1",
+            "Id":"248969",
+            "Text":"Should I switch to ART?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-26T12:37:13.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b0e3961-39e2-4b90-90c4-0dff5ce429c9",
+            "UserId":"33654",
+            "CloseReasonId":null,
+            "PostId":"74933",
+            "PostHistoryTypeId":"3",
+            "Id":"248970",
+            "Text":""
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2014-06-27T09:05:10.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ac82249-2b60-4c91-9b9d-edb62e65609f",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"74933",
+            "PostHistoryTypeId":"10",
+            "Id":"249166",
+            "Text":"{\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

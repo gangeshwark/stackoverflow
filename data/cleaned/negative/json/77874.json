@@ -1,0 +1,71 @@
+{
+    "Body":"I have runkeeper installed and within the app they direct yoy to there website to create routes. However when I browse to runkeeper.com it redirects me to the playstore app automatically.  How can I force to open and browse the website?",
+    "ViewCount":"1027",
+    "LastActivityDate":"2014-07-23T08:37:14.800",
+    "ClosedDate":"2014-07-23T10:15:27.873",
+    "Title":"Website auto redirects to playstore app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67979",
+    "CreationDate":"2014-07-23T08:32:26.850",
+    "FavoriteCount":null,
+    "Id":"77874",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-23T08:32:26.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab667014-65c7-4258-a029-a0e7b5d59fd3",
+            "UserId":"67979",
+            "CloseReasonId":null,
+            "PostId":"77874",
+            "PostHistoryTypeId":"2",
+            "Id":"256732",
+            "Text":"I have runkeeper installed and within the app they direct yoy to there website to create routes. However when I browse to runkeeper.com it redirects me to the playstore app automatically.  How can I force to open and browse the website?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-23T08:32:26.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab667014-65c7-4258-a029-a0e7b5d59fd3",
+            "UserId":"67979",
+            "CloseReasonId":null,
+            "PostId":"77874",
+            "PostHistoryTypeId":"1",
+            "Id":"256733",
+            "Text":"Website auto redirects to playstore app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-23T08:32:26.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab667014-65c7-4258-a029-a0e7b5d59fd3",
+            "UserId":"67979",
+            "CloseReasonId":null,
+            "PostId":"77874",
+            "PostHistoryTypeId":"3",
+            "Id":"256734",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-23T10:15:27.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec3ff0b1-a309-4b05-9712-34c8bcf9f785",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"77874",
+            "PostHistoryTypeId":"10",
+            "Id":"256762",
+            "Text":"{\"OriginalQuestionIds\":[62349],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

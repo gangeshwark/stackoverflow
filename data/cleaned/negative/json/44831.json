@@ -1,0 +1,83 @@
+{
+    "Body":"Anyone know how to reset an android phone which is locked and asking for gmail id\/pass and can't boot into recovery mode, plus debugging mode is disabled?",
+    "ViewCount":"12277",
+    "LastActivityDate":"2013-06-12T10:58:34.997",
+    "ClosedDate":"2013-06-13T10:56:15.887",
+    "Title":"How to reset android phone which is locked and debugging mode is disabled, plus no recovery?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-05-03T09:08:34.260",
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33316",
+    "CreationDate":"2013-05-03T07:41:17.303",
+    "FavoriteCount":null,
+    "Id":"44831",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T07:41:17.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c712c8f-9e73-46ed-9b04-6f87dd934350",
+            "UserId":"33316",
+            "CloseReasonId":null,
+            "PostId":"44831",
+            "PostHistoryTypeId":"2",
+            "Id":"144086",
+            "Text":"Anyone know how to reset an android phone which is locked and asking for gmail id\/pass and can't boot into recovery mode, plus debugging mode is disabled?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T07:41:17.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c712c8f-9e73-46ed-9b04-6f87dd934350",
+            "UserId":"33316",
+            "CloseReasonId":null,
+            "PostId":"44831",
+            "PostHistoryTypeId":"1",
+            "Id":"144087",
+            "Text":"How to reset android phone which is locked and debugging mode is disabled, plus no recovery?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-03T07:41:17.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c712c8f-9e73-46ed-9b04-6f87dd934350",
+            "UserId":"33316",
+            "CloseReasonId":null,
+            "PostId":"44831",
+            "PostHistoryTypeId":"3",
+            "Id":"144088",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-05-03T09:08:34.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"4bcba2ac-f33d-410e-8c07-5a8faad59446",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"44831",
+            "PostHistoryTypeId":"6",
+            "Id":"144121",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-13T10:56:15.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"0841e34f-50b9-4820-b310-f00f50314234",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"44831",
+            "PostHistoryTypeId":"10",
+            "Id":"152781",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        }
+    ]
+}

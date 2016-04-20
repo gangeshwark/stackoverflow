@@ -1,0 +1,71 @@
+{
+    "Body":"I installed Android 5.0 on a second-hand HTC One (M7) device which comes from United Kingdom. The ROM 7.17.1540.7 comes from the official American HTC website, and the UK website doesn't list any ROMs.Since then, system update to 7.17.1540.21, performed automatically by the device, fails with the following error:  We have determined that your phone may be running a modified version of its system software. For your protection, we cannot update your phone. Please revert your phone to the official HTC system softwarte to update your phone. If you did not modify your system software or would like help reverting your system, please contact us via the support section at www.htc.com.Day after day, it downloads the huge update, and shows the same message, again and again.I contacted the support from United Kingdom. After a long, unpleasant discussion, the person suggested to send the device to the UK repair center in order to reset it, which means lots of trouble of backing up the device and wiping all personal information, and then waiting at least three weeks for it to be \u201crepaired\u201d (given that I live outside UK.)Is there any way I can either download a UK version of the ROM or trick Android to think either that it's from UK or that the phone is from USA?",
+    "ViewCount":"273",
+    "LastActivityDate":"2015-08-19T15:51:42.577",
+    "ClosedDate":"2015-09-24T02:08:15.910",
+    "Title":"How do I trick Android to think that it is from a different country?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"115599",
+    "CreationDate":"2015-08-19T15:51:42.577",
+    "FavoriteCount":null,
+    "Id":"119754",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-19T15:51:42.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"141b7613-f236-4b3f-8e36-571a412729dd",
+            "UserId":"115599",
+            "CloseReasonId":null,
+            "PostId":"119754",
+            "PostHistoryTypeId":"2",
+            "Id":"392305",
+            "Text":"I installed Android 5.0 on a second-hand HTC One (M7) device which comes from United Kingdom. The ROM 7.17.1540.7 comes from the official [American HTC website][1], and the [UK website][2] doesn't list any ROMs.Since then, system update to 7.17.1540.21, performed automatically by the device, fails with the following error:> We have determined that your phone may be running a modified version of its system software. For your protection, we cannot update your phone. Please revert your phone to the official HTC system softwarte to update your phone. If you did not modify your system software or would like help reverting your system, please contact us via the support section at www.htc.com.Day after day, it downloads the huge update, and shows the same message, again and again.I contacted the support from United Kingdom. After a long, unpleasant discussion, the person suggested to send the device to the UK repair center in order to reset it, which means lots of trouble of backing up the device and wiping all personal information, and then waiting at least three weeks for it to be \u201crepaired\u201d (given that I live outside UK.)Is there any way I can either download a UK version of the ROM or trick Android to think either that it's from UK or that the phone is from USA?  [1]: http:\/\/www.htc.com\/us\/support\/rom-downloads.html  [2]: http:\/\/www.htc.com\/uk\/support\/rom-downloads.html"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-19T15:51:42.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"141b7613-f236-4b3f-8e36-571a412729dd",
+            "UserId":"115599",
+            "CloseReasonId":null,
+            "PostId":"119754",
+            "PostHistoryTypeId":"1",
+            "Id":"392306",
+            "Text":"How do I trick Android to think that it is from a different country?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-19T15:51:42.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"141b7613-f236-4b3f-8e36-571a412729dd",
+            "UserId":"115599",
+            "CloseReasonId":null,
+            "PostId":"119754",
+            "PostHistoryTypeId":"3",
+            "Id":"392307",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-24T02:08:15.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"2af0d1ee-1423-4163-8746-dfccc45c2f7d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"119754",
+            "PostHistoryTypeId":"10",
+            "Id":"405447",
+            "Text":"{\"OriginalQuestionIds\":[17152,12538],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

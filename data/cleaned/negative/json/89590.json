@@ -1,0 +1,71 @@
+{
+    "Body":"We have developed a App that uses GCM push, that seems that needs Google Play Services (Google account).Customer has 100-200 devices, it it possible to use the same google account in all devices? Gmail will be inactivated, and buy apps to Market will be disallowed.Aditional info: We have proposed Google for Work, but Customer is not interested at this moment",
+    "ViewCount":"149",
+    "LastActivityDate":"2014-12-03T06:46:29.537",
+    "ClosedDate":"2014-12-03T14:55:16.337",
+    "Title":"Is it possible to use hundreds of Android devices with the same google account?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"89595",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82614",
+    "CreationDate":"2014-12-03T06:13:10.910",
+    "FavoriteCount":"0",
+    "Id":"89590",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-03T06:13:10.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc279834-c6e5-475e-860f-e4778780d04c",
+            "UserId":"82614",
+            "CloseReasonId":null,
+            "PostId":"89590",
+            "PostHistoryTypeId":"2",
+            "Id":"295300",
+            "Text":"We have developed a App that uses GCM push, that seems that needs Google Play Services (Google account).Customer has 100-200 devices, it it possible to use the same google account in all devices? Gmail will be inactivated, and buy apps to Market will be disallowed.Aditional info: We have proposed Google for Work, but Customer is not interested at this moment"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-03T06:13:10.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc279834-c6e5-475e-860f-e4778780d04c",
+            "UserId":"82614",
+            "CloseReasonId":null,
+            "PostId":"89590",
+            "PostHistoryTypeId":"1",
+            "Id":"295301",
+            "Text":"Is it possible to use hundreds of Android devices with the same google account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-03T06:13:10.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc279834-c6e5-475e-860f-e4778780d04c",
+            "UserId":"82614",
+            "CloseReasonId":null,
+            "PostId":"89590",
+            "PostHistoryTypeId":"3",
+            "Id":"295302",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-03T14:55:16.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"a057a26f-72e4-4e7e-a057-14ab5167292b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89590",
+            "PostHistoryTypeId":"10",
+            "Id":"295464",
+            "Text":"{\"OriginalQuestionIds\":[42506],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

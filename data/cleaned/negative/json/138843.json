@@ -1,0 +1,71 @@
+{
+    "Body":"I have an extra OLED display panel for a Samsung S6, I basically want to use it as a display monitor for Virtual Reality. I need some way (if any, idk) in order to connect hdmi to this display panel. I know that Oculus uses two Samsung Note 3 displays in the Rift 2, and I want to create a better resolution (1440p!) per eye. I have the resources, if its complex.  ",
+    "ViewCount":"12",
+    "LastActivityDate":"2016-03-05T00:26:35.893",
+    "ClosedDate":"2016-03-05T02:35:45.147",
+    "Title":"Using a Samsung OLED screen as a input hdmi monitor?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154607",
+    "CreationDate":"2016-03-05T00:26:35.893",
+    "FavoriteCount":null,
+    "Id":"138843",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T00:26:35.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"cac9ca09-13e7-42eb-8b29-fe2fb978e9c4",
+            "UserId":"154607",
+            "CloseReasonId":null,
+            "PostId":"138843",
+            "PostHistoryTypeId":"2",
+            "Id":"464123",
+            "Text":"I have an extra OLED display panel for a Samsung S6, I basically want to use it as a display monitor for Virtual Reality. I need some way (if any, idk) in order to connect hdmi to this display panel. I know that Oculus uses two Samsung Note 3 displays in the Rift 2, and I want to create a better resolution (1440p!) per eye. I have the resources, if its complex.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T00:26:35.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"cac9ca09-13e7-42eb-8b29-fe2fb978e9c4",
+            "UserId":"154607",
+            "CloseReasonId":null,
+            "PostId":"138843",
+            "PostHistoryTypeId":"1",
+            "Id":"464124",
+            "Text":"Using a Samsung OLED screen as a input hdmi monitor?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T00:26:35.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"cac9ca09-13e7-42eb-8b29-fe2fb978e9c4",
+            "UserId":"154607",
+            "CloseReasonId":null,
+            "PostId":"138843",
+            "PostHistoryTypeId":"3",
+            "Id":"464125",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-05T02:35:45.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ba1bc89-9633-462a-8c1f-088312475105",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138843",
+            "PostHistoryTypeId":"10",
+            "Id":"464288",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I don't see how a 160 byte text message should need 20MB of free storage before it can arrive.Is there some kind of hack that can force the messages to arrive? Or is there something I'm not understanding?",
+    "ViewCount":"21",
+    "LastActivityDate":"2013-09-19T16:31:55.157",
+    "ClosedDate":"2013-09-23T17:39:44.980",
+    "Title":"Why does my phone need 20MB before it can recieve text messages and can I do anything about this?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-09-19T16:31:55.157",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41763",
+    "CreationDate":"2013-09-19T16:03:15.397",
+    "FavoriteCount":null,
+    "Id":"53572",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-19T16:03:15.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bb59e5a-f3f9-4ad3-92c3-7243d73ad3a2",
+            "UserId":"41763",
+            "CloseReasonId":null,
+            "PostId":"53572",
+            "PostHistoryTypeId":"2",
+            "Id":"177026",
+            "Text":"I don't see how a 160 byte text message should need 20MB of free storage before it can arrive.Is there some kind of hack that can force the messages to arrive? Or is there something I'm not understanding?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-19T16:03:15.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bb59e5a-f3f9-4ad3-92c3-7243d73ad3a2",
+            "UserId":"41763",
+            "CloseReasonId":null,
+            "PostId":"53572",
+            "PostHistoryTypeId":"1",
+            "Id":"177027",
+            "Text":"Why does my phone need 20MB before it can recieve text messages and can I do anything about this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-19T16:03:15.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"0bb59e5a-f3f9-4ad3-92c3-7243d73ad3a2",
+            "UserId":"41763",
+            "CloseReasonId":null,
+            "PostId":"53572",
+            "PostHistoryTypeId":"3",
+            "Id":"177028",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-09-19T16:31:55.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"d04f6d80-3c46-49ff-8c16-99e657b8dc1a",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"53572",
+            "PostHistoryTypeId":"6",
+            "Id":"177032",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-23T17:39:44.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"68ea52c8-7e3c-4376-a50c-d4cb959d3ca0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"53572",
+            "PostHistoryTypeId":"10",
+            "Id":"178047",
+            "Text":"{\"OriginalQuestionIds\":[3219],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Currently every app I install adds a launcher icon to the homescreen.  As my default homescreens are nicely arranged and as a result full, it creates another home screen 'page' to put the icons on.  This is really very annoying as I have to remove both the icon and the newly created screen on every install.  Is there any way to stop apps adding a launcher to the home screen by default?",
+    "ViewCount":"1237",
+    "LastActivityDate":"2013-02-12T00:00:44.723",
+    "ClosedDate":"2013-02-12T00:35:27.023",
+    "Title":"Can I stop installed apps adding their icon to my homescreen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"39438",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14154",
+    "CreationDate":"2013-02-11T23:40:31.440",
+    "FavoriteCount":null,
+    "Id":"39435",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-11T23:40:31.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"b95f7b0c-82e9-4e5c-a860-49f0e4656308",
+            "UserId":"14154",
+            "CloseReasonId":null,
+            "PostId":"39435",
+            "PostHistoryTypeId":"2",
+            "Id":"121725",
+            "Text":"Currently **every** app I install adds a launcher icon to the homescreen.  As my default homescreens are nicely arranged and as a result full, it creates another home screen 'page' to put the icons on.  This is really very annoying as I have to remove both the icon and the newly created screen on every install.  Is there any way to stop apps adding a launcher to the home screen by default?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-11T23:40:31.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"b95f7b0c-82e9-4e5c-a860-49f0e4656308",
+            "UserId":"14154",
+            "CloseReasonId":null,
+            "PostId":"39435",
+            "PostHistoryTypeId":"1",
+            "Id":"121726",
+            "Text":"Can I stop installed apps adding their icon to my homescreen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-11T23:40:31.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"b95f7b0c-82e9-4e5c-a860-49f0e4656308",
+            "UserId":"14154",
+            "CloseReasonId":null,
+            "PostId":"39435",
+            "PostHistoryTypeId":"3",
+            "Id":"121727",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-12T00:35:27.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"05eb9d90-47ff-411b-8a45-a4d5302fe76c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"39435",
+            "PostHistoryTypeId":"10",
+            "Id":"121742",
+            "Text":"{\"OriginalQuestionIds\":[24398],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

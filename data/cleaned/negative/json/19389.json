@@ -1,0 +1,71 @@
+{
+    "Body":"I have a USB adapter to pick up internet on my desktop and an external hard drive through USB, and they stop responding immediately after I plug in either android phone, I have to restart after this happens because the wireless internet options never regain function until reboot.  I have an iPhone which works just fine when I plug it in to my computer. I initially had USB Debugging on when I noticed this issue, so I turned it off, rebooted and tried again with same results. I have the latest software for both devices.Suggestions?",
+    "ViewCount":"106",
+    "LastActivityDate":"2012-02-12T06:04:50.690",
+    "ClosedDate":"2012-09-30T15:26:21.487",
+    "Title":"When I plug in Samsung Skyrocket & Moto Atrix to Windows 7 my USB ports stop working",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12471",
+    "CreationDate":"2012-02-12T06:04:50.690",
+    "FavoriteCount":null,
+    "Id":"19389",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-12T06:04:50.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d548d48-b3c8-425b-a020-7089509c4a7c",
+            "UserId":"12471",
+            "CloseReasonId":null,
+            "PostId":"19389",
+            "PostHistoryTypeId":"2",
+            "Id":"53641",
+            "Text":"I have a USB adapter to pick up internet on my desktop and an external hard drive through USB, and they stop responding immediately after I plug in either android phone, I have to restart after this happens because the wireless internet options never regain function until reboot.  I have an iPhone which works just fine when I plug it in to my computer. I initially had USB Debugging on when I noticed this issue, so I turned it off, rebooted and tried again with same results. I have the latest software for both devices.Suggestions?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-12T06:04:50.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d548d48-b3c8-425b-a020-7089509c4a7c",
+            "UserId":"12471",
+            "CloseReasonId":null,
+            "PostId":"19389",
+            "PostHistoryTypeId":"1",
+            "Id":"53642",
+            "Text":"When I plug in Samsung Skyrocket & Moto Atrix to Windows 7 my USB ports stop working"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-12T06:04:50.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d548d48-b3c8-425b-a020-7089509c4a7c",
+            "UserId":"12471",
+            "CloseReasonId":null,
+            "PostId":"19389",
+            "PostHistoryTypeId":"3",
+            "Id":"53643",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-09-30T15:26:21.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4e9b204-a631-41f2-b920-58beea784a2f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"19389",
+            "PostHistoryTypeId":"10",
+            "Id":"90369",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Someone gave to me an Orange Cool Android 2.3 Tablet (it's a Brazilian brand, Model tb7800), complaining about slowness and hang ups.I did some research with the aim of flashing a better ROM, however this model is not well-known and I'm kind of lost among all the different ROMs and architectures, so I would appreciate if someone could just point me in the right direction...First of all: is there any better ROM compatible with this device? These are the details reported by CPU-Z:Model: OR-TB7800 (rk29sdk)Display: eng.koffu.20111209.175.607, 800x480 Android: 2.3.1, Kernel architecture armv7l, version 2.6.32.27 CPU: ARM Cortex A8, 1 core, rev. r3p2, 408Mhz-1Ghz GPU: Vendor= Vivante Corp, Renderer=GC800 core. Total RAM: 271 MB Internal, Storage: 1GBSecond: if the answer is yes, I would appreciate some hints with regards to the recommended ROM and flash procedure (just some hints, I'll do my homework and continue from there, I promise!). On the contrary, if the answer to the above is no, is there anything that you would recommend me besides rooting the device to uninstall some bloatware (Facebook, etc.). The IPS display seems good and the tablet is as new, it would be a shame if I can't find some good use for it...Thanks in advance for the help,",
+    "ViewCount":"19",
+    "LastActivityDate":"2014-01-22T21:56:10.123",
+    "ClosedDate":"2013-10-28T14:35:29.040",
+    "Title":"Is it possible to upgrade an Orange Cool Tablet? (Android 2.3 Cortex A8)",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-01-22T21:56:10.123",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"44057",
+    "CreationDate":"2013-10-27T19:52:04.667",
+    "FavoriteCount":"1",
+    "Id":"55888",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-27T19:52:04.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"fccb812b-69cb-44ae-8978-d745c588544e",
+            "UserId":"44057",
+            "CloseReasonId":null,
+            "PostId":"55888",
+            "PostHistoryTypeId":"2",
+            "Id":"185841",
+            "Text":"Someone gave to me an Orange Cool Android 2.3 Tablet (it's a Brazilian brand, Model [tb7800][1]), complaining about slowness and hang ups.*I did some research with the aim of flashing a better ROM, however this model is not well-known and I'm kind of lost among all the different ROMs and architectures, so I would appreciate if someone could just point me in the right direction...***First of all**: is there any better ROM compatible with this device? These are the details reported by CPU-Z:    Model: OR-TB7800 (rk29sdk)    Display: eng.koffu.20111209.175.607, 800x480     Android: 2.3.1,     Kernel architecture armv7l, version 2.6.32.27     CPU: ARM Cortex A8, 1 core, rev. r3p2, 408Mhz-1Ghz     GPU: Vendor= Vivante Corp, Renderer=GC800 core.     Total RAM: 271 MB Internal, Storage: 1GB**Second**: if the answer is yes, I would appreciate some hints with regards to the recommended ROM and flash procedure (just some hints, I'll do my homework and continue from there, I promise!). On the contrary, if the answer to the above is no, is there anything that you would recommend me besides rooting the device to uninstall some bloatware (Facebook, etc.). The IPS display seems good and the tablet is as new, it would be a shame if I can't find some good use for it...Thanks in advance for the help,  [1]: http:\/\/www.orangecool.com\/cool\/produtos\/tablet\/tb7800.html"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-27T19:52:04.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"fccb812b-69cb-44ae-8978-d745c588544e",
+            "UserId":"44057",
+            "CloseReasonId":null,
+            "PostId":"55888",
+            "PostHistoryTypeId":"1",
+            "Id":"185842",
+            "Text":"Is it possible to upgrade an Orange Cool Tablet? (Android 2.3 Cortex A8)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-27T19:52:04.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"fccb812b-69cb-44ae-8978-d745c588544e",
+            "UserId":"44057",
+            "CloseReasonId":null,
+            "PostId":"55888",
+            "PostHistoryTypeId":"3",
+            "Id":"185843",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-28T14:35:29.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"6fa1f9a8-a9ba-4061-8c70-bfac569ec0c3",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"55888",
+            "PostHistoryTypeId":"10",
+            "Id":"185996",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-22T21:56:10.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"6d37b52a-69b0-436a-b56f-11ea9eede1aa",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"55888",
+            "PostHistoryTypeId":"6",
+            "Id":"209177",
+            "Text":""
+        }
+    ]
+}

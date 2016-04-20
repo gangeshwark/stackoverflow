@@ -1,0 +1,71 @@
+{
+    "Body":"I'm in receipt of a complaint that the android mobile app my company provides has trashed a customer's android phone to the extent that it is now only capable of making phone calls. No sms. No internet. No email. No other apps open.The phone in question is a Samsung Galaxy S3, android version unknown. Our app is a front end to a web service that posts messages, photos and videos on something like a forum software, used for market research. It shows a question, and the user can respond by typing text, taking a picture or recording a video. It does hence request access to user photos and videos, and it makes use of their location services if turned on (essentially so we can show the researcher where they were when they were commenting on the products in the research study)The complaint, as I understand it, is that the app was installed, run, it showed the first question and then crashed. Since then, the user has no emails, no sms messages, cannot use the internet or any other app, cannot get into the phone settings, launch anything or communicate in any way other than opening the phone app and make a call.Our client (the person who introduced the customer) is demanding I call this customer and sort the problem out over the phone but I'm unable to because I cannot even imagine how the phone comes to be in the state it is claimed to be. Essentially I've no idea what the problem might be with the phone, no idea how I'd investigate it and no idea how I'd resolve it. The customer has no technical ability at all and claims not to have any other internet capable device that I could use to even get a video of the phone in operation..Can anyone out there, from the symptoms described (and sorry it's not a great description; it's literally all I have) suggest anything that might have gone wrong - defective memory chips? - that would manifest as an Android device becoming nearly totally unusable?If the claimed symptoms are true, I'm certain that the phone has some other problem and it's pure coincidence that it manifest since installing our app, but the customer is adamant it must be our fault because our app was the last thing she installed before it all failed. I know for a fact that our app is installed on thousands of android phones and works well. I also know that it contains no code capable of rummaging through the phone's file system and trashing stuff, if such a thing is even possible on Android? (Are apps sandboxed? Checked by Google to ensure they have no malicious code inside?)Thanks for any comments or insight you can offer",
+    "ViewCount":"108",
+    "LastActivityDate":"2014-10-02T08:49:09.950",
+    "ClosedDate":"2014-10-20T11:51:54.143",
+    "Title":"Customer claims our app trashed her phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"74939",
+    "CreationDate":"2014-10-02T08:49:09.950",
+    "FavoriteCount":"1",
+    "Id":"83897",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-02T08:49:09.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d126fe0-8834-4409-b3ce-41a2df495228",
+            "UserId":"74939",
+            "CloseReasonId":null,
+            "PostId":"83897",
+            "PostHistoryTypeId":"2",
+            "Id":"275224",
+            "Text":"I'm in receipt of a complaint that the android mobile app my company provides has trashed a customer's android phone to the extent that it is now only capable of making phone calls. No sms. No internet. No email. No other apps open.The phone in question is a Samsung Galaxy S3, android version unknown. Our app is a front end to a web service that posts messages, photos and videos on something like a forum software, used for market research. It shows a question, and the user can respond by typing text, taking a picture or recording a video. It does hence request access to user photos and videos, and it makes use of their location services if turned on (essentially so we can show the researcher where they were when they were commenting on the products in the research study)The complaint, as I understand it, is that the app was installed, run, it showed the first question and then crashed. Since then, the user has no emails, no sms messages, cannot use the internet or any other app, cannot get into the phone settings, launch anything or communicate in any way other than opening the phone app and make a call.Our client (the person who introduced the customer) is demanding I call this customer and sort the problem out over the phone but I'm unable to because I cannot even imagine how the phone comes to be in the state it is claimed to be. Essentially I've no idea what the problem might be with the phone, no idea how I'd investigate it and no idea how I'd resolve it. The customer has no technical ability at all and claims not to have any other internet capable device that I could use to even get a video of the phone in operation..Can anyone out there, from the symptoms described (and sorry it's not a great description; it's literally all I have) suggest anything that might have gone wrong - defective memory chips? - that would manifest as an Android device becoming nearly totally unusable?If the claimed symptoms are true, I'm certain that the phone has some other problem and it's pure coincidence that it manifest since installing our app, but the customer is adamant it must be our fault because our app was the last thing she installed before it all failed. I know for a fact that our app is installed on thousands of android phones and works well. I also know that it contains no code capable of rummaging through the phone's file system and trashing stuff, if such a thing is even possible on Android? (Are apps sandboxed? Checked by Google to ensure they have no malicious code inside?)Thanks for any comments or insight you can offer"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-02T08:49:09.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d126fe0-8834-4409-b3ce-41a2df495228",
+            "UserId":"74939",
+            "CloseReasonId":null,
+            "PostId":"83897",
+            "PostHistoryTypeId":"1",
+            "Id":"275225",
+            "Text":"Customer claims our app trashed her phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-02T08:49:09.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d126fe0-8834-4409-b3ce-41a2df495228",
+            "UserId":"74939",
+            "CloseReasonId":null,
+            "PostId":"83897",
+            "PostHistoryTypeId":"3",
+            "Id":"275226",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2014-10-20T11:51:54.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"3205ab33-e5ac-4711-9bd9-1abaeb55f3ef",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"83897",
+            "PostHistoryTypeId":"10",
+            "Id":"280281",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"}]}"
+        }
+    ]
+}

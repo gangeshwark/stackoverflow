@@ -1,0 +1,83 @@
+{
+    "Body":"Before going on a trip overseas with no data plan, I need to check how well my Google Nexus 7 tablet works to geolocate me with just GPS + Glonass + GSM towers.From experience, I know that just relying on GPS with no data connection pretty much doesn't work: Even after being outside in open skies for hours riding a bike, my GPS-only smartphone had a very hard time geolocating me, and wouldn't follow after it did, while it did work in just a few seconds when connecting to the Net through wifi.So, I'd like to experiment while I'm still home: Is it possible to configure an Android device to have no data connection and only rely on other means to geolocate the user?If needed, I don't mind moving to different ROMs such as CyanogenMod.Thank you.Edit: I found the reason why GPS wouldn't work even after hours standing outside: In Settings > Location, the option \"Download GPS assisted data only over Wi-Fi networks\" was disabled; Once enabled, geolocalizing through GPS alone works OK, although it works faster and better with the Nexus 7 tablet that has GPS + Glonass.",
+    "ViewCount":"301",
+    "LastActivityDate":"2015-02-10T16:44:14.790",
+    "ClosedDate":"2015-02-06T10:31:43.450",
+    "Title":"How to configure smartphone\/tablet to have no data connection?",
+    "LastEditorUserId":"15581",
+    "Tags":"",
+    "LastEditDate":"2015-02-10T16:44:14.790",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"98010",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15581",
+    "CreationDate":"2015-02-05T23:59:42.923",
+    "FavoriteCount":null,
+    "Id":"98006",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-05T23:59:42.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ccf8655-951a-45f9-8363-e209ad4d23c7",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"98006",
+            "PostHistoryTypeId":"2",
+            "Id":"319753",
+            "Text":"Before going on a trip overseas with no data plan, I need to check how well my [Google Nexus 7 tablet][1] works to geolocate me with just GPS + Glonass + GSM towers.From experience, I know that just relying on GPS with no data connection pretty much doesn't work: Even after being outside in open skies for hours riding a bike, my [GPS-only smartphone][2] had a very hard time geolocating me, and wouldn't follow after it did, while it did work in just a few seconds when connecting to the Net through wifi.So, I'd like to experiment while I'm still home: Is it possible to configure an Android device to have no data connection and only rely on other means to geolocate the user?If needed, I don't mind moving to different ROMs such as CyanogenMod.Thank you.  [1]: https:\/\/en.wikipedia.org\/wiki\/Nexus_7_(2013_version)  [2]: https:\/\/en.wikipedia.org\/wiki\/Galaxy_Nexus"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-05T23:59:42.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ccf8655-951a-45f9-8363-e209ad4d23c7",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"98006",
+            "PostHistoryTypeId":"1",
+            "Id":"319754",
+            "Text":"How to configure smartphone\/tablet to have no data connection?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-05T23:59:42.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ccf8655-951a-45f9-8363-e209ad4d23c7",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"98006",
+            "PostHistoryTypeId":"3",
+            "Id":"319755",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-06T10:31:43.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1bdb69f-8982-47d8-8d13-54a3b3384d98",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"98006",
+            "PostHistoryTypeId":"10",
+            "Id":"319880",
+            "Text":"{\"OriginalQuestionIds\":[591],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        },
+        {
+            "Comment":"added 417 characters in body",
+            "CreationDate":"2015-02-10T16:44:14.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"38c288b8-4a94-4bac-8153-a50206c64053",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"98006",
+            "PostHistoryTypeId":"5",
+            "Id":"321329",
+            "Text":"Before going on a trip overseas with no data plan, I need to check how well my [Google Nexus 7 tablet][1] works to geolocate me with just GPS + Glonass + GSM towers.From experience, I know that just relying on GPS with no data connection pretty much doesn't work: Even after being outside in open skies for hours riding a bike, my [GPS-only smartphone][2] had a very hard time geolocating me, and wouldn't follow after it did, while it did work in just a few seconds when connecting to the Net through wifi.So, I'd like to experiment while I'm still home: Is it possible to configure an Android device to have no data connection and only rely on other means to geolocate the user?If needed, I don't mind moving to different ROMs such as CyanogenMod.Thank you.----Edit: I found the reason why GPS wouldn't work even after hours standing outside: In Settings > Location, the option \"Download GPS assisted data only over Wi-Fi networks\" was disabled; Once enabled, geolocalizing through GPS alone works OK, although it works faster and better with the Nexus 7 tablet that has GPS + Glonass.![enter image description here][3]  [1]: https:\/\/en.wikipedia.org\/wiki\/Nexus_7_(2013_version)  [2]: https:\/\/en.wikipedia.org\/wiki\/Galaxy_Nexus  [3]: http:\/\/i.stack.imgur.com\/yRyCo.jpg"
+        }
+    ]
+}

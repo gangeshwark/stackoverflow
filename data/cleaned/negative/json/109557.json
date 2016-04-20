@@ -1,0 +1,83 @@
+{
+    "Body":"My phone just managed to do a factory reset, all on its own. Can I somehow retrieve at least the portion of the lost data? On computer for both linux and windows there are programs that can recover parts of harddrive which have been marked empty but still contain data from deleted files.Is there a way to do this on Samsung Galaxy with Android 4.1.2? Because I really need my contacts and some of my memo notes were really important.",
+    "ViewCount":"1022",
+    "LastActivityDate":"2015-05-17T06:44:17.177",
+    "ClosedDate":"2015-05-17T06:45:20.053",
+    "Title":"Can I recover my data after accidental factory reset?",
+    "LastEditorUserId":"1465",
+    "Tags":"",
+    "LastEditDate":"2015-05-17T06:44:17.177",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46854",
+    "CreationDate":"2015-05-16T19:25:09.140",
+    "FavoriteCount":null,
+    "Id":"109557",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-16T19:25:09.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"bcb0f98b-c3eb-4e7f-a508-05ef19a86833",
+            "UserId":"46854",
+            "CloseReasonId":null,
+            "PostId":"109557",
+            "PostHistoryTypeId":"2",
+            "Id":"357504",
+            "Text":"About a half year ago, I asked here how to avoid getting my screen unlocked in my pocket without setting up a password. Instead of help, I got downvoted quite a lot and received no real help.Now my phone just managed to do a factory reset, all on it's own. For some reason, factory reset doesn't just reset the settings but: - delete all your contacts - delete your teraria gamesave you've spent over 100hours with - delete all your images, screenshots all your programs including those you paid forI am kinda surprised the whole thing is so easy to accomplish that it can happen by random clicking, but then again, android developers don't care.My question is, if I can somehow retrieve at least the portion of the lost data. On computer for both linux and windows there are programs that can recover parts of harddrive which have been marked empty but still contain data from deleted files.Is there a way to do this on Samsung Galaxy with Android 4.1.2? Because I really need those contacts and some of my memo notes were really important.If I was a conspiracy theorist, I'd say the new lock screen is a result of contract between android developers and phone case manufacturers. I also wonder whether this [google trends graph][1] has any coincidence with new screen locks.  [1]: http:\/\/www.google.com\/trends\/explore#q=recover%20data%20factory%20reset&cmpt=q&tz="
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-16T19:25:09.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"bcb0f98b-c3eb-4e7f-a508-05ef19a86833",
+            "UserId":"46854",
+            "CloseReasonId":null,
+            "PostId":"109557",
+            "PostHistoryTypeId":"1",
+            "Id":"357505",
+            "Text":"Can I recover my data after accidental factory reset?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-16T19:25:09.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"bcb0f98b-c3eb-4e7f-a508-05ef19a86833",
+            "UserId":"46854",
+            "CloseReasonId":null,
+            "PostId":"109557",
+            "PostHistoryTypeId":"3",
+            "Id":"357506",
+            "Text":""
+        },
+        {
+            "Comment":"remove random exposition, focus on the problem",
+            "CreationDate":"2015-05-17T06:44:17.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"8494ee00-85b2-4366-b5ce-8616941b474f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"109557",
+            "PostHistoryTypeId":"5",
+            "Id":"357608",
+            "Text":"My phone just managed to do a factory reset, all on its own. Can I somehow retrieve at least the portion of the lost data? On computer for both linux and windows there are programs that can recover parts of harddrive which have been marked empty but still contain data from deleted files.Is there a way to do this on Samsung Galaxy with Android 4.1.2? Because I really need my contacts and some of my memo notes were really important."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-17T06:45:20.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"b686664f-c363-47ab-9e80-4ccd96408aee",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"109557",
+            "PostHistoryTypeId":"10",
+            "Id":"357609",
+            "Text":"{\"OriginalQuestionIds\":[89777],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

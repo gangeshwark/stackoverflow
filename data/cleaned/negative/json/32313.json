@@ -1,0 +1,71 @@
+{
+    "Body":"One thing I do miss about my blackberry was a single list of all my communication.  I went to \"Messages\" and I had texts, emails, bbm, chat, notifications, everything all in one list.  With a few email addresses, texting, and other apps all notifying me, it's great that I have the notification bar about new messages, but when trying to find something I got just a few days ago, it's hard to remember if it was an email? which email? text? etcIs there a similar app that combines all communication into a single list?",
+    "ViewCount":"512",
+    "LastActivityDate":"2012-12-23T15:31:12.980",
+    "ClosedDate":"2012-12-24T05:17:09.503",
+    "Title":"Combine all messages",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22811",
+    "CreationDate":"2012-10-24T13:49:47.060",
+    "FavoriteCount":null,
+    "Id":"32313",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T13:49:47.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbced759-723e-49bb-947c-c9bc6edbc57c",
+            "UserId":"22811",
+            "CloseReasonId":null,
+            "PostId":"32313",
+            "PostHistoryTypeId":"2",
+            "Id":"95539",
+            "Text":"One thing I do miss about my blackberry was a single list of all my communication.  I went to \"Messages\" and I had texts, emails, bbm, chat, notifications, everything all in one list.  With a few email addresses, texting, and other apps all notifying me, it's great that I have the notification bar about new messages, but when trying to find something I got just a few days ago, it's hard to remember if it was an email? which email? text? etcIs there a similar app that combines all communication into a single list?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T13:49:47.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbced759-723e-49bb-947c-c9bc6edbc57c",
+            "UserId":"22811",
+            "CloseReasonId":null,
+            "PostId":"32313",
+            "PostHistoryTypeId":"1",
+            "Id":"95540",
+            "Text":"Combine all messages"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T13:49:47.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbced759-723e-49bb-947c-c9bc6edbc57c",
+            "UserId":"22811",
+            "CloseReasonId":null,
+            "PostId":"32313",
+            "PostHistoryTypeId":"3",
+            "Id":"95541",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-24T05:17:09.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"19ddbd2c-bb86-47d5-9743-f3ce2fd44241",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32313",
+            "PostHistoryTypeId":"10",
+            "Id":"108618",
+            "Text":"{\"Voters\":[{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

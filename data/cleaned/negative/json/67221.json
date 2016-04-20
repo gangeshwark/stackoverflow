@@ -1,0 +1,83 @@
+{
+    "Body":"I have recently got the urge to install and test different devices on uncommon OS markets.I have discovered that I still have an old Samsung Jet S8003, and would like to install Android Gingerbread on the device. First and foremost, is it possible and would it be able to operate fine without bugs?Second, could I install a later version of the Android OS like Jellybean or Kit-Kat?I have tried JetDroid but have failed as the OS loads up in ssh and then it says that it cant load from ext2.",
+    "ViewCount":"36",
+    "LastActivityDate":"2014-04-09T13:35:15.480",
+    "ClosedDate":"2014-05-14T10:40:06.613",
+    "Title":"Android on Samsung Jet S8003?",
+    "LastEditorUserId":"3646",
+    "Tags":"",
+    "LastEditDate":"2014-04-09T13:35:15.480",
+    "CommentCount":"7",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"58155",
+    "CreationDate":"2014-04-09T12:54:34.450",
+    "FavoriteCount":"1",
+    "Id":"67221",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-09T12:54:34.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"0427add8-5768-403e-a773-7f00364a627c",
+            "UserId":"58155",
+            "CloseReasonId":null,
+            "PostId":"67221",
+            "PostHistoryTypeId":"2",
+            "Id":"229030",
+            "Text":"I have recently got the urge to install and test different devices on uncommon OS markets.I have discovered that I still have an old Samsung Jet S8003, and would like to install Android Gingerbread on the device. First and foremost, is it possible and would it be able to operate fine without bugs?Second, could I install a later version of the Android OS like Jellybean or Kit-Kat?I have tried JetDroid but have failed as the OS loads up in ssh and then it says that it cant load from ext2."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-09T12:54:34.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"0427add8-5768-403e-a773-7f00364a627c",
+            "UserId":"58155",
+            "CloseReasonId":null,
+            "PostId":"67221",
+            "PostHistoryTypeId":"1",
+            "Id":"229031",
+            "Text":"Android on Samsung Jet S8003?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-09T12:54:34.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"0427add8-5768-403e-a773-7f00364a627c",
+            "UserId":"58155",
+            "CloseReasonId":null,
+            "PostId":"67221",
+            "PostHistoryTypeId":"3",
+            "Id":"229032",
+            "Text":""
+        },
+        {
+            "Comment":"Added link to JetDroid installation instructions.",
+            "CreationDate":"2014-04-09T13:35:15.480",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c474f0b-7a95-4374-80bd-05be09c9b0b2",
+            "UserId":"3646",
+            "CloseReasonId":null,
+            "PostId":"67221",
+            "PostHistoryTypeId":"5",
+            "Id":"229051",
+            "Text":"I have recently got the urge to install and test different devices on uncommon OS markets.I have discovered that I still have an old Samsung Jet S8003, and would like to install Android Gingerbread on the device. First and foremost, is it possible and would it be able to operate fine without bugs?Second, could I install a later version of the Android OS like Jellybean or Kit-Kat?I have tried [JetDroid][1] but have failed as the OS loads up in ssh and then it says that it cant load from ext2.  [1]: http:\/\/jetdroid.webs.com\/"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-14T10:40:06.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d8a17f2-8b53-4195-8d30-498b5dfcddab",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"67221",
+            "PostHistoryTypeId":"10",
+            "Id":"236553",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"}]}"
+        }
+    ]
+}

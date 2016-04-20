@@ -1,0 +1,71 @@
+{
+    "Body":"I have a HTX Desire Z which is synced with Outlook emails. When I click onto the mail icon, sometimes it shows my email inbox as empty even though it isn't. I then have to leave the inbox, click a few other items, go back to it and it works again.How can I stop this from happening?",
+    "ViewCount":"55",
+    "LastActivityDate":"2012-05-21T17:14:03.643",
+    "ClosedDate":"2012-12-20T03:38:10.440",
+    "Title":"HTC Desire Z, synced with Outlook emails but folder appears blank sometimes",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15264",
+    "CreationDate":"2012-05-21T17:14:03.643",
+    "FavoriteCount":null,
+    "Id":"23248",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-21T17:14:03.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea855d85-445f-41c9-9a48-e51cc5068096",
+            "UserId":"15264",
+            "CloseReasonId":null,
+            "PostId":"23248",
+            "PostHistoryTypeId":"2",
+            "Id":"66070",
+            "Text":"I have a HTX Desire Z which is synced with Outlook emails. When I click onto the mail icon, sometimes it shows my email inbox as empty even though it isn't. I then have to leave the inbox, click a few other items, go back to it and it works again.How can I stop this from happening?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-21T17:14:03.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea855d85-445f-41c9-9a48-e51cc5068096",
+            "UserId":"15264",
+            "CloseReasonId":null,
+            "PostId":"23248",
+            "PostHistoryTypeId":"1",
+            "Id":"66071",
+            "Text":"HTC Desire Z, synced with Outlook emails but folder appears blank sometimes"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-21T17:14:03.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea855d85-445f-41c9-9a48-e51cc5068096",
+            "UserId":"15264",
+            "CloseReasonId":null,
+            "PostId":"23248",
+            "PostHistoryTypeId":"3",
+            "Id":"66072",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-20T03:38:10.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"3b35962e-ad0c-4f39-a671-006cc677d895",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"23248",
+            "PostHistoryTypeId":"10",
+            "Id":"107641",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I have xolo q 1010i  android version 4.4.2 and kernel version 3.4.67.I want to just root the phone without flashing any other rom.The two answers given earlier do not solve the problem because:1) I tried framaroot but it gives error 9.2) The answer given by Jordy19 on feb, 5, 2015 takes us to the site http:\/\/www.unlock-bootloader.info\/mp3-0\/xolo-q1010i-6275.htm. In that site it tells us to download modaco superboot file. Eventhough the method to download the file is given in the link below, inspite of my best efforts, I was unable to download the file.I also read in some other thread that you can root through kingroot 4.00. Some members have also said that after rooting through kingroot, you cannot remove kinguser and install supersu. I do not know which version of kingroot to use and whether we will be able to unroot if required and whether we can install supersu in place of kinguser after rooting.Or, If there is any other method of rooting.  The earlier thread says protected by Community\u2666 Mar 19 at 16:15I do not know how to write in the same old thread so I asked the question. I think its not duplicate question.Since Mr. Gulam mohammed, one of the members has rooted the same phone i request him to give a step by step guidance or a way to contact him. ",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-05-23T11:49:05.800",
+    "ClosedDate":"2015-05-22T16:53:55.633",
+    "Title":"rooting xolo q1010i",
+    "LastEditorUserId":"109661",
+    "Tags":"",
+    "LastEditDate":"2015-05-23T11:49:05.800",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"109661",
+    "CreationDate":"2015-05-22T09:31:56.933",
+    "FavoriteCount":null,
+    "Id":"110033",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T09:31:56.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"ffdbac2c-d1fc-48c1-8668-52a871c09469",
+            "UserId":"109661",
+            "CloseReasonId":null,
+            "PostId":"110033",
+            "PostHistoryTypeId":"2",
+            "Id":"359237",
+            "Text":"I have xolo q 1010i  android version 4.4.2 and kernel version 3.4.67.I want to just root the phone without flashing any other rom.   I tried but have not succeeded through framaroot. I do not know which version of kingroot to use and whether we will be able to unroot if required and whether we can install supersu in place of kinguser after rooting.  Or, If there is any other method of rooting.   Since I am a newbie and Mr. Gulam mohammed has rooted the same phone, i request him to give a step by step guidance. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T09:31:56.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"ffdbac2c-d1fc-48c1-8668-52a871c09469",
+            "UserId":"109661",
+            "CloseReasonId":null,
+            "PostId":"110033",
+            "PostHistoryTypeId":"1",
+            "Id":"359238",
+            "Text":"rooting xolo q1010i"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-22T09:31:56.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"ffdbac2c-d1fc-48c1-8668-52a871c09469",
+            "UserId":"109661",
+            "CloseReasonId":null,
+            "PostId":"110033",
+            "PostHistoryTypeId":"3",
+            "Id":"359239",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-22T16:53:55.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"7607766c-b49d-4f95-a5b9-123598b225d8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"110033",
+            "PostHistoryTypeId":"10",
+            "Id":"359354",
+            "Text":"{\"OriginalQuestionIds\":[93375],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"explained why its not duplicate",
+            "CreationDate":"2015-05-23T11:49:05.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"6cbdfa7a-3335-4106-88ae-b814d0184177",
+            "UserId":"109661",
+            "CloseReasonId":null,
+            "PostId":"110033",
+            "PostHistoryTypeId":"5",
+            "Id":"359565",
+            "Text":"I have xolo q 1010i  android version 4.4.2 and kernel version 3.4.67.I want to just root the phone without flashing any other rom.   The two answers given earlier do not solve the problem because:  1) I tried framaroot but it gives error 9.  2) The answer given by Jordy19 on feb, 5, 2015 takes us to the site http:\/\/www.unlock-bootloader.info\/mp3-0\/xolo-q1010i-6275.htm. In that site it tells us to download modaco superboot file. Eventhough the method to download the file is given in the link below, inspite of my best efforts, I was unable to download the file. I also read in some other thread that you can root through kingroot 4.00. Some members have also said that after rooting through kingroot, you cannot remove kinguser and install supersu. I do not know which version of kingroot to use and whether we will be able to unroot if required and whether we can install supersu in place of kinguser after rooting.  Or, If there is any other method of rooting.  The earlier thread says protected by Community\u2666 Mar 19 at 16:15I do not know how to write in the same old thread so I asked the question. I think its not duplicate question.  Since Mr. Gulam mohammed, one of the members has rooted the same phone i request him to give a step by step guidance or a way to contact him. "
+        }
+    ]
+}

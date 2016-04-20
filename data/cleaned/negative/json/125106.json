@@ -1,0 +1,83 @@
+{
+    "Body":"My mobile is SAMSUNG DOTS GTS. My problem is that it is not installing apps from both mobile and sd storage, after I've restored my device. Please provide me its solution. I have tried to use App Installer but also did not installed itself.Error is \"APPLICATION NOT INSTALLED\".",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-10-06T09:43:55.260",
+    "ClosedDate":"2015-10-19T22:54:35.530",
+    "Title":"Apps are not installing",
+    "LastEditorUserId":"130701",
+    "Tags":"",
+    "LastEditDate":"2015-10-06T09:43:55.260",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130701",
+    "CreationDate":"2015-10-06T09:27:05.887",
+    "FavoriteCount":null,
+    "Id":"125106",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-06T09:27:05.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"72f02361-72f7-43e3-98d9-5185f1ff8ebe",
+            "UserId":"130701",
+            "CloseReasonId":null,
+            "PostId":"125106",
+            "PostHistoryTypeId":"2",
+            "Id":"409783",
+            "Text":"My mobile is SAMSUNG DOTS GTS. My problem is that it is not installing apps from both mobile and sd storage, after I've restored my device. Please provide me its solution. I have tried to use App Installer but also did not installed itself."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-06T09:27:05.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"72f02361-72f7-43e3-98d9-5185f1ff8ebe",
+            "UserId":"130701",
+            "CloseReasonId":null,
+            "PostId":"125106",
+            "PostHistoryTypeId":"1",
+            "Id":"409784",
+            "Text":"Apps are not installing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-06T09:27:05.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"72f02361-72f7-43e3-98d9-5185f1ff8ebe",
+            "UserId":"130701",
+            "CloseReasonId":null,
+            "PostId":"125106",
+            "PostHistoryTypeId":"3",
+            "Id":"409785",
+            "Text":""
+        },
+        {
+            "Comment":"Explained error coming.",
+            "CreationDate":"2015-10-06T09:43:55.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"06489c68-b87d-47c8-b7b0-d662d3ee0bbe",
+            "UserId":"130701",
+            "CloseReasonId":null,
+            "PostId":"125106",
+            "PostHistoryTypeId":"5",
+            "Id":"409799",
+            "Text":"My mobile is SAMSUNG DOTS GTS. My problem is that it is not installing apps from both mobile and sd storage, after I've restored my device. Please provide me its solution. I have tried to use App Installer but also did not installed itself.Error is \"APPLICATION NOT INSTALLED\"."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-19T22:54:35.530",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9e5e86e-e5a0-40fb-b65d-97f6406a42ac",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125106",
+            "PostHistoryTypeId":"10",
+            "Id":"415007",
+            "Text":"{\"OriginalQuestionIds\":[35840],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Chrome has a feature that requests the desktop version of sites, but some websites don't oblige, and continue giving the mobile version. Is there any way to force them to give the desktop version? I'm open to using any Android version, any browser, root permissions and Xposed Framework. ",
+    "ViewCount":"40",
+    "LastActivityDate":"2016-01-30T15:04:52.010",
+    "ClosedDate":"2016-02-27T20:03:45.617",
+    "Title":"Force desktop version of websites?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"131868",
+    "CreationDate":"2016-01-30T14:43:03.473",
+    "FavoriteCount":null,
+    "Id":"135740",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-30T14:43:03.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"62007fe0-c177-40f6-b31e-de32084dd181",
+            "UserId":"131868",
+            "CloseReasonId":null,
+            "PostId":"135740",
+            "PostHistoryTypeId":"2",
+            "Id":"451655",
+            "Text":"Chrome has a feature that requests the desktop version of sites, but some websites don't oblige, and continue giving the mobile version. Is there any way to force them to give the desktop version? I'm open to using any Android version, any browser, root permissions and Xposed Framework. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-30T14:43:03.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"62007fe0-c177-40f6-b31e-de32084dd181",
+            "UserId":"131868",
+            "CloseReasonId":null,
+            "PostId":"135740",
+            "PostHistoryTypeId":"1",
+            "Id":"451656",
+            "Text":"Force desktop version of websites?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-30T14:43:03.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"62007fe0-c177-40f6-b31e-de32084dd181",
+            "UserId":"131868",
+            "CloseReasonId":null,
+            "PostId":"135740",
+            "PostHistoryTypeId":"3",
+            "Id":"451657",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-27T20:03:45.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"65e56bb8-45e5-4770-8daa-159677ac5cbb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"135740",
+            "PostHistoryTypeId":"10",
+            "Id":"462115",
+            "Text":"{\"OriginalQuestionIds\":[14559],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

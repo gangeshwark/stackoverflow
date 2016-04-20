@@ -1,0 +1,83 @@
+{
+    "Body":"I have a alcatel c7 pop and my phone wont update any of the aops saying that i have insufficient memory but have over 7gs free. How do i fix this without resetting my phone which ive done once to fix this but is hoping to avoid ",
+    "ViewCount":"28",
+    "LastActivityDate":"2015-07-06T11:02:47.567",
+    "ClosedDate":"2015-07-13T21:13:41.393",
+    "Title":"Insufficient memory on alcatel c7 pop",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-07-06T11:02:47.567",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"114528",
+    "CreationDate":"2015-06-28T08:11:41.133",
+    "FavoriteCount":null,
+    "Id":"113635",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-28T08:11:41.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"307720ce-3d27-4aa5-9a4e-d48e0d42efbc",
+            "UserId":"114528",
+            "CloseReasonId":null,
+            "PostId":"113635",
+            "PostHistoryTypeId":"2",
+            "Id":"372474",
+            "Text":"I have a alcatel c7 pop and my phone wont update any of the aops saying that i have insufficient memory but have over 7gs free. How do i fix this without resetting my phone which ive done once to fix this but is hoping to avoid "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-28T08:11:41.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"307720ce-3d27-4aa5-9a4e-d48e0d42efbc",
+            "UserId":"114528",
+            "CloseReasonId":null,
+            "PostId":"113635",
+            "PostHistoryTypeId":"1",
+            "Id":"372475",
+            "Text":"Insufficient memory on alcatel c7 pop"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-28T08:11:41.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"307720ce-3d27-4aa5-9a4e-d48e0d42efbc",
+            "UserId":"114528",
+            "CloseReasonId":null,
+            "PostId":"113635",
+            "PostHistoryTypeId":"3",
+            "Id":"372476",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-07-06T11:02:47.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a0310f0-8dd4-4b17-a306-05c6c661eb1d",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"113635",
+            "PostHistoryTypeId":"6",
+            "Id":"375277",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-13T21:13:41.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"5648a5d5-8afa-4719-b105-9918fbea339d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"113635",
+            "PostHistoryTypeId":"10",
+            "Id":"378198",
+            "Text":"{\"OriginalQuestionIds\":[27083],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

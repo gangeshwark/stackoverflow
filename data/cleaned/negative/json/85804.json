@@ -1,0 +1,83 @@
+{
+    "Body":"This app won't run without google play services, which are missing from your phone. it's asking me for a code for redeem, setting and or _________   please help me reinstall the google play services that was on the phone it an LG trac phone through page plus",
+    "ViewCount":"353",
+    "LastActivityDate":"2014-10-26T08:44:47.173",
+    "ClosedDate":"2014-10-26T20:24:01.813",
+    "Title":"downloading the google play services",
+    "LastEditorUserId":"12442",
+    "Tags":"",
+    "LastEditDate":"2014-10-25T22:52:27.733",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"77695",
+    "CreationDate":"2014-10-25T20:34:26.870",
+    "FavoriteCount":null,
+    "Id":"85804",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-25T20:34:26.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac18edcb-37b6-4cfa-aae4-c30a07796f33",
+            "UserId":"77695",
+            "CloseReasonId":null,
+            "PostId":"85804",
+            "PostHistoryTypeId":"2",
+            "Id":"282095",
+            "Text":"This app won't run without google play services, which are missing from your phone. it's asking me for a code for redeem, setting and or _________   please help me reinstall the google play services that was on the phone it an LG trac phone through page plus"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-25T20:34:26.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac18edcb-37b6-4cfa-aae4-c30a07796f33",
+            "UserId":"77695",
+            "CloseReasonId":null,
+            "PostId":"85804",
+            "PostHistoryTypeId":"1",
+            "Id":"282096",
+            "Text":"downloading the google play services"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-25T20:34:26.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"ac18edcb-37b6-4cfa-aae4-c30a07796f33",
+            "UserId":"77695",
+            "CloseReasonId":null,
+            "PostId":"85804",
+            "PostHistoryTypeId":"3",
+            "Id":"282097",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-10-25T22:52:27.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8dd2dc6-022f-4565-9823-e2b55abcb385",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"85804",
+            "PostHistoryTypeId":"6",
+            "Id":"282126",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-26T20:24:01.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"69cfbbc0-331d-42bf-b531-5ac6febe36d8",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"85804",
+            "PostHistoryTypeId":"10",
+            "Id":"282342",
+            "Text":"{\"OriginalQuestionIds\":[42335],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Just curious. There are lots of posts on the web that talk about the fact that unlocking your bootloader wipes apps and data - presumably to prevent unauthorized access to that info.  But in order to unlock the bootloader, you need adb access, and with adb access, any unauthorized person could get access to that data even with the bootloader locked. So, essentially, if you've enabled usb debugging, there's no security on this info once you plug the device into a computer. If that's true, the security rationale for wiping this data on unlock is a red herring, and seems mostly to be done to scare people away from unlocking, no?That said, I guess that raises the issue of whether you should leave usb debugging enabled on a dev mode phone. Also, does unlocking the bootloader open up other major security holes? Obviously allowing arbitrary kernels to boot could be a problem, but without entering your password on the lock screen and turning on adb access (or usb mounting), can somebody get access through the bootloader (or a flashed recovery module)?On my nexus one, usb access required you to okay it from the phone - i.e. you had to at least enter your lockscreen password in order to say okay.  Just got a nexus 4, and usb access is different - you get a choice between MTP or camera mode, but I don't remember being asked whether to grant access at all (don't have it with me to check).  But assuming it wouldn't be granted without the lockscreen password having been entered, I guess that's okay.That leaves the recovery module.  I guess anybody can get access to that, and a malicious user (even on a locked phone?) could restore the phone to factory settings and wipe all your data.  But could they use a custom recovery module to gain access to the data?  All they can do is flash any roms you've put out there, right? - can that mechanism be used to bypass lockscreen security.  And in any case, is there a way to password protect recovery?",
+    "ViewCount":"494",
+    "LastActivityDate":"2013-01-03T16:03:07.780",
+    "ClosedDate":"2013-01-04T12:41:14.810",
+    "Title":"security implications of unlocking, rooting, cutom recovery, etc",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"13",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26072",
+    "CreationDate":"2013-01-03T16:03:07.780",
+    "FavoriteCount":null,
+    "Id":"36800",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-03T16:03:07.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f495048-6ee2-4f20-9842-24ed4c1e0f99",
+            "UserId":"26072",
+            "CloseReasonId":null,
+            "PostId":"36800",
+            "PostHistoryTypeId":"2",
+            "Id":"111294",
+            "Text":"Just curious. There are lots of posts on the web that talk about the fact that unlocking your bootloader wipes apps and data - presumably to prevent unauthorized access to that info.  But in order to unlock the bootloader, you need adb access, and with adb access, any unauthorized person could get access to that data even with the bootloader locked. So, essentially, if you've enabled usb debugging, there's no security on this info once you plug the device into a computer. If that's true, the security rationale for wiping this data on unlock is a red herring, and seems mostly to be done to scare people away from unlocking, no?That said, I guess that raises the issue of whether you should leave usb debugging enabled on a dev mode phone. Also, does unlocking the bootloader open up other major security holes? Obviously allowing arbitrary kernels to boot could be a problem, but without entering your password on the lock screen and turning on adb access (or usb mounting), can somebody get access through the bootloader (or a flashed recovery module)?On my nexus one, usb access required you to okay it from the phone - i.e. you had to at least enter your lockscreen password in order to say okay.  Just got a nexus 4, and usb access is different - you get a choice between MTP or camera mode, but I don't remember being asked whether to grant access at all (don't have it with me to check).  But assuming it wouldn't be granted without the lockscreen password having been entered, I guess that's okay.That leaves the recovery module.  I guess anybody can get access to that, and a malicious user (even on a locked phone?) could restore the phone to factory settings and wipe all your data.  But could they use a custom recovery module to gain access to the data?  All they can do is flash any roms you've put out there, right? - can that mechanism be used to bypass lockscreen security.  And in any case, is there a way to password protect recovery?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-03T16:03:07.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f495048-6ee2-4f20-9842-24ed4c1e0f99",
+            "UserId":"26072",
+            "CloseReasonId":null,
+            "PostId":"36800",
+            "PostHistoryTypeId":"1",
+            "Id":"111295",
+            "Text":"security implications of unlocking, rooting, cutom recovery, etc"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-03T16:03:07.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f495048-6ee2-4f20-9842-24ed4c1e0f99",
+            "UserId":"26072",
+            "CloseReasonId":null,
+            "PostId":"36800",
+            "PostHistoryTypeId":"3",
+            "Id":"111296",
+            "Text":""
+        },
+        {
+            "Comment":"4",
+            "CreationDate":"2013-01-04T12:41:14.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d64c163-cf29-4414-bb30-808c0bcaa7b3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36800",
+            "PostHistoryTypeId":"10",
+            "Id":"111565",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

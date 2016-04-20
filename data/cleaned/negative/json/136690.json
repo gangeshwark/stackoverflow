@@ -1,0 +1,71 @@
+{
+    "Body":"I have 2 google accounts - 'A' and 'B'. How can I make B account primary account instead of A account?",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-02-10T10:51:12.217",
+    "ClosedDate":"2016-02-27T03:58:59.727",
+    "Title":"Making an account as primary one",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"150651",
+    "CreationDate":"2016-02-10T10:51:12.217",
+    "FavoriteCount":null,
+    "Id":"136690",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-10T10:51:12.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"89d4ad25-cc8e-4fe1-8df7-41bd16566ecc",
+            "UserId":"150651",
+            "CloseReasonId":null,
+            "PostId":"136690",
+            "PostHistoryTypeId":"2",
+            "Id":"455451",
+            "Text":"I have 2 google accounts - 'A' and 'B'. How can I make B account primary account instead of A account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-10T10:51:12.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"89d4ad25-cc8e-4fe1-8df7-41bd16566ecc",
+            "UserId":"150651",
+            "CloseReasonId":null,
+            "PostId":"136690",
+            "PostHistoryTypeId":"1",
+            "Id":"455452",
+            "Text":"Making an account as primary one"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-10T10:51:12.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"89d4ad25-cc8e-4fe1-8df7-41bd16566ecc",
+            "UserId":"150651",
+            "CloseReasonId":null,
+            "PostId":"136690",
+            "PostHistoryTypeId":"3",
+            "Id":"455453",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-27T03:58:59.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"73565ffc-828a-40c0-991e-d6f50d720997",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"136690",
+            "PostHistoryTypeId":"10",
+            "Id":"461652",
+            "Text":"{\"OriginalQuestionIds\":[93173,70215],\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

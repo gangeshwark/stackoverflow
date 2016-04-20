@@ -1,0 +1,71 @@
+{
+    "Body":"i have forgot my minitab password.How can i reset my tab?Its asking me for  username and passcode and at the same time my tab is not picking up any internet signals its to really hard to do.",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-07-21T08:21:33.017",
+    "ClosedDate":"2015-07-21T13:45:22.043",
+    "Title":"how to reset my forgotten mini tab password?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117683",
+    "CreationDate":"2015-07-21T08:21:33.017",
+    "FavoriteCount":null,
+    "Id":"115894",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-21T08:21:33.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"4fa31ee4-fb2a-492e-8064-85d51861aad0",
+            "UserId":"117683",
+            "CloseReasonId":null,
+            "PostId":"115894",
+            "PostHistoryTypeId":"2",
+            "Id":"380815",
+            "Text":"i have forgot my minitab password.How can i reset my tab?Its asking me for  username and passcode and at the same time my tab is not picking up any internet signals its to really hard to do."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-21T08:21:33.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"4fa31ee4-fb2a-492e-8064-85d51861aad0",
+            "UserId":"117683",
+            "CloseReasonId":null,
+            "PostId":"115894",
+            "PostHistoryTypeId":"1",
+            "Id":"380816",
+            "Text":"how to reset my forgotten mini tab password?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-21T08:21:33.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"4fa31ee4-fb2a-492e-8064-85d51861aad0",
+            "UserId":"117683",
+            "CloseReasonId":null,
+            "PostId":"115894",
+            "PostHistoryTypeId":"3",
+            "Id":"380817",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-21T13:45:22.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"9b3895c1-fc53-4d67-8f70-7cbd82925914",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"115894",
+            "PostHistoryTypeId":"10",
+            "Id":"380959",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

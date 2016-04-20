@@ -1,0 +1,83 @@
+{
+    "Body":"I was wondering if anyone could help me. I was looking through the internet trying to figure out the problem of why Google play store was asking me about authentication to be able to download a certain app. I found an answer so I tried it and it made the error message pop up that says \"error retrieving information for server [RH-01]. What I did to make this message pop up was go to my settings and go to application manager.  Then I went to Google play store. I then cleared data and forced to stop. Ever since I did that the play store has not been working and this error message has been popping up. Could anyone please help me on fixing this error. ",
+    "ViewCount":"10",
+    "LastActivityDate":"2016-03-03T08:04:45.247",
+    "ClosedDate":"2016-03-03T08:37:00.777",
+    "Title":"How to fix error message on Google play store \"error retrieving information from server [RH-01]",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2016-03-03T08:04:45.247",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154321",
+    "CreationDate":"2016-03-03T07:05:08.933",
+    "FavoriteCount":null,
+    "Id":"138694",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T07:05:08.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"23ae406f-319c-4410-984e-9843a3770b5b",
+            "UserId":"154321",
+            "CloseReasonId":null,
+            "PostId":"138694",
+            "PostHistoryTypeId":"2",
+            "Id":"463574",
+            "Text":"I was wondering if anyone could help me. I was looking through the internet trying to figure out the problem of why Google play store was asking me about authentication to be able to download a certain app. I found an answer so I tried it and it made the error message pop up that says \"error retrieving information for server [RH-01]. What I did to make this message pop up was go to my settings and go to application manager.  Then I went to Google play store. I then cleared data and forced to stop. Ever since I did that the play store has not been working and this error message has been popping up. Could anyone please help me on fixing this error. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T07:05:08.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"23ae406f-319c-4410-984e-9843a3770b5b",
+            "UserId":"154321",
+            "CloseReasonId":null,
+            "PostId":"138694",
+            "PostHistoryTypeId":"1",
+            "Id":"463575",
+            "Text":"How to fix error message on Google play store \"error retrieving information from server [RH-01]"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T07:05:08.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"23ae406f-319c-4410-984e-9843a3770b5b",
+            "UserId":"154321",
+            "CloseReasonId":null,
+            "PostId":"138694",
+            "PostHistoryTypeId":"3",
+            "Id":"463576",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-03-03T08:04:45.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"0687196e-15ec-411f-ae00-eb5d60594596",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"138694",
+            "PostHistoryTypeId":"6",
+            "Id":"463592",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-03T08:37:00.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf03602c-03d5-4699-9399-602ff3080404",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138694",
+            "PostHistoryTypeId":"10",
+            "Id":"463600",
+            "Text":"{\"OriginalQuestionIds\":[34524],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

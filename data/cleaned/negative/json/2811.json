@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to be able to view 3D models on my phone. Are there any 3D viewers out there, free or paid, that will allow me to open up a 3D geometry file  and rotate around, zoom, and pan about a 3D model? It doesn't matter what file type, you can always convert them from a computer.",
+    "ViewCount":"326",
+    "LastActivityDate":"2013-02-16T21:18:53.420",
+    "ClosedDate":"2015-06-03T02:57:15.617",
+    "Title":"3D model viewers",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"2818",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1068",
+    "CreationDate":"2010-11-12T06:58:20.953",
+    "FavoriteCount":null,
+    "Id":"2811",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-12T06:58:20.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"3321756d-2224-4841-8be6-331777d09776",
+            "UserId":"1068",
+            "CloseReasonId":null,
+            "PostId":"2811",
+            "PostHistoryTypeId":"2",
+            "Id":"5615",
+            "Text":"I would like to be able to view 3D models on my phone. Are there any 3D viewers out there, free or paid, that will allow me to open up a 3D geometry file  and rotate around, zoom, and pan about a 3D model? It doesn't matter what file type, you can always convert them from a computer."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-12T06:58:20.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"3321756d-2224-4841-8be6-331777d09776",
+            "UserId":"1068",
+            "CloseReasonId":null,
+            "PostId":"2811",
+            "PostHistoryTypeId":"1",
+            "Id":"5616",
+            "Text":"3D model viewers"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-11-12T06:58:20.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"3321756d-2224-4841-8be6-331777d09776",
+            "UserId":"1068",
+            "CloseReasonId":null,
+            "PostId":"2811",
+            "PostHistoryTypeId":"3",
+            "Id":"5617",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-06-03T02:57:15.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"71b61822-b7ae-4ef5-9d16-6c6cad1a3d62",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"2811",
+            "PostHistoryTypeId":"10",
+            "Id":"363797",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I don't understand why data is needed to send a picture with a text or to send a text to multiple recipients. These things did not need data on a dumb phone. They just used texting.",
+    "ViewCount":"673",
+    "LastActivityDate":"2014-05-27T05:57:00.730",
+    "ClosedDate":"2014-05-27T13:41:37.137",
+    "Title":"Why does my data plan need to be on to send pictures with text?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"61571",
+    "CreationDate":"2014-05-26T22:31:42.287",
+    "FavoriteCount":null,
+    "Id":"70049",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-26T22:31:42.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"81530118-2ba1-4ba2-b70f-95ccc8d02d11",
+            "UserId":"61571",
+            "CloseReasonId":null,
+            "PostId":"70049",
+            "PostHistoryTypeId":"2",
+            "Id":"239114",
+            "Text":"I don't understand why data is needed to send a picture with a text or to send a text to multiple recipients. These things did not need data on a dumb phone. They just used texting."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-26T22:31:42.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"81530118-2ba1-4ba2-b70f-95ccc8d02d11",
+            "UserId":"61571",
+            "CloseReasonId":null,
+            "PostId":"70049",
+            "PostHistoryTypeId":"1",
+            "Id":"239115",
+            "Text":"Why does my data plan need to be on to send pictures with text?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-26T22:31:42.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"81530118-2ba1-4ba2-b70f-95ccc8d02d11",
+            "UserId":"61571",
+            "CloseReasonId":null,
+            "PostId":"70049",
+            "PostHistoryTypeId":"3",
+            "Id":"239116",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-05-27T13:41:37.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"708d2e9d-d209-415e-9bee-482a7c025d2d",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"70049",
+            "PostHistoryTypeId":"10",
+            "Id":"239216",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

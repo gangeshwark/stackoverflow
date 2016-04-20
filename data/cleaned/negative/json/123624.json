@@ -1,0 +1,71 @@
+{
+    "Body":"I am thinking about buying Tasker, and swype. If I purchase these apps, will I need to pay for them on each device? Or will a single purchase allow me to install on all my devices?",
+    "ViewCount":"113",
+    "LastActivityDate":"2015-09-20T02:35:16.413",
+    "ClosedDate":"2015-09-20T05:40:25.260",
+    "Title":"do I pay for multiple downloads of paid apps?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"123626",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"126630",
+    "CreationDate":"2015-09-20T02:22:37.410",
+    "FavoriteCount":"1",
+    "Id":"123624",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-20T02:22:37.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"05188e69-f032-460d-85d4-ed1314daae67",
+            "UserId":"126630",
+            "CloseReasonId":null,
+            "PostId":"123624",
+            "PostHistoryTypeId":"2",
+            "Id":"403872",
+            "Text":"I am thinking about buying Tasker, and swype. If I purchase these apps, will I need to pay for them on each device? Or will a single purchase allow me to install on all my devices?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-20T02:22:37.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"05188e69-f032-460d-85d4-ed1314daae67",
+            "UserId":"126630",
+            "CloseReasonId":null,
+            "PostId":"123624",
+            "PostHistoryTypeId":"1",
+            "Id":"403873",
+            "Text":"do I pay for multiple downloads of paid apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-20T02:22:37.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"05188e69-f032-460d-85d4-ed1314daae67",
+            "UserId":"126630",
+            "CloseReasonId":null,
+            "PostId":"123624",
+            "PostHistoryTypeId":"3",
+            "Id":"403874",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-20T05:40:25.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"d14a7ccc-e616-4e4b-a80a-bce32234b673",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"123624",
+            "PostHistoryTypeId":"10",
+            "Id":"403904",
+            "Text":"{\"OriginalQuestionIds\":[11407],\"Voters\":[{\"Id\":981,\"DisplayName\":\"user981\"}]}"
+        }
+    ]
+}

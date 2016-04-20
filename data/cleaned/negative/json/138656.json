@@ -1,0 +1,71 @@
+{
+    "Body":"I'm a beginner in android development.So, I'm in 3rd year bachelor, and for my project I choosed to code an android application, for geo-localisation of some bus, so my question is, is-it possible to track many android phones and show results in one map in real-time? and if you have other good ideas for me, please comment it out, Thanks.",
+    "ViewCount":"14",
+    "LastActivityDate":"2016-03-02T18:29:47.247",
+    "ClosedDate":"2016-03-02T20:41:33.917",
+    "Title":"Android localisation",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154250",
+    "CreationDate":"2016-03-02T18:29:47.247",
+    "FavoriteCount":null,
+    "Id":"138656",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T18:29:47.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"509ddab7-a08a-40cb-92f3-8d392cb09244",
+            "UserId":"154250",
+            "CloseReasonId":null,
+            "PostId":"138656",
+            "PostHistoryTypeId":"2",
+            "Id":"463415",
+            "Text":"I'm a beginner in android development.So, I'm in 3rd year bachelor, and for my project I choosed to code an android application, for geo-localisation of some bus, so my question is, is-it possible to track many android phones and show results in one map in real-time? and if you have other good ideas for me, please comment it out, Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T18:29:47.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"509ddab7-a08a-40cb-92f3-8d392cb09244",
+            "UserId":"154250",
+            "CloseReasonId":null,
+            "PostId":"138656",
+            "PostHistoryTypeId":"1",
+            "Id":"463416",
+            "Text":"Android localisation"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T18:29:47.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"509ddab7-a08a-40cb-92f3-8d392cb09244",
+            "UserId":"154250",
+            "CloseReasonId":null,
+            "PostId":"138656",
+            "PostHistoryTypeId":"3",
+            "Id":"463417",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-02T20:41:33.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"3569c68c-8818-42ec-a0bf-88558ef5333e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138656",
+            "PostHistoryTypeId":"10",
+            "Id":"463439",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

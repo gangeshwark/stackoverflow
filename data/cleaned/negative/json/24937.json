@@ -1,0 +1,71 @@
+{
+    "Body":"When I schedule an event in the standard calendar on a HTC Desire HD, the HTC Locations app is used to show the map to the location if I provide one. I want it to use Google Maps instead. I searched the settings but can't figure out how to do this. Any ideas?",
+    "ViewCount":"45",
+    "LastActivityDate":"2012-06-27T22:54:19.597",
+    "ClosedDate":"2012-12-23T11:41:54.700",
+    "Title":"How can I change mapping application used by HTCs calendar?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12560",
+    "CreationDate":"2012-06-27T22:54:19.597",
+    "FavoriteCount":null,
+    "Id":"24937",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-27T22:54:19.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"45723067-3efb-4203-918b-72d65febf757",
+            "UserId":"12560",
+            "CloseReasonId":null,
+            "PostId":"24937",
+            "PostHistoryTypeId":"2",
+            "Id":"71592",
+            "Text":"When I schedule an event in the standard calendar on a HTC Desire HD, the HTC Locations app is used to show the map to the location if I provide one. I want it to use Google Maps instead. I searched the settings but can't figure out how to do this. Any ideas?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-27T22:54:19.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"45723067-3efb-4203-918b-72d65febf757",
+            "UserId":"12560",
+            "CloseReasonId":null,
+            "PostId":"24937",
+            "PostHistoryTypeId":"1",
+            "Id":"71593",
+            "Text":"How can I change mapping application used by HTCs calendar?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-27T22:54:19.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"45723067-3efb-4203-918b-72d65febf757",
+            "UserId":"12560",
+            "CloseReasonId":null,
+            "PostId":"24937",
+            "PostHistoryTypeId":"3",
+            "Id":"71594",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T11:41:54.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"08f8a6dc-462a-4ed0-82de-dec448aaf705",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"24937",
+            "PostHistoryTypeId":"10",
+            "Id":"108457",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

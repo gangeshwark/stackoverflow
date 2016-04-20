@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Samsung Galaxy tab 4, 7\", rooted but running stock OS (Android 4.4.2. It was rooted using Odin 3.09 and TWRP recovery. I then enabled adb root with the adbd insecure app by Chainfire. It would appear that everything is good to go but when I run Droid Explorer with the tablet plugged in and USB debugging on, it appears to load correctly but then I do not have access to any files or folders. All I see on the left-hand side is a file labeled \"\/\" but I cannot actually open it and it shows \"0 objects\" at the bottom. I would really appreciate some help here, thanks.",
+    "ViewCount":"139",
+    "LastActivityDate":"2015-04-13T02:22:09.220",
+    "ClosedDate":"2015-04-13T01:07:21.680",
+    "Title":"Cannot access any files on Samsung Tab 4 7\"",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102162",
+    "CreationDate":"2015-04-13T00:20:02.537",
+    "FavoriteCount":null,
+    "Id":"105268",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T00:20:02.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"2911e762-cb69-4d48-a1bd-97d3da60d4fa",
+            "UserId":"102162",
+            "CloseReasonId":null,
+            "PostId":"105268",
+            "PostHistoryTypeId":"2",
+            "Id":"343972",
+            "Text":"I have a Samsung Galaxy tab 4, 7\", rooted but running stock OS (Android 4.4.2. It was rooted using Odin 3.09 and TWRP recovery. I then enabled adb root with the adbd insecure app by Chainfire. It would appear that everything is good to go but when I run Droid Explorer with the tablet plugged in and USB debugging on, it appears to load correctly but then I do not have access to any files or folders. All I see on the left-hand side is a file labeled \"\/\" but I cannot actually open it and it shows \"0 objects\" at the bottom. I would really appreciate some help here, thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T00:20:02.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"2911e762-cb69-4d48-a1bd-97d3da60d4fa",
+            "UserId":"102162",
+            "CloseReasonId":null,
+            "PostId":"105268",
+            "PostHistoryTypeId":"1",
+            "Id":"343973",
+            "Text":"Cannot access any files on Samsung Tab 4 7\""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-13T00:20:02.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"2911e762-cb69-4d48-a1bd-97d3da60d4fa",
+            "UserId":"102162",
+            "CloseReasonId":null,
+            "PostId":"105268",
+            "PostHistoryTypeId":"3",
+            "Id":"343974",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-13T01:07:21.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ba0c544-d6af-4b86-9259-df381efbd0ac",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105268",
+            "PostHistoryTypeId":"10",
+            "Id":"343978",
+            "Text":"{\"OriginalQuestionIds\":[95874],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

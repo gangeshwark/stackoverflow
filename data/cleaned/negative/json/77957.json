@@ -1,0 +1,71 @@
+{
+    "Body":"i had flashed a custom rom on my device. But unfortunately it does not boot properly. And suddenly i have noticed that my volume keys are not working. And i had'nt debug mode opened. so now what can i do? how can i open recovery mode with only one hard key?",
+    "ViewCount":"387",
+    "LastActivityDate":"2014-07-25T01:03:13.177",
+    "ClosedDate":"2014-08-04T10:57:42.980",
+    "Title":"Is there any way to open recovery mode with only hard keys?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68063",
+    "CreationDate":"2014-07-24T07:46:05.353",
+    "FavoriteCount":null,
+    "Id":"77957",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T07:46:05.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce6e73bc-5957-4e97-a7f4-13f427cb4680",
+            "UserId":"68063",
+            "CloseReasonId":null,
+            "PostId":"77957",
+            "PostHistoryTypeId":"2",
+            "Id":"257025",
+            "Text":"i had flashed a custom rom on my device. But unfortunately it does not boot properly. And suddenly i have noticed that my volume keys are not working. And i had'nt debug mode opened. so now what can i do? how can i open recovery mode with only one hard key?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T07:46:05.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce6e73bc-5957-4e97-a7f4-13f427cb4680",
+            "UserId":"68063",
+            "CloseReasonId":null,
+            "PostId":"77957",
+            "PostHistoryTypeId":"1",
+            "Id":"257026",
+            "Text":"Is there any way to open recovery mode with only hard keys?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-24T07:46:05.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce6e73bc-5957-4e97-a7f4-13f427cb4680",
+            "UserId":"68063",
+            "CloseReasonId":null,
+            "PostId":"77957",
+            "PostHistoryTypeId":"3",
+            "Id":"257027",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-08-04T10:57:42.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"0583be67-8ae6-4bef-a894-b354215b2a93",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"77957",
+            "PostHistoryTypeId":"10",
+            "Id":"259708",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

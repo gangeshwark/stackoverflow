@@ -1,0 +1,71 @@
+{
+    "Body":"I am an android developer. Using my moto g first gen for testing my applications. I connect the device to laptop for 12 hrs per day. Now i am planning to buy s4. Will it reduce my device's life?",
+    "ViewCount":"25",
+    "LastActivityDate":"2015-02-19T05:52:01.387",
+    "ClosedDate":"2015-02-19T14:58:58.467",
+    "Title":"Does testing in android device will reduce it's life?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94997",
+    "CreationDate":"2015-02-19T05:41:25.167",
+    "FavoriteCount":null,
+    "Id":"100255",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T05:41:25.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"e72de0bf-03e1-49e6-b520-3272c615de5f",
+            "UserId":"94997",
+            "CloseReasonId":null,
+            "PostId":"100255",
+            "PostHistoryTypeId":"2",
+            "Id":"325480",
+            "Text":"I am an android developer. Using my moto g first gen for testing my applications. I connect the device to laptop for 12 hrs per day. Now i am planning to buy s4. Will it reduce my device's life?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T05:41:25.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"e72de0bf-03e1-49e6-b520-3272c615de5f",
+            "UserId":"94997",
+            "CloseReasonId":null,
+            "PostId":"100255",
+            "PostHistoryTypeId":"1",
+            "Id":"325481",
+            "Text":"Does testing in android device will reduce it's life?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T05:41:25.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"e72de0bf-03e1-49e6-b520-3272c615de5f",
+            "UserId":"94997",
+            "CloseReasonId":null,
+            "PostId":"100255",
+            "PostHistoryTypeId":"3",
+            "Id":"325482",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-19T14:58:58.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"80d343d8-f156-453c-86c0-8e612e7d4b4f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"100255",
+            "PostHistoryTypeId":"10",
+            "Id":"325638",
+            "Text":"{\"OriginalQuestionIds\":[1020],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

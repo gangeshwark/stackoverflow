@@ -1,0 +1,71 @@
+{
+    "Body":"Is there an adb command to turn off the headsup notification at the top of the screen?I get loads of notifications throughout the day, but everytime it popsup I have to wait for it before I can press the button that's sitting behind the notification. I can't swipe it away either, because that just removes it from the dropdown notification area.",
+    "ViewCount":"15",
+    "LastActivityDate":"2016-01-02T01:58:13.653",
+    "ClosedDate":"2016-01-02T03:36:00.347",
+    "Title":"adb command to disable Headsup notification in Android 5.1",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"143400",
+    "CreationDate":"2016-01-02T01:58:13.653",
+    "FavoriteCount":null,
+    "Id":"133161",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-02T01:58:13.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"bffcde6f-22da-4c88-9127-16b079b04206",
+            "UserId":"143400",
+            "CloseReasonId":null,
+            "PostId":"133161",
+            "PostHistoryTypeId":"2",
+            "Id":"441138",
+            "Text":"Is there an adb command to turn off the headsup notification at the top of the screen?I get loads of notifications throughout the day, but everytime it popsup I have to wait for it before I can press the button that's sitting behind the notification. I can't swipe it away either, because that just removes it from the dropdown notification area."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-02T01:58:13.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"bffcde6f-22da-4c88-9127-16b079b04206",
+            "UserId":"143400",
+            "CloseReasonId":null,
+            "PostId":"133161",
+            "PostHistoryTypeId":"1",
+            "Id":"441139",
+            "Text":"adb command to disable Headsup notification in Android 5.1"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-02T01:58:13.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"bffcde6f-22da-4c88-9127-16b079b04206",
+            "UserId":"143400",
+            "CloseReasonId":null,
+            "PostId":"133161",
+            "PostHistoryTypeId":"3",
+            "Id":"441140",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-02T03:36:00.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"5e88f7ed-424c-442d-af74-bd940e24f1a6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"133161",
+            "PostHistoryTypeId":"10",
+            "Id":"441146",
+            "Text":"{\"OriginalQuestionIds\":[124298],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

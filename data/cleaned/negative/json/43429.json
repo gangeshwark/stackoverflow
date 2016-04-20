@@ -1,0 +1,71 @@
+{
+    "Body":"Is there anything to be done if I don't want particular folder containing audio, video or images being displayed at gallery or any audio application ?Actually I am facing problems since my audio books are also being listed at all songs playlist of music players.Any suggestions ?",
+    "ViewCount":"2676",
+    "LastActivityDate":"2013-04-10T12:16:23.500",
+    "ClosedDate":"2013-04-10T14:21:31.407",
+    "Title":"How to hide audio, video or images at gallery?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25278",
+    "CreationDate":"2013-04-10T10:59:54.353",
+    "FavoriteCount":null,
+    "Id":"43429",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-10T10:59:54.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2e2360a-f3af-48aa-8ff8-129e63b243f2",
+            "UserId":"25278",
+            "CloseReasonId":null,
+            "PostId":"43429",
+            "PostHistoryTypeId":"2",
+            "Id":"138793",
+            "Text":"Is there anything to be done if I don't want particular folder containing audio, video or images being displayed at gallery or any audio application ?Actually I am facing problems since my audio books are also being listed at all songs playlist of music players.Any suggestions ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-10T10:59:54.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2e2360a-f3af-48aa-8ff8-129e63b243f2",
+            "UserId":"25278",
+            "CloseReasonId":null,
+            "PostId":"43429",
+            "PostHistoryTypeId":"1",
+            "Id":"138794",
+            "Text":"How to hide audio, video or images at gallery?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-10T10:59:54.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"e2e2360a-f3af-48aa-8ff8-129e63b243f2",
+            "UserId":"25278",
+            "CloseReasonId":null,
+            "PostId":"43429",
+            "PostHistoryTypeId":"3",
+            "Id":"138795",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-04-10T14:21:31.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"6681247f-6a95-44ba-9e8e-1f531dfc9b74",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"43429",
+            "PostHistoryTypeId":"10",
+            "Id":"138893",
+            "Text":"{\"OriginalQuestionIds\":[7866],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

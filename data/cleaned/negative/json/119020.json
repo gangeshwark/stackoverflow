@@ -1,0 +1,71 @@
+{
+    "Body":"First post here so sorry if its in the wrong place.We are now starting to develop for Android and i am sure this is a age old question but here goes.Obviously Android has hundreds of devices and we only really want to support the devices that are relevant or the most widely used devices.Is there a infographic or somewhere where we can get details information based on which are the best devices to support based on user locations.So for instance the ability to findout what are the most popular Android devices to support in the UK.Save us trying to support IE6 as a internet example?Thanks",
+    "ViewCount":"348",
+    "LastActivityDate":"2015-08-12T09:54:09.383",
+    "ClosedDate":"2015-08-12T15:24:19.953",
+    "Title":"List of most popular Android devices to support",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"119022",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"121839",
+    "CreationDate":"2015-08-12T09:25:40.130",
+    "FavoriteCount":null,
+    "Id":"119020",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T09:25:40.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"37091100-869d-477d-b3b7-559a9a8b8d8a",
+            "UserId":"121839",
+            "CloseReasonId":null,
+            "PostId":"119020",
+            "PostHistoryTypeId":"2",
+            "Id":"389780",
+            "Text":"First post here so sorry if its in the wrong place.We are now starting to develop for Android and i am sure this is a age old question but here goes.Obviously Android has hundreds of devices and we only really want to support the devices that are relevant or the most widely used devices.Is there a infographic or somewhere where we can get details information based on which are the best devices to support based on user locations.So for instance the ability to findout what are the most popular Android devices to support in the UK.Save us trying to support IE6 as a internet example?Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T09:25:40.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"37091100-869d-477d-b3b7-559a9a8b8d8a",
+            "UserId":"121839",
+            "CloseReasonId":null,
+            "PostId":"119020",
+            "PostHistoryTypeId":"1",
+            "Id":"389781",
+            "Text":"List of most popular Android devices to support"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T09:25:40.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"37091100-869d-477d-b3b7-559a9a8b8d8a",
+            "UserId":"121839",
+            "CloseReasonId":null,
+            "PostId":"119020",
+            "PostHistoryTypeId":"3",
+            "Id":"389782",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-12T15:24:19.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"96242961-f141-4f29-ad59-532ce2af6cbb",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"119020",
+            "PostHistoryTypeId":"10",
+            "Id":"389904",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

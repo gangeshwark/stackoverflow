@@ -1,0 +1,71 @@
+{
+    "Body":"I'm fairly new to android development, but am I long time android user. Phones used to have a \"hardware\" menu button, which I have since seen is emulated in software, but only when I'm running an 'old' app on my phone (\"three dots stacked on top of each other that appears to the right of all the other buttons)Why is writing apps that make use of the button discouraged?Is it not supported by most phones?Is it a bad user experience? ('swipe down from top to access soft buttons', etc..)",
+    "ViewCount":"112",
+    "LastActivityDate":"2015-06-04T20:08:08.150",
+    "ClosedDate":"2015-06-04T20:47:10.107",
+    "Title":"Old fashioned menu button",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"111468",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"31913",
+    "CreationDate":"2015-06-04T16:06:55.160",
+    "FavoriteCount":null,
+    "Id":"111454",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-04T16:06:55.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a5217f9-63db-4ef5-aa0f-3cbad9b7da89",
+            "UserId":"31913",
+            "CloseReasonId":null,
+            "PostId":"111454",
+            "PostHistoryTypeId":"2",
+            "Id":"364445",
+            "Text":"I'm fairly new to android development, but am I long time android user. Phones used to have a \"hardware\" menu button, which I have since seen is emulated in software, but only when I'm running an 'old' app on my phone (\"three dots stacked on top of each other that appears to the right of all the other buttons)Why is writing apps that make use of the button discouraged?Is it not supported by most phones?Is it a bad user experience? ('swipe down from top to access soft buttons', etc..)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-04T16:06:55.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a5217f9-63db-4ef5-aa0f-3cbad9b7da89",
+            "UserId":"31913",
+            "CloseReasonId":null,
+            "PostId":"111454",
+            "PostHistoryTypeId":"1",
+            "Id":"364446",
+            "Text":"Old fashioned menu button"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-04T16:06:55.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a5217f9-63db-4ef5-aa0f-3cbad9b7da89",
+            "UserId":"31913",
+            "CloseReasonId":null,
+            "PostId":"111454",
+            "PostHistoryTypeId":"3",
+            "Id":"364447",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-06-04T20:47:10.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"bce91e36-23f0-4c9f-b7ce-56d216728f02",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111454",
+            "PostHistoryTypeId":"10",
+            "Id":"364567",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

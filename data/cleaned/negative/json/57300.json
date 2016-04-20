@@ -1,0 +1,71 @@
+{
+    "Body":"This is a newbie question. While travelling, I need to recharge my Galaxy Nexus and my digital camera, both of which are meant to be charged through a micro-USB port, ie. 0,5A.To reduce charging time, I have an 1A AC adaptor but it only has a single USB port.Google shows a number of two-port AC adaptors:one port is 1A, the other is 2,1A (it looks like Apple devices expect 2,1A)this one delivers 2A when using a single port, but 1A when using both portsIn case I only need to charge a single device, is it safe to have it fed 2 or 2,1A? I read that a device only uses the intensity it needs, but will it fry if it's fed too much intensity?Thank you.",
+    "ViewCount":"169",
+    "LastActivityDate":"2013-11-19T17:19:18.263",
+    "ClosedDate":"2013-11-20T07:24:00.630",
+    "Title":"Is it safe charging a Galaxy Nexus through a USB 2A port?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"57309",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15581",
+    "CreationDate":"2013-11-19T10:20:18.593",
+    "FavoriteCount":"1",
+    "Id":"57300",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-19T10:20:18.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"2bfc6dab-1bfa-4110-8c59-eb7732999962",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"57300",
+            "PostHistoryTypeId":"2",
+            "Id":"192198",
+            "Text":"This is a newbie question. While travelling, I need to recharge my Galaxy Nexus and my digital camera, both of which are meant to be charged through a micro-USB port, ie. 0,5A.To reduce charging time, I have an 1A AC adaptor but it only has a single USB port.Google shows a number of two-port AC adaptors:- one port is 1A, the other is 2,1A (it looks like Apple devices expect 2,1A)- [this one][1] delivers 2A when using a single port, but 1A when using both portsIn case I only need to charge a single device, is it safe to have it fed 2 or 2,1A? I read that a device only uses the intensity it needs, but will it fry if it's fed too much intensity?Thank you.  [1]: http:\/\/www.ebay.com\/itm\/New-EU-2-Dual-USB-Port-Home-Travel-Wall-AC-Power-Charger-Adapter-For-samsung-HTC-\/121215418996"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-19T10:20:18.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"2bfc6dab-1bfa-4110-8c59-eb7732999962",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"57300",
+            "PostHistoryTypeId":"1",
+            "Id":"192199",
+            "Text":"Is it safe charging a Galaxy Nexus through a USB 2A port?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-19T10:20:18.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"2bfc6dab-1bfa-4110-8c59-eb7732999962",
+            "UserId":"15581",
+            "CloseReasonId":null,
+            "PostId":"57300",
+            "PostHistoryTypeId":"3",
+            "Id":"192200",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-20T07:24:00.630",
+            "UserDisplayName":null,
+            "RevisionGUID":"da66a265-eda6-43c3-bf68-228aae59276d",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"57300",
+            "PostHistoryTypeId":"10",
+            "Id":"192449",
+            "Text":"{\"OriginalQuestionIds\":[13448],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I would like to know what the icon that looks like a backspace keyboard key in the upper-left hand side of the notification panel means (what application does it correspond to?).In the screenshot given below the icon is found in the very left-most position in the notification icons area.Thanks.",
+    "ViewCount":"146",
+    "LastActivityDate":"2015-02-14T13:13:28.413",
+    "ClosedDate":"2015-02-14T16:06:02.137",
+    "Title":"Item that looks like the keyboard's Backspace key in the notification panel?",
+    "LastEditorUserId":"41884",
+    "Tags":"",
+    "LastEditDate":"2015-02-14T13:06:57.730",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"98768",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41884",
+    "CreationDate":"2015-02-14T12:53:08.250",
+    "FavoriteCount":null,
+    "Id":"98766",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-14T12:53:08.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"170df753-f536-43b6-806f-2e20b35457e3",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"98766",
+            "PostHistoryTypeId":"2",
+            "Id":"322737",
+            "Text":"I would like to know what the icon that looks like a backspace keyboard key in the upper-left hand side of the notification panel means (what application does it correspond to?).(couldn't post a screenshot as I no longer have this icon there at the moment).Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-14T12:53:08.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"170df753-f536-43b6-806f-2e20b35457e3",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"98766",
+            "PostHistoryTypeId":"1",
+            "Id":"322738",
+            "Text":"Item that looks like the keyboard's Backspace key in the notification panel?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-14T12:53:08.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"170df753-f536-43b6-806f-2e20b35457e3",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"98766",
+            "PostHistoryTypeId":"3",
+            "Id":"322739",
+            "Text":""
+        },
+        {
+            "Comment":"added screenshot",
+            "CreationDate":"2015-02-14T13:06:57.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"5b79775f-777b-47e8-a4db-6dbda48209d7",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"98766",
+            "PostHistoryTypeId":"5",
+            "Id":"322745",
+            "Text":"I would like to know what the icon that looks like a backspace keyboard key in the upper-left hand side of the notification panel means (what application does it correspond to?).In the screenshot given below the icon is found in the very left-most position in the notification icons area.![enter image description here][1]Thanks.  [1]: http:\/\/i.stack.imgur.com\/Rxjsf.jpg"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-14T16:06:02.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"cfc5d563-0114-42f9-864b-78b8ad9c1a1e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"98766",
+            "PostHistoryTypeId":"10",
+            "Id":"322812",
+            "Text":"{\"OriginalQuestionIds\":[61686],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

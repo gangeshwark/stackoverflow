@@ -1,0 +1,71 @@
+{
+    "Body":"Where in the file system are SMS messages stored? plese list the path",
+    "ViewCount":"3436",
+    "LastActivityDate":"2015-01-31T23:34:10.587",
+    "ClosedDate":"2015-02-01T00:39:13.127",
+    "Title":"what is the path the file system location where SMS messages stored?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92423",
+    "CreationDate":"2015-01-31T23:26:46.567",
+    "FavoriteCount":null,
+    "Id":"97500",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T23:26:46.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"e6686189-b557-4ef2-9799-5da123863096",
+            "UserId":"92423",
+            "CloseReasonId":null,
+            "PostId":"97500",
+            "PostHistoryTypeId":"2",
+            "Id":"317965",
+            "Text":"Where in the file system are SMS messages stored? plese list the path"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T23:26:46.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"e6686189-b557-4ef2-9799-5da123863096",
+            "UserId":"92423",
+            "CloseReasonId":null,
+            "PostId":"97500",
+            "PostHistoryTypeId":"1",
+            "Id":"317966",
+            "Text":"what is the path the file system location where SMS messages stored?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T23:26:46.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"e6686189-b557-4ef2-9799-5da123863096",
+            "UserId":"92423",
+            "CloseReasonId":null,
+            "PostId":"97500",
+            "PostHistoryTypeId":"3",
+            "Id":"317967",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-01T00:39:13.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"35651dd0-adfa-45bd-b59f-5618e72858aa",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"97500",
+            "PostHistoryTypeId":"10",
+            "Id":"317985",
+            "Text":"{\"OriginalQuestionIds\":[16915],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

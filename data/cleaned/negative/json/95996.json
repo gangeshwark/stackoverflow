@@ -1,0 +1,83 @@
+{
+    "Body":"I have read this post, showing how to retrieve the stored wi-fi passwords. But I am not able to access the file.And I have also enabled android backup settings for data. I think it also saves wi-fi passwords. But I don't know from which site I can access my android personal data.I have recently purchased a new mobile and rooting will void the warranty.Any idea how to retrieve without rooting.Thanks in advance !!",
+    "ViewCount":"33",
+    "LastActivityDate":"2015-01-16T06:59:44.850",
+    "ClosedDate":"2015-01-16T21:42:35.563",
+    "Title":"How to show wi-fi password without rooting your phone?",
+    "LastEditorUserId":"87151",
+    "Tags":"",
+    "LastEditDate":"2015-01-16T06:59:44.850",
+    "CommentCount":"10",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87151",
+    "CreationDate":"2015-01-16T06:09:24.947",
+    "FavoriteCount":null,
+    "Id":"95996",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T06:09:24.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee661545-1ed1-4a71-9d11-976c948db4ef",
+            "UserId":"87151",
+            "CloseReasonId":null,
+            "PostId":"95996",
+            "PostHistoryTypeId":"2",
+            "Id":"312585",
+            "Text":"I have read [this][1] post, showing how to retrieve the stored wi-fi passwords. But I am not able to access the file.I have recently purchased a new mobile and rooting will void the warranty.Any idea how to retrieve without rooting.Thanks in advance !!  [1]: http:\/\/android.stackexchange.com\/questions\/66039\/how-to-show-wifi-password"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T06:09:24.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee661545-1ed1-4a71-9d11-976c948db4ef",
+            "UserId":"87151",
+            "CloseReasonId":null,
+            "PostId":"95996",
+            "PostHistoryTypeId":"1",
+            "Id":"312586",
+            "Text":"How to show wi-fi password without rooting your phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T06:09:24.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee661545-1ed1-4a71-9d11-976c948db4ef",
+            "UserId":"87151",
+            "CloseReasonId":null,
+            "PostId":"95996",
+            "PostHistoryTypeId":"3",
+            "Id":"312587",
+            "Text":""
+        },
+        {
+            "Comment":"added 170 characters in body",
+            "CreationDate":"2015-01-16T06:59:44.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"2d91b3e9-f319-4b73-baab-ef4b819be7ce",
+            "UserId":"87151",
+            "CloseReasonId":null,
+            "PostId":"95996",
+            "PostHistoryTypeId":"5",
+            "Id":"312623",
+            "Text":"I have read [this][1] post, showing how to retrieve the stored wi-fi passwords. But I am not able to access the file.And I have also enabled android backup settings for data. I think it also saves wi-fi passwords. But I don't know from which site I can access my android personal data.I have recently purchased a new mobile and rooting will void the warranty.Any idea how to retrieve without rooting.Thanks in advance !!  [1]: http:\/\/android.stackexchange.com\/questions\/66039\/how-to-show-wifi-password"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-16T21:42:35.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"faa2b2b1-2f65-4870-bc28-871268f713e6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"95996",
+            "PostHistoryTypeId":"10",
+            "Id":"312877",
+            "Text":"{\"OriginalQuestionIds\":[36982],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

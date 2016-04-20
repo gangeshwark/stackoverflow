@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Samsung Galaxy S4 on Verizon if that matters.  Thanks!",
+    "ViewCount":"9188",
+    "LastActivityDate":"2015-01-22T17:29:45.540",
+    "ClosedDate":"2015-02-02T09:03:11.777",
+    "Title":"How do I send a group SMS with google hangouts?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47485",
+    "CreationDate":"2015-01-20T00:22:48.577",
+    "FavoriteCount":null,
+    "Id":"96346",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-20T00:22:48.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"35a867ac-32b1-4e7d-8e19-169603fa7450",
+            "UserId":"47485",
+            "CloseReasonId":null,
+            "PostId":"96346",
+            "PostHistoryTypeId":"2",
+            "Id":"313852",
+            "Text":"I have a Samsung Galaxy S4 on Verizon if that matters.  Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-20T00:22:48.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"35a867ac-32b1-4e7d-8e19-169603fa7450",
+            "UserId":"47485",
+            "CloseReasonId":null,
+            "PostId":"96346",
+            "PostHistoryTypeId":"1",
+            "Id":"313853",
+            "Text":"How do I send a group SMS with google hangouts?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-20T00:22:48.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"35a867ac-32b1-4e7d-8e19-169603fa7450",
+            "UserId":"47485",
+            "CloseReasonId":null,
+            "PostId":"96346",
+            "PostHistoryTypeId":"3",
+            "Id":"313854",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-02-02T09:03:11.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"57ad0625-31b2-4af6-a3e0-75ab2b65f652",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"96346",
+            "PostHistoryTypeId":"10",
+            "Id":"318349",
+            "Text":"{\"Voters\":[{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

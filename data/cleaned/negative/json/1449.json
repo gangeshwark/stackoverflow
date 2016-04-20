@@ -1,0 +1,71 @@
+{
+    "Body":"good software to automatically sync and backup your files without having to connect it to a computer via USB",
+    "ViewCount":"284",
+    "LastActivityDate":"2012-01-25T22:45:59.383",
+    "ClosedDate":"2014-12-18T17:37:30.270",
+    "Title":"what backup\/sync app is recommended for android phones (without computer)?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"1451",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"136",
+    "CreationDate":"2010-09-23T09:05:21.220",
+    "FavoriteCount":null,
+    "Id":"1449",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-23T09:05:21.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"ffc556ae-c94e-4a4c-bdeb-eccc152826e1",
+            "UserId":"136",
+            "CloseReasonId":null,
+            "PostId":"1449",
+            "PostHistoryTypeId":"2",
+            "Id":"2741",
+            "Text":"good software to automatically sync and backup your files without having to connect it to a computer via USB"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-23T09:05:21.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"ffc556ae-c94e-4a4c-bdeb-eccc152826e1",
+            "UserId":"136",
+            "CloseReasonId":null,
+            "PostId":"1449",
+            "PostHistoryTypeId":"1",
+            "Id":"2742",
+            "Text":"what backup\/sync app is recommended for android phones (without computer)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-23T09:05:21.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"ffc556ae-c94e-4a4c-bdeb-eccc152826e1",
+            "UserId":"136",
+            "CloseReasonId":null,
+            "PostId":"1449",
+            "PostHistoryTypeId":"3",
+            "Id":"2743",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-18T17:37:30.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a97c062-d4c6-4ca6-a213-d62fd4a38ca5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"1449",
+            "PostHistoryTypeId":"10",
+            "Id":"301686",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Use Google Talk with multiple accounts  I always use two Google accounts. One for personal use, and the other for professional-related things. On my phone, I have Android 2.3.4 installed (not rooted). I heard that multiple users have been enabled for Honeycomb's Google Talk app. I need that same feature for my phone but I can't seem to find the latest Google Talk app on the Play Store in order for me to update the one that came with my phone. What should I do?Note: Google Talk's I need the voice calling feature as well.",
+    "ViewCount":"980",
+    "LastActivityDate":"2012-05-08T17:49:54.877",
+    "ClosedDate":"2012-05-08T19:23:52.077",
+    "Title":"How to enable multiple users on Google Talk for Android 2.3.4?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"22842",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14368",
+    "CreationDate":"2012-05-08T17:42:59.427",
+    "FavoriteCount":null,
+    "Id":"22841",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-08T17:42:59.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"0318dbec-2bfe-47b7-a4fa-79dd31188c81",
+            "UserId":"14368",
+            "CloseReasonId":null,
+            "PostId":"22841",
+            "PostHistoryTypeId":"2",
+            "Id":"64634",
+            "Text":"I always use two Google accounts. One for personal use, and the other for professional-related things. On my phone, I have Android 2.3.4 installed (not rooted). I heard that multiple users have been enabled for Honeycomb's Google Talk app. I need that same feature for my phone but I can't seem to find the latest Google Talk app on the Play Store in order for me to update the one that came with my phone. What should I do?**Note:** Google Talk's I need the voice calling feature as well."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-08T17:42:59.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"0318dbec-2bfe-47b7-a4fa-79dd31188c81",
+            "UserId":"14368",
+            "CloseReasonId":null,
+            "PostId":"22841",
+            "PostHistoryTypeId":"1",
+            "Id":"64635",
+            "Text":"How to enable multiple users on Google Talk for Android 2.3.4?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-08T17:42:59.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"0318dbec-2bfe-47b7-a4fa-79dd31188c81",
+            "UserId":"14368",
+            "CloseReasonId":null,
+            "PostId":"22841",
+            "PostHistoryTypeId":"3",
+            "Id":"64636",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-05-08T19:23:52.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"5307ab26-6d23-4e0d-8774-bab06b5263b2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"22841",
+            "PostHistoryTypeId":"5",
+            "Id":"64643",
+            "Text":"> **Possible Duplicate:**  > [Use Google Talk with multiple accounts](http:\/\/android.stackexchange.com\/questions\/8877\/use-google-talk-with-multiple-accounts)  I always use two Google accounts. One for personal use, and the other for professional-related things. On my phone, I have Android 2.3.4 installed (not rooted). I heard that multiple users have been enabled for Honeycomb's Google Talk app. I need that same feature for my phone but I can't seem to find the latest Google Talk app on the Play Store in order for me to update the one that came with my phone. What should I do?**Note:** Google Talk's I need the voice calling feature as well."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-05-08T19:23:52.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"5154a0d0-e746-4865-916f-21d753d1c6b7",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"22841",
+            "PostHistoryTypeId":"10",
+            "Id":"64644",
+            "Text":"{\"OriginalQuestionIds\":[8877],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

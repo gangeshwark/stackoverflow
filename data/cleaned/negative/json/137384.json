@@ -1,0 +1,71 @@
+{
+    "Body":"I just got a verizon galaxy s4 sch-i545, used. It's running stock OC1, and it is rooted(I don't know how). It It seems to have some kind of recovery, but I don't know what it is.I'm just curious what it is, as I am planning to move away from stock roms, and I want a trustable recovery.",
+    "ViewCount":"8",
+    "LastActivityDate":"2016-02-18T03:20:44.890",
+    "ClosedDate":"2016-02-18T19:47:05.393",
+    "Title":"What recovery is on this sch-i545, and where to go from here",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36709",
+    "CreationDate":"2016-02-18T03:20:44.890",
+    "FavoriteCount":null,
+    "Id":"137384",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-18T03:20:44.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c6b007a-e655-47e5-991e-69fa6aaedd3a",
+            "UserId":"36709",
+            "CloseReasonId":null,
+            "PostId":"137384",
+            "PostHistoryTypeId":"2",
+            "Id":"458172",
+            "Text":"I just got a verizon galaxy s4 sch-i545, used. It's running stock OC1, and it is rooted(I don't know how). It It seems to have some kind of recovery, but I don't know what it is.![the recovery](http:\/\/i.imgur.com\/sRYkdhM.jpg)I'm just curious what it is, as I am planning to move away from stock roms, and I want a trustable recovery."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-18T03:20:44.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c6b007a-e655-47e5-991e-69fa6aaedd3a",
+            "UserId":"36709",
+            "CloseReasonId":null,
+            "PostId":"137384",
+            "PostHistoryTypeId":"1",
+            "Id":"458173",
+            "Text":"What recovery is on this sch-i545, and where to go from here"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-18T03:20:44.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c6b007a-e655-47e5-991e-69fa6aaedd3a",
+            "UserId":"36709",
+            "CloseReasonId":null,
+            "PostId":"137384",
+            "PostHistoryTypeId":"3",
+            "Id":"458174",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-18T19:47:05.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"daf20e11-28d1-4001-a19e-ffdb49342a50",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"137384",
+            "PostHistoryTypeId":"10",
+            "Id":"458444",
+            "Text":"{\"OriginalQuestionIds\":[71485],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

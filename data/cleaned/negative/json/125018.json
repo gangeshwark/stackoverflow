@@ -1,0 +1,71 @@
+{
+    "Body":"There are 2 songs in my playlist. I want to listen first song once then secondary song unlimited times. How to do that ?Thank you !",
+    "ViewCount":"45",
+    "LastActivityDate":"2015-10-13T16:11:58.513",
+    "ClosedDate":"2015-10-19T23:09:10.863",
+    "Title":"How to play song unlimited time?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130546",
+    "CreationDate":"2015-10-05T11:29:48.430",
+    "FavoriteCount":null,
+    "Id":"125018",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T11:29:48.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"fbf730b3-04ae-4251-baf4-f1642d442411",
+            "UserId":"130546",
+            "CloseReasonId":null,
+            "PostId":"125018",
+            "PostHistoryTypeId":"2",
+            "Id":"409416",
+            "Text":"There are 2 songs in my playlist. I want to listen first song once then secondary song unlimited times. How to do that ?Thank you !"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T11:29:48.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"fbf730b3-04ae-4251-baf4-f1642d442411",
+            "UserId":"130546",
+            "CloseReasonId":null,
+            "PostId":"125018",
+            "PostHistoryTypeId":"1",
+            "Id":"409417",
+            "Text":"How to play song unlimited time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-05T11:29:48.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"fbf730b3-04ae-4251-baf4-f1642d442411",
+            "UserId":"130546",
+            "CloseReasonId":null,
+            "PostId":"125018",
+            "PostHistoryTypeId":"3",
+            "Id":"409418",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-10-19T23:09:10.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"215e7b84-9efd-4ec6-b79a-5db013f938ed",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125018",
+            "PostHistoryTypeId":"10",
+            "Id":"415022",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

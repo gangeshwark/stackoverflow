@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why do some devices ship without the Market installed?  How can I add the market to my device?  I have a Binatone Kidzstar and can't install android market or google play.  i can't understand why not as its running 4.0 ice cream sandwich, why would i not have access????",
+    "ViewCount":"4945",
+    "LastActivityDate":"2012-11-23T00:39:42.327",
+    "ClosedDate":"2012-11-22T19:53:40.793",
+    "Title":"I have a Binatone Kidzstar and can't install android market or google play",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23956",
+    "CreationDate":"2012-11-22T15:47:09.220",
+    "FavoriteCount":null,
+    "Id":"33894",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T15:47:09.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"4694b74e-5348-4f19-b6fd-9926b49cbdc2",
+            "UserId":"23956",
+            "CloseReasonId":null,
+            "PostId":"33894",
+            "PostHistoryTypeId":"2",
+            "Id":"100514",
+            "Text":"I have a Binatone Kidzstar and can't install android market or google play.  i can't understand why not as its running 4.0 ice cream sandwich, why would i not have access????"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T15:47:09.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"4694b74e-5348-4f19-b6fd-9926b49cbdc2",
+            "UserId":"23956",
+            "CloseReasonId":null,
+            "PostId":"33894",
+            "PostHistoryTypeId":"1",
+            "Id":"100515",
+            "Text":"I have a Binatone Kidzstar and can't install android market or google play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T15:47:09.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"4694b74e-5348-4f19-b6fd-9926b49cbdc2",
+            "UserId":"23956",
+            "CloseReasonId":null,
+            "PostId":"33894",
+            "PostHistoryTypeId":"3",
+            "Id":"100516",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-22T19:53:40.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"33e5324b-a3ad-4d1e-a436-423add6ab433",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33894",
+            "PostHistoryTypeId":"5",
+            "Id":"100575",
+            "Text":"> **Possible Duplicate:**  > [Why do some devices ship without the Market installed?](http:\/\/android.stackexchange.com\/questions\/4122\/why-do-some-devices-ship-without-the-market-installed)  > [How can I add the market to my device?](http:\/\/android.stackexchange.com\/questions\/4287\/how-can-i-add-the-market-to-my-device)  I have a Binatone Kidzstar and can't install android market or google play.  i can't understand why not as its running 4.0 ice cream sandwich, why would i not have access????"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-22T19:53:40.793",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5f40831-a88e-4b91-9678-5234eaf5c9ae",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"33894",
+            "PostHistoryTypeId":"10",
+            "Id":"100576",
+            "Text":"{\"OriginalQuestionIds\":[4122,4287],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Full Backup of non-rooted devices  I'm going to flash (format) my Samsung Galaxy S2 (both the external sd and internal sd) . My phone is not rooted. But there are some app's data that i want to backup before formatting.Those are some of my games' progress,Mozilla Firefox's history,bookmarks etc,Opera Mini history etc. , and the songs i tagged in Shazam . How am i supposed to do that since i know that you can't backup app data such as game progrees if your phone is not rooted ?  Also i can't access those apps,whenever i open them they constantly crash,this started 1 week ago,that's why im gonna flash my device (but this is another thread's subject).I would appreciate help with any of the apps above.",
+    "ViewCount":"4850",
+    "LastActivityDate":"2013-01-27T22:36:50.983",
+    "ClosedDate":"2013-01-27T23:40:46.500",
+    "Title":"How to backup my app data if my phone is not rooted?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22670",
+    "CreationDate":"2013-01-27T22:17:01.543",
+    "FavoriteCount":"2",
+    "Id":"38501",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-27T22:17:01.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5ffeb76-0fe6-4e05-bea7-7b93e18d376e",
+            "UserId":"22670",
+            "CloseReasonId":null,
+            "PostId":"38501",
+            "PostHistoryTypeId":"2",
+            "Id":"117950",
+            "Text":"I'm going to flash (format) my Samsung Galaxy S2 (both the external sd and internal sd) . My phone is not rooted. But there are some app's data that i want to backup before formatting.Those are some of my games' progress,Mozilla Firefox's history,bookmarks etc,Opera Mini history etc. , and the songs i tagged in Shazam . How am i supposed to do that since i know that you can't backup app data such as game progrees if your phone is not rooted ?  Also i can't access those apps,whenever i open them they constantly crash,this started 1 week ago,that's why im gonna flash my device (but this is another thread's subject).I would appreciate help with any of the apps above."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-27T22:17:01.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5ffeb76-0fe6-4e05-bea7-7b93e18d376e",
+            "UserId":"22670",
+            "CloseReasonId":null,
+            "PostId":"38501",
+            "PostHistoryTypeId":"1",
+            "Id":"117951",
+            "Text":"How to backup my app data if my phone is not rooted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-27T22:17:01.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5ffeb76-0fe6-4e05-bea7-7b93e18d376e",
+            "UserId":"22670",
+            "CloseReasonId":null,
+            "PostId":"38501",
+            "PostHistoryTypeId":"3",
+            "Id":"117952",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-27T23:40:46.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f0079db-2728-4a82-8b29-e7608a26b852",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38501",
+            "PostHistoryTypeId":"5",
+            "Id":"117975",
+            "Text":"> **Possible Duplicate:**  > [Full Backup of non-rooted devices](http:\/\/android.stackexchange.com\/questions\/28296\/full-backup-of-non-rooted-devices)  I'm going to flash (format) my Samsung Galaxy S2 (both the external sd and internal sd) . My phone is not rooted. But there are some app's data that i want to backup before formatting.Those are some of my games' progress,Mozilla Firefox's history,bookmarks etc,Opera Mini history etc. , and the songs i tagged in Shazam . How am i supposed to do that since i know that you can't backup app data such as game progrees if your phone is not rooted ?  Also i can't access those apps,whenever i open them they constantly crash,this started 1 week ago,that's why im gonna flash my device (but this is another thread's subject).I would appreciate help with any of the apps above."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-27T23:40:46.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"40e9a739-a9f5-44df-a768-d07ef33a3ce3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"38501",
+            "PostHistoryTypeId":"10",
+            "Id":"117976",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

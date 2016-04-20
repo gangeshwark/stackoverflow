@@ -1,0 +1,71 @@
+{
+    "Body":"That's pretty much it, my Sony Xperia Z3 Compact came with AVG antivirus preinstalled and I can't see how to uninstall it, since it does not show up in Play Store under My Apps \/ Installed (or anywhere else).My Android version is 4.4.4 .Note that my problem is not the one mentioned in this question. In my case under Settings > Security > Device administrators the checkbox next to AVG was already unchecked.Instead my problem is simply that I don't know where to start the uninstallation process (and I don't understand why all my installed apps do show up as expected under My Apps but AVG does not).",
+    "ViewCount":"670",
+    "LastActivityDate":"2015-02-10T15:29:24.240",
+    "ClosedDate":"2015-02-10T17:40:54.443",
+    "Title":"How to uninstall AVG which isn't listed under My Apps?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"98408",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"93778",
+    "CreationDate":"2015-02-10T15:09:28.453",
+    "FavoriteCount":null,
+    "Id":"98407",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-10T15:09:28.453",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d9fefec-7a48-450e-a14b-df3d01cc80c8",
+            "UserId":"93778",
+            "CloseReasonId":null,
+            "PostId":"98407",
+            "PostHistoryTypeId":"2",
+            "Id":"321298",
+            "Text":"That's pretty much it, my Sony Xperia Z3 Compact came with AVG antivirus preinstalled and I can't see how to uninstall it, since it does not show up in Play Store under My Apps \/ Installed (or anywhere else).My Android version is 4.4.4 .Note that my problem is not the one mentioned in [this question][1]. In my case under `Settings > Security > Device administrators` the checkbox next to AVG was already unchecked.Instead my problem is simply that I don't know where to start the uninstallation process (and I don't understand why all my installed apps do show up as expected under My Apps but AVG does not).  [1]: http:\/\/android.stackexchange.com\/questions\/69285\/how-can-i-delete-avg-antivirus-on-my-xperia-z1"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-10T15:09:28.453",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d9fefec-7a48-450e-a14b-df3d01cc80c8",
+            "UserId":"93778",
+            "CloseReasonId":null,
+            "PostId":"98407",
+            "PostHistoryTypeId":"1",
+            "Id":"321299",
+            "Text":"How to uninstall AVG which isn't listed under My Apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-10T15:09:28.453",
+            "UserDisplayName":null,
+            "RevisionGUID":"7d9fefec-7a48-450e-a14b-df3d01cc80c8",
+            "UserId":"93778",
+            "CloseReasonId":null,
+            "PostId":"98407",
+            "PostHistoryTypeId":"3",
+            "Id":"321300",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-10T17:40:54.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"74d85083-eac4-4664-8930-435437b0384e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"98407",
+            "PostHistoryTypeId":"10",
+            "Id":"321353",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

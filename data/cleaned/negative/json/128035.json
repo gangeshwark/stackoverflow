@@ -1,0 +1,71 @@
+{
+    "Body":"I was wondering if anyone knew of a Java development environment that runs on Android? As in, I want to edit, debug and compile my code on my Android device. Not even necessarily Android code. Thanks.",
+    "ViewCount":"18",
+    "LastActivityDate":"2015-11-05T14:29:46.600",
+    "ClosedDate":"2015-11-05T14:38:03.970",
+    "Title":"Development on Android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117877",
+    "CreationDate":"2015-11-05T14:29:46.600",
+    "FavoriteCount":null,
+    "Id":"128035",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-05T14:29:46.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"3e4f2117-c143-4dd1-aede-a5ee5af0666a",
+            "UserId":"117877",
+            "CloseReasonId":null,
+            "PostId":"128035",
+            "PostHistoryTypeId":"2",
+            "Id":"420988",
+            "Text":"I was wondering if anyone knew of a Java development environment that runs on Android? As in, I want to edit, debug and compile my code on my Android device. Not even necessarily Android code. Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-05T14:29:46.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"3e4f2117-c143-4dd1-aede-a5ee5af0666a",
+            "UserId":"117877",
+            "CloseReasonId":null,
+            "PostId":"128035",
+            "PostHistoryTypeId":"1",
+            "Id":"420989",
+            "Text":"Development on Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-05T14:29:46.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"3e4f2117-c143-4dd1-aede-a5ee5af0666a",
+            "UserId":"117877",
+            "CloseReasonId":null,
+            "PostId":"128035",
+            "PostHistoryTypeId":"3",
+            "Id":"420990",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-11-05T14:38:03.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"b85d05d1-32d7-465b-8bb7-54b8692a804a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"128035",
+            "PostHistoryTypeId":"10",
+            "Id":"420993",
+            "Text":"{\"OriginalQuestionIds\":[18111],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

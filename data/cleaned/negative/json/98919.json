@@ -1,0 +1,71 @@
+{
+    "Body":"According to the device description at Cyanogenmod, the names for the device are:Samsung Galaxy Tab 10.1,GT-P7500,p4.The listed Cyanogenmod ROMs for this device are all \"nightly\", based on Cyanogenmod 10.1.Aren't there more stable than \"nightly\" builds for this device? Are there ROMs that are based on a more recent Android version than Cyanogenmod 10.1 is (or this doesn't make sense for this device)?I do not specifically ask for an official Cyanogenmod ROM, but it is the first place I look for a open-source custom ROM.",
+    "ViewCount":"2291",
+    "LastActivityDate":"2015-02-17T23:14:10.290",
+    "ClosedDate":"2015-02-18T05:18:32.893",
+    "Title":"Which stable and modern custom ROM can I install on Galaxy Tab 10.1 (GT-P7500)?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13117",
+    "CreationDate":"2015-02-16T06:27:30.443",
+    "FavoriteCount":null,
+    "Id":"98919",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-16T06:27:30.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb91f22d-4cbb-4563-9384-72119b900e0c",
+            "UserId":"13117",
+            "CloseReasonId":null,
+            "PostId":"98919",
+            "PostHistoryTypeId":"2",
+            "Id":"323281",
+            "Text":"According to [the device description](http:\/\/wiki.cyanogenmod.org\/w\/P4_Info) at Cyanogenmod, the names for the device are:* Samsung Galaxy Tab 10.1,* GT-P7500,* p4.The [listed Cyanogenmod ROMs for this device](http:\/\/download.cyanogenmod.org\/?device=p4&type=) are all \"nightly\", based on Cyanogenmod 10.1.Aren't there more stable than \"nightly\" builds for this device? Are there ROMs that are based on a more recent Android version than Cyanogenmod 10.1 is (or this doesn't make sense for this device)?I do not specifically ask for an official Cyanogenmod ROM, but it is the first place I look for a open-source custom ROM."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-16T06:27:30.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb91f22d-4cbb-4563-9384-72119b900e0c",
+            "UserId":"13117",
+            "CloseReasonId":null,
+            "PostId":"98919",
+            "PostHistoryTypeId":"1",
+            "Id":"323282",
+            "Text":"Which stable and modern custom ROM can I install on Galaxy Tab 10.1 (GT-P7500)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-16T06:27:30.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb91f22d-4cbb-4563-9384-72119b900e0c",
+            "UserId":"13117",
+            "CloseReasonId":null,
+            "PostId":"98919",
+            "PostHistoryTypeId":"3",
+            "Id":"323283",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-02-18T05:18:32.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"198a93a2-50d1-4731-a1df-86a84e52ce59",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"98919",
+            "PostHistoryTypeId":"10",
+            "Id":"325087",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

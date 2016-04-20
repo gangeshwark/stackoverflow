@@ -1,0 +1,71 @@
+{
+    "Body":"I just had the symbol show up on my Google search as well. Can't selectwwhat Google usually choose. Just finish typing out. Started yesterday I think. What the heck is it? I was afraid I had a virus.",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-08-07T02:45:11.853",
+    "ClosedDate":"2015-08-07T03:25:07.013",
+    "Title":" symbol is appearing",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"120095",
+    "CreationDate":"2015-08-07T02:45:11.853",
+    "FavoriteCount":null,
+    "Id":"117546",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-07T02:45:11.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8b4fcf0-3ad3-4e6a-b2f1-fc083e60570f",
+            "UserId":"120095",
+            "CloseReasonId":null,
+            "PostId":"117546",
+            "PostHistoryTypeId":"2",
+            "Id":"387104",
+            "Text":"I just had the symbol show up on my Google search as well. Can't selectwwhat Google usually choose. Just finish typing out. Started yesterday I think. What the heck is it? I was afraid I had a virus."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-07T02:45:11.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8b4fcf0-3ad3-4e6a-b2f1-fc083e60570f",
+            "UserId":"120095",
+            "CloseReasonId":null,
+            "PostId":"117546",
+            "PostHistoryTypeId":"1",
+            "Id":"387105",
+            "Text":" symbol is appearing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-07T02:45:11.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8b4fcf0-3ad3-4e6a-b2f1-fc083e60570f",
+            "UserId":"120095",
+            "CloseReasonId":null,
+            "PostId":"117546",
+            "PostHistoryTypeId":"3",
+            "Id":"387106",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-07T03:25:07.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd18bc94-36ff-49ab-b443-c7b05b366a24",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"117546",
+            "PostHistoryTypeId":"10",
+            "Id":"387130",
+            "Text":"{\"OriginalQuestionIds\":[117386],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

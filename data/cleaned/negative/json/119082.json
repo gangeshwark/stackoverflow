@@ -1,0 +1,71 @@
+{
+    "Body":"I have samsung A5, android 5.0.2, not rooted. it supports moving to SD card from application manager. Every time I update an app, it is moved to storage and i have to move it to sd card again.Is there an app that move other apps to SD automatically after updates? I had link2sd and purchased the paid version long ago for a rooted s3 mini, but i don't find link2sd useful anymore. App2SD is just an interface for moving apps, it can't move apps automatically.If you want to know why I don't want to root, here, actually I want to root but there are no rooting safe rooting tools for my phone right now.",
+    "ViewCount":"870",
+    "LastActivityDate":"2015-08-13T00:09:51.210",
+    "ClosedDate":"2015-08-17T21:19:10.060",
+    "Title":"Move apps automatically to SD card",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11437",
+    "CreationDate":"2015-08-12T19:23:21.553",
+    "FavoriteCount":null,
+    "Id":"119082",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T19:23:21.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"799d3139-ed72-4adb-b514-2ff8a0239e4e",
+            "UserId":"11437",
+            "CloseReasonId":null,
+            "PostId":"119082",
+            "PostHistoryTypeId":"2",
+            "Id":"389968",
+            "Text":"I have samsung A5, android 5.0.2, not rooted. it supports moving to SD card from application manager. Every time I update an app, it is moved to storage and i have to move it to sd card again.Is there an app that move other apps to SD automatically after updates? I had link2sd and purchased the paid version long ago for a rooted s3 mini, but i don't find link2sd useful anymore. App2SD is just an interface for moving apps, it can't move apps automatically.*If you want to know why I don't want to root, [here][1], actually I want to root but there are no rooting safe rooting tools for my phone right now.*  [1]: http:\/\/forum.xda-developers.com\/android\/help\/how-to-root-samsung-galaxy-a5-t3170580"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T19:23:21.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"799d3139-ed72-4adb-b514-2ff8a0239e4e",
+            "UserId":"11437",
+            "CloseReasonId":null,
+            "PostId":"119082",
+            "PostHistoryTypeId":"1",
+            "Id":"389969",
+            "Text":"Move apps automatically to SD card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-12T19:23:21.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"799d3139-ed72-4adb-b514-2ff8a0239e4e",
+            "UserId":"11437",
+            "CloseReasonId":null,
+            "PostId":"119082",
+            "PostHistoryTypeId":"3",
+            "Id":"389970",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-17T21:19:10.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a743776-94ea-43ac-bc6e-e95ad1fb6a46",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"119082",
+            "PostHistoryTypeId":"10",
+            "Id":"391673",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

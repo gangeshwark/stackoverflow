@@ -1,0 +1,83 @@
+{
+    "Body":"I'm thinking about getting a new sd card and read that the class of them really matters. I'm looking at getting a 16gb one with a class not less than class 6. How do I check for the class? ",
+    "ViewCount":"14425",
+    "LastActivityDate":"2014-10-02T16:47:16.587",
+    "ClosedDate":"2012-09-21T03:47:32.137",
+    "Title":"How do I check the class of a micro sd card?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-04-04T09:35:35.760",
+    "CommentCount":"2",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"29603",
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18752",
+    "CreationDate":"2012-09-19T11:55:05.583",
+    "FavoriteCount":"1",
+    "Id":"29601",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T11:55:05.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd6abfad-1c29-445c-943b-721dbd7e95d2",
+            "UserId":"18752",
+            "CloseReasonId":null,
+            "PostId":"29601",
+            "PostHistoryTypeId":"2",
+            "Id":"88205",
+            "Text":"I'm thinking about getting a new sd card and read that the class of them really matters. I'm looking at getting a 16gb one with a class not less than class 6. How do I check for the class? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T11:55:05.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd6abfad-1c29-445c-943b-721dbd7e95d2",
+            "UserId":"18752",
+            "CloseReasonId":null,
+            "PostId":"29601",
+            "PostHistoryTypeId":"1",
+            "Id":"88206",
+            "Text":"How do I check the class of a micro sd card?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T11:55:05.583",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd6abfad-1c29-445c-943b-721dbd7e95d2",
+            "UserId":"18752",
+            "CloseReasonId":null,
+            "PostId":"29601",
+            "PostHistoryTypeId":"3",
+            "Id":"88207",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-09-21T03:47:32.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"5875055c-5b49-4795-9997-aca261bd78e2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29601",
+            "PostHistoryTypeId":"10",
+            "Id":"88602",
+            "Text":"{\"Voters\":[{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-04-04T09:35:35.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"701f56f6-249c-4210-aaff-e2a963eeb114",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"29601",
+            "PostHistoryTypeId":"6",
+            "Id":"136619",
+            "Text":""
+        }
+    ]
+}

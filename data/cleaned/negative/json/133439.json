@@ -1,0 +1,71 @@
+{
+    "Body":"I've recently started trying to dabble in custom ROMs, or even just trying to boost an old phone with a newer version of Android, but there doesn't seem to be a conclusive place online to find out what ROMs are supported by what phones (and how to root any given phone), what ROMs are available out there in the world in general, it all seems a bit... messy!So here's my example for my question: I have an Obi S453, how can I find out what ROMs I might be able to install?",
+    "ViewCount":"37",
+    "LastActivityDate":"2016-01-05T13:01:27.917",
+    "ClosedDate":"2016-01-05T13:47:25.747",
+    "Title":"Given an Android phone, how can I find out what custom and stock ROMs are compatible?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"133442",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"112974",
+    "CreationDate":"2016-01-05T12:18:53.633",
+    "FavoriteCount":null,
+    "Id":"133439",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T12:18:53.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7eaedb0-0901-4919-b10e-50e018c67456",
+            "UserId":"112974",
+            "CloseReasonId":null,
+            "PostId":"133439",
+            "PostHistoryTypeId":"2",
+            "Id":"442202",
+            "Text":"I've recently started trying to dabble in custom ROMs, or even just trying to boost an old phone with a newer version of Android, but there doesn't seem to be a conclusive place online to find out what ROMs are supported by what phones (and how to root any given phone), what ROMs are available out there in the world in general, it all seems a bit... messy!So here's my example for my question: I have an [Obi S453][1], how can I find out what ROMs I might be able to install?  [1]: http:\/\/gadgets.ndtv.com\/obi-fox-s453-2082"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T12:18:53.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7eaedb0-0901-4919-b10e-50e018c67456",
+            "UserId":"112974",
+            "CloseReasonId":null,
+            "PostId":"133439",
+            "PostHistoryTypeId":"1",
+            "Id":"442203",
+            "Text":"Given an Android phone, how can I find out what custom and stock ROMs are compatible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T12:18:53.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7eaedb0-0901-4919-b10e-50e018c67456",
+            "UserId":"112974",
+            "CloseReasonId":null,
+            "PostId":"133439",
+            "PostHistoryTypeId":"3",
+            "Id":"442204",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-05T13:47:25.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"42411893-0325-4157-9941-c83f21c8740c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"133439",
+            "PostHistoryTypeId":"10",
+            "Id":"442242",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

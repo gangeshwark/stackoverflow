@@ -1,0 +1,71 @@
+{
+    "Body":"Variations on this question appear to be a common unanswered question; often they have a comment or two that I don't understand. I'm hoping someone can answer with some general background information, the concepts.E.g. I see reference to \"rooting\". Do I need to root a phone before I can upgrade it? I've had previous Android phones that got auto-updated (either by the carrier or manufacturer: I just find a message that says: \"a new update has been downloaded, click here to install\"), and I didn't need to root them.E.g. Can any smartphone be upgraded to Android 4.4? If not why not? And why might a manufacturer not want users to update their phones? Are some manufacturers more open to having phones updated, and some not? Does anyone keep a list of \"upgrade-hostile\" manufacturers?E.g. does the phone being sim-locked (to a specific carrier) matter?I'm not going to say what my phone is because that will distract from the more general answers I'm after.",
+    "ViewCount":"6600",
+    "LastActivityDate":"2014-08-16T09:13:19.373",
+    "ClosedDate":"2014-08-16T14:52:18.360",
+    "Title":"How to update\/upgrade any phone to Android 4.4",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36187",
+    "CreationDate":"2014-08-16T09:13:19.373",
+    "FavoriteCount":null,
+    "Id":"79628",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-16T09:13:19.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"56ebc28c-9c5d-4d1e-8cc4-a236889491c9",
+            "UserId":"36187",
+            "CloseReasonId":null,
+            "PostId":"79628",
+            "PostHistoryTypeId":"2",
+            "Id":"262861",
+            "Text":"Variations on this question appear to be a common unanswered question; often they have a comment or two that I don't understand. I'm hoping someone can answer with some general background information, the concepts.E.g. I see reference to \"rooting\". Do I need to root a phone before I can upgrade it? I've had previous Android phones that got auto-updated (either by the carrier or manufacturer: I just find a message that says: \"a new update has been downloaded, click here to install\"), and I didn't need to root them.E.g. Can any smartphone be upgraded to Android 4.4? If not why not? And why might a manufacturer not want users to update their phones? Are some manufacturers more open to having phones updated, and some not? Does anyone keep a list of \"upgrade-hostile\" manufacturers?E.g. does the phone being sim-locked (to a specific carrier) matter?I'm not going to say what my phone is because that will distract from the more general answers I'm after."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-16T09:13:19.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"56ebc28c-9c5d-4d1e-8cc4-a236889491c9",
+            "UserId":"36187",
+            "CloseReasonId":null,
+            "PostId":"79628",
+            "PostHistoryTypeId":"1",
+            "Id":"262862",
+            "Text":"How to update\/upgrade any phone to Android 4.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-16T09:13:19.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"56ebc28c-9c5d-4d1e-8cc4-a236889491c9",
+            "UserId":"36187",
+            "CloseReasonId":null,
+            "PostId":"79628",
+            "PostHistoryTypeId":"3",
+            "Id":"262863",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-16T14:52:18.360",
+            "UserDisplayName":null,
+            "RevisionGUID":"0a4ab953-a2c2-4ba0-a4e7-af41cc9639ac",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"79628",
+            "PostHistoryTypeId":"10",
+            "Id":"262931",
+            "Text":"{\"OriginalQuestionIds\":[13510,56112],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

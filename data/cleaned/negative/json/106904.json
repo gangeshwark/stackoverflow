@@ -1,0 +1,71 @@
+{
+    "Body":"I have Yureka phone.I have upgraded the anroide system update but after that i am not able to receive the call which i can only see as miss call. ",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-04-28T12:48:50.350",
+    "ClosedDate":"2015-04-28T15:35:51.913",
+    "Title":"not able to receive or pcik the call on Yureka after upgardaion",
+    "LastEditorUserId":null,
+    "Tags":"<5.0-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104538",
+    "CreationDate":"2015-04-28T12:48:50.350",
+    "FavoriteCount":null,
+    "Id":"106904",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-28T12:48:50.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"661772d4-8d5a-421d-a91f-75e94df6178c",
+            "UserId":"104538",
+            "CloseReasonId":null,
+            "PostId":"106904",
+            "PostHistoryTypeId":"2",
+            "Id":"350050",
+            "Text":"I have Yureka phone.I have upgraded the anroide system update but after that i am not able to receive the call which i can only see as miss call. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-28T12:48:50.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"661772d4-8d5a-421d-a91f-75e94df6178c",
+            "UserId":"104538",
+            "CloseReasonId":null,
+            "PostId":"106904",
+            "PostHistoryTypeId":"1",
+            "Id":"350051",
+            "Text":"not able to receive or pcik the call on Yureka after upgardaion"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-28T12:48:50.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"661772d4-8d5a-421d-a91f-75e94df6178c",
+            "UserId":"104538",
+            "CloseReasonId":null,
+            "PostId":"106904",
+            "PostHistoryTypeId":"3",
+            "Id":"350052",
+            "Text":"<5.0-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-28T15:35:51.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"67e40787-94a2-47d1-8da0-52f5dc5b6183",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"106904",
+            "PostHistoryTypeId":"10",
+            "Id":"350129",
+            "Text":"{\"OriginalQuestionIds\":[106070],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

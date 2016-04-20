@@ -1,0 +1,71 @@
+{
+    "Body":"I have a YU Yureka Phablet. I want to connect it to Projector for presentation.It does not have hdmi port. Does any one knows is it possible to connect it to projector? If yes then what are the accessories I need and what's the procedure?",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-07-08T13:29:37.047",
+    "ClosedDate":"2015-07-10T14:20:45.057",
+    "Title":"Connect Yureka to projector",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"115508",
+    "CreationDate":"2015-07-08T13:29:37.047",
+    "FavoriteCount":null,
+    "Id":"114691",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-08T13:29:37.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"27042b3b-8991-457a-849b-56c43795bb5e",
+            "UserId":"115508",
+            "CloseReasonId":null,
+            "PostId":"114691",
+            "PostHistoryTypeId":"2",
+            "Id":"376276",
+            "Text":"I have a YU Yureka Phablet. I want to connect it to Projector for presentation.It does not have hdmi port. Does any one knows is it possible to connect it to projector? If yes then what are the accessories I need and what's the procedure?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-08T13:29:37.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"27042b3b-8991-457a-849b-56c43795bb5e",
+            "UserId":"115508",
+            "CloseReasonId":null,
+            "PostId":"114691",
+            "PostHistoryTypeId":"1",
+            "Id":"376277",
+            "Text":"Connect Yureka to projector"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-08T13:29:37.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"27042b3b-8991-457a-849b-56c43795bb5e",
+            "UserId":"115508",
+            "CloseReasonId":null,
+            "PostId":"114691",
+            "PostHistoryTypeId":"3",
+            "Id":"376278",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-10T14:20:45.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"8932fc1f-9312-4da1-94ae-bfce637c2dc3",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114691",
+            "PostHistoryTypeId":"10",
+            "Id":"377084",
+            "Text":"{\"OriginalQuestionIds\":[5652],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

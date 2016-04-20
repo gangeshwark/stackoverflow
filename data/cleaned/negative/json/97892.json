@@ -1,0 +1,71 @@
+{
+    "Body":"I m newbie to building roms. I have Hiawei G630 device with 4.3 kernel. My question is would it work if I use Samsung or other Huawei kernel. Sorry form my bad english",
+    "ViewCount":"116",
+    "LastActivityDate":"2015-02-04T21:06:09.270",
+    "ClosedDate":"2015-02-10T11:51:45.293",
+    "Title":"Is android kernel same for all devices",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92986",
+    "CreationDate":"2015-02-04T20:28:10.893",
+    "FavoriteCount":null,
+    "Id":"97892",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T20:28:10.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"13c93984-71d0-4e26-ad08-0cfb30d1d214",
+            "UserId":"92986",
+            "CloseReasonId":null,
+            "PostId":"97892",
+            "PostHistoryTypeId":"2",
+            "Id":"319339",
+            "Text":"I m newbie to building roms. I have Hiawei G630 device with 4.3 kernel. My question is would it work if I use Samsung or other Huawei kernel. Sorry form my bad english"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T20:28:10.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"13c93984-71d0-4e26-ad08-0cfb30d1d214",
+            "UserId":"92986",
+            "CloseReasonId":null,
+            "PostId":"97892",
+            "PostHistoryTypeId":"1",
+            "Id":"319340",
+            "Text":"Is android kernel same for all devices"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-04T20:28:10.893",
+            "UserDisplayName":null,
+            "RevisionGUID":"13c93984-71d0-4e26-ad08-0cfb30d1d214",
+            "UserId":"92986",
+            "CloseReasonId":null,
+            "PostId":"97892",
+            "PostHistoryTypeId":"3",
+            "Id":"319341",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-02-10T11:51:45.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"86ba7d8e-630b-4fe8-865a-3a8970427c6c",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"97892",
+            "PostHistoryTypeId":"10",
+            "Id":"321196",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

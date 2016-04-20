@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Samsung Galaxy Core Max (sm-g5108) bought in China. Almost all apps are in Chinese and there's no Google Play Store. Can you tell me how to choose a ROM (it runs Kitkat 4.4.4) that is compatible with my phone? Thanks!",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-05-15T00:19:33.593",
+    "ClosedDate":"2015-05-15T00:36:35.200",
+    "Title":"samsung galaxy core max flash ROM",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108731",
+    "CreationDate":"2015-05-15T00:19:33.593",
+    "FavoriteCount":null,
+    "Id":"109386",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-15T00:19:33.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"93242add-7b62-4dea-9a04-72718e0c8821",
+            "UserId":"108731",
+            "CloseReasonId":null,
+            "PostId":"109386",
+            "PostHistoryTypeId":"2",
+            "Id":"356872",
+            "Text":"I have a Samsung Galaxy Core Max (sm-g5108) bought in China. Almost all apps are in Chinese and there's no Google Play Store. Can you tell me how to choose a ROM (it runs Kitkat 4.4.4) that is compatible with my phone? Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-15T00:19:33.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"93242add-7b62-4dea-9a04-72718e0c8821",
+            "UserId":"108731",
+            "CloseReasonId":null,
+            "PostId":"109386",
+            "PostHistoryTypeId":"1",
+            "Id":"356873",
+            "Text":"samsung galaxy core max flash ROM"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-15T00:19:33.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"93242add-7b62-4dea-9a04-72718e0c8821",
+            "UserId":"108731",
+            "CloseReasonId":null,
+            "PostId":"109386",
+            "PostHistoryTypeId":"3",
+            "Id":"356874",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-15T00:36:35.200",
+            "UserDisplayName":null,
+            "RevisionGUID":"f643940a-c3ad-4040-96d6-e3d9807a5b0c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"109386",
+            "PostHistoryTypeId":"10",
+            "Id":"356889",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

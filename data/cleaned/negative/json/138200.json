@@ -1,0 +1,71 @@
+{
+    "Body":"Digg reader, feedly , show feed preview when rss entry is clicked and then we have to scroll to the bottom of the feed preview to open the feed story in browser.Is there any feed reader which skips the preview step?",
+    "ViewCount":"10",
+    "LastActivityDate":"2016-02-26T20:00:45.457",
+    "ClosedDate":"2016-02-27T08:37:41.683",
+    "Title":"RSS reader that opens the Feed story directly in browser?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"138675",
+    "CreationDate":"2016-02-26T20:00:45.457",
+    "FavoriteCount":null,
+    "Id":"138200",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T20:00:45.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecd07cee-b749-4315-a3bc-4754c35d3a9f",
+            "UserId":"138675",
+            "CloseReasonId":null,
+            "PostId":"138200",
+            "PostHistoryTypeId":"2",
+            "Id":"461346",
+            "Text":"Digg reader, feedly , show feed preview when rss entry is clicked and then we have to scroll to the bottom of the feed preview to open the feed story in browser.Is there any feed reader which skips the preview step?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T20:00:45.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecd07cee-b749-4315-a3bc-4754c35d3a9f",
+            "UserId":"138675",
+            "CloseReasonId":null,
+            "PostId":"138200",
+            "PostHistoryTypeId":"1",
+            "Id":"461347",
+            "Text":"RSS reader that opens the Feed story directly in browser?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T20:00:45.457",
+            "UserDisplayName":null,
+            "RevisionGUID":"ecd07cee-b749-4315-a3bc-4754c35d3a9f",
+            "UserId":"138675",
+            "CloseReasonId":null,
+            "PostId":"138200",
+            "PostHistoryTypeId":"3",
+            "Id":"461348",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T08:37:41.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"de736d2c-844a-4285-b7b0-6fe28b708f1e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138200",
+            "PostHistoryTypeId":"10",
+            "Id":"461926",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

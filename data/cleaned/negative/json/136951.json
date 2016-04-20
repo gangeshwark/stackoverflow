@@ -1,0 +1,71 @@
+{
+    "Body":"When I open the application snapdeal from my android phone above word on the screen alongwith snapdeal logo appears and then ' can't connect please check your net work connection' word appears. I can't open this application. So what to do ?",
+    "ViewCount":"27",
+    "LastActivityDate":"2016-02-13T04:27:20.080",
+    "ClosedDate":"2016-02-27T20:00:33.260",
+    "Title":"My android phone shows ' shortcut snapdeal already exist'",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"151025",
+    "CreationDate":"2016-02-13T04:27:20.080",
+    "FavoriteCount":null,
+    "Id":"136951",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-13T04:27:20.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7cbc4b9-8d3e-40a5-8ec4-b765305766fc",
+            "UserId":"151025",
+            "CloseReasonId":null,
+            "PostId":"136951",
+            "PostHistoryTypeId":"2",
+            "Id":"456517",
+            "Text":"When I open the application snapdeal from my android phone above word on the screen alongwith snapdeal logo appears and then ' can't connect please check your net work connection' word appears. I can't open this application. So what to do ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-13T04:27:20.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7cbc4b9-8d3e-40a5-8ec4-b765305766fc",
+            "UserId":"151025",
+            "CloseReasonId":null,
+            "PostId":"136951",
+            "PostHistoryTypeId":"1",
+            "Id":"456518",
+            "Text":"My android phone shows ' shortcut snapdeal already exist'"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-13T04:27:20.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7cbc4b9-8d3e-40a5-8ec4-b765305766fc",
+            "UserId":"151025",
+            "CloseReasonId":null,
+            "PostId":"136951",
+            "PostHistoryTypeId":"3",
+            "Id":"456519",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-27T20:00:33.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"246dfc8f-7feb-4766-9f78-499680827bf6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"136951",
+            "PostHistoryTypeId":"10",
+            "Id":"462110",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

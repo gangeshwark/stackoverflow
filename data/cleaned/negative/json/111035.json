@@ -1,0 +1,71 @@
+{
+    "Body":"I have android mobile 4.4.4 kit and laptop windows 8.1 OS. my system cmt doesn't read the adb shell netcfg usb0 dhcp. So, please explain the step by step procedure for internet connection from laptop to phone.I kindly request send the procedure through my email id.",
+    "ViewCount":"20",
+    "LastActivityDate":"2015-06-01T07:23:39.140",
+    "ClosedDate":"2015-06-01T14:14:16.180",
+    "Title":"how to connect internet from laptop to redmi 2?",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat>",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"110956",
+    "CreationDate":"2015-06-01T07:23:39.140",
+    "FavoriteCount":null,
+    "Id":"111035",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T07:23:39.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"4684f042-424b-4a9c-83db-27133e375859",
+            "UserId":"110956",
+            "CloseReasonId":null,
+            "PostId":"111035",
+            "PostHistoryTypeId":"2",
+            "Id":"362972",
+            "Text":"I have android mobile 4.4.4 kit and laptop windows 8.1 OS. my system cmt doesn't read the adb shell netcfg usb0 dhcp. So, please explain the step by step procedure for internet connection from laptop to phone.  I kindly request send the procedure through my email id."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T07:23:39.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"4684f042-424b-4a9c-83db-27133e375859",
+            "UserId":"110956",
+            "CloseReasonId":null,
+            "PostId":"111035",
+            "PostHistoryTypeId":"1",
+            "Id":"362973",
+            "Text":"how to connect internet from laptop to redmi 2?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T07:23:39.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"4684f042-424b-4a9c-83db-27133e375859",
+            "UserId":"110956",
+            "CloseReasonId":null,
+            "PostId":"111035",
+            "PostHistoryTypeId":"3",
+            "Id":"362974",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-01T14:14:16.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"10fb8b37-d45d-406a-af77-a8e5745f05fd",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111035",
+            "PostHistoryTypeId":"10",
+            "Id":"363113",
+            "Text":"{\"OriginalQuestionIds\":[73168],\"Voters\":[{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Now i want to run android apps on my pc.I runned apps on pc by using bluestacks but i want to know any other way to run android apps on pc.Is there any alternative to this one.",
+    "ViewCount":"72",
+    "LastActivityDate":"2015-01-01T13:16:57.857",
+    "ClosedDate":"2015-01-01T18:19:21.743",
+    "Title":"How to run android apps on pc?",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87306",
+    "CreationDate":"2015-01-01T12:19:24.810",
+    "FavoriteCount":null,
+    "Id":"93475",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-01T12:19:24.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3f7ff99-ee79-4382-b21e-8aacb90d803c",
+            "UserId":"87306",
+            "CloseReasonId":null,
+            "PostId":"93475",
+            "PostHistoryTypeId":"2",
+            "Id":"306487",
+            "Text":"Now i want to run android apps on my pc.I runned apps on pc by using bluestacks but i want to know any other way to run android apps on pc.Is there any alternative to this one."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-01T12:19:24.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3f7ff99-ee79-4382-b21e-8aacb90d803c",
+            "UserId":"87306",
+            "CloseReasonId":null,
+            "PostId":"93475",
+            "PostHistoryTypeId":"1",
+            "Id":"306488",
+            "Text":"How to run android apps on pc?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-01T12:19:24.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3f7ff99-ee79-4382-b21e-8aacb90d803c",
+            "UserId":"87306",
+            "CloseReasonId":null,
+            "PostId":"93475",
+            "PostHistoryTypeId":"3",
+            "Id":"306489",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-01T18:19:21.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"757cfab0-5e41-4187-b8ff-b98b1380f37c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"93475",
+            "PostHistoryTypeId":"10",
+            "Id":"306604",
+            "Text":"{\"OriginalQuestionIds\":[87671],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

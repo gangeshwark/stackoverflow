@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I receive calls of cell phone number with a tablet?  I have Huawei MediaPad tablet. I saw in it specification that it supports GSM network. But I cannot find application to make phone calls. When I inserted SIM card and called to my phone, the call was terminated without notifications or reasons.",
+    "ViewCount":"1301",
+    "LastActivityDate":"2012-04-19T18:15:56.900",
+    "ClosedDate":"2012-04-26T17:55:56.873",
+    "Title":"mobile phone calls on Huawei MediaPad",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"22030",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14416",
+    "CreationDate":"2012-04-19T17:16:26.693",
+    "FavoriteCount":null,
+    "Id":"22028",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T17:16:26.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8b82410-3443-40cf-a98e-1a7767b3d4d2",
+            "UserId":"14416",
+            "CloseReasonId":null,
+            "PostId":"22028",
+            "PostHistoryTypeId":"2",
+            "Id":"61822",
+            "Text":"I have Huawei MediaPad tablet. I saw in it specification that it supports GSM network. But I cannot find application to make phone calls. When I inserted SIM card and called to my phone, the call was terminated without notifications or reasons."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T17:16:26.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8b82410-3443-40cf-a98e-1a7767b3d4d2",
+            "UserId":"14416",
+            "CloseReasonId":null,
+            "PostId":"22028",
+            "PostHistoryTypeId":"1",
+            "Id":"61823",
+            "Text":"mobile phone calls on Huawei MediaPad"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-19T17:16:26.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8b82410-3443-40cf-a98e-1a7767b3d4d2",
+            "UserId":"14416",
+            "CloseReasonId":null,
+            "PostId":"22028",
+            "PostHistoryTypeId":"3",
+            "Id":"61824",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-04-26T17:55:59.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"1a31ad57-963a-40f1-a7f4-e1446a39a63c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"22028",
+            "PostHistoryTypeId":"5",
+            "Id":"63081",
+            "Text":"> **Possible Duplicate:**  > [Can I receive calls of cell phone number with a tablet?](http:\/\/android.stackexchange.com\/questions\/22034\/can-i-receive-calls-of-cell-phone-number-with-a-tablet)  I have Huawei MediaPad tablet. I saw in it specification that it supports GSM network. But I cannot find application to make phone calls. When I inserted SIM card and called to my phone, the call was terminated without notifications or reasons."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-04-26T17:55:56.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"be6974dc-2b97-429a-850d-0b67ff3aa297",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"22028",
+            "PostHistoryTypeId":"10",
+            "Id":"63082",
+            "Text":"{\"OriginalQuestionIds\":[22034],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I was wondering if there is an android shortcut to make things more efficient.",
+    "ViewCount":"87",
+    "LastActivityDate":"2014-02-03T17:27:57.620",
+    "ClosedDate":"2014-02-03T22:38:29.927",
+    "Title":"Home shortcut key to my designated webpage?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-02-03T17:27:57.620",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"52618",
+    "CreationDate":"2014-02-03T16:35:08.237",
+    "FavoriteCount":null,
+    "Id":"62653",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-03T16:35:08.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a1d4119-6836-4073-bc5b-2cd05e0aa373",
+            "UserId":"52618",
+            "CloseReasonId":null,
+            "PostId":"62653",
+            "PostHistoryTypeId":"2",
+            "Id":"212581",
+            "Text":"I was wondering if there is an android shortcut to make things more efficient."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-03T16:35:08.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a1d4119-6836-4073-bc5b-2cd05e0aa373",
+            "UserId":"52618",
+            "CloseReasonId":null,
+            "PostId":"62653",
+            "PostHistoryTypeId":"1",
+            "Id":"212582",
+            "Text":"Home shortcut key to my designated webpage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-03T16:35:08.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"5a1d4119-6836-4073-bc5b-2cd05e0aa373",
+            "UserId":"52618",
+            "CloseReasonId":null,
+            "PostId":"62653",
+            "PostHistoryTypeId":"3",
+            "Id":"212583",
+            "Text":"<4.1-jelly-bean>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-02-03T17:27:57.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c589429-fcf0-43e0-bb66-6dac13a31172",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"62653",
+            "PostHistoryTypeId":"6",
+            "Id":"212593",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-03T22:38:29.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"386d08a2-da4a-4d80-984f-1f7d4fc3c07d",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"62653",
+            "PostHistoryTypeId":"10",
+            "Id":"212670",
+            "Text":"{\"OriginalQuestionIds\":[2086],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

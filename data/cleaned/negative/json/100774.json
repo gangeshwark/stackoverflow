@@ -1,0 +1,71 @@
+{
+    "Body":"i I am getting stalked with a person calling with an unknown phone number, and I don't really know how to solve this. I've tried using applications that show the phonenumber of the person that is calling you right now. But when I call back this number, it isn't the same voice. So is it possible to get a phonenumber of an unknown call in your history on android?",
+    "ViewCount":"292",
+    "LastActivityDate":"2015-02-24T17:17:54.090",
+    "ClosedDate":"2015-02-24T21:19:40.463",
+    "Title":"Retreive a phonenumber of an unknown call in history",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95748",
+    "CreationDate":"2015-02-24T17:17:54.090",
+    "FavoriteCount":null,
+    "Id":"100774",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-24T17:17:54.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"31ad59b6-d9ad-4d9d-9fae-538972d8ab73",
+            "UserId":"95748",
+            "CloseReasonId":null,
+            "PostId":"100774",
+            "PostHistoryTypeId":"2",
+            "Id":"327416",
+            "Text":"i I am getting stalked with a person calling with an unknown phone number, and I don't really know how to solve this. I've tried using applications that show the phonenumber of the person that is calling you right now. But when I call back this number, it isn't the same voice. So is it possible to get a phonenumber of an unknown call in your history on android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-24T17:17:54.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"31ad59b6-d9ad-4d9d-9fae-538972d8ab73",
+            "UserId":"95748",
+            "CloseReasonId":null,
+            "PostId":"100774",
+            "PostHistoryTypeId":"1",
+            "Id":"327417",
+            "Text":"Retreive a phonenumber of an unknown call in history"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-24T17:17:54.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"31ad59b6-d9ad-4d9d-9fae-538972d8ab73",
+            "UserId":"95748",
+            "CloseReasonId":null,
+            "PostId":"100774",
+            "PostHistoryTypeId":"3",
+            "Id":"327418",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-02-24T21:19:40.463",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8a86860-52ff-49c7-8357-46dea1b9ed0b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"100774",
+            "PostHistoryTypeId":"10",
+            "Id":"327500",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I downloaded the java documentation to read on my phone but i can't use the html viewer on my phone because it cant use links.When I tried using google chrome and going to the file location its not allowing chrome to access the location.Does anyone know how to allow chrome to access the folder or know a folder that I could move the documents to?The documents I have. It's the Zip file I'm using.Before someone says I could use the epub or mobi, they are missing some of the bits i want to read.Im using an HTC M9 and the location im trying to access is file:\/\/\/download\/tutorial\/tutorial.Thanks for any help:)",
+    "ViewCount":"33",
+    "LastActivityDate":"2016-02-15T16:07:17.897",
+    "ClosedDate":"2016-02-24T23:15:15.017",
+    "Title":"using chrome to access HTML files on android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"137129",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"151723",
+    "CreationDate":"2016-02-15T01:13:03.423",
+    "FavoriteCount":null,
+    "Id":"137128",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/1040864\/using-chrome-to-access-html-files-on-android",
+            "CreationDate":"2016-02-15T16:03:20.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fbdf213-9fdf-4c2e-9ded-9c420eb87dbf",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"137128",
+            "PostHistoryTypeId":"36",
+            "Id":"457210",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-15T01:13:03.423",
+            "UserDisplayName":"Kyle Burns",
+            "RevisionGUID":"25fa5c1d-fef6-4063-9910-d68858cdc5d2",
+            "UserId":"151723",
+            "CloseReasonId":null,
+            "PostId":"137128",
+            "PostHistoryTypeId":"2",
+            "Id":"457211",
+            "Text":"I downloaded the java documentation to read on my phone but i can't use the html viewer on my phone because it cant use links.When I tried using google chrome and going to the file location its not allowing chrome to access the location.Does anyone know how to allow chrome to access the folder or know a folder that I could move the documents to?[The documents I have.][1] It's the Zip file I'm using.Before someone says I could use the epub or mobi, they are missing some of the bits i want to read.Im using an HTC M9 and the location im trying to access is file:\/\/\/download\/tutorial\/tutorial.Thanks for any help:)  [1]: http:\/\/www.oracle.com\/technetwork\/java\/javase\/java-tutorial-downloads-2005894.html"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-15T01:13:03.423",
+            "UserDisplayName":"Kyle Burns",
+            "RevisionGUID":"25fa5c1d-fef6-4063-9910-d68858cdc5d2",
+            "UserId":"151723",
+            "CloseReasonId":null,
+            "PostId":"137128",
+            "PostHistoryTypeId":"1",
+            "Id":"457212",
+            "Text":"using chrome to access HTML files on android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-15T01:13:03.423",
+            "UserDisplayName":"Kyle Burns",
+            "RevisionGUID":"25fa5c1d-fef6-4063-9910-d68858cdc5d2",
+            "UserId":"151723",
+            "CloseReasonId":null,
+            "PostId":"137128",
+            "PostHistoryTypeId":"3",
+            "Id":"457213",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-24T23:15:15.017",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c28ec81-e73b-455a-83cf-602d8d5b3b8c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"137128",
+            "PostHistoryTypeId":"10",
+            "Id":"460713",
+            "Text":"{\"OriginalQuestionIds\":[40771],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

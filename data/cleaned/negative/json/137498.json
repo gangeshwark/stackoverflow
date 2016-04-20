@@ -1,0 +1,83 @@
+{
+    "Body":"i'm currently working for developing an android device.So i want to know How battery charging symbol appear on display of android device when we connect charger. And what heppen when battery is completely discharged and we connect the charger ? Is it done by boot-loader or hardware. If it is done by bootloader then how?",
+    "ViewCount":"23",
+    "LastActivityDate":"2016-02-19T06:01:26.977",
+    "ClosedDate":"2016-02-27T20:07:36.527",
+    "Title":"How battery charging symbol appear on display?",
+    "LastEditorUserId":"152139",
+    "Tags":"",
+    "LastEditDate":"2016-02-19T06:01:26.977",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"152139",
+    "CreationDate":"2016-02-19T05:49:16.977",
+    "FavoriteCount":null,
+    "Id":"137498",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-19T05:49:16.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"7a66c2f7-0d01-46eb-ac20-c81f81a5a198",
+            "UserId":"152139",
+            "CloseReasonId":null,
+            "PostId":"137498",
+            "PostHistoryTypeId":"2",
+            "Id":"458591",
+            "Text":"i'm currently working for developing an android device.So i want to know How battery charging symbol appear on display of android device when we connect charger. Is it done by boot-loader or hardware. If it is done by bootloader then how ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-19T05:49:16.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"7a66c2f7-0d01-46eb-ac20-c81f81a5a198",
+            "UserId":"152139",
+            "CloseReasonId":null,
+            "PostId":"137498",
+            "PostHistoryTypeId":"1",
+            "Id":"458592",
+            "Text":"How battery charging symbol appear on display?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-19T05:49:16.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"7a66c2f7-0d01-46eb-ac20-c81f81a5a198",
+            "UserId":"152139",
+            "CloseReasonId":null,
+            "PostId":"137498",
+            "PostHistoryTypeId":"3",
+            "Id":"458593",
+            "Text":""
+        },
+        {
+            "Comment":"added 82 characters in body",
+            "CreationDate":"2016-02-19T06:01:26.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"138f66da-6ef5-4968-96ce-3aaafec98c85",
+            "UserId":"152139",
+            "CloseReasonId":null,
+            "PostId":"137498",
+            "PostHistoryTypeId":"5",
+            "Id":"458595",
+            "Text":"i'm currently working for developing an android device.So i want to know How battery charging symbol appear on display of android device when we connect charger. And what heppen when battery is completely discharged and we connect the charger ? Is it done by boot-loader or hardware. If it is done by bootloader then how?"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T20:07:36.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"315cab6d-b80b-43ab-bf6b-39493a9b6897",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"137498",
+            "PostHistoryTypeId":"10",
+            "Id":"462117",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

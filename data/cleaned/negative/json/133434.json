@@ -1,0 +1,71 @@
+{
+    "Body":"I am Android dev. I have two Android devices connected to my PC via USB and they work great. I am wondering what is the upper limit of Android devices I can connect?I have 4 USB on my PC, but I can connect USB hub if it helps to increase number of connected Android devices.",
+    "ViewCount":"76",
+    "LastActivityDate":"2016-01-05T12:05:09.030",
+    "ClosedDate":"2016-01-05T15:04:21.570",
+    "Title":"How many phones it is possible to connect to single PC via USB?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"133438",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"142476",
+    "CreationDate":"2016-01-05T11:33:06.613",
+    "FavoriteCount":"2",
+    "Id":"133434",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T11:33:06.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e23011a-4410-4713-a641-95df311f3f08",
+            "UserId":"142476",
+            "CloseReasonId":null,
+            "PostId":"133434",
+            "PostHistoryTypeId":"2",
+            "Id":"442187",
+            "Text":"I am Android dev. I have two Android devices connected to my PC via USB and they work great. I am wondering what is the upper limit of Android devices I can connect?I have 4 USB on my PC, but I can connect USB hub if it helps to increase number of connected Android devices."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T11:33:06.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e23011a-4410-4713-a641-95df311f3f08",
+            "UserId":"142476",
+            "CloseReasonId":null,
+            "PostId":"133434",
+            "PostHistoryTypeId":"1",
+            "Id":"442188",
+            "Text":"How many phones it is possible to connect to single PC via USB?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-05T11:33:06.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e23011a-4410-4713-a641-95df311f3f08",
+            "UserId":"142476",
+            "CloseReasonId":null,
+            "PostId":"133434",
+            "PostHistoryTypeId":"3",
+            "Id":"442189",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-01-05T15:04:21.570",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fdd261e-7bbf-46c2-9fec-a3620eab4dc7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"133434",
+            "PostHistoryTypeId":"10",
+            "Id":"442267",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

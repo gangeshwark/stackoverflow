@@ -1,0 +1,83 @@
+{
+    "Body":"In Android 2.3.4 I could launch a service from init.rc file. The same service using the same line in init.rc does not launch in Android 4. Does anyone know if services are being blocked or what the difference is?",
+    "ViewCount":"135",
+    "LastActivityDate":"2012-03-05T15:47:49.947",
+    "ClosedDate":"2013-01-01T18:32:55.310",
+    "Title":"Problem launching a service in Android 4",
+    "LastEditorUserId":null,
+    "Tags":"<4.0-ice-cream-sandwich>",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13159",
+    "CreationDate":"2012-03-05T15:47:49.947",
+    "FavoriteCount":null,
+    "Id":"20274",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T15:47:49.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b2caa37-39f9-44bb-8446-1298fefca0fa",
+            "UserId":"13159",
+            "CloseReasonId":null,
+            "PostId":"20274",
+            "PostHistoryTypeId":"2",
+            "Id":"56311",
+            "Text":"In Android 2.3.4 I could launch a service from init.rc file. The same service using the same line in init.rc does not launch in Android 4. Does anyone know if services are being blocked or what the difference is?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T15:47:49.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b2caa37-39f9-44bb-8446-1298fefca0fa",
+            "UserId":"13159",
+            "CloseReasonId":null,
+            "PostId":"20274",
+            "PostHistoryTypeId":"1",
+            "Id":"56312",
+            "Text":"Problem launching a service in Android 4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-05T15:47:49.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b2caa37-39f9-44bb-8446-1298fefca0fa",
+            "UserId":"13159",
+            "CloseReasonId":null,
+            "PostId":"20274",
+            "PostHistoryTypeId":"3",
+            "Id":"56313",
+            "Text":"<4.0-ice-cream-sandwich>"
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/216298270266376193",
+            "CreationDate":"2012-06-22T22:35:01.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"381ecfa6-60c7-47ff-80dd-95c88ffd4251",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"20274",
+            "PostHistoryTypeId":"25",
+            "Id":"70679",
+            "Text":null
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-01-01T18:32:55.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdfc7ccb-1a60-4783-b30c-1a230cbb4d97",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20274",
+            "PostHistoryTypeId":"10",
+            "Id":"110650",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

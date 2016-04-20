@@ -1,0 +1,71 @@
+{
+    "Body":"I have an app and I am wondering where it ranks for a certain GooglePlay search in different countries.Is there a way to determine that?Thank you!",
+    "ViewCount":"76",
+    "LastActivityDate":"2013-09-15T07:35:09.497",
+    "ClosedDate":"2013-09-15T13:57:19.880",
+    "Title":"How can I see what the search results in GooglePlay are in different countries for the same search term?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"53268",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14315",
+    "CreationDate":"2013-09-15T06:09:34.260",
+    "FavoriteCount":null,
+    "Id":"53266",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-15T06:09:34.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3389418-63fc-4359-9f10-975e1983044b",
+            "UserId":"14315",
+            "CloseReasonId":null,
+            "PostId":"53266",
+            "PostHistoryTypeId":"2",
+            "Id":"175686",
+            "Text":"I have an app and I am wondering where it ranks for a certain GooglePlay search in different countries.Is there a way to determine that?Thank you!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-15T06:09:34.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3389418-63fc-4359-9f10-975e1983044b",
+            "UserId":"14315",
+            "CloseReasonId":null,
+            "PostId":"53266",
+            "PostHistoryTypeId":"1",
+            "Id":"175687",
+            "Text":"How can I see what the search results in GooglePlay are in different countries for the same search term?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-15T06:09:34.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3389418-63fc-4359-9f10-975e1983044b",
+            "UserId":"14315",
+            "CloseReasonId":null,
+            "PostId":"53266",
+            "PostHistoryTypeId":"3",
+            "Id":"175688",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-09-15T13:57:19.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"30b3f551-6b9f-442b-900a-7938d464d27a",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"53266",
+            "PostHistoryTypeId":"10",
+            "Id":"175769",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I have a few apps, but this tablet is new and I want more apps. Every time I say download, it says I have insufficient space. Please help!",
+    "ViewCount":"4267",
+    "LastActivityDate":"2015-02-12T23:30:37.167",
+    "ClosedDate":"2015-02-13T01:54:09.670",
+    "Title":"why does my tablet say insufficient space?",
+    "LastEditorUserId":"1951",
+    "Tags":"",
+    "LastEditDate":"2015-02-12T23:30:37.167",
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"98629",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94118",
+    "CreationDate":"2015-02-12T20:11:38.567",
+    "FavoriteCount":null,
+    "Id":"98623",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-12T20:11:38.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1b3416f-bd31-48a2-8c98-435fdbaf2aed",
+            "UserId":"94118",
+            "CloseReasonId":null,
+            "PostId":"98623",
+            "PostHistoryTypeId":"2",
+            "Id":"322193",
+            "Text":"I have a few apps, but this tablet is new and I want more apps. Every time I say download, it says I have insufficient space. Please help!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-12T20:11:38.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1b3416f-bd31-48a2-8c98-435fdbaf2aed",
+            "UserId":"94118",
+            "CloseReasonId":null,
+            "PostId":"98623",
+            "PostHistoryTypeId":"1",
+            "Id":"322194",
+            "Text":"why does my tablet say insufficient space?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-12T20:11:38.567",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1b3416f-bd31-48a2-8c98-435fdbaf2aed",
+            "UserId":"94118",
+            "CloseReasonId":null,
+            "PostId":"98623",
+            "PostHistoryTypeId":"3",
+            "Id":"322195",
+            "Text":""
+        },
+        {
+            "Comment":"edit tags.",
+            "CreationDate":"2015-02-12T23:30:37.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"373edceb-5ea4-4b5b-9137-2ff56055f11d",
+            "UserId":"1951",
+            "CloseReasonId":null,
+            "PostId":"98623",
+            "PostHistoryTypeId":"6",
+            "Id":"322237",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-13T01:54:09.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"84822caa-45cc-4794-ab3d-f6080cd475cc",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"98623",
+            "PostHistoryTypeId":"10",
+            "Id":"322264",
+            "Text":"{\"OriginalQuestionIds\":[2065],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

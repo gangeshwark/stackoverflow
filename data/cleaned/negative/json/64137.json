@@ -1,0 +1,71 @@
+{
+    "Body":"For some reason, my LG Optimus Logic claims that I have low memory after I install applications. However, when I go into my settings, both the SD Card, Flash, and System Memory are no where close to being empty. Can someone help me? Thanks!",
+    "ViewCount":"147",
+    "LastActivityDate":"2014-02-23T00:15:24.503",
+    "ClosedDate":"2015-07-26T03:03:20.333",
+    "Title":"LG Optimus Logic claims I have low memory, but I don't",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"52206",
+    "CreationDate":"2014-02-23T00:15:24.503",
+    "FavoriteCount":null,
+    "Id":"64137",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-23T00:15:24.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb36433d-2917-48ad-9cea-3c1613d85402",
+            "UserId":"52206",
+            "CloseReasonId":null,
+            "PostId":"64137",
+            "PostHistoryTypeId":"2",
+            "Id":"217986",
+            "Text":"For some reason, my LG Optimus Logic claims that I have low memory after I install applications. However, when I go into my settings, both the SD Card, Flash, and System Memory are no where close to being empty. Can someone help me? Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-23T00:15:24.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb36433d-2917-48ad-9cea-3c1613d85402",
+            "UserId":"52206",
+            "CloseReasonId":null,
+            "PostId":"64137",
+            "PostHistoryTypeId":"1",
+            "Id":"217987",
+            "Text":"LG Optimus Logic claims I have low memory, but I don't"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-23T00:15:24.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb36433d-2917-48ad-9cea-3c1613d85402",
+            "UserId":"52206",
+            "CloseReasonId":null,
+            "PostId":"64137",
+            "PostHistoryTypeId":"3",
+            "Id":"217988",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-26T03:03:20.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"e925c943-7cf0-418b-a822-8969ef4f8a2c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"64137",
+            "PostHistoryTypeId":"10",
+            "Id":"382413",
+            "Text":"{\"OriginalQuestionIds\":[21300],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Android Market gone after emulator reboot  I am having the same problem as mentioned here. But my specs are as follows:OS=Windows 7 SP1SDK Revision = 21.0.1OS = Windows 7 SP1SDK Revision = 21.0.1Android-SDK=3.0(API Level 11)  AVD Details    Name: DemoDevice1    CPU\/ABI: ARM(armeabi)    Path: c:\\Users\\The WABBIT.android\\AVD\\DemoDevice1.avd    Target: Android 3.0 (API level 11)    Skin: WXGA    SD Card: 2048    hw.lcd.density: 213    vm.heapSize: 32    hw.ramSize: 1024I have already deleted the SdkSetup.apk from the emulator and then added the GoogleServicesFramework.apk and Vending.apk packages to the emulator.But, upon reboot everything is reverted back to before changes was made. I am unable to find a updated img file in any temporary directory, or any directory, as outlined in above mentioned post.Can anyone help me with this? ",
+    "ViewCount":"543",
+    "LastActivityDate":"2013-01-06T11:04:53.740",
+    "ClosedDate":"2013-01-06T14:11:39.603",
+    "Title":"Android Market gone after emulator reboot on Windows",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26223",
+    "CreationDate":"2013-01-05T23:58:47.467",
+    "FavoriteCount":null,
+    "Id":"36978",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-05T23:58:47.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"31f3aeec-ab11-49ba-a149-a28fafa8b918",
+            "UserId":"26223",
+            "CloseReasonId":null,
+            "PostId":"36978",
+            "PostHistoryTypeId":"2",
+            "Id":"111937",
+            "Text":"I am having the same problem as mentioned [here](http:\/\/android.stackexchange.com\/questions\/14764\/android-market-gone-after-emulator-reboot). But my specs are as follows:OS=Windows 7 SP1SDK Revision = 21.0.1 - OS = Windows 7 SP1 - SDK Revision = 21.0.1 - Android-SDK=3.0(API Level 11)> ## AVD Details ##>>Name: DemoDevice1>>CPU\/ABI: ARM(armeabi)>>Path: c:\\Users\\The WABBIT\\.android\\AVD\\DemoDevice1.avd>>Target: Android 3.0 (API level 11)>>Skin: WXGA>>SD Card: 2048>>hw.lcd.density: 213>>vm.heapSize: 32>>hw.ramSize: 1024>I have already deleted the SdkSetup.apk from the emulator and then added the GoogleServicesFramework.apk and Vending.apk packages to the emulator.But, upon reboot everything is reverted back to before changes was made. I am unable to find a updated img file in any temporary directory, or any directory, as outlined in above mentioned post.Can anyone help me with this? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-05T23:58:47.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"31f3aeec-ab11-49ba-a149-a28fafa8b918",
+            "UserId":"26223",
+            "CloseReasonId":null,
+            "PostId":"36978",
+            "PostHistoryTypeId":"1",
+            "Id":"111938",
+            "Text":"Android Market gone after emulator reboot on Windows"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-05T23:58:47.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"31f3aeec-ab11-49ba-a149-a28fafa8b918",
+            "UserId":"26223",
+            "CloseReasonId":null,
+            "PostId":"36978",
+            "PostHistoryTypeId":"3",
+            "Id":"111939",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-06T14:11:39.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"da261a6b-d368-4f30-888f-c2cc4576aa5c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36978",
+            "PostHistoryTypeId":"5",
+            "Id":"112042",
+            "Text":"> **Possible Duplicate:**  > [Android Market gone after emulator reboot](http:\/\/android.stackexchange.com\/questions\/14764\/android-market-gone-after-emulator-reboot)  I am having the same problem as mentioned [here](http:\/\/android.stackexchange.com\/questions\/14764\/android-market-gone-after-emulator-reboot). But my specs are as follows:OS=Windows 7 SP1SDK Revision = 21.0.1 - OS = Windows 7 SP1 - SDK Revision = 21.0.1 - Android-SDK=3.0(API Level 11)> ## AVD Details ##>>Name: DemoDevice1>>CPU\/ABI: ARM(armeabi)>>Path: c:\\Users\\The WABBIT\\.android\\AVD\\DemoDevice1.avd>>Target: Android 3.0 (API level 11)>>Skin: WXGA>>SD Card: 2048>>hw.lcd.density: 213>>vm.heapSize: 32>>hw.ramSize: 1024>I have already deleted the SdkSetup.apk from the emulator and then added the GoogleServicesFramework.apk and Vending.apk packages to the emulator.But, upon reboot everything is reverted back to before changes was made. I am unable to find a updated img file in any temporary directory, or any directory, as outlined in above mentioned post.Can anyone help me with this? "
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-06T14:11:39.603",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea1b5cec-794d-450f-b023-14a67a844034",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36978",
+            "PostHistoryTypeId":"10",
+            "Id":"112043",
+            "Text":"{\"OriginalQuestionIds\":[14764],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

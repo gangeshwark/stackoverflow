@@ -1,0 +1,71 @@
+{
+    "Body":"I often see a lot of articles that say that rooting can brick your phone and render it useless like a brick, hence the name brick. But anyone who's ever fiddled around in rooting phones and installing ROMS surely knows that if you fail a ROM installation or root, the device can easily be saved by flashing a clean ROM. So what do all those articles mean by 'bricking'? Is there a way to brick a phone to the point that it doesn't even boot to the bootloader and let you install a custom recovery?",
+    "ViewCount":"18",
+    "LastActivityDate":"2016-01-19T08:41:41.373",
+    "ClosedDate":"2016-01-21T19:25:03.573",
+    "Title":"Define the term: brick",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"108895",
+    "CreationDate":"2016-01-19T08:41:41.373",
+    "FavoriteCount":null,
+    "Id":"134673",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-19T08:41:41.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"d30511c0-5ac3-4439-aee6-fe1d4aebb48a",
+            "UserId":"108895",
+            "CloseReasonId":null,
+            "PostId":"134673",
+            "PostHistoryTypeId":"2",
+            "Id":"447137",
+            "Text":"I often see a lot of articles that say that rooting can brick your phone and render it useless like a brick, hence the name brick. But anyone who's ever fiddled around in rooting phones and installing ROMS surely knows that if you fail a ROM installation or root, the device can easily be saved by flashing a clean ROM. So what do all those articles mean by 'bricking'? Is there a way to brick a phone to the point that it doesn't even boot to the bootloader and let you install a custom recovery?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-19T08:41:41.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"d30511c0-5ac3-4439-aee6-fe1d4aebb48a",
+            "UserId":"108895",
+            "CloseReasonId":null,
+            "PostId":"134673",
+            "PostHistoryTypeId":"1",
+            "Id":"447138",
+            "Text":"Define the term: brick"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-19T08:41:41.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"d30511c0-5ac3-4439-aee6-fe1d4aebb48a",
+            "UserId":"108895",
+            "CloseReasonId":null,
+            "PostId":"134673",
+            "PostHistoryTypeId":"3",
+            "Id":"447139",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-21T19:25:03.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"933780f4-7c08-459b-a869-27d08f121bf4",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"134673",
+            "PostHistoryTypeId":"10",
+            "Id":"448156",
+            "Text":"{\"OriginalQuestionIds\":[29741],\"Voters\":[{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

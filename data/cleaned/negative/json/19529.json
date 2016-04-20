@@ -1,0 +1,83 @@
+{
+    "Body":"Is there an Android app that is able to download rss enclosures? I want to setup calibre on a server to download articles from some newspaper-sites and converts them to .epub.Then I want to have an RSS-feed of those epub-files.Finally I want my Sony PRS-T1 to download all (new) epub-files that are linked in this rss feed.How would you do that?",
+    "ViewCount":"165",
+    "LastActivityDate":"2012-02-15T17:18:15.330",
+    "ClosedDate":"2012-09-12T13:36:27.057",
+    "Title":"App to download rss enclosures (just like a podcatcher)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12590",
+    "CreationDate":"2012-02-15T17:18:15.330",
+    "FavoriteCount":null,
+    "Id":"19529",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-15T17:18:15.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fb29eae-bb2f-4504-8596-e31a542269c8",
+            "UserId":"12590",
+            "CloseReasonId":null,
+            "PostId":"19529",
+            "PostHistoryTypeId":"2",
+            "Id":"54069",
+            "Text":"Is there an Android app that is able to download rss enclosures? I want to setup [calibre][1] on a server to download articles from some newspaper-sites and converts them to .epub.Then I want to have an RSS-feed of those epub-files.Finally I want my Sony PRS-T1 to download all (new) epub-files that are linked in this rss feed.How would you do that?  [1]: http:\/\/calibre-ebook.com\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-15T17:18:15.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fb29eae-bb2f-4504-8596-e31a542269c8",
+            "UserId":"12590",
+            "CloseReasonId":null,
+            "PostId":"19529",
+            "PostHistoryTypeId":"1",
+            "Id":"54070",
+            "Text":"App to download rss enclosures (just like a podcatcher)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-15T17:18:15.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"2fb29eae-bb2f-4504-8596-e31a542269c8",
+            "UserId":"12590",
+            "CloseReasonId":null,
+            "PostId":"19529",
+            "PostHistoryTypeId":"3",
+            "Id":"54071",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/170701141104009218",
+            "CreationDate":"2012-02-18T02:48:18.930",
+            "UserDisplayName":null,
+            "RevisionGUID":"183772bb-7927-4d18-b772-e316310b0474",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"19529",
+            "PostHistoryTypeId":"25",
+            "Id":"54325",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-09-12T13:36:27.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"8f1bd859-c5f9-459d-8915-e5862f74d90c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19529",
+            "PostHistoryTypeId":"10",
+            "Id":"85768",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Okay so i rooted my Samsung Galaxy Express to jelly bean 4.2.2 using the method below. but i cant access Samsung kies because it doesn't recognize rooted phones. So i was wondering if there was any way to keep the rooted features but go back to the stock rom? And if there is how do i do it and where do i get the file from?Here are the steps I took to upgrade my phone:  Flash Clockwork Recovery      Download Express OUDHS CWM.exe.  Turn off the phone  Press and hold volume down and power to enter download mode (if this doesn\u2019t work, press and hold volume down, power and home key)  Connect your phone to your computer via USB  Window ID: COM should be highlighted in yellow, this means your phone was properly detected  Press start and wait for installation  Disconnect your phone, recovery is now installed      Install SuperSU      Download SuperSU v1.25  Connect your phone to your computer via USB  Copy the SuperSU v1.25 file to the root of your SD card (make sure you have an SD card in your phone)  Turn off your phone  Hold volume up, power and home key to enter recovery (as soon as you see blue text on the top of the screen that read entering or  booting recovery, immediately release all the buttons)  Click on install zip from SD card and locate SuperSU file  Select the SuperSU file and install  After installation is complete, reboot your phone      You will now have both custom recovery and SuperSU installed on your  phone, which allows you to install custom ROM\u2019s, which is the next  step. (Make sure USB debugging is still enabled). Please note that  these versions of CM10.1 and CM10.2 are unofficial builds, however are  stable enough as daily drivers.      Download CM10.1(Android 4.2.2) or CM10.2(Android 4.3)  Download Gapps (Google Apps) for CM10.1 or Gapps for CM10.2  Connect your phone to your computer via USB and place ROM and Gapps files in root of SD card (make sure they are on SD card)  Download ROM Manager and reboot into recovery. You can also manually reboot into recovery by powering off your phone, pressing and  holding volume up, power and home key.  Create a backup.  Wipe data\/factory reset, wipe cache partition and dalvik cache (found in advanced)  Install the ROM from the SDCard  Install Gapps from the SDCard  Reboot phone and let it sit for a few minutes while it boots for the first time. It may take a few minutes, and this is only evident  upon initial boot.      You will likely run into issues with non functional WiFi. To resolve  this, after flashing the ROM, follow these simple steps:      Download this file.  Power off the phone.  Hold volume down, power and home button to enter download mode.  Press volume up to enter download mode.  Connect phone to your computer  Open Odin and flash the downloaded file as Bootloader (You should see a green box that indicates that the method passed and worked)  Reboot the phone and test WiFI  ",
+    "ViewCount":"14198",
+    "LastActivityDate":"2013-12-27T15:45:45.413",
+    "ClosedDate":"2014-01-17T17:58:01.340",
+    "Title":"rooted my phone but want to go back to stock rom",
+    "LastEditorUserId":"3646",
+    "Tags":"",
+    "LastEditDate":"2013-12-27T15:14:46.673",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49392",
+    "CreationDate":"2013-12-27T09:42:53.613",
+    "FavoriteCount":"1",
+    "Id":"59891",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-27T09:42:53.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e66c5d3-07a1-4bfb-8499-57864032a370",
+            "UserId":"49392",
+            "CloseReasonId":null,
+            "PostId":"59891",
+            "PostHistoryTypeId":"2",
+            "Id":"201915",
+            "Text":"Okay so i rooted my Samsung Galaxy express to jelly bean 4.2.2 using the method below. but i cant access Samsung kies because it doesn't recognize rooted phones. So i was wondering if there was any way to keep the rooted features but go back to the stock rom? And if there is how do i do it and where do i get the file from?Flash Clockwork Recovery1. Download Express OUDHS CWM.exe.2. Turn off the phone3. Press and hold volume down and power to enter download mode (if this doesn\u2019t work, press and hold volume down, power and home key)4. Connect your phone to your computer via USB5. Window ID: COM should be highlighted in yellow, this means your phone was properly detected6. Press start and wait for installation7. Disconnect your phone, recovery is now installedInstall SuperSU1. Download SuperSU v1.252. Connect your phone to your computer via USB3. Copy the SuperSU v1.25 file to the root of your SD card (make sure you have an SD card in your phone)4. Turn off your phone5. Hold volume up, power and home key to enter recovery (as soon as you see blue text on the top of the screen that read entering or booting recovery, immediately release all the buttons)6. Click on install zip from SD card and locate SuperSU file7. Select the SuperSU file and install8. After installation is complete, reboot your phoneYou will now have both custom recovery and SuperSU installed on your phone, which allows you to install custom ROM\u2019s, which is the next step. (Make sure USB debugging is still enabled). Please note that these versions of CM10.1 and CM10.2 are unofficial builds, however are stable enough as daily drivers.1. Download CM10.1(Android 4.2.2) or CM10.2(Android 4.3)2. Download Gapps (Google Apps) for CM10.1 or Gapps for CM10.23. Connect your phone to your computer via USB and place ROM and Gapps files in root of SD card (make sure they are on SD card)4. Download ROM Manager and reboot into recovery. You can also manually reboot into recovery by powering off your phone, pressing and holding volume up, power and home key.5. Create a backup.6. Wipe data\/factory reset, wipe cache partition and dalvik cache (found in advanced)7. Install the ROM from the SDCard8. Install Gapps from the SDCard9. Reboot phone and let it sit for a few minutes while it boots for the first time. It may take a few minutes, and this is only evident upon initial boot.You will likely run into issues with non functional WiFi. To resolve this, after flashing the ROM, follow these simple steps:1. Download this file.2. Power off the phone.3. Hold volume down, power and home button to enter download mode.4. Press volume up to enter download mode.5. Connect phone to your computer6. Open Odin and flash the downloaded file as Bootloader (You should see a green box that indicates that the method passed and worked)7. Reboot the phone and test WiFI\u00a0REPLY"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-27T09:42:53.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e66c5d3-07a1-4bfb-8499-57864032a370",
+            "UserId":"49392",
+            "CloseReasonId":null,
+            "PostId":"59891",
+            "PostHistoryTypeId":"1",
+            "Id":"201916",
+            "Text":"rooted my phone but want to go back to stock rom"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-27T09:42:53.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e66c5d3-07a1-4bfb-8499-57864032a370",
+            "UserId":"49392",
+            "CloseReasonId":null,
+            "PostId":"59891",
+            "PostHistoryTypeId":"3",
+            "Id":"201917",
+            "Text":""
+        },
+        {
+            "Comment":"clarification for instructions",
+            "CreationDate":"2013-12-27T15:14:46.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"ae543a96-8eb7-4f8d-89cb-516e6f722fa1",
+            "UserId":"3646",
+            "CloseReasonId":null,
+            "PostId":"59891",
+            "PostHistoryTypeId":"5",
+            "Id":"201993",
+            "Text":"Okay so i rooted my Samsung Galaxy Express to jelly bean 4.2.2 using the method below. but i cant access Samsung kies because it doesn't recognize rooted phones. So i was wondering if there was any way to keep the rooted features but go back to the stock rom? And if there is how do i do it and where do i get the file from?Here are the steps I took to upgrade my phone:> Flash Clockwork Recovery> > 1. Download Express OUDHS CWM.exe.> 2. Turn off the phone> 3. Press and hold volume down and power to enter download mode (if this doesn\u2019t work, press and hold volume down, power and home key)> 4. Connect your phone to your computer via USB> 5. Window ID: COM should be highlighted in yellow, this means your phone was properly detected> 6. Press start and wait for installation> 7. Disconnect your phone, recovery is now installed> > Install SuperSU> > 1. Download SuperSU v1.25> 2. Connect your phone to your computer via USB> 3. Copy the SuperSU v1.25 file to the root of your SD card (make sure you have an SD card in your phone)> 4. Turn off your phone> 5. Hold volume up, power and home key to enter recovery (as soon as you see blue text on the top of the screen that read entering or> booting recovery, immediately release all the buttons)> 6. Click on install zip from SD card and locate SuperSU file> 7. Select the SuperSU file and install> 8. After installation is complete, reboot your phone> > You will now have both custom recovery and SuperSU installed on your> phone, which allows you to install custom ROM\u2019s, which is the next> step. (Make sure USB debugging is still enabled). Please note that> these versions of CM10.1 and CM10.2 are unofficial builds, however are> stable enough as daily drivers.> > 1. Download CM10.1(Android 4.2.2) or CM10.2(Android 4.3)> 2. Download Gapps (Google Apps) for CM10.1 or Gapps for CM10.2> 3. Connect your phone to your computer via USB and place ROM and Gapps files in root of SD card (make sure they are on SD card)> 4. Download ROM Manager and reboot into recovery. You can also manually reboot into recovery by powering off your phone, pressing and> holding volume up, power and home key.> 5. Create a backup.> 6. Wipe data\/factory reset, wipe cache partition and dalvik cache (found in advanced)> 7. Install the ROM from the SDCard> 8. Install Gapps from the SDCard> 9. Reboot phone and let it sit for a few minutes while it boots for the first time. It may take a few minutes, and this is only evident> upon initial boot.> > You will likely run into issues with non functional WiFi. To resolve> this, after flashing the ROM, follow these simple steps:> > 1. Download this file.> 2. Power off the phone.> 3. Hold volume down, power and home button to enter download mode.> 4. Press volume up to enter download mode.> 5. Connect phone to your computer> 6. Open Odin and flash the downloaded file as Bootloader (You should see a green box that indicates that the method passed and worked)> 7. Reboot the phone and test WiFI"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-17T17:58:01.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"5c17ac5a-ffc9-47ed-836e-4352c93c2c7d",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"59891",
+            "PostHistoryTypeId":"10",
+            "Id":"207813",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

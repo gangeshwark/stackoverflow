@@ -1,0 +1,71 @@
+{
+    "Body":"I have no clue what is going on of my phone. My phone cannot store any setting for long term. What I mean is that the setting would go back to default after battery is removed or system crash. Please help. Thanks",
+    "ViewCount":"44",
+    "LastActivityDate":"2012-04-12T22:14:06.327",
+    "ClosedDate":"2012-12-20T03:38:48.023",
+    "Title":"How to make the system keep my setting even after the battery is removed?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14222",
+    "CreationDate":"2012-04-12T22:14:06.327",
+    "FavoriteCount":null,
+    "Id":"21770",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-12T22:14:06.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0087aa3-a053-4a76-9c60-f2de618e805a",
+            "UserId":"14222",
+            "CloseReasonId":null,
+            "PostId":"21770",
+            "PostHistoryTypeId":"2",
+            "Id":"61003",
+            "Text":"I have no clue what is going on of my phone. My phone cannot store any setting for long term. What I mean is that the setting would go back to default after battery is removed or system crash. Please help. Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-12T22:14:06.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0087aa3-a053-4a76-9c60-f2de618e805a",
+            "UserId":"14222",
+            "CloseReasonId":null,
+            "PostId":"21770",
+            "PostHistoryTypeId":"1",
+            "Id":"61004",
+            "Text":"How to make the system keep my setting even after the battery is removed?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-12T22:14:06.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0087aa3-a053-4a76-9c60-f2de618e805a",
+            "UserId":"14222",
+            "CloseReasonId":null,
+            "PostId":"21770",
+            "PostHistoryTypeId":"3",
+            "Id":"61005",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-20T03:38:48.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ee8e84b-62d3-4738-bf70-1e299703d637",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"21770",
+            "PostHistoryTypeId":"10",
+            "Id":"107642",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

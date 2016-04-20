@@ -1,0 +1,71 @@
+{
+    "Body":"I have a first edition MOTOX phone.  I installed a qwikcart app called APPLEJACK.  It was working fine.  I installed the applejack update from Google Play and now it never connects to the server!  I emailed qwikcart a month ago and they did not respond. Is there a website that keeps the first editions of all android apps that can be downloaded and installed?  If so, what is the URL?",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-04-27T20:33:56.240",
+    "ClosedDate":"2015-04-27T20:44:30.430",
+    "Title":"Is there a website that keeps the first editions of all android apps that can be downloaded and installed?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104446",
+    "CreationDate":"2015-04-27T20:33:56.240",
+    "FavoriteCount":null,
+    "Id":"106834",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-27T20:33:56.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf4a53c1-1bcd-46d7-b683-73606a6c8245",
+            "UserId":"104446",
+            "CloseReasonId":null,
+            "PostId":"106834",
+            "PostHistoryTypeId":"2",
+            "Id":"349843",
+            "Text":"I have a first edition MOTOX phone.  I installed a qwikcart app called APPLEJACK.  It was working fine.  I installed the applejack update from Google Play and now it never connects to the server!  I emailed qwikcart a month ago and they did not respond. Is there a website that keeps the first editions of all android apps that can be downloaded and installed?  If so, what is the URL?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-27T20:33:56.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf4a53c1-1bcd-46d7-b683-73606a6c8245",
+            "UserId":"104446",
+            "CloseReasonId":null,
+            "PostId":"106834",
+            "PostHistoryTypeId":"1",
+            "Id":"349844",
+            "Text":"Is there a website that keeps the first editions of all android apps that can be downloaded and installed?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-27T20:33:56.240",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf4a53c1-1bcd-46d7-b683-73606a6c8245",
+            "UserId":"104446",
+            "CloseReasonId":null,
+            "PostId":"106834",
+            "PostHistoryTypeId":"3",
+            "Id":"349845",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-27T20:44:30.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f49351f-59f3-4d98-a050-a340aeb59994",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"106834",
+            "PostHistoryTypeId":"10",
+            "Id":"349847",
+            "Text":"{\"OriginalQuestionIds\":[14910],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

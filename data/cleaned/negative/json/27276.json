@@ -1,0 +1,71 @@
+{
+    "Body":"3 weeks ago my HTC EVO 3d (rooted, S-OFF and with LEEDroid latest ROM) started to randomly change ringtones and alarm tones (mainly at reboot, but occasionally during normal use). If I restore the right tones settings then the right tones are played, until I reboot the phone. When the phone restarts (and sometimes also without rebooting) tones changes again. New tones are random, but the pool is limited to a very small subset of the tones I have availables (the tones I use more often) Some of them are on internal memory and some of them are on SD. Moreover, another problem appeared at once: the alert tone for received mail in the mail app (NOT gmail) should be the one set in the \"message\" setting (in Mail there's no place to set a separate tone) but on my phone it is not... it's another tone that I never set anywhere.Already tried to fix permissions, check for SD errors, but no result. There's something I can check to see what is failing in the system? I can use adb and all the development tools if needed. ",
+    "ViewCount":"320",
+    "LastActivityDate":"2012-08-09T08:18:41.223",
+    "ClosedDate":"2012-12-19T14:50:34.890",
+    "Title":"Ringtones and alarms changes randomly",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3063",
+    "CreationDate":"2012-08-09T08:18:41.223",
+    "FavoriteCount":null,
+    "Id":"27276",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-09T08:18:41.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d414d09-24c7-4c74-9ae3-247b47debfa0",
+            "UserId":"3063",
+            "CloseReasonId":null,
+            "PostId":"27276",
+            "PostHistoryTypeId":"2",
+            "Id":"79123",
+            "Text":"3 weeks ago my HTC EVO 3d (rooted, S-OFF and with LEEDroid latest ROM) started to randomly change ringtones and alarm tones (mainly at reboot, but occasionally during normal use). If I restore the right tones settings then the right tones are played, until I reboot the phone. When the phone restarts (and sometimes also without rebooting) tones changes again. New tones are random, but the pool is limited to a very small subset of the tones I have availables (the tones I use more often) Some of them are on internal memory and some of them are on SD. Moreover, another problem appeared at once: the alert tone for received mail in the mail app (NOT gmail) should be the one set in the \"message\" setting (in Mail there's no place to set a separate tone) but on my phone it is not... it's another tone that I never set anywhere.Already tried to fix permissions, check for SD errors, but no result. There's something I can check to see what is failing in the system? I can use adb and all the development tools if needed. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-09T08:18:41.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d414d09-24c7-4c74-9ae3-247b47debfa0",
+            "UserId":"3063",
+            "CloseReasonId":null,
+            "PostId":"27276",
+            "PostHistoryTypeId":"1",
+            "Id":"79124",
+            "Text":"Ringtones and alarms changes randomly"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-09T08:18:41.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d414d09-24c7-4c74-9ae3-247b47debfa0",
+            "UserId":"3063",
+            "CloseReasonId":null,
+            "PostId":"27276",
+            "PostHistoryTypeId":"3",
+            "Id":"79125",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T14:50:34.890",
+            "UserDisplayName":null,
+            "RevisionGUID":"46279653-eefa-4e5e-9e4e-5adc203466bf",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"27276",
+            "PostHistoryTypeId":"10",
+            "Id":"107439",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

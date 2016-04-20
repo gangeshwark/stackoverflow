@@ -1,0 +1,71 @@
+{
+    "Body":"I have a CUBOT P7 phone with very little internal memory, so I installed an 8GB external SD card. However, my apps will not download directly to there, and I have no more space on my internal memory.How do I modify my phone so that apps download directly to my SD card? with out having to root my phone",
+    "ViewCount":"15785",
+    "LastActivityDate":"2015-02-21T00:01:45.577",
+    "ClosedDate":"2015-02-23T17:17:49.407",
+    "Title":"Make my external SD card as my internal memory for apps",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95252",
+    "CreationDate":"2015-02-20T23:38:01.207",
+    "FavoriteCount":null,
+    "Id":"100433",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T23:38:01.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"02c98ea9-36c5-4128-aa03-57d75c48c0ba",
+            "UserId":"95252",
+            "CloseReasonId":null,
+            "PostId":"100433",
+            "PostHistoryTypeId":"2",
+            "Id":"326175",
+            "Text":"I have a CUBOT P7 phone with very little internal memory, so I installed an 8GB external SD card. However, my apps will not download directly to there, and I have no more space on my internal memory.How do I modify my phone so that apps download directly to my SD card? with out having to root my phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T23:38:01.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"02c98ea9-36c5-4128-aa03-57d75c48c0ba",
+            "UserId":"95252",
+            "CloseReasonId":null,
+            "PostId":"100433",
+            "PostHistoryTypeId":"1",
+            "Id":"326176",
+            "Text":"Make my external SD card as my internal memory for apps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T23:38:01.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"02c98ea9-36c5-4128-aa03-57d75c48c0ba",
+            "UserId":"95252",
+            "CloseReasonId":null,
+            "PostId":"100433",
+            "PostHistoryTypeId":"3",
+            "Id":"326177",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-23T17:17:49.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"a46a2c45-4d97-417d-b9e6-2f6eead19fc0",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"100433",
+            "PostHistoryTypeId":"10",
+            "Id":"327071",
+            "Text":"{\"OriginalQuestionIds\":[50252],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

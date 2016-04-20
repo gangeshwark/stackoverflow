@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to configure BlueStack AppPlayer to use Proxy settings when connecting to Network?  I am using BlueStacks 0.7.7.813. I want to run apps like whatsapp on my laptop and the internet is connected with proxy. Is there any way to run apps like whatsapp on BluStacks behind proxy server?",
+    "ViewCount":"4701",
+    "LastActivityDate":"2013-01-04T05:00:46.307",
+    "ClosedDate":"2013-01-04T06:38:51.600",
+    "Title":"BlueStacks with proxy",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26113",
+    "CreationDate":"2013-01-04T04:36:56.660",
+    "FavoriteCount":null,
+    "Id":"36843",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-04T04:36:56.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd30a403-325a-41d3-9e0f-f3fc99f33402",
+            "UserId":"26113",
+            "CloseReasonId":null,
+            "PostId":"36843",
+            "PostHistoryTypeId":"2",
+            "Id":"111451",
+            "Text":"I am using BlueStacks 0.7.7.813. I want to run apps like whatsapp on my laptop and the internet is connected with proxy. Is there any way to run apps like whatsapp on BluStacks behind proxy server?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-04T04:36:56.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd30a403-325a-41d3-9e0f-f3fc99f33402",
+            "UserId":"26113",
+            "CloseReasonId":null,
+            "PostId":"36843",
+            "PostHistoryTypeId":"1",
+            "Id":"111452",
+            "Text":"BlueStacks with proxy"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-04T04:36:56.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd30a403-325a-41d3-9e0f-f3fc99f33402",
+            "UserId":"26113",
+            "CloseReasonId":null,
+            "PostId":"36843",
+            "PostHistoryTypeId":"3",
+            "Id":"111453",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-04T06:38:51.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"aadc2ae4-4da0-4330-8292-64bf7816237a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36843",
+            "PostHistoryTypeId":"5",
+            "Id":"111469",
+            "Text":"> **Possible Duplicate:**  > [How to configure BlueStack AppPlayer to use Proxy settings when connecting to Network?](http:\/\/android.stackexchange.com\/questions\/27224\/how-to-configure-bluestack-appplayer-to-use-proxy-settings-when-connecting-to-ne)  I am using BlueStacks 0.7.7.813. I want to run apps like whatsapp on my laptop and the internet is connected with proxy. Is there any way to run apps like whatsapp on BluStacks behind proxy server?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-04T06:38:51.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e9cd176-006d-41a9-a9a7-02f3ad58e154",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"36843",
+            "PostHistoryTypeId":"10",
+            "Id":"111470",
+            "Text":"{\"OriginalQuestionIds\":[27224],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I've just discovered that when I send a group text (normally short messages) my samsung galaxy S3 automatically converts it to a picture message.  I have been charged for this and the mobile company don't want to reimburse me what can I do to get my money back?",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-04-15T12:19:10.927",
+    "ClosedDate":"2015-04-15T15:29:08.180",
+    "Title":"group text messages being converted to MMS on samsung galaxy S3",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"102520",
+    "CreationDate":"2015-04-15T12:19:10.927",
+    "FavoriteCount":null,
+    "Id":"105527",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-15T12:19:10.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5c1194d-f1b8-458a-9986-d1dd693e4075",
+            "UserId":"102520",
+            "CloseReasonId":null,
+            "PostId":"105527",
+            "PostHistoryTypeId":"2",
+            "Id":"344912",
+            "Text":"I've just discovered that when I send a group text (normally short messages) my samsung galaxy S3 automatically converts it to a picture message.  I have been charged for this and the mobile company don't want to reimburse me what can I do to get my money back?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-15T12:19:10.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5c1194d-f1b8-458a-9986-d1dd693e4075",
+            "UserId":"102520",
+            "CloseReasonId":null,
+            "PostId":"105527",
+            "PostHistoryTypeId":"1",
+            "Id":"344913",
+            "Text":"group text messages being converted to MMS on samsung galaxy S3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-15T12:19:10.927",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5c1194d-f1b8-458a-9986-d1dd693e4075",
+            "UserId":"102520",
+            "CloseReasonId":null,
+            "PostId":"105527",
+            "PostHistoryTypeId":"3",
+            "Id":"344914",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-15T15:29:08.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab499045-6e53-416e-ab17-0060a9482b7e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"105527",
+            "PostHistoryTypeId":"10",
+            "Id":"344997",
+            "Text":"{\"OriginalQuestionIds\":[4142],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

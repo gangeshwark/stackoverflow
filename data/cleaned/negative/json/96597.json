@@ -1,0 +1,71 @@
+{
+    "Body":"I have issues with google maps on my Nexus 5 running Android 5.0.1The position dot (my location) has a spiky side indicating my orientation.However it doesn't point the right way. Let's say I am pointing north and I hold my phone un portrait mode, then theorientation info will point east (to my right), which would be the right answerif I was in landscape mode.Now if, while still pointing north, I hold my phone in landscape mode, then theorientation info will point west (to my right), which would be the right answerif I was in portrait mode.As any one ever had the same issue ? Is there a know fix ?",
+    "ViewCount":"3291",
+    "LastActivityDate":"2015-01-23T03:08:22.173",
+    "ClosedDate":"2015-05-01T00:50:55.167",
+    "Title":"Maps not pointing in the right direction",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"96654",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91135",
+    "CreationDate":"2015-01-22T14:23:23.977",
+    "FavoriteCount":"1",
+    "Id":"96597",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-22T14:23:23.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"ed47fa95-7f23-41a5-80e3-a4021c75328e",
+            "UserId":"91135",
+            "CloseReasonId":null,
+            "PostId":"96597",
+            "PostHistoryTypeId":"2",
+            "Id":"314736",
+            "Text":"I have issues with google maps on my Nexus 5 running Android 5.0.1The position dot (my location) has a spiky side indicating my orientation.However it doesn't point the right way. Let's say I am pointing north and I hold my phone un portrait mode, then theorientation info will point east (to my right), which would be the right answerif I was in landscape mode.Now if, while still pointing north, I hold my phone in landscape mode, then theorientation info will point west (to my right), which would be the right answerif I was in portrait mode.As any one ever had the same issue ? Is there a know fix ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-22T14:23:23.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"ed47fa95-7f23-41a5-80e3-a4021c75328e",
+            "UserId":"91135",
+            "CloseReasonId":null,
+            "PostId":"96597",
+            "PostHistoryTypeId":"1",
+            "Id":"314737",
+            "Text":"Maps not pointing in the right direction"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-22T14:23:23.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"ed47fa95-7f23-41a5-80e3-a4021c75328e",
+            "UserId":"91135",
+            "CloseReasonId":null,
+            "PostId":"96597",
+            "PostHistoryTypeId":"3",
+            "Id":"314738",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-05-01T00:50:55.167",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8762790-deb5-4d59-9150-8707ed43d9bb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"96597",
+            "PostHistoryTypeId":"10",
+            "Id":"350996",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

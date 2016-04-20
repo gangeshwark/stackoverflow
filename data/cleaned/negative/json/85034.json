@@ -1,0 +1,71 @@
+{
+    "Body":"Whenever i want to download a apps from the play store i get this \"Error retrieving information from server (DF-SA-01)\" pls need solution. thanks. ",
+    "ViewCount":"11",
+    "LastActivityDate":"2014-10-16T14:27:24.577",
+    "ClosedDate":"2014-10-16T16:22:22.367",
+    "Title":"Error retrieving information from server (DF-SA-01)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"76575",
+    "CreationDate":"2014-10-16T14:27:24.577",
+    "FavoriteCount":null,
+    "Id":"85034",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-16T14:27:24.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"d24b2181-6279-4b2b-a165-1086c0b62b88",
+            "UserId":"76575",
+            "CloseReasonId":null,
+            "PostId":"85034",
+            "PostHistoryTypeId":"2",
+            "Id":"279266",
+            "Text":"Whenever i want to download a apps from the play store i get this \"Error retrieving information from server (DF-SA-01)\" pls need solution. thanks. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-16T14:27:24.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"d24b2181-6279-4b2b-a165-1086c0b62b88",
+            "UserId":"76575",
+            "CloseReasonId":null,
+            "PostId":"85034",
+            "PostHistoryTypeId":"1",
+            "Id":"279267",
+            "Text":"Error retrieving information from server (DF-SA-01)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-16T14:27:24.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"d24b2181-6279-4b2b-a165-1086c0b62b88",
+            "UserId":"76575",
+            "CloseReasonId":null,
+            "PostId":"85034",
+            "PostHistoryTypeId":"3",
+            "Id":"279268",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-16T16:22:22.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"2554406e-2cb4-44c4-a401-7059153b3e0c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"85034",
+            "PostHistoryTypeId":"10",
+            "Id":"279302",
+            "Text":"{\"OriginalQuestionIds\":[84738],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

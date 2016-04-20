@@ -1,0 +1,83 @@
+{
+    "Body":"I am using a Galaxy note [GT i9220], it has samsung account for cloud synchronization but no google account.I9220ZCLSFIt supports Chinese \/ Korean \/ English language only.using Android 4.1.2 It seems I could set up gmail through exchange synchronization which is not so efficient.Is there a way to enable google account ?Once solved, can I sync contact both to Samsung and Gooogle cloud ?UPDATE: I just want a google account for email, addressbook and calendar sync. Do I necessarily need to flash cyanogen mod to enable google account ?",
+    "ViewCount":"22",
+    "LastActivityDate":"2013-09-11T10:08:49.800",
+    "ClosedDate":"2013-09-11T08:28:54.653",
+    "Title":"Chinese Galaxy note has no google account",
+    "LastEditorUserId":"41201",
+    "Tags":"",
+    "LastEditDate":"2013-09-11T10:08:49.800",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41201",
+    "CreationDate":"2013-09-11T06:39:16.447",
+    "FavoriteCount":null,
+    "Id":"53041",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-11T06:39:16.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ac27be6-a2ba-42f8-9d81-5d160eae6616",
+            "UserId":"41201",
+            "CloseReasonId":null,
+            "PostId":"53041",
+            "PostHistoryTypeId":"2",
+            "Id":"174723",
+            "Text":"I am using a Galaxy note [GT i9220], it has samsung account for cloud synchronization but no google account.I9220ZCLSFIt supports Chinese \/ Korean \/ English language only.using Android 4.1.2 It seems I could set up gmail through exchange synchronization which is not so efficient.1. Is there a way to enable google account ?2. Once solved, can I sync contact both to Samsung and Gooogle cloud ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-11T06:39:16.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ac27be6-a2ba-42f8-9d81-5d160eae6616",
+            "UserId":"41201",
+            "CloseReasonId":null,
+            "PostId":"53041",
+            "PostHistoryTypeId":"1",
+            "Id":"174724",
+            "Text":"Chinese Galaxy note has no google account"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-11T06:39:16.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ac27be6-a2ba-42f8-9d81-5d160eae6616",
+            "UserId":"41201",
+            "CloseReasonId":null,
+            "PostId":"53041",
+            "PostHistoryTypeId":"3",
+            "Id":"174725",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-11T08:28:54.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc1e4fde-2177-4442-a286-dd0b0392383c",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"53041",
+            "PostHistoryTypeId":"10",
+            "Id":"174738",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        },
+        {
+            "Comment":"added 153 characters in body",
+            "CreationDate":"2013-09-11T10:08:49.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"84b0d667-5d63-456f-8c29-a7935d578c8c",
+            "UserId":"41201",
+            "CloseReasonId":null,
+            "PostId":"53041",
+            "PostHistoryTypeId":"5",
+            "Id":"174753",
+            "Text":"I am using a Galaxy note [GT i9220], it has samsung account for cloud synchronization but no google account.I9220ZCLSFIt supports Chinese \/ Korean \/ English language only.using Android 4.1.2 It seems I could set up gmail through exchange synchronization which is not so efficient.1. Is there a way to enable google account ?2. Once solved, can I sync contact both to Samsung and Gooogle cloud ?UPDATE: I just want a google account for email, addressbook and calendar sync. Do I necessarily need to flash cyanogen mod to enable google account ?"
+        }
+    ]
+}

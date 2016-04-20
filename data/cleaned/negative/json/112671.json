@@ -1,0 +1,71 @@
+{
+    "Body":"I run Ubuntu on my laptop and desktop. Regardless of the make and model of my computers, I can download Ubuntu from their website and install it with easy instructions designed for laymen to follow. After that, upgrades and updates are automatic, with regular downloads from a repository, not just for applications I've installed, but for the kernel and core components.With Android, if I stay on the stock version I got when I bought my phone (right now I have a Galaxy S5), it might update the OS. My last phone, an S3, never received Anything above 4.0 because the carrier or someone (I don't know who makes the decisions) just never offered it.To get a more recent version of Lollipop, I have to go through long, obscure, and definitely-not-for-laymen posts and instructions on the XDA Developers forum. I've done it before, and it's confusing, risky, and labyrinthine. You go through warnings about bricking your phone, you're taken to all sorts of sketchy  for-profit download sites... and then when you finally get it working, to get any upgrade, you have to go through it all again.Why aren't there Android versions available on websites as easily as there are Linux desktop versions? Why don't Android versions have repositories that update as regularly as Linux versions do? For that matter, why don't versions of Android upgrade as freely and easily (in terms of user management) as apps on Android do?",
+    "ViewCount":"17",
+    "LastActivityDate":"2015-06-17T04:14:24.057",
+    "ClosedDate":"2015-06-17T11:36:07.990",
+    "Title":"If Android is Linux based and open source, why are updates and upgrades so difficult and restrictive?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5892",
+    "CreationDate":"2015-06-17T04:14:24.057",
+    "FavoriteCount":null,
+    "Id":"112671",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-17T04:14:24.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce508fd1-2a2a-47b2-9c9a-078e56b911d9",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"112671",
+            "PostHistoryTypeId":"2",
+            "Id":"369002",
+            "Text":"I run Ubuntu on my laptop and desktop. Regardless of the make and model of my computers, I can download Ubuntu from their website and install it with easy instructions designed for laymen to follow. After that, upgrades and updates are automatic, with regular downloads from a repository, not just for applications I've installed, but for the kernel and core components.With Android, if I stay on the stock version I got when I bought my phone (right now I have a Galaxy S5), it *might* update the OS. My last phone, an S3, never received Anything above 4.0 because the carrier or someone (I don't know who makes the decisions) just never offered it.To get a more recent version of Lollipop, I have to go through long, obscure, and definitely-not-for-laymen posts and instructions on the [XDA Developers forum][1]. I've done it before, and it's confusing, risky, and labyrinthine. You go through warnings about bricking your phone, you're taken to all sorts of sketchy  for-profit download sites... and then when you finally get it working, to get any upgrade, you have to go through it all again.Why aren't there Android versions available on websites as easily as there are Linux desktop versions? Why don't Android versions have repositories that update as regularly as Linux versions do? For that matter, why don't versions of Android upgrade as freely and easily (in terms of user management) as apps on Android do?  [1]: http:\/\/forum.xda-developers.com\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-17T04:14:24.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce508fd1-2a2a-47b2-9c9a-078e56b911d9",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"112671",
+            "PostHistoryTypeId":"1",
+            "Id":"369003",
+            "Text":"If Android is Linux based and open source, why are updates and upgrades so difficult and restrictive?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-17T04:14:24.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce508fd1-2a2a-47b2-9c9a-078e56b911d9",
+            "UserId":"5892",
+            "CloseReasonId":null,
+            "PostId":"112671",
+            "PostHistoryTypeId":"3",
+            "Id":"369004",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-17T11:36:07.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"678082a9-1231-4a21-b44b-db7f0b00d6cd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"112671",
+            "PostHistoryTypeId":"10",
+            "Id":"369118",
+            "Text":"{\"OriginalQuestionIds\":[63630],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

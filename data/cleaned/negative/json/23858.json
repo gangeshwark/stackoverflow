@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why is my device not utilizing all of its available RAM?  updated my Samsung Galaxy S2 GT-I900G today to ice cream sandwich. Checked my task manager, the RAM is only showing 688. Any idea what went wrong or is this normal ?",
+    "ViewCount":"17",
+    "LastActivityDate":"2012-06-05T15:01:59.980",
+    "ClosedDate":"2012-06-05T15:09:59.537",
+    "Title":"Samsung Galaxy S2 GT-I900G - updated to ice cream sandwich - checked task manager - RAM only showing 688 instead of the normal 985",
+    "LastEditorUserId":null,
+    "Tags":"<4.0-ice-cream-sandwich>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15684",
+    "CreationDate":"2012-06-05T15:01:59.980",
+    "FavoriteCount":null,
+    "Id":"23858",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-05T15:01:59.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"1056dbf9-dd04-421b-ad33-4a82593b713b",
+            "UserId":"15684",
+            "CloseReasonId":null,
+            "PostId":"23858",
+            "PostHistoryTypeId":"2",
+            "Id":"68104",
+            "Text":"updated my Samsung Galaxy S2 GT-I900G today to ice cream sandwich. Checked my task manager, the RAM is only showing 688. Any idea what went wrong or is this normal ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-05T15:01:59.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"1056dbf9-dd04-421b-ad33-4a82593b713b",
+            "UserId":"15684",
+            "CloseReasonId":null,
+            "PostId":"23858",
+            "PostHistoryTypeId":"1",
+            "Id":"68105",
+            "Text":"Samsung Galaxy S2 GT-I900G - updated to ice cream sandwich - checked task manager - RAM only showing 688 instead of the normal 985"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-05T15:01:59.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"1056dbf9-dd04-421b-ad33-4a82593b713b",
+            "UserId":"15684",
+            "CloseReasonId":null,
+            "PostId":"23858",
+            "PostHistoryTypeId":"3",
+            "Id":"68106",
+            "Text":"<4.0-ice-cream-sandwich>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-06-05T15:10:01.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ec73b23-7baf-43d4-a545-0f5bae4c6153",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"23858",
+            "PostHistoryTypeId":"5",
+            "Id":"68108",
+            "Text":"> **Possible Duplicate:**  > [Why is my device not utilizing all of its available RAM?](http:\/\/android.stackexchange.com\/questions\/22373\/why-is-my-device-not-utilizing-all-of-its-available-ram)  updated my Samsung Galaxy S2 GT-I900G today to ice cream sandwich. Checked my task manager, the RAM is only showing 688. Any idea what went wrong or is this normal ?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-06-05T15:09:59.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc1b485e-a6e7-4e6e-beb2-fefaa4406cd7",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"23858",
+            "PostHistoryTypeId":"10",
+            "Id":"68109",
+            "Text":"{\"OriginalQuestionIds\":[22373],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

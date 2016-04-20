@@ -1,0 +1,83 @@
+{
+    "Body":"How to do a full nandroid backup via pc using adb or anything or any software specialised for it.",
+    "ViewCount":"33289",
+    "LastActivityDate":"2014-02-26T16:17:45.023",
+    "ClosedDate":"2014-03-09T16:21:26.153",
+    "Title":"How to do a full nandroid backup via pc",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-02-26T15:21:08.623",
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"64386",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"52165",
+    "CreationDate":"2014-02-26T03:36:38.047",
+    "FavoriteCount":"3",
+    "Id":"64354",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-26T03:36:38.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"b77e3176-3fe2-47f4-af08-e0812fb85f43",
+            "UserId":"52165",
+            "CloseReasonId":null,
+            "PostId":"64354",
+            "PostHistoryTypeId":"2",
+            "Id":"218812",
+            "Text":"How to do a full nandroid backup via pc using adb or anything or any software specialised for it."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-26T03:36:38.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"b77e3176-3fe2-47f4-af08-e0812fb85f43",
+            "UserId":"52165",
+            "CloseReasonId":null,
+            "PostId":"64354",
+            "PostHistoryTypeId":"1",
+            "Id":"218813",
+            "Text":"How to do a full nandroid backup via pc"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-26T03:36:38.047",
+            "UserDisplayName":null,
+            "RevisionGUID":"b77e3176-3fe2-47f4-af08-e0812fb85f43",
+            "UserId":"52165",
+            "CloseReasonId":null,
+            "PostId":"64354",
+            "PostHistoryTypeId":"3",
+            "Id":"218814",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-02-26T15:21:08.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e7e7f5b-2ec6-4358-990f-7b04516db6d6",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"64354",
+            "PostHistoryTypeId":"6",
+            "Id":"218966",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-09T16:21:26.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"9e391df0-09dc-4203-845a-cb67364bf3ae",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"64354",
+            "PostHistoryTypeId":"10",
+            "Id":"221718",
+            "Text":"{\"OriginalQuestionIds\":[47975,28296],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"}]}"
+        }
+    ]
+}

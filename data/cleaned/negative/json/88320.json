@@ -1,0 +1,71 @@
+{
+    "Body":"I understand a good bit of the ARM system architecture. you have an ARM system on chip containing the CPU, GPU, peripherial devices, baseband processor and both CPU and Radio firmware.Supposedly the application OS is stored on the phone's internal flash memory chip and the bootloader ROM on the chipset firmware boots on top or before the app OS on flash module 0?Is this like a BIOS in a desktop PC? Or is it that Android itself is stored in this on-chip firmware and the Root disk or Home directory is flash module 0, and it works like a live image booting from a CD or ROM?What is the first thing to load in a. Android phone\/tablet?Where is the main OS stored and where is the recovery bootloader stored? What about the radio firmware for phones? When a phone boots, what is the animated splash screen and music tone played?Why does that flash video\/animation always show the manuacturer logo screen, and then the Android OS video?",
+    "ViewCount":"138",
+    "LastActivityDate":"2014-11-20T16:13:21.200",
+    "ClosedDate":"2014-11-23T04:43:51.443",
+    "Title":"Can you explain the boot order of an Android device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64834",
+    "CreationDate":"2014-11-20T15:22:33.777",
+    "FavoriteCount":null,
+    "Id":"88320",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T15:22:33.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"99629f4f-26a4-4c63-9651-141ed35ec672",
+            "UserId":"64834",
+            "CloseReasonId":null,
+            "PostId":"88320",
+            "PostHistoryTypeId":"2",
+            "Id":"290741",
+            "Text":"I understand a good bit of the ARM system architecture. you have an ARM system on chip containing the CPU, GPU, peripherial devices, baseband processor and both CPU and Radio firmware.Supposedly the application OS is stored on the phone's internal flash memory chip and the bootloader ROM on the chipset firmware boots on top or before the app OS on flash module 0?Is this like a BIOS in a desktop PC? Or is it that Android itself is stored in this on-chip firmware and the Root disk or Home directory is flash module 0, and it works like a live image booting from a CD or ROM?What is the first thing to load in a. Android phone\/tablet?Where is the main OS stored and where is the recovery bootloader stored? What about the radio firmware for phones? When a phone boots, what is the animated splash screen and music tone played?Why does that flash video\/animation always show the manuacturer logo screen, and then the Android OS video?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T15:22:33.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"99629f4f-26a4-4c63-9651-141ed35ec672",
+            "UserId":"64834",
+            "CloseReasonId":null,
+            "PostId":"88320",
+            "PostHistoryTypeId":"1",
+            "Id":"290742",
+            "Text":"Can you explain the boot order of an Android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-20T15:22:33.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"99629f4f-26a4-4c63-9651-141ed35ec672",
+            "UserId":"64834",
+            "CloseReasonId":null,
+            "PostId":"88320",
+            "PostHistoryTypeId":"3",
+            "Id":"290743",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-23T04:43:51.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9cb9705-7710-4bef-b047-e5030357d240",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"88320",
+            "PostHistoryTypeId":"10",
+            "Id":"291682",
+            "Text":"{\"OriginalQuestionIds\":[29706],\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

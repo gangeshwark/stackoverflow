@@ -1,0 +1,71 @@
+{
+    "Body":"So, I'm having problem downloading apps from Play Store because apparently, I have insufficient space on device. The app I want to download is of only 12.68 MB and my system storage has 113 MB, phone storage has 596 MB, and SD card has 1.46 GB available. I tried cache cleaning, uninstalling unwanted apps, moving the movable apps to SD card but it still won't work. The device I'm using Micromax Bolt A089 with a 4 GB SD card. Please help. Thank you. ",
+    "ViewCount":"616",
+    "LastActivityDate":"2015-05-14T04:52:40.883",
+    "ClosedDate":"2015-05-18T14:47:55.460",
+    "Title":"'Insufficient space on the device'",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103557",
+    "CreationDate":"2015-04-22T06:14:04.410",
+    "FavoriteCount":null,
+    "Id":"106203",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T06:14:04.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccb16b6a-d29b-41b0-81d4-c4c78c02b25d",
+            "UserId":"103557",
+            "CloseReasonId":null,
+            "PostId":"106203",
+            "PostHistoryTypeId":"2",
+            "Id":"347460",
+            "Text":"So, I'm having problem downloading apps from Play Store because apparently, I have insufficient space on device. The app I want to download is of only 12.68 MB and my system storage has 113 MB, phone storage has 596 MB, and SD card has 1.46 GB available. I tried cache cleaning, uninstalling unwanted apps, moving the movable apps to SD card but it still won't work. The device I'm using Micromax Bolt A089 with a 4 GB SD card. Please help. Thank you. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T06:14:04.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccb16b6a-d29b-41b0-81d4-c4c78c02b25d",
+            "UserId":"103557",
+            "CloseReasonId":null,
+            "PostId":"106203",
+            "PostHistoryTypeId":"1",
+            "Id":"347461",
+            "Text":"'Insufficient space on the device'"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-22T06:14:04.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccb16b6a-d29b-41b0-81d4-c4c78c02b25d",
+            "UserId":"103557",
+            "CloseReasonId":null,
+            "PostId":"106203",
+            "PostHistoryTypeId":"3",
+            "Id":"347462",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-18T14:47:55.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"258c3a2e-82e2-4aba-bf7e-89f07f0fd364",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"106203",
+            "PostHistoryTypeId":"10",
+            "Id":"358019",
+            "Text":"{\"OriginalQuestionIds\":[29416],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

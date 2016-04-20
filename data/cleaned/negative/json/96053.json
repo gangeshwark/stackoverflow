@@ -1,0 +1,71 @@
+{
+    "Body":"Is there any way to convert existing Android device into virtual machine?I'm going to do factory reset and pretty sure that some valuable passwords etc. will be lost after it. That's why it would be great to have old data saved in virtual machine on PC so that later these forgotten info can be accessed.",
+    "ViewCount":"55",
+    "LastActivityDate":"2015-01-17T14:37:02.450",
+    "ClosedDate":"2015-01-22T16:09:02.643",
+    "Title":"Can I virtualize existing Android device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"90369",
+    "CreationDate":"2015-01-16T20:01:32.783",
+    "FavoriteCount":null,
+    "Id":"96053",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T20:01:32.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"c67df440-888e-4e2f-abb3-dcb693846e66",
+            "UserId":"90369",
+            "CloseReasonId":null,
+            "PostId":"96053",
+            "PostHistoryTypeId":"2",
+            "Id":"312855",
+            "Text":"Is there any way to convert existing Android device into virtual machine?I'm going to do factory reset and pretty sure that some valuable passwords etc. will be lost after it. That's why it would be great to have old data saved in virtual machine on PC so that later these forgotten info can be accessed."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T20:01:32.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"c67df440-888e-4e2f-abb3-dcb693846e66",
+            "UserId":"90369",
+            "CloseReasonId":null,
+            "PostId":"96053",
+            "PostHistoryTypeId":"1",
+            "Id":"312856",
+            "Text":"Can I virtualize existing Android device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-16T20:01:32.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"c67df440-888e-4e2f-abb3-dcb693846e66",
+            "UserId":"90369",
+            "CloseReasonId":null,
+            "PostId":"96053",
+            "PostHistoryTypeId":"3",
+            "Id":"312857",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-22T16:09:02.643",
+            "UserDisplayName":null,
+            "RevisionGUID":"76219f0f-b5dc-4a48-9e74-9a0bae62f766",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"96053",
+            "PostHistoryTypeId":"10",
+            "Id":"314770",
+            "Text":"{\"OriginalQuestionIds\":[86036],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

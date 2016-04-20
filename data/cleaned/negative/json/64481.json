@@ -1,0 +1,71 @@
+{
+    "Body":"My question is, why must every device\/OS be \"locked down\" and require get arounds to gain full access? Why must they have to be 'rooted', and why are they 'unrooted' by default?On Windows I can gain administrative privileges with a click of  abutton or command, but why do we need to go through more trouble with like iOS, Android, etc.? Why can't Android OSes have like an admin command that anybody can enter and gain full access, or file security to automatically protect access of files and enable users to get access with like a sudo command? Why do we need to \"flash this\", \"run exploit software\", \"custom rom\", etc.? Why can't we just have full access like on Windows, OS X, etc.?In short, why are Android OSes locked down and restricted by default, requiring the dance to get desired access? Why can't OEMs, stock OSes, or the like come \"rooted\" by default and give users complete access without worrying about limited use and lack of access to certain files we may want to change, features, etc.?",
+    "ViewCount":"31",
+    "LastActivityDate":"2014-02-27T20:52:13.390",
+    "ClosedDate":"2014-02-27T22:37:53.210",
+    "Title":"Why are Android OSes \"unrooted\" by default?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54876",
+    "CreationDate":"2014-02-27T20:52:13.390",
+    "FavoriteCount":null,
+    "Id":"64481",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-27T20:52:13.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"e51e4e75-7757-4dc2-9c5e-e2af39065ebb",
+            "UserId":"54876",
+            "CloseReasonId":null,
+            "PostId":"64481",
+            "PostHistoryTypeId":"2",
+            "Id":"219321",
+            "Text":"My question is, why must every device\/OS be \"locked down\" and require get arounds to gain full access? Why must they have to be 'rooted', and why are they 'unrooted' by default?On Windows I can gain administrative privileges with a click of  abutton or command, but why do we need to go through more trouble with like iOS, Android, etc.? Why can't Android OSes have like an admin command that anybody can enter and gain full access, or file security to automatically protect access of files and enable users to get access with like a sudo command? Why do we need to \"flash this\", \"run exploit software\", \"custom rom\", etc.? Why can't we just have full access like on Windows, OS X, etc.?In short, why are Android OSes locked down and restricted by default, requiring the dance to get desired access? Why can't OEMs, stock OSes, or the like come \"rooted\" by default and give users complete access without worrying about limited use and lack of access to certain files we may want to change, features, etc.?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-27T20:52:13.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"e51e4e75-7757-4dc2-9c5e-e2af39065ebb",
+            "UserId":"54876",
+            "CloseReasonId":null,
+            "PostId":"64481",
+            "PostHistoryTypeId":"1",
+            "Id":"219322",
+            "Text":"Why are Android OSes \"unrooted\" by default?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-27T20:52:13.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"e51e4e75-7757-4dc2-9c5e-e2af39065ebb",
+            "UserId":"54876",
+            "CloseReasonId":null,
+            "PostId":"64481",
+            "PostHistoryTypeId":"3",
+            "Id":"219323",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-27T22:37:53.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"a74b92ad-3bb3-4048-8760-7ab5dbe13612",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"64481",
+            "PostHistoryTypeId":"10",
+            "Id":"219344",
+            "Text":"{\"OriginalQuestionIds\":[24570],\"Voters\":[{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":23562,\"DisplayName\":\"Compro01\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

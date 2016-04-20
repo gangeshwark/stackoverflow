@@ -1,0 +1,71 @@
+{
+    "Body":"When i am trying to install new app from Google Play, i am getting the Error unknown error code during application instll:\"919\"Please tell me what i should do to download app!!!Regards,KR",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-12-05T08:30:14.827",
+    "ClosedDate":"2013-12-05T13:31:41.430",
+    "Title":"Error \u201c919\u201d when downloading applications from Google Play",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47619",
+    "CreationDate":"2013-12-05T08:30:14.827",
+    "FavoriteCount":null,
+    "Id":"58326",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-05T08:30:14.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e27d957-69f6-4745-ac97-47d12fe313f8",
+            "UserId":"47619",
+            "CloseReasonId":null,
+            "PostId":"58326",
+            "PostHistoryTypeId":"2",
+            "Id":"196135",
+            "Text":"When i am trying to install new app from Google Play, i am getting the Error **unknown error code during application instll:\"919\"**Please tell me what i should do to download app!!!Regards,KR"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-05T08:30:14.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e27d957-69f6-4745-ac97-47d12fe313f8",
+            "UserId":"47619",
+            "CloseReasonId":null,
+            "PostId":"58326",
+            "PostHistoryTypeId":"1",
+            "Id":"196136",
+            "Text":"Error \u201c919\u201d when downloading applications from Google Play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-05T08:30:14.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e27d957-69f6-4745-ac97-47d12fe313f8",
+            "UserId":"47619",
+            "CloseReasonId":null,
+            "PostId":"58326",
+            "PostHistoryTypeId":"3",
+            "Id":"196137",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-05T13:31:41.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf9da5e3-e2bb-449f-a8d7-02400e033805",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"58326",
+            "PostHistoryTypeId":"10",
+            "Id":"196182",
+            "Text":"{\"OriginalQuestionIds\":[56258],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

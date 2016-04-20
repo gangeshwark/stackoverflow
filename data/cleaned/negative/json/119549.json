@@ -1,0 +1,71 @@
+{
+    "Body":"I'm working on a Login Authentication Service, and I'm at the point where my Android application accepts the username and password from the user and converts it into a JSON object, ready to be passed to the authentication service.This authentication service is running on my Apache Tomcat localhost. My question is, how do I pass this object (which is currently in my android code in android studio) to this JAVA service (on Eclipse) on the localhost?Thanks.  ",
+    "ViewCount":"185",
+    "LastActivityDate":"2015-08-17T18:26:51.340",
+    "ClosedDate":"2015-08-17T18:35:01.917",
+    "Title":"Passing a JSON object from Android Studio to a Java service running on Apache Tomcat localhost",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122611",
+    "CreationDate":"2015-08-17T18:26:51.340",
+    "FavoriteCount":null,
+    "Id":"119549",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-17T18:26:51.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4f820a-622b-4efb-adc9-5ddf10795d93",
+            "UserId":"122611",
+            "CloseReasonId":null,
+            "PostId":"119549",
+            "PostHistoryTypeId":"2",
+            "Id":"391596",
+            "Text":"I'm working on a Login Authentication Service, and I'm at the point where my Android application accepts the username and password from the user and converts it into a JSON object, ready to be passed to the authentication service.This authentication service is running on my Apache Tomcat localhost. My question is, how do I pass this object (which is currently in my android code in android studio) to this JAVA service (on Eclipse) on the localhost?Thanks.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-17T18:26:51.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4f820a-622b-4efb-adc9-5ddf10795d93",
+            "UserId":"122611",
+            "CloseReasonId":null,
+            "PostId":"119549",
+            "PostHistoryTypeId":"1",
+            "Id":"391597",
+            "Text":"Passing a JSON object from Android Studio to a Java service running on Apache Tomcat localhost"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-17T18:26:51.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4f820a-622b-4efb-adc9-5ddf10795d93",
+            "UserId":"122611",
+            "CloseReasonId":null,
+            "PostId":"119549",
+            "PostHistoryTypeId":"3",
+            "Id":"391598",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-08-17T18:35:01.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ad54288-0c52-4fba-979c-6f1c4a962676",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"119549",
+            "PostHistoryTypeId":"10",
+            "Id":"391607",
+            "Text":"{\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

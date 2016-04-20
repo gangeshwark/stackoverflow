@@ -1,0 +1,83 @@
+{
+    "Body":"I broke my phone a couple weeks ago, thankfully I was paying the $7\/mo for insurance and was able to get a replacement in the mail a few days later.  This new phone isn't registered with my Google Play account (https:\/\/www.google.com\/android\/devicemanager?hl=en&u=0 doesn't list it) and I can't remotely install apps through https:\/\/play.google.com\/store.Everything else is working fine, it's sync'd with my gmail\/chrome just fine and I'm able to install already-paid for applications on it without a problem.  The only thing it seems I can't do is install apps remotely through the play.google.com\/store website, which makes sense given it's not registered as one of my devices.Am I missing something obvious?  In the past my devices have always been registered automatically, as best I could tell anyways.",
+    "ViewCount":"25",
+    "LastActivityDate":"2013-11-14T13:08:11.833",
+    "ClosedDate":"2013-11-14T23:37:26.833",
+    "Title":"My new phone isn't listed as a device in the Android Device Manager, how can I register it?",
+    "LastEditorUserId":"12442",
+    "Tags":"",
+    "LastEditDate":"2013-11-14T13:08:11.833",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46175",
+    "CreationDate":"2013-11-14T12:22:56.763",
+    "FavoriteCount":null,
+    "Id":"57001",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-14T12:22:56.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"10ed4d4d-1e4f-4dfd-8b54-5048b50beeaf",
+            "UserId":"46175",
+            "CloseReasonId":null,
+            "PostId":"57001",
+            "PostHistoryTypeId":"2",
+            "Id":"191074",
+            "Text":"I broke my phone a couple weeks ago, thankfully I was paying the $7\/mo for insurance and was able to get a replacement in the mail a few days later.  This new phone isn't registered with my Google Play account (https:\/\/www.google.com\/android\/devicemanager?hl=en&u=0 doesn't list it) and I can't remotely install apps through https:\/\/play.google.com\/store.Everything else is working fine, it's sync'd with my gmail\/chrome just fine and I'm able to install already-paid for applications on it without a problem.  The only thing it seems I *can't* do is install apps remotely through the play.google.com\/store website, which makes sense given it's not registered as one of my devices.Am I missing something obvious?  In the past my devices have always been registered automatically, as best I could tell anyways.Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-14T12:22:56.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"10ed4d4d-1e4f-4dfd-8b54-5048b50beeaf",
+            "UserId":"46175",
+            "CloseReasonId":null,
+            "PostId":"57001",
+            "PostHistoryTypeId":"1",
+            "Id":"191075",
+            "Text":"My new phone isn't listed as a device in the Android Device Manager, how can I register it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-14T12:22:56.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"10ed4d4d-1e4f-4dfd-8b54-5048b50beeaf",
+            "UserId":"46175",
+            "CloseReasonId":null,
+            "PostId":"57001",
+            "PostHistoryTypeId":"3",
+            "Id":"191076",
+            "Text":""
+        },
+        {
+            "Comment":"This is a Q&A site, not a mailing list, so there's no need to add \"thanks\". Just make sure to \"accept\" the most helpful answer when there is one.",
+            "CreationDate":"2013-11-14T13:08:11.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"8464a600-a4d8-458c-a6f4-2c5c587d3790",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"57001",
+            "PostHistoryTypeId":"5",
+            "Id":"191082",
+            "Text":"I broke my phone a couple weeks ago, thankfully I was paying the $7\/mo for insurance and was able to get a replacement in the mail a few days later.  This new phone isn't registered with my Google Play account (https:\/\/www.google.com\/android\/devicemanager?hl=en&u=0 doesn't list it) and I can't remotely install apps through https:\/\/play.google.com\/store.Everything else is working fine, it's sync'd with my gmail\/chrome just fine and I'm able to install already-paid for applications on it without a problem.  The only thing it seems I *can't* do is install apps remotely through the play.google.com\/store website, which makes sense given it's not registered as one of my devices.Am I missing something obvious?  In the past my devices have always been registered automatically, as best I could tell anyways."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-14T23:37:26.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"dad74af3-c6da-4a30-bed2-d1af6dca0354",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"57001",
+            "PostHistoryTypeId":"10",
+            "Id":"191206",
+            "Text":"{\"OriginalQuestionIds\":[51753],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

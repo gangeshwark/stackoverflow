@@ -1,0 +1,71 @@
+{
+    "Body":"How do I disable the 'Shift + Space' keybinding of Samsung Keyboard, which triggers the toggling of input methods? I use a physical keyboard, and it is quite easy (and annoying) for my system to misinterprete my ' Capital letter followed by a space' into switching the input methods.Also I don't want to root my device.",
+    "ViewCount":"110",
+    "LastActivityDate":"2015-07-21T09:07:05.233",
+    "ClosedDate":"2015-07-21T13:23:47.837",
+    "Title":"Samsung Keyboard of keybinding of switching input methods",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111388",
+    "CreationDate":"2015-06-28T13:09:13.600",
+    "FavoriteCount":null,
+    "Id":"113664",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-28T13:09:13.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb28be78-cabb-4c9c-a52f-dad71b34bedd",
+            "UserId":"111388",
+            "CloseReasonId":null,
+            "PostId":"113664",
+            "PostHistoryTypeId":"2",
+            "Id":"372534",
+            "Text":"How do I disable the 'Shift + Space' keybinding of Samsung Keyboard, which triggers the toggling of input methods? I use a physical keyboard, and it is quite easy (and annoying) for my system to misinterprete my ' Capital letter followed by a space' into switching the input methods.Also I don't want to root my device."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-28T13:09:13.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb28be78-cabb-4c9c-a52f-dad71b34bedd",
+            "UserId":"111388",
+            "CloseReasonId":null,
+            "PostId":"113664",
+            "PostHistoryTypeId":"1",
+            "Id":"372535",
+            "Text":"Samsung Keyboard of keybinding of switching input methods"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-28T13:09:13.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb28be78-cabb-4c9c-a52f-dad71b34bedd",
+            "UserId":"111388",
+            "CloseReasonId":null,
+            "PostId":"113664",
+            "PostHistoryTypeId":"3",
+            "Id":"372536",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-21T13:23:47.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"5718432e-286d-43d3-8a0d-70aefe2ecac4",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"113664",
+            "PostHistoryTypeId":"10",
+            "Id":"380946",
+            "Text":"{\"OriginalQuestionIds\":[44848],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

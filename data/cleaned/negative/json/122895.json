@@ -1,0 +1,83 @@
+{
+    "Body":"I have never worked on Android apps, so excuse my ignorance.I've managed to get my hands on a user\/game data file from a game (namely, CSR Racing) on Android. The file is gzip compressed, and when I decompress it it gives me a file with two pieces of info: the fist line is a 40-characters long string which looks like some sort of hash (SHA1 I'd assume from the length), and the second line is a JSON of game data like how much credit the user has, what level they're in.. etc. Now, when I try hashing the JSON data and compare the hash result with what they have in the first line, they don't match. So clearly it's not a simple method of hashing the data to check for corruption\/manipulations. How would you experienced lads go about analyzing what the first line is comprised of? I've also managed to get the source code of the app from .apk, but I cannot seem to locate where the check is done so I'd get an idea of how it's generated?Here's what the file contains:04e667013eefd34f403b0ca015b2b6761b0edb84{\"name\":\"user#######\",...data...}",
+    "ViewCount":"51",
+    "LastActivityDate":"2016-02-27T01:07:39.090",
+    "ClosedDate":"2016-02-27T01:07:44.340",
+    "Title":"How is game data protected in an Android app",
+    "LastEditorUserId":"1465",
+    "Tags":"",
+    "LastEditDate":"2016-02-27T01:07:39.090",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38919",
+    "CreationDate":"2015-09-12T09:43:56.867",
+    "FavoriteCount":null,
+    "Id":"122895",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-12T09:43:56.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"2984fa76-f8ad-437c-bb97-4c472990e550",
+            "UserId":"38919",
+            "CloseReasonId":null,
+            "PostId":"122895",
+            "PostHistoryTypeId":"2",
+            "Id":"401201",
+            "Text":"I have never worked on Android apps, so excuse my ignorance.I've managed to get my hands on a user\/game data file from a game (namely, CSR Racing) on Android. The file is gzip compressed, and when I decompress it it gives me a file with two pieces of info: the fist line is a 40-characters long string which looks like some sort of hash (SHA1 I'd assume from the length), and the second line is a JSON of game data like how much credit the user has, what level they're in.. etc. Now, when I try hashing the JSON data and compare the hash result with what they have in the first line, they don't match. So clearly it's not a simple method of hashing the data to check for corruption\/manipulations. How would you experienced lads go about analyzing what the first line is comprised of? I've also managed to get the source code of the app from `.apk`, but I cannot seem to locate where the check is done so I'd get an idea of how it's generated?Here's what the file contains:    04e667013eefd34f403b0ca015b2b6761b0edb84    {\"name\":\"user#######\",...data...}    "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-12T09:43:56.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"2984fa76-f8ad-437c-bb97-4c472990e550",
+            "UserId":"38919",
+            "CloseReasonId":null,
+            "PostId":"122895",
+            "PostHistoryTypeId":"1",
+            "Id":"401202",
+            "Text":"How is game data protected in an Android app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-12T09:43:56.867",
+            "UserDisplayName":null,
+            "RevisionGUID":"2984fa76-f8ad-437c-bb97-4c472990e550",
+            "UserId":"38919",
+            "CloseReasonId":null,
+            "PostId":"122895",
+            "PostHistoryTypeId":"3",
+            "Id":"401203",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-02-27T01:07:39.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"44722add-e2fa-4a7a-97f9-6438f345e933",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"122895",
+            "PostHistoryTypeId":"6",
+            "Id":"461559",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T01:07:44.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f2964f2-15a1-4e01-a899-5a2c3542a709",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"122895",
+            "PostHistoryTypeId":"10",
+            "Id":"461560",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

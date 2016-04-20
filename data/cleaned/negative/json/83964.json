@@ -1,0 +1,71 @@
+{
+    "Body":"My BLU Studio 5.5 won't allow me to install anymore apps. I have a 18G SD card installed. When accepting to install it says \"Error downloading phone had insufficient space\". What do I do to install more apps.?",
+    "ViewCount":"3071",
+    "LastActivityDate":"2014-10-03T05:22:38.623",
+    "ClosedDate":"2014-10-05T00:58:24.067",
+    "Title":"install apps on sd card",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"75022",
+    "CreationDate":"2014-10-03T03:11:07.403",
+    "FavoriteCount":null,
+    "Id":"83964",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-03T03:11:07.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b052548-e3ae-4198-a4e6-c78b43126fd3",
+            "UserId":"75022",
+            "CloseReasonId":null,
+            "PostId":"83964",
+            "PostHistoryTypeId":"2",
+            "Id":"275451",
+            "Text":"My BLU Studio 5.5 won't allow me to install anymore apps. I have a 18G SD card installed. When accepting to install it says \"Error downloading phone had insufficient space\". What do I do to install more apps.?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-03T03:11:07.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b052548-e3ae-4198-a4e6-c78b43126fd3",
+            "UserId":"75022",
+            "CloseReasonId":null,
+            "PostId":"83964",
+            "PostHistoryTypeId":"1",
+            "Id":"275452",
+            "Text":"install apps on sd card"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-03T03:11:07.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b052548-e3ae-4198-a4e6-c78b43126fd3",
+            "UserId":"75022",
+            "CloseReasonId":null,
+            "PostId":"83964",
+            "PostHistoryTypeId":"3",
+            "Id":"275453",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-05T00:58:24.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"0eded9f8-dd57-468e-ac4c-8b976b62d079",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"83964",
+            "PostHistoryTypeId":"10",
+            "Id":"275992",
+            "Text":"{\"OriginalQuestionIds\":[27083],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

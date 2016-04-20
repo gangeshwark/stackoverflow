@@ -1,0 +1,71 @@
+{
+    "Body":"How can I take two separate backups?Contacts onlyFull backupI do not want to install any 3rd party program. I do not want to store my information on cloud. I just want to store it directly from phone to PC.I use Android on Samsung G5.",
+    "ViewCount":"59",
+    "LastActivityDate":"2015-06-01T11:41:30.770",
+    "ClosedDate":"2015-06-01T14:02:52.763",
+    "Title":"How to backup the entire or parts of android without 3rd party\/cloud?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"110979",
+    "CreationDate":"2015-06-01T11:07:46.450",
+    "FavoriteCount":null,
+    "Id":"111055",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T11:07:46.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f6940af-a37c-49bd-b4c6-28d85b5a2843",
+            "UserId":"110979",
+            "CloseReasonId":null,
+            "PostId":"111055",
+            "PostHistoryTypeId":"2",
+            "Id":"363024",
+            "Text":"How can I take two separate backups?- Contacts only- Full backupI do not want to install any 3rd party program. I do not want to store my information on cloud. I just want to store it directly from phone to PC.I use Android on Samsung G5."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T11:07:46.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f6940af-a37c-49bd-b4c6-28d85b5a2843",
+            "UserId":"110979",
+            "CloseReasonId":null,
+            "PostId":"111055",
+            "PostHistoryTypeId":"1",
+            "Id":"363025",
+            "Text":"How to backup the entire or parts of android without 3rd party\/cloud?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T11:07:46.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"9f6940af-a37c-49bd-b4c6-28d85b5a2843",
+            "UserId":"110979",
+            "CloseReasonId":null,
+            "PostId":"111055",
+            "PostHistoryTypeId":"3",
+            "Id":"363026",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-01T14:02:52.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"b6affe30-5f76-4419-9ab5-73081c06c6d2",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111055",
+            "PostHistoryTypeId":"10",
+            "Id":"363099",
+            "Text":"{\"OriginalQuestionIds\":[28296],\"Voters\":[{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

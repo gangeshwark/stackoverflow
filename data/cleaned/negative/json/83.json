@@ -1,0 +1,83 @@
+{
+    "Body":"I live in scandinavia and the Market for paid applications is not available here yet. Is there any way I can enable it? Or a workaround?",
+    "ViewCount":"523",
+    "LastActivityDate":"2011-09-08T13:52:11.557",
+    "ClosedDate":"2013-07-25T05:12:02.233",
+    "Title":"How can I use the Android Paid Market from a region where it's not available yet?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2011-09-08T13:52:11.557",
+    "CommentCount":"1",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"148",
+    "Score":"7",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7",
+    "CreationDate":"2010-09-13T19:46:18.680",
+    "FavoriteCount":"2",
+    "Id":"83",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T19:46:18.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"451150dc-75b6-4eb9-92ad-4756496de437",
+            "UserId":"7",
+            "CloseReasonId":null,
+            "PostId":"83",
+            "PostHistoryTypeId":"2",
+            "Id":"173",
+            "Text":"I live in scandinavia and the Market for paid applications is not available here yet. Is there any way I can enable it? Or a workaround?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T19:46:18.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"451150dc-75b6-4eb9-92ad-4756496de437",
+            "UserId":"7",
+            "CloseReasonId":null,
+            "PostId":"83",
+            "PostHistoryTypeId":"1",
+            "Id":"174",
+            "Text":"How can I use the Android Paid Market from a region where it's not available yet? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T19:46:18.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"451150dc-75b6-4eb9-92ad-4756496de437",
+            "UserId":"7",
+            "CloseReasonId":null,
+            "PostId":"83",
+            "PostHistoryTypeId":"3",
+            "Id":"175",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2011-09-08T13:52:11.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c5f73c8c-4482-4f56-b979-4f1352c1a0e4",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"83",
+            "PostHistoryTypeId":"6",
+            "Id":"34369",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-25T05:12:02.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"4f1e26d5-a203-4670-a07c-2a67a0523505",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"83",
+            "PostHistoryTypeId":"10",
+            "Id":"162895",
+            "Text":"{\"OriginalQuestionIds\":[12538],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

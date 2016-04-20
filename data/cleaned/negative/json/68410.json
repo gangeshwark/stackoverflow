@@ -1,0 +1,71 @@
+{
+    "Body":"I updated the Galaxy S II with Jelly Bean and know no spell check. I have not had time to go back to the sprint store, any ideas?",
+    "ViewCount":"136",
+    "LastActivityDate":"2014-04-29T16:16:36.847",
+    "ClosedDate":"2014-05-02T04:49:46.023",
+    "Title":"Updated my Galaxy S II and know no spell check",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"59591",
+    "CreationDate":"2014-04-29T14:22:11.617",
+    "FavoriteCount":null,
+    "Id":"68410",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T14:22:11.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"57c95920-698e-488a-a51c-39953c69ea3e",
+            "UserId":"59591",
+            "CloseReasonId":null,
+            "PostId":"68410",
+            "PostHistoryTypeId":"2",
+            "Id":"233289",
+            "Text":"I updated the Galaxy S II with Jelly Bean and know no spell check. I have not had time to go back to the sprint store, any ideas?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T14:22:11.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"57c95920-698e-488a-a51c-39953c69ea3e",
+            "UserId":"59591",
+            "CloseReasonId":null,
+            "PostId":"68410",
+            "PostHistoryTypeId":"1",
+            "Id":"233290",
+            "Text":"Updated my Galaxy S II and know no spell check"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-29T14:22:11.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"57c95920-698e-488a-a51c-39953c69ea3e",
+            "UserId":"59591",
+            "CloseReasonId":null,
+            "PostId":"68410",
+            "PostHistoryTypeId":"3",
+            "Id":"233291",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-05-02T04:49:46.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"b483ab3f-fce5-4ac1-8e51-36fe3361c1dc",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"68410",
+            "PostHistoryTypeId":"10",
+            "Id":"233981",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

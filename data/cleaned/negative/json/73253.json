@@ -1,0 +1,71 @@
+{
+    "Body":"Does factory resetting a rooted phone unroot it? Does it vary by ROM - I'm on CyanogenMod 11 M7 Nexus 4, will it?",
+    "ViewCount":"18",
+    "LastActivityDate":"2014-06-15T21:02:27.187",
+    "ClosedDate":"2014-06-15T21:36:14.100",
+    "Title":"Does factory resetting a rooted phone unroot it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64089",
+    "CreationDate":"2014-06-15T21:02:27.187",
+    "FavoriteCount":null,
+    "Id":"73253",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-15T21:02:27.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0e2728e-7e5c-45d9-8c00-4aa09152529f",
+            "UserId":"64089",
+            "CloseReasonId":null,
+            "PostId":"73253",
+            "PostHistoryTypeId":"2",
+            "Id":"245529",
+            "Text":"Does factory resetting a rooted phone unroot it? Does it vary by ROM - I'm on CyanogenMod 11 M7 Nexus 4, will it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-15T21:02:27.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0e2728e-7e5c-45d9-8c00-4aa09152529f",
+            "UserId":"64089",
+            "CloseReasonId":null,
+            "PostId":"73253",
+            "PostHistoryTypeId":"1",
+            "Id":"245530",
+            "Text":"Does factory resetting a rooted phone unroot it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-15T21:02:27.187",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0e2728e-7e5c-45d9-8c00-4aa09152529f",
+            "UserId":"64089",
+            "CloseReasonId":null,
+            "PostId":"73253",
+            "PostHistoryTypeId":"3",
+            "Id":"245531",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-15T21:36:14.100",
+            "UserDisplayName":null,
+            "RevisionGUID":"380ff240-a072-4f4d-9131-de5fdac48d83",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"73253",
+            "PostHistoryTypeId":"10",
+            "Id":"245533",
+            "Text":"{\"OriginalQuestionIds\":[7169],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

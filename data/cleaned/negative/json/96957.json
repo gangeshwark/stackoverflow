@@ -1,0 +1,71 @@
+{
+    "Body":"I tried to access the web.whatsapp.com to get the QR code for accessing whatsapp online. but i can see only an icon (buffering) instead of any qr code. i am trying to access from UAE. please someone suggest a solution.accessing from UAEon a high speed wifi internet (10mbps)accessing chrome on laptop (lenovo G50)chrome and its addons are up-to-date",
+    "ViewCount":"19",
+    "LastActivityDate":"2015-01-26T13:50:36.873",
+    "ClosedDate":"2015-01-26T14:56:59.060",
+    "Title":"QR code not generating in web.whatsapp.om",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91670",
+    "CreationDate":"2015-01-26T13:50:36.873",
+    "FavoriteCount":null,
+    "Id":"96957",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T13:50:36.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"0182947c-b5a6-4678-b9b2-9c9bb4a447ea",
+            "UserId":"91670",
+            "CloseReasonId":null,
+            "PostId":"96957",
+            "PostHistoryTypeId":"2",
+            "Id":"316015",
+            "Text":"I tried to access the web.whatsapp.com to get the QR code for accessing whatsapp online. but i can see only an icon (buffering) instead of any qr code. i am trying to access from UAE. please someone suggest a solution. - accessing from UAE - on a high speed wifi internet (10mbps) - accessing chrome on laptop (lenovo G50) - chrome and its addons are up-to-date![Please find the attached image for reference][1]  [1]: http:\/\/i.stack.imgur.com\/HQb6C.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T13:50:36.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"0182947c-b5a6-4678-b9b2-9c9bb4a447ea",
+            "UserId":"91670",
+            "CloseReasonId":null,
+            "PostId":"96957",
+            "PostHistoryTypeId":"1",
+            "Id":"316016",
+            "Text":"QR code not generating in web.whatsapp.om"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-26T13:50:36.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"0182947c-b5a6-4678-b9b2-9c9bb4a447ea",
+            "UserId":"91670",
+            "CloseReasonId":null,
+            "PostId":"96957",
+            "PostHistoryTypeId":"3",
+            "Id":"316017",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-26T14:56:59.060",
+            "UserDisplayName":null,
+            "RevisionGUID":"e8de8f9e-15aa-4bc9-a7c9-ae6d2c5a21f9",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"96957",
+            "PostHistoryTypeId":"10",
+            "Id":"316026",
+            "Text":"{\"OriginalQuestionIds\":[96854],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

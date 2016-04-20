@@ -1,0 +1,71 @@
+{
+    "Body":"My Samsung Galaxy SIII comes with a battery with an Near Field Communications (NFC) label on it. Several earlier Android modles don't come with such a label on the battery. I would like to know what the NFC functionality on the battery enables Android devices and their OS to do with the battery.",
+    "ViewCount":"244",
+    "LastActivityDate":"2015-02-01T19:46:29.230",
+    "ClosedDate":"2015-02-01T20:11:25.543",
+    "Title":"How can an NFC battery's NFC functionality be used on Android devices?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"97568",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41884",
+    "CreationDate":"2015-02-01T18:06:45.790",
+    "FavoriteCount":null,
+    "Id":"97560",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-01T18:06:45.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"61deb6f8-634d-4a34-a39f-fd2e87c26336",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"97560",
+            "PostHistoryTypeId":"2",
+            "Id":"318170",
+            "Text":"My Samsung Galaxy SIII comes with a battery with an Near Field Communications (NFC) label on it. Several earlier Android modles don't come with such a label on the battery. I would like to know what the NFC functionality on the battery enables Android devices and their OS to do with the battery.![enter image description here][1]![enter image description here][2]  [1]: http:\/\/i.stack.imgur.com\/kkx2B.jpg  [2]: http:\/\/i.stack.imgur.com\/hJUTB.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-01T18:06:45.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"61deb6f8-634d-4a34-a39f-fd2e87c26336",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"97560",
+            "PostHistoryTypeId":"1",
+            "Id":"318171",
+            "Text":"How can an NFC battery's NFC functionality be used on Android devices?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-01T18:06:45.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"61deb6f8-634d-4a34-a39f-fd2e87c26336",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"97560",
+            "PostHistoryTypeId":"3",
+            "Id":"318172",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-01T20:11:25.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0c2403d-959d-4737-80f3-a03a4bfd5255",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"97560",
+            "PostHistoryTypeId":"10",
+            "Id":"318208",
+            "Text":"{\"OriginalQuestionIds\":[25480],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"The Google Play Store on my new Asus Nexus 7 does not list the application I want. When I visit the Play Store web site I see the applications listed, and I am told they are not compatible with my Nexus 7.As a user, what is the best way to approach an application developer about implementing support for my device? I do not want to send out demanding emails, but I of course want it to be high impact so the developer will actually invest the time to address the unspecified requirements to support my device.(I think it is horrible not knowing why the Play Store refuses me from installing the applications. There should be a better explanation of why.)",
+    "ViewCount":"72",
+    "LastActivityDate":"2014-01-30T13:06:07.137",
+    "ClosedDate":"2014-02-03T01:49:13.207",
+    "Title":"What is a good way to approach a developer about supporting my device?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23686",
+    "CreationDate":"2012-11-16T20:56:57.250",
+    "FavoriteCount":null,
+    "Id":"33532",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T20:56:57.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"fcc518d5-7a0a-48b7-8317-bd6b2f7eaf82",
+            "UserId":"23686",
+            "CloseReasonId":null,
+            "PostId":"33532",
+            "PostHistoryTypeId":"2",
+            "Id":"99427",
+            "Text":"The Google Play Store on my new Asus Nexus 7 does not list the application I want. When I visit the Play Store web site I see the applications listed, and I am told they are not compatible with my Nexus 7.As a user, what is the best way to approach an application developer about implementing support for my device? I do not want to send out demanding emails, but I of course want it to be high impact so the developer will actually invest the time to address the unspecified requirements to support my device.(I think it is horrible not knowing why the Play Store refuses me from installing the applications. There should be a better explanation of why.)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T20:56:57.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"fcc518d5-7a0a-48b7-8317-bd6b2f7eaf82",
+            "UserId":"23686",
+            "CloseReasonId":null,
+            "PostId":"33532",
+            "PostHistoryTypeId":"1",
+            "Id":"99428",
+            "Text":"What is a good way to approach a developer about supporting my device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-16T20:56:57.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"fcc518d5-7a0a-48b7-8317-bd6b2f7eaf82",
+            "UserId":"23686",
+            "CloseReasonId":null,
+            "PostId":"33532",
+            "PostHistoryTypeId":"3",
+            "Id":"99429",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/269606352899424256",
+            "CreationDate":"2012-11-17T01:01:34.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"f058b737-08f9-4ef7-81e0-b6077bd9e515",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"33532",
+            "PostHistoryTypeId":"25",
+            "Id":"99456",
+            "Text":null
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2014-02-03T01:49:13.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f988815-9f64-45ef-afc9-5d2a830a288f",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"33532",
+            "PostHistoryTypeId":"10",
+            "Id":"212441",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

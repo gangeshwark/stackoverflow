@@ -1,0 +1,71 @@
+{
+    "Body":"With my Phone it worked via the normal settings. I want to perform tethering of the local WLAN my Nexus7 receives via USB to my computer.I found this so far, but it doesn't seem very useful to me. Anyone any idea?http:\/\/forum.xda-developers.com\/showthread.php?t=1822788",
+    "ViewCount":"737",
+    "LastActivityDate":"2012-10-24T08:40:55.050",
+    "ClosedDate":"2013-05-22T23:23:10.250",
+    "Title":"How to tether WiFi-internetconnection with Nexus 7 on a PC without WLAN via USB?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22719",
+    "CreationDate":"2012-10-24T08:40:55.050",
+    "FavoriteCount":null,
+    "Id":"32298",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T08:40:55.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"69363fb1-22fd-4447-a73d-53c8c785a000",
+            "UserId":"22719",
+            "CloseReasonId":null,
+            "PostId":"32298",
+            "PostHistoryTypeId":"2",
+            "Id":"95488",
+            "Text":"With my Phone it worked via the normal settings. I want to perform tethering of the local WLAN my Nexus7 receives via USB to my computer.I found this so far, but it doesn't seem very useful to me. Anyone any idea?[http:\/\/forum.xda-developers.com\/showthread.php?t=1822788][1]  [1]: http:\/\/forum.xda-developers.com\/showthread.php?t=1822788"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T08:40:55.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"69363fb1-22fd-4447-a73d-53c8c785a000",
+            "UserId":"22719",
+            "CloseReasonId":null,
+            "PostId":"32298",
+            "PostHistoryTypeId":"1",
+            "Id":"95489",
+            "Text":"How to tether WiFi-internetconnection with Nexus 7 on a PC without WLAN via USB?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T08:40:55.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"69363fb1-22fd-4447-a73d-53c8c785a000",
+            "UserId":"22719",
+            "CloseReasonId":null,
+            "PostId":"32298",
+            "PostHistoryTypeId":"3",
+            "Id":"95490",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-22T23:23:10.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"03642c98-2531-4218-ab46-6134ca5591e0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"32298",
+            "PostHistoryTypeId":"10",
+            "Id":"148198",
+            "Text":"{\"OriginalQuestionIds\":[3134],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

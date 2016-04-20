@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a way to discover when my Android OS was installed? In other word: what is the age of the SO running in my phone (since the last FW upgrade)?I have root access and I prefer not installing any extra apps to this task (altough, if it is the only way, I may install one). I already have a Terminal Emulator App.I looked into \"Settings -> About phone\" and there is a counter since the last reboot, which is not what I want.I am running Android 4.0.4 on a Sony Xperia P.",
+    "ViewCount":"233",
+    "LastActivityDate":"2014-07-04T15:04:00.547",
+    "ClosedDate":"2014-07-04T20:44:32.190",
+    "Title":"Android installation age",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65525",
+    "CreationDate":"2014-07-04T12:50:53.437",
+    "FavoriteCount":null,
+    "Id":"75543",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-04T12:50:53.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"05107a2e-607b-4d03-99b4-e1e73540da46",
+            "UserId":"65525",
+            "CloseReasonId":null,
+            "PostId":"75543",
+            "PostHistoryTypeId":"2",
+            "Id":"251101",
+            "Text":"Is there a way to discover when my Android OS was installed? In other word: what is the age of the SO running in my phone (since the last FW upgrade)?I have root access and I prefer not installing any extra apps to this task (altough, if it is the only way, I may install one). I already have a Terminal Emulator App.I looked into \"Settings -> About phone\" and there is a counter since the last *reboot*, which is **not** what I want.I am running Android 4.0.4 on a Sony Xperia P."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-04T12:50:53.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"05107a2e-607b-4d03-99b4-e1e73540da46",
+            "UserId":"65525",
+            "CloseReasonId":null,
+            "PostId":"75543",
+            "PostHistoryTypeId":"1",
+            "Id":"251102",
+            "Text":"Android installation age"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-04T12:50:53.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"05107a2e-607b-4d03-99b4-e1e73540da46",
+            "UserId":"65525",
+            "CloseReasonId":null,
+            "PostId":"75543",
+            "PostHistoryTypeId":"3",
+            "Id":"251103",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-04T20:44:32.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"66de8f93-cf8a-4e1a-b5ce-fbb941c02510",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"75543",
+            "PostHistoryTypeId":"10",
+            "Id":"251200",
+            "Text":"{\"OriginalQuestionIds\":[20503,51153],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

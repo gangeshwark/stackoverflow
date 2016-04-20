@@ -1,0 +1,71 @@
+{
+    "Body":"I have an Android application which I hope to promote in developing\/emerging markets for crowdsourced mobile work. Reliable location detection is a major part of some of the scenarios.I understand that mobile location-based solutions use a variety of signals to detect the user's current position:Traditional satellite GPS, frequently assisted via aGPSGoogle's database of wifi routers and their locationsGoogle's database of cell tower IDs and their locationsSatellite coverage is of course global, but how is the International coverage for #2 and #3? Is there any service I can consult to gauge (even anecdotally) the coverage of Google's location databases around the world? Even a (data-backed) report or blot post would be helpful.The key issue I face is whether to require a mobile data plan for users of my application (and whether a mobile data plan would actually help location accuracy in certain markets). If mobile internet\/data will make a huge impact on location accuracy, then it makes sense to require it ... but otherwise I want to support wifi-only scenarios. ",
+    "ViewCount":"132",
+    "LastActivityDate":"2012-09-25T02:58:02.830",
+    "ClosedDate":"2012-09-28T18:50:56.260",
+    "Title":"Android mobile location coverage around the world?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18908",
+    "CreationDate":"2012-09-25T02:58:02.830",
+    "FavoriteCount":null,
+    "Id":"29890",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-25T02:58:02.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"5019d23e-432a-4ebd-9560-db93df35f92f",
+            "UserId":"18908",
+            "CloseReasonId":null,
+            "PostId":"29890",
+            "PostHistoryTypeId":"2",
+            "Id":"89288",
+            "Text":"I have an Android application which I hope to promote in developing\/emerging markets for crowdsourced mobile work. Reliable location detection is a major part of some of the scenarios.I understand that mobile location-based solutions use a variety of signals to detect the user's current position: 1. Traditional satellite GPS, frequently assisted via aGPS 2. Google's database of wifi routers and their locations 3. Google's database of cell tower IDs and their locationsSatellite coverage is of course global, but how is the International coverage for #2 and #3? Is there any service I can consult to gauge (even anecdotally) the coverage of Google's location databases around the world? Even a (data-backed) report or blot post would be helpful.The key issue I face is whether to require a mobile data plan for users of my application (and whether a mobile data plan would actually help location accuracy in certain markets). If mobile internet\/data will make a huge impact on location accuracy, then it makes sense to require it ... but otherwise I want to support wifi-only scenarios.   "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-25T02:58:02.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"5019d23e-432a-4ebd-9560-db93df35f92f",
+            "UserId":"18908",
+            "CloseReasonId":null,
+            "PostId":"29890",
+            "PostHistoryTypeId":"1",
+            "Id":"89289",
+            "Text":"Android mobile location coverage around the world?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-25T02:58:02.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"5019d23e-432a-4ebd-9560-db93df35f92f",
+            "UserId":"18908",
+            "CloseReasonId":null,
+            "PostId":"29890",
+            "PostHistoryTypeId":"3",
+            "Id":"89290",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-09-28T18:50:56.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"a3073f9a-43ec-4034-ade5-bf78789b75cf",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29890",
+            "PostHistoryTypeId":"10",
+            "Id":"90050",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

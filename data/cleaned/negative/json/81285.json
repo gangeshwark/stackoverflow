@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Samsung Note 3 and I accidentally deleted an entire photo album from my phones gallery. I didn't enable my device to sync with Gmail. I didn't manually backup any of the data. The images were saved on my phone, not on the SD card. Is there any way for me to recover this deleted photo album? I Google'd and came across SDrescan but that won't work since the images were not initially saved on my SD card.",
+    "ViewCount":"47064",
+    "LastActivityDate":"2014-08-28T08:51:11.287",
+    "ClosedDate":"2014-08-29T16:40:13.330",
+    "Title":"How to recover deleted photo album saved on internal memory - Note 3",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"44116",
+    "CreationDate":"2014-08-25T18:30:11.293",
+    "FavoriteCount":null,
+    "Id":"81285",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-25T18:30:11.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea841412-75ab-4a61-9969-c8c47a1faf42",
+            "UserId":"44116",
+            "CloseReasonId":null,
+            "PostId":"81285",
+            "PostHistoryTypeId":"2",
+            "Id":"266085",
+            "Text":"I have a Samsung Note 3 and I accidentally deleted an entire photo album from my phones gallery. I didn't enable my device to sync with Gmail. I didn't manually backup any of the data. The images were saved on my phone, not on the SD card. Is there any way for me to recover this deleted photo album? I Google'd and came across SDrescan but that won't work since the images were not initially saved on my SD card."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-25T18:30:11.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea841412-75ab-4a61-9969-c8c47a1faf42",
+            "UserId":"44116",
+            "CloseReasonId":null,
+            "PostId":"81285",
+            "PostHistoryTypeId":"1",
+            "Id":"266086",
+            "Text":"How to recover deleted photo album saved on internal memory - Note 3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-25T18:30:11.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea841412-75ab-4a61-9969-c8c47a1faf42",
+            "UserId":"44116",
+            "CloseReasonId":null,
+            "PostId":"81285",
+            "PostHistoryTypeId":"3",
+            "Id":"266087",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-29T16:40:13.330",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f517ea9-3df6-4ee6-b624-bb8d7c3d6c51",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"81285",
+            "PostHistoryTypeId":"10",
+            "Id":"266926",
+            "Text":"{\"OriginalQuestionIds\":[15869],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-29T16:40:28.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"79bd94be-93f6-49ae-9312-5f19f5a4baff",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"81285",
+            "PostHistoryTypeId":"19",
+            "Id":"266929",
+            "Text":"{\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\"}]}"
+        }
+    ]
+}

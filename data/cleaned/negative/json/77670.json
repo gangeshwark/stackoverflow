@@ -1,0 +1,71 @@
+{
+    "Body":"Is it wrong to fully charge your android phone in general to 100% will it hurt battery life? and is it also to drain your battery to below 20% will it also hurt the battery life? ",
+    "ViewCount":"724",
+    "LastActivityDate":"2014-07-20T14:30:06.700",
+    "ClosedDate":"2014-07-20T21:56:19.787",
+    "Title":"Charging Nexus 5 to 100%",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67764",
+    "CreationDate":"2014-07-20T11:47:38.363",
+    "FavoriteCount":null,
+    "Id":"77670",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-20T11:47:38.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"1090c92e-88b0-465b-9f41-1d28d6195c45",
+            "UserId":"67764",
+            "CloseReasonId":null,
+            "PostId":"77670",
+            "PostHistoryTypeId":"2",
+            "Id":"256077",
+            "Text":"Is it wrong to fully charge your android phone in general to 100% will it hurt battery life? and is it also to drain your battery to below 20% will it also hurt the battery life? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-20T11:47:38.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"1090c92e-88b0-465b-9f41-1d28d6195c45",
+            "UserId":"67764",
+            "CloseReasonId":null,
+            "PostId":"77670",
+            "PostHistoryTypeId":"1",
+            "Id":"256078",
+            "Text":"Charging Nexus 5 to 100%"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-20T11:47:38.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"1090c92e-88b0-465b-9f41-1d28d6195c45",
+            "UserId":"67764",
+            "CloseReasonId":null,
+            "PostId":"77670",
+            "PostHistoryTypeId":"3",
+            "Id":"256079",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-20T21:56:19.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"9071514d-d187-4761-970b-6317c9cca249",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77670",
+            "PostHistoryTypeId":"10",
+            "Id":"256154",
+            "Text":"{\"OriginalQuestionIds\":[4003],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

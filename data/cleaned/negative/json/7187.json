@@ -1,0 +1,83 @@
+{
+    "Body":"or how can i auto update an app that is not installed via android marketplace. it is useful in scenario where many of our customer uses custom built of android device ( which not yet registered to android ) , and we want to make sure that changes to our app propogate to device ? ",
+    "ViewCount":"427",
+    "LastActivityDate":"2011-03-22T01:24:41.113",
+    "ClosedDate":"2013-10-24T15:12:26.540",
+    "Title":"can automatic update work when app is not installed from android marketplace?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3576",
+    "CreationDate":"2011-03-21T10:10:07.513",
+    "FavoriteCount":null,
+    "Id":"7187",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T10:10:07.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"2373a057-67ed-41eb-8022-ac122fede3ae",
+            "UserId":"3576",
+            "CloseReasonId":null,
+            "PostId":"7187",
+            "PostHistoryTypeId":"2",
+            "Id":"16673",
+            "Text":"or how can i auto update an app that is not installed via android marketplace. it is useful in scenario where many of our customer uses custom built of android device ( which not yet registered to android ) , and we want to make sure that changes to our app propogate to device ? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T10:10:07.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"2373a057-67ed-41eb-8022-ac122fede3ae",
+            "UserId":"3576",
+            "CloseReasonId":null,
+            "PostId":"7187",
+            "PostHistoryTypeId":"1",
+            "Id":"16674",
+            "Text":"can automatic update work when app is not installed from android marketplace ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-21T10:10:07.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"2373a057-67ed-41eb-8022-ac122fede3ae",
+            "UserId":"3576",
+            "CloseReasonId":null,
+            "PostId":"7187",
+            "PostHistoryTypeId":"3",
+            "Id":"16675",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/49795376605179904",
+            "CreationDate":"2011-03-21T11:31:57.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d59c100-a88e-43f3-bc94-02ad6d2908ae",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"7187",
+            "PostHistoryTypeId":"25",
+            "Id":"16682",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-10-24T15:12:26.540",
+            "UserDisplayName":null,
+            "RevisionGUID":"f6a95e89-ef51-4000-9386-05da1d051d15",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"7187",
+            "PostHistoryTypeId":"10",
+            "Id":"185097",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

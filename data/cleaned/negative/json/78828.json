@@ -1,0 +1,71 @@
+{
+    "Body":"I am using nexus 4..In my case it is something different.. I am able to browse through browser and even my gmail app is working fine.. but my wifi icons are orange in color(Kitkat 4.4.4)..needs to be white in color.. but i don't know why?The only problem i am facing is that i am unable to check for android updates even if I click check now nothing is happening.. the last checked date remains same which is a old date..",
+    "ViewCount":"17",
+    "LastActivityDate":"2014-08-05T11:57:25.640",
+    "ClosedDate":"2014-08-06T07:37:45.067",
+    "Title":"Nexus 4 not connecting to google server(haven't cleared google service framework)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68956",
+    "CreationDate":"2014-08-05T11:57:25.640",
+    "FavoriteCount":null,
+    "Id":"78828",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-05T11:57:25.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"6488c82b-faa6-4429-8b66-632c38714d12",
+            "UserId":"68956",
+            "CloseReasonId":null,
+            "PostId":"78828",
+            "PostHistoryTypeId":"2",
+            "Id":"260058",
+            "Text":"I am using nexus 4..In my case it is something different.. I am able to browse through browser and even my gmail app is working fine.. but my wifi icons are orange in color(Kitkat 4.4.4)..needs to be white in color.. but i don't know why?The only problem i am facing is that i am unable to check for android updates even if I click check now nothing is happening.. the last checked date remains same which is a old date.."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-05T11:57:25.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"6488c82b-faa6-4429-8b66-632c38714d12",
+            "UserId":"68956",
+            "CloseReasonId":null,
+            "PostId":"78828",
+            "PostHistoryTypeId":"1",
+            "Id":"260059",
+            "Text":"Nexus 4 not connecting to google server(haven't cleared google service framework)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-05T11:57:25.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"6488c82b-faa6-4429-8b66-632c38714d12",
+            "UserId":"68956",
+            "CloseReasonId":null,
+            "PostId":"78828",
+            "PostHistoryTypeId":"3",
+            "Id":"260060",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-06T07:37:45.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"fc6803b9-460a-482b-851b-063d961a0505",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"78828",
+            "PostHistoryTypeId":"10",
+            "Id":"260304",
+            "Text":"{\"OriginalQuestionIds\":[63481],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I HATE the Google Search Bar at the top of my home screen, I tried removing the Velvet folder in my file manager, cannot find the specific .apk file to remove just the white Google Search Bar, so I guess my only alternative is using a launcher. Which launcher is going to bloat my phone the least, and slow it down\/drain the batter the LEAST?",
+    "ViewCount":"819",
+    "LastActivityDate":"2014-12-05T15:11:11.487",
+    "ClosedDate":"2014-12-05T15:46:07.703",
+    "Title":"Lightweight launcher...?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"82800",
+    "CreationDate":"2014-12-04T20:28:05.030",
+    "FavoriteCount":null,
+    "Id":"89770",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T20:28:05.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"eea8961c-dcdc-4f34-8911-946ad254f3f4",
+            "UserId":"82800",
+            "CloseReasonId":null,
+            "PostId":"89770",
+            "PostHistoryTypeId":"2",
+            "Id":"295922",
+            "Text":"I HATE the Google Search Bar at the top of my home screen, I tried removing the Velvet folder in my file manager, cannot find the specific .apk file to remove just the white Google Search Bar, so I guess my only alternative is using a launcher. Which launcher is going to bloat my phone the least, and slow it down\/drain the batter the LEAST?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T20:28:05.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"eea8961c-dcdc-4f34-8911-946ad254f3f4",
+            "UserId":"82800",
+            "CloseReasonId":null,
+            "PostId":"89770",
+            "PostHistoryTypeId":"1",
+            "Id":"295923",
+            "Text":"Lightweight launcher...?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-04T20:28:05.030",
+            "UserDisplayName":null,
+            "RevisionGUID":"eea8961c-dcdc-4f34-8911-946ad254f3f4",
+            "UserId":"82800",
+            "CloseReasonId":null,
+            "PostId":"89770",
+            "PostHistoryTypeId":"3",
+            "Id":"295924",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-05T15:46:07.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"1bf4bc9c-f493-4c90-85ab-d70afc44b1a2",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89770",
+            "PostHistoryTypeId":"10",
+            "Id":"296164",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

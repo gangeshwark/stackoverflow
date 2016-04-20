@@ -1,0 +1,71 @@
+{
+    "Body":"When I connect my android mobile to my laptop, I use the 3G data via USB tethering. Several background activities on my laptop (win 8.1) such as regular updates continuously occur. This drains the monthly package and the allotted download\/upload limit is exhausted in no time. Is there an android app that monitors the tethered connection and deny\/block background downloading, say of any file(s) larger than 5-10MB?",
+    "ViewCount":"1994",
+    "LastActivityDate":"2015-05-21T20:38:46.087",
+    "ClosedDate":"2015-05-21T21:02:04.383",
+    "Title":"Android app to limit data download when tethering",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"61402",
+    "CreationDate":"2014-05-24T10:31:56.760",
+    "FavoriteCount":null,
+    "Id":"69895",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-24T10:31:56.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d168e08-66a6-4c54-9456-10b9ca3762b1",
+            "UserId":"61402",
+            "CloseReasonId":null,
+            "PostId":"69895",
+            "PostHistoryTypeId":"2",
+            "Id":"238496",
+            "Text":"When I connect my android mobile to my laptop, I use the 3G data via USB tethering. Several background activities on my laptop (win 8.1) such as regular updates continuously occur. This drains the monthly package and the allotted download\/upload limit is exhausted in no time. Is there an android app that monitors the tethered connection and deny\/block background downloading, say of any file(s) larger than 5-10MB?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-24T10:31:56.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d168e08-66a6-4c54-9456-10b9ca3762b1",
+            "UserId":"61402",
+            "CloseReasonId":null,
+            "PostId":"69895",
+            "PostHistoryTypeId":"1",
+            "Id":"238497",
+            "Text":"Android app to limit data download when tethering"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-05-24T10:31:56.760",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d168e08-66a6-4c54-9456-10b9ca3762b1",
+            "UserId":"61402",
+            "CloseReasonId":null,
+            "PostId":"69895",
+            "PostHistoryTypeId":"3",
+            "Id":"238498",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-05-21T21:02:04.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"671f75ff-bbe0-436b-bee9-f00f7dd945ab",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"69895",
+            "PostHistoryTypeId":"10",
+            "Id":"359149",
+            "Text":"{\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

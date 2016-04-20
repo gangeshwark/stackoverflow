@@ -1,0 +1,83 @@
+{
+    "Body":"Is it possible to use\/control the camera from (or at least initially from) a web page? I'd like to come in as a web page (not an app) but then be able to take a picture or pictures and package them into some web service calls.",
+    "ViewCount":"78",
+    "LastActivityDate":"2014-07-17T15:39:28.983",
+    "ClosedDate":"2014-07-20T00:27:33.170",
+    "Title":"Use camera from web page?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67398",
+    "CreationDate":"2014-07-15T19:00:35.873",
+    "FavoriteCount":null,
+    "Id":"77334",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-15T19:00:35.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"eff64286-f2f5-45c9-9f2b-973ca035688d",
+            "UserId":"67398",
+            "CloseReasonId":null,
+            "PostId":"77334",
+            "PostHistoryTypeId":"2",
+            "Id":"254894",
+            "Text":"Is it possible to use\/control the camera from (or at least initially from) a web page? I'd like to come in as a web page (not an app) but then be able to take a picture or pictures and package them into some web service calls."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-15T19:00:35.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"eff64286-f2f5-45c9-9f2b-973ca035688d",
+            "UserId":"67398",
+            "CloseReasonId":null,
+            "PostId":"77334",
+            "PostHistoryTypeId":"1",
+            "Id":"254895",
+            "Text":"Use camera from web page?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-15T19:00:35.873",
+            "UserDisplayName":null,
+            "RevisionGUID":"eff64286-f2f5-45c9-9f2b-973ca035688d",
+            "UserId":"67398",
+            "CloseReasonId":null,
+            "PostId":"77334",
+            "PostHistoryTypeId":"3",
+            "Id":"254896",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/489150658898321408",
+            "CreationDate":"2014-07-15T20:52:59.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"749368ab-da83-4fb3-9eb0-b3829cf7d57b",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"77334",
+            "PostHistoryTypeId":"25",
+            "Id":"254905",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-07-20T00:27:33.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"4efe9fef-fb84-4316-9b6e-c1d8ffe95acb",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77334",
+            "PostHistoryTypeId":"10",
+            "Id":"255975",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

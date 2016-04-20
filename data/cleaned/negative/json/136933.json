@@ -1,0 +1,71 @@
+{
+    "Body":"  My tab touches itself in the upper left corner.  lenovo tab 2 a7-30hc.  Android version is 5.0.1.  Any solution?",
+    "ViewCount":"31",
+    "LastActivityDate":"2016-02-12T22:06:40.450",
+    "ClosedDate":"2016-02-14T07:47:34.610",
+    "Title":"My tab touches itself",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"151057",
+    "CreationDate":"2016-02-12T20:20:42.407",
+    "FavoriteCount":null,
+    "Id":"136933",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T20:20:42.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf356aad-9be1-416e-a45d-c5fbd266367d",
+            "UserId":"151057",
+            "CloseReasonId":null,
+            "PostId":"136933",
+            "PostHistoryTypeId":"2",
+            "Id":"456308",
+            "Text":">My tab touches itself in the upper left corner.>lenovo tab 2 a7-30hc.>Android version is 5.0.1.>Any solution?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T20:20:42.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf356aad-9be1-416e-a45d-c5fbd266367d",
+            "UserId":"151057",
+            "CloseReasonId":null,
+            "PostId":"136933",
+            "PostHistoryTypeId":"1",
+            "Id":"456309",
+            "Text":"My tab touches itself"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-12T20:20:42.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf356aad-9be1-416e-a45d-c5fbd266367d",
+            "UserId":"151057",
+            "CloseReasonId":null,
+            "PostId":"136933",
+            "PostHistoryTypeId":"3",
+            "Id":"456310",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-14T07:47:34.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"4df39631-8782-43b1-a28f-cc24fc85c293",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"136933",
+            "PostHistoryTypeId":"10",
+            "Id":"456828",
+            "Text":"{\"OriginalQuestionIds\":[103816],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

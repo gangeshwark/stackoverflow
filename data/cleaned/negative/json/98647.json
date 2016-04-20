@@ -1,0 +1,71 @@
+{
+    "Body":"On both my nexus 9 and my Oneplus One running android 5.0.1 the apk installer will pop up and show the permissions but it simply won't let me click install. It does it for apks from the internet and from the Amazon app store. The only thing that I have found is that lollipop doesn't let secondary users install apps but I don't even have secondary users on either of my devices. I searched the settings and haven't found anything, and before you assume that I am a complete fool the \"unknown sources\" box is checked. How can I fix this?",
+    "ViewCount":"18",
+    "LastActivityDate":"2015-02-13T01:50:29.820",
+    "ClosedDate":"2015-02-13T01:59:44.140",
+    "Title":"Can't install non-Play store apps",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6087",
+    "CreationDate":"2015-02-13T01:50:29.820",
+    "FavoriteCount":null,
+    "Id":"98647",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-13T01:50:29.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fc028e4-90f0-4097-8200-ee48b7b5aec8",
+            "UserId":"6087",
+            "CloseReasonId":null,
+            "PostId":"98647",
+            "PostHistoryTypeId":"2",
+            "Id":"322260",
+            "Text":"On both my nexus 9 and my Oneplus One running android 5.0.1 the apk installer will pop up and show the permissions but it simply won't let me click install. It does it for apks from the internet and from the Amazon app store. The only thing that I have found is that lollipop doesn't let secondary users install apps but I don't even have secondary users on either of my devices. I searched the settings and haven't found anything, and before you assume that I am a complete fool the \"unknown sources\" box is checked. How can I fix this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-13T01:50:29.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fc028e4-90f0-4097-8200-ee48b7b5aec8",
+            "UserId":"6087",
+            "CloseReasonId":null,
+            "PostId":"98647",
+            "PostHistoryTypeId":"1",
+            "Id":"322261",
+            "Text":"Can't install non-Play store apps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-13T01:50:29.820",
+            "UserDisplayName":null,
+            "RevisionGUID":"0fc028e4-90f0-4097-8200-ee48b7b5aec8",
+            "UserId":"6087",
+            "CloseReasonId":null,
+            "PostId":"98647",
+            "PostHistoryTypeId":"3",
+            "Id":"322262",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-13T01:59:44.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5a00470-7a7a-4707-b1ba-9b4eb6e7b56e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"98647",
+            "PostHistoryTypeId":"10",
+            "Id":"322265",
+            "Text":"{\"OriginalQuestionIds\":[69981],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

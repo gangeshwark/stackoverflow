@@ -1,0 +1,71 @@
+{
+    "Body":"I try to download games and it always say insufficient space on device what should I do. Google play or play store",
+    "ViewCount":"1636",
+    "LastActivityDate":"2015-01-10T12:03:45.640",
+    "ClosedDate":"2015-01-10T20:34:36.283",
+    "Title":"i try to download games on my tablet and it keeps saying no space on device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"89520",
+    "CreationDate":"2015-01-10T03:59:46.940",
+    "FavoriteCount":null,
+    "Id":"95443",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-10T03:59:46.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6aa0d7c-ae6d-4b1d-a5ef-5f3ceff32a6f",
+            "UserId":"89520",
+            "CloseReasonId":null,
+            "PostId":"95443",
+            "PostHistoryTypeId":"2",
+            "Id":"310751",
+            "Text":"I try to download games and it always say insufficient space on device what should I do. Google play or play store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-10T03:59:46.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6aa0d7c-ae6d-4b1d-a5ef-5f3ceff32a6f",
+            "UserId":"89520",
+            "CloseReasonId":null,
+            "PostId":"95443",
+            "PostHistoryTypeId":"1",
+            "Id":"310752",
+            "Text":"i try to download games on my tablet and it keeps saying no space on device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-10T03:59:46.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"a6aa0d7c-ae6d-4b1d-a5ef-5f3ceff32a6f",
+            "UserId":"89520",
+            "CloseReasonId":null,
+            "PostId":"95443",
+            "PostHistoryTypeId":"3",
+            "Id":"310753",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-10T20:34:36.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf3e4fed-6af7-4437-87d6-d93b24d1c055",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"95443",
+            "PostHistoryTypeId":"10",
+            "Id":"310898",
+            "Text":"{\"OriginalQuestionIds\":[27083],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

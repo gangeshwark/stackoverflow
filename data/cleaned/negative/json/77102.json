@@ -1,0 +1,83 @@
+{
+    "Body":"Even after a factory reset when I go to settings>storage my tablet has about 120 MBS of space taken up between apps, audio, cached, and misc. But 0 available, can't download anything because of it, and I don't know if there's some sort of virus  that does this or what but any ideas on how to fix would be appreciated.I have an envizen V917G 9\" 8GB Android 4.2.2",
+    "ViewCount":"391",
+    "LastActivityDate":"2014-07-13T10:03:18.323",
+    "ClosedDate":"2014-07-15T01:04:05.973",
+    "Title":"no matter what i do my tablet has 0mb space available",
+    "LastEditorUserId":"12442",
+    "Tags":"",
+    "LastEditDate":"2014-07-13T10:03:18.323",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67124",
+    "CreationDate":"2014-07-12T16:41:58.737",
+    "FavoriteCount":null,
+    "Id":"77102",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-12T16:41:58.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"4da11c7e-40d2-438e-a98a-ac83e18577b4",
+            "UserId":"67124",
+            "CloseReasonId":null,
+            "PostId":"77102",
+            "PostHistoryTypeId":"2",
+            "Id":"254128",
+            "Text":"Even after a factory reset when I go to settings>storage my tablet has about 120 MBS of space taken up between apps, audio, cached, and misc. But 0 available, can't download anything because of it, and I don't know if there's some sort of virus  that does this or what but any ideas on how to fix would be appreciated.I have an envizen V917G 9\" 8GB Android 4.2.2"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-12T16:41:58.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"4da11c7e-40d2-438e-a98a-ac83e18577b4",
+            "UserId":"67124",
+            "CloseReasonId":null,
+            "PostId":"77102",
+            "PostHistoryTypeId":"1",
+            "Id":"254129",
+            "Text":"no matter what i do my tablet has 0mb space available"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-12T16:41:58.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"4da11c7e-40d2-438e-a98a-ac83e18577b4",
+            "UserId":"67124",
+            "CloseReasonId":null,
+            "PostId":"77102",
+            "PostHistoryTypeId":"3",
+            "Id":"254130",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-07-13T10:03:18.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"1afbcb16-46d8-42eb-b4e9-b43e28d04218",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"77102",
+            "PostHistoryTypeId":"6",
+            "Id":"254268",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-15T01:04:05.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5f80da8-047c-4c3b-8d86-5084eda93e7c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77102",
+            "PostHistoryTypeId":"10",
+            "Id":"254690",
+            "Text":"{\"OriginalQuestionIds\":[77075],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

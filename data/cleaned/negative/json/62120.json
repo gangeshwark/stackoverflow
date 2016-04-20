@@ -1,0 +1,83 @@
+{
+    "Body":"I saw a number of apps that require \"Services that cost you money\" permissions, my question is if I install such an app and that app will make a phone call, is that call visible to the user or the app can make the call in the background without the user knowing ?I usually don't install apps that require extending permissions and I haven\u2019t found anything googling, I prefer not to install it unless I'm sure I won't have a surprise when my phone bill comes.Specifically I was invited to join a conference via GoToMeeting and their Android app is requesting the above permission.",
+    "ViewCount":"1833",
+    "LastActivityDate":"2014-01-28T18:40:19.673",
+    "ClosedDate":"2014-01-31T18:02:37.850",
+    "Title":"Can an app make phone calls in the background",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11017",
+    "CreationDate":"2014-01-28T15:06:05.853",
+    "FavoriteCount":"1",
+    "Id":"62120",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-28T15:06:05.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"6de6656b-5310-4429-a0f0-386477ffd932",
+            "UserId":"11017",
+            "CloseReasonId":null,
+            "PostId":"62120",
+            "PostHistoryTypeId":"2",
+            "Id":"210628",
+            "Text":"I saw a number of apps that require \"Services that cost you money\" permissions, my question is if I install such an app and that app will make a phone call, is that call visible to the user or the app can make the call in the background without the user knowing ?I usually don't install apps that require extending permissions and I haven\u2019t found anything googling, I prefer not to install it unless I'm sure I won't have a surprise when my phone bill comes.Specifically I was invited to join a conference via GoToMeeting and their Android [app][1] is requesting the above permission.  [1]: https:\/\/play.google.com\/store\/apps\/details?id=com.citrixonline.android.gotomeeting"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-28T15:06:05.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"6de6656b-5310-4429-a0f0-386477ffd932",
+            "UserId":"11017",
+            "CloseReasonId":null,
+            "PostId":"62120",
+            "PostHistoryTypeId":"1",
+            "Id":"210629",
+            "Text":"Can an app make phone calls in the background"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-28T15:06:05.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"6de6656b-5310-4429-a0f0-386477ffd932",
+            "UserId":"11017",
+            "CloseReasonId":null,
+            "PostId":"62120",
+            "PostHistoryTypeId":"3",
+            "Id":"210630",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/428203912706158592",
+            "CreationDate":"2014-01-28T16:32:22.780",
+            "UserDisplayName":null,
+            "RevisionGUID":"00f65b67-4c68-4db9-a605-63ce6bba4c4d",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"62120",
+            "PostHistoryTypeId":"25",
+            "Id":"210657",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-31T18:02:37.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"43705a29-57b0-4438-80d6-72071e5afb9d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"62120",
+            "PostHistoryTypeId":"10",
+            "Id":"211854",
+            "Text":"{\"OriginalQuestionIds\":[53426],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

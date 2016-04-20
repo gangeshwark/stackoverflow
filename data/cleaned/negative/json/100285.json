@@ -1,0 +1,71 @@
+{
+    "Body":"I have an old android tablet (2.3) which I've had for a number of years now. I've been trying to get access to the application data storage, because I had some important documents stored in a notes application. Using ADB in the past I've pulled the entire user storage directory to my PC, which I still have a copy of.But now, it's stuck in a bootloop. When it turns on it shows the Polaroid logo, then blue screens for a bit then starts booting up. It shows the android booting logo with the windows-xp-like slider going across the screen. After 10 seconds that freezes and the tablet reboots.I'm still able to access the tablet's root shell using ADB (I see # instead of $) and I've been trying to pull the log file to see why the tablet has been unexpectedly bootlooping. This is funny because I've only been pulling files from the tablet using ADB, and there is no touch so I don't understand how it's managed to damage it's own filesystem.Upon browsing through the filesystem in root ADB, I've found that files I've pulled in the past from the user storage, don't appear under \/mnt\/sdcard and I can't locate them in the \/data folder.Is there any way that I can use ADB to pull the log file off the tablet?",
+    "ViewCount":"6",
+    "LastActivityDate":"2015-02-19T10:50:01.393",
+    "ClosedDate":"2015-02-20T10:12:44.337",
+    "Title":"2.3 Tablet bootloop, trying to pull logfile with root adb",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"83064",
+    "CreationDate":"2015-02-19T10:50:01.393",
+    "FavoriteCount":null,
+    "Id":"100285",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T10:50:01.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"13861245-6f32-4b4f-b161-57bbeedd0d62",
+            "UserId":"83064",
+            "CloseReasonId":null,
+            "PostId":"100285",
+            "PostHistoryTypeId":"2",
+            "Id":"325569",
+            "Text":"I have an old android tablet (2.3) which I've had for a number of years now. I've been trying to get access to the application data storage, because I had some important documents stored in a notes application. Using ADB in the past I've pulled the entire user storage directory to my PC, which I still have a copy of.But now, it's stuck in a bootloop. When it turns on it shows the Polaroid logo, then blue screens for a bit then starts booting up. It shows the android booting logo with the windows-xp-like slider going across the screen. After 10 seconds that freezes and the tablet reboots.I'm still able to access the tablet's root shell using ADB (I see # instead of $) and I've been trying to pull the log file to see why the tablet has been unexpectedly bootlooping. This is funny because I've only been pulling files from the tablet using ADB, and there is no touch so I don't understand how it's managed to damage it's own filesystem.Upon browsing through the filesystem in root ADB, I've found that files I've pulled in the past from the user storage, don't appear under \/mnt\/sdcard and I can't locate them in the \/data folder.Is there any way that I can use ADB to pull the log file off the tablet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T10:50:01.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"13861245-6f32-4b4f-b161-57bbeedd0d62",
+            "UserId":"83064",
+            "CloseReasonId":null,
+            "PostId":"100285",
+            "PostHistoryTypeId":"1",
+            "Id":"325570",
+            "Text":"2.3 Tablet bootloop, trying to pull logfile with root adb"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-19T10:50:01.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"13861245-6f32-4b4f-b161-57bbeedd0d62",
+            "UserId":"83064",
+            "CloseReasonId":null,
+            "PostId":"100285",
+            "PostHistoryTypeId":"3",
+            "Id":"325571",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-20T10:12:44.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdcd04c8-fbfe-48a2-b393-8f7583863051",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"100285",
+            "PostHistoryTypeId":"10",
+            "Id":"325934",
+            "Text":"{\"OriginalQuestionIds\":[14430],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

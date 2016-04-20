@@ -1,0 +1,83 @@
+{
+    "Body":"I have recently taken interest in digital forensics.  What is the best tool, or set of tools to obtain and analyze images of android phones?",
+    "ViewCount":"184",
+    "LastActivityDate":"2012-01-16T04:46:52.947",
+    "ClosedDate":"2012-01-16T14:24:38.010",
+    "Title":"A data forensic tools for android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7064",
+    "CreationDate":"2012-01-16T04:46:52.947",
+    "FavoriteCount":null,
+    "Id":"18380",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-16T04:46:52.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2bc93d7-d149-4422-a95b-0077b0290dca",
+            "UserId":"7064",
+            "CloseReasonId":null,
+            "PostId":"18380",
+            "PostHistoryTypeId":"2",
+            "Id":"50454",
+            "Text":"I have recently taken interest in digital forensics.  What is the best tool, or set of tools to obtain and analyze images of android phones?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-16T04:46:52.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2bc93d7-d149-4422-a95b-0077b0290dca",
+            "UserId":"7064",
+            "CloseReasonId":null,
+            "PostId":"18380",
+            "PostHistoryTypeId":"1",
+            "Id":"50455",
+            "Text":"A data forensic tools for android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-16T04:46:52.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"c2bc93d7-d149-4422-a95b-0077b0290dca",
+            "UserId":"7064",
+            "CloseReasonId":null,
+            "PostId":"18380",
+            "PostHistoryTypeId":"3",
+            "Id":"50456",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/158828122396037121",
+            "CreationDate":"2012-01-16T08:29:10.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"a949592a-183a-45fe-81b7-efb0fbc02e33",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"18380",
+            "PostHistoryTypeId":"25",
+            "Id":"50470",
+            "Text":null
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-01-16T14:24:38.010",
+            "UserDisplayName":null,
+            "RevisionGUID":"39d97080-c0ec-4cbf-871a-2fdb06b8af94",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"18380",
+            "PostHistoryTypeId":"10",
+            "Id":"50506",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

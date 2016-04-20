@@ -1,0 +1,71 @@
+{
+    "Body":"I deleted etc\/wifi          etc\/dhcpcd from android system root\/data Now my wifi won't turn on..Can someone zip those folders for Gionee P4 or other device with similiar firmwareI performed factory reset            data + partition wipeOr something that would fix my wifi",
+    "ViewCount":"50",
+    "LastActivityDate":"2015-12-02T23:18:11.113",
+    "ClosedDate":"2015-12-03T19:13:06.560",
+    "Title":"Can Someone zip those up for me?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"139335",
+    "CreationDate":"2015-12-01T13:04:49.560",
+    "FavoriteCount":null,
+    "Id":"130397",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-01T13:04:49.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3a4007c-8632-4417-a013-444b6ba6bbb4",
+            "UserId":"139335",
+            "CloseReasonId":null,
+            "PostId":"130397",
+            "PostHistoryTypeId":"2",
+            "Id":"430148",
+            "Text":"I deleted etc\/wifi          etc\/dhcpcd from android system root\/data Now my wifi won't turn on..Can someone zip those folders for Gionee P4 or other device with similiar firmwareI performed factory reset            data + partition wipeOr something that would fix my wifi"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-01T13:04:49.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3a4007c-8632-4417-a013-444b6ba6bbb4",
+            "UserId":"139335",
+            "CloseReasonId":null,
+            "PostId":"130397",
+            "PostHistoryTypeId":"1",
+            "Id":"430149",
+            "Text":"Can Someone zip those up for me?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-01T13:04:49.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"f3a4007c-8632-4417-a013-444b6ba6bbb4",
+            "UserId":"139335",
+            "CloseReasonId":null,
+            "PostId":"130397",
+            "PostHistoryTypeId":"3",
+            "Id":"430150",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-12-03T19:13:06.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf8fd6f2-2dc7-4e67-9190-f29c62429512",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"130397",
+            "PostHistoryTypeId":"10",
+            "Id":"430939",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

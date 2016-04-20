@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to take a screenshot with an Android device?  I want t take a screenshot on my Nexus 7, but none of the apps work.How can I take a screenshot on my Nexus?",
+    "ViewCount":"655",
+    "LastActivityDate":"2013-01-22T12:59:47.300",
+    "ClosedDate":"2013-01-22T14:01:55.363",
+    "Title":"How can I screenshot the Nexus 7?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11209",
+    "CreationDate":"2013-01-22T12:59:47.300",
+    "FavoriteCount":null,
+    "Id":"38138",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-22T12:59:47.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"b972f5c5-aa37-4771-bb80-fc4176b785cc",
+            "UserId":"11209",
+            "CloseReasonId":null,
+            "PostId":"38138",
+            "PostHistoryTypeId":"2",
+            "Id":"116473",
+            "Text":"I want t take a screenshot on my Nexus 7, but none of the apps work.How can I take a screenshot on my Nexus?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-22T12:59:47.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"b972f5c5-aa37-4771-bb80-fc4176b785cc",
+            "UserId":"11209",
+            "CloseReasonId":null,
+            "PostId":"38138",
+            "PostHistoryTypeId":"1",
+            "Id":"116474",
+            "Text":"How can I screenshot the Nexus 7?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-22T12:59:47.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"b972f5c5-aa37-4771-bb80-fc4176b785cc",
+            "UserId":"11209",
+            "CloseReasonId":null,
+            "PostId":"38138",
+            "PostHistoryTypeId":"3",
+            "Id":"116475",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-22T14:01:55.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d8a9c68-ae4c-4d47-8baf-ecbd89a2d8a9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38138",
+            "PostHistoryTypeId":"5",
+            "Id":"116501",
+            "Text":"> **Possible Duplicate:**  > [How to take a screenshot with an Android device?](http:\/\/android.stackexchange.com\/questions\/1759\/how-to-take-a-screenshot-with-an-android-device)  I want t take a screenshot on my Nexus 7, but none of the apps work.How can I take a screenshot on my Nexus?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-22T14:01:55.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"bd94be6e-a45a-4a7c-b99a-bdf3e2158d57",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"38138",
+            "PostHistoryTypeId":"10",
+            "Id":"116502",
+            "Text":"{\"OriginalQuestionIds\":[1759],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

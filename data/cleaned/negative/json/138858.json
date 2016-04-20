@@ -1,0 +1,71 @@
+{
+    "Body":"I have tried to figure this out and I'm at a loss.I am in the process or making a custom kernel for android and when I flash it it says my external sd card is empty or is not supported.I have went the the kernel config and made sure file systems ( ext2, ext3, ext4, NTFS.) But still no dice.When I plug my external sd card in a adapter and view on my computer I see all the files and even when I put it back into my phone and boot in recovery I can see all the files. Its just when I boot normally.I also can flash my stock kernel recovery and I can see my sdcard again.Which is why I think it's kernel related.If anyone could help me I would really really appreciate it. I can't think of what I can change.Thanks,Zach",
+    "ViewCount":"6",
+    "LastActivityDate":"2016-03-05T03:31:41.533",
+    "ClosedDate":"2016-03-05T05:20:06.883",
+    "Title":"After Flashing kernel phone says external sd card is empty or unsupported",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154629",
+    "CreationDate":"2016-03-05T03:31:41.533",
+    "FavoriteCount":null,
+    "Id":"138858",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T03:31:41.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"62b214ec-cb2c-4f81-b9ad-bb1b90f029e6",
+            "UserId":"154629",
+            "CloseReasonId":null,
+            "PostId":"138858",
+            "PostHistoryTypeId":"2",
+            "Id":"464324",
+            "Text":"I have tried to figure this out and I'm at a loss.I am in the process or making a custom kernel for android and when I flash it it says my external sd card is empty or is not supported.I have went the the kernel config and made sure file systems ( ext2, ext3, ext4, NTFS.) But still no dice.When I plug my external sd card in a adapter and view on my computer I see all the files and even when I put it back into my phone and boot in recovery I can see all the files. Its just when I boot normally.I also can flash my stock kernel recovery and I can see my sdcard again.Which is why I think it's kernel related.If anyone could help me I would really really appreciate it. I can't think of what I can change.Thanks,Zach"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T03:31:41.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"62b214ec-cb2c-4f81-b9ad-bb1b90f029e6",
+            "UserId":"154629",
+            "CloseReasonId":null,
+            "PostId":"138858",
+            "PostHistoryTypeId":"1",
+            "Id":"464325",
+            "Text":"After Flashing kernel phone says external sd card is empty or unsupported"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T03:31:41.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"62b214ec-cb2c-4f81-b9ad-bb1b90f029e6",
+            "UserId":"154629",
+            "CloseReasonId":null,
+            "PostId":"138858",
+            "PostHistoryTypeId":"3",
+            "Id":"464326",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-05T05:20:06.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbf890a2-347b-47d3-a1e8-68ef16bd775c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138858",
+            "PostHistoryTypeId":"10",
+            "Id":"464330",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

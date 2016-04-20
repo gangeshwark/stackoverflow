@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my device get the Android 4.0 update (Ice Cream Sandwich)?  So the OTA Ice Cream Sandwich deployment for Samsung Nexus S was stopped because the deployed version caused too much problems. Does somebody knows if another corrected version is another debugged version is to be deployed OTA anytime soon?",
+    "ViewCount":"28",
+    "LastActivityDate":"2012-03-19T14:59:25.887",
+    "ClosedDate":"2012-03-19T16:23:09.050",
+    "Title":"Ice Cream Sandwich OTA on Nexus S?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1155",
+    "CreationDate":"2012-03-19T14:59:25.887",
+    "FavoriteCount":null,
+    "Id":"20782",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T14:59:25.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2c5dfdd-9b68-421b-a535-2d5569252d95",
+            "UserId":"1155",
+            "CloseReasonId":null,
+            "PostId":"20782",
+            "PostHistoryTypeId":"2",
+            "Id":"58008",
+            "Text":"So the OTA Ice Cream Sandwich deployment for Samsung Nexus S was stopped because the deployed version caused too much problems. Does somebody knows if another corrected version is another debugged version is to be deployed OTA anytime soon?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T14:59:25.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2c5dfdd-9b68-421b-a535-2d5569252d95",
+            "UserId":"1155",
+            "CloseReasonId":null,
+            "PostId":"20782",
+            "PostHistoryTypeId":"1",
+            "Id":"58009",
+            "Text":"Ice Cream Sandwich OTA on Nexus S?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-19T14:59:25.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2c5dfdd-9b68-421b-a535-2d5569252d95",
+            "UserId":"1155",
+            "CloseReasonId":null,
+            "PostId":"20782",
+            "PostHistoryTypeId":"3",
+            "Id":"58010",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-19T16:23:11.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8350274-fddc-47f7-a55e-8bc79c7e9d07",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20782",
+            "PostHistoryTypeId":"5",
+            "Id":"58014",
+            "Text":"> **Possible Duplicate:**  > [When will my device get the Android 4.0 update (Ice Cream Sandwich)?](http:\/\/android.stackexchange.com\/questions\/14766\/when-will-my-device-get-the-android-4-0-update-ice-cream-sandwich)  So the OTA Ice Cream Sandwich deployment for Samsung Nexus S was stopped because the deployed version caused too much problems. Does somebody knows if another corrected version is another debugged version is to be deployed OTA anytime soon?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-19T16:23:09.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"cebe9285-3639-4f79-834b-f025140786e0",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20782",
+            "PostHistoryTypeId":"10",
+            "Id":"58015",
+            "Text":"{\"OriginalQuestionIds\":[14766],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

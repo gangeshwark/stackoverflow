@@ -1,0 +1,71 @@
+{
+    "Body":"when i connect the phone via USB it shows as Portable device; but i want it to be as a drive so i can review my files on the labtop.note: i have S3 and S5 with the same issue.",
+    "ViewCount":"3070",
+    "LastActivityDate":"2014-11-03T16:49:18.347",
+    "ClosedDate":"2014-11-03T17:00:28.957",
+    "Title":"How can i make samsung S5 to be shown as a drive when i connect it to my PC?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"78754",
+    "CreationDate":"2014-11-03T16:43:02.723",
+    "FavoriteCount":null,
+    "Id":"86643",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-03T16:43:02.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"89a83313-ebfa-4826-a8b5-5249f396bb18",
+            "UserId":"78754",
+            "CloseReasonId":null,
+            "PostId":"86643",
+            "PostHistoryTypeId":"2",
+            "Id":"284870",
+            "Text":"when i connect the phone via USB it shows as Portable device; but i want it to be as a drive so i can review my files on the labtop.note: i have S3 and S5 with the same issue."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-03T16:43:02.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"89a83313-ebfa-4826-a8b5-5249f396bb18",
+            "UserId":"78754",
+            "CloseReasonId":null,
+            "PostId":"86643",
+            "PostHistoryTypeId":"1",
+            "Id":"284871",
+            "Text":"How can i make samsung S5 to be shown as a drive when i connect it to my PC?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-03T16:43:02.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"89a83313-ebfa-4826-a8b5-5249f396bb18",
+            "UserId":"78754",
+            "CloseReasonId":null,
+            "PostId":"86643",
+            "PostHistoryTypeId":"3",
+            "Id":"284872",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-03T17:00:28.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"d27981b8-e265-450e-bcd2-4190f086bc1b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"86643",
+            "PostHistoryTypeId":"10",
+            "Id":"284883",
+            "Text":"{\"OriginalQuestionIds\":[22979],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

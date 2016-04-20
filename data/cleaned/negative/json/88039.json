@@ -1,0 +1,83 @@
+{
+    "Body":"I installed android lollipop from the factory images on googles website. I dont know if its supposed to be like this but i think not. I cant click on the options in the notifications be it to answer a call or reply to an SMS.I have to first swipe it right or left then go to the call or sms to continue.Any idea ?",
+    "ViewCount":"385",
+    "LastActivityDate":"2015-01-11T10:29:03.517",
+    "ClosedDate":"2015-01-15T11:43:25.887",
+    "Title":"Cant click on heads up notifications on Lollipop Nexus 5",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"80629",
+    "CreationDate":"2014-11-18T15:40:04.680",
+    "FavoriteCount":null,
+    "Id":"88039",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-18T15:40:04.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"49f544ca-7bbb-4c82-9044-6a00fefcabfb",
+            "UserId":"80629",
+            "CloseReasonId":null,
+            "PostId":"88039",
+            "PostHistoryTypeId":"2",
+            "Id":"289713",
+            "Text":"I installed android lollipop from the factory images on googles website. I dont know if its supposed to be like this but i think not. I cant click on the options in the notifications be it to answer a call or reply to an SMS.I have to first swipe it right or left then go to the call or sms to continue.Any idea ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-18T15:40:04.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"49f544ca-7bbb-4c82-9044-6a00fefcabfb",
+            "UserId":"80629",
+            "CloseReasonId":null,
+            "PostId":"88039",
+            "PostHistoryTypeId":"1",
+            "Id":"289714",
+            "Text":"Cant click on heads up notifications on Lollipop Nexus 5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-18T15:40:04.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"49f544ca-7bbb-4c82-9044-6a00fefcabfb",
+            "UserId":"80629",
+            "CloseReasonId":null,
+            "PostId":"88039",
+            "PostHistoryTypeId":"3",
+            "Id":"289715",
+            "Text":""
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-11T18:47:10.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"89fb6b08-4ef6-44ef-bc1a-d7ee288d02c5",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"88039",
+            "PostHistoryTypeId":"19",
+            "Id":"311171",
+            "Text":"{\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\"}]}"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-15T11:43:25.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b746fc0-c999-4c3e-be2b-784415ba9a62",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"88039",
+            "PostHistoryTypeId":"10",
+            "Id":"312321",
+            "Text":"{\"OriginalQuestionIds\":[92281],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

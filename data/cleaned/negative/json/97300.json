@@ -1,0 +1,71 @@
+{
+    "Body":"Is there any way (command\/option) to power-off the device using adb command?",
+    "ViewCount":"29",
+    "LastActivityDate":"2015-01-30T06:53:44.260",
+    "ClosedDate":"2015-01-30T19:46:31.970",
+    "Title":"Is it possible to power off the device using adb?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91819",
+    "CreationDate":"2015-01-30T03:57:22.133",
+    "FavoriteCount":null,
+    "Id":"97300",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T03:57:22.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"d32357e8-9838-4e1f-954a-4fbcb41b2679",
+            "UserId":"91819",
+            "CloseReasonId":null,
+            "PostId":"97300",
+            "PostHistoryTypeId":"2",
+            "Id":"317278",
+            "Text":"Is there any way (command\/option) to power-off the device using `adb` command?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T03:57:22.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"d32357e8-9838-4e1f-954a-4fbcb41b2679",
+            "UserId":"91819",
+            "CloseReasonId":null,
+            "PostId":"97300",
+            "PostHistoryTypeId":"1",
+            "Id":"317279",
+            "Text":"Is it possible to power off the device using adb?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-30T03:57:22.133",
+            "UserDisplayName":null,
+            "RevisionGUID":"d32357e8-9838-4e1f-954a-4fbcb41b2679",
+            "UserId":"91819",
+            "CloseReasonId":null,
+            "PostId":"97300",
+            "PostHistoryTypeId":"3",
+            "Id":"317280",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-30T19:46:31.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"184b7feb-21aa-4bdb-98ab-4c1e6b11073f",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"97300",
+            "PostHistoryTypeId":"10",
+            "Id":"317600",
+            "Text":"{\"OriginalQuestionIds\":[47989],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

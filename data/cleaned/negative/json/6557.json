@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I be informed through my computer if a new SMS is received?  I have the LG Optimus One p500. It comes with LG PC Suite IV which is great.It allows me to download my sms messages to\/from the computer fine.However I must manually check if there are new messages.Is there any program (for windows) which can listen for sms messages in android and download them to the computer automatically then alert you?",
+    "ViewCount":"763",
+    "LastActivityDate":"2011-03-03T00:27:50.110",
+    "ClosedDate":"2011-08-22T12:41:12.547",
+    "Title":"Messages on computer?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3032",
+    "CreationDate":"2011-03-02T20:38:09.853",
+    "FavoriteCount":null,
+    "Id":"6557",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-02T20:38:09.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"fadc001d-132c-4431-a05d-bba0026ad451",
+            "UserId":"3032",
+            "CloseReasonId":null,
+            "PostId":"6557",
+            "PostHistoryTypeId":"2",
+            "Id":"14946",
+            "Text":"I have the [LG Optimus One p500][1]. It comes with LG PC Suite IV which is great.It allows me to download my sms messages to\/from the computer fine.However I must manually check if there are new messages.Is there any program (for windows) which can listen for sms messages in android and download them to the computer automatically then alert you?  [1]: http:\/\/www.lg.com\/uk\/mobile-phones\/mobile-phones\/LG-android-mobile-phone-P500.jsp"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-02T20:38:09.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"fadc001d-132c-4431-a05d-bba0026ad451",
+            "UserId":"3032",
+            "CloseReasonId":null,
+            "PostId":"6557",
+            "PostHistoryTypeId":"1",
+            "Id":"14947",
+            "Text":"Messages on computer?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-02T20:38:09.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"fadc001d-132c-4431-a05d-bba0026ad451",
+            "UserId":"3032",
+            "CloseReasonId":null,
+            "PostId":"6557",
+            "PostHistoryTypeId":"3",
+            "Id":"14948",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-08-22T12:41:12.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f3fcd66-ba42-4094-93c4-902f81b65d67",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"6557",
+            "PostHistoryTypeId":"5",
+            "Id":"32617",
+            "Text":"> **Possible Duplicate:**  > [How can I be informed through my computer if a new SMS is received?](http:\/\/android.stackexchange.com\/questions\/4738\/how-can-i-be-informed-through-my-computer-if-a-new-sms-is-received)  I have the [LG Optimus One p500][1]. It comes with LG PC Suite IV which is great.It allows me to download my sms messages to\/from the computer fine.However I must manually check if there are new messages.Is there any program (for windows) which can listen for sms messages in android and download them to the computer automatically then alert you?  [1]: http:\/\/www.lg.com\/uk\/mobile-phones\/mobile-phones\/LG-android-mobile-phone-P500.jsp"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-08-22T12:41:12.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"5fbd7c85-69cc-40ac-a6c8-0e7610b38b15",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"6557",
+            "PostHistoryTypeId":"10",
+            "Id":"32618",
+            "Text":"{\"OriginalQuestionIds\":[4738],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

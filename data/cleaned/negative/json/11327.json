@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I fix the GPS on my Samsung Galaxy S?  Whenever I try to use the \"Navigation\" app, I'm lucky if it takes less than 15 minutes to finish \"Searching for GPS\" (that is, if it finds it at all). The Magellan and Garmin GPS systems in my cars, however, find it nearly instantly. What makes my phone different, and is it something I can fix?",
+    "ViewCount":"100",
+    "LastActivityDate":"2011-07-09T16:29:48.650",
+    "ClosedDate":"2011-09-08T00:09:02.067",
+    "Title":"Why does my phone (Samsung Fascinate) have so much trouble \"Searching for GPS\"?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1829",
+    "CreationDate":"2011-07-09T16:29:48.650",
+    "FavoriteCount":"1",
+    "Id":"11327",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-09T16:29:48.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"a64a054d-2625-43fc-8043-31964db079b8",
+            "UserId":"1829",
+            "CloseReasonId":null,
+            "PostId":"11327",
+            "PostHistoryTypeId":"2",
+            "Id":"28262",
+            "Text":"Whenever I try to use the \"Navigation\" app, I'm lucky if it takes less than 15 minutes to finish \"Searching for GPS\" (that is, if it finds it at all). The Magellan and Garmin GPS systems in my cars, however, find it nearly instantly. What makes my phone different, and is it something I can fix?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-09T16:29:48.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"a64a054d-2625-43fc-8043-31964db079b8",
+            "UserId":"1829",
+            "CloseReasonId":null,
+            "PostId":"11327",
+            "PostHistoryTypeId":"1",
+            "Id":"28263",
+            "Text":"Why does my phone (Samsung Fascinate) have so much trouble \"Searching for GPS\"?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-09T16:29:48.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"a64a054d-2625-43fc-8043-31964db079b8",
+            "UserId":"1829",
+            "CloseReasonId":null,
+            "PostId":"11327",
+            "PostHistoryTypeId":"3",
+            "Id":"28264",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-09-08T00:09:02.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0176391-db0f-435d-a3b4-008bad3831b2",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"11327",
+            "PostHistoryTypeId":"5",
+            "Id":"34313",
+            "Text":"> **Possible Duplicate:**  > [How can I fix the GPS on my Samsung Galaxy S?](http:\/\/android.stackexchange.com\/questions\/6981\/how-can-i-fix-the-gps-on-my-samsung-galaxy-s)  Whenever I try to use the \"Navigation\" app, I'm lucky if it takes less than 15 minutes to finish \"Searching for GPS\" (that is, if it finds it at all). The Magellan and Garmin GPS systems in my cars, however, find it nearly instantly. What makes my phone different, and is it something I can fix?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-09-08T00:09:02.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"f0658012-18f7-4392-8599-137cb46a8d67",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"11327",
+            "PostHistoryTypeId":"10",
+            "Id":"34314",
+            "Text":"{\"OriginalQuestionIds\":[6981],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Is there an app to hash all files inside a folder? I'd like to have a text list like the one you get if you go into a directory in Linux and executesha256sum *I always use sha256, but here I don't really care as long as it's a standard hash algorithm. md5 is perfectly fine.",
+    "ViewCount":"46",
+    "LastActivityDate":"2015-10-16T17:19:33.020",
+    "ClosedDate":"2015-10-22T20:37:01.707",
+    "Title":"Hash All Files in a Folder",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"126129",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"96246",
+    "CreationDate":"2015-10-16T15:26:52.257",
+    "FavoriteCount":null,
+    "Id":"126128",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-16T15:26:52.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"e82ad8f1-f59e-4a5d-bf6a-33f19698ce56",
+            "UserId":"96246",
+            "CloseReasonId":null,
+            "PostId":"126128",
+            "PostHistoryTypeId":"2",
+            "Id":"413653",
+            "Text":"Is there an app to hash all files inside a folder? I'd like to have a text list like the one you get if you go into a directory in Linux and execute    sha256sum *I always use sha256, but here I don't really care as long as it's a standard hash algorithm. md5 is perfectly fine."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-16T15:26:52.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"e82ad8f1-f59e-4a5d-bf6a-33f19698ce56",
+            "UserId":"96246",
+            "CloseReasonId":null,
+            "PostId":"126128",
+            "PostHistoryTypeId":"1",
+            "Id":"413654",
+            "Text":"Hash All Files in a Folder"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-16T15:26:52.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"e82ad8f1-f59e-4a5d-bf6a-33f19698ce56",
+            "UserId":"96246",
+            "CloseReasonId":null,
+            "PostId":"126128",
+            "PostHistoryTypeId":"3",
+            "Id":"413655",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-10-22T20:37:01.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"88887a58-8ca4-45dc-b909-b38fca4a7321",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"126128",
+            "PostHistoryTypeId":"10",
+            "Id":"416096",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I FLASHED CM 13 ON MY x t 1033 moto g.after few boots i got stuck at bootanimation and can't enter custom recovery",
+    "ViewCount":"25",
+    "LastActivityDate":"2016-03-02T06:17:30.830",
+    "ClosedDate":"2016-03-02T21:45:28.777",
+    "Title":"xt1033 moto g got stuck at bootanimation and cant enter custom recovery",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154157",
+    "CreationDate":"2016-03-02T06:17:30.830",
+    "FavoriteCount":null,
+    "Id":"138593",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T06:17:30.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"54d58db1-c2b2-442f-9ddd-43a838befc78",
+            "UserId":"154157",
+            "CloseReasonId":null,
+            "PostId":"138593",
+            "PostHistoryTypeId":"2",
+            "Id":"463203",
+            "Text":"I FLASHED CM 13 ON MY x t 1033 moto g.after few boots i got stuck at bootanimation and can't enter custom recovery"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T06:17:30.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"54d58db1-c2b2-442f-9ddd-43a838befc78",
+            "UserId":"154157",
+            "CloseReasonId":null,
+            "PostId":"138593",
+            "PostHistoryTypeId":"1",
+            "Id":"463204",
+            "Text":"xt1033 moto g got stuck at bootanimation and cant enter custom recovery"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T06:17:30.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"54d58db1-c2b2-442f-9ddd-43a838befc78",
+            "UserId":"154157",
+            "CloseReasonId":null,
+            "PostId":"138593",
+            "PostHistoryTypeId":"3",
+            "Id":"463205",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-02T21:45:28.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"c8c16d2b-9729-48db-be3c-d3941c4a910a",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138593",
+            "PostHistoryTypeId":"10",
+            "Id":"463481",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

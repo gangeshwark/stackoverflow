@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Word Lens Alternative\/Port for Android  Basically, I'm interested whether there is an Android app that does what Word Lens does for the iPhone.",
+    "ViewCount":"1291",
+    "LastActivityDate":"2010-12-18T13:16:28.370",
+    "ClosedDate":"2010-12-18T15:39:07.933",
+    "Title":"App that translate text from your camera?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"503",
+    "CreationDate":"2010-12-18T13:16:28.370",
+    "FavoriteCount":null,
+    "Id":"3810",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-18T13:16:28.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a1bfb31-e5b4-43ab-914f-90b003f5074a",
+            "UserId":"503",
+            "CloseReasonId":null,
+            "PostId":"3810",
+            "PostHistoryTypeId":"2",
+            "Id":"7860",
+            "Text":"Basically, I'm interested whether there is an Android app that does what [Word Lens][1] does for the iPhone.  [1]: http:\/\/lifehacker.com\/5714465\/word-lens-translates-any-text-your-camera-can-see-on-the-fly"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-18T13:16:28.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a1bfb31-e5b4-43ab-914f-90b003f5074a",
+            "UserId":"503",
+            "CloseReasonId":null,
+            "PostId":"3810",
+            "PostHistoryTypeId":"1",
+            "Id":"7861",
+            "Text":"App that translate text from your camera?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-18T13:16:28.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"4a1bfb31-e5b4-43ab-914f-90b003f5074a",
+            "UserId":"503",
+            "CloseReasonId":null,
+            "PostId":"3810",
+            "PostHistoryTypeId":"3",
+            "Id":"7862",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-18T15:39:07.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8aa93ab-e3da-4ac8-8fcd-3e7d5fee39b5",
+            "UserId":"137",
+            "CloseReasonId":null,
+            "PostId":"3810",
+            "PostHistoryTypeId":"10",
+            "Id":"7866",
+            "Text":"{\"OriginalQuestionIds\":[3799],\"Voters\":[{\"Id\":137,\"DisplayName\":\"Matt\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-18T15:39:08.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"89612142-fd63-4d46-aff4-1f70af712866",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"3810",
+            "PostHistoryTypeId":"5",
+            "Id":"7867",
+            "Text":"> **Possible Duplicate:**  > [Word Lens Alternative\/Port for Android](http:\/\/android.stackexchange.com\/questions\/3799\/word-lens-alternative-port-for-android)  Basically, I'm interested whether there is an Android app that does what [Word Lens][1] does for the iPhone.  [1]: http:\/\/lifehacker.com\/5714465\/word-lens-translates-any-text-your-camera-can-see-on-the-fly"
+        }
+    ]
+}

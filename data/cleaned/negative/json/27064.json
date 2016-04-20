@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where is \u201cStay Awake\u201d option in Ice Cream Sandwich on the Galaxy S3?  I used to have an HTC Evo Shift. If I plugged it into a power cord, the screen would stay on until I explicitly pushed the power button. Now, I have a Samsung Galaxy S III. The screen turns off after a certain timeout regardless of whether it is plugged in. There is an option to change the timeout, but I would rather not be switching it all the time based on whether I have it plugged in. Is there an option I am missing?",
+    "ViewCount":"1180",
+    "LastActivityDate":"2012-08-05T19:51:32.230",
+    "ClosedDate":"2012-08-06T03:37:24.613",
+    "Title":"Why does my screen still turn off while charging?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"27068",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17336",
+    "CreationDate":"2012-08-05T19:21:55.157",
+    "FavoriteCount":null,
+    "Id":"27064",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-05T19:21:55.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9e1caf7-aeda-48fe-ae7e-02bd07e33aef",
+            "UserId":"17336",
+            "CloseReasonId":null,
+            "PostId":"27064",
+            "PostHistoryTypeId":"2",
+            "Id":"78526",
+            "Text":"I used to have an HTC Evo Shift. If I plugged it into a power cord, the screen would stay on until I explicitly pushed the power button. Now, I have a Samsung Galaxy S III. The screen turns off after a certain timeout regardless of whether it is plugged in. There is an option to change the timeout, but I would rather not be switching it all the time based on whether I have it plugged in. Is there an option I am missing?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-05T19:21:55.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9e1caf7-aeda-48fe-ae7e-02bd07e33aef",
+            "UserId":"17336",
+            "CloseReasonId":null,
+            "PostId":"27064",
+            "PostHistoryTypeId":"1",
+            "Id":"78527",
+            "Text":"Why does my screen still turn off while charging?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-05T19:21:55.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9e1caf7-aeda-48fe-ae7e-02bd07e33aef",
+            "UserId":"17336",
+            "CloseReasonId":null,
+            "PostId":"27064",
+            "PostHistoryTypeId":"3",
+            "Id":"78528",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-06T03:37:24.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"5535f975-0847-48cf-9318-6f17bc0be412",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27064",
+            "PostHistoryTypeId":"5",
+            "Id":"78573",
+            "Text":"> **Possible Duplicate:**  > [Where is \u201cStay Awake\u201d option in Ice Cream Sandwich on the Galaxy S3?](http:\/\/android.stackexchange.com\/questions\/26001\/where-is-stay-awake-option-in-ice-cream-sandwich-on-the-galaxy-s3)  I used to have an HTC Evo Shift. If I plugged it into a power cord, the screen would stay on until I explicitly pushed the power button. Now, I have a Samsung Galaxy S III. The screen turns off after a certain timeout regardless of whether it is plugged in. There is an option to change the timeout, but I would rather not be switching it all the time based on whether I have it plugged in. Is there an option I am missing?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-06T03:37:24.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"fbac1f28-d0e4-4966-9e71-7d7ba83c624e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"27064",
+            "PostHistoryTypeId":"10",
+            "Id":"78574",
+            "Text":"{\"OriginalQuestionIds\":[26001],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

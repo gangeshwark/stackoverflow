@@ -1,0 +1,71 @@
+{
+    "Body":"I recently moved to another country and i would like to install bank appliation for my bank account in this country.however Play Store says i can't do that, because it's not available in my country (i guess it thinks i'm still in a previous country)how to 'switch' to actual region\/country ?",
+    "ViewCount":"18",
+    "LastActivityDate":"2015-04-20T12:49:29.997",
+    "ClosedDate":"2015-04-20T14:39:38.303",
+    "Title":"can't install app, because it's not supported in my country\/area",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"62053",
+    "CreationDate":"2015-04-20T12:49:29.997",
+    "FavoriteCount":null,
+    "Id":"106018",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-20T12:49:29.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ebc6988-192c-4827-9413-7783a2840c3e",
+            "UserId":"62053",
+            "CloseReasonId":null,
+            "PostId":"106018",
+            "PostHistoryTypeId":"2",
+            "Id":"346757",
+            "Text":"I recently moved to another country and i would like to install bank appliation for my bank account in this country.however Play Store says i can't do that, because it's not available in my country (i guess it thinks i'm still in a previous country)how to 'switch' to actual region\/country ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-20T12:49:29.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ebc6988-192c-4827-9413-7783a2840c3e",
+            "UserId":"62053",
+            "CloseReasonId":null,
+            "PostId":"106018",
+            "PostHistoryTypeId":"1",
+            "Id":"346758",
+            "Text":"can't install app, because it's not supported in my country\/area"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-20T12:49:29.997",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ebc6988-192c-4827-9413-7783a2840c3e",
+            "UserId":"62053",
+            "CloseReasonId":null,
+            "PostId":"106018",
+            "PostHistoryTypeId":"3",
+            "Id":"346759",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-20T14:39:38.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"16e95400-1f1e-4d5c-83aa-51d45d7f1d4d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"106018",
+            "PostHistoryTypeId":"10",
+            "Id":"346803",
+            "Text":"{\"OriginalQuestionIds\":[42347],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

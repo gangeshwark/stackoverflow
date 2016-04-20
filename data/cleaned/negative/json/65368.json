@@ -1,0 +1,71 @@
+{
+    "Body":"A user can download the android app from any where - Google play, Amazon app store, Opera app store, Samsung app store.. Some of the android apps can also be ported into other OS providing access to android apps, like Kindle Fire OS, Blackberry OS, Nokia X.Do install numbers seen in Google play developer statistics include installs from other app stores like amazon, opera, Samsung etc.,?How about android apps that can be installed non-android devices as stated above?",
+    "ViewCount":"112",
+    "LastActivityDate":"2014-03-13T10:53:52.740",
+    "ClosedDate":"2014-03-13T13:56:51.987",
+    "Title":"Installs for Google play & other app stores",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"56001",
+    "CreationDate":"2014-03-13T09:02:19.980",
+    "FavoriteCount":null,
+    "Id":"65368",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-13T09:02:19.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"1814e1f3-da09-4910-8d8f-12ab7b801db9",
+            "UserId":"56001",
+            "CloseReasonId":null,
+            "PostId":"65368",
+            "PostHistoryTypeId":"2",
+            "Id":"222553",
+            "Text":"A user can download the android app from any where - Google play, Amazon app store, Opera app store, Samsung app store.. Some of the android apps can also be ported into other OS providing access to android apps, like Kindle Fire OS, Blackberry OS, Nokia X.Do install numbers seen in Google play developer statistics include installs from other app stores like amazon, opera, Samsung etc.,?How about android apps that can be installed non-android devices as stated above?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-13T09:02:19.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"1814e1f3-da09-4910-8d8f-12ab7b801db9",
+            "UserId":"56001",
+            "CloseReasonId":null,
+            "PostId":"65368",
+            "PostHistoryTypeId":"1",
+            "Id":"222554",
+            "Text":"Installs for Google play & other app stores"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-13T09:02:19.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"1814e1f3-da09-4910-8d8f-12ab7b801db9",
+            "UserId":"56001",
+            "CloseReasonId":null,
+            "PostId":"65368",
+            "PostHistoryTypeId":"3",
+            "Id":"222555",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-03-13T13:56:51.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"2dfaf4af-74b1-47d0-8bbf-aab71d95ac95",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"65368",
+            "PostHistoryTypeId":"10",
+            "Id":"222611",
+            "Text":"{\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

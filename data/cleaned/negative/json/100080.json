@@ -1,0 +1,71 @@
+{
+    "Body":"I have a broken screen and a wireless mouse. Is there another way I can transfer my photos?",
+    "ViewCount":"58",
+    "LastActivityDate":"2015-02-17T17:25:30.847",
+    "ClosedDate":"2015-02-17T18:56:13.493",
+    "Title":"how can I transfer my photos from glaxaxy s4 to pc?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94762",
+    "CreationDate":"2015-02-17T17:17:29.953",
+    "FavoriteCount":null,
+    "Id":"100080",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T17:17:29.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ec7acdc-2ef1-4584-8999-7f7ab37cc791",
+            "UserId":"94762",
+            "CloseReasonId":null,
+            "PostId":"100080",
+            "PostHistoryTypeId":"2",
+            "Id":"324895",
+            "Text":"I have a broken screen and a wireless mouse. Is there another way I can transfer my photos?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T17:17:29.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ec7acdc-2ef1-4584-8999-7f7ab37cc791",
+            "UserId":"94762",
+            "CloseReasonId":null,
+            "PostId":"100080",
+            "PostHistoryTypeId":"1",
+            "Id":"324896",
+            "Text":"how can I transfer my photos from glaxaxy s4 to pc?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T17:17:29.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ec7acdc-2ef1-4584-8999-7f7ab37cc791",
+            "UserId":"94762",
+            "CloseReasonId":null,
+            "PostId":"100080",
+            "PostHistoryTypeId":"3",
+            "Id":"324897",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-17T18:56:13.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb02fa48-8279-40fa-8b86-7ae0dcca537d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"100080",
+            "PostHistoryTypeId":"10",
+            "Id":"324942",
+            "Text":"{\"OriginalQuestionIds\":[71754],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

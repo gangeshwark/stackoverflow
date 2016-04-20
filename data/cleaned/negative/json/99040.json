@@ -1,0 +1,83 @@
+{
+    "Body":"For some reason viber isn't showing any of the above statuses for one account, for everyone else on my contact list it seems to be working fine. I don't believe I've been blocked last message \"seen\" was not too long ago. It started doing this a couple of days ago, what could be causing this?",
+    "ViewCount":"20",
+    "LastActivityDate":"2015-02-17T07:21:49.617",
+    "ClosedDate":"2015-02-17T15:47:33.840",
+    "Title":"Viber not showing online, last seen, or offline status",
+    "LastEditorUserId":"94701",
+    "Tags":"",
+    "LastEditDate":"2015-02-17T07:21:49.617",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"94701",
+    "CreationDate":"2015-02-17T07:16:18.503",
+    "FavoriteCount":null,
+    "Id":"99040",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T07:16:18.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"62e50c36-ac07-4aa3-be91-06132d1f5fdd",
+            "UserId":"94701",
+            "CloseReasonId":null,
+            "PostId":"99040",
+            "PostHistoryTypeId":"2",
+            "Id":"323744",
+            "Text":"For some reason viber isn't showing any of the above statuses for one account, for everyone else on my contact list it seems to be working fine. I don't believe I've been blocked last message \"seen\" was not too long ago"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T07:16:18.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"62e50c36-ac07-4aa3-be91-06132d1f5fdd",
+            "UserId":"94701",
+            "CloseReasonId":null,
+            "PostId":"99040",
+            "PostHistoryTypeId":"1",
+            "Id":"323745",
+            "Text":"Viber not showing online, last seen, or offline status"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-17T07:16:18.503",
+            "UserDisplayName":null,
+            "RevisionGUID":"62e50c36-ac07-4aa3-be91-06132d1f5fdd",
+            "UserId":"94701",
+            "CloseReasonId":null,
+            "PostId":"99040",
+            "PostHistoryTypeId":"3",
+            "Id":"323746",
+            "Text":""
+        },
+        {
+            "Comment":"added 45 characters in body",
+            "CreationDate":"2015-02-17T07:21:49.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"589dd947-0893-4e14-bf9c-6f6a6fc4b243",
+            "UserId":"94701",
+            "CloseReasonId":null,
+            "PostId":"99040",
+            "PostHistoryTypeId":"5",
+            "Id":"323750",
+            "Text":"For some reason viber isn't showing any of the above statuses for one account, for everyone else on my contact list it seems to be working fine. I don't believe I've been blocked last message \"seen\" was not too long ago. It started doing this a couple of days ago, what could be causing this?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-17T15:47:33.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"bf116cf8-0ae5-42b4-bf95-469c1c7ead23",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"99040",
+            "PostHistoryTypeId":"10",
+            "Id":"324849",
+            "Text":"{\"OriginalQuestionIds\":[90298],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

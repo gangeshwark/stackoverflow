@@ -1,0 +1,83 @@
+{
+    "Body":"I'm looking for a definitive list of Android devices that officially support USB On-the-go (OTG) \/ USB Host (non-rooted).USB OTG\/USB Host means that they can be used in a similar way to a PC whereby USB devices can be attached to them for them to access. E.g. memory sticks and other USB storage (mass storage class).I am not looking for rooted devices (I know that such procedure can make a device support USB OTG\/USB Host if the hardware supports it). I am looking for official support, out-of-the box. Some devices may require adapter cables if necessary (i.e. micro USB to female USB socket).So far I know at least one device that supports USB OTG \/ USB host out-of-the-box (non rooted): The GoTab GBT740R 7\" Android 4 Ice Cream Sandwich tablet, costing just 100 pounds or less in UK! This device has a full size USB female socket to support USB OTG \/ USB Host. A friend owns one, his USB memory sticks work in this - we can browse to the USB stick contents using Astro File Manager App on the tablet. (By the way, I don't work for GoTab). This seems to be a feature-rich device though for the price point: microSD and HDMI also supported.Any more devices? usb.org doesn't seem to have a list, well I haven't found it yet, nor Wikipedia entries.",
+    "ViewCount":"17054",
+    "LastActivityDate":"2012-08-12T15:21:44.347",
+    "ClosedDate":"2012-08-12T16:58:02.650",
+    "Title":"Looking for list of USB OTG\/USB Host officially supported in Android devices (allow connect USB sticks, etc) NON-rooted",
+    "LastEditorUserId":"1071",
+    "Tags":"",
+    "LastEditDate":"2012-07-22T21:46:25.517",
+    "CommentCount":"9",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"26309",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1071",
+    "CreationDate":"2012-07-22T21:25:21.610",
+    "FavoriteCount":null,
+    "Id":"26286",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-22T21:25:21.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d0a2738-6059-4a07-8554-687055157a4d",
+            "UserId":"1071",
+            "CloseReasonId":null,
+            "PostId":"26286",
+            "PostHistoryTypeId":"2",
+            "Id":"76083",
+            "Text":"I'm looking for a definitive list of Android devices that officially support USB On-the-go (OTG) \/ USB Host (non-rooted).USB OTG\/USB Host means that they can be used in a similar way to a PC whereby USB devices can be attached to them for them to access. E.g. memory sticks and other USB storage (mass storage class).I am not looking for rooted devices (I know that such procedure can make a device support USB OTG\/USB Host if the hardware supports it). I am looking for official support, out-of-the box. Some devices may require adapter cables if necessary (i.e. micro USB to female USB socket).So far I know at least one device that supports USB OTG \/ USB host out-of-the-box (non rooted): The GoTab GTB740R 7\" Android 4 Ice Cream Sandwich tablet, costing just 100 pounds or less in UK! This device has a full size USB female socket to support USB OTG \/ USB Host. A friend owns one, his USB memory sticks work in this - we can browse to the USB stick contents using Astro File Manager App on the tablet. (By the way, I don't work for GoTab). This seems to be a feature-rich device though for the price point: microSD and HDMI also supported.Any more devices? usb.org doesn't seem to have a list, well I haven't found it yet, nor Wikipedia entries."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-22T21:25:21.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d0a2738-6059-4a07-8554-687055157a4d",
+            "UserId":"1071",
+            "CloseReasonId":null,
+            "PostId":"26286",
+            "PostHistoryTypeId":"1",
+            "Id":"76084",
+            "Text":"Looking for list of USB OTG\/USB Host officially supported in Android devices (allow connect USB sticks, etc) NON-rooted"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-22T21:25:21.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d0a2738-6059-4a07-8554-687055157a4d",
+            "UserId":"1071",
+            "CloseReasonId":null,
+            "PostId":"26286",
+            "PostHistoryTypeId":"3",
+            "Id":"76085",
+            "Text":""
+        },
+        {
+            "Comment":"GBT740R not GTB740R",
+            "CreationDate":"2012-07-22T21:46:25.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"67c5e68e-7cf6-4c99-bd1d-cd1809c442aa",
+            "UserId":"1071",
+            "CloseReasonId":null,
+            "PostId":"26286",
+            "PostHistoryTypeId":"5",
+            "Id":"76087",
+            "Text":"I'm looking for a definitive list of Android devices that officially support USB On-the-go (OTG) \/ USB Host (non-rooted).USB OTG\/USB Host means that they can be used in a similar way to a PC whereby USB devices can be attached to them for them to access. E.g. memory sticks and other USB storage (mass storage class).I am not looking for rooted devices (I know that such procedure can make a device support USB OTG\/USB Host if the hardware supports it). I am looking for official support, out-of-the box. Some devices may require adapter cables if necessary (i.e. micro USB to female USB socket).So far I know at least one device that supports USB OTG \/ USB host out-of-the-box (non rooted): The GoTab GBT740R 7\" Android 4 Ice Cream Sandwich tablet, costing just 100 pounds or less in UK! This device has a full size USB female socket to support USB OTG \/ USB Host. A friend owns one, his USB memory sticks work in this - we can browse to the USB stick contents using Astro File Manager App on the tablet. (By the way, I don't work for GoTab). This seems to be a feature-rich device though for the price point: microSD and HDMI also supported.Any more devices? usb.org doesn't seem to have a list, well I haven't found it yet, nor Wikipedia entries."
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-08-12T16:58:02.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c16e316-c113-498d-8647-679d586698a2",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"26286",
+            "PostHistoryTypeId":"10",
+            "Id":"79749",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

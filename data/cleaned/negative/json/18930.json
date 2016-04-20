@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I make my phone\/tablet ring remotely without a SIM card?  There are many Android devices in our office which we use for application development and QA.  Finding a particular device is sometimes necessary, but requires walking around asking who has it.Is there some way to track where a particular device might be in an office environment?  Either an app on the device or some way to listen on the computer it was most recently plugged in to (via ADB), for example.  Hopefully something with minimal user interaction, otherwise nobody would ever actually do it.I haven't tried anything specific yet.  Just looking for ideas on which way to go.  I'm pretty sure GPS is not nearly accurate enough for such a setting, and that's the only real idea I've had.",
+    "ViewCount":"127",
+    "LastActivityDate":"2012-01-31T18:03:18.507",
+    "ClosedDate":"2012-08-23T08:53:43.357",
+    "Title":"How to track device locations in an office",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"18933",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12088",
+    "CreationDate":"2012-01-31T15:54:42.753",
+    "FavoriteCount":null,
+    "Id":"18930",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-31T15:54:42.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"401b6184-66b4-4c09-b13a-30c944519fe4",
+            "UserId":"12088",
+            "CloseReasonId":null,
+            "PostId":"18930",
+            "PostHistoryTypeId":"2",
+            "Id":"52199",
+            "Text":"There are many Android devices in our office which we use for application development and QA.  Finding a particular device is sometimes necessary, but requires walking around asking who has it.Is there some way to track where a particular device might be in an office environment?  Either an app on the device or some way to listen on the computer it was most recently plugged in to (via ADB), for example.  Hopefully something with minimal user interaction, otherwise nobody would ever actually do it.I haven't tried anything specific yet.  Just looking for ideas on which way to go.  I'm pretty sure GPS is not nearly accurate enough for such a setting, and that's the only real idea I've had."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-31T15:54:42.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"401b6184-66b4-4c09-b13a-30c944519fe4",
+            "UserId":"12088",
+            "CloseReasonId":null,
+            "PostId":"18930",
+            "PostHistoryTypeId":"1",
+            "Id":"52200",
+            "Text":"How to track device locations in an office"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-31T15:54:42.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"401b6184-66b4-4c09-b13a-30c944519fe4",
+            "UserId":"12088",
+            "CloseReasonId":null,
+            "PostId":"18930",
+            "PostHistoryTypeId":"3",
+            "Id":"52201",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-23T08:53:43.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e07bce4-03a3-4486-b360-b65d6b5ee97e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18930",
+            "PostHistoryTypeId":"5",
+            "Id":"82124",
+            "Text":"> **Possible Duplicate:**  > [How can I make my phone\/tablet ring remotely without a SIM card?](http:\/\/android.stackexchange.com\/questions\/18812\/how-can-i-make-my-phone-tablet-ring-remotely-without-a-sim-card)  There are many Android devices in our office which we use for application development and QA.  Finding a particular device is sometimes necessary, but requires walking around asking who has it.Is there some way to track where a particular device might be in an office environment?  Either an app on the device or some way to listen on the computer it was most recently plugged in to (via ADB), for example.  Hopefully something with minimal user interaction, otherwise nobody would ever actually do it.I haven't tried anything specific yet.  Just looking for ideas on which way to go.  I'm pretty sure GPS is not nearly accurate enough for such a setting, and that's the only real idea I've had."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-23T08:53:43.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"9936b6bd-1f5d-4938-835e-cb65ae9a8e18",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18930",
+            "PostHistoryTypeId":"10",
+            "Id":"82125",
+            "Text":"{\"OriginalQuestionIds\":[18812],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Nexus 4 took a dive in the ocean (salt water) and now it is resting in a rice bowl. While we all hope for a seamless recovery, I understand all the corrosion niceties salt water brings to the party.However, the phone has unsynced pictures\/videos that I'd like to retrieve.Connecting it via adb\/usb\/otherb is not an option of course, since it does not turn on.Is there a more intrusive\/surgical way to get to the data? I don't mind soldering that storage out and connecting it to something that can read it.",
+    "ViewCount":"283",
+    "LastActivityDate":"2013-08-26T14:03:58.287",
+    "ClosedDate":"2013-08-26T19:19:50.620",
+    "Title":"Nexus 4: Is there a \"surgical\" way to retrieve data from storage?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26796",
+    "CreationDate":"2013-08-26T14:03:58.287",
+    "FavoriteCount":null,
+    "Id":"52041",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-26T14:03:58.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"de7bae87-d807-4a19-a9d6-7faa610f6454",
+            "UserId":"26796",
+            "CloseReasonId":null,
+            "PostId":"52041",
+            "PostHistoryTypeId":"2",
+            "Id":"171006",
+            "Text":"Nexus 4 took a dive in the ocean ([salt water][1]) and now it is resting in a rice bowl. While we all hope for a seamless recovery, I understand all the corrosion niceties salt water brings to the party. However, the phone has unsynced pictures\/videos that I'd like to retrieve. Connecting it via adb\/usb\/otherb is not an option of course, since it does not turn on. Is there a more intrusive\/surgical way to get to the data? I don't mind soldering that storage out and connecting it to something that can read it.  [1]: http:\/\/android.stackexchange.com\/questions\/24436\/my-android-device-has-been-splashed-soaked-by-sea-water"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-26T14:03:58.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"de7bae87-d807-4a19-a9d6-7faa610f6454",
+            "UserId":"26796",
+            "CloseReasonId":null,
+            "PostId":"52041",
+            "PostHistoryTypeId":"1",
+            "Id":"171007",
+            "Text":"Nexus 4: Is there a \"surgical\" way to retrieve data from storage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-26T14:03:58.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"de7bae87-d807-4a19-a9d6-7faa610f6454",
+            "UserId":"26796",
+            "CloseReasonId":null,
+            "PostId":"52041",
+            "PostHistoryTypeId":"3",
+            "Id":"171008",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/372014379480678400",
+            "CreationDate":"2013-08-26T15:15:14.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"9b8ee715-085e-42ff-8a56-eec6c21b61f3",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"52041",
+            "PostHistoryTypeId":"25",
+            "Id":"171021",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-08-26T19:19:50.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c710217-2d7e-4944-9b82-86d4d4d4665b",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"52041",
+            "PostHistoryTypeId":"10",
+            "Id":"171065",
+            "Text":"{\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I get apps from the Amazon app store from an unsupported region?  I followed a tutorial that would allow me to access the amazon android app store.  When I filled everything out, (account, address, one-click, etc.) it still won't allow me to download, saying that it isn't in my region.I used this tutorial.  What's the problem?",
+    "ViewCount":"70",
+    "LastActivityDate":"2012-04-26T19:07:45.363",
+    "ClosedDate":"2012-04-27T04:16:14.950",
+    "Title":"Amazon Android App Store International",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14412",
+    "CreationDate":"2012-04-26T17:42:27.950",
+    "FavoriteCount":null,
+    "Id":"22357",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-26T17:42:27.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"19e22aea-f512-41d4-b306-4792002d8045",
+            "UserId":"14412",
+            "CloseReasonId":null,
+            "PostId":"22357",
+            "PostHistoryTypeId":"2",
+            "Id":"63068",
+            "Text":"I followed a tutorial that would allow me to access the amazon android app store.  When I filled everything out, (account, address, one-click, etc.) it still won't allow me to download, saying that it isn't in my region.I used this [tutorial][1].  What's the problem?  [1]: http:\/\/abtevrythng.blogspot.com\/2011\/03\/how-to-use-amazon-app-store-outside-us.html"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-26T17:42:27.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"19e22aea-f512-41d4-b306-4792002d8045",
+            "UserId":"14412",
+            "CloseReasonId":null,
+            "PostId":"22357",
+            "PostHistoryTypeId":"1",
+            "Id":"63069",
+            "Text":"Amazon Android App Store International"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-26T17:42:27.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"19e22aea-f512-41d4-b306-4792002d8045",
+            "UserId":"14412",
+            "CloseReasonId":null,
+            "PostId":"22357",
+            "PostHistoryTypeId":"3",
+            "Id":"63070",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-04-27T04:16:15.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"2f410972-2a61-4309-b0ba-1129d946d7d4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"22357",
+            "PostHistoryTypeId":"5",
+            "Id":"63181",
+            "Text":"> **Possible Duplicate:**  > [How can I get apps from the Amazon app store from an unsupported region?](http:\/\/android.stackexchange.com\/questions\/7254\/how-can-i-get-apps-from-the-amazon-app-store-from-an-unsupported-region)  I followed a tutorial that would allow me to access the amazon android app store.  When I filled everything out, (account, address, one-click, etc.) it still won't allow me to download, saying that it isn't in my region.I used this [tutorial][1].  What's the problem?  [1]: http:\/\/abtevrythng.blogspot.com\/2011\/03\/how-to-use-amazon-app-store-outside-us.html"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-04-27T04:16:14.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd3d129e-ceb1-462d-aec1-7c789b8ce2d6",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"22357",
+            "PostHistoryTypeId":"10",
+            "Id":"63182",
+            "Text":"{\"OriginalQuestionIds\":[7254],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

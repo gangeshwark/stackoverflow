@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Will factory resetting my device remove the Android upgrade?  I upgraded my Galaxy 551 from 1.6 to 2.2 Android version some time ago with Samsung Kies, now I want to make a factory reset due to reset all of my settings and give the phone to my mother. I'm wondering about wich version the factory reset will bring to me. It is the factory version (1.6) or the upgraded version (2.1)?",
+    "ViewCount":"1149",
+    "LastActivityDate":"2012-11-22T17:48:00.930",
+    "ClosedDate":"2012-12-02T04:57:28.980",
+    "Title":"Upgraded my phone from 1.6 to 2.2 Android version, if I restore \"Factory Settings\", which version it will be?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"33902",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5208",
+    "CreationDate":"2012-11-22T17:34:02.527",
+    "FavoriteCount":"0",
+    "Id":"33901",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T17:34:02.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"e1837355-7f11-4b56-9bbd-526b7d851a50",
+            "UserId":"5208",
+            "CloseReasonId":null,
+            "PostId":"33901",
+            "PostHistoryTypeId":"2",
+            "Id":"100537",
+            "Text":"I upgraded my Galaxy 551 from 1.6 to 2.2 Android version some time ago with Samsung Kies, now I want to make a factory reset due to reset all of my settings and give the phone to my mother. I'm wondering about wich version the factory reset will bring to me. It is the factory version (1.6) or the upgraded version (2.1)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T17:34:02.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"e1837355-7f11-4b56-9bbd-526b7d851a50",
+            "UserId":"5208",
+            "CloseReasonId":null,
+            "PostId":"33901",
+            "PostHistoryTypeId":"1",
+            "Id":"100538",
+            "Text":"Upgraded my phone from 1.6 to 2.2 Android version, if I restore \"Factory Settings\", which version it will be?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T17:34:02.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"e1837355-7f11-4b56-9bbd-526b7d851a50",
+            "UserId":"5208",
+            "CloseReasonId":null,
+            "PostId":"33901",
+            "PostHistoryTypeId":"3",
+            "Id":"100539",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-12-02T04:57:28.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"12011302-98bb-4ce2-9d6c-9742a176c9af",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33901",
+            "PostHistoryTypeId":"5",
+            "Id":"102869",
+            "Text":"> **Possible Duplicate:**  > [Will factory resetting my device remove the Android upgrade?](http:\/\/android.stackexchange.com\/questions\/12626\/will-factory-resetting-my-device-remove-the-android-upgrade)  I upgraded my Galaxy 551 from 1.6 to 2.2 Android version some time ago with Samsung Kies, now I want to make a factory reset due to reset all of my settings and give the phone to my mother. I'm wondering about wich version the factory reset will bring to me. It is the factory version (1.6) or the upgraded version (2.1)?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-12-02T04:57:28.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"295d4e3e-f650-41c8-984f-9bb0bc2818a6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"33901",
+            "PostHistoryTypeId":"10",
+            "Id":"102870",
+            "Text":"{\"OriginalQuestionIds\":[12626],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

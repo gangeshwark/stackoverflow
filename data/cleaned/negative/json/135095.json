@@ -1,0 +1,71 @@
+{
+    "Body":"I'd like to reduce the number of steps needed to turn mobile hotspot on or off. Currently it's unlock, then five taps.Galaxy Note 4, Android 5.0.1 Lollipop.I did find this question, but it's from 2012 and a lot has changed since then probably.",
+    "ViewCount":"50",
+    "LastActivityDate":"2016-01-23T19:49:22.480",
+    "ClosedDate":"2016-01-23T20:40:13.660",
+    "Title":"Is there a more efficient way to turn mobile hotspot on \/ off?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"49887",
+    "CreationDate":"2016-01-23T18:47:15.537",
+    "FavoriteCount":null,
+    "Id":"135095",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-23T18:47:15.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d2667ec-669f-40dd-8291-3fe718527ea8",
+            "UserId":"49887",
+            "CloseReasonId":null,
+            "PostId":"135095",
+            "PostHistoryTypeId":"2",
+            "Id":"448997",
+            "Text":"I'd like to reduce the number of steps needed to turn mobile hotspot on or off. Currently it's unlock, then five taps.Galaxy Note 4, Android 5.0.1 Lollipop.I did find [this question][1], but it's from 2012 and a lot has changed since then probably.  [1]: http:\/\/android.stackexchange.com\/questions\/27803\/is-there-a-quicker-way-to-turn-on-wifi-hotspot"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-23T18:47:15.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d2667ec-669f-40dd-8291-3fe718527ea8",
+            "UserId":"49887",
+            "CloseReasonId":null,
+            "PostId":"135095",
+            "PostHistoryTypeId":"1",
+            "Id":"448998",
+            "Text":"Is there a more efficient way to turn mobile hotspot on \/ off?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-01-23T18:47:15.537",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d2667ec-669f-40dd-8291-3fe718527ea8",
+            "UserId":"49887",
+            "CloseReasonId":null,
+            "PostId":"135095",
+            "PostHistoryTypeId":"3",
+            "Id":"448999",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-01-23T20:40:13.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"d61d590f-ed6d-47d3-a29b-55bd6dd35fde",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"135095",
+            "PostHistoryTypeId":"10",
+            "Id":"449052",
+            "Text":"{\"OriginalQuestionIds\":[27803],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

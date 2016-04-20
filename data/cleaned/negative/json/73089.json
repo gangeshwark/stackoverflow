@@ -1,0 +1,71 @@
+{
+    "Body":"I get spam texts from a certain number (five digit number). Does anyone know how to block texts from specified numbers? I am on a nexus 5 android 4.4.3.",
+    "ViewCount":"2720",
+    "LastActivityDate":"2014-06-13T14:38:05.343",
+    "ClosedDate":"2014-06-13T16:27:36.737",
+    "Title":"How to block texts from certain number",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"63551",
+    "CreationDate":"2014-06-12T22:11:44.633",
+    "FavoriteCount":null,
+    "Id":"73089",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-12T22:11:44.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"a57aa9b3-b0f8-499d-9e14-d7fc1b0f1bbc",
+            "UserId":"63551",
+            "CloseReasonId":null,
+            "PostId":"73089",
+            "PostHistoryTypeId":"2",
+            "Id":"244916",
+            "Text":"I get spam texts from a certain number (five digit number). Does anyone know how to block texts from specified numbers? I am on a nexus 5 android 4.4.3."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-12T22:11:44.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"a57aa9b3-b0f8-499d-9e14-d7fc1b0f1bbc",
+            "UserId":"63551",
+            "CloseReasonId":null,
+            "PostId":"73089",
+            "PostHistoryTypeId":"1",
+            "Id":"244917",
+            "Text":"How to block texts from certain number"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-12T22:11:44.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"a57aa9b3-b0f8-499d-9e14-d7fc1b0f1bbc",
+            "UserId":"63551",
+            "CloseReasonId":null,
+            "PostId":"73089",
+            "PostHistoryTypeId":"3",
+            "Id":"244918",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-13T16:27:36.737",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9ccf5e2-2bdc-4a9c-b6e8-f1675f1d0c76",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"73089",
+            "PostHistoryTypeId":"10",
+            "Id":"245106",
+            "Text":"{\"OriginalQuestionIds\":[2198],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

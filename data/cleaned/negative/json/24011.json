@@ -1,0 +1,83 @@
+{
+    "Body":"I have Facebook, Facebook messanger and Skype Installed. Also, I've connected\/linked contacts manually across accounts.In the contacts I can only see Skype contacts online. Is there a way to see facebook's contacts also? I don't care if I have to install a third party app, so all suggestions are acceptable.",
+    "ViewCount":"73",
+    "LastActivityDate":"2012-06-09T18:34:12.883",
+    "ClosedDate":"2012-12-19T14:57:09.877",
+    "Title":"Online status for facebook contacts",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9833",
+    "CreationDate":"2012-06-09T18:34:12.883",
+    "FavoriteCount":null,
+    "Id":"24011",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-09T18:34:12.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1ca0d84-8523-4aa3-8411-38f38b21c463",
+            "UserId":"9833",
+            "CloseReasonId":null,
+            "PostId":"24011",
+            "PostHistoryTypeId":"2",
+            "Id":"68615",
+            "Text":"I have Facebook, Facebook messanger and Skype Installed. Also, I've connected\/linked contacts manually across accounts.In the contacts I can only see Skype contacts online. Is there a way to see facebook's contacts also? I don't care if I have to install a third party app, so all suggestions are acceptable."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-09T18:34:12.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1ca0d84-8523-4aa3-8411-38f38b21c463",
+            "UserId":"9833",
+            "CloseReasonId":null,
+            "PostId":"24011",
+            "PostHistoryTypeId":"1",
+            "Id":"68616",
+            "Text":"Online status for facebook contacts"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-06-09T18:34:12.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1ca0d84-8523-4aa3-8411-38f38b21c463",
+            "UserId":"9833",
+            "CloseReasonId":null,
+            "PostId":"24011",
+            "PostHistoryTypeId":"3",
+            "Id":"68617",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/211587161017942017",
+            "CreationDate":"2012-06-09T22:34:44.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5fa4142-7964-4b51-bae0-8036fb48a786",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"24011",
+            "PostHistoryTypeId":"25",
+            "Id":"68626",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T14:57:09.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb8e548d-e035-4f9e-89d3-8e245c775702",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"24011",
+            "PostHistoryTypeId":"10",
+            "Id":"107445",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

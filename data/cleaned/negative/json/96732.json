@@ -1,0 +1,71 @@
+{
+    "Body":"I am thinking of developing an application that turns the LED flash for the Android camera very fast on\/off, and I was wondering if anyone knows about hardware\/OS limitation specifications.The flash light software I've used so far on my Samsung GT s7580 seemed to have pretty big latency when I tried to switch on and off, and the application I want to make needs to keep the light open for a 10th of a second...Am I barking up the wrong tree? I am suspecting also that the camera flash LED will get used up, as well, any info regarding that would be nice.",
+    "ViewCount":"152",
+    "LastActivityDate":"2015-01-23T18:47:33.230",
+    "ClosedDate":"2015-01-27T07:26:38.590",
+    "Title":"How fast can a camera LED normally flash?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91334",
+    "CreationDate":"2015-01-23T18:47:33.230",
+    "FavoriteCount":"1",
+    "Id":"96732",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T18:47:33.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"f18656c0-f2c1-4fa3-8d88-4282b198d673",
+            "UserId":"91334",
+            "CloseReasonId":null,
+            "PostId":"96732",
+            "PostHistoryTypeId":"2",
+            "Id":"315234",
+            "Text":"I am thinking of developing an application that turns the LED flash for the Android camera very fast on\/off, and I was wondering if anyone knows about hardware\/OS limitation specifications.The flash light software I've used so far on my Samsung GT s7580 seemed to have pretty big latency when I tried to switch on and off, and the application I want to make needs to keep the light open for a 10th of a second...Am I barking up the wrong tree? I am suspecting also that the camera flash LED will get used up, as well, any info regarding that would be nice."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T18:47:33.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"f18656c0-f2c1-4fa3-8d88-4282b198d673",
+            "UserId":"91334",
+            "CloseReasonId":null,
+            "PostId":"96732",
+            "PostHistoryTypeId":"1",
+            "Id":"315235",
+            "Text":"How fast can a camera LED normally flash?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T18:47:33.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"f18656c0-f2c1-4fa3-8d88-4282b198d673",
+            "UserId":"91334",
+            "CloseReasonId":null,
+            "PostId":"96732",
+            "PostHistoryTypeId":"3",
+            "Id":"315236",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-01-27T07:26:38.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"b16356df-9db0-4439-816f-1ca95386f5a5",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"96732",
+            "PostHistoryTypeId":"10",
+            "Id":"316302",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Samsung Galaxy rush that I would like to tether. I assume that it does not support wireless tethering, but it should do wired. Will I need to root the device? How would I do that?",
+    "ViewCount":"739",
+    "LastActivityDate":"2013-05-22T20:19:25.350",
+    "ClosedDate":"2013-05-26T22:32:23.320",
+    "Title":"How can I get wired tethering on the Galaxy Rush to a WinXP?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20887",
+    "CreationDate":"2013-05-22T20:19:25.350",
+    "FavoriteCount":null,
+    "Id":"45921",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-22T20:19:25.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7d88927-a487-48ff-8a4b-bae8d2b627cf",
+            "UserId":"20887",
+            "CloseReasonId":null,
+            "PostId":"45921",
+            "PostHistoryTypeId":"2",
+            "Id":"148162",
+            "Text":"I have a Samsung Galaxy rush that I would like to tether. I assume that it does not support wireless tethering, but it should do wired. Will I need to root the device? How would I do that?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-22T20:19:25.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7d88927-a487-48ff-8a4b-bae8d2b627cf",
+            "UserId":"20887",
+            "CloseReasonId":null,
+            "PostId":"45921",
+            "PostHistoryTypeId":"1",
+            "Id":"148163",
+            "Text":"How can I get wired tethering on the Galaxy Rush to a WinXP?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-22T20:19:25.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"f7d88927-a487-48ff-8a4b-bae8d2b627cf",
+            "UserId":"20887",
+            "CloseReasonId":null,
+            "PostId":"45921",
+            "PostHistoryTypeId":"3",
+            "Id":"148164",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-26T22:32:23.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"36ca7c72-24a6-4747-ac44-40ee2510c01c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"45921",
+            "PostHistoryTypeId":"10",
+            "Id":"149045",
+            "Text":"{\"OriginalQuestionIds\":[2298,28536],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"}]}"
+        }
+    ]
+}

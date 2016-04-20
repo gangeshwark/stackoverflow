@@ -1,0 +1,71 @@
+{
+    "Body":"Is there any way to disable Lollipop's Guest account completely? I don't want the functionality at all because I don't need it, and I don't want someone to be able to create a Guest account on my device at all.So far, I haven't been able to find a preference for this.",
+    "ViewCount":"115",
+    "LastActivityDate":"2015-03-15T16:38:05.473",
+    "ClosedDate":"2015-08-19T21:45:43.943",
+    "Title":"Disabling the guest account completely",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86059",
+    "CreationDate":"2014-12-22T20:16:12.880",
+    "FavoriteCount":null,
+    "Id":"92467",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T20:16:12.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"357554df-bfbf-461b-98f0-265dba4b3795",
+            "UserId":"86059",
+            "CloseReasonId":null,
+            "PostId":"92467",
+            "PostHistoryTypeId":"2",
+            "Id":"303134",
+            "Text":"Is there any way to disable Lollipop's Guest account completely? I don't want the functionality at all because I don't need it, and I don't want someone to be able to create a Guest account on my device at all.So far, I haven't been able to find a preference for this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T20:16:12.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"357554df-bfbf-461b-98f0-265dba4b3795",
+            "UserId":"86059",
+            "CloseReasonId":null,
+            "PostId":"92467",
+            "PostHistoryTypeId":"1",
+            "Id":"303135",
+            "Text":"Disabling the guest account completely"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T20:16:12.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"357554df-bfbf-461b-98f0-265dba4b3795",
+            "UserId":"86059",
+            "CloseReasonId":null,
+            "PostId":"92467",
+            "PostHistoryTypeId":"3",
+            "Id":"303136",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-19T21:45:43.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"6776e5f8-55d4-4291-a9d4-77ed27b68870",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"92467",
+            "PostHistoryTypeId":"10",
+            "Id":"392402",
+            "Text":"{\"OriginalQuestionIds\":[102821],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

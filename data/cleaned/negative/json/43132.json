@@ -1,0 +1,71 @@
+{
+    "Body":"I want to install Chrome on my Kindle Fire HD.The APK file is available at third party sites but I don't know which are trustworthy.Any suggestions? (I'd love to download it from Google but don't see any download links from there).",
+    "ViewCount":"1675",
+    "LastActivityDate":"2014-02-01T00:14:16.543",
+    "ClosedDate":"2014-02-03T01:50:06.680",
+    "Title":"What reputable website can I download the Chrome APK from?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10645",
+    "CreationDate":"2013-04-05T23:16:23.847",
+    "FavoriteCount":null,
+    "Id":"43132",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-05T23:16:23.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"c58071ac-4d38-4dda-9bc1-603461ee8c33",
+            "UserId":"10645",
+            "CloseReasonId":null,
+            "PostId":"43132",
+            "PostHistoryTypeId":"2",
+            "Id":"137594",
+            "Text":"I want to [install Chrome on my Kindle Fire HD][1].The APK file is available at third party sites but I don't know which are trustworthy.Any suggestions? (I'd love to download it from Google but don't see any download links from there).  [1]: http:\/\/android.stackexchange.com\/q\/32488\/10645"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-05T23:16:23.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"c58071ac-4d38-4dda-9bc1-603461ee8c33",
+            "UserId":"10645",
+            "CloseReasonId":null,
+            "PostId":"43132",
+            "PostHistoryTypeId":"1",
+            "Id":"137595",
+            "Text":"What reputable website can I download the Chrome APK from?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-04-05T23:16:23.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"c58071ac-4d38-4dda-9bc1-603461ee8c33",
+            "UserId":"10645",
+            "CloseReasonId":null,
+            "PostId":"43132",
+            "PostHistoryTypeId":"3",
+            "Id":"137596",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-02-03T01:50:06.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d058481-95a6-47cd-8f03-551bf3d834d5",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"43132",
+            "PostHistoryTypeId":"10",
+            "Id":"212442",
+            "Text":"{\"Voters\":[{\"Id\":6052,\"DisplayName\":\"jlehenbauer\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

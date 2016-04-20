@@ -1,0 +1,71 @@
+{
+    "Body":"Do we have an app that takes a system image of an android phone, along with all it's apps so that we can restore the android device to that particular point whenever anything goes wrong instead of a complete hard factory reset?",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-04-21T14:11:09.913",
+    "ClosedDate":"2015-04-21T14:23:12.493",
+    "Title":"Is it possible to have a system image of an android phone and restore it to that point later?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16112",
+    "CreationDate":"2015-04-21T14:11:09.913",
+    "FavoriteCount":null,
+    "Id":"106136",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-21T14:11:09.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"4770eaed-af85-492d-a3b4-c892e5fb0129",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"106136",
+            "PostHistoryTypeId":"2",
+            "Id":"347181",
+            "Text":"Do we have an app that takes a system image of an android phone, along with all it's apps so that we can restore the android device to that particular point whenever anything goes wrong instead of a complete hard factory reset?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-21T14:11:09.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"4770eaed-af85-492d-a3b4-c892e5fb0129",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"106136",
+            "PostHistoryTypeId":"1",
+            "Id":"347182",
+            "Text":"Is it possible to have a system image of an android phone and restore it to that point later?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-21T14:11:09.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"4770eaed-af85-492d-a3b4-c892e5fb0129",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"106136",
+            "PostHistoryTypeId":"3",
+            "Id":"347183",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-21T14:23:12.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"f4da9bb6-811a-4cef-b9b2-a0fe148d9641",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"106136",
+            "PostHistoryTypeId":"10",
+            "Id":"347198",
+            "Text":"{\"OriginalQuestionIds\":[104852],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

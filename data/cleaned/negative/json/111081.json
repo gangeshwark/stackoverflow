@@ -1,0 +1,83 @@
+{
+    "Body":"The problem is that I can download some attachments, but some not. I usually cannot download zip attachments that are forwarded to me. I cleared cache and data of the Download Manager, but that didn't help. Any ideas?Edit: I use Gmail app for my business POP3 account.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-06-01T16:16:47.730",
+    "ClosedDate":"2015-06-01T16:56:23.830",
+    "Title":"Android Gmail app - can't download some attachments - Nexus 5",
+    "LastEditorUserId":"111014",
+    "Tags":"",
+    "LastEditDate":"2015-06-01T16:16:47.730",
+    "CommentCount":"8",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111014",
+    "CreationDate":"2015-06-01T16:10:02.170",
+    "FavoriteCount":null,
+    "Id":"111081",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T16:10:02.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"29fb6e30-c26c-4254-a9fc-92225e20abb3",
+            "UserId":"111014",
+            "CloseReasonId":null,
+            "PostId":"111081",
+            "PostHistoryTypeId":"2",
+            "Id":"363150",
+            "Text":"The problem is that I can download some attachments, but some not. I usually cannot download zip attachments that are forwarded to me. I cleared cache and data of the Download Manager, but that didn't help. Any ideas?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T16:10:02.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"29fb6e30-c26c-4254-a9fc-92225e20abb3",
+            "UserId":"111014",
+            "CloseReasonId":null,
+            "PostId":"111081",
+            "PostHistoryTypeId":"1",
+            "Id":"363151",
+            "Text":"Android Gmail app - can't download some attachments - Nexus 5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-01T16:10:02.170",
+            "UserDisplayName":null,
+            "RevisionGUID":"29fb6e30-c26c-4254-a9fc-92225e20abb3",
+            "UserId":"111014",
+            "CloseReasonId":null,
+            "PostId":"111081",
+            "PostHistoryTypeId":"3",
+            "Id":"363152",
+            "Text":""
+        },
+        {
+            "Comment":"added 55 characters in body",
+            "CreationDate":"2015-06-01T16:16:47.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"735d96b9-ca1d-4343-9793-9310e48b3b4e",
+            "UserId":"111014",
+            "CloseReasonId":null,
+            "PostId":"111081",
+            "PostHistoryTypeId":"5",
+            "Id":"363154",
+            "Text":"The problem is that I can download some attachments, but some not. I usually cannot download zip attachments that are forwarded to me. I cleared cache and data of the Download Manager, but that didn't help. Any ideas?Edit: I use Gmail app for my business POP3 account."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-01T16:56:23.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fb8383a-c313-4121-ac4a-80910695810b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"111081",
+            "PostHistoryTypeId":"10",
+            "Id":"363171",
+            "Text":"{\"OriginalQuestionIds\":[13705],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

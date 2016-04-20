@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  apps automatically starting?  Hello!I am using Android 2.2. I've downloaded and installed an application called Advanced Task Manager from ReChild. It always shows lots of applications open, none that appear in the pre-installed Task Manager that came with the phone. Besides a few that I do actually use, there's some, like the Press Reader, that I have never opened, yet today I saw this particular app in the list of applications I could select to stop.Any idea why this happens? I normally wouldn't care too much if the device wasn't on battery and was plugged in.Thank you.",
+    "ViewCount":"265",
+    "LastActivityDate":"2010-12-29T12:26:16.553",
+    "ClosedDate":"2010-12-29T12:20:43.337",
+    "Title":"Apps that start on their own",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"4181",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1120",
+    "CreationDate":"2010-12-29T11:25:15.420",
+    "FavoriteCount":"1",
+    "Id":"4179",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-29T11:25:15.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"559b1673-e1b1-4be7-a519-d771d5258060",
+            "UserId":"1120",
+            "CloseReasonId":null,
+            "PostId":"4179",
+            "PostHistoryTypeId":"2",
+            "Id":"8627",
+            "Text":"I am using Android 2.2. I've downloaded and installed an application called Advanced Task Manager from ReChild. It always shows lots of applications open, none that appear in the pre-installed Task Manager that came with the phone. Besides a few that I do actually use, there's some, like the Press Reader, that I have never opened, yet today I saw this particular app in the list of applications I could select to stop.Any idea why this happens? I normally wouldn't care too much if the device wasn't on battery and was plugged in.Thank you."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-29T11:25:15.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"559b1673-e1b1-4be7-a519-d771d5258060",
+            "UserId":"1120",
+            "CloseReasonId":null,
+            "PostId":"4179",
+            "PostHistoryTypeId":"1",
+            "Id":"8628",
+            "Text":"Apps that start on their own"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-29T11:25:15.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"559b1673-e1b1-4be7-a519-d771d5258060",
+            "UserId":"1120",
+            "CloseReasonId":null,
+            "PostId":"4179",
+            "PostHistoryTypeId":"3",
+            "Id":"8629",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2010-12-29T12:20:43.337",
+            "UserDisplayName":null,
+            "RevisionGUID":"2540ab12-04a2-4416-8c1e-0170a3a7ba1d",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"4179",
+            "PostHistoryTypeId":"10",
+            "Id":"8632",
+            "Text":"{\"OriginalQuestionIds\":[2258],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2010-12-29T12:20:43.460",
+            "UserDisplayName":null,
+            "RevisionGUID":"828356e4-6792-4b2f-9cfa-5568fa7cd8de",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"4179",
+            "PostHistoryTypeId":"5",
+            "Id":"8633",
+            "Text":"> **Possible Duplicate:**  > [apps automatically starting?](http:\/\/android.stackexchange.com\/questions\/2258\/apps-automatically-starting)  Hello!I am using Android 2.2. I've downloaded and installed an application called Advanced Task Manager from ReChild. It always shows lots of applications open, none that appear in the pre-installed Task Manager that came with the phone. Besides a few that I do actually use, there's some, like the Press Reader, that I have never opened, yet today I saw this particular app in the list of applications I could select to stop.Any idea why this happens? I normally wouldn't care too much if the device wasn't on battery and was plugged in.Thank you."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I am looking for a way to run some software in the android emulator and have a way to script it like I might use Selenium to script a web page.What I want to do is something like Launch AppLog inWatch for some event in the UIRepeat...",
+    "ViewCount":"132",
+    "LastActivityDate":"2014-10-04T10:24:28.327",
+    "ClosedDate":"2014-11-15T19:16:56.400",
+    "Title":"Scripting the Android Emulator",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"74814",
+    "CreationDate":"2014-10-01T06:10:25.270",
+    "FavoriteCount":null,
+    "Id":"83798",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-01T06:10:25.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ddbc113-d492-47c8-a9b7-1817dbf346f2",
+            "UserId":"74814",
+            "CloseReasonId":null,
+            "PostId":"83798",
+            "PostHistoryTypeId":"2",
+            "Id":"274894",
+            "Text":"I am looking for a way to run some software in the android emulator and have a way to script it like I might use Selenium to script a web page.What I want to do is something like  - Launch App - Log in - Watch for some event in the UIRepeat..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-01T06:10:25.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ddbc113-d492-47c8-a9b7-1817dbf346f2",
+            "UserId":"74814",
+            "CloseReasonId":null,
+            "PostId":"83798",
+            "PostHistoryTypeId":"1",
+            "Id":"274895",
+            "Text":"Scripting the Android Emulator"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-01T06:10:25.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ddbc113-d492-47c8-a9b7-1817dbf346f2",
+            "UserId":"74814",
+            "CloseReasonId":null,
+            "PostId":"83798",
+            "PostHistoryTypeId":"3",
+            "Id":"274896",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-11-15T19:16:56.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"25e47742-cf17-4092-a691-943122d07a9d",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"83798",
+            "PostHistoryTypeId":"10",
+            "Id":"288811",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"How can i remove a member of a group which do not have admin. Admin left Viber and i have mistakenly added wrong guy. I and other members tried but we could not remove him. how can i remove him. ",
+    "ViewCount":"4099",
+    "LastActivityDate":"2014-08-04T11:17:42.710",
+    "ClosedDate":"2014-08-05T05:45:58.300",
+    "Title":"How to remove member from viber group",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68861",
+    "CreationDate":"2014-08-04T09:17:35.733",
+    "FavoriteCount":null,
+    "Id":"78724",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T09:17:35.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b391c84-74b2-400c-a238-ebe4ef0f0d3d",
+            "UserId":"68861",
+            "CloseReasonId":null,
+            "PostId":"78724",
+            "PostHistoryTypeId":"2",
+            "Id":"259651",
+            "Text":"How can i remove a member of a group which do not have admin. Admin left Viber and i have mistakenly added wrong guy. I and other members tried but we could not remove him. how can i remove him. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T09:17:35.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b391c84-74b2-400c-a238-ebe4ef0f0d3d",
+            "UserId":"68861",
+            "CloseReasonId":null,
+            "PostId":"78724",
+            "PostHistoryTypeId":"1",
+            "Id":"259652",
+            "Text":"How to remove member from viber group"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-04T09:17:35.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"6b391c84-74b2-400c-a238-ebe4ef0f0d3d",
+            "UserId":"68861",
+            "CloseReasonId":null,
+            "PostId":"78724",
+            "PostHistoryTypeId":"3",
+            "Id":"259653",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-08-05T05:45:58.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"cbbf8f00-2f9e-4bfd-b412-9f6859b25dff",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"78724",
+            "PostHistoryTypeId":"10",
+            "Id":"259968",
+            "Text":"{\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

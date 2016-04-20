@@ -1,0 +1,83 @@
+{
+    "Body":"In this screenshot, you can see listed size of app is 6.33MB, but I am getting 3.17MB download. What is this?I thought, variable size based on device was limited to in-app downloads. If Play Store allowed such thing, it could have listed the device-specific download size. But, it wasn't.What's the real reason of this? Is this a bug? or, cache problem? or, something else?Have Google told about it anywhere?",
+    "ViewCount":"268",
+    "LastActivityDate":"2012-05-07T20:30:31.190",
+    "ClosedDate":"2012-12-19T19:58:14.277",
+    "Title":"Why do I get small size download than listed size of app from Play Store?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"3303",
+    "CreationDate":"2012-05-07T20:30:31.190",
+    "FavoriteCount":null,
+    "Id":"22800",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-07T20:30:31.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"d71e2877-4e05-45a9-bcb7-4179ed87c764",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"22800",
+            "PostHistoryTypeId":"2",
+            "Id":"64505",
+            "Text":"![N64 Emulator on Play Store][1]In this screenshot, you can see listed size of app is 6.33MB, but I am getting 3.17MB download. What is this?  I thought, variable size based on device was limited to in-app downloads. If Play Store allowed such thing, it could have listed the device-specific download size. But, it wasn't.What's the real reason of this? Is this a bug? or, cache problem? or, something else?  Have Google told about it anywhere?  [1]: http:\/\/i.stack.imgur.com\/VEHRj.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-07T20:30:31.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"d71e2877-4e05-45a9-bcb7-4179ed87c764",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"22800",
+            "PostHistoryTypeId":"1",
+            "Id":"64506",
+            "Text":"Why do I get small size download than listed size of app from Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-07T20:30:31.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"d71e2877-4e05-45a9-bcb7-4179ed87c764",
+            "UserId":"3303",
+            "CloseReasonId":null,
+            "PostId":"22800",
+            "PostHistoryTypeId":"3",
+            "Id":"64507",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/204213685206515712",
+            "CreationDate":"2012-05-20T14:15:11.483",
+            "UserDisplayName":null,
+            "RevisionGUID":"d51bc3f9-d691-4c0a-8af1-f968cbb1d309",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"22800",
+            "PostHistoryTypeId":"25",
+            "Id":"65898",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T19:58:14.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"b51742a7-1310-4fc5-a0ec-2966593f01c1",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"22800",
+            "PostHistoryTypeId":"10",
+            "Id":"107556",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

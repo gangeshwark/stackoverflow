@@ -1,0 +1,71 @@
+{
+    "Body":"Whether I am connected to the internet or not on my new MOTO G, Pandora songs cut off after 1 second, then go silent, skip to last 10 seconds of song. What's up with that?",
+    "ViewCount":"26",
+    "LastActivityDate":"2015-09-08T14:06:32.250",
+    "ClosedDate":"2015-09-20T01:36:24.550",
+    "Title":"Pandora cut off",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"126561",
+    "CreationDate":"2015-09-08T14:06:32.250",
+    "FavoriteCount":null,
+    "Id":"122537",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-08T14:06:32.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"78af8968-30d8-4c00-83fc-24a4779a850c",
+            "UserId":"126561",
+            "CloseReasonId":null,
+            "PostId":"122537",
+            "PostHistoryTypeId":"2",
+            "Id":"399862",
+            "Text":"Whether I am connected to the internet or not on my new MOTO G, Pandora songs cut off after 1 second, then go silent, skip to last 10 seconds of song. What's up with that?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-08T14:06:32.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"78af8968-30d8-4c00-83fc-24a4779a850c",
+            "UserId":"126561",
+            "CloseReasonId":null,
+            "PostId":"122537",
+            "PostHistoryTypeId":"1",
+            "Id":"399863",
+            "Text":"Pandora cut off"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-08T14:06:32.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"78af8968-30d8-4c00-83fc-24a4779a850c",
+            "UserId":"126561",
+            "CloseReasonId":null,
+            "PostId":"122537",
+            "PostHistoryTypeId":"3",
+            "Id":"399864",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-09-20T01:36:24.550",
+            "UserDisplayName":null,
+            "RevisionGUID":"e899eeb5-f009-4e0c-b96e-a1fcd8f525c4",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"122537",
+            "PostHistoryTypeId":"10",
+            "Id":"403860",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

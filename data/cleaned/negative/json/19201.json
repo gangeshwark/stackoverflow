@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How can I circumvent regional restrictions in the Android Market?  Google just released Chrome for Android and I want to use it. But, for some (pretty irrational) reason, it is only available to certain countries. I therefore need to change mine. How do I do that?Thanks",
+    "ViewCount":"22756",
+    "LastActivityDate":"2012-02-08T22:17:38.170",
+    "ClosedDate":"2012-09-21T14:35:05.180",
+    "Title":"How to change my device's country?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"19210",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9578",
+    "CreationDate":"2012-02-07T18:53:35.033",
+    "FavoriteCount":"0",
+    "Id":"19201",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-07T18:53:35.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"316f8f6e-9a7c-4f1a-abb1-50054a72612a",
+            "UserId":"9578",
+            "CloseReasonId":null,
+            "PostId":"19201",
+            "PostHistoryTypeId":"2",
+            "Id":"53068",
+            "Text":"Google just released Chrome for Android and I want to use it. But, for some (pretty irrational) reason, it is only available to certain countries. I therefore need to change mine. How do I do that?Thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-07T18:53:35.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"316f8f6e-9a7c-4f1a-abb1-50054a72612a",
+            "UserId":"9578",
+            "CloseReasonId":null,
+            "PostId":"19201",
+            "PostHistoryTypeId":"1",
+            "Id":"53069",
+            "Text":"How to change my device's country?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-07T18:53:35.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"316f8f6e-9a7c-4f1a-abb1-50054a72612a",
+            "UserId":"9578",
+            "CloseReasonId":null,
+            "PostId":"19201",
+            "PostHistoryTypeId":"3",
+            "Id":"53070",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-21T14:35:05.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"1cc6c120-7c5a-44a0-9ab3-f6d8c830ab74",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19201",
+            "PostHistoryTypeId":"5",
+            "Id":"88679",
+            "Text":"> **Possible Duplicate:**  > [How can I circumvent regional restrictions in the Android Market?](http:\/\/android.stackexchange.com\/questions\/12538\/how-can-i-circumvent-regional-restrictions-in-the-android-market)  Google just released Chrome for Android and I want to use it. But, for some (pretty irrational) reason, it is only available to certain countries. I therefore need to change mine. How do I do that?Thanks"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-21T14:35:05.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb25dc5f-538c-4c6f-b18c-1a6c59928ca3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19201",
+            "PostHistoryTypeId":"10",
+            "Id":"88680",
+            "Text":"{\"OriginalQuestionIds\":[12538],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

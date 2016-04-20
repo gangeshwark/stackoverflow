@@ -1,0 +1,71 @@
+{
+    "Body":"I would like to know if it is possible  to install drivers for new hardware in Android OS. I know that Android images usually come only with the drivers for the particular device they're design for (to save space I guess). I have a Banana Pi M1 Chineese single board computer that runs Android 4.2. When I try to connect an Edimax wifi dongle to it or other generic Bluethooth dongle they don\u00b4t work. Does it make sense trying to look for drivers for these devices or is it worthless because if they existed they would already be installed there? This leads me to a broader question. Is it possible to manually install drivers in Android OS or this isn't supported as in for instance Windows or Linux OS?",
+    "ViewCount":"21",
+    "LastActivityDate":"2015-12-22T19:23:54.023",
+    "ClosedDate":"2015-12-22T21:54:06.347",
+    "Title":"Is it possible to install drivers for new hardware in Android OS?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122774",
+    "CreationDate":"2015-12-22T19:23:54.023",
+    "FavoriteCount":null,
+    "Id":"132285",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-22T19:23:54.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"dec4670a-58f2-47d7-a559-3824691e4d0c",
+            "UserId":"122774",
+            "CloseReasonId":null,
+            "PostId":"132285",
+            "PostHistoryTypeId":"2",
+            "Id":"437605",
+            "Text":"I would like to know if it is possible  to install drivers for new hardware in Android OS. I know that Android images usually come only with the drivers for the particular device they're design for (to save space I guess). I have a Banana Pi M1 Chineese single board computer that runs Android 4.2. When I try to connect an Edimax wifi dongle to it or other generic Bluethooth dongle they don\u00b4t work. Does it make sense trying to look for drivers for these devices or is it worthless because if they existed they would already be installed there? This leads me to a broader question. Is it possible to manually install drivers in Android OS or this isn't supported as in for instance Windows or Linux OS?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-22T19:23:54.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"dec4670a-58f2-47d7-a559-3824691e4d0c",
+            "UserId":"122774",
+            "CloseReasonId":null,
+            "PostId":"132285",
+            "PostHistoryTypeId":"1",
+            "Id":"437606",
+            "Text":"Is it possible to install drivers for new hardware in Android OS?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-22T19:23:54.023",
+            "UserDisplayName":null,
+            "RevisionGUID":"dec4670a-58f2-47d7-a559-3824691e4d0c",
+            "UserId":"122774",
+            "CloseReasonId":null,
+            "PostId":"132285",
+            "PostHistoryTypeId":"3",
+            "Id":"437607",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-12-22T21:54:06.347",
+            "UserDisplayName":null,
+            "RevisionGUID":"11755f59-31e6-4b6a-b824-0ba746ce399d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"132285",
+            "PostHistoryTypeId":"10",
+            "Id":"437637",
+            "Text":"{\"OriginalQuestionIds\":[47947],\"Voters\":[{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

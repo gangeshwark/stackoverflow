@@ -1,0 +1,71 @@
+{
+    "Body":"After updating my nexus 4 to new android 5 (lollipop) when i open an apk file, the install button not working!!Also i checked unknown source in my device settings.  What the problem? please help :(",
+    "ViewCount":"4182",
+    "LastActivityDate":"2014-11-28T11:58:44.337",
+    "ClosedDate":"2014-12-01T01:20:48.573",
+    "Title":"Android 5 disable install button of apk files on nexus 4",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"81897",
+    "CreationDate":"2014-11-27T11:15:52.810",
+    "FavoriteCount":null,
+    "Id":"89013",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T11:15:52.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"c6250f70-26ff-4edb-9860-46d583291d10",
+            "UserId":"81897",
+            "CloseReasonId":null,
+            "PostId":"89013",
+            "PostHistoryTypeId":"2",
+            "Id":"293180",
+            "Text":"After updating my nexus 4 to new android 5 (lollipop) when i open an apk file, the install button not working!!Also i checked unknown source in my device settings.  What the problem? please help :("
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T11:15:52.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"c6250f70-26ff-4edb-9860-46d583291d10",
+            "UserId":"81897",
+            "CloseReasonId":null,
+            "PostId":"89013",
+            "PostHistoryTypeId":"1",
+            "Id":"293181",
+            "Text":"Android 5 disable install button of apk files on nexus 4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-27T11:15:52.810",
+            "UserDisplayName":null,
+            "RevisionGUID":"c6250f70-26ff-4edb-9860-46d583291d10",
+            "UserId":"81897",
+            "CloseReasonId":null,
+            "PostId":"89013",
+            "PostHistoryTypeId":"3",
+            "Id":"293182",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-01T01:20:48.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"7e90ab16-1b16-4218-bb02-3dc393d4b78c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89013",
+            "PostHistoryTypeId":"10",
+            "Id":"294333",
+            "Text":"{\"OriginalQuestionIds\":[69981],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

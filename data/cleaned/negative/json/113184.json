@@ -1,0 +1,71 @@
+{
+    "Body":"I get a red box top of my android turbo mobile phone says \"trespassing check observer settings\"how do I find the trespasser? please help",
+    "ViewCount":"10",
+    "LastActivityDate":"2015-06-23T01:37:47.067",
+    "ClosedDate":"2015-06-23T12:12:51.797",
+    "Title":"Getting trespassing warning",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113830",
+    "CreationDate":"2015-06-23T01:37:47.067",
+    "FavoriteCount":"0",
+    "Id":"113184",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T01:37:47.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c44d3ac-7fb4-4a8a-8f0e-7dea4a043445",
+            "UserId":"113830",
+            "CloseReasonId":null,
+            "PostId":"113184",
+            "PostHistoryTypeId":"2",
+            "Id":"370714",
+            "Text":"I get a red box top of my android turbo mobile phone says \"trespassing check observer settings\"how do I find the trespasser? please help"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T01:37:47.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c44d3ac-7fb4-4a8a-8f0e-7dea4a043445",
+            "UserId":"113830",
+            "CloseReasonId":null,
+            "PostId":"113184",
+            "PostHistoryTypeId":"1",
+            "Id":"370715",
+            "Text":"Getting trespassing warning"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-23T01:37:47.067",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c44d3ac-7fb4-4a8a-8f0e-7dea4a043445",
+            "UserId":"113830",
+            "CloseReasonId":null,
+            "PostId":"113184",
+            "PostHistoryTypeId":"3",
+            "Id":"370716",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-23T12:12:51.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"b25ec6b9-19a4-4306-886f-e89169b720e5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"113184",
+            "PostHistoryTypeId":"10",
+            "Id":"370917",
+            "Text":"{\"OriginalQuestionIds\":[59476],\"Voters\":[{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

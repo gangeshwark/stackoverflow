@@ -1,0 +1,83 @@
+{
+    "Body":"I bought a new Galaxy Mega and it seems nobody has figured out a root method for it yet.  Are there devices that have been on the market for more than a few months that are not rootable?",
+    "ViewCount":"2124",
+    "LastActivityDate":"2015-02-18T05:02:22.283",
+    "ClosedDate":"2015-02-18T05:28:49.283",
+    "Title":"Are there any Android devices that cannot be rooted?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"5",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1625",
+    "CreationDate":"2013-08-30T02:42:13.400",
+    "FavoriteCount":"1",
+    "Id":"52300",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-30T02:42:13.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"126a4310-bc0a-4a2e-af57-891ba88a704d",
+            "UserId":"1625",
+            "CloseReasonId":null,
+            "PostId":"52300",
+            "PostHistoryTypeId":"2",
+            "Id":"171953",
+            "Text":"I bought a new Galaxy Mega and it seems nobody has figured out a root method for it yet.  Are there devices that have been on the market for more than a few months that are not rootable?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-30T02:42:13.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"126a4310-bc0a-4a2e-af57-891ba88a704d",
+            "UserId":"1625",
+            "CloseReasonId":null,
+            "PostId":"52300",
+            "PostHistoryTypeId":"1",
+            "Id":"171954",
+            "Text":"Are there any Android devices that cannot be rooted?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-30T02:42:13.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"126a4310-bc0a-4a2e-af57-891ba88a704d",
+            "UserId":"1625",
+            "CloseReasonId":null,
+            "PostId":"52300",
+            "PostHistoryTypeId":"3",
+            "Id":"171955",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/373282768522076160",
+            "CreationDate":"2013-08-30T03:15:21.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"ab317751-f7aa-48b0-b69a-0ffb3fbc1633",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"52300",
+            "PostHistoryTypeId":"25",
+            "Id":"171959",
+            "Text":null
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2015-02-18T05:28:49.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"5982391f-3ea3-47be-80d3-6130fc1b16c1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"52300",
+            "PostHistoryTypeId":"10",
+            "Id":"325102",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

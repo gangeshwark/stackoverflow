@@ -1,0 +1,71 @@
+{
+    "Body":"I am finding the move to SD card option disabled for some apps",
+    "ViewCount":"17",
+    "LastActivityDate":"2014-06-18T19:21:44.620",
+    "ClosedDate":"2014-06-18T20:00:16.163",
+    "Title":"Why can't some apps be moved to the SD card?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64266",
+    "CreationDate":"2014-06-18T19:21:44.620",
+    "FavoriteCount":null,
+    "Id":"73428",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-18T19:21:44.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"0feb735a-5c87-4510-a730-ee118b9db1eb",
+            "UserId":"64266",
+            "CloseReasonId":null,
+            "PostId":"73428",
+            "PostHistoryTypeId":"2",
+            "Id":"246218",
+            "Text":"I am finding the move to SD card option disabled for some apps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-18T19:21:44.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"0feb735a-5c87-4510-a730-ee118b9db1eb",
+            "UserId":"64266",
+            "CloseReasonId":null,
+            "PostId":"73428",
+            "PostHistoryTypeId":"1",
+            "Id":"246219",
+            "Text":"Why can't some apps be moved to the SD card?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-18T19:21:44.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"0feb735a-5c87-4510-a730-ee118b9db1eb",
+            "UserId":"64266",
+            "CloseReasonId":null,
+            "PostId":"73428",
+            "PostHistoryTypeId":"3",
+            "Id":"246220",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-18T20:00:16.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"571eac73-e0d4-4208-bbe8-cf2dd88c200c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"73428",
+            "PostHistoryTypeId":"10",
+            "Id":"246222",
+            "Text":"{\"OriginalQuestionIds\":[27816],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

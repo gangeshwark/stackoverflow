@@ -1,0 +1,71 @@
+{
+    "Body":"When performing a factory reset, does Android remove all the added applications and user data or does it completely reflash an image of the OSI am running on jelly bean 4.3 stock",
+    "ViewCount":"2502",
+    "LastActivityDate":"2013-08-25T02:58:07.090",
+    "ClosedDate":"2013-08-26T20:31:11.547",
+    "Title":"How does an android factory reset work?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38639",
+    "CreationDate":"2013-08-25T00:43:10.230",
+    "FavoriteCount":null,
+    "Id":"51927",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-25T00:43:10.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fa45c36-327e-411c-8c03-7038ccd7e26a",
+            "UserId":"38639",
+            "CloseReasonId":null,
+            "PostId":"51927",
+            "PostHistoryTypeId":"2",
+            "Id":"170593",
+            "Text":"When performing a factory reset, does Android remove all the added applications and user data or does it completely reflash an image of the OSI am running on jelly bean 4.3 stock"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-25T00:43:10.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fa45c36-327e-411c-8c03-7038ccd7e26a",
+            "UserId":"38639",
+            "CloseReasonId":null,
+            "PostId":"51927",
+            "PostHistoryTypeId":"1",
+            "Id":"170594",
+            "Text":"How does an android factory reset work?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-25T00:43:10.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fa45c36-327e-411c-8c03-7038ccd7e26a",
+            "UserId":"38639",
+            "CloseReasonId":null,
+            "PostId":"51927",
+            "PostHistoryTypeId":"3",
+            "Id":"170595",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-08-26T20:31:11.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"1bdf7685-8a0e-435a-9b0d-703ec68721a6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"51927",
+            "PostHistoryTypeId":"10",
+            "Id":"171074",
+            "Text":"{\"OriginalQuestionIds\":[50961,18029],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

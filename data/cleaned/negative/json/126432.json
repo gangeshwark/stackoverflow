@@ -1,0 +1,71 @@
+{
+    "Body":"My Google apps timeline says I went to a postcode and stayed there for 3 hours when I never left my house which is 4 miles away from where it says I was it was in the middle of the night when I wasn't even on my phone I was asleep. But on the following date it says I was at my house from 1200am-135pm which was obviously the start on the next day and which means I was at both locations at the same time. Any light shredded on this would be great. Is there anyway to prove I didn't leave my house ",
+    "ViewCount":"203",
+    "LastActivityDate":"2015-10-19T13:56:17.553",
+    "ClosedDate":"2015-10-22T19:46:25.533",
+    "Title":"Google apps timeline inaccurate location",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"132793",
+    "CreationDate":"2015-10-19T13:46:19.870",
+    "FavoriteCount":null,
+    "Id":"126432",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T13:46:19.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"95fd7f62-bdda-4d95-b5cb-b3effffff78e",
+            "UserId":"132793",
+            "CloseReasonId":null,
+            "PostId":"126432",
+            "PostHistoryTypeId":"2",
+            "Id":"414834",
+            "Text":"My Google apps timeline says I went to a postcode and stayed there for 3 hours when I never left my house which is 4 miles away from where it says I was it was in the middle of the night when I wasn't even on my phone I was asleep. But on the following date it says I was at my house from 1200am-135pm which was obviously the start on the next day and which means I was at both locations at the same time. Any light shredded on this would be great. Is there anyway to prove I didn't leave my house "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T13:46:19.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"95fd7f62-bdda-4d95-b5cb-b3effffff78e",
+            "UserId":"132793",
+            "CloseReasonId":null,
+            "PostId":"126432",
+            "PostHistoryTypeId":"1",
+            "Id":"414835",
+            "Text":"Google apps timeline inaccurate location"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T13:46:19.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"95fd7f62-bdda-4d95-b5cb-b3effffff78e",
+            "UserId":"132793",
+            "CloseReasonId":null,
+            "PostId":"126432",
+            "PostHistoryTypeId":"3",
+            "Id":"414836",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-22T19:46:25.533",
+            "UserDisplayName":null,
+            "RevisionGUID":"5f2fa906-2801-4c2e-b54b-72e7d83a54a5",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"126432",
+            "PostHistoryTypeId":"10",
+            "Id":"416064",
+            "Text":"{\"OriginalQuestionIds\":[44608],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

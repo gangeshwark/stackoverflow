@@ -1,0 +1,71 @@
+{
+    "Body":"Is the samsung galaxy E7 ever getting an update to the latest android version ? And if yes when is this update going to be available ? ",
+    "ViewCount":"5",
+    "LastActivityDate":"2015-10-22T19:40:16.163",
+    "ClosedDate":"2015-10-22T20:07:52.410",
+    "Title":"Galaxy e7 android update",
+    "LastEditorUserId":null,
+    "Tags":"<5.0-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"133365",
+    "CreationDate":"2015-10-22T19:40:16.163",
+    "FavoriteCount":null,
+    "Id":"126775",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-22T19:40:16.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5f9dcb6-6d89-48d1-955a-45ace7f75fa0",
+            "UserId":"133365",
+            "CloseReasonId":null,
+            "PostId":"126775",
+            "PostHistoryTypeId":"2",
+            "Id":"416052",
+            "Text":"Is the samsung galaxy E7 ever getting an update to the latest android version ? And if yes when is this update going to be available ? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-22T19:40:16.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5f9dcb6-6d89-48d1-955a-45ace7f75fa0",
+            "UserId":"133365",
+            "CloseReasonId":null,
+            "PostId":"126775",
+            "PostHistoryTypeId":"1",
+            "Id":"416053",
+            "Text":"Galaxy e7 android update"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-22T19:40:16.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5f9dcb6-6d89-48d1-955a-45ace7f75fa0",
+            "UserId":"133365",
+            "CloseReasonId":null,
+            "PostId":"126775",
+            "PostHistoryTypeId":"3",
+            "Id":"416054",
+            "Text":"<5.0-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-22T20:07:52.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"44e70acb-671c-4976-9c99-dba4216d6ca5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"126775",
+            "PostHistoryTypeId":"10",
+            "Id":"416079",
+            "Text":"{\"OriginalQuestionIds\":[110681],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

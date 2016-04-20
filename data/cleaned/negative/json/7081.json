@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Are there any good firewalls available?  How can i make my Android more secure with a firewall? Are there any legal\/offical ways to do it?Thank you!",
+    "ViewCount":"758",
+    "LastActivityDate":"2011-03-17T21:28:14.360",
+    "ClosedDate":"2011-03-18T01:14:00.000",
+    "Title":"Are there any \"iptables like\" firewall for Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4895",
+    "CreationDate":"2011-03-17T17:03:15.687",
+    "FavoriteCount":null,
+    "Id":"7081",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-17T17:03:15.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4586b1b-1b58-49c2-b329-8e46d2809052",
+            "UserId":"4895",
+            "CloseReasonId":null,
+            "PostId":"7081",
+            "PostHistoryTypeId":"2",
+            "Id":"16378",
+            "Text":"How can i make my Android more secure with a firewall? Are there any legal\/offical ways to do it?Thank you!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-17T17:03:15.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4586b1b-1b58-49c2-b329-8e46d2809052",
+            "UserId":"4895",
+            "CloseReasonId":null,
+            "PostId":"7081",
+            "PostHistoryTypeId":"1",
+            "Id":"16379",
+            "Text":"Are there any \"iptables like\" firewall for Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-03-17T17:03:15.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4586b1b-1b58-49c2-b329-8e46d2809052",
+            "UserId":"4895",
+            "CloseReasonId":null,
+            "PostId":"7081",
+            "PostHistoryTypeId":"3",
+            "Id":"16380",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-03-18T01:14:00.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ba13678-4704-412b-a66e-6eaf5589f078",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"7081",
+            "PostHistoryTypeId":"5",
+            "Id":"16417",
+            "Text":"> **Possible Duplicate:**  > [Are there any good firewalls available?](http:\/\/android.stackexchange.com\/questions\/143\/are-there-any-good-firewalls-available)  How can i make my Android more secure with a firewall? Are there any legal\/offical ways to do it?Thank you!"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-03-18T01:14:00.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"91a8b53d-40d4-4ab8-b731-e73b8aee6d6c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"7081",
+            "PostHistoryTypeId":"10",
+            "Id":"16418",
+            "Text":"{\"OriginalQuestionIds\":[143],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"},{\"Id\":2422,\"DisplayName\":\"Daniel\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

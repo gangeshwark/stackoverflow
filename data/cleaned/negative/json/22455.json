@@ -1,0 +1,71 @@
+{
+    "Body":"Does Google have plans to integrate the face recognition feature with storage encryption? As far as I understand, it may not be secure enough because you can use a photo, but still, I want to be allowed to use it because I see it as an acceptable risk that a thief gains access to my portrait.",
+    "ViewCount":"662",
+    "LastActivityDate":"2012-04-29T20:18:10.033",
+    "ClosedDate":"2012-05-01T01:16:38.473",
+    "Title":"Allow face-unlock in conjunction with storage encryption?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14677",
+    "CreationDate":"2012-04-29T20:18:10.033",
+    "FavoriteCount":null,
+    "Id":"22455",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-29T20:18:10.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"54f084c0-e337-4055-8c76-cfdb70f048a4",
+            "UserId":"14677",
+            "CloseReasonId":null,
+            "PostId":"22455",
+            "PostHistoryTypeId":"2",
+            "Id":"63456",
+            "Text":"Does Google have plans to integrate the face recognition feature with storage encryption? As far as I understand, it may not be secure enough because you can use a photo, but still, I want to be allowed to use it because I see it as an acceptable risk that a thief gains access to my portrait."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-29T20:18:10.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"54f084c0-e337-4055-8c76-cfdb70f048a4",
+            "UserId":"14677",
+            "CloseReasonId":null,
+            "PostId":"22455",
+            "PostHistoryTypeId":"1",
+            "Id":"63457",
+            "Text":"Allow face-unlock in conjunction with storage encryption?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-29T20:18:10.033",
+            "UserDisplayName":null,
+            "RevisionGUID":"54f084c0-e337-4055-8c76-cfdb70f048a4",
+            "UserId":"14677",
+            "CloseReasonId":null,
+            "PostId":"22455",
+            "PostHistoryTypeId":"3",
+            "Id":"63458",
+            "Text":""
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2012-05-01T01:16:38.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"a159942a-f6b8-44ec-a42b-88e45c63e090",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"22455",
+            "PostHistoryTypeId":"10",
+            "Id":"63606",
+            "Text":"{\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

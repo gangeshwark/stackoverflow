@@ -1,0 +1,71 @@
+{
+    "Body":"Why do I see two Photos icon in my HTC One M8, Android version 5.0.1? How do I get rid of the redundant icon?",
+    "ViewCount":"7",
+    "LastActivityDate":"2015-05-07T15:58:42.087",
+    "ClosedDate":"2015-05-07T16:01:55.267",
+    "Title":"Why do I see two Photos icon in my Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107785",
+    "CreationDate":"2015-05-07T15:58:42.087",
+    "FavoriteCount":null,
+    "Id":"108727",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T15:58:42.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"5981bd49-d885-4cb2-aa49-2afd98890b01",
+            "UserId":"107785",
+            "CloseReasonId":null,
+            "PostId":"108727",
+            "PostHistoryTypeId":"2",
+            "Id":"354241",
+            "Text":"Why do I see two Photos icon in my HTC One M8, Android version 5.0.1? How do I get rid of the redundant icon?![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/ZOpAp.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T15:58:42.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"5981bd49-d885-4cb2-aa49-2afd98890b01",
+            "UserId":"107785",
+            "CloseReasonId":null,
+            "PostId":"108727",
+            "PostHistoryTypeId":"1",
+            "Id":"354242",
+            "Text":"Why do I see two Photos icon in my Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T15:58:42.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"5981bd49-d885-4cb2-aa49-2afd98890b01",
+            "UserId":"107785",
+            "CloseReasonId":null,
+            "PostId":"108727",
+            "PostHistoryTypeId":"3",
+            "Id":"354243",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-07T16:01:55.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"8769e256-c1f6-4b9d-a0f4-55a09d61d9ad",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"108727",
+            "PostHistoryTypeId":"10",
+            "Id":"354251",
+            "Text":"{\"OriginalQuestionIds\":[101994],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

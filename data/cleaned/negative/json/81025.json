@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to install the SSL certificate for our exchange server. However although it says it is installed it is not showing under the User tab in settings --> personal --> security --> credential storage --> trusted credentials. At the moment I can't send emails. Using Nexus 4, Email App 6.2-1227136. Any advice appreciated. Thanks.",
+    "ViewCount":"16",
+    "LastActivityDate":"2014-08-21T14:18:19.673",
+    "ClosedDate":"2014-08-22T08:40:35.837",
+    "Title":"Installed Comodo SSL certificate not showing in User in Trusted credentials",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71302",
+    "CreationDate":"2014-08-21T14:18:19.673",
+    "FavoriteCount":null,
+    "Id":"81025",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-21T14:18:19.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"a63b99ba-9f60-44a0-bf11-29cc2b220d0d",
+            "UserId":"71302",
+            "CloseReasonId":null,
+            "PostId":"81025",
+            "PostHistoryTypeId":"2",
+            "Id":"265197",
+            "Text":"I am trying to install the SSL certificate for our exchange server. However although it says it is installed it is not showing under the User tab in settings --> personal --> security --> credential storage --> trusted credentials. At the moment I can't send emails. Using Nexus 4, Email App 6.2-1227136. Any advice appreciated. Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-21T14:18:19.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"a63b99ba-9f60-44a0-bf11-29cc2b220d0d",
+            "UserId":"71302",
+            "CloseReasonId":null,
+            "PostId":"81025",
+            "PostHistoryTypeId":"1",
+            "Id":"265198",
+            "Text":"Installed Comodo SSL certificate not showing in User in Trusted credentials"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-21T14:18:19.673",
+            "UserDisplayName":null,
+            "RevisionGUID":"a63b99ba-9f60-44a0-bf11-29cc2b220d0d",
+            "UserId":"71302",
+            "CloseReasonId":null,
+            "PostId":"81025",
+            "PostHistoryTypeId":"3",
+            "Id":"265199",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-22T08:40:35.837",
+            "UserDisplayName":null,
+            "RevisionGUID":"355bf2ad-91e7-4fb0-974c-2b096d05920b",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"81025",
+            "PostHistoryTypeId":"10",
+            "Id":"265318",
+            "Text":"{\"OriginalQuestionIds\":[61540],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

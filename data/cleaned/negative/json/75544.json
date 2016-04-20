@@ -1,0 +1,83 @@
+{
+    "Body":"I got my google play and google play services deleted from my rooted phone.I had moved all the apps on internal apps to my partitioned sd card,which got corrupted.Tried installing google play apk and services from other sites but they would not install.Phone model:Galaxy Y S5630Need your help.",
+    "ViewCount":"5006",
+    "LastActivityDate":"2014-07-04T15:30:29.430",
+    "ClosedDate":"2014-07-07T14:48:54.333",
+    "Title":"Re-Installing google play",
+    "LastEditorUserId":"64362",
+    "Tags":"",
+    "LastEditDate":"2014-07-04T13:31:27.380",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"75546",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"64362",
+    "CreationDate":"2014-07-04T13:09:02.840",
+    "FavoriteCount":null,
+    "Id":"75544",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-04T13:09:02.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ac8313f-7e96-44e3-abf2-6af764c78c7e",
+            "UserId":"64362",
+            "CloseReasonId":null,
+            "PostId":"75544",
+            "PostHistoryTypeId":"2",
+            "Id":"251107",
+            "Text":"I got my google play and google play services deleted from my rooted phone.I had moved all the apps on internal apps to my partitioned sd card,which got corrupted.Tried installing google play apk and services from other sites but they would not install.Need your help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-04T13:09:02.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ac8313f-7e96-44e3-abf2-6af764c78c7e",
+            "UserId":"64362",
+            "CloseReasonId":null,
+            "PostId":"75544",
+            "PostHistoryTypeId":"1",
+            "Id":"251108",
+            "Text":"Re-Installing google play"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-04T13:09:02.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ac8313f-7e96-44e3-abf2-6af764c78c7e",
+            "UserId":"64362",
+            "CloseReasonId":null,
+            "PostId":"75544",
+            "PostHistoryTypeId":"3",
+            "Id":"251109",
+            "Text":""
+        },
+        {
+            "Comment":"added 28 characters in body",
+            "CreationDate":"2014-07-04T13:31:27.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3c47ddb-0b0a-47ca-870d-3c8e7e826868",
+            "UserId":"64362",
+            "CloseReasonId":null,
+            "PostId":"75544",
+            "PostHistoryTypeId":"5",
+            "Id":"251112",
+            "Text":"I got my google play and google play services deleted from my rooted phone.I had moved all the apps on internal apps to my partitioned sd card,which got corrupted.Tried installing google play apk and services from other sites but they would not install.Phone model:Galaxy Y S5630Need your help."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-07T14:48:54.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"e556c41b-17c3-4bee-9d2d-d63e89d3d78e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"75544",
+            "PostHistoryTypeId":"10",
+            "Id":"251830",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

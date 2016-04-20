@@ -1,0 +1,83 @@
+{
+    "Body":"When using Android ICS, can I use my phone without having my calendar and associated items going on Google Calendar but just synchronizing with Outlook (the desktop app) ? If yes, how may I do this ?",
+    "ViewCount":"309",
+    "LastActivityDate":"2013-09-17T03:23:48.063",
+    "ClosedDate":"2013-09-24T14:12:45.557",
+    "Title":"Using Android only with Outlook and not Google Calendar",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-09-16T19:23:30.340",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18950",
+    "CreationDate":"2012-09-07T00:17:36.777",
+    "FavoriteCount":"1",
+    "Id":"28896",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T00:17:36.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"de689613-2fe7-436e-80dd-7923e3a95abf",
+            "UserId":"18950",
+            "CloseReasonId":null,
+            "PostId":"28896",
+            "PostHistoryTypeId":"2",
+            "Id":"84673",
+            "Text":"When using Android ICS, can I use my phone without having my calendar and associated items going on Google Calendar but just synchronizing with Outlook (the desktop app) ? If yes, how may I do this ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T00:17:36.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"de689613-2fe7-436e-80dd-7923e3a95abf",
+            "UserId":"18950",
+            "CloseReasonId":null,
+            "PostId":"28896",
+            "PostHistoryTypeId":"1",
+            "Id":"84674",
+            "Text":"Using Android only with Outlook and not Google Calendar"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-07T00:17:36.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"de689613-2fe7-436e-80dd-7923e3a95abf",
+            "UserId":"18950",
+            "CloseReasonId":null,
+            "PostId":"28896",
+            "PostHistoryTypeId":"3",
+            "Id":"84675",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-09-16T19:23:30.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"406fccb7-5d6c-465e-97d2-01dcd4b29be4",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"28896",
+            "PostHistoryTypeId":"6",
+            "Id":"176048",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-24T14:12:45.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c97f8864-ff70-4794-8fdf-d1ff062b87a1",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28896",
+            "PostHistoryTypeId":"10",
+            "Id":"178239",
+            "Text":"{\"OriginalQuestionIds\":[21015],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

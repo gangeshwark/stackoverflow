@@ -1,0 +1,71 @@
+{
+    "Body":"1) Do ezpdf reader and repligo reader allow you to browse through your annotations like Skim does? I want to be able to see all my notes and highlights in a list on a side panel or the like, including what page the annotation is on.2) After I annotate the document on my android, which of these apps will let me save them and open the document with the added annotations in Skim, all searchable in a list? Which converts better when opening in Skim?3) More generally, which app for android is most like Skim? Which one is better for annotating pdfs?Thanks.",
+    "ViewCount":"577",
+    "LastActivityDate":"2012-02-08T06:39:51.020",
+    "ClosedDate":"2012-12-23T16:02:56.320",
+    "Title":"Ezpdf reader or repligo reader comparison and exporting annotations to Skim",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12324",
+    "CreationDate":"2012-02-08T06:39:51.020",
+    "FavoriteCount":null,
+    "Id":"19234",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-08T06:39:51.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"402a5a63-7b15-4f87-a879-6adcf567409b",
+            "UserId":"12324",
+            "CloseReasonId":null,
+            "PostId":"19234",
+            "PostHistoryTypeId":"2",
+            "Id":"53146",
+            "Text":"1) Do **ezpdf reader** and **repligo reader** allow you to browse through your annotations like **Skim** does? I want to be able to see all my notes and highlights in a list on a side panel or the like, including what page the annotation is on.2) After I annotate the document on my android, which of these apps will let me save them and open the document with the added annotations in **Skim**, all searchable in a list? Which converts better when opening in Skim?3) More generally, which app for android is most like **Skim**? Which one is better for annotating pdfs?Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-08T06:39:51.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"402a5a63-7b15-4f87-a879-6adcf567409b",
+            "UserId":"12324",
+            "CloseReasonId":null,
+            "PostId":"19234",
+            "PostHistoryTypeId":"1",
+            "Id":"53147",
+            "Text":"Ezpdf reader or repligo reader comparison and exporting annotations to Skim"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-08T06:39:51.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"402a5a63-7b15-4f87-a879-6adcf567409b",
+            "UserId":"12324",
+            "CloseReasonId":null,
+            "PostId":"19234",
+            "PostHistoryTypeId":"3",
+            "Id":"53148",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T16:02:56.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"f1e30526-c9aa-4ffd-a045-c488df834f41",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"19234",
+            "PostHistoryTypeId":"10",
+            "Id":"108498",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

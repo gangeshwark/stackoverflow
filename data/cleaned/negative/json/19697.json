@@ -1,0 +1,83 @@
+{
+    "Body":"I have installed the Multi picture Live wallpaper app from Android market. It basically sets a seperate wallpaper for every Homescreen. It works great.However, there is one drawback. Once i reboot my phone , all the wallpapers disappear. I need to re do all the hardwork for setting up the wall papers again.Any way to stop this?",
+    "ViewCount":"226",
+    "LastActivityDate":"2012-02-20T15:34:41.410",
+    "ClosedDate":"2012-10-03T12:02:41.000",
+    "Title":"Multi picture wallpaper App",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12501",
+    "CreationDate":"2012-02-20T15:34:41.410",
+    "FavoriteCount":null,
+    "Id":"19697",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T15:34:41.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebb72d24-cc2c-4aac-bf0d-251d2f7bccc4",
+            "UserId":"12501",
+            "CloseReasonId":null,
+            "PostId":"19697",
+            "PostHistoryTypeId":"2",
+            "Id":"54592",
+            "Text":"I have installed the Multi picture Live wallpaper app from Android market. It basically sets a seperate wallpaper for every Homescreen. It works great.However, there is one drawback. Once i reboot my phone , all the wallpapers disappear. I need to re do all the hardwork for setting up the wall papers again.Any way to stop this?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T15:34:41.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebb72d24-cc2c-4aac-bf0d-251d2f7bccc4",
+            "UserId":"12501",
+            "CloseReasonId":null,
+            "PostId":"19697",
+            "PostHistoryTypeId":"1",
+            "Id":"54593",
+            "Text":"Multi picture wallpaper App"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-20T15:34:41.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebb72d24-cc2c-4aac-bf0d-251d2f7bccc4",
+            "UserId":"12501",
+            "CloseReasonId":null,
+            "PostId":"19697",
+            "PostHistoryTypeId":"3",
+            "Id":"54594",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/171652471071047682",
+            "CreationDate":"2012-02-20T17:48:33.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c5b2e5c-98a4-433b-9481-efb01a227f1c",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"19697",
+            "PostHistoryTypeId":"25",
+            "Id":"54610",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-03T12:02:41.000",
+            "UserDisplayName":null,
+            "RevisionGUID":"a421bc56-698f-4781-a92a-9f9cc0c8ed22",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19697",
+            "PostHistoryTypeId":"10",
+            "Id":"90993",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

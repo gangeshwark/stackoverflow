@@ -1,0 +1,71 @@
+{
+    "Body":"I just bought a new d2 Tablet, and it seems to be functioning normally, except that the Wi-Fi will not turn on.  I navigated to the settings screen and selected Wi-Fi, and dragged the Off button to On.  It stayed at On  and displayed the text \"Turning Wi-Fi on...\" for five seconds, after which it turned the button back to Off.  It has done this repeatedly.  I know I have good wireless signal b\/c I'm using it to submit this question from my laptop. Is there some additional diagnostic I can do, or do I need to see about returning it as defective?",
+    "ViewCount":"947",
+    "LastActivityDate":"2012-10-23T13:56:28.877",
+    "ClosedDate":"2012-10-24T11:33:30.477",
+    "Title":"How to Diagnose Wireless that won't turn on?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22703",
+    "CreationDate":"2012-10-21T21:55:42.830",
+    "FavoriteCount":null,
+    "Id":"32173",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-21T21:55:42.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"c59bd83d-c248-468b-b1e0-a6d3d38bad17",
+            "UserId":"22703",
+            "CloseReasonId":null,
+            "PostId":"32173",
+            "PostHistoryTypeId":"2",
+            "Id":"95084",
+            "Text":"I just bought a new [d2 Tablet][1], and it seems to be functioning normally, except that the Wi-Fi will not turn on.  I navigated to the settings screen and selected Wi-Fi, and dragged the `Off` button to `On`.  It stayed at `On`  and displayed the text \"Turning Wi-Fi on...\" for five seconds, after which it turned the button back to `Off`.  It has done this repeatedly.  I know I have good wireless signal b\/c I'm using it to submit this question from my laptop. Is there some additional diagnostic I can do, or do I need to see about returning it as defective?  [1]: http:\/\/d2pad.info\/index.php?option=com_content&view=frontpage&Itemid=203"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-21T21:55:42.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"c59bd83d-c248-468b-b1e0-a6d3d38bad17",
+            "UserId":"22703",
+            "CloseReasonId":null,
+            "PostId":"32173",
+            "PostHistoryTypeId":"1",
+            "Id":"95085",
+            "Text":"How to Diagnose Wireless that won't turn on?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-21T21:55:42.830",
+            "UserDisplayName":null,
+            "RevisionGUID":"c59bd83d-c248-468b-b1e0-a6d3d38bad17",
+            "UserId":"22703",
+            "CloseReasonId":null,
+            "PostId":"32173",
+            "PostHistoryTypeId":"3",
+            "Id":"95086",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-24T11:33:30.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdb692cc-3e6b-47b1-bd10-6ca55ec23c41",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32173",
+            "PostHistoryTypeId":"10",
+            "Id":"95512",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

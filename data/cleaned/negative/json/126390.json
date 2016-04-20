@@ -1,0 +1,71 @@
+{
+    "Body":"I want my hone to be used as network drive, by sharing folders over network. So that I can access it from My windows PC. I want to use SMA protocol for that.I am using OnePlus One, CM12.1 OS with ES file explorer.",
+    "ViewCount":"417",
+    "LastActivityDate":"2015-10-19T09:49:39.880",
+    "ClosedDate":"2015-10-19T13:58:37.943",
+    "Title":"How to share android directories over LAN using SMB protocol",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7751",
+    "CreationDate":"2015-10-19T05:21:39.987",
+    "FavoriteCount":null,
+    "Id":"126390",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T05:21:39.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0f05778-b6a1-4dda-aae6-75865dacdf4d",
+            "UserId":"7751",
+            "CloseReasonId":null,
+            "PostId":"126390",
+            "PostHistoryTypeId":"2",
+            "Id":"414670",
+            "Text":"I want my hone to be used as network drive, by sharing folders over network. So that I can access it from My windows PC. I want to use SMA protocol for that.I am using OnePlus One, CM12.1 OS with ES file explorer."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T05:21:39.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0f05778-b6a1-4dda-aae6-75865dacdf4d",
+            "UserId":"7751",
+            "CloseReasonId":null,
+            "PostId":"126390",
+            "PostHistoryTypeId":"1",
+            "Id":"414671",
+            "Text":"How to share android directories over LAN using SMB protocol"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-19T05:21:39.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0f05778-b6a1-4dda-aae6-75865dacdf4d",
+            "UserId":"7751",
+            "CloseReasonId":null,
+            "PostId":"126390",
+            "PostHistoryTypeId":"3",
+            "Id":"414672",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-19T13:58:37.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"0512856b-1f64-42cd-b9ac-0f0d04cbe424",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"126390",
+            "PostHistoryTypeId":"10",
+            "Id":"414857",
+            "Text":"{\"OriginalQuestionIds\":[1705],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

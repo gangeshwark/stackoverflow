@@ -1,0 +1,71 @@
+{
+    "Body":"After I installed a MyEclipse theme , you can not run MyEclipse. Here is the log information:Feb 29 18:47:56 JFMacbook com.apple.xpc.launchd[1] (org.eclipse.eclipse.752672[772]): Could not find and\/or execute program specified by service: 2: No such file or directory: \/Applications\/MyEclipse 2015\/MyEclipse 2015.app\/Contents\/Profile\/myeclipse.app\/Contents\/MacOS\/myeclipseFeb 29 18:47:56 JFMacbook Dock[277]: spawn_via_launchd() failed, errno=111 label=org.eclipse.eclipse.752672 path=\/Applications\/MyEclipse 2015\/MyEclipse 2015.app\/Contents\/Profile\/myeclipse.app\/Contents\/MacOS\/myeclipse flags=1 : LaunchApplicationClient.cp #1136 LaunchApplicationViaLaunchDJobLabel() q=com.apple.root.user-initiated-qosFeb 29 18:47:56 JFMacbook Dock[277]: spawn_via_launchd() failed, errno=111 label=org.eclipse.eclipse.752672 path=\/Applications\/MyEclipse 2015\/MyEclipse 2015.app\/Contents\/Profile\/myeclipse.app\/Contents\/MacOS\/myeclipse flags=1Feb 29 18:47:56 JFMacbook com.apple.xpc.launchd1 (org.eclipse.eclipse.752672[772]): Service setup event to handle failure and will not launch until it fires.",
+    "ViewCount":"15",
+    "LastActivityDate":"2016-02-29T10:59:35.787",
+    "ClosedDate":"2016-02-29T16:48:38.983",
+    "Title":"My Myeclipse not run , my system is Mac os",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153865",
+    "CreationDate":"2016-02-29T10:56:21.257",
+    "FavoriteCount":null,
+    "Id":"138423",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-29T10:56:21.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"d138b0fe-ef81-4356-a732-c82688f9a686",
+            "UserId":"153865",
+            "CloseReasonId":null,
+            "PostId":"138423",
+            "PostHistoryTypeId":"2",
+            "Id":"462589",
+            "Text":"After I installed a MyEclipse theme , you can not run MyEclipse. Here is the log information:    Feb 29 18:47:56 JFMacbook com.apple.xpc.launchd[1] (org.eclipse.eclipse.752672[772]): Could not find and\/or execute program specified by service: 2: No such file or directory: \/Applications\/MyEclipse 2015\/MyEclipse 2015.app\/Contents\/Profile\/myeclipse.app\/Contents\/MacOS\/myeclipseFeb 29 18:47:56 JFMacbook Dock[277]: spawn_via_launchd() failed, errno=111 label=org.eclipse.eclipse.752672 path=\/Applications\/MyEclipse 2015\/MyEclipse 2015.app\/Contents\/Profile\/myeclipse.app\/Contents\/MacOS\/myeclipse flags=1 : LaunchApplicationClient.cp #1136 LaunchApplicationViaLaunchDJobLabel() q=com.apple.root.user-initiated-qosFeb 29 18:47:56 JFMacbook Dock[277]: spawn_via_launchd() failed, errno=111 label=org.eclipse.eclipse.752672 path=\/Applications\/MyEclipse 2015\/MyEclipse 2015.app\/Contents\/Profile\/myeclipse.app\/Contents\/MacOS\/myeclipse flags=1Feb 29 18:47:56 JFMacbook com.apple.xpc.launchd[1] (org.eclipse.eclipse.752672[772]): Service setup event to handle failure and will not launch until it fires.[![enter image description here][1]][1][1]: http:\/\/i.stack.imgur.com\/MhBUK.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-29T10:56:21.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"d138b0fe-ef81-4356-a732-c82688f9a686",
+            "UserId":"153865",
+            "CloseReasonId":null,
+            "PostId":"138423",
+            "PostHistoryTypeId":"1",
+            "Id":"462590",
+            "Text":"My Myeclipse not run , my system is Mac os"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-29T10:56:21.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"d138b0fe-ef81-4356-a732-c82688f9a686",
+            "UserId":"153865",
+            "CloseReasonId":null,
+            "PostId":"138423",
+            "PostHistoryTypeId":"3",
+            "Id":"462591",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-29T16:48:38.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"25e08179-40a7-450f-b835-b849941dff67",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"138423",
+            "PostHistoryTypeId":"10",
+            "Id":"462685",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"}]}"
+        }
+    ]
+}

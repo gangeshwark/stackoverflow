@@ -1,0 +1,83 @@
+{
+    "Body":"I have this devices which the android version is 4.2. After read some articles about Kitkat, I'm really excited and want to try to experience it on my phone. However, it seems the manufacturer won't update it to Kitkat in the future. So I think I'll do it my own. I understand and accept the risks.So, what should I do now? I read some articles about this but can't make a check list of things to do. Will it be a build from the scratch or I can re-use the old kernel? How can I extract the old driver?If someone can provide me a guide or a check list, it will help me so much! Any idea will be appreciated!",
+    "ViewCount":"60",
+    "LastActivityDate":"2013-11-02T01:00:49.397",
+    "ClosedDate":"2013-11-01T18:13:17.090",
+    "Title":"How to make an Android update for your own device?",
+    "LastEditorUserId":"24754",
+    "Tags":"",
+    "LastEditDate":"2013-11-02T01:00:49.397",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24754",
+    "CreationDate":"2013-11-01T10:54:23.190",
+    "FavoriteCount":"1",
+    "Id":"56155",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-01T10:54:23.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"e40d8a73-92fd-4b39-9458-43d3534d6716",
+            "UserId":"24754",
+            "CloseReasonId":null,
+            "PostId":"56155",
+            "PostHistoryTypeId":"2",
+            "Id":"186841",
+            "Text":"I have [this devices][1] which the android version is 4.2. After read some articles about Kitkat, I'm really excited and want to try to experience it on my phone. However, it seems the manufacturer won't update it to Kitkat in the future. So I think I'll do it my own. I understand and accept the risks.So, what should I do now? I read some articles about this but can't make a check list of things to do. Will it be [a build from the scratch][2] or I can re-use the old kernel? How can I extract the old driver?If someone can provide me a guide or a check list, it will help me so much! Any idea will be appreciated!  [1]: http:\/\/www.notebookcheck.net\/Review-Amoi-N828-Smartphone.93161.0.html  [2]: http:\/\/xda-university.com\/as-a-developer\/getting-started-building-android-from-source"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-01T10:54:23.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"e40d8a73-92fd-4b39-9458-43d3534d6716",
+            "UserId":"24754",
+            "CloseReasonId":null,
+            "PostId":"56155",
+            "PostHistoryTypeId":"1",
+            "Id":"186842",
+            "Text":"How to update Android version when updates from manufacturer not available?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-01T10:54:23.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"e40d8a73-92fd-4b39-9458-43d3534d6716",
+            "UserId":"24754",
+            "CloseReasonId":null,
+            "PostId":"56155",
+            "PostHistoryTypeId":"3",
+            "Id":"186843",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-01T18:13:17.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"928e6aac-db7a-42f3-b313-b8315e299eb0",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"56155",
+            "PostHistoryTypeId":"10",
+            "Id":"186930",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        },
+        {
+            "Comment":"to avoid duplicate question!",
+            "CreationDate":"2013-11-02T01:00:49.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"e564acc2-25d6-48ff-9ed7-fb1c7599d158",
+            "UserId":"24754",
+            "CloseReasonId":null,
+            "PostId":"56155",
+            "PostHistoryTypeId":"4",
+            "Id":"186997",
+            "Text":"How to make an Android update for your own device?"
+        }
+    ]
+}

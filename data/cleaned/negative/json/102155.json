@@ -1,0 +1,83 @@
+{
+    "Body":"My wife accidentally smashed the screen on her Sony Xperia Z3 and the touch screen is not useable. There are colors and lines but nothing else. All of the ports on the device work just fine. However, I cannot access the phone's files with my PC because USB connection settings are currently set to charge the phone. I need to do the Data Transfer setting but am unable because of the broken touch screen. I talked to Sony support and they were no help whatsoever.Can someone please tell me if there is a workaround? I am a tech so I will understand what you are saying even if it is complicated.Thanks,Mark",
+    "ViewCount":"1220",
+    "LastActivityDate":"2015-04-27T14:34:09.380",
+    "ClosedDate":"2015-04-27T14:46:09.623",
+    "Title":"Smashed screen on Xperia Z3, need to download data without touch capabilities",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-04-27T14:34:09.380",
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"97611",
+    "CreationDate":"2015-03-11T00:49:48.833",
+    "FavoriteCount":null,
+    "Id":"102155",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-11T00:49:48.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"3286934f-ba54-47e2-8c6d-160eb3b8aeb1",
+            "UserId":"97611",
+            "CloseReasonId":null,
+            "PostId":"102155",
+            "PostHistoryTypeId":"2",
+            "Id":"332506",
+            "Text":"My wife accidentally smashed the screen on her Sony Xperia Z3 and the touch screen is not useable. There are colors and lines but nothing else. All of the ports on the device work just fine. However, I cannot access the phone's files with my PC because USB connection settings are currently set to charge the phone. I need to do the Data Transfer setting but am unable because of the broken touch screen. I talked to Sony support and they were no help whatsoever.Can someone please tell me if there is a workaround? I am a tech so I will understand what you are saying even if it is complicated.Thanks,Mark"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-11T00:49:48.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"3286934f-ba54-47e2-8c6d-160eb3b8aeb1",
+            "UserId":"97611",
+            "CloseReasonId":null,
+            "PostId":"102155",
+            "PostHistoryTypeId":"1",
+            "Id":"332507",
+            "Text":"Smashed screen on Xperia Z3, need to download data without touch capabilities"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-11T00:49:48.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"3286934f-ba54-47e2-8c6d-160eb3b8aeb1",
+            "UserId":"97611",
+            "CloseReasonId":null,
+            "PostId":"102155",
+            "PostHistoryTypeId":"3",
+            "Id":"332508",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-04-27T14:34:09.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"61058b34-56fe-4096-849e-b9ddecf5239f",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"102155",
+            "PostHistoryTypeId":"6",
+            "Id":"349715",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-27T14:46:09.623",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4137568-2b2e-4e63-8a91-5ebcbfa3cbf1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"102155",
+            "PostHistoryTypeId":"10",
+            "Id":"349729",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to move phone contacts to Google?  I am using my New Samsung Galaxy Y mobile phone.In My Contacts, I see that some are in SIM Memory, Some are in Phone Memory while others are in Google Accounts.In the Import\/Export Option, I see Import\/Export to SD card and Import\/Export to SIM Card.I want to copy all my contacts in phone and sim memory to my Google Account. How do I do that? Is there any way to do it rather than doing it manually?",
+    "ViewCount":"80402",
+    "LastActivityDate":"2012-08-08T23:57:15.627",
+    "ClosedDate":"2012-10-19T20:19:58.600",
+    "Title":"Transfer all Contacts in Phone and Sim to Google Contacts",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"27258",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16112",
+    "CreationDate":"2012-08-01T18:40:26.670",
+    "FavoriteCount":null,
+    "Id":"26826",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-01T18:40:26.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"c605b0a1-19f7-4950-a5b6-36ed30071532",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"26826",
+            "PostHistoryTypeId":"2",
+            "Id":"77843",
+            "Text":"I am using my New Samsung Galaxy Y mobile phone.In My Contacts, I see that some are in SIM Memory, Some are in Phone Memory while others are in Google Accounts.In the Import\/Export Option, I see Import\/Export to SD card and Import\/Export to SIM Card.I want to copy all my contacts in phone and sim memory to my Google Account. How do I do that? Is there any way to do it rather than doing it manually?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-01T18:40:26.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"c605b0a1-19f7-4950-a5b6-36ed30071532",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"26826",
+            "PostHistoryTypeId":"1",
+            "Id":"77844",
+            "Text":"Transfer all Contacts in Phone and Sim to Google Contacts"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-01T18:40:26.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"c605b0a1-19f7-4950-a5b6-36ed30071532",
+            "UserId":"16112",
+            "CloseReasonId":null,
+            "PostId":"26826",
+            "PostHistoryTypeId":"3",
+            "Id":"77845",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-19T20:19:58.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"8cd763c3-5fa7-4261-9b60-6968f048576e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26826",
+            "PostHistoryTypeId":"5",
+            "Id":"94796",
+            "Text":"> **Possible Duplicate:**  > [How to move phone contacts to Google?](http:\/\/android.stackexchange.com\/questions\/637\/how-to-move-phone-contacts-to-google)  I am using my New Samsung Galaxy Y mobile phone.In My Contacts, I see that some are in SIM Memory, Some are in Phone Memory while others are in Google Accounts.In the Import\/Export Option, I see Import\/Export to SD card and Import\/Export to SIM Card.I want to copy all my contacts in phone and sim memory to my Google Account. How do I do that? Is there any way to do it rather than doing it manually?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-19T20:19:58.600",
+            "UserDisplayName":null,
+            "RevisionGUID":"56b284ac-cb2f-44f9-b4a1-428581f8fc83",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"26826",
+            "PostHistoryTypeId":"10",
+            "Id":"94797",
+            "Text":"{\"OriginalQuestionIds\":[637],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

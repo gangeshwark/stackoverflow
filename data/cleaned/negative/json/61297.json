@@ -1,0 +1,83 @@
+{
+    "Body":"How to use my PC internet on Android mobile via Bluetooth. I'm having a bluetooth dongle connected to my PC. My phone and the PC are paired.DETAILS OS: Windows XPINTERNET CONNECTION MECHANISM : ADSL modem (connected to PC viaEthernet cable)Phone: Sony Xperia (Android Ice Cream Sandwitch)Any help will be greatly appreciated.",
+    "ViewCount":"70685",
+    "LastActivityDate":"2014-01-16T11:38:43.767",
+    "ClosedDate":"2014-01-17T17:52:49.813",
+    "Title":"How to use PC internet on Android mobile via Bluetooth",
+    "LastEditorUserId":"156",
+    "Tags":"",
+    "LastEditDate":"2014-01-16T11:25:19.417",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2014-01-16T09:42:08.640",
+    "FavoriteCount":"1",
+    "Id":"61297",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-16T09:42:08.640",
+            "UserDisplayName":"user51015",
+            "RevisionGUID":"ed0ef526-b171-43e4-b3b1-4a8700f36832",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"61297",
+            "PostHistoryTypeId":"2",
+            "Id":"207364",
+            "Text":"How to use my PC internet on Android mobile via Bluetooth. I'm having a bluetooth dongle connected to my PC. My phone and the PC are paired.**DETAILS**  - OS: Windows XP - INTERNET CONNECTION MECHANISM : ADSL modem (connected to PC via   Ethernet cable) - Phone: Sony Xperia (Android Ice Cream Sandwitch)Any help will be greatly appreciated."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-16T09:42:08.640",
+            "UserDisplayName":"user51015",
+            "RevisionGUID":"ed0ef526-b171-43e4-b3b1-4a8700f36832",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"61297",
+            "PostHistoryTypeId":"1",
+            "Id":"207365",
+            "Text":"How to use PC internet on Android mobile via Bluetooth"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-16T09:42:08.640",
+            "UserDisplayName":"user51015",
+            "RevisionGUID":"ed0ef526-b171-43e4-b3b1-4a8700f36832",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"61297",
+            "PostHistoryTypeId":"3",
+            "Id":"207366",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-16T11:25:19.417",
+            "UserDisplayName":null,
+            "RevisionGUID":"a840622d-bbae-4af8-a1b2-f0e4b9dd1999",
+            "UserId":"156",
+            "CloseReasonId":null,
+            "PostId":"61297",
+            "PostHistoryTypeId":"6",
+            "Id":"207384",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-01-17T17:52:49.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"154a8ecb-b46d-4937-843c-ed3c0367e65d",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"61297",
+            "PostHistoryTypeId":"10",
+            "Id":"207807",
+            "Text":"{\"OriginalQuestionIds\":[24332],\"Voters\":[{\"Id\":156,\"DisplayName\":\"GAThrawn\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

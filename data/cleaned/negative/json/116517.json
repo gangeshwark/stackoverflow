@@ -1,0 +1,71 @@
+{
+    "Body":"http:\/\/arstechnica.com\/security\/2015\/06\/new-exploit-turns-samsung-galaxy-phones-into-remote-bugging-devices\/I was thinking about buying this phone along with a extetnion  at my provider because the phone would be quite cheap and it has a removable battery.Is there a way that Samsung can patch this security vault by an update?Also is there a way how i can find out if the phone my provider offers is affected by this vault?",
+    "ViewCount":"27",
+    "LastActivityDate":"2015-07-28T04:26:02.433",
+    "ClosedDate":"2015-07-28T14:37:52.390",
+    "Title":"New vulnerabilietes discovered in Galaxy S5 stock keyboard update",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99573",
+    "CreationDate":"2015-07-28T04:26:02.433",
+    "FavoriteCount":"0",
+    "Id":"116517",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T04:26:02.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"7959cd15-e04c-4485-bd9d-c29a45524b85",
+            "UserId":"99573",
+            "CloseReasonId":null,
+            "PostId":"116517",
+            "PostHistoryTypeId":"2",
+            "Id":"383227",
+            "Text":"http:\/\/arstechnica.com\/security\/2015\/06\/new-exploit-turns-samsung-galaxy-phones-into-remote-bugging-devices\/I was thinking about buying this phone along with a extetnion  at my provider because the phone would be quite cheap and it has a removable battery.Is there a way that Samsung can patch this security vault by an update?Also is there a way how i can find out if the phone my provider offers is affected by this vault?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T04:26:02.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"7959cd15-e04c-4485-bd9d-c29a45524b85",
+            "UserId":"99573",
+            "CloseReasonId":null,
+            "PostId":"116517",
+            "PostHistoryTypeId":"1",
+            "Id":"383228",
+            "Text":"New vulnerabilietes discovered in Galaxy S5 stock keyboard update"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-28T04:26:02.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"7959cd15-e04c-4485-bd9d-c29a45524b85",
+            "UserId":"99573",
+            "CloseReasonId":null,
+            "PostId":"116517",
+            "PostHistoryTypeId":"3",
+            "Id":"383229",
+            "Text":""
+        },
+        {
+            "Comment":"105",
+            "CreationDate":"2015-07-28T14:37:52.390",
+            "UserDisplayName":null,
+            "RevisionGUID":"c4bd2571-451d-491c-ba27-332ed8a1e043",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"116517",
+            "PostHistoryTypeId":"10",
+            "Id":"383409",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

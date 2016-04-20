@@ -1,0 +1,71 @@
+{
+    "Body":"application installation error code -24 encountered while installing Avast mobile anti virus.",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-04-30T01:31:32.037",
+    "ClosedDate":"2015-04-30T03:11:43.620",
+    "Title":"Avast mobile anti virus installation",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104766",
+    "CreationDate":"2015-04-30T01:31:32.037",
+    "FavoriteCount":null,
+    "Id":"107058",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-30T01:31:32.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"79c99193-03c4-45ba-beae-bc5ab1e14586",
+            "UserId":"104766",
+            "CloseReasonId":null,
+            "PostId":"107058",
+            "PostHistoryTypeId":"2",
+            "Id":"350632",
+            "Text":"application installation error code -24 encountered while installing Avast mobile anti virus."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-30T01:31:32.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"79c99193-03c4-45ba-beae-bc5ab1e14586",
+            "UserId":"104766",
+            "CloseReasonId":null,
+            "PostId":"107058",
+            "PostHistoryTypeId":"1",
+            "Id":"350633",
+            "Text":"Avast mobile anti virus installation"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-30T01:31:32.037",
+            "UserDisplayName":null,
+            "RevisionGUID":"79c99193-03c4-45ba-beae-bc5ab1e14586",
+            "UserId":"104766",
+            "CloseReasonId":null,
+            "PostId":"107058",
+            "PostHistoryTypeId":"3",
+            "Id":"350634",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-30T03:11:43.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"d7eaae83-fb89-4a3c-9d5f-282524a6f7c8",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"107058",
+            "PostHistoryTypeId":"10",
+            "Id":"350650",
+            "Text":"{\"OriginalQuestionIds\":[57456],\"Voters\":[{\"Id\":11190,\"DisplayName\":\"Stephen Schrauger\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

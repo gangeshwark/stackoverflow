@@ -1,0 +1,71 @@
+{
+    "Body":"How long will Motorola and Google provide Android updates to their models Moto X(2013) and Nexus 5? Is there a limit or a deadline to these updates rolling in?Google has said that the newer versions will be able to run even on low-end smartphones, so this means that the updates should come for at least to years to these mid-range phones but is there any confirmation to that?",
+    "ViewCount":"75",
+    "LastActivityDate":"2014-11-13T04:27:52.943",
+    "ClosedDate":"2014-11-13T16:03:21.450",
+    "Title":"Android version updates for Motorola and Nexus phones",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"35988",
+    "CreationDate":"2014-11-13T04:20:38.270",
+    "FavoriteCount":null,
+    "Id":"87522",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T04:20:38.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9858375-51f3-46f2-a5c3-1126c2211bd8",
+            "UserId":"35988",
+            "CloseReasonId":null,
+            "PostId":"87522",
+            "PostHistoryTypeId":"2",
+            "Id":"287887",
+            "Text":"How long will Motorola and Google provide Android updates to their models Moto X(2013) and Nexus 5? Is there a limit or a deadline to these updates rolling in?  Google has said that the newer versions will be able to run even on low-end smartphones, so this means that the updates should come for at least to years to these mid-range phones but is there any confirmation to that?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T04:20:38.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9858375-51f3-46f2-a5c3-1126c2211bd8",
+            "UserId":"35988",
+            "CloseReasonId":null,
+            "PostId":"87522",
+            "PostHistoryTypeId":"1",
+            "Id":"287888",
+            "Text":"Android version updates for Motorola and Nexus phones"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-11-13T04:20:38.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9858375-51f3-46f2-a5c3-1126c2211bd8",
+            "UserId":"35988",
+            "CloseReasonId":null,
+            "PostId":"87522",
+            "PostHistoryTypeId":"3",
+            "Id":"287889",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-13T16:03:21.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"0707533b-3f15-41c0-89fa-43d138ea2f7a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"87522",
+            "PostHistoryTypeId":"10",
+            "Id":"288082",
+            "Text":"{\"OriginalQuestionIds\":[75684],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

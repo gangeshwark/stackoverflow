@@ -1,0 +1,71 @@
+{
+    "Body":"For some reason my class is not running, I was using some demo\/example code and added some logs to figure out why it wasn't working. It turns out I have a class that isn't even running properly when called. This is an android application that takes a picture without a preview by using the camera hardware directly.In my main class I have this:public void onClick(View view) {    Log.d(DEBUG_TAG, \" . . . onClick running\");    if (camera != null) {        Log.d(DEBUG_TAG, \" . . . Camera does not equal null - Taking picture\");        camera.takePicture(null, null,            new PhotoHandler(getApplicationContext()));    }}As you can see above, after my Log says that the application is \"Taking picture\", it should run camera.takePicture, using context new PhotoHandler (which is my class that won't execute) -- because in my PhotoHandler.java I have this:@Overridepublic void onPictureTaken(byte[] data, Camera camera) {    Log.d(MakePhotoActivity.DEBUG_TAG, \". . . Running PhotoHandler.java\");Which is my main method of that particular class. The thing is, I never receive the Log saying \"Running PhotoHandler.java\" and a picture never saves. In fact none of my Logs from PhotoHandler.java ever run, so that's why I believe the whole class isn't running.Here are my logs:    02-26 11:50:17.556 4542-4542\/camera.camerasnap D\/MakePhotoActivity: Camera found02-26 11:50:17.556 4542-4542\/camera.camerasnap D\/MakePhotoActivity: Camera id = 002-26 11:50:17.692 4542-4542\/camera.camerasnap D\/MakePhotoActivity: Else: Camera that was found: 002-26 11:50:17.713 4542-4585\/camera.camerasnap D\/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: false02-26 11:50:17.723 4542-4542\/camera.camerasnap D\/Atlas: Validating map...02-26 11:50:17.784 4542-4585\/camera.camerasnap D\/libEGL: loaded \/system\/lib\/egl\/libEGL_tegra.so02-26 11:50:17.802 4542-4585\/camera.camerasnap D\/libEGL: loaded \/system\/lib\/egl\/libGLESv1_CM_tegra.so02-26 11:50:17.839 4542-4585\/camera.camerasnap D\/libEGL: loaded \/system\/lib\/egl\/libGLESv2_tegra.so02-26 11:50:17.877 4542-4585\/camera.camerasnap I\/OpenGLRenderer: Initialized EGL, version 1.402-26 11:50:17.886 4542-4585\/camera.camerasnap D\/OpenGLRenderer: Enabling debug mode 002-26 11:50:26.720 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick running02-26 11:50:26.720 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . Camera does not equal null - Taking picture02-26 11:50:27.815 4542-4542\/camera.camerasnap I\/Choreographer: Skipped 65 frames!  The application may be doing too much work on its main thread.02-26 11:50:38.364 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick running02-26 11:50:38.364 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . Camera does not equal null - Taking picture02-26 11:50:51.053 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick running02-26 11:50:51.053 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . Camera does not equal null - Taking picture02-26 11:50:53.545 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick runningThe reason the logs repeat onClicked is because I clicked it several times just to show that the second class never prints a log\/runs.I am stuck, any help I would GREATLY APPRECIATE.I'm attaching the full files via pastie just in case you would like more information. Thanks again!http:\/\/pastie.org\/private\/rrnaobnmmaikwznct9oi3a",
+    "ViewCount":"15",
+    "LastActivityDate":"2016-02-26T18:11:46.493",
+    "ClosedDate":"2016-02-26T19:47:53.663",
+    "Title":"Class not running - Java\/Android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153439",
+    "CreationDate":"2016-02-26T18:11:46.493",
+    "FavoriteCount":null,
+    "Id":"138189",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T18:11:46.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"b23f05f3-28e5-4c6c-8b0c-d52775606e05",
+            "UserId":"153439",
+            "CloseReasonId":null,
+            "PostId":"138189",
+            "PostHistoryTypeId":"2",
+            "Id":"461288",
+            "Text":"For some reason my class is not running, I was using some demo\/example code and added some logs to figure out why it wasn't working. It turns out I have a class that isn't even running properly when called. This is an android application that takes a picture without a preview by using the camera hardware directly.In my main class I have this:    public void onClick(View view) {        Log.d(DEBUG_TAG, \" . . . onClick running\");        if (camera != null) {            Log.d(DEBUG_TAG, \" . . . Camera does not equal null - Taking picture\");            camera.takePicture(null, null,                new PhotoHandler(getApplicationContext()));        }    }As you can see above, after my Log says that the application is \"Taking picture\", it should run camera.takePicture, using context new PhotoHandler (which is my class that won't execute) -- because in my PhotoHandler.java I have this:    @Override    public void onPictureTaken(byte[] data, Camera camera) {        Log.d(MakePhotoActivity.DEBUG_TAG, \". . . Running PhotoHandler.java\");Which is my main method of that particular class. The thing is, I never receive the Log saying \"Running PhotoHandler.java\" and a picture never saves. In fact none of my Logs from PhotoHandler.java ever run, so that's why I believe the whole class isn't running.Here are my logs:        02-26 11:50:17.556 4542-4542\/camera.camerasnap D\/MakePhotoActivity: Camera found    02-26 11:50:17.556 4542-4542\/camera.camerasnap D\/MakePhotoActivity: Camera id = 0    02-26 11:50:17.692 4542-4542\/camera.camerasnap D\/MakePhotoActivity: Else: Camera that was found: 0    02-26 11:50:17.713 4542-4585\/camera.camerasnap D\/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: false    02-26 11:50:17.723 4542-4542\/camera.camerasnap D\/Atlas: Validating map...    02-26 11:50:17.784 4542-4585\/camera.camerasnap D\/libEGL: loaded \/system\/lib\/egl\/libEGL_tegra.so    02-26 11:50:17.802 4542-4585\/camera.camerasnap D\/libEGL: loaded \/system\/lib\/egl\/libGLESv1_CM_tegra.so    02-26 11:50:17.839 4542-4585\/camera.camerasnap D\/libEGL: loaded \/system\/lib\/egl\/libGLESv2_tegra.so    02-26 11:50:17.877 4542-4585\/camera.camerasnap I\/OpenGLRenderer: Initialized EGL, version 1.4    02-26 11:50:17.886 4542-4585\/camera.camerasnap D\/OpenGLRenderer: Enabling debug mode 0    02-26 11:50:26.720 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick running    02-26 11:50:26.720 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . Camera does not equal null - Taking picture    02-26 11:50:27.815 4542-4542\/camera.camerasnap I\/Choreographer: Skipped 65 frames!  The application may be doing too much work on its main thread.    02-26 11:50:38.364 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick running    02-26 11:50:38.364 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . Camera does not equal null - Taking picture    02-26 11:50:51.053 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick running    02-26 11:50:51.053 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . Camera does not equal null - Taking picture    02-26 11:50:53.545 4542-4542\/camera.camerasnap D\/MakePhotoActivity:  . . . onClick runningThe reason the logs repeat onClicked is because I clicked it several times just to show that the second class never prints a log\/runs.I am stuck, any help I would GREATLY APPRECIATE.I'm attaching the full files via pastie just in case you would like more information. Thanks again!http:\/\/pastie.org\/private\/rrnaobnmmaikwznct9oi3a"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T18:11:46.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"b23f05f3-28e5-4c6c-8b0c-d52775606e05",
+            "UserId":"153439",
+            "CloseReasonId":null,
+            "PostId":"138189",
+            "PostHistoryTypeId":"1",
+            "Id":"461289",
+            "Text":"Class not running - Java\/Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-26T18:11:46.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"b23f05f3-28e5-4c6c-8b0c-d52775606e05",
+            "UserId":"153439",
+            "CloseReasonId":null,
+            "PostId":"138189",
+            "PostHistoryTypeId":"3",
+            "Id":"461290",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-26T19:47:53.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"478dea46-072c-4c0a-9c81-9f9d3788db3b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138189",
+            "PostHistoryTypeId":"10",
+            "Id":"461339",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Is there a way to download an audio file, such as a mp3-file from the Android browser to the device so I could listen to it later when I'm offline? Is there a way I should program the web site to make this possible?I'm not looking for an additional app to help me achieve this. ",
+    "ViewCount":"7067",
+    "LastActivityDate":"2012-05-02T13:53:01.867",
+    "ClosedDate":"2013-02-19T21:56:35.233",
+    "Title":"How to download an audio file from a web site?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"22543",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14746",
+    "CreationDate":"2012-05-02T13:10:58.440",
+    "FavoriteCount":null,
+    "Id":"22541",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-02T13:10:58.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"bbc17d9a-78fb-4879-8ef5-da93c362fc40",
+            "UserId":"14746",
+            "CloseReasonId":null,
+            "PostId":"22541",
+            "PostHistoryTypeId":"2",
+            "Id":"63770",
+            "Text":"Is there a way to download an audio file, such as a mp3-file from the Android browser to the device so I could listen to it later when I'm offline? Is there a way I should program the web site to make this possible?I'm *not* looking for an additional app to help me achieve this. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-02T13:10:58.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"bbc17d9a-78fb-4879-8ef5-da93c362fc40",
+            "UserId":"14746",
+            "CloseReasonId":null,
+            "PostId":"22541",
+            "PostHistoryTypeId":"1",
+            "Id":"63771",
+            "Text":"How to download an audio file from a web site?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-02T13:10:58.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"bbc17d9a-78fb-4879-8ef5-da93c362fc40",
+            "UserId":"14746",
+            "CloseReasonId":null,
+            "PostId":"22541",
+            "PostHistoryTypeId":"3",
+            "Id":"63772",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/198007597205434369",
+            "CreationDate":"2012-05-03T11:14:24.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"8de76f0d-4902-4883-b5b4-7a7c4702a07b",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"22541",
+            "PostHistoryTypeId":"25",
+            "Id":"63929",
+            "Text":null
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-19T21:56:35.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"7b997115-04e9-4571-bc04-6a701c30d28f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"22541",
+            "PostHistoryTypeId":"10",
+            "Id":"124064",
+            "Text":"{\"OriginalQuestionIds\":[16236],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I am attempting to flash a modified Android build to my Nexus 7 tablet.I am following this tutorial from Google, and using the specific build commands found here for my device, full_grouper-userdebug.With the device in fastboot mode and connected to the PC, I run the following commands:$ . build\/envsetup.sh (Initialize build environment.)$ lunch full_grouper-userdebug (Configure the build for specific device.)$ make -j8 (Build the source.)$ make fastboot adb (Build fastboot and adb.)$ fastboot -w flashall (Flash build to device.)At this point, I receive the following error:error: cannot open '~\/\/out\/target\/product\/grouper\/system.img'When I issue a find command, nothing is returned:$ find ~\/\/ -name system.img$Why does the file not exist? Without it, I do not know how to flash my modifications. Any ideas?I am using Ubuntu 13.10.",
+    "ViewCount":"1351",
+    "LastActivityDate":"2013-12-02T12:07:57.787",
+    "ClosedDate":"2013-12-07T12:18:53.430",
+    "Title":"system.img file is missing after building Android source",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47346",
+    "CreationDate":"2013-12-02T08:21:21.803",
+    "FavoriteCount":null,
+    "Id":"58117",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-02T08:21:21.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"32fb9a70-c0cc-4160-8bbf-7b21c8f6f384",
+            "UserId":"47346",
+            "CloseReasonId":null,
+            "PostId":"58117",
+            "PostHistoryTypeId":"2",
+            "Id":"195298",
+            "Text":"I am attempting to flash a modified Android build to my Nexus 7 tablet.I am following [this tutorial](http:\/\/source.android.com\/source\/building-running.html) from Google, and using the specific build commands [found here](http:\/\/source.android.com\/source\/building-devices.html) for my device, `full_grouper-userdebug`.With the device in fastboot mode and connected to the PC, I run the following commands:`$ . build\/envsetup.sh` (Initialize build environment.)`$ lunch full_grouper-userdebug` (Configure the build for specific device.)`$ make -j8` (Build the source.)`$ make fastboot adb` (Build fastboot and adb.)`$ fastboot -w flashall` (Flash build to device.)At this point, I receive the following error:`error: cannot open '~\/\/out\/target\/product\/grouper\/system.img'`When I issue a find command, nothing is returned:`$ find ~\/\/ -name system.img``$`Why does the file not exist? Without it, I do not know how to flash my modifications. Any ideas?I am using Ubuntu 13.10."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-02T08:21:21.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"32fb9a70-c0cc-4160-8bbf-7b21c8f6f384",
+            "UserId":"47346",
+            "CloseReasonId":null,
+            "PostId":"58117",
+            "PostHistoryTypeId":"1",
+            "Id":"195299",
+            "Text":"system.img file is missing after building Android source"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-02T08:21:21.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"32fb9a70-c0cc-4160-8bbf-7b21c8f6f384",
+            "UserId":"47346",
+            "CloseReasonId":null,
+            "PostId":"58117",
+            "PostHistoryTypeId":"3",
+            "Id":"195300",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-12-07T12:18:53.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"fef46952-cd20-4e48-a84b-8a28bd8385f1",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"58117",
+            "PostHistoryTypeId":"10",
+            "Id":"196625",
+            "Text":"{\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

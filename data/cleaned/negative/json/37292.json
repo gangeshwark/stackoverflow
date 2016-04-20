@@ -1,0 +1,83 @@
+{
+    "Body":"I have an LG -E405 phone running Android 2.3.6.As can be seen here, the phone has 1GB internal memory and 384Mb RAM.When I look at default App manager, this is what I get,RAM - 231MbSystem Memory - 157 Mb.Internal Memory - 378Mb.SD Card - 2Gb.Also, all the applications I install, by default take up space from System memory.Many tutorials explain about moving apps from internal memory to SD Card to free up space.But, in my phone I only get the option to move from System Memory to Internal Memory.It is like a whole new layer has been added in the memory heirarchy.So, what is this System Memory.",
+    "ViewCount":"93",
+    "LastActivityDate":"2013-02-27T23:00:11.493",
+    "ClosedDate":"2013-02-28T15:48:05.853",
+    "Title":"What is meant by System Memory in android?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-02-27T23:00:11.493",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26490",
+    "CreationDate":"2013-01-10T06:43:51.430",
+    "FavoriteCount":null,
+    "Id":"37292",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-10T06:43:51.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"caabb3e6-c33d-4b4b-8268-2193b2853d7d",
+            "UserId":"26490",
+            "CloseReasonId":null,
+            "PostId":"37292",
+            "PostHistoryTypeId":"2",
+            "Id":"113054",
+            "Text":"I have an LG -E405 phone running Android 2.3.6.As can be seen [here][1], the phone has 1GB internal memory and 384Mb RAM.When I look at default `App manager`, this is what I get, - RAM - 231Mb - System Memory - 157 Mb. - Internal Memory - 378Mb. - SD Card - 2Gb.Also, all the applications I install, by default take up space from `System memory`.Many tutorials explain about moving apps from internal memory to SD Card to free up space.But, in my phone I only get the option to move from System Memory to Internal Memory.It is like a whole new layer has been added in the memory heirarchy.So, what is this `System Memory`.  [1]: http:\/\/www.gsmarena.com\/lg_optimus_l3_e405-4835.php"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-10T06:43:51.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"caabb3e6-c33d-4b4b-8268-2193b2853d7d",
+            "UserId":"26490",
+            "CloseReasonId":null,
+            "PostId":"37292",
+            "PostHistoryTypeId":"1",
+            "Id":"113055",
+            "Text":"What is meant by System Memory in android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-10T06:43:51.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"caabb3e6-c33d-4b4b-8268-2193b2853d7d",
+            "UserId":"26490",
+            "CloseReasonId":null,
+            "PostId":"37292",
+            "PostHistoryTypeId":"3",
+            "Id":"113056",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-02-27T23:00:11.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ce73e4e-cd27-490c-b6e1-dc5911c92315",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"37292",
+            "PostHistoryTypeId":"6",
+            "Id":"125988",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-28T15:48:05.853",
+            "UserDisplayName":null,
+            "RevisionGUID":"80850bce-3130-4215-ab93-bc217dcb131c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"37292",
+            "PostHistoryTypeId":"10",
+            "Id":"126168",
+            "Text":"{\"OriginalQuestionIds\":[38722],\"Voters\":[{\"Id\":267,\"DisplayName\":\"user267\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

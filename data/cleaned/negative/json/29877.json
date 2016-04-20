@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Connecting to VPN forces having secure screen lock  I have Sony Xperia S with ICS 4.0.4 stock rom (rooted), I need to have a VPN account set in my phone, but when I add a VPN account, the phone asks me to set either a pattern or password for lock screen, which I don't want.Is there an app or hack to disable lock screen or at least, have just simple \"slide to unclock\" instead of pattern or password?",
+    "ViewCount":"26",
+    "LastActivityDate":"2012-09-24T20:00:03.957",
+    "ClosedDate":"2012-09-25T10:34:39.380",
+    "Title":"How to disable lock screen in ICS when VPN is set?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8041",
+    "CreationDate":"2012-09-24T20:00:03.957",
+    "FavoriteCount":null,
+    "Id":"29877",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T20:00:03.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"31397792-521f-46b7-b958-4690a8d26671",
+            "UserId":"8041",
+            "CloseReasonId":null,
+            "PostId":"29877",
+            "PostHistoryTypeId":"2",
+            "Id":"89246",
+            "Text":"I have **Sony Xperia S** with `ICS 4.0.4` stock rom **(rooted)**, I need to have a **VPN account** set in my phone, but when I add a VPN account, the phone asks me to set either a pattern or password for lock screen, which I don't want.Is there an app or hack **to disable lock screen** or at least, have just simple `\"slide to unclock\"` instead of pattern or password?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T20:00:03.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"31397792-521f-46b7-b958-4690a8d26671",
+            "UserId":"8041",
+            "CloseReasonId":null,
+            "PostId":"29877",
+            "PostHistoryTypeId":"1",
+            "Id":"89247",
+            "Text":"How to disable lock screen in ICS when VPN is set?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-24T20:00:03.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"31397792-521f-46b7-b958-4690a8d26671",
+            "UserId":"8041",
+            "CloseReasonId":null,
+            "PostId":"29877",
+            "PostHistoryTypeId":"3",
+            "Id":"89248",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-25T10:34:39.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"25dece94-494d-4e0f-8879-0b0b4ee4e414",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29877",
+            "PostHistoryTypeId":"5",
+            "Id":"89332",
+            "Text":"> **Possible Duplicate:**  > [Connecting to VPN forces having secure screen lock](http:\/\/android.stackexchange.com\/questions\/22867\/connecting-to-vpn-forces-having-secure-screen-lock)  I have **Sony Xperia S** with `ICS 4.0.4` stock rom **(rooted)**, I need to have a **VPN account** set in my phone, but when I add a VPN account, the phone asks me to set either a pattern or password for lock screen, which I don't want.Is there an app or hack **to disable lock screen** or at least, have just simple `\"slide to unclock\"` instead of pattern or password?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-25T10:34:39.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9582602-39b6-4969-a1bd-bba0932f2e9b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29877",
+            "PostHistoryTypeId":"10",
+            "Id":"89333",
+            "Text":"{\"OriginalQuestionIds\":[22867],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

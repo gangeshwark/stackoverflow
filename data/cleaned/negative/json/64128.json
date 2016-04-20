@@ -1,0 +1,71 @@
+{
+    "Body":"I finally decided to install CyanogenMod on my Samsung Galaxy Nexus (Verizon). The installation process went pretty smoothly (I only had to pull the battery twice ;)), but I am having no joy reinstalling all of my Google Play apps. I'm beginning to think I've made terrible a mistake. Does CyanogenMod not integrate with Google the same way that stock Android does? Can I not just enter my Google username and password and redownload all of my apps and settings?I mean, I knew that the Play Store isn't bundled with CyanogenMod due to licensing issues. But I thought that installing the Play Store was as simple as downloading the APK. So far I've downloaded two versions of the the APK and both crash on launch. I've tried all of the usual things like clearing the app cache and rebooting the phone. I also downloaded a 150 MB \"Gapps\" package from cyanogenmod.org that I have no idea what to do with. The download page has absolutely no instructions, nor does the package contain a readme. I've read that I need to \"flash the apps through recovery\", which I can sort of parse, but all of the documentation and explanations I've found this afternoon assume the reader knows more than I do.Any guidance would be very much appreciated. By all accounts, CyanogenMod is awesome.Technical details:Samsung Galaxy Nexus (Verizon)CyanogenMod 11.0-InstallerXNPQ02R (Android 4.4.2)",
+    "ViewCount":"135",
+    "LastActivityDate":"2014-02-22T21:19:47.363",
+    "ClosedDate":"2014-02-23T02:49:05.393",
+    "Title":"Newbie needs help: Not sure how to get Google Play apps on CyanogenMod",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4051",
+    "CreationDate":"2014-02-22T20:37:11.950",
+    "FavoriteCount":"1",
+    "Id":"64128",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-22T20:37:11.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"913e8184-16d1-4222-b0e7-5b0ef2e8e51c",
+            "UserId":"4051",
+            "CloseReasonId":null,
+            "PostId":"64128",
+            "PostHistoryTypeId":"2",
+            "Id":"217959",
+            "Text":"I finally decided to install CyanogenMod on my Samsung Galaxy Nexus (Verizon). The installation process went _pretty_ smoothly (I only had to pull the battery twice ;)), but I am having no joy reinstalling all of my Google Play apps. I'm beginning to think I've made terrible a mistake. Does CyanogenMod **not** integrate with Google the same way that stock Android does? Can I not just enter my Google username and password and redownload all of my apps and settings?I mean, I knew that the Play Store isn't bundled with CyanogenMod due to licensing issues. But I thought that installing the Play Store was as simple as downloading the APK. So far I've downloaded [two][1] [versions][2] of the the APK and both crash on launch. I've tried all of the usual things like clearing the app cache and rebooting the phone. I also downloaded a 150 MB \"Gapps\" package from cyanogenmod.org that I have no idea what to do with. The [download page][3] has absolutely no instructions, nor does the package contain a readme. I've read that I need to \"flash the apps through recovery\", which I can sort of parse, but all of the documentation and explanations I've found this afternoon assume the reader knows more than I do.Any guidance would be very much appreciated. By all accounts, CyanogenMod is awesome.Technical details:- Samsung Galaxy Nexus (Verizon)- CyanogenMod 11.0-InstallerXNPQ02R (Android 4.4.2)  [1]: http:\/\/www.androidpolice.com\/2013\/12\/05\/download-latest-google-play-store-4-5-10-with-shared-play-store-activity-iap-indicators-and-more\/  [2]: http:\/\/androidadvices.com\/download-new-2013-google-play-store-apk\/#.UwkGJfS0_w0  [3]: http:\/\/wiki.cyanogenmod.org\/w\/Google_Apps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-22T20:37:11.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"913e8184-16d1-4222-b0e7-5b0ef2e8e51c",
+            "UserId":"4051",
+            "CloseReasonId":null,
+            "PostId":"64128",
+            "PostHistoryTypeId":"1",
+            "Id":"217960",
+            "Text":"Newbie needs help: Not sure how to get Google Play apps on CyanogenMod"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-22T20:37:11.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"913e8184-16d1-4222-b0e7-5b0ef2e8e51c",
+            "UserId":"4051",
+            "CloseReasonId":null,
+            "PostId":"64128",
+            "PostHistoryTypeId":"3",
+            "Id":"217961",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-02-23T02:49:05.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"d53bf3e9-b96e-406d-a2ea-6922e0794152",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"64128",
+            "PostHistoryTypeId":"10",
+            "Id":"218005",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"}]}"
+        }
+    ]
+}

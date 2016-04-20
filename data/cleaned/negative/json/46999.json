@@ -1,0 +1,83 @@
+{
+    "Body":"When I open the Google Play Store it says, no connection retry even when I am connected to wifi and when I hit Sign In in the Youtube app it says, An error occurred.",
+    "ViewCount":"19771",
+    "LastActivityDate":"2013-12-03T17:58:40.890",
+    "ClosedDate":"2013-12-16T02:56:50.090",
+    "Title":"google play store says no connection retry",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-06-18T16:56:52.963",
+    "CommentCount":"6",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"35607",
+    "CreationDate":"2013-06-10T14:31:33.677",
+    "FavoriteCount":"1",
+    "Id":"46999",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-10T14:31:33.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c6ecc97-4a5c-4309-92d7-90c25d3b9133",
+            "UserId":"35607",
+            "CloseReasonId":null,
+            "PostId":"46999",
+            "PostHistoryTypeId":"2",
+            "Id":"152117",
+            "Text":"When I open the Google Play Store it says, ***no connection retry*** even when I am connected to wifi and when I hit Sign In in the Youtube app it says, **An error occurred.**"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-10T14:31:33.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c6ecc97-4a5c-4309-92d7-90c25d3b9133",
+            "UserId":"35607",
+            "CloseReasonId":null,
+            "PostId":"46999",
+            "PostHistoryTypeId":"1",
+            "Id":"152118",
+            "Text":"google play store says no connection retry"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-10T14:31:33.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c6ecc97-4a5c-4309-92d7-90c25d3b9133",
+            "UserId":"35607",
+            "CloseReasonId":null,
+            "PostId":"46999",
+            "PostHistoryTypeId":"3",
+            "Id":"152119",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-06-18T16:56:52.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"7c28328c-f6da-4132-bb90-7a1301410bdd",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"46999",
+            "PostHistoryTypeId":"6",
+            "Id":"153966",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-16T02:56:50.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"f35b5279-10be-4ca6-b666-9717be31b13f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"46999",
+            "PostHistoryTypeId":"10",
+            "Id":"198731",
+            "Text":"{\"OriginalQuestionIds\":[20855],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

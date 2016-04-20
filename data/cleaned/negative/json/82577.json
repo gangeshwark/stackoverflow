@@ -1,0 +1,71 @@
+{
+    "Body":"Is the primary benefit of 4G LTE speed, and not signal strength?I want to sign up on T-Mobile with a Moto E, which is not an LTE enabled phone.  Of course 3G is passe, so 3G coverage isn't clearly indicated on the coverage map.  Do areas with 4G coverage always have 3G coverage, just slower?",
+    "ViewCount":"64",
+    "LastActivityDate":"2014-09-15T05:27:11.917",
+    "ClosedDate":"2014-09-15T09:35:16.683",
+    "Title":"Does excellent 4G coverage imply excellent 3G coverage?",
+    "LastEditorUserId":null,
+    "Tags":"<3g><4g>",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"82594",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"73231",
+    "CreationDate":"2014-09-15T00:22:25.413",
+    "FavoriteCount":"0",
+    "Id":"82577",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-15T00:22:25.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"8cb6fd3a-e56a-4c90-a287-9d5eaaa9b469",
+            "UserId":"73231",
+            "CloseReasonId":null,
+            "PostId":"82577",
+            "PostHistoryTypeId":"2",
+            "Id":"270656",
+            "Text":"Is the primary benefit of 4G LTE speed, and not signal strength?I want to sign up on T-Mobile with a Moto E, which is not an LTE enabled phone.  Of course 3G is passe, so 3G coverage isn't clearly indicated on the coverage map.  Do areas with 4G coverage always have 3G coverage, just slower?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-15T00:22:25.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"8cb6fd3a-e56a-4c90-a287-9d5eaaa9b469",
+            "UserId":"73231",
+            "CloseReasonId":null,
+            "PostId":"82577",
+            "PostHistoryTypeId":"1",
+            "Id":"270657",
+            "Text":"Does excellent 4G coverage imply excellent 3G coverage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-15T00:22:25.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"8cb6fd3a-e56a-4c90-a287-9d5eaaa9b469",
+            "UserId":"73231",
+            "CloseReasonId":null,
+            "PostId":"82577",
+            "PostHistoryTypeId":"3",
+            "Id":"270658",
+            "Text":"<3g><4g>"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-09-15T09:35:16.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"cf54d5ab-6104-4597-b22e-2bf25d1db999",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"82577",
+            "PostHistoryTypeId":"10",
+            "Id":"270730",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

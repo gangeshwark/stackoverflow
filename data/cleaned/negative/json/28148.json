@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is there any way to print directly from the phone?  Assuming a modern (compatible) mobile printer, is it possible to print a webpage or a PDF document directly and natively from the phone?I've heard of PrintShare, and saw this question, I'm asking if it can be done natively, without the use of another application.If that's not possible, is there some sort of API I can use to achieve it? Assuming I write my own application.",
+    "ViewCount":"486",
+    "LastActivityDate":"2012-08-23T19:07:39.800",
+    "ClosedDate":"2012-08-23T19:27:45.790",
+    "Title":"How to print a webpage from my Android phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14089",
+    "CreationDate":"2012-08-23T12:27:43.247",
+    "FavoriteCount":null,
+    "Id":"28148",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T12:27:43.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"8098cfce-7de6-44be-8b9e-24be64d4bf63",
+            "UserId":"14089",
+            "CloseReasonId":null,
+            "PostId":"28148",
+            "PostHistoryTypeId":"2",
+            "Id":"82165",
+            "Text":"Assuming a modern (compatible) **mobile** printer, is it possible to print a webpage or a PDF document directly and **natively** from the phone?I've heard of **[PrintShare][1]**, and saw **[this question][2]**, I'm asking if it can be done natively, without the use of another application.If that's not possible, is there some sort of API I can use to achieve it? Assuming I write my own application.  [1]: https:\/\/play.google.com\/store\/apps\/details?id=com.dynamixsoftware.printershare  [2]: http:\/\/android.stackexchange.com\/questions\/1431\/is-there-any-way-to-print-directly-from-the-phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T12:27:43.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"8098cfce-7de6-44be-8b9e-24be64d4bf63",
+            "UserId":"14089",
+            "CloseReasonId":null,
+            "PostId":"28148",
+            "PostHistoryTypeId":"1",
+            "Id":"82166",
+            "Text":"How to print a webpage from my Android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-23T12:27:43.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"8098cfce-7de6-44be-8b9e-24be64d4bf63",
+            "UserId":"14089",
+            "CloseReasonId":null,
+            "PostId":"28148",
+            "PostHistoryTypeId":"3",
+            "Id":"82167",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-23T19:27:45.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"343dcccb-d492-4a82-a10c-ef24c8bbd40a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28148",
+            "PostHistoryTypeId":"5",
+            "Id":"82240",
+            "Text":"> **Possible Duplicate:**  > [Is there any way to print directly from the phone?](http:\/\/android.stackexchange.com\/questions\/1431\/is-there-any-way-to-print-directly-from-the-phone)  Assuming a modern (compatible) **mobile** printer, is it possible to print a webpage or a PDF document directly and **natively** from the phone?I've heard of **[PrintShare][1]**, and saw **[this question][2]**, I'm asking if it can be done natively, without the use of another application.If that's not possible, is there some sort of API I can use to achieve it? Assuming I write my own application.  [1]: https:\/\/play.google.com\/store\/apps\/details?id=com.dynamixsoftware.printershare  [2]: http:\/\/android.stackexchange.com\/questions\/1431\/is-there-any-way-to-print-directly-from-the-phone"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-23T19:27:45.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"68292ac9-d506-4216-ac49-bde3dc8c73ae",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28148",
+            "PostHistoryTypeId":"10",
+            "Id":"82241",
+            "Text":"{\"OriginalQuestionIds\":[1431],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"}]}"
+        }
+    ]
+}

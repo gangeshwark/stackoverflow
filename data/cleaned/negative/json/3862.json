@@ -1,0 +1,71 @@
+{
+    "Body":"Does anyone know of an app for managing a reading list? Features I'd like to get include being able search names and authors from some kind of book database, link to common book sellers (Amazon, Barns & Noble, etc.) and add books via an ISBN bar-code.",
+    "ViewCount":"1100",
+    "LastActivityDate":"2011-05-30T14:40:07.940",
+    "ClosedDate":"2014-12-18T17:40:31.883",
+    "Title":"Reading list manager?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"6",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1591",
+    "CreationDate":"2010-12-20T04:15:58.683",
+    "FavoriteCount":"1",
+    "Id":"3862",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-20T04:15:58.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"c5c43c71-4691-4a59-8209-4023660e13c4",
+            "UserId":"1591",
+            "CloseReasonId":null,
+            "PostId":"3862",
+            "PostHistoryTypeId":"2",
+            "Id":"7958",
+            "Text":"Does anyone know of an app for managing a reading list? Features I'd like to get include being able search names and authors from some kind of book database, link to common book sellers (Amazon, Barns & Noble, etc.) and add books via an ISBN bar-code."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-20T04:15:58.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"c5c43c71-4691-4a59-8209-4023660e13c4",
+            "UserId":"1591",
+            "CloseReasonId":null,
+            "PostId":"3862",
+            "PostHistoryTypeId":"1",
+            "Id":"7959",
+            "Text":"Reading list manager?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-12-20T04:15:58.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"c5c43c71-4691-4a59-8209-4023660e13c4",
+            "UserId":"1591",
+            "CloseReasonId":null,
+            "PostId":"3862",
+            "PostHistoryTypeId":"3",
+            "Id":"7960",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-18T17:40:31.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"ea95760a-02e2-439b-b214-3d75173c4eac",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"3862",
+            "PostHistoryTypeId":"10",
+            "Id":"301689",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

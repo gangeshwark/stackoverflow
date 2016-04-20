@@ -1,0 +1,71 @@
+{
+    "Body":"is there any way you can install an app (for instance WhatsApp) on Android 4.2.1 ICS but at the same time remove its autorun properties sothat it becomes a standalone app and ONLY uses memory, processing power and even more dear battery, only during the time that I start the application. After closing it I want it to remain unstarted!Note: this is different than autokilling it with taskkiller and alike. I want the app to not start in the first place).I find myself installing and de-installing certain apps to overcome this dilemma and I hope there is a better solution otherwise whats the point of Android freedom feeling, right?",
+    "ViewCount":"327",
+    "LastActivityDate":"2013-07-28T09:44:13.420",
+    "ClosedDate":"2013-07-28T17:38:57.840",
+    "Title":"How to Remove Autostart for Certain Apps?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"50079",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38350",
+    "CreationDate":"2013-07-28T08:39:22.127",
+    "FavoriteCount":null,
+    "Id":"50077",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-28T08:39:22.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"b99f68c4-5c69-427b-a16e-f4d2117fb134",
+            "UserId":"38350",
+            "CloseReasonId":null,
+            "PostId":"50077",
+            "PostHistoryTypeId":"2",
+            "Id":"163663",
+            "Text":"is there any way you can install an app (for instance WhatsApp) on Android 4.2.1 ICS but at the same time remove its autorun properties sothat it becomes a standalone app and ONLY uses memory, processing power and even more dear battery, only during the time that I start the application. After closing it I want it to remain unstarted!Note: this is different than autokilling it with taskkiller and alike. I want the app to not start in the first place).I find myself installing and de-installing certain apps to overcome this dilemma and I hope there is a better solution otherwise whats the point of Android freedom feeling, right?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-28T08:39:22.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"b99f68c4-5c69-427b-a16e-f4d2117fb134",
+            "UserId":"38350",
+            "CloseReasonId":null,
+            "PostId":"50077",
+            "PostHistoryTypeId":"1",
+            "Id":"163664",
+            "Text":"How to Remove Autostart for Certain Apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-28T08:39:22.127",
+            "UserDisplayName":null,
+            "RevisionGUID":"b99f68c4-5c69-427b-a16e-f4d2117fb134",
+            "UserId":"38350",
+            "CloseReasonId":null,
+            "PostId":"50077",
+            "PostHistoryTypeId":"3",
+            "Id":"163665",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-28T17:38:57.840",
+            "UserDisplayName":null,
+            "RevisionGUID":"99733d70-5a49-4420-bbd0-9a07c8e50ed8",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"50077",
+            "PostHistoryTypeId":"10",
+            "Id":"163736",
+            "Text":"{\"OriginalQuestionIds\":[30332],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

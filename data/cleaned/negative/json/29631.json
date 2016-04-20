@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How to get hardware specs of Android device?  I have a generic \"cheap\" tablet, running ICS; but I'd like to know what GPU does it have.The box says it has an Allwiner A10, Cortex-A8 1.1 Ghz CPU, but doesn't mention anything about GPU.I think (not sure) that most of the time, GPUs are \"associated\" with CPUs, since they are SOCs, but i am not sure. Either way, i do not know is those A10 have an specific GPU.The same goes for the RAM, I'm not sure the OS can tells us directly. I want to know it other than the specs in the box (or manufacturer website, etc).So is there a way to know within the operating system? Maybe somewhere in the settings, or with an app, or even a command somewhere? Something like in windows, where you can directly know what specs the computer has with simple steps.In my case, it is an ICS tablet, but I'd like to know if i could find out the specs of any phone or tablet, on any version of Android. Mainly because it would be extremely useful when playing around with the devices in stores, or to find out the specs of friends' androids without even knowing the brand \/ model but having access to it.",
+    "ViewCount":"23019",
+    "LastActivityDate":"2012-09-20T10:13:37.097",
+    "ClosedDate":"2012-09-21T14:38:25.973",
+    "Title":"is there a way to know what CPU, GPU, RAM my phone \/ tablet has?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20416",
+    "CreationDate":"2012-09-19T21:47:47.427",
+    "FavoriteCount":null,
+    "Id":"29631",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T21:47:47.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"d583e525-fd64-42a4-8218-7523f05a0222",
+            "UserId":"20416",
+            "CloseReasonId":null,
+            "PostId":"29631",
+            "PostHistoryTypeId":"2",
+            "Id":"88330",
+            "Text":"I have a generic \"cheap\" tablet, running ICS; but I'd like to know what GPU does it have.The box says it has an Allwiner A10, Cortex-A8 1.1 Ghz CPU, but doesn't mention anything about GPU.I think (not sure) that most of the time, GPUs are \"associated\" with CPUs, since they are SOCs, but i am not sure. Either way, i do not know is those A10 have an specific GPU.The same goes for the RAM, I'm not sure the OS can tells us directly. I want to know it other than the specs in the box (or manufacturer website, etc).So is there a way to know within the operating system? Maybe somewhere in the settings, or with an app, or even a command somewhere? Something like in windows, where you can directly know what specs the computer has with simple steps.In my case, it is an ICS tablet, but I'd like to know if i could find out the specs of any phone or tablet, on any version of Android. Mainly because it would be extremely useful when playing around with the devices in stores, or to find out the specs of friends' androids without even knowing the brand \/ model but having access to it."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T21:47:47.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"d583e525-fd64-42a4-8218-7523f05a0222",
+            "UserId":"20416",
+            "CloseReasonId":null,
+            "PostId":"29631",
+            "PostHistoryTypeId":"1",
+            "Id":"88331",
+            "Text":"is there a way to know what CPU, GPU, RAM my phone \/ tablet has?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-19T21:47:47.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"d583e525-fd64-42a4-8218-7523f05a0222",
+            "UserId":"20416",
+            "CloseReasonId":null,
+            "PostId":"29631",
+            "PostHistoryTypeId":"3",
+            "Id":"88332",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-09-21T14:38:25.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"26187270-df03-4bf9-94a3-37efed5ee5c4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29631",
+            "PostHistoryTypeId":"5",
+            "Id":"88683",
+            "Text":"> **Possible Duplicate:**  > [How to get hardware specs of Android device?](http:\/\/android.stackexchange.com\/questions\/6372\/how-to-get-hardware-specs-of-android-device)  I have a generic \"cheap\" tablet, running ICS; but I'd like to know what GPU does it have.The box says it has an Allwiner A10, Cortex-A8 1.1 Ghz CPU, but doesn't mention anything about GPU.I think (not sure) that most of the time, GPUs are \"associated\" with CPUs, since they are SOCs, but i am not sure. Either way, i do not know is those A10 have an specific GPU.The same goes for the RAM, I'm not sure the OS can tells us directly. I want to know it other than the specs in the box (or manufacturer website, etc).So is there a way to know within the operating system? Maybe somewhere in the settings, or with an app, or even a command somewhere? Something like in windows, where you can directly know what specs the computer has with simple steps.In my case, it is an ICS tablet, but I'd like to know if i could find out the specs of any phone or tablet, on any version of Android. Mainly because it would be extremely useful when playing around with the devices in stores, or to find out the specs of friends' androids without even knowing the brand \/ model but having access to it."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-09-21T14:38:25.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"90d85172-5091-4209-bd42-2a0943967d02",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"29631",
+            "PostHistoryTypeId":"10",
+            "Id":"88684",
+            "Text":"{\"OriginalQuestionIds\":[6372],\"Voters\":[{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

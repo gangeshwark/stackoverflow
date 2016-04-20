@@ -1,0 +1,71 @@
+{
+    "Body":"I have not installed any new programs or used my camera and this started yesterday.  I do not have Skype installed.  I have powered off twice and it is still doing it.Please tell me how to fix it",
+    "ViewCount":"13",
+    "LastActivityDate":"2015-08-14T14:52:03.883",
+    "ClosedDate":"2015-08-16T01:59:47.247",
+    "Title":"mm-qcamera.daemon draining my battery on Droid turbo",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"122187",
+    "CreationDate":"2015-08-14T14:52:03.883",
+    "FavoriteCount":null,
+    "Id":"119269",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-14T14:52:03.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"252606ca-597c-4257-b646-d28a31b45ac6",
+            "UserId":"122187",
+            "CloseReasonId":null,
+            "PostId":"119269",
+            "PostHistoryTypeId":"2",
+            "Id":"390576",
+            "Text":"I have not installed any new programs or used my camera and this started yesterday.  I do not have Skype installed.  I have powered off twice and it is still doing it.Please tell me how to fix it"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-14T14:52:03.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"252606ca-597c-4257-b646-d28a31b45ac6",
+            "UserId":"122187",
+            "CloseReasonId":null,
+            "PostId":"119269",
+            "PostHistoryTypeId":"1",
+            "Id":"390577",
+            "Text":"mm-qcamera.daemon draining my battery on Droid turbo"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-14T14:52:03.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"252606ca-597c-4257-b646-d28a31b45ac6",
+            "UserId":"122187",
+            "CloseReasonId":null,
+            "PostId":"119269",
+            "PostHistoryTypeId":"3",
+            "Id":"390578",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-16T01:59:47.247",
+            "UserDisplayName":null,
+            "RevisionGUID":"f377b9ad-6af8-41cb-8605-fee0a0e43804",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"119269",
+            "PostHistoryTypeId":"10",
+            "Id":"390998",
+            "Text":"{\"OriginalQuestionIds\":[64569],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

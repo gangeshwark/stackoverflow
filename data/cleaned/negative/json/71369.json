@@ -1,0 +1,71 @@
+{
+    "Body":"Is it possible to install pure (not manufacturer modified, without Emotion UI) Android version (4.2 to 4.4) to Huawei Ascend P6? If above is possible, is it possible to recover original Huawei Android version (with Emotion UI)?",
+    "ViewCount":"9550",
+    "LastActivityDate":"2014-06-02T04:05:14.313",
+    "ClosedDate":"2014-06-02T20:49:47.953",
+    "Title":"Installing pure android to Huawei Ascend P6",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"71387",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"56186",
+    "CreationDate":"2014-06-01T20:55:47.650",
+    "FavoriteCount":null,
+    "Id":"71369",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-01T20:55:47.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c26b298-c776-45be-8e33-3e7ee92a402c",
+            "UserId":"56186",
+            "CloseReasonId":null,
+            "PostId":"71369",
+            "PostHistoryTypeId":"2",
+            "Id":"241339",
+            "Text":"Is it possible to install pure (not manufacturer modified, without Emotion UI) Android version (4.2 to 4.4) to Huawei Ascend P6? If above is possible, is it possible to recover original Huawei Android version (with Emotion UI)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-01T20:55:47.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c26b298-c776-45be-8e33-3e7ee92a402c",
+            "UserId":"56186",
+            "CloseReasonId":null,
+            "PostId":"71369",
+            "PostHistoryTypeId":"1",
+            "Id":"241340",
+            "Text":"Installing pure android to Huawei Ascend P6"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-01T20:55:47.650",
+            "UserDisplayName":null,
+            "RevisionGUID":"4c26b298-c776-45be-8e33-3e7ee92a402c",
+            "UserId":"56186",
+            "CloseReasonId":null,
+            "PostId":"71369",
+            "PostHistoryTypeId":"3",
+            "Id":"241341",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-02T20:49:47.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0977b3e-8a6a-45f8-b11f-65f8644055c4",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"71369",
+            "PostHistoryTypeId":"10",
+            "Id":"241530",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

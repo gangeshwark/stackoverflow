@@ -1,0 +1,71 @@
+{
+    "Body":"I bought Galaxy S5 from T-Mobile which had Android 4.4 (last year). Back in October I needed Android 5 to test a mobile application (I am a developer) and I installed official S5 Polish ROM which was the only one available in December last year. Now, I don't need it any more as it does not work perfectly well (but had to stick to it till now). How can I return my original ROM?",
+    "ViewCount":"15",
+    "LastActivityDate":"2015-04-16T13:06:01.190",
+    "ClosedDate":"2015-04-16T14:19:46.410",
+    "Title":"Installed custom Android 5 ROM, but how to upgrade now or return to official one?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6118",
+    "CreationDate":"2015-04-16T13:06:01.190",
+    "FavoriteCount":null,
+    "Id":"105644",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-16T13:06:01.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc54688d-a34a-4ad4-9a8c-258f79839dd7",
+            "UserId":"6118",
+            "CloseReasonId":null,
+            "PostId":"105644",
+            "PostHistoryTypeId":"2",
+            "Id":"345325",
+            "Text":"I bought Galaxy S5 from T-Mobile which had Android 4.4 (last year). Back in October I needed Android 5 to test a mobile application (I am a developer) and I installed official S5 Polish ROM which was the only one available in December last year. Now, I don't need it any more as it does not work perfectly well (but had to stick to it till now). How can I return my original ROM?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-16T13:06:01.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc54688d-a34a-4ad4-9a8c-258f79839dd7",
+            "UserId":"6118",
+            "CloseReasonId":null,
+            "PostId":"105644",
+            "PostHistoryTypeId":"1",
+            "Id":"345326",
+            "Text":"Installed custom Android 5 ROM, but how to upgrade now or return to official one?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-16T13:06:01.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc54688d-a34a-4ad4-9a8c-258f79839dd7",
+            "UserId":"6118",
+            "CloseReasonId":null,
+            "PostId":"105644",
+            "PostHistoryTypeId":"3",
+            "Id":"345327",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-16T14:19:46.410",
+            "UserDisplayName":null,
+            "RevisionGUID":"ca20bc56-877b-47b0-b20e-e4d93738f130",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"105644",
+            "PostHistoryTypeId":"10",
+            "Id":"345373",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

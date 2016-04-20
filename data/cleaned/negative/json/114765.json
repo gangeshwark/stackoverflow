@@ -1,0 +1,71 @@
+{
+    "Body":"I tried googling this issue but I cant seem to find an answer.A friend claimed I was \"last seen\" on whatsapp around 3 AM, while I was sound asleep at 1:40 AM, I received no new messages or even checked it since I was sound asleep.Anyone had this problem before or did I miss a certain setting? it's kind of bugging me at the moment. Could it perhaps be that when my phone charged to 100% that it blinks online for a sec and checks it in some subroutine? (Seems rather silly to me that something like that could be possible)Looking forward to hear if anyone else has or had this problem.",
+    "ViewCount":"36",
+    "LastActivityDate":"2015-07-09T07:40:05.620",
+    "ClosedDate":"2015-07-15T14:03:34.420",
+    "Title":"Friend claims I was on whatsapp at 3 AM, but I was asleep for 2 hours already",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116071",
+    "CreationDate":"2015-07-09T07:40:05.620",
+    "FavoriteCount":null,
+    "Id":"114765",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T07:40:05.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"eddfd1d9-abf4-410a-9bfe-df1d5e9ecc8d",
+            "UserId":"116071",
+            "CloseReasonId":null,
+            "PostId":"114765",
+            "PostHistoryTypeId":"2",
+            "Id":"376561",
+            "Text":"I tried googling this issue but I cant seem to find an answer.A friend claimed I was \"last seen\" on whatsapp around 3 AM, while I was sound asleep at 1:40 AM, I received no new messages or even checked it since I was sound asleep.Anyone had this problem before or did I miss a certain setting? it's kind of bugging me at the moment. Could it perhaps be that when my phone charged to 100% that it blinks online for a sec and checks it in some subroutine? (Seems rather silly to me that something like that could be possible)Looking forward to hear if anyone else has or had this problem."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T07:40:05.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"eddfd1d9-abf4-410a-9bfe-df1d5e9ecc8d",
+            "UserId":"116071",
+            "CloseReasonId":null,
+            "PostId":"114765",
+            "PostHistoryTypeId":"1",
+            "Id":"376562",
+            "Text":"Friend claims I was on whatsapp at 3 AM, but I was asleep for 2 hours already"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T07:40:05.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"eddfd1d9-abf4-410a-9bfe-df1d5e9ecc8d",
+            "UserId":"116071",
+            "CloseReasonId":null,
+            "PostId":"114765",
+            "PostHistoryTypeId":"3",
+            "Id":"376563",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-15T14:03:34.420",
+            "UserDisplayName":null,
+            "RevisionGUID":"15ee7949-4f01-486c-bdde-5849e3488279",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"114765",
+            "PostHistoryTypeId":"10",
+            "Id":"378803",
+            "Text":"{\"OriginalQuestionIds\":[30781],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

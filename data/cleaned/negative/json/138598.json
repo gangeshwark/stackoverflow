@@ -1,0 +1,71 @@
+{
+    "Body":"I just started to learn xml from android and suggested code style looks disgusting for me. chaotic mix of camel case and snake style, spamming word \"android\" for each attribute, no logics in names and it's only beginning. Do you believe it's normal and is there some hope? ",
+    "ViewCount":"13",
+    "LastActivityDate":"2016-03-02T07:39:46.093",
+    "ClosedDate":"2016-03-02T08:40:48.777",
+    "Title":"Why names and code style for android xml is so ugly?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154166",
+    "CreationDate":"2016-03-02T07:39:46.093",
+    "FavoriteCount":null,
+    "Id":"138598",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T07:39:46.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfe610e7-9adf-4e83-a2dc-11039a027b16",
+            "UserId":"154166",
+            "CloseReasonId":null,
+            "PostId":"138598",
+            "PostHistoryTypeId":"2",
+            "Id":"463227",
+            "Text":"I just started to learn xml from android and suggested code style looks disgusting for me. chaotic mix of camel case and snake style, spamming word \"android\" for each attribute, no logics in names and it's only beginning. Do you believe it's normal and is there some hope? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T07:39:46.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfe610e7-9adf-4e83-a2dc-11039a027b16",
+            "UserId":"154166",
+            "CloseReasonId":null,
+            "PostId":"138598",
+            "PostHistoryTypeId":"1",
+            "Id":"463228",
+            "Text":"Why names and code style for android xml is so ugly?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-02T07:39:46.093",
+            "UserDisplayName":null,
+            "RevisionGUID":"dfe610e7-9adf-4e83-a2dc-11039a027b16",
+            "UserId":"154166",
+            "CloseReasonId":null,
+            "PostId":"138598",
+            "PostHistoryTypeId":"3",
+            "Id":"463229",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-02T08:40:48.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee85a837-d3ce-4f39-a2c5-0db1beac984a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"138598",
+            "PostHistoryTypeId":"10",
+            "Id":"463243",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"}]}"
+        }
+    ]
+}

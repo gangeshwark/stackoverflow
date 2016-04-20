@@ -1,0 +1,83 @@
+{
+    "Body":"I have a Samsung Galaxy S2 with Android 2.3.3. I've set all my mail accounts' email check frequency to Never, but I would like my phone to check for new mail whenever I open the mail app. Is that possible?",
+    "ViewCount":"165",
+    "LastActivityDate":"2012-06-27T12:21:23.877",
+    "ClosedDate":"2012-12-28T14:41:02.957",
+    "Title":"Automatically refresh mail when calling mail app",
+    "LastEditorUserId":"6052",
+    "Tags":"",
+    "LastEditDate":"2012-06-27T12:21:23.877",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9588",
+    "CreationDate":"2011-11-12T19:32:23.900",
+    "FavoriteCount":null,
+    "Id":"15577",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-12T19:32:23.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"10d63487-75d8-4a8c-9ed0-a61ae12003c4",
+            "UserId":"9588",
+            "CloseReasonId":null,
+            "PostId":"15577",
+            "PostHistoryTypeId":"2",
+            "Id":"41847",
+            "Text":"I have a Samsung Galaxy S2 with Android 2.3.3. I've set all my mail accounts' email check frequency to Never, but I would like my phone to check for new mail whenever I call the mail app. Is that possible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-12T19:32:23.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"10d63487-75d8-4a8c-9ed0-a61ae12003c4",
+            "UserId":"9588",
+            "CloseReasonId":null,
+            "PostId":"15577",
+            "PostHistoryTypeId":"1",
+            "Id":"41848",
+            "Text":"Automatically refresh mail when calling mail app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-12T19:32:23.900",
+            "UserDisplayName":null,
+            "RevisionGUID":"10d63487-75d8-4a8c-9ed0-a61ae12003c4",
+            "UserId":"9588",
+            "CloseReasonId":null,
+            "PostId":"15577",
+            "PostHistoryTypeId":"3",
+            "Id":"41849",
+            "Text":""
+        },
+        {
+            "Comment":"added 2 characters in body",
+            "CreationDate":"2012-06-27T12:21:23.877",
+            "UserDisplayName":null,
+            "RevisionGUID":"7970ea17-9f74-431b-bd0d-2419dfed80d0",
+            "UserId":"6052",
+            "CloseReasonId":null,
+            "PostId":"15577",
+            "PostHistoryTypeId":"5",
+            "Id":"71437",
+            "Text":"I have a Samsung Galaxy S2 with Android 2.3.3. I've set all my mail accounts' email check frequency to `Never`, but I would like my phone to check for new mail whenever I open the mail app. Is that possible?"
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-28T14:41:02.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ef17b2f-2cff-4a14-83f6-11e750bc56eb",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"15577",
+            "PostHistoryTypeId":"10",
+            "Id":"109550",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

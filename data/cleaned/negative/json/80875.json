@@ -1,0 +1,71 @@
+{
+    "Body":"I have a Xperia P. I changed build.prop files and my device has been stuck in a boot loop ever since then the stock Sony reset wont boot the device into recovery neither will my custom clockworkmod recovery. I do have knowledge about this problem but no practical experience I have never flashed the device, its stock. I need help to recover and then to reset the .prop . or otherwise is there a way to delibratly brick my phone and then  ill bring it to my carrier and try to spoof my warranty.Stock Android 4.1.2 rooted, bootloader is unlocked.",
+    "ViewCount":"286",
+    "LastActivityDate":"2014-08-19T21:19:32.467",
+    "ClosedDate":"2015-03-18T20:03:04.963",
+    "Title":"Im stuck in a Bootloop after editing build.prop system files ive tried everything to reset, reboot my device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68932",
+    "CreationDate":"2014-08-19T19:39:25.617",
+    "FavoriteCount":null,
+    "Id":"80875",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-19T19:39:25.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ba9a13d-e418-41c5-a49e-3dfb9b5cd804",
+            "UserId":"68932",
+            "CloseReasonId":null,
+            "PostId":"80875",
+            "PostHistoryTypeId":"2",
+            "Id":"264732",
+            "Text":"I have a Xperia P. I changed build.prop files and my device has been stuck in a boot loop ever since then the stock Sony reset wont boot the device into recovery neither will my custom clockworkmod recovery. I do have knowledge about this problem but no practical experience I have never flashed the device, its stock. I need help to recover and then to reset the .prop . or otherwise is there a way to delibratly brick my phone and then  ill bring it to my carrier and try to spoof my warranty.Stock Android 4.1.2 rooted, bootloader is unlocked."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-19T19:39:25.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ba9a13d-e418-41c5-a49e-3dfb9b5cd804",
+            "UserId":"68932",
+            "CloseReasonId":null,
+            "PostId":"80875",
+            "PostHistoryTypeId":"1",
+            "Id":"264733",
+            "Text":"Im stuck in a Bootloop after editing build.prop system files ive tried everything to reset, reboot my device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-19T19:39:25.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ba9a13d-e418-41c5-a49e-3dfb9b5cd804",
+            "UserId":"68932",
+            "CloseReasonId":null,
+            "PostId":"80875",
+            "PostHistoryTypeId":"3",
+            "Id":"264734",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-18T20:03:04.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"1b9bfd32-e750-4bf9-bc17-212964f14499",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"80875",
+            "PostHistoryTypeId":"10",
+            "Id":"335348",
+            "Text":"{\"OriginalQuestionIds\":[63585],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

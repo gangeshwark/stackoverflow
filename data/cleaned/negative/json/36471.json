@@ -1,0 +1,83 @@
+{
+    "Body":"Is it possible to install a different language other than the ones already in the system? I want my phone to display in Japanese. Everything...the menus, status bars, labels. Just as if my phone was made in and for Japanese.",
+    "ViewCount":"12306",
+    "LastActivityDate":"2013-01-29T18:02:20.917",
+    "ClosedDate":"2013-02-25T15:45:24.690",
+    "Title":"Installing different language on phone",
+    "LastEditorUserId":"8041",
+    "Tags":"",
+    "LastEditDate":"2012-12-30T16:49:24.320",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25825",
+    "CreationDate":"2012-12-30T15:26:30.557",
+    "FavoriteCount":null,
+    "Id":"36471",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T15:26:30.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"9284c636-34b9-4b82-85a3-1529f7860cf0",
+            "UserId":"25825",
+            "CloseReasonId":null,
+            "PostId":"36471",
+            "PostHistoryTypeId":"2",
+            "Id":"110044",
+            "Text":"Is it possible to install a different language other than the ones already in the system? I want my phone to display in Japanese. Everything...the menus, status bars, labels. Just as if my phone was made in and for Japanese."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T15:26:30.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"9284c636-34b9-4b82-85a3-1529f7860cf0",
+            "UserId":"25825",
+            "CloseReasonId":null,
+            "PostId":"36471",
+            "PostHistoryTypeId":"1",
+            "Id":"110045",
+            "Text":"Installing different language on phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T15:26:30.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"9284c636-34b9-4b82-85a3-1529f7860cf0",
+            "UserId":"25825",
+            "CloseReasonId":null,
+            "PostId":"36471",
+            "PostHistoryTypeId":"3",
+            "Id":"110046",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-12-30T16:49:24.320",
+            "UserDisplayName":null,
+            "RevisionGUID":"ce7afa30-7bd3-45d6-9c5a-1c28ec52eac7",
+            "UserId":"8041",
+            "CloseReasonId":null,
+            "PostId":"36471",
+            "PostHistoryTypeId":"6",
+            "Id":"110062",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-25T15:45:24.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"e5729e65-7484-491c-861d-e840c2a2222c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"36471",
+            "PostHistoryTypeId":"10",
+            "Id":"125394",
+            "Text":"{\"OriginalQuestionIds\":[15361],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

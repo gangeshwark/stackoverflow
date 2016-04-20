@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  My requirements:Wifi hotspot needs to work properly since it often provides Internet access for my tablet.I connect to several Blutetooth devices they should work too. (Speaker, Car, send files to other phones)If possible i'd like the most recent Android version, as vanilla as possible.I want an easy, scheduled backup solutionI really don't need the whole HTC Sense thingie.I am prepared to lose all data stored on my phone.I am a bit of a newbie concerning custom roms, so maybe there is a proper tutorial on how to proceed with getting root, etc.My Phone is currently on Android 2.3.5 Sense 3.0, Build Version 3.12.405.1 CL199157 release-keys (latest stock firmware i guess) and i do not have root.",
+    "ViewCount":"57",
+    "LastActivityDate":"2012-12-30T14:56:19.617",
+    "ClosedDate":"2013-01-27T21:33:23.363",
+    "Title":"What are my firmware options for Desire HD",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"25822",
+    "CreationDate":"2012-12-30T14:56:19.617",
+    "FavoriteCount":null,
+    "Id":"36469",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T14:56:19.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9d2ce7f-1ed0-430e-bc5b-941c9bc7f9ba",
+            "UserId":"25822",
+            "CloseReasonId":null,
+            "PostId":"36469",
+            "PostHistoryTypeId":"2",
+            "Id":"110038",
+            "Text":"My requirements: - Wifi hotspot needs to work properly since it often provides Internet access for my tablet. - I connect to several Blutetooth devices they should work too. (Speaker, Car, send files to other phones) - If possible i'd like the most recent Android version, as vanilla as possible. - I want an easy, scheduled backup solutionI really don't need the whole HTC Sense thingie.I am prepared to lose all data stored on my phone.I am a bit of a newbie concerning custom roms, so maybe there is a proper tutorial on how to proceed with getting root, etc.My Phone is currently on Android 2.3.5 Sense 3.0, Build Version 3.12.405.1 CL199157 release-keys (latest stock firmware i guess) and i do not have root."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T14:56:19.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9d2ce7f-1ed0-430e-bc5b-941c9bc7f9ba",
+            "UserId":"25822",
+            "CloseReasonId":null,
+            "PostId":"36469",
+            "PostHistoryTypeId":"1",
+            "Id":"110039",
+            "Text":"What are my firmware options for Desire HD"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-12-30T14:56:19.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9d2ce7f-1ed0-430e-bc5b-941c9bc7f9ba",
+            "UserId":"25822",
+            "CloseReasonId":null,
+            "PostId":"36469",
+            "PostHistoryTypeId":"3",
+            "Id":"110040",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-27T21:33:23.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"c3c2c449-9001-47ae-886e-cd2a4c69915d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"36469",
+            "PostHistoryTypeId":"5",
+            "Id":"117943",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  My requirements: - Wifi hotspot needs to work properly since it often provides Internet access for my tablet. - I connect to several Blutetooth devices they should work too. (Speaker, Car, send files to other phones) - If possible i'd like the most recent Android version, as vanilla as possible. - I want an easy, scheduled backup solutionI really don't need the whole HTC Sense thingie.I am prepared to lose all data stored on my phone.I am a bit of a newbie concerning custom roms, so maybe there is a proper tutorial on how to proceed with getting root, etc.My Phone is currently on Android 2.3.5 Sense 3.0, Build Version 3.12.405.1 CL199157 release-keys (latest stock firmware i guess) and i do not have root."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-27T21:33:23.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"9aa699ca-ff3e-4f86-aaa5-c94971594a2a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"36469",
+            "PostHistoryTypeId":"10",
+            "Id":"117944",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

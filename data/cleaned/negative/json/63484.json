@@ -1,0 +1,83 @@
+{
+    "Body":"My problem: I need to have an open web page floating on top of my Kindle app which can be minimized to the screen and not on the status bar as that covers the book.  What I need is an open resizeable window with transparency settings so I can read and research at the same time.  How do I go about solving this?",
+    "ViewCount":"461",
+    "LastActivityDate":"2014-02-14T15:04:10.620",
+    "ClosedDate":"2014-02-14T13:53:04.693",
+    "Title":"Floating browser window that can be minimized?",
+    "LastEditorUserId":"32491",
+    "Tags":"",
+    "LastEditDate":"2014-02-14T15:04:10.620",
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"63486",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32491",
+    "CreationDate":"2014-02-14T02:51:39.040",
+    "FavoriteCount":null,
+    "Id":"63484",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-14T02:51:39.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"fce68bf9-d333-4a99-9329-0a04298f7cee",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"63484",
+            "PostHistoryTypeId":"2",
+            "Id":"215644",
+            "Text":"I have an app called \"hovernote\" from the Play store which minimizes on screen to a tiny, tiny size that I can leave on screen and click on it to expand to any custom size...all the while reading something on my screen.  Is there a floating browser that has these features?  I have hunted the Play store and found nothing but maybe I thought I'm searching using the wrong words or that such a browser doesn't exist. Any tips? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-14T02:51:39.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"fce68bf9-d333-4a99-9329-0a04298f7cee",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"63484",
+            "PostHistoryTypeId":"1",
+            "Id":"215645",
+            "Text":"Floating browser window that can be minimized?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-14T02:51:39.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"fce68bf9-d333-4a99-9329-0a04298f7cee",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"63484",
+            "PostHistoryTypeId":"3",
+            "Id":"215646",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-02-14T13:53:04.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"a77af073-ab2e-484d-bb15-d0bbc7a4dd92",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"63484",
+            "PostHistoryTypeId":"10",
+            "Id":"215748",
+            "Text":"{\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        },
+        {
+            "Comment":"Edited",
+            "CreationDate":"2014-02-14T15:04:10.620",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a629430-1f97-4fe0-99da-c9502724e5b3",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"63484",
+            "PostHistoryTypeId":"5",
+            "Id":"215765",
+            "Text":"My problem: I need to have an open web page floating on top of my Kindle app which can be minimized to the screen and not on the status bar as that covers the book.  What I need is an open resizeable window with transparency settings so I can read and research at the same time.  How do I go about solving this?"
+        }
+    ]
+}

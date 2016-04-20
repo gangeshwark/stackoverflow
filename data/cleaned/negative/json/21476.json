@@ -1,0 +1,83 @@
+{
+    "Body":"Okay, in spite of the hate being heaped on by iPhone elitists, I have installed Instagram on my Android phone and have started playing with it a bit.How can I get my Instagram photos to automagically appear in a public album in Google+ Photos?Felicia Day, for instance, has a public Instagram album.I can see, on my phone, an Instagram album (which was automatically created by the app), but there is no such album in my Google+ Photos. The options for the phone album do not include a \"make public\" option, and there's nothing in the Instagram settings. At best, the photos are appearing in the default \"Photos from your phone\" album.I know that I can manually share them, either through the website by making a public album and moving\/copying them there, or using the Share features on my Android, but I'd rather have something automatic.Is this possible, or just a pipe dream?(Cross-posted at Web Applications.)",
+    "ViewCount":"744",
+    "LastActivityDate":"2012-12-21T15:54:46.303",
+    "ClosedDate":"2012-12-21T22:01:52.140",
+    "Title":"Autopublish album in Google+ photos",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"35914",
+    "Score":"8",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"267",
+    "CreationDate":"2012-04-06T15:35:20.880",
+    "FavoriteCount":"0",
+    "Id":"21476",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-06T15:35:20.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f031f3b-66fe-43b5-bd57-b972cd263ef6",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"21476",
+            "PostHistoryTypeId":"2",
+            "Id":"60132",
+            "Text":"Okay, in spite of the hate being heaped on by iPhone elitists, I have installed Instagram on my Android phone and have started playing with it a bit.**How can I get my Instagram photos to automagically appear in a public album in Google+ Photos?**Felicia Day, for instance, has [a public Instagram album](https:\/\/plus.google.com\/photos\/110286587261352351537\/albums\/5627898447762720193).I can see, on my phone, an Instagram album (which was automatically created by the app), but there is no such album in my Google+ Photos. The options for the phone album do not include a \"make public\" option, and there's nothing in the Instagram settings. At best, the photos are appearing in the default \"Photos from your phone\" album.I know that I can manually share them, either through the website by making a public album and moving\/copying them there, or using the Share features on my Android, but I'd rather have something automatic.Is this possible, or just a pipe dream?([Cross-posted at _Web Applications_](http:\/\/webapps.stackexchange.com\/q\/25436\/354).)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-06T15:35:20.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f031f3b-66fe-43b5-bd57-b972cd263ef6",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"21476",
+            "PostHistoryTypeId":"1",
+            "Id":"60133",
+            "Text":"Autopublish album in Google+ photos"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-06T15:35:20.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f031f3b-66fe-43b5-bd57-b972cd263ef6",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"21476",
+            "PostHistoryTypeId":"3",
+            "Id":"60134",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/188458880328675329",
+            "CreationDate":"2012-04-07T02:51:13.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdc80d3e-22ef-4db3-86d9-fc42c6b00825",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"21476",
+            "PostHistoryTypeId":"25",
+            "Id":"60218",
+            "Text":null
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-12-21T22:01:52.140",
+            "UserDisplayName":null,
+            "RevisionGUID":"b6496dff-673a-4cbf-9551-dd0b572096d7",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"21476",
+            "PostHistoryTypeId":"10",
+            "Id":"108214",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

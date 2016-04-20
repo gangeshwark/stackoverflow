@@ -1,0 +1,83 @@
+{
+    "Body":"I have a very peculiar problem on my Android [Samsung Galaxy 5(five)].Every time I send a text message, it is stuck at 'Sending...' and can be stuck on that for days until it shows that it has failed to send the message.Sometimes I send 3 messages at a go and they end up being sent. Sometimes even this does not work.What could be the problem? What can I do to rectify?Desperate!",
+    "ViewCount":"9092",
+    "LastActivityDate":"2012-12-11T09:23:55.713",
+    "ClosedDate":"2012-12-12T05:24:36.097",
+    "Title":"SMS Stuck at Sending",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1219",
+    "CreationDate":"2011-07-11T12:55:43.687",
+    "FavoriteCount":null,
+    "Id":"11367",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-11T12:55:43.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"227ec0e8-f47f-4749-ad61-3df5c7a552f3",
+            "UserId":"1219",
+            "CloseReasonId":null,
+            "PostId":"11367",
+            "PostHistoryTypeId":"2",
+            "Id":"28373",
+            "Text":"I have a very peculiar problem on my Android [Samsung Galaxy 5(five)].Every time I send a text message, it is stuck at 'Sending...' and can be stuck on that for days until it shows that it has failed to send the message.Sometimes I send 3 messages at a go and they end up being sent. Sometimes even this does not work.What could be the problem? What can I do to rectify?Desperate!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-11T12:55:43.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"227ec0e8-f47f-4749-ad61-3df5c7a552f3",
+            "UserId":"1219",
+            "CloseReasonId":null,
+            "PostId":"11367",
+            "PostHistoryTypeId":"1",
+            "Id":"28374",
+            "Text":"SMS Stuck at Sending"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-07-11T12:55:43.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"227ec0e8-f47f-4749-ad61-3df5c7a552f3",
+            "UserId":"1219",
+            "CloseReasonId":null,
+            "PostId":"11367",
+            "PostHistoryTypeId":"3",
+            "Id":"28375",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/90987249931534337",
+            "CreationDate":"2011-07-13T03:33:45.767",
+            "UserDisplayName":null,
+            "RevisionGUID":"7506ffcc-6e2a-4d49-b515-edb03acca99b",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"11367",
+            "PostHistoryTypeId":"25",
+            "Id":"28591",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-12T05:24:36.097",
+            "UserDisplayName":null,
+            "RevisionGUID":"949dfae6-fca6-47db-b5b4-b45fcfbbd819",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"11367",
+            "PostHistoryTypeId":"10",
+            "Id":"105610",
+            "Text":"{\"Voters\":[{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

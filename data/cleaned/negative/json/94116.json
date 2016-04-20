@@ -1,0 +1,71 @@
+{
+    "Body":"I recently got a bluetooth keyboard for my Motorola Xoom tablet, and upon realizing that BusyBox comes with vi for text editing I started wondering about writing and executing code on android.I tried running $ javac in Terminal Emulator but to no avail; I got javac: not foundI looked around a bit and found a post saying that since android is run on Dalvik there is no way for the JVM to run, but it seems counter-intuitive that an operating system built on java wouldn't be able to compile and run a java program.I managed to find an app called AIDE that allows one to write and execute android apps (in java), but that's still not quite what I'm looking for.I want to be able to compile and run a standard java command line application on android.Does anybody know a way of doing this?",
+    "ViewCount":"7135",
+    "LastActivityDate":"2015-01-07T01:16:41.733",
+    "ClosedDate":"2015-01-11T15:08:15.613",
+    "Title":"Compiling and running java applications from android terminal?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"94120",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"88086",
+    "CreationDate":"2015-01-07T00:57:19.273",
+    "FavoriteCount":null,
+    "Id":"94116",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T00:57:19.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"52edd9e9-b31a-4d5d-b9a5-e10bade8a2fb",
+            "UserId":"88086",
+            "CloseReasonId":null,
+            "PostId":"94116",
+            "PostHistoryTypeId":"2",
+            "Id":"308571",
+            "Text":"I recently got a bluetooth keyboard for my Motorola Xoom tablet, and upon realizing that BusyBox comes with vi for text editing I started wondering about writing and executing code on android.I tried running `$ javac` in [Terminal Emulator][1] but to no avail; I got `javac: not found`I looked around a bit and found a post saying that since android is run on Dalvik there is no way for the JVM to run, but it seems counter-intuitive that an operating system built on java wouldn't be able to compile and run a java program.I managed to find [an app called AIDE][2] that allows one to write and execute android apps (in java), but that's still not quite what I'm looking for.**I want to be able to compile and run a standard java command line application on android.**Does anybody know a way of doing this?  [1]: https:\/\/play.google.com\/store\/apps\/details?id=jackpal.androidterm&hl=en  [2]: https:\/\/play.google.com\/store\/apps\/details?id=com.aide.ui&hl=en"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T00:57:19.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"52edd9e9-b31a-4d5d-b9a5-e10bade8a2fb",
+            "UserId":"88086",
+            "CloseReasonId":null,
+            "PostId":"94116",
+            "PostHistoryTypeId":"1",
+            "Id":"308572",
+            "Text":"Compiling and running java applications from android terminal?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-07T00:57:19.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"52edd9e9-b31a-4d5d-b9a5-e10bade8a2fb",
+            "UserId":"88086",
+            "CloseReasonId":null,
+            "PostId":"94116",
+            "PostHistoryTypeId":"3",
+            "Id":"308573",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-01-11T15:08:15.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"d1995ba1-ec6b-4729-8f72-9e7e67c0507b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"94116",
+            "PostHistoryTypeId":"10",
+            "Id":"311103",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":23379,\"DisplayName\":\"Sid\"}]}"
+        }
+    ]
+}

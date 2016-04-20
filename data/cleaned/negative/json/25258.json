@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  Is there a plain ICS ROM for the Samsung Galaxy Note? I'm looking for something that is relatively stable and without any kind of mods\/frills.",
+    "ViewCount":"564",
+    "LastActivityDate":"2012-07-04T12:17:08.950",
+    "ClosedDate":"2012-07-04T15:30:20.190",
+    "Title":"Is there any Vanilla ICS ROM for Galaxy Note?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"25262",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13568",
+    "CreationDate":"2012-07-04T11:22:21.723",
+    "FavoriteCount":null,
+    "Id":"25258",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-04T11:22:21.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ec934af-9da6-43cb-8d2a-638674fa6803",
+            "UserId":"13568",
+            "CloseReasonId":null,
+            "PostId":"25258",
+            "PostHistoryTypeId":"2",
+            "Id":"72735",
+            "Text":"Is there a plain ICS ROM for the Samsung Galaxy Note? I'm looking for something that is relatively stable and without any kind of mods\/frills."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-04T11:22:21.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ec934af-9da6-43cb-8d2a-638674fa6803",
+            "UserId":"13568",
+            "CloseReasonId":null,
+            "PostId":"25258",
+            "PostHistoryTypeId":"1",
+            "Id":"72736",
+            "Text":"Is there any Vanilla ICS ROM for Galaxy Note?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-04T11:22:21.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"5ec934af-9da6-43cb-8d2a-638674fa6803",
+            "UserId":"13568",
+            "CloseReasonId":null,
+            "PostId":"25258",
+            "PostHistoryTypeId":"3",
+            "Id":"72737",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-04T15:30:22.907",
+            "UserDisplayName":null,
+            "RevisionGUID":"81e2c0c3-84d9-4d9c-8578-6bb6c2d93599",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25258",
+            "PostHistoryTypeId":"5",
+            "Id":"72752",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  Is there a plain ICS ROM for the Samsung Galaxy Note? I'm looking for something that is relatively stable and without any kind of mods\/frills."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-04T15:30:20.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ab48fc-c71a-4458-a770-c65b7209b18a",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"25258",
+            "PostHistoryTypeId":"10",
+            "Id":"72753",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

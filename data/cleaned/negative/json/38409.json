@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is there no way to get scripts to run in Android?  There were similar questions like this one hereIs there no way to get scripts to run in Android?.Most of them were helpful but still have some things to get cleared up.I have a non-rooted android phone(2.3) with a file manager(ES) installed. I want to write scripts and keep them on SD and be able to execute them when required. I can use any text editor to write, edit and save scripts so its not a problem. What Im facing here are;Does Android allow executing scripts written by someone and placed in SD cardWhat scripting languages Android natively supportOr do I need to install a 3rd party App for running scriptsCurrently, Im hoping to script file management stuff(copy,move,delete) on SD- do I need root?I would like to run scripts by clicking in the file browser. Is that possible? or do I need to use some sort of 3rd party terminal emulator?What is the best solution for this case? without rooting, preferably without burdening with extra apps if possible..Thank you",
+    "ViewCount":"27",
+    "LastActivityDate":"2013-01-26T03:34:58.380",
+    "ClosedDate":"2013-01-26T14:09:32.933",
+    "Title":"Scripting Android",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"20461",
+    "CreationDate":"2013-01-26T03:34:58.380",
+    "FavoriteCount":null,
+    "Id":"38409",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-26T03:34:58.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"9360937d-4090-491e-bf5d-8df38a5fd3a5",
+            "UserId":"20461",
+            "CloseReasonId":null,
+            "PostId":"38409",
+            "PostHistoryTypeId":"2",
+            "Id":"117585",
+            "Text":"There were similar questions like this one here[Is there no way to get scripts to run in Android?][1].Most of them were helpful but still have some things to get cleared up.I have a non-rooted android phone(2.3) with a file manager(ES) installed. I want to write scripts and keep them on SD and be able to execute them when required. I can use any text editor to write, edit and save scripts so its not a problem. What Im facing here are; 1. Does Android allow executing scripts written by someone and placed in SD card 2. What scripting languages Android natively support 3. Or do I need to install a 3rd party App for running scripts 4. Currently, Im hoping to script file management stuff(copy,move,delete) on SD- do I need root? 5. I would like to run scripts by clicking in the file browser. Is that possible? or do I need to use some sort of 3rd party terminal emulator?What is the best solution for this case? without rooting, preferably without burdening with extra apps if possible..Thank you  [1]: http:\/\/android.stackexchange.com\/questions\/33142\/is-there-no-way-to-get-scripts-to-run-in-android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-26T03:34:58.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"9360937d-4090-491e-bf5d-8df38a5fd3a5",
+            "UserId":"20461",
+            "CloseReasonId":null,
+            "PostId":"38409",
+            "PostHistoryTypeId":"1",
+            "Id":"117586",
+            "Text":"Scripting Android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-01-26T03:34:58.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"9360937d-4090-491e-bf5d-8df38a5fd3a5",
+            "UserId":"20461",
+            "CloseReasonId":null,
+            "PostId":"38409",
+            "PostHistoryTypeId":"3",
+            "Id":"117587",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2013-01-26T14:09:32.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc0ef518-a92c-4c10-9b90-aecb1d09b8bb",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38409",
+            "PostHistoryTypeId":"5",
+            "Id":"117668",
+            "Text":"> **Possible Duplicate:**  > [Is there no way to get scripts to run in Android?](http:\/\/android.stackexchange.com\/questions\/33142\/is-there-no-way-to-get-scripts-to-run-in-android)  There were similar questions like this one here[Is there no way to get scripts to run in Android?][1].Most of them were helpful but still have some things to get cleared up.I have a non-rooted android phone(2.3) with a file manager(ES) installed. I want to write scripts and keep them on SD and be able to execute them when required. I can use any text editor to write, edit and save scripts so its not a problem. What Im facing here are; 1. Does Android allow executing scripts written by someone and placed in SD card 2. What scripting languages Android natively support 3. Or do I need to install a 3rd party App for running scripts 4. Currently, Im hoping to script file management stuff(copy,move,delete) on SD- do I need root? 5. I would like to run scripts by clicking in the file browser. Is that possible? or do I need to use some sort of 3rd party terminal emulator?What is the best solution for this case? without rooting, preferably without burdening with extra apps if possible..Thank you  [1]: http:\/\/android.stackexchange.com\/questions\/33142\/is-there-no-way-to-get-scripts-to-run-in-android"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-01-26T14:09:32.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"27ba789d-56b7-41c9-b7c9-592c1d6376f6",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"38409",
+            "PostHistoryTypeId":"10",
+            "Id":"117669",
+            "Text":"{\"OriginalQuestionIds\":[33142],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

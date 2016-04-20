@@ -1,0 +1,71 @@
+{
+    "Body":"I bought Nexus 5, it had android 4.4.2. I updated it to 4.4.3 and 4.4.4, but I am unable to update it to 5.0. It says that system is up to date and it has been this way for a few hours.I know that Nexus 5 has 5.0.2 (I think) already. Why is my phone not finding any new updates?",
+    "ViewCount":"168",
+    "LastActivityDate":"2015-01-02T17:33:03.827",
+    "ClosedDate":"2015-01-08T08:20:49.307",
+    "Title":"How to get Lollipop update for Nexus 5?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87335",
+    "CreationDate":"2015-01-02T15:55:23.617",
+    "FavoriteCount":null,
+    "Id":"93612",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-02T15:55:23.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"15471d84-f4ce-48b5-bae3-19e1286d7608",
+            "UserId":"87335",
+            "CloseReasonId":null,
+            "PostId":"93612",
+            "PostHistoryTypeId":"2",
+            "Id":"306922",
+            "Text":"I bought Nexus 5, it had android 4.4.2. I updated it to 4.4.3 and 4.4.4, but I am unable to update it to 5.0. It says that system is up to date and it has been this way for a few hours.I know that Nexus 5 has 5.0.2 (I think) already. Why is my phone not finding any new updates?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-02T15:55:23.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"15471d84-f4ce-48b5-bae3-19e1286d7608",
+            "UserId":"87335",
+            "CloseReasonId":null,
+            "PostId":"93612",
+            "PostHistoryTypeId":"1",
+            "Id":"306923",
+            "Text":"How to get Lollipop update for Nexus 5?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-02T15:55:23.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"15471d84-f4ce-48b5-bae3-19e1286d7608",
+            "UserId":"87335",
+            "CloseReasonId":null,
+            "PostId":"93612",
+            "PostHistoryTypeId":"3",
+            "Id":"306924",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-08T08:20:49.307",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b640d60-a0f6-4f12-9e2d-5312fa153728",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"93612",
+            "PostHistoryTypeId":"10",
+            "Id":"310033",
+            "Text":"{\"OriginalQuestionIds\":[88305],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I just installed cm13 and every few seconds it popped up with \"unfortunately, google play services has stopped\" so I fixed the problem, but now half of my apps want me to update it. So when I do update it, it keeps stopping again and i have to uninstall the updates. Is there any workaround or fix for this?CM13, Android 6.0.1, Samsung Galaxy S5",
+    "ViewCount":"63",
+    "LastActivityDate":"2016-02-25T10:34:14.773",
+    "ClosedDate":"2016-03-04T17:10:06.070",
+    "Title":"I can't upgrade Google Play Services without having it stop every 10 seconds",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153195",
+    "CreationDate":"2016-02-25T10:34:14.773",
+    "FavoriteCount":null,
+    "Id":"138070",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T10:34:14.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"487136af-8e11-42fe-bede-9cd42ff3ded3",
+            "UserId":"153195",
+            "CloseReasonId":null,
+            "PostId":"138070",
+            "PostHistoryTypeId":"2",
+            "Id":"460865",
+            "Text":"I just installed cm13 and every few seconds it popped up with \"unfortunately, google play services has stopped\" so I fixed the problem, but now half of my apps want me to update it. So when I do update it, it keeps stopping again and i have to uninstall the updates. Is there any workaround or fix for this?CM13, Android 6.0.1, Samsung Galaxy S5"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T10:34:14.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"487136af-8e11-42fe-bede-9cd42ff3ded3",
+            "UserId":"153195",
+            "CloseReasonId":null,
+            "PostId":"138070",
+            "PostHistoryTypeId":"1",
+            "Id":"460866",
+            "Text":"I can't upgrade Google Play Services without having it stop every 10 seconds"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-25T10:34:14.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"487136af-8e11-42fe-bede-9cd42ff3ded3",
+            "UserId":"153195",
+            "CloseReasonId":null,
+            "PostId":"138070",
+            "PostHistoryTypeId":"3",
+            "Id":"460867",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-04T17:10:06.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"143549d4-7fb7-479f-8a30-b2ae67a3bf8e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"138070",
+            "PostHistoryTypeId":"10",
+            "Id":"464003",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"}]}"
+        }
+    ]
+}

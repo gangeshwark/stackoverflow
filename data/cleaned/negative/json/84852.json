@@ -1,0 +1,71 @@
+{
+    "Body":"my galaxy note SHV-E160S have 200 mb free device memory but still it donot even download 5 mb apps from play store and the warning message of insufficient memory displayed... Any so;ution???",
+    "ViewCount":"521",
+    "LastActivityDate":"2014-10-14T08:50:58.203",
+    "ClosedDate":"2014-10-14T14:37:35.277",
+    "Title":"Insufficient device memory",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"76279",
+    "CreationDate":"2014-10-14T07:26:32.527",
+    "FavoriteCount":null,
+    "Id":"84852",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T07:26:32.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b06cfb-0bef-4a27-81f8-17db15939fa1",
+            "UserId":"76279",
+            "CloseReasonId":null,
+            "PostId":"84852",
+            "PostHistoryTypeId":"2",
+            "Id":"278547",
+            "Text":"my galaxy note SHV-E160S have 200 mb free device memory but still it donot even download 5 mb apps from play store and the warning message of insufficient memory displayed... Any so;ution???"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T07:26:32.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b06cfb-0bef-4a27-81f8-17db15939fa1",
+            "UserId":"76279",
+            "CloseReasonId":null,
+            "PostId":"84852",
+            "PostHistoryTypeId":"1",
+            "Id":"278548",
+            "Text":"Insufficient device memory"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-14T07:26:32.527",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b06cfb-0bef-4a27-81f8-17db15939fa1",
+            "UserId":"76279",
+            "CloseReasonId":null,
+            "PostId":"84852",
+            "PostHistoryTypeId":"3",
+            "Id":"278549",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-14T14:37:35.277",
+            "UserDisplayName":null,
+            "RevisionGUID":"ead17e12-6098-4a41-b92d-f844e83cfb25",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84852",
+            "PostHistoryTypeId":"10",
+            "Id":"278654",
+            "Text":"{\"OriginalQuestionIds\":[23010],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

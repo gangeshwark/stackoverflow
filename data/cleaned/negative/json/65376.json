@@ -1,0 +1,83 @@
+{
+    "Body":"I am using Sony Xperia Z with android 4.3. Is there any way I can save Web pages on my device to view it offline. Will it require an app? If yes, any free app for the purpose.",
+    "ViewCount":"15532",
+    "LastActivityDate":"2015-02-27T13:52:32.887",
+    "ClosedDate":"2015-03-01T02:24:04.757",
+    "Title":"Saving a Web page for offline viewing",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":"65395",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"53934",
+    "CreationDate":"2014-03-13T10:38:38.177",
+    "FavoriteCount":"1",
+    "Id":"65376",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-13T10:38:38.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"60edafd0-da12-4b1a-86f1-04d4ec163b50",
+            "UserId":"53934",
+            "CloseReasonId":null,
+            "PostId":"65376",
+            "PostHistoryTypeId":"2",
+            "Id":"222571",
+            "Text":"I am using Sony Xperia Z with android 4.3. Is there any way I can save Web pages on my device to view it offline. Will it require an app? If yes, any free app for the purpose."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-13T10:38:38.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"60edafd0-da12-4b1a-86f1-04d4ec163b50",
+            "UserId":"53934",
+            "CloseReasonId":null,
+            "PostId":"65376",
+            "PostHistoryTypeId":"1",
+            "Id":"222572",
+            "Text":"Saving a Web page for offline viewing"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-13T10:38:38.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"60edafd0-da12-4b1a-86f1-04d4ec163b50",
+            "UserId":"53934",
+            "CloseReasonId":null,
+            "PostId":"65376",
+            "PostHistoryTypeId":"3",
+            "Id":"222573",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/444106214340063232",
+            "CreationDate":"2014-03-13T13:42:26.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"cffadb4b-84f2-4c24-ade1-e904e9e1a726",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"65376",
+            "PostHistoryTypeId":"25",
+            "Id":"222605",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-01T02:24:04.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"1135768c-52e3-4198-a5d2-d6619959a618",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"65376",
+            "PostHistoryTypeId":"10",
+            "Id":"328860",
+            "Text":"{\"OriginalQuestionIds\":[8090],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"i had just hard bricked my galaxy note 3 clone.it is not turning on but when i connect it to pc it is detected as MTK USB PORT(COM7).it has 256mb ram, 1.3ghz dual core mtk6572, 500mb internal memory, and it's baseband version is something like lcsh_xxxxx. can anybody help me in finding rom for this device",
+    "ViewCount":"16",
+    "LastActivityDate":"2014-09-25T05:14:35.377",
+    "ClosedDate":"2014-09-25T13:17:56.083",
+    "Title":"needed rom for mt6572 note 3",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"73605",
+    "CreationDate":"2014-09-25T05:14:35.377",
+    "FavoriteCount":null,
+    "Id":"83297",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-25T05:14:35.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"730864b3-0820-40b5-a3d1-abe80acdd4cd",
+            "UserId":"73605",
+            "CloseReasonId":null,
+            "PostId":"83297",
+            "PostHistoryTypeId":"2",
+            "Id":"273152",
+            "Text":"i had just hard bricked my galaxy note 3 clone.it is not turning on but when i connect it to pc it is detected as MTK USB PORT(COM7).it has 256mb ram, 1.3ghz dual core mtk6572, 500mb internal memory, and it's baseband version is something like lcsh_xxxxx. can anybody help me in finding rom for this device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-25T05:14:35.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"730864b3-0820-40b5-a3d1-abe80acdd4cd",
+            "UserId":"73605",
+            "CloseReasonId":null,
+            "PostId":"83297",
+            "PostHistoryTypeId":"1",
+            "Id":"273153",
+            "Text":"needed rom for mt6572 note 3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-25T05:14:35.377",
+            "UserDisplayName":null,
+            "RevisionGUID":"730864b3-0820-40b5-a3d1-abe80acdd4cd",
+            "UserId":"73605",
+            "CloseReasonId":null,
+            "PostId":"83297",
+            "PostHistoryTypeId":"3",
+            "Id":"273154",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-25T13:17:56.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9f93bfd-2458-45e4-b2c3-07a1c6111d85",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"83297",
+            "PostHistoryTypeId":"10",
+            "Id":"273270",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

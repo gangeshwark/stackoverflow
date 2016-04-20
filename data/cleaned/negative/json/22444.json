@@ -1,0 +1,83 @@
+{
+    "Body":"From YouTube.com in PC, we can watch live videos from here - http:\/\/www.youtube.com\/liveBut how do we watch them from the default YouTube mobile application in Android.",
+    "ViewCount":"123",
+    "LastActivityDate":"2012-04-29T12:25:05.270",
+    "ClosedDate":"2013-01-02T15:59:12.327",
+    "Title":"Can we watch \"live\" broadcast videos from YouTube Application",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7617",
+    "CreationDate":"2012-04-29T12:25:05.270",
+    "FavoriteCount":null,
+    "Id":"22444",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-29T12:25:05.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"45cf1523-bfc2-47b8-8717-5563647412f3",
+            "UserId":"7617",
+            "CloseReasonId":null,
+            "PostId":"22444",
+            "PostHistoryTypeId":"2",
+            "Id":"63413",
+            "Text":"From YouTube.com in PC, we can watch live videos from here - http:\/\/www.youtube.com\/liveBut how do we watch them from the default YouTube mobile application in Android."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-29T12:25:05.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"45cf1523-bfc2-47b8-8717-5563647412f3",
+            "UserId":"7617",
+            "CloseReasonId":null,
+            "PostId":"22444",
+            "PostHistoryTypeId":"1",
+            "Id":"63414",
+            "Text":"Can we watch \"live\" broadcast videos from YouTube Application"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-04-29T12:25:05.270",
+            "UserDisplayName":null,
+            "RevisionGUID":"45cf1523-bfc2-47b8-8717-5563647412f3",
+            "UserId":"7617",
+            "CloseReasonId":null,
+            "PostId":"22444",
+            "PostHistoryTypeId":"3",
+            "Id":"63415",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/196738895331852289",
+            "CreationDate":"2012-04-29T23:13:02.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"8eed6b9f-310d-43ab-89c5-a0c837274a3b",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"22444",
+            "PostHistoryTypeId":"25",
+            "Id":"63471",
+            "Text":null
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2013-01-02T15:59:12.327",
+            "UserDisplayName":null,
+            "RevisionGUID":"d8856ba4-cbd9-4b49-8677-4a5ceecd4b4c",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"22444",
+            "PostHistoryTypeId":"10",
+            "Id":"110896",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

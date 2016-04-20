@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I keep my wi-fi on in sleep mode  i have samsung galaxy ace, i have created an adhoc network on my laptop and connected through WI-FI on my samsung phone, now the problem is, if the device is kept ideal for 15-20 minutes, the WI-Fi gets disconnected and also does not gets connected, even if i restart wifi, i need to stop the adhoc network and start the network again to start the wifi on my samsung, can anyone tell me what could be causing this issue, is this the default behaviour of samsung mobile or something has went wrong on my device.",
+    "ViewCount":"1099",
+    "LastActivityDate":"2012-02-14T19:58:58.247",
+    "ClosedDate":"2012-02-14T20:00:17.707",
+    "Title":"WIFI gets disconnected once the device sleeps",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9554",
+    "CreationDate":"2012-02-14T19:48:15.607",
+    "FavoriteCount":null,
+    "Id":"19487",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-14T19:48:15.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"c661ac99-97aa-424e-9d5b-cb8618288880",
+            "UserId":"9554",
+            "CloseReasonId":null,
+            "PostId":"19487",
+            "PostHistoryTypeId":"2",
+            "Id":"53923",
+            "Text":"i have samsung galaxy ace, i have created an adhoc network on my laptop and connected through WI-FI on my samsung phone, now the problem is, if the device is kept ideal for 15-20 minutes, the WI-Fi gets disconnected and also does not gets connected, even if i restart wifi, i need to stop the adhoc network and start the network again to start the wifi on my samsung, can anyone tell me what could be causing this issue, is this the default behaviour of samsung mobile or something has went wrong on my device."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-14T19:48:15.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"c661ac99-97aa-424e-9d5b-cb8618288880",
+            "UserId":"9554",
+            "CloseReasonId":null,
+            "PostId":"19487",
+            "PostHistoryTypeId":"1",
+            "Id":"53924",
+            "Text":"WIFI gets disconnected once the device sleeps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-14T19:48:15.607",
+            "UserDisplayName":null,
+            "RevisionGUID":"c661ac99-97aa-424e-9d5b-cb8618288880",
+            "UserId":"9554",
+            "CloseReasonId":null,
+            "PostId":"19487",
+            "PostHistoryTypeId":"3",
+            "Id":"53925",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-02-14T20:00:19.703",
+            "UserDisplayName":null,
+            "RevisionGUID":"64945609-f733-4e41-ae69-94487a2c4507",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"19487",
+            "PostHistoryTypeId":"5",
+            "Id":"53929",
+            "Text":"> **Possible Duplicate:**  > [How do I keep my wi-fi on in sleep mode](http:\/\/android.stackexchange.com\/questions\/16\/how-do-i-keep-my-wi-fi-on-in-sleep-mode)  i have samsung galaxy ace, i have created an adhoc network on my laptop and connected through WI-FI on my samsung phone, now the problem is, if the device is kept ideal for 15-20 minutes, the WI-Fi gets disconnected and also does not gets connected, even if i restart wifi, i need to stop the adhoc network and start the network again to start the wifi on my samsung, can anyone tell me what could be causing this issue, is this the default behaviour of samsung mobile or something has went wrong on my device."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-02-14T20:00:17.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"ccdc9443-d27e-445e-bb1c-846c84f3cd5e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"19487",
+            "PostHistoryTypeId":"10",
+            "Id":"53930",
+            "Text":"{\"OriginalQuestionIds\":[16],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

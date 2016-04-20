@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Where can I find stock or custom ROMs for my Android device?  I just got my new HTC Amaze 4G with Videotron and I only have Android 2.3 on it. Videotron says that they will release Android 4.0 soon.Is there a way to install it before this? Like a Beta or something like that?",
+    "ViewCount":"29",
+    "LastActivityDate":"2012-05-30T02:59:45.693",
+    "ClosedDate":"2012-05-30T18:34:45.517",
+    "Title":"HTC Amaze 4G (Videotron) - Is there a way to install Android 4.0?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15496",
+    "CreationDate":"2012-05-30T02:59:45.693",
+    "FavoriteCount":null,
+    "Id":"23613",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-30T02:59:45.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"17ec8951-88f7-4adf-8b72-3fc80002ac02",
+            "UserId":"15496",
+            "CloseReasonId":null,
+            "PostId":"23613",
+            "PostHistoryTypeId":"2",
+            "Id":"67295",
+            "Text":"I just got my new HTC Amaze 4G with Videotron and I only have Android 2.3 on it. Videotron says that they will release Android 4.0 soon.Is there a way to install it before this? Like a Beta or something like that?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-30T02:59:45.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"17ec8951-88f7-4adf-8b72-3fc80002ac02",
+            "UserId":"15496",
+            "CloseReasonId":null,
+            "PostId":"23613",
+            "PostHistoryTypeId":"1",
+            "Id":"67296",
+            "Text":"HTC Amaze 4G (Videotron) - Is there a way to install Android 4.0?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-30T02:59:45.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"17ec8951-88f7-4adf-8b72-3fc80002ac02",
+            "UserId":"15496",
+            "CloseReasonId":null,
+            "PostId":"23613",
+            "PostHistoryTypeId":"3",
+            "Id":"67297",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-05-30T18:34:46.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"e37087bb-8587-451e-8969-b7a6cfd85b6e",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"23613",
+            "PostHistoryTypeId":"5",
+            "Id":"67386",
+            "Text":"> **Possible Duplicate:**  > [Where can I find stock or custom ROMs for my Android device?](http:\/\/android.stackexchange.com\/questions\/17152\/where-can-i-find-stock-or-custom-roms-for-my-android-device)  I just got my new HTC Amaze 4G with Videotron and I only have Android 2.3 on it. Videotron says that they will release Android 4.0 soon.Is there a way to install it before this? Like a Beta or something like that?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-05-30T18:34:45.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"32b13395-90aa-42d1-99a8-78588811bc1f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"23613",
+            "PostHistoryTypeId":"10",
+            "Id":"67387",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

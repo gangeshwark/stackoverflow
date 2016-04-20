@@ -1,0 +1,71 @@
+{
+    "Body":"I wonder if other people can read my contact list when the app permission(s) has Phone Calls permision like below snapshot.",
+    "ViewCount":"191",
+    "LastActivityDate":"2013-08-22T07:55:19.747",
+    "ClosedDate":"2013-08-22T02:40:38.243",
+    "Title":"Can `Phone Calls` application permission allow developer to read my contact book?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"51647",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"198",
+    "CreationDate":"2013-08-21T07:40:10.013",
+    "FavoriteCount":null,
+    "Id":"51645",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-21T07:40:10.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"343ba20e-fa2f-459e-b524-da311cad880d",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"51645",
+            "PostHistoryTypeId":"2",
+            "Id":"169529",
+            "Text":"I wonder if other people can read my contact list when the app permission(s) has `Phone Calls` permision like below snapshot.![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/rUADR.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-21T07:40:10.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"343ba20e-fa2f-459e-b524-da311cad880d",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"51645",
+            "PostHistoryTypeId":"1",
+            "Id":"169530",
+            "Text":"Can `Phone Calls` application permission allow developer to read my contact book?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-21T07:40:10.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"343ba20e-fa2f-459e-b524-da311cad880d",
+            "UserId":"198",
+            "CloseReasonId":null,
+            "PostId":"51645",
+            "PostHistoryTypeId":"3",
+            "Id":"169531",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-08-22T02:40:38.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"d544c369-ab94-4ab6-8e2f-ce4581ff0cb3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"51645",
+            "PostHistoryTypeId":"10",
+            "Id":"169800",
+            "Text":"{\"OriginalQuestionIds\":[38388],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"}]}"
+        }
+    ]
+}

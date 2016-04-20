@@ -1,0 +1,83 @@
+{
+    "Body":"I was just fiddling with gReader when I noticed that by default the application saves the feeds to the phone memory. So I immediately changed that to SD card memory. However, on doing this all the existing feeds were lost and I had to do a resync. I have a feeling the app didn't delete the existing feeds from the phone memory. Any idea how I can delete those feeds from Phone memory manually?",
+    "ViewCount":"1110",
+    "LastActivityDate":"2013-03-16T16:52:02.987",
+    "ClosedDate":"2014-08-04T10:45:45.940",
+    "Title":"How to delete gReader stored RSS feeds from Phone memory manually",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-03-16T16:52:02.987",
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5566",
+    "CreationDate":"2011-06-03T18:57:33.617",
+    "FavoriteCount":null,
+    "Id":"10048",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-03T18:57:33.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff6011b7-e502-4272-ab12-39d3d0a8c15b",
+            "UserId":"5566",
+            "CloseReasonId":null,
+            "PostId":"10048",
+            "PostHistoryTypeId":"2",
+            "Id":"24916",
+            "Text":"I was just fiddling with gReader when I noticed that by default the application saves the feeds to the phone memory. So I immediately changed that to SD card memory. However, on doing this all the existing feeds were lost and I had to do a resync. I have a feeling the app didn't delete the existing feeds from the phone memory. Any idea how I can delete those feeds from Phone memory manually?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-03T18:57:33.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff6011b7-e502-4272-ab12-39d3d0a8c15b",
+            "UserId":"5566",
+            "CloseReasonId":null,
+            "PostId":"10048",
+            "PostHistoryTypeId":"1",
+            "Id":"24917",
+            "Text":"How to delete gReader stored RSS feeds from Phone memory manually"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-06-03T18:57:33.617",
+            "UserDisplayName":null,
+            "RevisionGUID":"ff6011b7-e502-4272-ab12-39d3d0a8c15b",
+            "UserId":"5566",
+            "CloseReasonId":null,
+            "PostId":"10048",
+            "PostHistoryTypeId":"3",
+            "Id":"24918",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-03-16T16:52:02.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"dcc2dab6-ff69-4cd5-ad68-0c9ae1b01391",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"10048",
+            "PostHistoryTypeId":"6",
+            "Id":"130546",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-08-04T10:45:45.940",
+            "UserDisplayName":null,
+            "RevisionGUID":"31a2e1ae-f06c-495d-81ee-9c9c5d01872a",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"10048",
+            "PostHistoryTypeId":"10",
+            "Id":"259690",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

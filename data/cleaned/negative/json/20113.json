@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my device get the Android 4.0 update (Ice Cream Sandwich)?  I know the version for T-Mobile (GT-I9020 or GT-I9020T) Nexus S has been available for download since December, but is there any information on when a similar update will be available for the AT&T\/Fido\/Rogers (GT-I9020A) Nexus S?",
+    "ViewCount":"259",
+    "LastActivityDate":"2012-03-01T20:22:20.043",
+    "ClosedDate":"2012-03-01T20:26:08.343",
+    "Title":"Any information on when ICS will be available for the Nexus S GT-I9020A (AT&T\/Fido\/Rogers)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13035",
+    "CreationDate":"2012-03-01T20:22:20.043",
+    "FavoriteCount":null,
+    "Id":"20113",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-01T20:22:20.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"88a94191-1e81-4697-acab-303073e1088a",
+            "UserId":"13035",
+            "CloseReasonId":null,
+            "PostId":"20113",
+            "PostHistoryTypeId":"2",
+            "Id":"55821",
+            "Text":"I know the version for [T-Mobile (GT-I9020 or GT-I9020T)][1] Nexus S has been available for download since December, but is there any information on when a similar update will be available for the AT&T\/Fido\/Rogers (GT-I9020A) Nexus S?  [1]: http:\/\/www.androidcentral.com\/how-manually-update-your-gsm-nexus-s-ice-cream-sandwich"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-01T20:22:20.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"88a94191-1e81-4697-acab-303073e1088a",
+            "UserId":"13035",
+            "CloseReasonId":null,
+            "PostId":"20113",
+            "PostHistoryTypeId":"1",
+            "Id":"55822",
+            "Text":"Any information on when ICS will be available for the Nexus S GT-I9020A (AT&T\/Fido\/Rogers)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-01T20:22:20.043",
+            "UserDisplayName":null,
+            "RevisionGUID":"88a94191-1e81-4697-acab-303073e1088a",
+            "UserId":"13035",
+            "CloseReasonId":null,
+            "PostId":"20113",
+            "PostHistoryTypeId":"3",
+            "Id":"55823",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-01T20:26:08.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"f2a77772-6b67-4ae4-bf5b-bd0065232040",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20113",
+            "PostHistoryTypeId":"5",
+            "Id":"55824",
+            "Text":"> **Possible Duplicate:**  > [When will my device get the Android 4.0 update (Ice Cream Sandwich)?](http:\/\/android.stackexchange.com\/questions\/14766\/when-will-my-device-get-the-android-4-0-update-ice-cream-sandwich)  I know the version for [T-Mobile (GT-I9020 or GT-I9020T)][1] Nexus S has been available for download since December, but is there any information on when a similar update will be available for the AT&T\/Fido\/Rogers (GT-I9020A) Nexus S?  [1]: http:\/\/www.androidcentral.com\/how-manually-update-your-gsm-nexus-s-ice-cream-sandwich"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-01T20:26:08.343",
+            "UserDisplayName":null,
+            "RevisionGUID":"a7f8508c-65ca-40a6-bb3e-a819c9108042",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20113",
+            "PostHistoryTypeId":"10",
+            "Id":"55825",
+            "Text":"{\"OriginalQuestionIds\":[14766],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

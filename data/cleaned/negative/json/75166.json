@@ -1,0 +1,71 @@
+{
+    "Body":"Recently I was looking through developer options on my Moto X and I was interested by the option to do runtime in either dalvik or ART. After doing some research I decided to change my runtime to ART. I was wondering if this was a good choice or if I should continue running my phone on Dalvik. Let me know what you think.",
+    "ViewCount":"620",
+    "LastActivityDate":"2014-06-30T14:26:15.840",
+    "ClosedDate":"2014-06-29T23:28:21.763",
+    "Title":"ART Runtime vs Dalvik Runtime",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"75167",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65184",
+    "CreationDate":"2014-06-29T22:22:04.203",
+    "FavoriteCount":null,
+    "Id":"75166",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-29T22:22:04.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0f84ead-5d18-4f56-b6ce-c7c454adb59a",
+            "UserId":"65184",
+            "CloseReasonId":null,
+            "PostId":"75166",
+            "PostHistoryTypeId":"2",
+            "Id":"249798",
+            "Text":"Recently I was looking through developer options on my Moto X and I was interested by the option to do runtime in either dalvik or ART. After doing some research I decided to change my runtime to ART. I was wondering if this was a good choice or if I should continue running my phone on Dalvik. Let me know what you think."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-29T22:22:04.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0f84ead-5d18-4f56-b6ce-c7c454adb59a",
+            "UserId":"65184",
+            "CloseReasonId":null,
+            "PostId":"75166",
+            "PostHistoryTypeId":"1",
+            "Id":"249799",
+            "Text":"ART Runtime vs Dalvik Runtime"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-06-29T22:22:04.203",
+            "UserDisplayName":null,
+            "RevisionGUID":"e0f84ead-5d18-4f56-b6ce-c7c454adb59a",
+            "UserId":"65184",
+            "CloseReasonId":null,
+            "PostId":"75166",
+            "PostHistoryTypeId":"3",
+            "Id":"249800",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-06-29T23:28:21.763",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1b636d2-a44c-482f-8d10-0850ea9deaf4",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"75166",
+            "PostHistoryTypeId":"10",
+            "Id":"249805",
+            "Text":"{\"OriginalQuestionIds\":[74933],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

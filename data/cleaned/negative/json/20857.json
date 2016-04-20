@@ -1,0 +1,83 @@
+{
+    "Body":"I want to install this applicationhttps:\/\/play.google.com\/store\/apps\/details?id=com.scoompa.callrecorder.openbut I can't, because I'm in a wrong country. I would like to change country. Do I need to travel to another country to install this application or can I somehow pick a right country ? what is the right country for this application?",
+    "ViewCount":"61832",
+    "LastActivityDate":"2014-01-16T11:57:59.240",
+    "ClosedDate":"2015-03-03T03:15:32.220",
+    "Title":"How to change country?",
+    "LastEditorUserId":"156",
+    "Tags":"",
+    "LastEditDate":"2012-03-21T13:16:43.350",
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"20860",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13594",
+    "CreationDate":"2012-03-21T12:00:03.227",
+    "FavoriteCount":"2",
+    "Id":"20857",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-21T12:00:03.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"8963dcff-2101-4c37-bdf9-996a99b2797d",
+            "UserId":"13594",
+            "CloseReasonId":null,
+            "PostId":"20857",
+            "PostHistoryTypeId":"2",
+            "Id":"58240",
+            "Text":"I want to install this applicationhttps:\/\/play.google.com\/store\/apps\/details?id=com.scoompa.callrecorder.openbut I can't, because I'm in a wrong country. I would like to change country. Do I need to travel to another country to install this application or can I somehow pick a right country ? what is the right country for this application?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-21T12:00:03.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"8963dcff-2101-4c37-bdf9-996a99b2797d",
+            "UserId":"13594",
+            "CloseReasonId":null,
+            "PostId":"20857",
+            "PostHistoryTypeId":"1",
+            "Id":"58241",
+            "Text":"How to change country?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-21T12:00:03.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"8963dcff-2101-4c37-bdf9-996a99b2797d",
+            "UserId":"13594",
+            "CloseReasonId":null,
+            "PostId":"20857",
+            "PostHistoryTypeId":"3",
+            "Id":"58242",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-03-21T13:16:43.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee93810e-0d5d-448f-945c-95f7f3225436",
+            "UserId":"156",
+            "CloseReasonId":null,
+            "PostId":"20857",
+            "PostHistoryTypeId":"6",
+            "Id":"58256",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-03T03:15:32.220",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b1787a3-af8f-41c2-bf7a-432e3b08cd65",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20857",
+            "PostHistoryTypeId":"10",
+            "Id":"329626",
+            "Text":"{\"OriginalQuestionIds\":[12538],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

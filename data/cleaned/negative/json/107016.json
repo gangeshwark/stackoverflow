@@ -1,0 +1,71 @@
+{
+    "Body":"Google play is giving lots of errors for no reason like when you try to it for some reason it doesn't download it comes up with an error saying (905)",
+    "ViewCount":"11",
+    "LastActivityDate":"2015-04-29T16:11:59.227",
+    "ClosedDate":"2015-04-29T17:44:18.283",
+    "Title":"google play error for downloading games (905)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"104719",
+    "CreationDate":"2015-04-29T16:11:59.227",
+    "FavoriteCount":null,
+    "Id":"107016",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-29T16:11:59.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"7cc3248b-ecb1-4d77-8c11-865a187489a2",
+            "UserId":"104719",
+            "CloseReasonId":null,
+            "PostId":"107016",
+            "PostHistoryTypeId":"2",
+            "Id":"350517",
+            "Text":"Google play is giving lots of errors for no reason like when you try to it for some reason it doesn't download it comes up with an error saying (905)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-29T16:11:59.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"7cc3248b-ecb1-4d77-8c11-865a187489a2",
+            "UserId":"104719",
+            "CloseReasonId":null,
+            "PostId":"107016",
+            "PostHistoryTypeId":"1",
+            "Id":"350518",
+            "Text":"google play error for downloading games (905)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-29T16:11:59.227",
+            "UserDisplayName":null,
+            "RevisionGUID":"7cc3248b-ecb1-4d77-8c11-865a187489a2",
+            "UserId":"104719",
+            "CloseReasonId":null,
+            "PostId":"107016",
+            "PostHistoryTypeId":"3",
+            "Id":"350519",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-29T17:44:18.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"c13fbf5e-a28e-448b-9b29-17444a10bd82",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"107016",
+            "PostHistoryTypeId":"10",
+            "Id":"350540",
+            "Text":"{\"OriginalQuestionIds\":[25918],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

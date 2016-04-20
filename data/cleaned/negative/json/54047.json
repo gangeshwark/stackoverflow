@@ -1,0 +1,71 @@
+{
+    "Body":"I have rooted Samsung Galaxy S2 with Rootbox Android 4.2.2 installed. My phone screen is dead and I want to get following data out of the phone.SMS (Most important)PhotosOther files in internal cardEverything in the phone is working except the screen. I can call my phone and everything.Whenever I try to connect to computer, it connects as MTP device and shows nothing inside it. Had there been a way to start the Airdroid or something to take the screenshot in realtime so that I can take backup of data and upload it on dropbox or google drive, it would have been easier.I would like know if it is possible to access screenshot of my device through adb or something? If yes, which softwares and tools I will need to install? Are there any other methods that I can use to make it faster.",
+    "ViewCount":"27",
+    "LastActivityDate":"2013-09-27T14:07:14.690",
+    "ClosedDate":"2013-09-27T21:04:31.957",
+    "Title":"Get phone data out when screen is dead",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"42240",
+    "CreationDate":"2013-09-27T14:07:14.690",
+    "FavoriteCount":"1",
+    "Id":"54047",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T14:07:14.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7163cb4-b07e-4678-85a8-13ca04c5d6a5",
+            "UserId":"42240",
+            "CloseReasonId":null,
+            "PostId":"54047",
+            "PostHistoryTypeId":"2",
+            "Id":"178942",
+            "Text":"I have rooted Samsung Galaxy S2 with Rootbox Android 4.2.2 installed. My phone screen is dead and I want to get following data out of the phone.- SMS (Most important)- Photos- Other files in internal cardEverything in the phone is working except the screen. I can call my phone and everything.Whenever I try to connect to computer, it connects as MTP device and shows nothing inside it. Had there been a way to start the Airdroid or something to take the screenshot in realtime so that I can take backup of data and upload it on dropbox or google drive, it would have been easier.I would like know if it is possible to access screenshot of my device through adb or something? If yes, which softwares and tools I will need to install? Are there any other methods that I can use to make it faster."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T14:07:14.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7163cb4-b07e-4678-85a8-13ca04c5d6a5",
+            "UserId":"42240",
+            "CloseReasonId":null,
+            "PostId":"54047",
+            "PostHistoryTypeId":"1",
+            "Id":"178943",
+            "Text":"Get phone data out when screen is dead"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-09-27T14:07:14.690",
+            "UserDisplayName":null,
+            "RevisionGUID":"c7163cb4-b07e-4678-85a8-13ca04c5d6a5",
+            "UserId":"42240",
+            "CloseReasonId":null,
+            "PostId":"54047",
+            "PostHistoryTypeId":"3",
+            "Id":"178944",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-09-27T21:04:31.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9c74964-41c0-4728-bd3b-ad276876a56c",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"54047",
+            "PostHistoryTypeId":"10",
+            "Id":"179050",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

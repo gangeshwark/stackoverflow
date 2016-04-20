@@ -1,0 +1,83 @@
+{
+    "Body":"Can you please let me know whether, if someone is \"not available\" on Facebook Messenger but shows as \"on line\" according to I'm Online Unlocker, it means they're chatting with someone else?",
+    "ViewCount":"9",
+    "LastActivityDate":"2014-10-19T10:57:18.443",
+    "ClosedDate":"2014-10-20T17:24:02.847",
+    "Title":"\"I'm online\" for Facebook",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":null,
+    "CreationDate":"2014-10-18T18:17:14.633",
+    "FavoriteCount":null,
+    "Id":"85249",
+    "history":[
+        {
+            "Comment":"from http:\/\/webapps.stackexchange.com\/questions\/69175\/im-online-for-facebook",
+            "CreationDate":"2014-10-19T10:57:18.443",
+            "UserDisplayName":null,
+            "RevisionGUID":"8de6380b-be8a-4c0b-99ee-70dfff0601ab",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"85249",
+            "PostHistoryTypeId":"36",
+            "Id":"280040",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-18T18:17:14.633",
+            "UserDisplayName":"user79985",
+            "RevisionGUID":"9e28e3d9-332e-4596-be01-622fd78246fd",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"85249",
+            "PostHistoryTypeId":"2",
+            "Id":"280041",
+            "Text":"Can you please let me know whether, if someone is \"not available\" on Facebook Messenger but shows as \"on line\" according to [I'm Online Unlocker](https:\/\/play.google.com\/store\/apps\/details?id=com.pixeltech.unlockers.imonline), it means they're chatting with someone else?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-18T18:17:14.633",
+            "UserDisplayName":"user79985",
+            "RevisionGUID":"9e28e3d9-332e-4596-be01-622fd78246fd",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"85249",
+            "PostHistoryTypeId":"1",
+            "Id":"280042",
+            "Text":"\"I'm online\" for Facebook"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-18T18:17:14.633",
+            "UserDisplayName":"user79985",
+            "RevisionGUID":"9e28e3d9-332e-4596-be01-622fd78246fd",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"85249",
+            "PostHistoryTypeId":"3",
+            "Id":"280043",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-10-20T17:24:02.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"1d0bc542-efa9-47e3-bb66-69a3a2d67e8c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"85249",
+            "PostHistoryTypeId":"10",
+            "Id":"280375",
+            "Text":"{\"OriginalQuestionIds\":[85212],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

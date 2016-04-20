@@ -1,0 +1,71 @@
+{
+    "Body":"I'm having the same problem as the BBC iPlayer app for Android where our Android app is not available for download in the Isle of Man, from the Google Play store. As IoM is part of the UK, it should be available already as the UK is a selected territory.Does anyone know of a workaround apart from our users travelling to the UK and downloading it?",
+    "ViewCount":"762",
+    "LastActivityDate":"2014-07-15T13:17:58.347",
+    "ClosedDate":"2014-07-15T14:39:38.923",
+    "Title":"Android App unavailable for download in Isle of Man",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67358",
+    "CreationDate":"2014-07-15T10:54:45.153",
+    "FavoriteCount":null,
+    "Id":"77307",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-15T10:54:45.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"4287372a-cd70-4592-913e-29e938e4eadf",
+            "UserId":"67358",
+            "CloseReasonId":null,
+            "PostId":"77307",
+            "PostHistoryTypeId":"2",
+            "Id":"254811",
+            "Text":"I'm having the same problem as the [BBC iPlayer app for Android][1] where our Android app is not available for download in the Isle of Man, from the Google Play store. As IoM is part of the UK, it should be available already as the UK is a selected territory.Does anyone know of a workaround apart from our users travelling to the UK and downloading it?  [1]: http:\/\/iplayerhelp.external.bbc.co.uk\/tv\/tablet\/android-isle-of-man-channel"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-15T10:54:45.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"4287372a-cd70-4592-913e-29e938e4eadf",
+            "UserId":"67358",
+            "CloseReasonId":null,
+            "PostId":"77307",
+            "PostHistoryTypeId":"1",
+            "Id":"254812",
+            "Text":"Android App unavailable for download in Isle of Man"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-15T10:54:45.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"4287372a-cd70-4592-913e-29e938e4eadf",
+            "UserId":"67358",
+            "CloseReasonId":null,
+            "PostId":"77307",
+            "PostHistoryTypeId":"3",
+            "Id":"254813",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-15T14:39:38.923",
+            "UserDisplayName":null,
+            "RevisionGUID":"39126bde-f45a-4b56-936a-5d2dedc8a6d6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77307",
+            "PostHistoryTypeId":"10",
+            "Id":"254855",
+            "Text":"{\"OriginalQuestionIds\":[12538],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

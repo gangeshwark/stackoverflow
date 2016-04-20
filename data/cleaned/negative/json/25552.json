@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  When will my device get the Android 4.1 update (Jelly Bean)?  I am running CM9, just so you know that it's been flashed before.My question has 2 parts:Will the nexus 7 rom work (https:\/\/developers.google.com\/android\/nexus\/images#nakasi)If not, how can I make it work?",
+    "ViewCount":"4723",
+    "LastActivityDate":"2012-07-10T04:21:10.847",
+    "ClosedDate":"2012-07-10T15:42:39.077",
+    "Title":"How to put android 4.1 (jelly bean) on nook color",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16834",
+    "CreationDate":"2012-07-10T01:49:32.947",
+    "FavoriteCount":null,
+    "Id":"25552",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-10T01:49:32.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c82bd8d-af31-49dc-ae60-6a672ca0735b",
+            "UserId":"16834",
+            "CloseReasonId":null,
+            "PostId":"25552",
+            "PostHistoryTypeId":"2",
+            "Id":"73766",
+            "Text":"I am running CM9, just so you know that it's been flashed before.My question has 2 parts:1.  Will the nexus 7 rom work (https:\/\/developers.google.com\/android\/nexus\/images#nakasi)2.  If not, how can I make it work?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-10T01:49:32.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c82bd8d-af31-49dc-ae60-6a672ca0735b",
+            "UserId":"16834",
+            "CloseReasonId":null,
+            "PostId":"25552",
+            "PostHistoryTypeId":"1",
+            "Id":"73767",
+            "Text":"How to put android 4.1 (jelly bean) on nook color"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-10T01:49:32.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c82bd8d-af31-49dc-ae60-6a672ca0735b",
+            "UserId":"16834",
+            "CloseReasonId":null,
+            "PostId":"25552",
+            "PostHistoryTypeId":"3",
+            "Id":"73768",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-07-10T15:42:41.090",
+            "UserDisplayName":null,
+            "RevisionGUID":"26f3d19d-5a38-4da1-ad43-78d77dcc0604",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"25552",
+            "PostHistoryTypeId":"5",
+            "Id":"73846",
+            "Text":"> **Possible Duplicate:**  > [When will my device get the Android 4.1 update (Jelly Bean)?](http:\/\/android.stackexchange.com\/questions\/24575\/when-will-my-device-get-the-android-4-1-update-jelly-bean)  I am running CM9, just so you know that it's been flashed before.My question has 2 parts:1.  Will the nexus 7 rom work (https:\/\/developers.google.com\/android\/nexus\/images#nakasi)2.  If not, how can I make it work?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-07-10T15:42:39.077",
+            "UserDisplayName":null,
+            "RevisionGUID":"a3d82066-00b6-4249-903a-6b0e84954cf2",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"25552",
+            "PostHistoryTypeId":"10",
+            "Id":"73847",
+            "Text":"{\"OriginalQuestionIds\":[24575],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"With the new Android update now avalible, Android has been notifying me each day about updating to the latest version. Each time I press \"remind\" me later and the notification goes away temporarily. Is there a way to completely remove this reminder?I am running Android 4.4.4",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-06-08T18:44:09.237",
+    "ClosedDate":"2015-06-08T18:46:55.560",
+    "Title":"Stop Android from \"reminding\" me about updates?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"111958",
+    "CreationDate":"2015-06-08T18:44:09.237",
+    "FavoriteCount":null,
+    "Id":"111860",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-08T18:44:09.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"d87671e3-defa-4925-a644-27bee30f292d",
+            "UserId":"111958",
+            "CloseReasonId":null,
+            "PostId":"111860",
+            "PostHistoryTypeId":"2",
+            "Id":"365984",
+            "Text":"With the new Android update now avalible, Android has been notifying me each day about updating to the latest version. Each time I press \"remind\" me later and the notification goes away temporarily. **Is there a way to completely remove this reminder?**I am running Android 4.4.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-08T18:44:09.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"d87671e3-defa-4925-a644-27bee30f292d",
+            "UserId":"111958",
+            "CloseReasonId":null,
+            "PostId":"111860",
+            "PostHistoryTypeId":"1",
+            "Id":"365985",
+            "Text":"Stop Android from \"reminding\" me about updates?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-08T18:44:09.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"d87671e3-defa-4925-a644-27bee30f292d",
+            "UserId":"111958",
+            "CloseReasonId":null,
+            "PostId":"111860",
+            "PostHistoryTypeId":"3",
+            "Id":"365986",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-08T18:46:55.560",
+            "UserDisplayName":null,
+            "RevisionGUID":"3c3b6857-8f52-480e-af63-d11e5031d5f4",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"111860",
+            "PostHistoryTypeId":"10",
+            "Id":"365988",
+            "Text":"{\"OriginalQuestionIds\":[88159],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

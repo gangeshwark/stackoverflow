@@ -1,0 +1,71 @@
+{
+    "Body":"Could someone explain to me the meaning of 3 axis x, y & z of Magnetometer",
+    "ViewCount":"3371",
+    "LastActivityDate":"2012-01-30T10:35:12.380",
+    "ClosedDate":"2012-01-30T18:13:29.057",
+    "Title":"The meaning of 3 axis values of magnetometer",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11278",
+    "CreationDate":"2012-01-30T10:03:53.103",
+    "FavoriteCount":null,
+    "Id":"18884",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-30T10:03:53.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b358e2-3769-474c-8331-6ec2cea3c139",
+            "UserId":"11278",
+            "CloseReasonId":null,
+            "PostId":"18884",
+            "PostHistoryTypeId":"2",
+            "Id":"52052",
+            "Text":"Could someone explain to me the meaning of 3 axis x, y & z of Magnetometer"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-30T10:03:53.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b358e2-3769-474c-8331-6ec2cea3c139",
+            "UserId":"11278",
+            "CloseReasonId":null,
+            "PostId":"18884",
+            "PostHistoryTypeId":"1",
+            "Id":"52053",
+            "Text":"The meaning of 3 axis values of magnetometer"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-30T10:03:53.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b358e2-3769-474c-8331-6ec2cea3c139",
+            "UserId":"11278",
+            "CloseReasonId":null,
+            "PostId":"18884",
+            "PostHistoryTypeId":"3",
+            "Id":"52054",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-01-30T18:13:29.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"e416529c-8509-44d0-9d36-c5f4ee5097e5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"18884",
+            "PostHistoryTypeId":"10",
+            "Id":"52119",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

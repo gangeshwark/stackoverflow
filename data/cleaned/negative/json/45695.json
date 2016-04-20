@@ -1,0 +1,71 @@
+{
+    "Body":"So I was testing some functionality levels with Facebook Check-In feature on an Android device (Galaxy S2) and I noticed something strange. Even though my GPS was turned off, When I Checked-In on the Facebook App it showed my current location (along with a pop-up asking me to turn on GPS for more accurate reporting).Why and more importantly how did my device know where I was located with my GPS being turned off?",
+    "ViewCount":"525",
+    "LastActivityDate":"2013-05-18T22:29:56.177",
+    "ClosedDate":"2013-05-19T00:46:10.667",
+    "Title":"How did my device know where I am located even though my GPS was turned off?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"34246",
+    "CreationDate":"2013-05-18T22:20:14.380",
+    "FavoriteCount":null,
+    "Id":"45695",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-18T22:20:14.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"b36f6d77-b064-4b43-b0b9-ac8b48f84860",
+            "UserId":"34246",
+            "CloseReasonId":null,
+            "PostId":"45695",
+            "PostHistoryTypeId":"2",
+            "Id":"147338",
+            "Text":"So I was testing some functionality levels with Facebook Check-In feature on an Android device (Galaxy S2) and I noticed something strange. Even though my GPS was turned off, When I Checked-In on the Facebook App it showed my current location (along with a pop-up asking me to turn on GPS for more accurate reporting).Why and more importantly how did my device know where I was located with my GPS being turned off?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-18T22:20:14.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"b36f6d77-b064-4b43-b0b9-ac8b48f84860",
+            "UserId":"34246",
+            "CloseReasonId":null,
+            "PostId":"45695",
+            "PostHistoryTypeId":"1",
+            "Id":"147339",
+            "Text":"How did my device know where I am located even though my GPS was turned off?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-18T22:20:14.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"b36f6d77-b064-4b43-b0b9-ac8b48f84860",
+            "UserId":"34246",
+            "CloseReasonId":null,
+            "PostId":"45695",
+            "PostHistoryTypeId":"3",
+            "Id":"147340",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-19T00:46:10.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"be8d8298-e840-4935-b52e-856fac5e5626",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"45695",
+            "PostHistoryTypeId":"10",
+            "Id":"147350",
+            "Text":"{\"OriginalQuestionIds\":[40383],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

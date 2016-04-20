@@ -1,0 +1,83 @@
+{
+    "Body":"I have tried to get games like barbie and  coloring games.But it shows an error message and it says that there is Insufficient space on my device.",
+    "ViewCount":"196",
+    "LastActivityDate":"2015-07-01T10:50:24.240",
+    "ClosedDate":"2015-07-19T16:55:55.007",
+    "Title":"I am having a problem with getting games from google play store",
+    "LastEditorUserId":"30530",
+    "Tags":"",
+    "LastEditDate":"2015-06-30T15:24:10.387",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"114874",
+    "CreationDate":"2015-06-30T14:39:46.773",
+    "FavoriteCount":null,
+    "Id":"113881",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-30T14:39:46.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"79e38a2e-fb12-49c3-8683-0b7b2a5c4d18",
+            "UserId":"114874",
+            "CloseReasonId":null,
+            "PostId":"113881",
+            "PostHistoryTypeId":"2",
+            "Id":"373293",
+            "Text":"I have tried to get games like barbie and  coloring games.But it shows an error message and it says that there is Insufficient space on my device."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-30T14:39:46.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"79e38a2e-fb12-49c3-8683-0b7b2a5c4d18",
+            "UserId":"114874",
+            "CloseReasonId":null,
+            "PostId":"113881",
+            "PostHistoryTypeId":"1",
+            "Id":"373294",
+            "Text":"I am having a problem with getting games from google play store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-30T14:39:46.773",
+            "UserDisplayName":null,
+            "RevisionGUID":"79e38a2e-fb12-49c3-8683-0b7b2a5c4d18",
+            "UserId":"114874",
+            "CloseReasonId":null,
+            "PostId":"113881",
+            "PostHistoryTypeId":"3",
+            "Id":"373295",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-06-30T15:24:10.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5ccb2a3-cd4e-4529-a8bb-a977131a1e6e",
+            "UserId":"30530",
+            "CloseReasonId":null,
+            "PostId":"113881",
+            "PostHistoryTypeId":"6",
+            "Id":"373310",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-19T16:55:55.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"dbb22dfd-f8f1-4b07-a564-7f7c79827f73",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"113881",
+            "PostHistoryTypeId":"10",
+            "Id":"380245",
+            "Text":"{\"OriginalQuestionIds\":[27083],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

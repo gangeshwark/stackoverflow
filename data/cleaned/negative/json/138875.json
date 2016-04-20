@@ -1,0 +1,71 @@
+{
+    "Body":"I need to develop a portable accessory for an android device and I'm ready to use the AOA protocol. However the use of AOA protocol means that the accessory should act as a USB host, meaning the connecting accessory must power the bus (as specified here https:\/\/source.android.com\/devices\/accessories\/custom.html ). Is there any such adapter which is light enough to carry in a pocket?",
+    "ViewCount":"5",
+    "LastActivityDate":"2016-03-05T11:46:38.123",
+    "ClosedDate":"2016-03-05T18:31:10.670",
+    "Title":"Small adapter for powering the android device in accesory mode",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154673",
+    "CreationDate":"2016-03-05T11:46:38.123",
+    "FavoriteCount":null,
+    "Id":"138875",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T11:46:38.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"86a8557b-0dcd-4f75-a2fa-897d8fb253ec",
+            "UserId":"154673",
+            "CloseReasonId":null,
+            "PostId":"138875",
+            "PostHistoryTypeId":"2",
+            "Id":"464389",
+            "Text":"I need to develop a portable accessory for an android device and I'm ready to use the AOA protocol. However the use of AOA protocol means that the accessory should act as a USB host, meaning the connecting accessory must power the bus (as specified here https:\/\/source.android.com\/devices\/accessories\/custom.html ). Is there any such adapter which is light enough to carry in a pocket?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T11:46:38.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"86a8557b-0dcd-4f75-a2fa-897d8fb253ec",
+            "UserId":"154673",
+            "CloseReasonId":null,
+            "PostId":"138875",
+            "PostHistoryTypeId":"1",
+            "Id":"464390",
+            "Text":"Small adapter for powering the android device in accesory mode"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T11:46:38.123",
+            "UserDisplayName":null,
+            "RevisionGUID":"86a8557b-0dcd-4f75-a2fa-897d8fb253ec",
+            "UserId":"154673",
+            "CloseReasonId":null,
+            "PostId":"138875",
+            "PostHistoryTypeId":"3",
+            "Id":"464391",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-05T18:31:10.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc8e2c3e-bc19-47a5-8e94-8c9c31983d70",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138875",
+            "PostHistoryTypeId":"10",
+            "Id":"464504",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

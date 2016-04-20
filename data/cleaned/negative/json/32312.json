@@ -1,0 +1,71 @@
+{
+    "Body":"I bought an unlocked android phone at Amazon and it works perfectly. This phone in particular doesn't have any OS updates I could do (Motorola Defy), so basically I am stock with Froyo unless I flash it with a custom ROM with an newer android version.The phone used to be locked to T-Mobile's network, so my question is: since my phone is currently \"network unlocked\" if I flash it will it re-lock again?I appreciate any help and guidance. Thank you.",
+    "ViewCount":"2969",
+    "LastActivityDate":"2013-02-27T07:28:36.540",
+    "ClosedDate":"2013-03-09T16:46:05.807",
+    "Title":"Will flashing re-lock my unlocked phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"32314",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22813",
+    "CreationDate":"2012-10-24T13:44:58.680",
+    "FavoriteCount":null,
+    "Id":"32312",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T13:44:58.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"b000f9ab-6f2f-4d1b-8b99-5e277ea52a13",
+            "UserId":"22813",
+            "CloseReasonId":null,
+            "PostId":"32312",
+            "PostHistoryTypeId":"2",
+            "Id":"95536",
+            "Text":"I bought an unlocked android phone at Amazon and it works perfectly. This phone in particular doesn't have any OS updates I could do (Motorola Defy), so basically I am stock with Froyo unless I flash it with a custom ROM with an newer android version.The phone used to be locked to T-Mobile's network, so my question is: since my phone is currently \"network unlocked\" if I flash it will it re-lock again?I appreciate any help and guidance. Thank you."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T13:44:58.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"b000f9ab-6f2f-4d1b-8b99-5e277ea52a13",
+            "UserId":"22813",
+            "CloseReasonId":null,
+            "PostId":"32312",
+            "PostHistoryTypeId":"1",
+            "Id":"95537",
+            "Text":"Will flashing re-lock my unlocked phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-24T13:44:58.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"b000f9ab-6f2f-4d1b-8b99-5e277ea52a13",
+            "UserId":"22813",
+            "CloseReasonId":null,
+            "PostId":"32312",
+            "PostHistoryTypeId":"3",
+            "Id":"95538",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-03-09T16:46:05.807",
+            "UserDisplayName":null,
+            "RevisionGUID":"8368672a-d8ef-4675-9790-341b9f024405",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"32312",
+            "PostHistoryTypeId":"10",
+            "Id":"128524",
+            "Text":"{\"OriginalQuestionIds\":[7145],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

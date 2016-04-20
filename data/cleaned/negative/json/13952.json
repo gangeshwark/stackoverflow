@@ -1,0 +1,83 @@
+{
+    "Body":"Is there any PDF reader in the market that has text wrap functionality?What I'm talking about is the way text wraps when you zoom-in on a webpage.Most of the PDFs are meant to be read on a computer monitor, so a line of text in a PDF document is too long for a small phone screen. And scrolling horizontally for each line is too much of a pain.",
+    "ViewCount":"11082",
+    "LastActivityDate":"2012-09-18T07:42:54.910",
+    "ClosedDate":"2013-03-24T19:40:50.613",
+    "Title":"PDF reader with text wrapping",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"6",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8103",
+    "CreationDate":"2011-09-29T16:02:11.723",
+    "FavoriteCount":"2",
+    "Id":"13952",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-29T16:02:11.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc3b3e23-e8be-4acd-bbc0-7d8054ad1229",
+            "UserId":"8103",
+            "CloseReasonId":null,
+            "PostId":"13952",
+            "PostHistoryTypeId":"2",
+            "Id":"36805",
+            "Text":"Is there any PDF reader in the market that has text wrap functionality?  What I'm talking about is the way text wraps when you zoom-in on a webpage.Most of the PDFs are meant to be read on a computer monitor, so a line of text in a PDF document is too long for a small phone screen. And scrolling horizontally for each line is too much of a pain."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-29T16:02:11.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc3b3e23-e8be-4acd-bbc0-7d8054ad1229",
+            "UserId":"8103",
+            "CloseReasonId":null,
+            "PostId":"13952",
+            "PostHistoryTypeId":"1",
+            "Id":"36806",
+            "Text":"PDF reader with text wrapping"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-09-29T16:02:11.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"cc3b3e23-e8be-4acd-bbc0-7d8054ad1229",
+            "UserId":"8103",
+            "CloseReasonId":null,
+            "PostId":"13952",
+            "PostHistoryTypeId":"3",
+            "Id":"36807",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/119487163535593472",
+            "CreationDate":"2011-09-29T19:02:14.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"7f9ec4f1-89d9-4152-9df4-077906078b61",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"13952",
+            "PostHistoryTypeId":"25",
+            "Id":"36840",
+            "Text":null
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-03-24T19:40:50.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"08dcbf20-329f-4103-b5b3-0fcfe81b4259",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"13952",
+            "PostHistoryTypeId":"10",
+            "Id":"133013",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

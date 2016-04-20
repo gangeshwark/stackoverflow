@@ -1,0 +1,83 @@
+{
+    "Body":"I'm using 2014 Moto X (2nd Gen) and lately I keep getting:Android is starting... & Optimizing app whenever I start my phone(I tried to clear wipe cache partition, but that did not help towards resolution of my issue.",
+    "ViewCount":"31",
+    "LastActivityDate":"2015-09-08T15:18:02.063",
+    "ClosedDate":"2015-09-08T08:25:28.157",
+    "Title":"\"Android is starting...\" & \"Optimizing app\" @ 2014 Moto X 2nd Gen",
+    "LastEditorUserId":"1524",
+    "Tags":"",
+    "LastEditDate":"2015-09-08T15:18:02.063",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1524",
+    "CreationDate":"2015-09-06T02:15:55.473",
+    "FavoriteCount":null,
+    "Id":"122342",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-06T02:15:55.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"19098860-b032-460b-9bab-e98b705ed9f2",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"122342",
+            "PostHistoryTypeId":"2",
+            "Id":"399166",
+            "Text":"I'm using 2014 Moto X (2nd Gen) and lately I keep getting:`Android is starting...` & `Optimizing app` whenever I start my phone(I tried to clear `wipe cache partition`, but that did not help towards resolution of my issue."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-06T02:15:55.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"19098860-b032-460b-9bab-e98b705ed9f2",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"122342",
+            "PostHistoryTypeId":"1",
+            "Id":"399167",
+            "Text":"\"Android is starting...\" & \"Optimizing app\" @ Moto X 2nd Gen"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-06T02:15:55.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"19098860-b032-460b-9bab-e98b705ed9f2",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"122342",
+            "PostHistoryTypeId":"3",
+            "Id":"399168",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-08T08:25:28.157",
+            "UserDisplayName":null,
+            "RevisionGUID":"8aecd543-3665-4fb3-aab6-a778691cceca",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"122342",
+            "PostHistoryTypeId":"10",
+            "Id":"399784",
+            "Text":"{\"OriginalQuestionIds\":[113428],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2015-09-08T15:18:02.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"df04e1da-8e1f-4b79-ac33-f452e3fbdc84",
+            "UserId":"1524",
+            "CloseReasonId":null,
+            "PostId":"122342",
+            "PostHistoryTypeId":"4",
+            "Id":"399877",
+            "Text":"\"Android is starting...\" & \"Optimizing app\" @ 2014 Moto X 2nd Gen"
+        }
+    ]
+}

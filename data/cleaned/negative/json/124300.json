@@ -1,0 +1,83 @@
+{
+    "Body":"I'm total newbie to Android and trying to figure out how should it be utilized.I had used a lot of other linux distros before. They all have a package manager for easy installing applications and their dependencies. Applications often have common dependencies and they would be installed only once. Moreover Java community has handy Maven infrastructure aiming specifically for reusing java code.But android applications for some reasons tends to incorporate all dependencies to the application package. That wastes precious disk space.Why do they adopt such way of packaging? Is there any explicit proscription from Google? In that case I'm searching for alternative markets that values disk space of their users.I'm planning for writing bunch of tools for my own use. Not more than thousand lines each. But I become accustomed for many powerful libraries not to mention scala language. And they weights a lot. So there is no way I would embed them in every tool.Given that, I search for solution in the priority below:Custom market with dependency resolutionSpecial runner application that wraps other applications and preloads needed libraries.Custom classloader that should be invoked from application and can load library code from some maven-like shared storage.Patching android to promote needed libraries to system-wide level.",
+    "ViewCount":"54",
+    "LastActivityDate":"2016-02-27T05:47:09.723",
+    "ClosedDate":"2016-02-27T05:46:51.283",
+    "Title":"How android handle common dependencies?",
+    "LastEditorUserId":"1465",
+    "Tags":"",
+    "LastEditDate":"2016-02-27T05:47:09.723",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129013",
+    "CreationDate":"2015-09-26T20:36:51.107",
+    "FavoriteCount":null,
+    "Id":"124300",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-26T20:36:51.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebee40d1-e6e6-4e55-93f9-d886a45652f2",
+            "UserId":"129013",
+            "CloseReasonId":null,
+            "PostId":"124300",
+            "PostHistoryTypeId":"2",
+            "Id":"406423",
+            "Text":"I'm total newbie to Android and trying to figure out how should it be utilized.I had used a lot of other linux distros before. They all have a package manager for easy installing applications and their dependencies. Applications often have common dependencies and they would be installed only once. Moreover Java community has handy Maven infrastructure aiming specifically for reusing java code.But android applications for some reasons tends to incorporate all dependencies to the application package. That wastes precious disk space.Why do they adopt such way of packaging? Is there any explicit proscription from Google? In that case I'm searching for alternative markets that values disk space of their users.I'm planning for writing bunch of tools for my own use. Not more than thousand lines each. But I become accustomed for many powerful libraries not to mention scala language. And they weights a lot. So there is no way I would embed them in every tool.Given that, I search for solution in the priority below: 1. Custom market with dependency resolution 2. Special runner application that wraps other applications and preloads needed libraries. 3. Custom classloader that should be invoked from application and can load library code from some maven-like shared storage. 4. Patching android to promote needed libraries to system-wide level."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-26T20:36:51.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebee40d1-e6e6-4e55-93f9-d886a45652f2",
+            "UserId":"129013",
+            "CloseReasonId":null,
+            "PostId":"124300",
+            "PostHistoryTypeId":"1",
+            "Id":"406424",
+            "Text":"How android handle common dependencies?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-26T20:36:51.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"ebee40d1-e6e6-4e55-93f9-d886a45652f2",
+            "UserId":"129013",
+            "CloseReasonId":null,
+            "PostId":"124300",
+            "PostHistoryTypeId":"3",
+            "Id":"406425",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-27T05:46:51.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"2df41c37-610f-4f77-86ea-1833658c7191",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"124300",
+            "PostHistoryTypeId":"10",
+            "Id":"461793",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-02-27T05:47:09.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"01733a27-b043-4aa9-9b40-94fe9ee9b862",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"124300",
+            "PostHistoryTypeId":"6",
+            "Id":"461794",
+            "Text":""
+        }
+    ]
+}

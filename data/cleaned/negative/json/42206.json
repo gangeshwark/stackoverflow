@@ -1,0 +1,83 @@
+{
+    "Body":"I just lost my phone today and I dont have any Find Me app but I am logged in with all of my information. Like my email, facebook, and such things. How can I possibly find it?? I also know that my GPS is set on On.",
+    "ViewCount":"531",
+    "LastActivityDate":"2013-04-23T19:01:14.110",
+    "ClosedDate":"2013-03-24T19:43:18.937",
+    "Title":"How can I find my phone without an app",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-04-23T19:01:14.110",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"30853",
+    "CreationDate":"2013-03-24T03:21:28.517",
+    "FavoriteCount":null,
+    "Id":"42206",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-24T03:21:28.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"43f92735-9720-41ec-b834-daf5cec32b04",
+            "UserId":"30853",
+            "CloseReasonId":null,
+            "PostId":"42206",
+            "PostHistoryTypeId":"2",
+            "Id":"132839",
+            "Text":"I just lost my phone today and I dont have any Find Me app but I am logged in with all of my information. Like my email, facebook, and such things. How can I possibly find it?? I also know that my GPS is set on On."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-24T03:21:28.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"43f92735-9720-41ec-b834-daf5cec32b04",
+            "UserId":"30853",
+            "CloseReasonId":null,
+            "PostId":"42206",
+            "PostHistoryTypeId":"1",
+            "Id":"132840",
+            "Text":"How can I find my phone without an app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-24T03:21:28.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"43f92735-9720-41ec-b834-daf5cec32b04",
+            "UserId":"30853",
+            "CloseReasonId":null,
+            "PostId":"42206",
+            "PostHistoryTypeId":"3",
+            "Id":"132841",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-03-24T19:43:18.937",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d1db236-d9f5-4ab3-8be1-72b1b4940742",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"42206",
+            "PostHistoryTypeId":"10",
+            "Id":"133018",
+            "Text":"{\"OriginalQuestionIds\":[28711],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        },
+        {
+            "Comment":"edited tags; edited tags",
+            "CreationDate":"2013-04-23T19:01:14.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"d428d530-d268-40f4-9faa-bf92cf35b5d5",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"42206",
+            "PostHistoryTypeId":"6",
+            "Id":"142047",
+            "Text":""
+        }
+    ]
+}

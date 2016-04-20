@@ -1,0 +1,71 @@
+{
+    "Body":"Will leaving my galaxy pro tablet plugged in 24\/ 7 cause any damage?",
+    "ViewCount":"24",
+    "LastActivityDate":"2015-06-21T10:53:59.253",
+    "ClosedDate":"2015-06-21T15:14:26.957",
+    "Title":"What is best practice for charging galaxy tablet? Will charging for long periods 24\/ 7 damage it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113596",
+    "CreationDate":"2015-06-21T04:39:26.950",
+    "FavoriteCount":null,
+    "Id":"112989",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-21T04:39:26.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"36df218e-bfc3-4ed7-b383-917e1bb3d913",
+            "UserId":"113596",
+            "CloseReasonId":null,
+            "PostId":"112989",
+            "PostHistoryTypeId":"2",
+            "Id":"370101",
+            "Text":"Will leaving my galaxy pro tablet plugged in 24\/ 7 cause any damage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-21T04:39:26.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"36df218e-bfc3-4ed7-b383-917e1bb3d913",
+            "UserId":"113596",
+            "CloseReasonId":null,
+            "PostId":"112989",
+            "PostHistoryTypeId":"1",
+            "Id":"370102",
+            "Text":"What is best practice for charging galaxy tablet? Will charging for long periods 24\/ 7 damage it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-21T04:39:26.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"36df218e-bfc3-4ed7-b383-917e1bb3d913",
+            "UserId":"113596",
+            "CloseReasonId":null,
+            "PostId":"112989",
+            "PostHistoryTypeId":"3",
+            "Id":"370103",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-21T15:14:26.957",
+            "UserDisplayName":null,
+            "RevisionGUID":"9c8c3443-b5ae-41af-aec8-368846897f17",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"112989",
+            "PostHistoryTypeId":"10",
+            "Id":"370220",
+            "Text":"{\"OriginalQuestionIds\":[1020],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

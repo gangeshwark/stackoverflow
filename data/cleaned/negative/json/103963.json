@@ -1,0 +1,71 @@
+{
+    "Body":"I entered the pattern wrongly too many times, and now it wants my google password. I now remember my pattern. How can I access it? (No online things please.) The original question's answers didn't work. Help! (please...?) ",
+    "ViewCount":"15",
+    "LastActivityDate":"2015-03-29T23:59:22.210",
+    "ClosedDate":"2015-03-30T13:58:42.447",
+    "Title":"My android's wifi is off and I am prompted for the passcode.",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"100186",
+    "CreationDate":"2015-03-29T23:59:22.210",
+    "FavoriteCount":null,
+    "Id":"103963",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-29T23:59:22.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd34914e-4649-476e-9bbf-37db315b821e",
+            "UserId":"100186",
+            "CloseReasonId":null,
+            "PostId":"103963",
+            "PostHistoryTypeId":"2",
+            "Id":"339231",
+            "Text":"I entered the pattern wrongly too many times, and now it wants my google password. I now remember my pattern. How can I access it? (No online things please.) The original question's answers didn't work. Help! (please...?) "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-29T23:59:22.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd34914e-4649-476e-9bbf-37db315b821e",
+            "UserId":"100186",
+            "CloseReasonId":null,
+            "PostId":"103963",
+            "PostHistoryTypeId":"1",
+            "Id":"339232",
+            "Text":"My android's wifi is off and I am prompted for the passcode."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-29T23:59:22.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"dd34914e-4649-476e-9bbf-37db315b821e",
+            "UserId":"100186",
+            "CloseReasonId":null,
+            "PostId":"103963",
+            "PostHistoryTypeId":"3",
+            "Id":"339233",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-30T13:58:42.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"e4021615-ae0f-4c88-b76b-097680f9657d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"103963",
+            "PostHistoryTypeId":"10",
+            "Id":"339406",
+            "Text":"{\"OriginalQuestionIds\":[35847],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I am trying to install the old (holo) version of Google Play Music on my device ( http:\/\/forum.xda-developers.com\/attachment.php?attachmentid=1477066&d=1352756915 - VERSION    Google_Play_Music_v4.4.811H.526848.apk to be exact ) because I only use local media files and the new orange cremesickle version from the past year or so is terrible at this and I loathe it.However, my roomates have an All Access Subscription which requires the new version, leading to a lot of tension over what version to keep on the device.I have read that it is possible to install two versions of an app side by side by changing the package name via APKtool. This seems like a trivial thing to do, but it is not working for me.Following the guide at http:\/\/forum.xda-developers.com\/showthread.php?t=2760965 i attempted to change the package name, but the line 'cur_package_name' and 'orig_package_name' are not in my apktool.yml, and there is an additional 'original-package' entry in the androidmanifest alogside the line with the package attribute.Also, upon doing the find-replace trick with notepad++ that they mentioned, it is unable to find any occurrences.Where can I go from here? I attempted to recompile and run the app on the tablet, but it force closes immediately as something is incomplete. Is there a version of this app that is already modded for side by side loading out there? or how can I proceed?",
+    "ViewCount":"141",
+    "LastActivityDate":"2014-10-21T17:50:30.813",
+    "ClosedDate":"2014-12-11T10:23:58.827",
+    "Title":"Install two versions of the same app",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"77198",
+    "CreationDate":"2014-10-21T17:50:30.813",
+    "FavoriteCount":null,
+    "Id":"85453",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-21T17:50:30.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdc9a896-f9df-4016-9743-0865cb9db851",
+            "UserId":"77198",
+            "CloseReasonId":null,
+            "PostId":"85453",
+            "PostHistoryTypeId":"2",
+            "Id":"280745",
+            "Text":"I am trying to install the old (holo) version of Google Play Music on my device ( http:\/\/forum.xda-developers.com\/attachment.php?attachmentid=1477066&d=1352756915 - VERSION  Google_Play_Music_v4.4.811H.526848.apk to be exact ) because I only use local media files and the new orange cremesickle version from the past year or so is terrible at this and I loathe it.However, my roomates have an All Access Subscription which requires the new version, leading to a lot of tension over what version to keep on the device.I have read that it is possible to install two versions of an app side by side by changing the package name via APKtool. This seems like a trivial thing to do, but it is not working for me.Following the guide at http:\/\/forum.xda-developers.com\/showthread.php?t=2760965 i attempted to change the package name, but the line 'cur_package_name' and 'orig_package_name' are not in my apktool.yml, and there is an additional 'original-package' entry in the androidmanifest alogside the line with the package attribute.Also, upon doing the find-replace trick with notepad++ that they mentioned, it is unable to find any occurrences.Where can I go from here? I attempted to recompile and run the app on the tablet, but it force closes immediately as something is incomplete. Is there a version of this app that is already modded for side by side loading out there? or how can I proceed?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-21T17:50:30.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdc9a896-f9df-4016-9743-0865cb9db851",
+            "UserId":"77198",
+            "CloseReasonId":null,
+            "PostId":"85453",
+            "PostHistoryTypeId":"1",
+            "Id":"280746",
+            "Text":"Install two versions of the same app"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-21T17:50:30.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"fdc9a896-f9df-4016-9743-0865cb9db851",
+            "UserId":"77198",
+            "CloseReasonId":null,
+            "PostId":"85453",
+            "PostHistoryTypeId":"3",
+            "Id":"280747",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/526099475278733312",
+            "CreationDate":"2014-10-25T19:54:23.897",
+            "UserDisplayName":null,
+            "RevisionGUID":"c656b0a6-3577-44c0-83e8-94776cd81bb1",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"85453",
+            "PostHistoryTypeId":"25",
+            "Id":"282084",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-11T10:23:58.827",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9d2bbdd-356f-4a19-94d0-2548fa38eaac",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"85453",
+            "PostHistoryTypeId":"10",
+            "Id":"299104",
+            "Text":"{\"OriginalQuestionIds\":[19935],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":40036,\"DisplayName\":\"RossC\"}]}"
+        }
+    ]
+}

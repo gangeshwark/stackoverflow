@@ -1,0 +1,71 @@
+{
+    "Body":"Iam using moto g first generation. I have android 4.4.4 but till date I didn't get the latest version update .",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-06-17T18:48:42.117",
+    "ClosedDate":"2015-06-17T19:26:05.273",
+    "Title":"Android versiin for moto g first generation",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"113181",
+    "CreationDate":"2015-06-17T18:48:42.117",
+    "FavoriteCount":null,
+    "Id":"112749",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-17T18:48:42.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3efba64-e727-4b55-91f8-a0cbfd8a3ceb",
+            "UserId":"113181",
+            "CloseReasonId":null,
+            "PostId":"112749",
+            "PostHistoryTypeId":"2",
+            "Id":"369251",
+            "Text":"Iam using moto g first generation. I have android 4.4.4 but till date I didn't get the latest version update ."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-17T18:48:42.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3efba64-e727-4b55-91f8-a0cbfd8a3ceb",
+            "UserId":"113181",
+            "CloseReasonId":null,
+            "PostId":"112749",
+            "PostHistoryTypeId":"1",
+            "Id":"369252",
+            "Text":"Android versiin for moto g first generation"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-06-17T18:48:42.117",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3efba64-e727-4b55-91f8-a0cbfd8a3ceb",
+            "UserId":"113181",
+            "CloseReasonId":null,
+            "PostId":"112749",
+            "PostHistoryTypeId":"3",
+            "Id":"369253",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-17T19:26:05.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"fe2dd1d2-54ff-46b0-bbd8-a11f441ee0c5",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"112749",
+            "PostHistoryTypeId":"10",
+            "Id":"369259",
+            "Text":"{\"OriginalQuestionIds\":[75684],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

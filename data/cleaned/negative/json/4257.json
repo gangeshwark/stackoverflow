@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a media player that can read ReplayGain tags from the music files and adjust play volume accordingly? Also it will be appreciated if it can live scrobble playing tracks to a chosen Last.fm profile.As a bonus: Can it display currently playing song to a bluetooth handsfree with screen, like SE MW600?Thanks in advance.",
+    "ViewCount":"1139",
+    "LastActivityDate":"2012-11-16T11:28:24.030",
+    "ClosedDate":"2013-03-24T19:37:20.517",
+    "Title":"Music player that utilizes ReplayGain tags and can scrobble to Last.fm?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"818",
+    "CreationDate":"2011-01-01T02:04:42.323",
+    "FavoriteCount":null,
+    "Id":"4257",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-01T02:04:42.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"30a09bcb-1fb1-4eeb-a0f6-45531ff3c742",
+            "UserId":"818",
+            "CloseReasonId":null,
+            "PostId":"4257",
+            "PostHistoryTypeId":"2",
+            "Id":"8840",
+            "Text":"Is there a media player that can read [ReplayGain][1] tags from the music files and adjust play volume accordingly? Also it will be appreciated if it can live [scrobble][2] playing tracks to a chosen Last.fm profile.As a bonus: Can it display currently playing song to a bluetooth handsfree with screen, like [SE MW600][3]?Thanks in advance.  [1]: http:\/\/en.wikipedia.org\/wiki\/Replay_Gain  [2]: http:\/\/www.last.fm\/help\/faq?category=Scrobbling  [3]: http:\/\/www.sonyericsson.com\/cws\/products\/accessories\/overview\/mw600"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-01T02:04:42.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"30a09bcb-1fb1-4eeb-a0f6-45531ff3c742",
+            "UserId":"818",
+            "CloseReasonId":null,
+            "PostId":"4257",
+            "PostHistoryTypeId":"1",
+            "Id":"8841",
+            "Text":"Music player that utilizes ReplayGain tags and can scrobble to Last.fm?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-01-01T02:04:42.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"30a09bcb-1fb1-4eeb-a0f6-45531ff3c742",
+            "UserId":"818",
+            "CloseReasonId":null,
+            "PostId":"4257",
+            "PostHistoryTypeId":"3",
+            "Id":"8842",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-03-24T19:37:20.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"4ab64f37-da7d-49a6-8c91-6df490580737",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"4257",
+            "PostHistoryTypeId":"10",
+            "Id":"132995",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

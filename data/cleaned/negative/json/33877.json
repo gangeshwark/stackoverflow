@@ -1,0 +1,83 @@
+{
+    "Body":"I would like to know how the Android OS manages memory for Applications. When are the various memory hardware components like ROM, RAM, Internal storage and External storage used during an Application's life-cycle ? Does all this have an effect on battery utilization ? For e.g. If the RAM is half free then will it consume only 50% of power and likewise for ROM , Internal storage and external storage.In short I want to understand and decide how I should use my Android phone to minimize battery consumption.",
+    "ViewCount":"8280",
+    "LastActivityDate":"2012-11-22T14:44:31.377",
+    "ClosedDate":"2012-11-22T20:08:23.223",
+    "Title":"Android ROM, RAM, Internal storage, External storage and Battery utilization",
+    "LastEditorUserId":"22822",
+    "Tags":"",
+    "LastEditDate":"2012-11-22T09:32:53.803",
+    "CommentCount":"2",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"23944",
+    "CreationDate":"2012-11-22T09:14:41.477",
+    "FavoriteCount":"0",
+    "Id":"33877",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T09:14:41.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9d329cf-9f31-458d-a604-15c4dd170b88",
+            "UserId":"23944",
+            "CloseReasonId":null,
+            "PostId":"33877",
+            "PostHistoryTypeId":"2",
+            "Id":"100470",
+            "Text":"I would like to know how the Android OS manages memory for Applications. When are the various memory hardware components like ROM, RAM, Internal storage and External storage used during an Application's life-cycle ? Does all this have an effect on battery utilization ? For e.g. If the RAM is half free then will it consume only 50% of power and likewise for ROM , Internal storage and external storage.In short I want to understand and decide how I should use my Android phone to minimize battery consumption."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T09:14:41.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9d329cf-9f31-458d-a604-15c4dd170b88",
+            "UserId":"23944",
+            "CloseReasonId":null,
+            "PostId":"33877",
+            "PostHistoryTypeId":"1",
+            "Id":"100471",
+            "Text":"Android ROM, RAM, Internal storage, External storage and Battery utilization"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-22T09:14:41.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"e9d329cf-9f31-458d-a604-15c4dd170b88",
+            "UserId":"23944",
+            "CloseReasonId":null,
+            "PostId":"33877",
+            "PostHistoryTypeId":"3",
+            "Id":"100472",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-11-22T09:32:53.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"0cd2ee6d-43b2-4914-8e32-434a2d13c368",
+            "UserId":"22822",
+            "CloseReasonId":null,
+            "PostId":"33877",
+            "PostHistoryTypeId":"6",
+            "Id":"100475",
+            "Text":""
+        },
+        {
+            "Comment":"4",
+            "CreationDate":"2012-11-22T20:08:23.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"8e42add4-6d65-4c13-8b56-6c1714e506c3",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"33877",
+            "PostHistoryTypeId":"10",
+            "Id":"100581",
+            "Text":"{\"Voters\":[{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

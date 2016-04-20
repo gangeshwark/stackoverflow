@@ -1,0 +1,71 @@
+{
+    "Body":"I have Whatsapp latest version & have the Whatsapp Web OptionI put it to scan but it just doesn't scan it.I Installed a QR Scanner app and it works perfectly.I uninstalled the QR Scanner app to see if that was the issue and still doesn't work.My phone is a Sony Xperia E1 Dual... anyone help me...",
+    "ViewCount":"11049",
+    "LastActivityDate":"2015-01-23T08:26:48.573",
+    "ClosedDate":"2015-01-23T08:47:26.880",
+    "Title":"Why I can't scan QR code inside Whatsapp?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"91240",
+    "CreationDate":"2015-01-23T04:42:37.990",
+    "FavoriteCount":null,
+    "Id":"96667",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T04:42:37.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb43c7cc-46f1-4b34-b0c9-9169abe60e4f",
+            "UserId":"91240",
+            "CloseReasonId":null,
+            "PostId":"96667",
+            "PostHistoryTypeId":"2",
+            "Id":"315004",
+            "Text":"I have Whatsapp latest version & have the Whatsapp Web OptionI put it to scan but it just doesn't scan it.I Installed a QR Scanner app and it works perfectly.I uninstalled the QR Scanner app to see if that was the issue and still doesn't work.My phone is a Sony Xperia E1 Dual... anyone help me..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T04:42:37.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb43c7cc-46f1-4b34-b0c9-9169abe60e4f",
+            "UserId":"91240",
+            "CloseReasonId":null,
+            "PostId":"96667",
+            "PostHistoryTypeId":"1",
+            "Id":"315005",
+            "Text":"Why I can't scan QR code inside Whatsapp?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-23T04:42:37.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb43c7cc-46f1-4b34-b0c9-9169abe60e4f",
+            "UserId":"91240",
+            "CloseReasonId":null,
+            "PostId":"96667",
+            "PostHistoryTypeId":"3",
+            "Id":"315006",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-01-23T08:47:26.880",
+            "UserDisplayName":null,
+            "RevisionGUID":"f91749ab-06d2-4900-9358-603b7737af65",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"96667",
+            "PostHistoryTypeId":"10",
+            "Id":"315094",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

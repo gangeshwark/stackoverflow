@@ -1,0 +1,71 @@
+{
+    "Body":"My machine is motorola Defy I can turn on the Wireless Tether to share network to my Nitendon 3DS but I can't use Access control to define who is using my network It give me a message that mention No Access Control caution how to fix it?? ",
+    "ViewCount":"115",
+    "LastActivityDate":"2012-02-29T16:15:21.720",
+    "ClosedDate":"2012-12-19T16:06:23.283",
+    "Title":"DEFY use wireless tether error message No Access Control!!",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"12999",
+    "CreationDate":"2012-02-29T16:15:21.720",
+    "FavoriteCount":null,
+    "Id":"20069",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-29T16:15:21.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8e1602b-b7dd-46f5-a7cc-70a498fbd6ca",
+            "UserId":"12999",
+            "CloseReasonId":null,
+            "PostId":"20069",
+            "PostHistoryTypeId":"2",
+            "Id":"55684",
+            "Text":"My machine is motorola Defy I can turn on the Wireless Tether to share network to my Nitendon 3DS but I can't use Access control to define who is using my network It give me a message that mention No Access Control caution how to fix it?? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-29T16:15:21.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8e1602b-b7dd-46f5-a7cc-70a498fbd6ca",
+            "UserId":"12999",
+            "CloseReasonId":null,
+            "PostId":"20069",
+            "PostHistoryTypeId":"1",
+            "Id":"55685",
+            "Text":"DEFY use wireless tether error message No Access Control!!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-02-29T16:15:21.720",
+            "UserDisplayName":null,
+            "RevisionGUID":"b8e1602b-b7dd-46f5-a7cc-70a498fbd6ca",
+            "UserId":"12999",
+            "CloseReasonId":null,
+            "PostId":"20069",
+            "PostHistoryTypeId":"3",
+            "Id":"55686",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T16:06:23.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"61fe3750-b7cd-450e-85e6-ae4fca88b619",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"20069",
+            "PostHistoryTypeId":"10",
+            "Id":"107470",
+            "Text":"{\"Voters\":[{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"It seems like I'm missing something.  My phone has about 20 songs on it and when I logged into My Shazam today I expected them to show up.  Instead I find the following.    The Shazam 'My Account' settings ask for the phone number of the device; which is entered.  No where on the site can I find verifications that tags shouldn't be synced.Is it just me or is tagged song syncing not available?",
+    "ViewCount":"427",
+    "LastActivityDate":"2012-05-23T18:44:41.933",
+    "ClosedDate":"2012-12-21T14:13:46.213",
+    "Title":"Is it possible to link the Shazam Encore app to the online My Shazam account?",
+    "LastEditorUserId":"981",
+    "Tags":"",
+    "LastEditDate":"2012-05-23T18:44:41.933",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2633",
+    "CreationDate":"2012-01-20T17:52:21.743",
+    "FavoriteCount":null,
+    "Id":"18560",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-20T17:52:21.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3c99dbc-2c38-41b6-88eb-bfc638bc3c3f",
+            "UserId":"2633",
+            "CloseReasonId":null,
+            "PostId":"18560",
+            "PostHistoryTypeId":"2",
+            "Id":"50978",
+            "Text":"It seems like I'm missing something.  My phone has about 20 songs on it and when I logged into My Shazam today I expected them to show up.  Instead I find the following.  > ![enter image description here][1]The Shazam 'My Account' settings ask for the phone number of the device; which is entered.  No where on the site can I find verifications that tags *shouldn't* be synced.Is it just me or is tagged song syncing not available?  [1]: http:\/\/i.stack.imgur.com\/554U1.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-20T17:52:21.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3c99dbc-2c38-41b6-88eb-bfc638bc3c3f",
+            "UserId":"2633",
+            "CloseReasonId":null,
+            "PostId":"18560",
+            "PostHistoryTypeId":"1",
+            "Id":"50979",
+            "Text":"Is it possible to link the Shazam Encore app to the online My Shazam account?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-20T17:52:21.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"b3c99dbc-2c38-41b6-88eb-bfc638bc3c3f",
+            "UserId":"2633",
+            "CloseReasonId":null,
+            "PostId":"18560",
+            "PostHistoryTypeId":"3",
+            "Id":"50980",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-05-23T18:44:41.933",
+            "UserDisplayName":null,
+            "RevisionGUID":"576b8291-eb87-498d-bae9-49a184c6c987",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"18560",
+            "PostHistoryTypeId":"6",
+            "Id":"66415",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-21T14:13:46.213",
+            "UserDisplayName":null,
+            "RevisionGUID":"3ab67bd2-3c49-4597-9616-93c79fbad925",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18560",
+            "PostHistoryTypeId":"10",
+            "Id":"108102",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

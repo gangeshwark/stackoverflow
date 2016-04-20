@@ -1,0 +1,71 @@
+{
+    "Body":"I've rooted my phone but I'm unable to find a custom ROM to install on it. CyanogenMod does not list my phone in its supported devices. Googling gives no help.",
+    "ViewCount":"5",
+    "LastActivityDate":"2015-09-30T09:54:52.403",
+    "ClosedDate":"2015-09-30T09:59:43.580",
+    "Title":"Custom ROM for Xolo Q2100",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"129749",
+    "CreationDate":"2015-09-30T09:54:52.403",
+    "FavoriteCount":null,
+    "Id":"124613",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-30T09:54:52.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"49d9e627-97e8-44fc-b364-68b4207983fd",
+            "UserId":"129749",
+            "CloseReasonId":null,
+            "PostId":"124613",
+            "PostHistoryTypeId":"2",
+            "Id":"407642",
+            "Text":"I've rooted my phone but I'm unable to find a custom ROM to install on it. CyanogenMod does not list my phone in its supported devices. Googling gives no help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-30T09:54:52.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"49d9e627-97e8-44fc-b364-68b4207983fd",
+            "UserId":"129749",
+            "CloseReasonId":null,
+            "PostId":"124613",
+            "PostHistoryTypeId":"1",
+            "Id":"407643",
+            "Text":"Custom ROM for Xolo Q2100"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-30T09:54:52.403",
+            "UserDisplayName":null,
+            "RevisionGUID":"49d9e627-97e8-44fc-b364-68b4207983fd",
+            "UserId":"129749",
+            "CloseReasonId":null,
+            "PostId":"124613",
+            "PostHistoryTypeId":"3",
+            "Id":"407644",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-30T09:59:43.580",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ee726b6-1e99-42d1-97b0-71f8175e3b51",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"124613",
+            "PostHistoryTypeId":"10",
+            "Id":"407646",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I update the OS on my device?  I've got Sony Ericsson X8 currently running android v1.6. Now I want to upgrade it to gingerbread. Provide me some solutions...?Thank You...",
+    "ViewCount":"180",
+    "LastActivityDate":"2012-11-05T11:51:51.987",
+    "ClosedDate":"2012-11-05T13:59:43.947",
+    "Title":"how to upgrade my android phone?",
+    "LastEditorUserId":null,
+    "Tags":"<2.3-gingerbread>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18692",
+    "CreationDate":"2012-11-05T09:28:25.267",
+    "FavoriteCount":null,
+    "Id":"32929",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-05T09:28:25.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec9591b4-f8b6-461b-80a6-8d8e591f1928",
+            "UserId":"18692",
+            "CloseReasonId":null,
+            "PostId":"32929",
+            "PostHistoryTypeId":"2",
+            "Id":"97512",
+            "Text":"I've got Sony Ericsson X8 currently running android v1.6. Now I want to upgrade it to gingerbread. Provide me some solutions...?Thank You..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-05T09:28:25.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec9591b4-f8b6-461b-80a6-8d8e591f1928",
+            "UserId":"18692",
+            "CloseReasonId":null,
+            "PostId":"32929",
+            "PostHistoryTypeId":"1",
+            "Id":"97513",
+            "Text":"how to upgrade my android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-05T09:28:25.267",
+            "UserDisplayName":null,
+            "RevisionGUID":"ec9591b4-f8b6-461b-80a6-8d8e591f1928",
+            "UserId":"18692",
+            "CloseReasonId":null,
+            "PostId":"32929",
+            "PostHistoryTypeId":"3",
+            "Id":"97514",
+            "Text":"<2.3-gingerbread>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-05T13:59:43.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"a51e8ef1-b781-4188-b238-863f10b42c98",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32929",
+            "PostHistoryTypeId":"5",
+            "Id":"97566",
+            "Text":"> **Possible Duplicate:**  > [How do I update the OS on my device?](http:\/\/android.stackexchange.com\/questions\/13510\/how-do-i-update-the-os-on-my-device)  I've got Sony Ericsson X8 currently running android v1.6. Now I want to upgrade it to gingerbread. Provide me some solutions...?Thank You..."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-05T13:59:43.947",
+            "UserDisplayName":null,
+            "RevisionGUID":"486e6401-bfb0-4086-a68c-e45fa1c77c2d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"32929",
+            "PostHistoryTypeId":"10",
+            "Id":"97567",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":1250,\"DisplayName\":\"Sparx\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

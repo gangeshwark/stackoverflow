@@ -1,0 +1,71 @@
+{
+    "Body":"It's a big shame that this phone does not have any file manager by default.I have the .apk installer of the file manager on my PC, but how to install it on phone offline? (offline = no internet connection)Help",
+    "ViewCount":"2237",
+    "LastActivityDate":"2013-12-04T21:23:59.787",
+    "ClosedDate":"2013-12-06T10:39:18.497",
+    "Title":"How to install a file manager to Xperia L WITHOUT internet connection?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47558",
+    "CreationDate":"2013-12-04T21:07:39.450",
+    "FavoriteCount":null,
+    "Id":"58294",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-04T21:07:39.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"9258b302-127b-4400-b7e9-92b83168b18d",
+            "UserId":"47558",
+            "CloseReasonId":null,
+            "PostId":"58294",
+            "PostHistoryTypeId":"2",
+            "Id":"196024",
+            "Text":"It's a big **shame** that this phone does not have any file manager by default.I have the .apk installer of the file manager on my PC, but how to install it on phone **offline**? (offline = no internet connection)Help"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-04T21:07:39.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"9258b302-127b-4400-b7e9-92b83168b18d",
+            "UserId":"47558",
+            "CloseReasonId":null,
+            "PostId":"58294",
+            "PostHistoryTypeId":"1",
+            "Id":"196025",
+            "Text":"How to install a file manager to Xperia L WITHOUT internet connection?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-12-04T21:07:39.450",
+            "UserDisplayName":null,
+            "RevisionGUID":"9258b302-127b-4400-b7e9-92b83168b18d",
+            "UserId":"47558",
+            "CloseReasonId":null,
+            "PostId":"58294",
+            "PostHistoryTypeId":"3",
+            "Id":"196026",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-12-06T10:39:18.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"1344364c-d5d0-4f83-8af9-f9d6da14152f",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"58294",
+            "PostHistoryTypeId":"10",
+            "Id":"196417",
+            "Text":"{\"OriginalQuestionIds\":[5566],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":23562,\"DisplayName\":\"Compro01\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

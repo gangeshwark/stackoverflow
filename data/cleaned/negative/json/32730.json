@@ -1,0 +1,71 @@
+{
+    "Body":"can anyone tell me the difference between DLNA and Miracast, especially the technologies underneath?Thanks!",
+    "ViewCount":"9610",
+    "LastActivityDate":"2012-11-02T04:27:05.333",
+    "ClosedDate":"2012-11-26T08:44:03.683",
+    "Title":"What the difference between miracast and DLNA?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"32791",
+    "Score":"5",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"9413",
+    "CreationDate":"2012-11-01T02:56:34.130",
+    "FavoriteCount":"0",
+    "Id":"32730",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-01T02:56:34.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"6784edbd-ae87-4874-968a-3145836fca11",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"32730",
+            "PostHistoryTypeId":"2",
+            "Id":"96830",
+            "Text":"can anyone tell me the difference between DLNA and Miracast, especially the technologies underneath?Thanks!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-01T02:56:34.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"6784edbd-ae87-4874-968a-3145836fca11",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"32730",
+            "PostHistoryTypeId":"1",
+            "Id":"96831",
+            "Text":"What the difference between miracast and DLNA?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-01T02:56:34.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"6784edbd-ae87-4874-968a-3145836fca11",
+            "UserId":"9413",
+            "CloseReasonId":null,
+            "PostId":"32730",
+            "PostHistoryTypeId":"3",
+            "Id":"96832",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-11-26T08:44:03.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"b46bf1e1-fc3e-4295-ad7b-4699b35a6287",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32730",
+            "PostHistoryTypeId":"10",
+            "Id":"101192",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

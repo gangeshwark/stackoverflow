@@ -1,0 +1,83 @@
+{
+    "Body":"I currently have a Samsung Galaxy S3. As the title says, the phone has slowed quite a bit. And by a bit I mean a lot. It has gotten to a point where sometimes I cannot even unlock the screen because the system isn't responding and the screen turns itself off again. To browse a webpage, it takes me several minutes just to unlock the screen, tap on Chrome, wait for the keyboard to show up, and wait for everything to respond.It has gotten to a point where I can really not stand it anymore want to smash it with a sledgehammer and jump aboard to the Apple master race, therefore I decided to take a look in what might be slowing it down that much. First I checked the CPU usage using WatchDog. It seems fine, not even once it has gone past 5%. Nothing is constantly running codes in the background. Then I take a look at the RAM usage. Most of the time it is near full (less than 200MB left). I'm not sure if this is the reason, but after I manually terminated all the background services to free up some RAM, the whole system runs definitely smoother than before. Using a task killer helped a lot.However this is against what most people say. They always claim task killers are \"bad\" because Android is \"designed\" to fill up the RAM with apps to make them load faster. Something like \"unused RAM is RAM wasted\". Turns out that is just a theory. In reality that is totally not true, after months of (sort of controlled) experiments on my phone. (Not mentioning the un-usefulness of the Android's auto service killing mechanism. I have experienced it most of the time terminating my keyboard while I'm typing and music players like Spotify.)But still, I don't really like to install task killers to make the phone \"usable\" again. I would really like to know the true reason that what exactly might have been slowing it down. It's definitely not because there are too many processes overusing the CPU, that's for sure. Is it because of insufficient RAM, or maybe other reasons that I didn't mentioned\/thought of? What will be a good way to really test what is slowing the system down?It's rooted, but running official ROM (Android 4.3, International). Storage isn't almost full.Here's some Q&A consulted:Why is my phone slow?There doesn't seem to be [just] one that is slowing the system down.My device is getting slow, apps start misbehaving\/crashing. What can I do?Calling fstrim doesn't help. However I didn't try to clear Dalvik cache, which I might try it later in time.",
+    "ViewCount":"398",
+    "LastActivityDate":"2014-10-28T18:28:30.587",
+    "ClosedDate":"2014-12-01T14:38:56.263",
+    "Title":"What can be possibly slowing down my phone?",
+    "LastEditorUserId":"36563",
+    "Tags":"",
+    "LastEditDate":"2014-10-28T18:28:30.587",
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36563",
+    "CreationDate":"2014-10-27T21:58:37.233",
+    "FavoriteCount":null,
+    "Id":"86004",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-27T21:58:37.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dff6210-80a9-4e37-a73a-95cc3d0cbfd8",
+            "UserId":"36563",
+            "CloseReasonId":null,
+            "PostId":"86004",
+            "PostHistoryTypeId":"2",
+            "Id":"282724",
+            "Text":"I currently have a Samsung Galaxy S3. As the title says, the phone has slowed quite *a bit*. And by a bit I mean a lot. It has gotten to a point where sometimes I cannot even unlock the screen because the system isn't responding and the screen turns itself off again. To browse a webpage, it takes me several minutes just to unlock the screen, tap on Chrome, wait for the keyboard to show up, and wait for everything to respond.It has gotten to a point where I can really not stand it anymore want to smash it with a sledgehammer and jump aboard to the Apple master race, therefore I decided to take a look in what might be slowing it down that much. First I checked the CPU usage using WatchDog. It seems fine, not even once it has gone past 5%. Nothing is constantly running codes in the background. Then I take a look at the RAM usage. Most of the time it is near full (less than 200MB left). I'm not sure if this is the reason, but after I manually terminated all the background services to free up some RAM, the whole system runs definitely smoother than before. Using a task killer helped a lot.However this is against what most people say. They always claim task killers are \"bad\" because Android is \"designed\" to fill up the RAM with apps to make them load faster. Something like \"unused RAM is RAM wasted\". Turns out that is just a theory. In reality that is totally not true, after months of (sort of controlled) experiments on my phone. (Not mentioning the un-usefulness of the Android's auto service killing mechanism. I have experienced it most of the time terminating my keyboard while I'm typing and music players like Spotify.)But still, I don't really like to install task killers to make the phone \"usable\" again. I would really like to know the true reason that what exactly might have been slowing it down. It's definitely not because there are too many processes overusing the CPU, that's for sure. Is it because of insufficient RAM, or maybe other reasons that I didn't mentioned\/thought of?It's rooted, but running official ROM (Android 4.3, International). Storage isn't almost full.Here's some Q&A consulted:- http:\/\/android.stackexchange.com\/questions\/32734\/why-is-my-phone-slow    There doesn't seem to be [just] one that is slowing the system down.- http:\/\/android.stackexchange.com\/questions\/35367\/my-device-is-getting-slow-apps-start-misbehaving-crashing-what-can-i-do    Calling `fstrim` doesn't help. However I didn't try to clear Dalvik cache, which I might try it later in time.   "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-27T21:58:37.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dff6210-80a9-4e37-a73a-95cc3d0cbfd8",
+            "UserId":"36563",
+            "CloseReasonId":null,
+            "PostId":"86004",
+            "PostHistoryTypeId":"1",
+            "Id":"282725",
+            "Text":"What can be possibly slowing down my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-27T21:58:37.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dff6210-80a9-4e37-a73a-95cc3d0cbfd8",
+            "UserId":"36563",
+            "CloseReasonId":null,
+            "PostId":"86004",
+            "PostHistoryTypeId":"3",
+            "Id":"282726",
+            "Text":""
+        },
+        {
+            "Comment":"added 72 characters in body",
+            "CreationDate":"2014-10-28T18:28:30.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"1df43512-8e81-4815-b168-bfc30f90da69",
+            "UserId":"36563",
+            "CloseReasonId":null,
+            "PostId":"86004",
+            "PostHistoryTypeId":"5",
+            "Id":"283036",
+            "Text":"I currently have a Samsung Galaxy S3. As the title says, the phone has slowed quite *a bit*. And by a bit I mean a lot. It has gotten to a point where sometimes I cannot even unlock the screen because the system isn't responding and the screen turns itself off again. To browse a webpage, it takes me several minutes just to unlock the screen, tap on Chrome, wait for the keyboard to show up, and wait for everything to respond.It has gotten to a point where I can really not stand it anymore want to smash it with a sledgehammer and jump aboard to the Apple master race, therefore I decided to take a look in what might be slowing it down that much. First I checked the CPU usage using WatchDog. It seems fine, not even once it has gone past 5%. Nothing is constantly running codes in the background. Then I take a look at the RAM usage. Most of the time it is near full (less than 200MB left). I'm not sure if this is the reason, but after I manually terminated all the background services to free up some RAM, the whole system runs definitely smoother than before. Using a task killer helped a lot.However this is against what most people say. They always claim task killers are \"bad\" because Android is \"designed\" to fill up the RAM with apps to make them load faster. Something like \"unused RAM is RAM wasted\". Turns out that is just a theory. In reality that is totally not true, after months of (sort of controlled) experiments on my phone. (Not mentioning the un-usefulness of the Android's auto service killing mechanism. I have experienced it most of the time terminating my keyboard while I'm typing and music players like Spotify.)But still, I don't really like to install task killers to make the phone \"usable\" again. I would really like to know the true reason that what exactly might have been slowing it down. It's definitely not because there are too many processes overusing the CPU, that's for sure. Is it because of insufficient RAM, or maybe other reasons that I didn't mentioned\/thought of? What will be a good way to really test what is slowing the system down?It's rooted, but running official ROM (Android 4.3, International). Storage isn't almost full.Here's some Q&A consulted:- http:\/\/android.stackexchange.com\/questions\/32734\/why-is-my-phone-slow    There doesn't seem to be [just] one that is slowing the system down.- http:\/\/android.stackexchange.com\/questions\/35367\/my-device-is-getting-slow-apps-start-misbehaving-crashing-what-can-i-do    Calling `fstrim` doesn't help. However I didn't try to clear Dalvik cache, which I might try it later in time.   "
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2014-12-01T14:38:56.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"6e0047e6-9b01-4c04-a3bb-e0461ac752af",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"86004",
+            "PostHistoryTypeId":"10",
+            "Id":"294543",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

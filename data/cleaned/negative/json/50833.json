@@ -1,0 +1,83 @@
+{
+    "Body":"I am thinking about adding facebook\/twitter buttons in the apps I'm creating, but one thing has been puzzling me. The URLs of my apps are of course Google play URLs, like this:market:\/\/details?id=com.mycompany.mygamebut if I promote this URL in a facebook message or tweet then the receiver of the message will only be able to click on the URL if they happen to be looking at it on an Android device, if they're not, they will get an error report from their browser. I could instead point to the market web URL like this:https:\/\/play.google.com\/store\/apps\/details?id=com.mycompany.mygameBut it feels rather clumsy. So my question is this: - is there a way to tweet or facebook-like an app in a way where the receiver of the message will see the most appropriate URL for their device?",
+    "ViewCount":"161",
+    "LastActivityDate":"2013-08-08T17:59:50.863",
+    "ClosedDate":"2013-08-09T04:05:13.423",
+    "Title":"URL to promote your app on facebook\/twitter",
+    "LastEditorUserId":"15448",
+    "Tags":"",
+    "LastEditDate":"2013-08-08T17:59:50.863",
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"50835",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15448",
+    "CreationDate":"2013-08-08T14:11:22.210",
+    "FavoriteCount":null,
+    "Id":"50833",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-08T14:11:22.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"e288c39c-4d66-448c-a905-018937d3392e",
+            "UserId":"15448",
+            "CloseReasonId":null,
+            "PostId":"50833",
+            "PostHistoryTypeId":"2",
+            "Id":"166487",
+            "Text":"I am thinking about adding facebook\/twitter buttons in the apps I'm creating, but one thing has been puzzling me. The URLs of my apps are of course Google play URLs, like this:market:\/\/details?id=com.mycompany.mygamebut if I promote this URL in a facebook message or tweet then the receiver of the message will only be able to click on the URL if they happen to be looking at it on an Android device, if they're not, they will get an error report from their browser. I could instead point to the market web URL like this:https:\/\/play.google.com\/store\/apps\/details?id=com.mycompany.mygameBut it feels rather clumsy. So my question is this: - is there a way to tweet or facebook-like an app in a way where the receiver of the message will see the most appropriate URL for their device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-08T14:11:22.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"e288c39c-4d66-448c-a905-018937d3392e",
+            "UserId":"15448",
+            "CloseReasonId":null,
+            "PostId":"50833",
+            "PostHistoryTypeId":"1",
+            "Id":"166488",
+            "Text":"URL to prmote your app on facebook\/twitter"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-08T14:11:22.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"e288c39c-4d66-448c-a905-018937d3392e",
+            "UserId":"15448",
+            "CloseReasonId":null,
+            "PostId":"50833",
+            "PostHistoryTypeId":"3",
+            "Id":"166489",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2013-08-08T17:59:50.863",
+            "UserDisplayName":null,
+            "RevisionGUID":"133aaf48-df88-486d-9fe1-8980262fe0da",
+            "UserId":"15448",
+            "CloseReasonId":null,
+            "PostId":"50833",
+            "PostHistoryTypeId":"4",
+            "Id":"166560",
+            "Text":"URL to promote your app on facebook\/twitter"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2013-08-09T04:05:13.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"d129b69c-17dd-4b4a-88f9-b3ef3a1e67c8",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"50833",
+            "PostHistoryTypeId":"10",
+            "Id":"166743",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"}]}"
+        }
+    ]
+}

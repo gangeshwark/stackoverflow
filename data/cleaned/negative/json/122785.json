@@ -1,0 +1,71 @@
+{
+    "Body":"I was trying to update my redmi note 4G in the fastboot mode but when entered a command to flash the update.zip archive I got the following feedback \"\" archive does not contain 'android-info.txt'archive does not contain 'android-product.txt'error: update package has no android-info.txt or android-product.txt \"\"what seems to be the problem??Please help",
+    "ViewCount":"9",
+    "LastActivityDate":"2015-09-11T05:19:55.707",
+    "ClosedDate":"2015-09-11T13:36:01.647",
+    "Title":"error : archive does not contain android-info.txt and android-product.txt",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"124754",
+    "CreationDate":"2015-09-11T05:19:55.707",
+    "FavoriteCount":null,
+    "Id":"122785",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-11T05:19:55.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"4eea0306-2b00-489f-80a8-d3be1c7a0718",
+            "UserId":"124754",
+            "CloseReasonId":null,
+            "PostId":"122785",
+            "PostHistoryTypeId":"2",
+            "Id":"400775",
+            "Text":"I was trying to update my redmi note 4G in the fastboot mode but when entered a command to flash the update.zip archive I got the following feedback \"\" archive does not contain 'android-info.txt'archive does not contain 'android-product.txt'error: update package has no android-info.txt or android-product.txt \"\"what seems to be the problem??Please help"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-11T05:19:55.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"4eea0306-2b00-489f-80a8-d3be1c7a0718",
+            "UserId":"124754",
+            "CloseReasonId":null,
+            "PostId":"122785",
+            "PostHistoryTypeId":"1",
+            "Id":"400776",
+            "Text":"error : archive does not contain android-info.txt and android-product.txt"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-11T05:19:55.707",
+            "UserDisplayName":null,
+            "RevisionGUID":"4eea0306-2b00-489f-80a8-d3be1c7a0718",
+            "UserId":"124754",
+            "CloseReasonId":null,
+            "PostId":"122785",
+            "PostHistoryTypeId":"3",
+            "Id":"400777",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-11T13:36:01.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"1880c1fe-a011-4d68-958c-a3b7bb539044",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"122785",
+            "PostHistoryTypeId":"10",
+            "Id":"400888",
+            "Text":"{\"OriginalQuestionIds\":[114745],\"Voters\":[{\"Id\":981,\"DisplayName\":\"user981\"}]}"
+        }
+    ]
+}

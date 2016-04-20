@@ -1,0 +1,71 @@
+{
+    "Body":"is it OK for the battery if you keep using the tablet while it's charging? And should you stop charging when it's fully charged.",
+    "ViewCount":"13678",
+    "LastActivityDate":"2014-05-17T13:11:02.207",
+    "ClosedDate":"2014-05-19T05:21:01.370",
+    "Title":"should you be on a tablet when its charging?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"54149",
+    "CreationDate":"2014-02-19T14:44:58.370",
+    "FavoriteCount":null,
+    "Id":"63863",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T14:44:58.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9cccc9c-645f-466b-850a-232e149f22b3",
+            "UserId":"54149",
+            "CloseReasonId":null,
+            "PostId":"63863",
+            "PostHistoryTypeId":"2",
+            "Id":"216988",
+            "Text":"is it OK for the battery if you keep using the tablet while it's charging? And should you stop charging when it's fully charged."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T14:44:58.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9cccc9c-645f-466b-850a-232e149f22b3",
+            "UserId":"54149",
+            "CloseReasonId":null,
+            "PostId":"63863",
+            "PostHistoryTypeId":"1",
+            "Id":"216989",
+            "Text":"should you be on a tablet when its charging?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-19T14:44:58.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9cccc9c-645f-466b-850a-232e149f22b3",
+            "UserId":"54149",
+            "CloseReasonId":null,
+            "PostId":"63863",
+            "PostHistoryTypeId":"3",
+            "Id":"216990",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-05-19T05:21:01.370",
+            "UserDisplayName":null,
+            "RevisionGUID":"aac04a67-9978-43aa-8534-dde5dfc1a553",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"63863",
+            "PostHistoryTypeId":"10",
+            "Id":"237455",
+            "Text":"{\"OriginalQuestionIds\":[58770],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

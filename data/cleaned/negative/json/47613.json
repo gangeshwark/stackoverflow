@@ -1,0 +1,83 @@
+{
+    "Body":"Presently using the Runnymede AIO V6.0.4.3 Special Edition [Stable]Tried Cyanogenmode-7.2 Stable But I am finding great lag in performance when playing games. Such as Angry Gran, Temple run, Temple run 2.  Is there anything I can do to improve the performance?",
+    "ViewCount":"18",
+    "LastActivityDate":"2013-06-20T09:09:43.007",
+    "ClosedDate":"2013-06-21T18:19:34.387",
+    "Title":"How to optimize my Rooted desire bravo for gaming?",
+    "LastEditorUserId":"12442",
+    "Tags":"",
+    "LastEditDate":"2013-06-20T09:09:43.007",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"35151",
+    "CreationDate":"2013-06-20T05:50:43.233",
+    "FavoriteCount":null,
+    "Id":"47613",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-20T05:50:43.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb724c34-ad99-43bb-b4f0-c1ee23930475",
+            "UserId":"35151",
+            "CloseReasonId":null,
+            "PostId":"47613",
+            "PostHistoryTypeId":"2",
+            "Id":"154306",
+            "Text":"Presently using the [Runnymede AIO V6.0.4.3 Special Edition \\[Stable\\]][1]Tried [Cyanogenmode-7.2 Stable][2] But I am finding great lag in performance when playing games. Such as Angry Gran, Temple run, Temple run 2.  Is there anything I can do to improve the performance?  [1]: http:\/\/forum.xda-developers.com\/showthread.php?t=1315961URL  [2]: http:\/\/get.cm\/get\/jenkins\/3075\/cm-7.2.0.1-bravo.zip"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-20T05:50:43.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb724c34-ad99-43bb-b4f0-c1ee23930475",
+            "UserId":"35151",
+            "CloseReasonId":null,
+            "PostId":"47613",
+            "PostHistoryTypeId":"1",
+            "Id":"154307",
+            "Text":"How to optimize my Rooted desire bravo for gaming?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-20T05:50:43.233",
+            "UserDisplayName":null,
+            "RevisionGUID":"fb724c34-ad99-43bb-b4f0-c1ee23930475",
+            "UserId":"35151",
+            "CloseReasonId":null,
+            "PostId":"47613",
+            "PostHistoryTypeId":"3",
+            "Id":"154308",
+            "Text":""
+        },
+        {
+            "Comment":"add some relevant tags",
+            "CreationDate":"2013-06-20T09:09:43.007",
+            "UserDisplayName":null,
+            "RevisionGUID":"c18b3a44-694e-4a47-8af2-5c12c691d16b",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"47613",
+            "PostHistoryTypeId":"6",
+            "Id":"154333",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-06-21T18:19:34.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"2ad41161-7dd4-4ecb-a4a3-4b107f507eb6",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"47613",
+            "PostHistoryTypeId":"10",
+            "Id":"154652",
+            "Text":"{\"OriginalQuestionIds\":[3986],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

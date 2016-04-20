@@ -1,0 +1,71 @@
+{
+    "Body":"Dolphin is my standard browser. But when not surfing a stackexchange subsite for 3-4 days I'm logged off (though still logged in on main site stackexchange.com). Firefox mobile makes no trouble and saves all logins. I checked cookies and it seems fine. I've a stackexchange open ID to log in. Anything I can do here? A Dolphin addon?",
+    "ViewCount":"265",
+    "LastActivityDate":"2012-01-18T11:57:03.697",
+    "ClosedDate":"2012-09-30T15:16:24.427",
+    "Title":"why doesn't Dolphin HD Browser save my login to stackexchange subsites?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"6702",
+    "CreationDate":"2012-01-17T15:02:45.640",
+    "FavoriteCount":null,
+    "Id":"18444",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-17T15:02:45.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"61d4c9ac-78cb-4340-af9c-59d71b3567ec",
+            "UserId":"6702",
+            "CloseReasonId":null,
+            "PostId":"18444",
+            "PostHistoryTypeId":"2",
+            "Id":"50657",
+            "Text":"Dolphin is my standard browser. But when not surfing a stackexchange subsite for 3-4 days I'm logged off (though still logged in on main site stackexchange.com). Firefox mobile makes no trouble and saves all logins. I checked cookies and it seems fine. I've a stackexchange open ID to log in. Anything I can do here? A Dolphin addon?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-17T15:02:45.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"61d4c9ac-78cb-4340-af9c-59d71b3567ec",
+            "UserId":"6702",
+            "CloseReasonId":null,
+            "PostId":"18444",
+            "PostHistoryTypeId":"1",
+            "Id":"50658",
+            "Text":"why doesn't Dolphin HD Browser save my login to stackexchange subsites?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-17T15:02:45.640",
+            "UserDisplayName":null,
+            "RevisionGUID":"61d4c9ac-78cb-4340-af9c-59d71b3567ec",
+            "UserId":"6702",
+            "CloseReasonId":null,
+            "PostId":"18444",
+            "PostHistoryTypeId":"3",
+            "Id":"50659",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-09-30T15:16:24.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"63c4f7cb-4d50-452f-942c-4446ad64de80",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18444",
+            "PostHistoryTypeId":"10",
+            "Id":"90363",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":156,\"DisplayName\":\"GAThrawn\"}]}"
+        }
+    ]
+}

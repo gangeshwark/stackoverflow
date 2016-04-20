@@ -1,0 +1,71 @@
+{
+    "Body":"Hello: I boght a BML S50 with the 4.2.2 android version, Could it be up date it?? I've been having trouble with this phone",
+    "ViewCount":"7",
+    "LastActivityDate":"2015-03-26T20:22:41.663",
+    "ClosedDate":"2015-03-26T20:35:54.633",
+    "Title":"How to update a BML S50",
+    "LastEditorUserId":null,
+    "Tags":"<4.4-kitkat><4.2-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99790",
+    "CreationDate":"2015-03-26T20:22:41.663",
+    "FavoriteCount":null,
+    "Id":"103677",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T20:22:41.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b634ea9-4f9d-4172-91a4-bc255877c306",
+            "UserId":"99790",
+            "CloseReasonId":null,
+            "PostId":"103677",
+            "PostHistoryTypeId":"2",
+            "Id":"338150",
+            "Text":"Hello: I boght a BML S50 with the 4.2.2 android version, Could it be up date it?? I've been having trouble with this phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T20:22:41.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b634ea9-4f9d-4172-91a4-bc255877c306",
+            "UserId":"99790",
+            "CloseReasonId":null,
+            "PostId":"103677",
+            "PostHistoryTypeId":"1",
+            "Id":"338151",
+            "Text":"How to update a BML S50"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-26T20:22:41.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"0b634ea9-4f9d-4172-91a4-bc255877c306",
+            "UserId":"99790",
+            "CloseReasonId":null,
+            "PostId":"103677",
+            "PostHistoryTypeId":"3",
+            "Id":"338152",
+            "Text":"<4.4-kitkat><4.2-jelly-bean>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-26T20:35:54.633",
+            "UserDisplayName":null,
+            "RevisionGUID":"f150a71d-1d91-47a0-9527-f4064c469104",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"103677",
+            "PostHistoryTypeId":"10",
+            "Id":"338157",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

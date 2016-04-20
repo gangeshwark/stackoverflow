@@ -1,0 +1,71 @@
+{
+    "Body":"my google account and password is correct but it keeps saying you entered the wrong password or your account has changed. it still has me logged in on the email but this error sign will not go away.",
+    "ViewCount":"940",
+    "LastActivityDate":"2014-09-30T21:51:25.007",
+    "ClosedDate":"2014-09-30T23:37:22.553",
+    "Title":"Google account login error",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"74778",
+    "CreationDate":"2014-09-30T19:59:36.130",
+    "FavoriteCount":null,
+    "Id":"83776",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-30T19:59:36.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"500289dd-57bb-41c4-84a5-2d100dd8ed9f",
+            "UserId":"74778",
+            "CloseReasonId":null,
+            "PostId":"83776",
+            "PostHistoryTypeId":"2",
+            "Id":"274813",
+            "Text":"my google account and password is correct but it keeps saying you entered the wrong password or your account has changed. it still has me logged in on the email but this error sign will not go away."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-30T19:59:36.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"500289dd-57bb-41c4-84a5-2d100dd8ed9f",
+            "UserId":"74778",
+            "CloseReasonId":null,
+            "PostId":"83776",
+            "PostHistoryTypeId":"1",
+            "Id":"274814",
+            "Text":"Google account login error"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-09-30T19:59:36.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"500289dd-57bb-41c4-84a5-2d100dd8ed9f",
+            "UserId":"74778",
+            "CloseReasonId":null,
+            "PostId":"83776",
+            "PostHistoryTypeId":"3",
+            "Id":"274815",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-09-30T23:37:22.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"6a8b92a9-f215-42a9-b5c3-4334281d158f",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"83776",
+            "PostHistoryTypeId":"10",
+            "Id":"274837",
+            "Text":"{\"OriginalQuestionIds\":[83742],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

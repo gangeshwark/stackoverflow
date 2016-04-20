@@ -1,0 +1,71 @@
+{
+    "Body":"Does anyone know where I can find the ROM for a Digital Stream DWA1015D tablet or custom ROM for it?",
+    "ViewCount":"3",
+    "LastActivityDate":"2015-07-11T16:42:00.593",
+    "ClosedDate":"2015-07-11T16:45:30.237",
+    "Title":"Digital Stream DWA1015D ROM",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116425",
+    "CreationDate":"2015-07-11T16:42:00.593",
+    "FavoriteCount":null,
+    "Id":"115025",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-11T16:42:00.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"913826b0-3acd-4f1d-938a-2a29bb066806",
+            "UserId":"116425",
+            "CloseReasonId":null,
+            "PostId":"115025",
+            "PostHistoryTypeId":"2",
+            "Id":"377491",
+            "Text":"Does anyone know where I can find the ROM for a Digital Stream DWA1015D tablet or custom ROM for it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-11T16:42:00.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"913826b0-3acd-4f1d-938a-2a29bb066806",
+            "UserId":"116425",
+            "CloseReasonId":null,
+            "PostId":"115025",
+            "PostHistoryTypeId":"1",
+            "Id":"377492",
+            "Text":"Digital Stream DWA1015D ROM"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-11T16:42:00.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"913826b0-3acd-4f1d-938a-2a29bb066806",
+            "UserId":"116425",
+            "CloseReasonId":null,
+            "PostId":"115025",
+            "PostHistoryTypeId":"3",
+            "Id":"377493",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-11T16:45:30.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"a4562454-5a88-4705-b5cc-d9785a76442b",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"115025",
+            "PostHistoryTypeId":"10",
+            "Id":"377504",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"I want to install AOKP on my Vodaphone Samsung Galaxy S5 mini SM-G800F, however, the kminilte ROM is not yet developed. klte seems the closest to kminilte, so will installing it brick my phone, or will it be successful? What features of my hardware will be voided by installing the wrong version if it successes?Edit as I cannot add an answer as this question is a duplicate.I actually started dabbling in things regarding porting (slightly modifying ROMs for different devices). And the differences are huge. In the script that initializes the rest of the system, it tests for different models of klte, thus not finding a result and not booting.Regardless of that, the CPU, screen size, pixel density etc. is different.If someone has an unsupported device, they can try to find the most similar supported devices to keep change to minimum. You can also look on the CM wiki for unofficial ports. When comparing devices, I recommend the webpage http:\/\/pdadb.net\/ as it gives very detailed info about android phones.",
+    "ViewCount":"66",
+    "LastActivityDate":"2016-01-26T22:16:56.753",
+    "ClosedDate":"2015-12-23T16:00:46.777",
+    "Title":"Will klte ROMs work on SM-G800F?",
+    "LastEditorUserId":"127794",
+    "Tags":"",
+    "LastEditDate":"2016-01-26T22:16:56.753",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"132021",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"127794",
+    "CreationDate":"2015-12-19T21:58:15.860",
+    "FavoriteCount":null,
+    "Id":"132000",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-19T21:58:15.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"21b030d9-264a-4294-8cfd-4449ff3a6d61",
+            "UserId":"127794",
+            "CloseReasonId":null,
+            "PostId":"132000",
+            "PostHistoryTypeId":"2",
+            "Id":"436475",
+            "Text":"I want to install AOKP on my Vodaphone Samsung Galaxy S5 mini SM-G800F, however, the kminilte ROM is not yet developed. klte seems the closest to kminilte, so will installing it brick my phone, or will it be successful? What features of my hardware will be voided by installing the wrong version if it successes?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-19T21:58:15.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"21b030d9-264a-4294-8cfd-4449ff3a6d61",
+            "UserId":"127794",
+            "CloseReasonId":null,
+            "PostId":"132000",
+            "PostHistoryTypeId":"1",
+            "Id":"436476",
+            "Text":"Will klte ROMs work on SM-G800F?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-19T21:58:15.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"21b030d9-264a-4294-8cfd-4449ff3a6d61",
+            "UserId":"127794",
+            "CloseReasonId":null,
+            "PostId":"132000",
+            "PostHistoryTypeId":"3",
+            "Id":"436477",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-12-23T16:00:46.777",
+            "UserDisplayName":null,
+            "RevisionGUID":"0ed572e3-dcb3-4beb-ab7e-0405b294c3bf",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"132000",
+            "PostHistoryTypeId":"10",
+            "Id":"437932",
+            "Text":"{\"OriginalQuestionIds\":[35925],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        },
+        {
+            "Comment":"added 611 characters in body",
+            "CreationDate":"2016-01-26T22:16:56.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"33a855da-a708-4396-afce-7daad6a216b6",
+            "UserId":"127794",
+            "CloseReasonId":null,
+            "PostId":"132000",
+            "PostHistoryTypeId":"5",
+            "Id":"450056",
+            "Text":"I want to install AOKP on my Vodaphone Samsung Galaxy S5 mini SM-G800F, however, the kminilte ROM is not yet developed. klte seems the closest to kminilte, so will installing it brick my phone, or will it be successful? What features of my hardware will be voided by installing the wrong version if it successes?---Edit as I cannot add an answer as this question is a duplicate.I actually started dabbling in things regarding porting (slightly modifying ROMs for different devices). And the differences are huge. In the script that initializes the rest of the system, it tests for different models of klte, thus not finding a result and not booting.Regardless of that, the CPU, screen size, pixel density etc. is different.If someone has an unsupported device, they can try to find the most similar supported devices to keep change to minimum. You can also look on the CM wiki for unofficial ports. When comparing devices, I recommend the webpage http:\/\/pdadb.net\/ as it gives very detailed info about android phones."
+        }
+    ]
+}

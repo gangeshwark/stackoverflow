@@ -1,0 +1,71 @@
+{
+    "Body":"i have a samsung galaxy 3 and I dropped it and it cracked which has been fine. Just lately the top left corner has been turning blue and is spreading to the right side and lower what is it and what should i do?",
+    "ViewCount":"1227",
+    "LastActivityDate":"2015-03-06T02:01:24.717",
+    "ClosedDate":"2015-03-30T14:44:57.990",
+    "Title":"Why is my screen turning blue?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"96968",
+    "CreationDate":"2015-03-05T23:40:47.953",
+    "FavoriteCount":null,
+    "Id":"101654",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-05T23:40:47.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a4685dc-917d-4cfc-b59f-7fcd9e6cbda7",
+            "UserId":"96968",
+            "CloseReasonId":null,
+            "PostId":"101654",
+            "PostHistoryTypeId":"2",
+            "Id":"330655",
+            "Text":"i have a samsung galaxy 3 and I dropped it and it cracked which has been fine. Just lately the top left corner has been turning blue and is spreading to the right side and lower what is it and what should i do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-05T23:40:47.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a4685dc-917d-4cfc-b59f-7fcd9e6cbda7",
+            "UserId":"96968",
+            "CloseReasonId":null,
+            "PostId":"101654",
+            "PostHistoryTypeId":"1",
+            "Id":"330656",
+            "Text":"Why is my screen turning blue?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-05T23:40:47.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"2a4685dc-917d-4cfc-b59f-7fcd9e6cbda7",
+            "UserId":"96968",
+            "CloseReasonId":null,
+            "PostId":"101654",
+            "PostHistoryTypeId":"3",
+            "Id":"330657",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-30T14:44:57.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"a9554ae5-c701-4159-9025-fc3cb551c5a1",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"101654",
+            "PostHistoryTypeId":"10",
+            "Id":"339415",
+            "Text":"{\"OriginalQuestionIds\":[64811],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

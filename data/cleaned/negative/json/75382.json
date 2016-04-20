@@ -1,0 +1,71 @@
+{
+    "Body":"I want to flash a new Stock Rom on my Galaxy Mega. I'm quite hesitant using Clorkworkmod. Will I lose my Root if I use Odin to upgrade? Also, what happens to Clockworkmod if I use Odin?",
+    "ViewCount":"29",
+    "LastActivityDate":"2014-07-02T12:34:32.850",
+    "ClosedDate":"2014-07-04T19:23:23.593",
+    "Title":"Odin vs Clockworkmod",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"38771",
+    "CreationDate":"2014-07-02T12:34:32.850",
+    "FavoriteCount":null,
+    "Id":"75382",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-02T12:34:32.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc857cf4-298a-46c7-9cf1-ba6c296ec5af",
+            "UserId":"38771",
+            "CloseReasonId":null,
+            "PostId":"75382",
+            "PostHistoryTypeId":"2",
+            "Id":"250557",
+            "Text":"I want to flash a new Stock Rom on my Galaxy Mega. I'm quite hesitant using Clorkworkmod. Will I lose my Root if I use Odin to upgrade? Also, what happens to Clockworkmod if I use Odin?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-02T12:34:32.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc857cf4-298a-46c7-9cf1-ba6c296ec5af",
+            "UserId":"38771",
+            "CloseReasonId":null,
+            "PostId":"75382",
+            "PostHistoryTypeId":"1",
+            "Id":"250558",
+            "Text":"Odin vs Clockworkmod"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-02T12:34:32.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"bc857cf4-298a-46c7-9cf1-ba6c296ec5af",
+            "UserId":"38771",
+            "CloseReasonId":null,
+            "PostId":"75382",
+            "PostHistoryTypeId":"3",
+            "Id":"250559",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-04T19:23:23.593",
+            "UserDisplayName":null,
+            "RevisionGUID":"ae566d3d-aa10-4f6d-9228-d3c5829abe57",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"75382",
+            "PostHistoryTypeId":"10",
+            "Id":"251184",
+            "Text":"{\"OriginalQuestionIds\":[26860],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"}]}"
+        }
+    ]
+}

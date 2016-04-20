@@ -1,0 +1,71 @@
+{
+    "Body":"I'm trying to help my sister who has a Gmail account that she wants to read on her Galaxy S5 (with the standard T-Mobile Android install). She has the \"standard\" Gmail app, but it looks like there's no way to turn off Conversation View (sometimes called \"threaded\", but I guess that's not exactly accurate) in the app. (You can turn it off on the Gmail Web interface, but not the app)So we're looking for either Some magic way to make the Gmail app turn off Conversation View, orAn alternative email app client that won't use Conversation View.Any suggestions?",
+    "ViewCount":"4867",
+    "LastActivityDate":"2015-02-18T14:51:40.363",
+    "ClosedDate":"2015-02-18T23:02:45.063",
+    "Title":"Replacement app for reading Gmail without Conversation View",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"87103",
+    "CreationDate":"2014-12-30T22:40:23.800",
+    "FavoriteCount":null,
+    "Id":"93313",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T22:40:23.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9994cbe-0dd9-47f2-b7b9-6d6cd739163e",
+            "UserId":"87103",
+            "CloseReasonId":null,
+            "PostId":"93313",
+            "PostHistoryTypeId":"2",
+            "Id":"305951",
+            "Text":"I'm trying to help my sister who has a Gmail account that she wants to read on her Galaxy S5 (with the standard T-Mobile Android install). She has the \"standard\" Gmail app, but it looks like there's no way to turn off Conversation View (sometimes called \"threaded\", but I guess that's not exactly accurate) in the app. (You can turn it off on the Gmail Web interface, but not the app)So we're looking for either - Some magic way to make the Gmail app turn off Conversation View, or- An alternative email app client that won't use Conversation View.Any suggestions?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T22:40:23.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9994cbe-0dd9-47f2-b7b9-6d6cd739163e",
+            "UserId":"87103",
+            "CloseReasonId":null,
+            "PostId":"93313",
+            "PostHistoryTypeId":"1",
+            "Id":"305952",
+            "Text":"Replacement app for reading Gmail without Conversation View"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T22:40:23.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9994cbe-0dd9-47f2-b7b9-6d6cd739163e",
+            "UserId":"87103",
+            "CloseReasonId":null,
+            "PostId":"93313",
+            "PostHistoryTypeId":"3",
+            "Id":"305953",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-02-18T23:02:45.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"2e6d03e6-e235-412e-8f5a-2e5d7c91df7c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"93313",
+            "PostHistoryTypeId":"10",
+            "Id":"325427",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

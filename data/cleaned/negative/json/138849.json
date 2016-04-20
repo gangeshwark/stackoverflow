@@ -1,0 +1,71 @@
+{
+    "Body":"What would be a good book one can turn to for object-oriented design in androids? I mean a good book for cloud-based programming beginners or enthusiasts...",
+    "ViewCount":"10",
+    "LastActivityDate":"2016-03-05T02:19:27.670",
+    "ClosedDate":"2016-03-05T02:34:59.253",
+    "Title":"Suggested reads for android programming",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154590",
+    "CreationDate":"2016-03-05T02:19:27.670",
+    "FavoriteCount":null,
+    "Id":"138849",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T02:19:27.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"e590ec22-e6b8-4e8e-ba67-5ba384a21467",
+            "UserId":"154590",
+            "CloseReasonId":null,
+            "PostId":"138849",
+            "PostHistoryTypeId":"2",
+            "Id":"464282",
+            "Text":"What would be a good book one can turn to for object-oriented design in androids? I mean a good book for cloud-based programming beginners or enthusiasts..."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T02:19:27.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"e590ec22-e6b8-4e8e-ba67-5ba384a21467",
+            "UserId":"154590",
+            "CloseReasonId":null,
+            "PostId":"138849",
+            "PostHistoryTypeId":"1",
+            "Id":"464283",
+            "Text":"Suggested reads for android programming"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T02:19:27.670",
+            "UserDisplayName":null,
+            "RevisionGUID":"e590ec22-e6b8-4e8e-ba67-5ba384a21467",
+            "UserId":"154590",
+            "CloseReasonId":null,
+            "PostId":"138849",
+            "PostHistoryTypeId":"3",
+            "Id":"464284",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-05T02:34:59.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f0d17b8-93e1-4008-96f8-a2d3a9ce3774",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138849",
+            "PostHistoryTypeId":"10",
+            "Id":"464287",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

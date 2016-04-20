@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  What is the default resolution of a wallpaper that fits the homescreen exactly in an Android phone?  Hi I'm running EOS nigtlie #102 (although this is a problem no matter what rom) but how do I size images so that they arent cropped. I see alot about 5 screens and what not but I dont have the 5 screen feature never have since ICS. So what resolution should my images be so that they arnt zoomed when i apply them as a background.",
+    "ViewCount":"843",
+    "LastActivityDate":"2012-06-15T23:47:23.620",
+    "ClosedDate":"2012-06-16T03:01:14.870",
+    "Title":"How to size wallpapers to not be cropped on Motorola Xoom WiFi",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"24273",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14902",
+    "CreationDate":"2012-05-07T19:50:36.400",
+    "FavoriteCount":null,
+    "Id":"22797",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-07T19:50:36.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9e042da-cf86-4a8b-9e96-9eef26e003ef",
+            "UserId":"14902",
+            "CloseReasonId":null,
+            "PostId":"22797",
+            "PostHistoryTypeId":"2",
+            "Id":"64497",
+            "Text":"Hi I'm running EOS nigtlie #102 (although this is a problem no matter what rom) but how do I size images so that they arent cropped. I see alot about 5 screens and what not but I dont have the 5 screen feature never have since ICS. So what resolution should my images be so that they arnt zoomed when i apply them as a background."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-07T19:50:36.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9e042da-cf86-4a8b-9e96-9eef26e003ef",
+            "UserId":"14902",
+            "CloseReasonId":null,
+            "PostId":"22797",
+            "PostHistoryTypeId":"1",
+            "Id":"64498",
+            "Text":"How to size wallpapers to not be cropped on Motorola Xoom WiFi"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-07T19:50:36.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"b9e042da-cf86-4a8b-9e96-9eef26e003ef",
+            "UserId":"14902",
+            "CloseReasonId":null,
+            "PostId":"22797",
+            "PostHistoryTypeId":"3",
+            "Id":"64499",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-06-16T03:01:17.447",
+            "UserDisplayName":null,
+            "RevisionGUID":"aa074e8e-590f-436e-a730-c1d85893713d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"22797",
+            "PostHistoryTypeId":"5",
+            "Id":"69501",
+            "Text":"> **Possible Duplicate:**  > [What is the default resolution of a wallpaper that fits the homescreen exactly in an Android phone?](http:\/\/android.stackexchange.com\/questions\/2026\/what-is-the-default-resolution-of-a-wallpaper-that-fits-the-homescreen-exactly-i)  Hi I'm running EOS nigtlie #102 (although this is a problem no matter what rom) but how do I size images so that they arent cropped. I see alot about 5 screens and what not but I dont have the 5 screen feature never have since ICS. So what resolution should my images be so that they arnt zoomed when i apply them as a background."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-06-16T03:01:14.870",
+            "UserDisplayName":null,
+            "RevisionGUID":"611fc448-a412-4657-88b6-823cbeeed6fb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"22797",
+            "PostHistoryTypeId":"10",
+            "Id":"69502",
+            "Text":"{\"OriginalQuestionIds\":[2026],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

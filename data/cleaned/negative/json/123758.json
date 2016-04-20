@@ -1,0 +1,83 @@
+{
+    "Body":"My daughter's Samsung Galaxy S4 has a faulty screen - it is completely non-functional. As it died the remainder of the phone functionality appeared to be completely fine. Now the screen is dead. So there is no way to see what is displayed nor interact with it.She got a new phone and was dismayed to learn that most of her contacts did not appear. Apparently, unbeknownst to her, they were saved to the phone (not SIM) rather than Google. Is there a way for her to recover those contacts from the screenless, but otherwise still-functioning, phone?It does not appear that simply connecting it to USB will work. I thought about installing over-the-air the app AirDroid - but it appears it is too late to do that, since some of the setup appears to need to be done on the phone itself.Any other solutions?Thanks.",
+    "ViewCount":"112",
+    "LastActivityDate":"2015-09-22T04:24:23.037",
+    "ClosedDate":"2015-09-24T03:12:46.553",
+    "Title":"How to recover contacts from an Android phone whose screen has died?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"28378",
+    "CreationDate":"2015-09-21T12:44:54.743",
+    "FavoriteCount":null,
+    "Id":"123758",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/976027\/how-to-recover-contacts-from-an-android-phone-whose-screen-has-died",
+            "CreationDate":"2015-09-21T13:17:29.147",
+            "UserDisplayName":null,
+            "RevisionGUID":"9eddf718-40ec-45fa-80f9-95b0909e6245",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"123758",
+            "PostHistoryTypeId":"36",
+            "Id":"404349",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-21T12:44:54.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"25fe9bdf-e920-4556-a017-b86bbe9e7751",
+            "UserId":"28378",
+            "CloseReasonId":null,
+            "PostId":"123758",
+            "PostHistoryTypeId":"2",
+            "Id":"404350",
+            "Text":"My daughter's Samsung Galaxy S4 has a faulty screen - it is completely non-functional. As it died the remainder of the phone functionality appeared to be completely fine. Now the screen is dead. So there is no way to see what is displayed nor interact with it.She got a new phone and was dismayed to learn that most of her contacts did not appear. Apparently, unbeknownst to her, they were saved to the phone (not SIM) rather than Google. Is there a way for her to recover those contacts from the screenless, but otherwise still-functioning, phone?It does not appear that simply connecting it to USB will work. I thought about installing over-the-air the app AirDroid - but it appears it is too late to do that, since some of the setup appears to need to be done on the phone itself.Any other solutions?Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-21T12:44:54.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"25fe9bdf-e920-4556-a017-b86bbe9e7751",
+            "UserId":"28378",
+            "CloseReasonId":null,
+            "PostId":"123758",
+            "PostHistoryTypeId":"1",
+            "Id":"404351",
+            "Text":"How to recover contacts from an Android phone whose screen has died?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-21T12:44:54.743",
+            "UserDisplayName":null,
+            "RevisionGUID":"25fe9bdf-e920-4556-a017-b86bbe9e7751",
+            "UserId":"28378",
+            "CloseReasonId":null,
+            "PostId":"123758",
+            "PostHistoryTypeId":"3",
+            "Id":"404352",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-24T03:12:46.553",
+            "UserDisplayName":null,
+            "RevisionGUID":"91dc30a6-7265-4a87-92b8-59b64ce2329c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"123758",
+            "PostHistoryTypeId":"10",
+            "Id":"405477",
+            "Text":"{\"OriginalQuestionIds\":[25646],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

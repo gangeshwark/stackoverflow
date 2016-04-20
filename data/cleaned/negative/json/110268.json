@@ -1,0 +1,71 @@
+{
+    "Body":"My whatsapps apps has upgraded to version 2.12.94 and now i am no longer able to scan the web QR code from my whatsapp app inbuilt scanner. The code is displayed from the web whatsapps but while using the mobile whatsapp to scan the code, the mobile(HTC M8 Android 5.0.1) and PC is not being paired.Thanks to provide for a solution.",
+    "ViewCount":"299",
+    "LastActivityDate":"2015-05-25T10:17:55.140",
+    "ClosedDate":"2015-06-08T17:37:49.667",
+    "Title":"Why I can't scan the Whatsapp QR from my inbuilt whatsapp scanner?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"110000",
+    "CreationDate":"2015-05-25T07:04:01.293",
+    "FavoriteCount":null,
+    "Id":"110268",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-25T07:04:01.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4c6a65-f886-429b-bc56-0225304256d2",
+            "UserId":"110000",
+            "CloseReasonId":null,
+            "PostId":"110268",
+            "PostHistoryTypeId":"2",
+            "Id":"360150",
+            "Text":"My whatsapps apps has upgraded to version 2.12.94 and now i am no longer able to scan the web QR code from my whatsapp app inbuilt scanner. The code is displayed from the web whatsapps but while using the mobile whatsapp to scan the code, the mobile(HTC M8 Android 5.0.1) and PC is not being paired.Thanks to provide for a solution."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-25T07:04:01.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4c6a65-f886-429b-bc56-0225304256d2",
+            "UserId":"110000",
+            "CloseReasonId":null,
+            "PostId":"110268",
+            "PostHistoryTypeId":"1",
+            "Id":"360151",
+            "Text":"Why I can't scan the Whatsapp QR from my inbuilt whatsapp scanner?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-25T07:04:01.293",
+            "UserDisplayName":null,
+            "RevisionGUID":"fa4c6a65-f886-429b-bc56-0225304256d2",
+            "UserId":"110000",
+            "CloseReasonId":null,
+            "PostId":"110268",
+            "PostHistoryTypeId":"3",
+            "Id":"360152",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-06-08T17:37:49.667",
+            "UserDisplayName":null,
+            "RevisionGUID":"25cbf108-83e5-45c3-802b-27f45ae70e50",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"110268",
+            "PostHistoryTypeId":"10",
+            "Id":"365957",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

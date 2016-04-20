@@ -1,0 +1,71 @@
+{
+    "Body":"So...with my HTC Hero, there are two Angry Birds custom files - highscores.lua and settings.lua.  Easy enough, I copy them off to my PC.However, on the Galaxy Nexus there's a) no SD card option and b) connecting as a MTP device only seems to show certain folders, and certainly nothing Rovio (Angry Birds makers) related.So how on earth does one get your AB scores into the new phone?Even with Titanium Backup, you'd need an SD card option on the Nexus to copy across, surely?",
+    "ViewCount":"246",
+    "LastActivityDate":"2012-03-12T05:40:11.813",
+    "ClosedDate":"2012-03-12T06:09:50.083",
+    "Title":"Getting my Angry Birds (and other) data files onto my Galaxy Nexus?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"8855",
+    "CreationDate":"2012-03-12T05:40:11.813",
+    "FavoriteCount":null,
+    "Id":"20521",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-12T05:40:11.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8e4a78a-4dbc-4be0-a04b-ce89509abb7d",
+            "UserId":"8855",
+            "CloseReasonId":null,
+            "PostId":"20521",
+            "PostHistoryTypeId":"2",
+            "Id":"57167",
+            "Text":"So...with my HTC Hero, there are two Angry Birds custom files - `highscores.lua` and `settings.lua`.  Easy enough, I copy them off to my PC.However, on the Galaxy Nexus there's a) no SD card option and b) connecting as a MTP device only seems to show certain folders, and certainly nothing Rovio (Angry Birds makers) related.So how on earth does one get your AB scores into the new phone?Even with Titanium Backup, you'd need an SD card option on the Nexus to copy across, surely?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-12T05:40:11.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8e4a78a-4dbc-4be0-a04b-ce89509abb7d",
+            "UserId":"8855",
+            "CloseReasonId":null,
+            "PostId":"20521",
+            "PostHistoryTypeId":"1",
+            "Id":"57168",
+            "Text":"Getting my Angry Birds (and other) data files onto my Galaxy Nexus?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-12T05:40:11.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"f8e4a78a-4dbc-4be0-a04b-ce89509abb7d",
+            "UserId":"8855",
+            "CloseReasonId":null,
+            "PostId":"20521",
+            "PostHistoryTypeId":"3",
+            "Id":"57169",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-03-12T06:09:50.083",
+            "UserDisplayName":null,
+            "RevisionGUID":"24c4dafb-d6d2-452e-8f6a-27518884327e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20521",
+            "PostHistoryTypeId":"10",
+            "Id":"57172",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

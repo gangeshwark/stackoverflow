@@ -1,0 +1,71 @@
+{
+    "Body":"When downloading an app the above message keeps occurring  I reset the phone in the past year 5 times to factory settings... This only seems to allow less app memory on each of the resets... How can I let the #$#% phone know  knows that the other 90% of memory is available?.  ",
+    "ViewCount":"92",
+    "LastActivityDate":"2015-09-13T10:05:04.080",
+    "ClosedDate":"2015-09-21T22:12:24.783",
+    "Title":"\"Insufficient Space\" even though memory shows 90% available..",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"127180",
+    "CreationDate":"2015-09-13T10:05:04.080",
+    "FavoriteCount":null,
+    "Id":"122980",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T10:05:04.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"99f41d09-4199-4ade-b6a6-091c92f79add",
+            "UserId":"127180",
+            "CloseReasonId":null,
+            "PostId":"122980",
+            "PostHistoryTypeId":"2",
+            "Id":"401547",
+            "Text":"When downloading an app the above message keeps occurring  I reset the phone in the past year 5 times to factory settings... This only seems to allow less app memory on each of the resets... How can I let the #$#% phone know  knows that the other 90% of memory is available?.  "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T10:05:04.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"99f41d09-4199-4ade-b6a6-091c92f79add",
+            "UserId":"127180",
+            "CloseReasonId":null,
+            "PostId":"122980",
+            "PostHistoryTypeId":"1",
+            "Id":"401548",
+            "Text":"\"Insufficient Space\" even though memory shows 90% available.."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-09-13T10:05:04.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"99f41d09-4199-4ade-b6a6-091c92f79add",
+            "UserId":"127180",
+            "CloseReasonId":null,
+            "PostId":"122980",
+            "PostHistoryTypeId":"3",
+            "Id":"401549",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-21T22:12:24.783",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ef26f86-edbc-43bf-97a7-b2637c3e08ce",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"122980",
+            "PostHistoryTypeId":"10",
+            "Id":"404529",
+            "Text":"{\"OriginalQuestionIds\":[55098],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

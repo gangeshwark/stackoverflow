@@ -1,0 +1,83 @@
+{
+    "Body":"I have a rooted phone, and I was playing around with Terminal Emulator. I tried writing a simple shell script (test.sh) :#!\/bin\/shecho \"Hello, World!\" Then I opened terminal emulator, cd'd to the directory my script was in, and typed:.\/test.shand I got a  \"permission denied\"  error. So I tried:su.\/test.shSomehow, still permission denied. So I tried (still as root) :chmod 775 test.shbusybox chmod 775 test.shbusybox chmod +X test.shNone of the 3 gave errors, but .\/test.sh still gave permission denied!  As a last resort I triedsh test.shThat ended up working. Finally. I'm curious why permission was denied for my own shell script chmodded to 775 when run as root. How can permission be denied for anything as root? How can I fix this and make .\/test.sh work?",
+    "ViewCount":"5743",
+    "LastActivityDate":"2013-08-07T21:24:16.670",
+    "ClosedDate":"2013-08-08T10:24:26.910",
+    "Title":"Android shell script permissions?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"5",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"39000",
+    "CreationDate":"2013-08-07T19:06:00.720",
+    "FavoriteCount":null,
+    "Id":"50775",
+    "history":[
+        {
+            "Comment":"from http:\/\/superuser.com\/questions\/629212\/android-shell-script-permissions",
+            "CreationDate":"2013-08-07T19:20:35.080",
+            "UserDisplayName":null,
+            "RevisionGUID":"755ab737-e70f-41bb-8cf2-dd162446e1b3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"50775",
+            "PostHistoryTypeId":"36",
+            "Id":"166267",
+            "Text":null
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-07T19:06:00.720",
+            "UserDisplayName":"Zove Games",
+            "RevisionGUID":"60727a32-3b00-41ff-81fb-dac554f1223f",
+            "UserId":"39000",
+            "CloseReasonId":null,
+            "PostId":"50775",
+            "PostHistoryTypeId":"2",
+            "Id":"166268",
+            "Text":"I have a rooted phone, and I was playing around with Terminal Emulator. I tried writing a simple shell script (test.sh) :    #!\/bin\/sh    echo \"Hello, World!\" Then I opened terminal emulator, cd'd to the directory my script was in, and typed:    .\/test.shand I got a  \"permission denied\"  error. So I tried:    su    .\/test.shSomehow, still permission denied. So I tried (still as root) :    chmod 775 test.sh    busybox chmod 775 test.sh    busybox chmod +X test.shNone of the 3 gave errors, but .\/test.sh still gave permission denied!  As a last resort I tried    sh test.shThat ended up working. Finally. I'm curious why permission was denied for my own shell script chmodded to 775 when run as root. How can permission be denied for anything as root? How can I fix this and make .\/test.sh work?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-07T19:06:00.720",
+            "UserDisplayName":"Zove Games",
+            "RevisionGUID":"60727a32-3b00-41ff-81fb-dac554f1223f",
+            "UserId":"39000",
+            "CloseReasonId":null,
+            "PostId":"50775",
+            "PostHistoryTypeId":"1",
+            "Id":"166269",
+            "Text":"Android shell script permissions?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-08-07T19:06:00.720",
+            "UserDisplayName":"Zove Games",
+            "RevisionGUID":"60727a32-3b00-41ff-81fb-dac554f1223f",
+            "UserId":"39000",
+            "CloseReasonId":null,
+            "PostId":"50775",
+            "PostHistoryTypeId":"3",
+            "Id":"166270",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-08-08T10:24:26.910",
+            "UserDisplayName":null,
+            "RevisionGUID":"a69c71b1-f306-4069-9911-665d44f60858",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"50775",
+            "PostHistoryTypeId":"10",
+            "Id":"166412",
+            "Text":"{\"OriginalQuestionIds\":[26142],\"Voters\":[{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

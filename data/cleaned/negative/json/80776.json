@@ -1,0 +1,83 @@
+{
+    "Body":"So I went to download a large game (1GB). It started downloading, and at 96% it stopped and said I don't have enough memory.I wont try to download it again, but that 96% that I downloaded is still in my phone and I cant delete it. Can someone tell me how? I went into options then applications, but there is no that game that I can delete. I tried to find it many times but it is not there.",
+    "ViewCount":"22",
+    "LastActivityDate":"2014-08-19T12:43:07.787",
+    "ClosedDate":"2014-08-25T15:47:39.653",
+    "Title":"Downloading game memoryp roblem",
+    "LastEditorUserId":"11190",
+    "Tags":"",
+    "LastEditDate":"2014-08-19T12:43:07.787",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71064",
+    "CreationDate":"2014-08-18T20:10:51.800",
+    "FavoriteCount":null,
+    "Id":"80776",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-18T20:10:51.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"f420b93c-dd1f-47b7-9d18-1b452578cf41",
+            "UserId":"71064",
+            "CloseReasonId":null,
+            "PostId":"80776",
+            "PostHistoryTypeId":"2",
+            "Id":"264446",
+            "Text":"So i went to download a game(1GB) it started downloading and on 96 % i stoped and it says i dont have enough memory so ok i wont try to download it again but that 95 % that i downloaded are still in my phone and i cant delete it? can someone tell me how? i went into options then applications but there is no that game that i want to delete i tried to find it about 100 times but it is not there"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-18T20:10:51.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"f420b93c-dd1f-47b7-9d18-1b452578cf41",
+            "UserId":"71064",
+            "CloseReasonId":null,
+            "PostId":"80776",
+            "PostHistoryTypeId":"1",
+            "Id":"264447",
+            "Text":"Downloading game memoryp roblem"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-18T20:10:51.800",
+            "UserDisplayName":null,
+            "RevisionGUID":"f420b93c-dd1f-47b7-9d18-1b452578cf41",
+            "UserId":"71064",
+            "CloseReasonId":null,
+            "PostId":"80776",
+            "PostHistoryTypeId":"3",
+            "Id":"264448",
+            "Text":""
+        },
+        {
+            "Comment":"fixed wording",
+            "CreationDate":"2014-08-19T12:43:07.787",
+            "UserDisplayName":null,
+            "RevisionGUID":"d407552e-d3c8-4589-b1a8-dfc228be4384",
+            "UserId":"11190",
+            "CloseReasonId":null,
+            "PostId":"80776",
+            "PostHistoryTypeId":"5",
+            "Id":"264656",
+            "Text":"So I went to download a large game (1GB). It started downloading, and at 96% it stopped and said I don't have enough memory.I wont try to download it again, but that 96% that I downloaded is still in my phone and I cant delete it. Can someone tell me how? I went into options then applications, but there is no that game that I can delete. I tried to find it many times but it is not there."
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-08-25T15:47:39.653",
+            "UserDisplayName":null,
+            "RevisionGUID":"d402ae4b-c623-4128-9abe-64bdb57a3e7a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"80776",
+            "PostHistoryTypeId":"10",
+            "Id":"266060",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

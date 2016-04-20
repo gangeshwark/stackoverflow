@@ -1,0 +1,83 @@
+{
+    "Body":"I am considering using tablets for use with clients at my job and I was just wondering if there is anyway to lock users into one application. Just for theoretical purposes the application could be as simple as a sign in sheet where people would check in when they come into the buildings. what I want to disable is people's abilities to get out of the application(hitting the home button, et cetera). Basically I don't want people to have access to anything besides the sign-in application.Everything I've read points to this not being possible but I figure this is the best place to ask.Thanks in advance.",
+    "ViewCount":"25",
+    "LastActivityDate":"2013-02-28T07:24:32.180",
+    "ClosedDate":"2013-02-28T16:44:44.380",
+    "Title":"Only give access to one application(full screen)",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-02-28T07:24:32.180",
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"29254",
+    "CreationDate":"2013-02-28T03:28:31.357",
+    "FavoriteCount":null,
+    "Id":"40462",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-28T03:28:31.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d6a2eed-40d0-4c23-b9f0-9c61796826f6",
+            "UserId":"29254",
+            "CloseReasonId":null,
+            "PostId":"40462",
+            "PostHistoryTypeId":"2",
+            "Id":"126012",
+            "Text":"I am considering using tablets for use with clients at my job and I was just wondering if there is anyway to lock users into one application. Just for theoretical purposes the application could be as simple as a sign in sheet where people would check in when they come into the buildings. what I want to disable is people's abilities to get out of the application(hitting the home button, et cetera). Basically I don't want people to have access to anything besides the sign-in application.Everything I've read points to this not being possible but I figure this is the best place to ask.Thanks in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-28T03:28:31.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d6a2eed-40d0-4c23-b9f0-9c61796826f6",
+            "UserId":"29254",
+            "CloseReasonId":null,
+            "PostId":"40462",
+            "PostHistoryTypeId":"1",
+            "Id":"126013",
+            "Text":"Only give access to one application(full screen)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-28T03:28:31.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d6a2eed-40d0-4c23-b9f0-9c61796826f6",
+            "UserId":"29254",
+            "CloseReasonId":null,
+            "PostId":"40462",
+            "PostHistoryTypeId":"3",
+            "Id":"126014",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-02-28T07:24:32.180",
+            "UserDisplayName":null,
+            "RevisionGUID":"53418490-b255-4c86-bf61-d1b8fe137d68",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"40462",
+            "PostHistoryTypeId":"6",
+            "Id":"126042",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-28T16:44:44.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"7edf75fc-a40d-41d0-a442-c2ae5da9eae2",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"40462",
+            "PostHistoryTypeId":"10",
+            "Id":"126185",
+            "Text":"{\"OriginalQuestionIds\":[23404],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"user267\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

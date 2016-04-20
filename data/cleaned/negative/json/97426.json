@@ -1,0 +1,83 @@
+{
+    "Body":"Currently everything is huge, I would like to know if I can change my resolution.",
+    "ViewCount":"2384",
+    "LastActivityDate":"2015-02-23T13:57:04.833",
+    "ClosedDate":"2015-02-23T15:00:35.313",
+    "Title":"Is there a way to change resolution on a Note 4?",
+    "LastEditorUserId":"14080",
+    "Tags":"",
+    "LastEditDate":"2015-02-23T13:57:04.833",
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"97430",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"92332",
+    "CreationDate":"2015-01-31T06:54:44.287",
+    "FavoriteCount":null,
+    "Id":"97426",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T06:54:44.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"14622630-1b2d-4c62-9bc5-376f2515322a",
+            "UserId":"92332",
+            "CloseReasonId":null,
+            "PostId":"97426",
+            "PostHistoryTypeId":"2",
+            "Id":"317746",
+            "Text":"Currently everything is huge, I would like to know if I can change my resolution. If not, I may just move back to my jail broken iPhone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T06:54:44.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"14622630-1b2d-4c62-9bc5-376f2515322a",
+            "UserId":"92332",
+            "CloseReasonId":null,
+            "PostId":"97426",
+            "PostHistoryTypeId":"1",
+            "Id":"317747",
+            "Text":"Is there a way to change resolution on a Note 4?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-31T06:54:44.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"14622630-1b2d-4c62-9bc5-376f2515322a",
+            "UserId":"92332",
+            "CloseReasonId":null,
+            "PostId":"97426",
+            "PostHistoryTypeId":"3",
+            "Id":"317748",
+            "Text":""
+        },
+        {
+            "Comment":"threats are off-topic here",
+            "CreationDate":"2015-02-23T13:57:04.833",
+            "UserDisplayName":null,
+            "RevisionGUID":"965b6226-d831-4f2c-b6d8-baafb3ed88d8",
+            "UserId":"14080",
+            "CloseReasonId":null,
+            "PostId":"97426",
+            "PostHistoryTypeId":"5",
+            "Id":"327001",
+            "Text":"Currently everything is huge, I would like to know if I can change my resolution."
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-23T15:00:35.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"fda977d7-06ac-411c-9ecd-7ba33831e099",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"97426",
+            "PostHistoryTypeId":"10",
+            "Id":"327030",
+            "Text":"{\"OriginalQuestionIds\":[81561],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

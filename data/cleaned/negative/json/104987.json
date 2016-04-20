@@ -1,0 +1,71 @@
+{
+    "Body":"Is it posible to receive via WiFi data( only receive not send) to transmit later via 4G to internet Is not like hot spot(though maybe this is the name ) I just want to conect a wifi card or any camera with wi fi and sent it over $G",
+    "ViewCount":"20",
+    "LastActivityDate":"2015-04-09T14:40:43.050",
+    "ClosedDate":"2015-04-22T13:48:37.363",
+    "Title":"Can I connect Wi fi and 4G at the same time for different things",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"101711",
+    "CreationDate":"2015-04-09T14:40:43.050",
+    "FavoriteCount":null,
+    "Id":"104987",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T14:40:43.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"39d7658a-abf2-47a8-86ef-dd66fcbc1a0b",
+            "UserId":"101711",
+            "CloseReasonId":null,
+            "PostId":"104987",
+            "PostHistoryTypeId":"2",
+            "Id":"342900",
+            "Text":"Is it posible to receive via WiFi data( only receive not send) to transmit later via 4G to internet Is not like hot spot(though maybe this is the name ) I just want to conect a wifi card or any camera with wi fi and sent it over $G"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T14:40:43.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"39d7658a-abf2-47a8-86ef-dd66fcbc1a0b",
+            "UserId":"101711",
+            "CloseReasonId":null,
+            "PostId":"104987",
+            "PostHistoryTypeId":"1",
+            "Id":"342901",
+            "Text":"Can I connect Wi fi and 4G at the same time for different things"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-09T14:40:43.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"39d7658a-abf2-47a8-86ef-dd66fcbc1a0b",
+            "UserId":"101711",
+            "CloseReasonId":null,
+            "PostId":"104987",
+            "PostHistoryTypeId":"3",
+            "Id":"342902",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-22T13:48:37.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"4b9109ef-aea7-4541-abdd-8c561da379a5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"104987",
+            "PostHistoryTypeId":"10",
+            "Id":"347685",
+            "Text":"{\"OriginalQuestionIds\":[29769],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

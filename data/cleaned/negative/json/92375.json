@@ -1,0 +1,71 @@
+{
+    "Body":"Flashlight in Android seems to be \"entangled\" with Camera, leading to UI, power consumption, privacy and other issues.Are there Android devices with a torch, but without a camera at all? How the LED is managed there?",
+    "ViewCount":"48",
+    "LastActivityDate":"2014-12-22T06:32:21.163",
+    "ClosedDate":"2014-12-28T23:19:32.823",
+    "Title":"Are there Android devices without a camera, but with a torch?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"92394",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"85932",
+    "CreationDate":"2014-12-22T00:30:09.273",
+    "FavoriteCount":null,
+    "Id":"92375",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T00:30:09.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"471c597b-db24-4d72-969f-088ded447ea2",
+            "UserId":"85932",
+            "CloseReasonId":null,
+            "PostId":"92375",
+            "PostHistoryTypeId":"2",
+            "Id":"302810",
+            "Text":"Flashlight in Android seems to be \"entangled\" with Camera, leading to UI, power consumption, privacy and other issues.Are there Android devices with a torch, but without a camera at all? How the LED is managed there?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T00:30:09.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"471c597b-db24-4d72-969f-088ded447ea2",
+            "UserId":"85932",
+            "CloseReasonId":null,
+            "PostId":"92375",
+            "PostHistoryTypeId":"1",
+            "Id":"302811",
+            "Text":"Are there Android devices without a camera, but with a torch?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-22T00:30:09.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"471c597b-db24-4d72-969f-088ded447ea2",
+            "UserId":"85932",
+            "CloseReasonId":null,
+            "PostId":"92375",
+            "PostHistoryTypeId":"3",
+            "Id":"302812",
+            "Text":""
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2014-12-28T23:19:32.823",
+            "UserDisplayName":null,
+            "RevisionGUID":"5463077a-fe49-4c65-8dcb-6ddec66e6e97",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"92375",
+            "PostHistoryTypeId":"10",
+            "Id":"305159",
+            "Text":"{\"Voters\":[{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

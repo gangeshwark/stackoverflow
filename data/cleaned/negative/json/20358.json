@@ -1,0 +1,71 @@
+{
+    "Body":"I have two phones, one of them a droid the other one a brick. Most of my friends have my brick number so it would be hard to make them change my number in favor of my droid. My droid uses google voice to receive and make calls. What I want to do is to forward calls to my brick to my google voice so that my droid picks up the call instead. I tried to use the call forwarding feature in my phone but it seem jumps immediately to a \"not available \" message when someone calls it. Is there something that I can configure to make the above happen?",
+    "ViewCount":"129",
+    "LastActivityDate":"2012-03-07T03:27:01.563",
+    "ClosedDate":"2012-03-07T03:34:14.153",
+    "Title":"how to forward calls to my phone to my google voice number",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13197",
+    "CreationDate":"2012-03-07T03:27:01.563",
+    "FavoriteCount":null,
+    "Id":"20358",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-07T03:27:01.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"68588a9e-b0bc-4e0c-bd8e-425dcb8878df",
+            "UserId":"13197",
+            "CloseReasonId":null,
+            "PostId":"20358",
+            "PostHistoryTypeId":"2",
+            "Id":"56658",
+            "Text":"I have two phones, one of them a droid the other one a brick. Most of my friends have my brick number so it would be hard to make them change my number in favor of my droid. My droid uses google voice to receive and make calls. What I want to do is to forward calls to my brick to my google voice so that my droid picks up the call instead. I tried to use the call forwarding feature in my phone but it seem jumps immediately to a \"not available \" message when someone calls it. Is there something that I can configure to make the above happen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-07T03:27:01.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"68588a9e-b0bc-4e0c-bd8e-425dcb8878df",
+            "UserId":"13197",
+            "CloseReasonId":null,
+            "PostId":"20358",
+            "PostHistoryTypeId":"1",
+            "Id":"56659",
+            "Text":"how to forward calls to my phone to my google voice number"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-07T03:27:01.563",
+            "UserDisplayName":null,
+            "RevisionGUID":"68588a9e-b0bc-4e0c-bd8e-425dcb8878df",
+            "UserId":"13197",
+            "CloseReasonId":null,
+            "PostId":"20358",
+            "PostHistoryTypeId":"3",
+            "Id":"56660",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-03-07T03:34:14.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"26691da0-0091-452d-adf5-707b9e610c29",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20358",
+            "PostHistoryTypeId":"10",
+            "Id":"56664",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

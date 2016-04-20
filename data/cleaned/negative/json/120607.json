@@ -1,0 +1,71 @@
+{
+    "Body":"Just what the question asks: I would like to have two Android users exchange public keys for use in a mobile app while not connecting to a centralized hosted server or website.",
+    "ViewCount":"23",
+    "LastActivityDate":"2015-08-28T23:01:24.763",
+    "ClosedDate":"2015-09-03T22:43:37.250",
+    "Title":"Most secure peer-to-peer exchange of public keys?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"124172",
+    "CreationDate":"2015-08-28T22:35:32.380",
+    "FavoriteCount":null,
+    "Id":"120607",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-28T22:35:32.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e55dd82-e7f9-4ed6-a7a3-0484e4dfd868",
+            "UserId":"124172",
+            "CloseReasonId":null,
+            "PostId":"120607",
+            "PostHistoryTypeId":"2",
+            "Id":"395432",
+            "Text":"Just what the question asks: I would like to have two Android users exchange public keys for use in a mobile app while not connecting to a centralized hosted server or website."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-28T22:35:32.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e55dd82-e7f9-4ed6-a7a3-0484e4dfd868",
+            "UserId":"124172",
+            "CloseReasonId":null,
+            "PostId":"120607",
+            "PostHistoryTypeId":"1",
+            "Id":"395433",
+            "Text":"Most secure peer-to-peer exchange of public keys?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-28T22:35:32.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e55dd82-e7f9-4ed6-a7a3-0484e4dfd868",
+            "UserId":"124172",
+            "CloseReasonId":null,
+            "PostId":"120607",
+            "PostHistoryTypeId":"3",
+            "Id":"395434",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-09-03T22:43:37.250",
+            "UserDisplayName":null,
+            "RevisionGUID":"175d088f-effe-449a-8669-2c06e44b63ff",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"120607",
+            "PostHistoryTypeId":"10",
+            "Id":"397437",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

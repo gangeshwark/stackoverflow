@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a recommended free Android App Permissions manager to get from Google Play? ",
+    "ViewCount":"39",
+    "LastActivityDate":"2016-02-28T09:02:26.097",
+    "ClosedDate":"2016-02-28T18:39:12.967",
+    "Title":"Google Play Android Permission Manager",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153676",
+    "CreationDate":"2016-02-28T04:22:59.847",
+    "FavoriteCount":null,
+    "Id":"138333",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T04:22:59.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"47b95d35-70fd-4acf-99bd-e0cb99117f88",
+            "UserId":"153676",
+            "CloseReasonId":null,
+            "PostId":"138333",
+            "PostHistoryTypeId":"2",
+            "Id":"462254",
+            "Text":"Is there a recommended free Android App Permissions manager to get from Google Play? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T04:22:59.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"47b95d35-70fd-4acf-99bd-e0cb99117f88",
+            "UserId":"153676",
+            "CloseReasonId":null,
+            "PostId":"138333",
+            "PostHistoryTypeId":"1",
+            "Id":"462255",
+            "Text":"Google Play Android Permission Manager"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T04:22:59.847",
+            "UserDisplayName":null,
+            "RevisionGUID":"47b95d35-70fd-4acf-99bd-e0cb99117f88",
+            "UserId":"153676",
+            "CloseReasonId":null,
+            "PostId":"138333",
+            "PostHistoryTypeId":"3",
+            "Id":"462256",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-02-28T18:39:12.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ae9d314-c497-45fb-8811-799750fa92e4",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138333",
+            "PostHistoryTypeId":"10",
+            "Id":"462375",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

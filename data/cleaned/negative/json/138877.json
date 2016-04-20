@@ -1,0 +1,71 @@
+{
+    "Body":"I want to find and use a video compression library or API that can be used in earlier versions of android (for example version 2.3).I know there are some libraries and APIs out there, but I don't really like them because for example new MediaCodec requires API level 16 or higher, or FFmpeg requires you to deal with NDK so you have to use the gradle's experimental version and lots of things can go wrong.Is there a simple library with a gradle dependency that does the common tasks of video compression for android?",
+    "ViewCount":"12",
+    "LastActivityDate":"2016-03-05T12:17:30.717",
+    "ClosedDate":"2016-03-05T18:30:51.163",
+    "Title":"Android library for video compression",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154678",
+    "CreationDate":"2016-03-05T12:17:30.717",
+    "FavoriteCount":null,
+    "Id":"138877",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T12:17:30.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"8195c1f4-a75f-4512-b034-a95384fd48c5",
+            "UserId":"154678",
+            "CloseReasonId":null,
+            "PostId":"138877",
+            "PostHistoryTypeId":"2",
+            "Id":"464394",
+            "Text":"I want to find and use a video compression library or API that can be used in earlier versions of android (for example version 2.3).I know there are some libraries and APIs out there, but I don't really like them because for example new [MediaCodec][1] requires API level 16 or higher, or [FFmpeg][2] requires you to deal with NDK so you have to use the gradle's experimental version and lots of things can go wrong.Is there a simple library with a gradle dependency that does the common tasks of video compression for android?  [1]: http:\/\/developer.android.com\/reference\/android\/media\/MediaCodec.html  [2]: https:\/\/www.ffmpeg.org\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T12:17:30.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"8195c1f4-a75f-4512-b034-a95384fd48c5",
+            "UserId":"154678",
+            "CloseReasonId":null,
+            "PostId":"138877",
+            "PostHistoryTypeId":"1",
+            "Id":"464395",
+            "Text":"Android library for video compression"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-05T12:17:30.717",
+            "UserDisplayName":null,
+            "RevisionGUID":"8195c1f4-a75f-4512-b034-a95384fd48c5",
+            "UserId":"154678",
+            "CloseReasonId":null,
+            "PostId":"138877",
+            "PostHistoryTypeId":"3",
+            "Id":"464396",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-05T18:30:51.163",
+            "UserDisplayName":null,
+            "RevisionGUID":"2417eedd-9fa7-4f52-93ea-cb8483ed91c1",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138877",
+            "PostHistoryTypeId":"10",
+            "Id":"464502",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Please help me with this problem, thanks",
+    "ViewCount":"1254",
+    "LastActivityDate":"2014-02-11T02:37:34.687",
+    "ClosedDate":"2014-02-12T14:00:41.500",
+    "Title":"How do I transfer media from a Mac to Android?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":"63238",
+    "Score":"-4",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"53333",
+    "CreationDate":"2014-02-10T20:10:28.130",
+    "FavoriteCount":null,
+    "Id":"63221",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-10T20:10:28.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"add172ae-4cc4-441b-b671-13ea6513b1d1",
+            "UserId":"53333",
+            "CloseReasonId":null,
+            "PostId":"63221",
+            "PostHistoryTypeId":"2",
+            "Id":"214742",
+            "Text":"Please help me with this problem, thanks"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-10T20:10:28.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"add172ae-4cc4-441b-b671-13ea6513b1d1",
+            "UserId":"53333",
+            "CloseReasonId":null,
+            "PostId":"63221",
+            "PostHistoryTypeId":"1",
+            "Id":"214743",
+            "Text":"How do I transfer media from a Mac to Android?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-02-10T20:10:28.130",
+            "UserDisplayName":null,
+            "RevisionGUID":"add172ae-4cc4-441b-b671-13ea6513b1d1",
+            "UserId":"53333",
+            "CloseReasonId":null,
+            "PostId":"63221",
+            "PostHistoryTypeId":"3",
+            "Id":"214744",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2014-02-12T14:00:41.500",
+            "UserDisplayName":null,
+            "RevisionGUID":"9b5893da-8501-4aac-8f1e-2f4ad06b58c5",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"63221",
+            "PostHistoryTypeId":"10",
+            "Id":"215184",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

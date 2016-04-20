@@ -1,0 +1,71 @@
+{
+    "Body":"I have a rooted phone and tried to link my play store app to the second partition of my memory card. However, when I wiped the data on the second partition, I forgot to remove the link of my play store app. When I opened my phone again, there's no more google play store app displayed. I tried to install apk file but the system just rejects it. What should I do? Please help me with this.",
+    "ViewCount":"38",
+    "LastActivityDate":"2015-07-23T11:37:33.097",
+    "ClosedDate":"2015-07-23T16:07:04.990",
+    "Title":"How to reinstall google play app after deleting it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"117993",
+    "CreationDate":"2015-07-23T09:34:50.943",
+    "FavoriteCount":null,
+    "Id":"116082",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T09:34:50.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fcd7126-6ac2-47ac-9ebf-8c5581df651a",
+            "UserId":"117993",
+            "CloseReasonId":null,
+            "PostId":"116082",
+            "PostHistoryTypeId":"2",
+            "Id":"381508",
+            "Text":"I have a rooted phone and tried to link my play store app to the second partition of my memory card. However, when I wiped the data on the second partition, I forgot to remove the link of my play store app. When I opened my phone again, there's no more google play store app displayed. I tried to install apk file but the system just rejects it. What should I do? Please help me with this."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T09:34:50.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fcd7126-6ac2-47ac-9ebf-8c5581df651a",
+            "UserId":"117993",
+            "CloseReasonId":null,
+            "PostId":"116082",
+            "PostHistoryTypeId":"1",
+            "Id":"381509",
+            "Text":"How to reinstall google play app after deleting it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-23T09:34:50.943",
+            "UserDisplayName":null,
+            "RevisionGUID":"9fcd7126-6ac2-47ac-9ebf-8c5581df651a",
+            "UserId":"117993",
+            "CloseReasonId":null,
+            "PostId":"116082",
+            "PostHistoryTypeId":"3",
+            "Id":"381510",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-23T16:07:04.990",
+            "UserDisplayName":null,
+            "RevisionGUID":"ba39e396-c311-404b-a970-5075210804ef",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"116082",
+            "PostHistoryTypeId":"10",
+            "Id":"381591",
+            "Text":"{\"OriginalQuestionIds\":[26310],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

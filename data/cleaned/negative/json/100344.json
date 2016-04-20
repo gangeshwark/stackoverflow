@@ -1,0 +1,71 @@
+{
+    "Body":"I was totally looking forward for the update but nothing happened, even when I went to look for updates. Weird. It's a Moto X 2nd generation, with Verizon as my provider and hasn't been rooted. I have no idea why it wouldn't update, I tried looking it up but couldn't find any definite answers.At one point since the release I have had to reset my phone, and the update still hasn't happened, so I'm sure that anything that could've been blocking it should be gone, if that's a possibility.I have thought about rooting it, but not only am I unsure of how, I don't know how to tell if my phone'll get bricked.",
+    "ViewCount":"5628",
+    "LastActivityDate":"2015-02-20T10:00:42.603",
+    "ClosedDate":"2015-02-24T14:55:27.310",
+    "Title":"Why won't my phone update to Lolli, and can I force it to?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95129",
+    "CreationDate":"2015-02-20T04:54:32.020",
+    "FavoriteCount":null,
+    "Id":"100344",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T04:54:32.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"075ac494-cb46-4e80-bf46-0ae4023ccacf",
+            "UserId":"95129",
+            "CloseReasonId":null,
+            "PostId":"100344",
+            "PostHistoryTypeId":"2",
+            "Id":"325840",
+            "Text":"I was totally looking forward for the update but nothing happened, even when I went to look for updates. Weird. It's a Moto X 2nd generation, with Verizon as my provider and hasn't been rooted. I have no idea why it wouldn't update, I tried looking it up but couldn't find any definite answers.At one point since the release I have had to reset my phone, and the update still hasn't happened, so I'm sure that anything that could've been blocking it should be gone, if that's a possibility.I have thought about rooting it, but not only am I unsure of how, I don't know how to tell if my phone'll get bricked."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T04:54:32.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"075ac494-cb46-4e80-bf46-0ae4023ccacf",
+            "UserId":"95129",
+            "CloseReasonId":null,
+            "PostId":"100344",
+            "PostHistoryTypeId":"1",
+            "Id":"325841",
+            "Text":"Why won't my phone update to Lolli, and can I force it to?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-20T04:54:32.020",
+            "UserDisplayName":null,
+            "RevisionGUID":"075ac494-cb46-4e80-bf46-0ae4023ccacf",
+            "UserId":"95129",
+            "CloseReasonId":null,
+            "PostId":"100344",
+            "PostHistoryTypeId":"3",
+            "Id":"325842",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-24T14:55:27.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"6ccbaa3e-2cf5-49a0-a2fe-f57c6a950942",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"100344",
+            "PostHistoryTypeId":"10",
+            "Id":"327375",
+            "Text":"{\"OriginalQuestionIds\":[75684],\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

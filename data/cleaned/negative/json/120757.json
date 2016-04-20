@@ -1,0 +1,71 @@
+{
+    "Body":"I am having hard time to play ppt in android device, although many applications boasts for it, but on playing either they show blank slides or skip some parts ex:- title etc for some slide so any one know why this happen and how can I get rid of it ? Although I know easiest way is to make video from ppt and show on android device but for that we need acccess to pc. ",
+    "ViewCount":"71",
+    "LastActivityDate":"2016-01-22T16:36:22.147",
+    "ClosedDate":"2016-01-20T17:32:44.857",
+    "Title":"why any android office software can not play ppt properly",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68400",
+    "CreationDate":"2015-08-30T17:46:14.813",
+    "FavoriteCount":null,
+    "Id":"120757",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-30T17:46:14.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"302b78e0-4dc0-4425-aa28-fad3f375c0b0",
+            "UserId":"68400",
+            "CloseReasonId":null,
+            "PostId":"120757",
+            "PostHistoryTypeId":"2",
+            "Id":"395978",
+            "Text":"I am having hard time to play ppt in android device, although many applications boasts for it, but on playing either they show blank slides or skip some parts ex:- title etc for some slide so any one know why this happen and how can I get rid of it ? Although I know easiest way is to make video from ppt and show on android device but for that we need acccess to pc. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-30T17:46:14.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"302b78e0-4dc0-4425-aa28-fad3f375c0b0",
+            "UserId":"68400",
+            "CloseReasonId":null,
+            "PostId":"120757",
+            "PostHistoryTypeId":"1",
+            "Id":"395979",
+            "Text":"why any android office software can not play ppt properly"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-30T17:46:14.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"302b78e0-4dc0-4425-aa28-fad3f375c0b0",
+            "UserId":"68400",
+            "CloseReasonId":null,
+            "PostId":"120757",
+            "PostHistoryTypeId":"3",
+            "Id":"395980",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-01-20T17:32:44.857",
+            "UserDisplayName":null,
+            "RevisionGUID":"8ca4d8d1-0553-4816-8257-c2e3671cc4d8",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"120757",
+            "PostHistoryTypeId":"10",
+            "Id":"447719",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

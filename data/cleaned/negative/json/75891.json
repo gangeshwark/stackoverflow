@@ -1,0 +1,71 @@
+{
+    "Body":"I am trying to connect my own Google Nexus 5 so that i can debug my Xamarin code from visual studio with it. I have downloaded all the drivers and all that. When i type in adb -d devices if finds my phone. I can do all sorts of things with it from there so the phone is for sure connected to the computer. My problem is how i get the stupid AVD manager to realize that? It just won't find my phone.",
+    "ViewCount":"1348",
+    "LastActivityDate":"2014-07-09T14:16:58.893",
+    "ClosedDate":"2014-07-10T07:33:04.407",
+    "Title":"Visual Studio debug on device",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"75895",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"65891",
+    "CreationDate":"2014-07-09T13:33:31.797",
+    "FavoriteCount":null,
+    "Id":"75891",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-09T13:33:31.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"df62ea04-f479-4f31-b298-20271c9d4e24",
+            "UserId":"65891",
+            "CloseReasonId":null,
+            "PostId":"75891",
+            "PostHistoryTypeId":"2",
+            "Id":"252379",
+            "Text":"I am trying to connect my own Google Nexus 5 so that i can debug my Xamarin code from visual studio with it. I have downloaded all the drivers and all that. When i type in adb -d devices if finds my phone. I can do all sorts of things with it from there so the phone is for sure connected to the computer. My problem is how i get the stupid AVD manager to realize that? It just won't find my phone."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-09T13:33:31.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"df62ea04-f479-4f31-b298-20271c9d4e24",
+            "UserId":"65891",
+            "CloseReasonId":null,
+            "PostId":"75891",
+            "PostHistoryTypeId":"1",
+            "Id":"252380",
+            "Text":"Visual Studio debug on device"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-09T13:33:31.797",
+            "UserDisplayName":null,
+            "RevisionGUID":"df62ea04-f479-4f31-b298-20271c9d4e24",
+            "UserId":"65891",
+            "CloseReasonId":null,
+            "PostId":"75891",
+            "PostHistoryTypeId":"3",
+            "Id":"252381",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-07-10T07:33:04.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"4cca47e5-f1b4-4bd1-b0d0-a2081722d8f3",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"75891",
+            "PostHistoryTypeId":"10",
+            "Id":"253563",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"}]}"
+        }
+    ]
+}

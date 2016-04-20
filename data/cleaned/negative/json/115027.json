@@ -1,0 +1,71 @@
+{
+    "Body":"My facebook account is causing my mobile phone to run slow and it keeps restarting. Is it safe to force stop facebook?",
+    "ViewCount":"97",
+    "LastActivityDate":"2015-07-12T00:48:56.077",
+    "ClosedDate":"2015-07-15T13:39:56.373",
+    "Title":"Will i lose my facebook acount if I force- stop it?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116423",
+    "CreationDate":"2015-07-11T16:49:03.423",
+    "FavoriteCount":null,
+    "Id":"115027",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-11T16:49:03.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ca1b23d-fc17-4c90-a090-5922c2474a2e",
+            "UserId":"116423",
+            "CloseReasonId":null,
+            "PostId":"115027",
+            "PostHistoryTypeId":"2",
+            "Id":"377508",
+            "Text":"My facebook account is causing my mobile phone to run slow and it keeps restarting. Is it safe to force stop facebook?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-11T16:49:03.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ca1b23d-fc17-4c90-a090-5922c2474a2e",
+            "UserId":"116423",
+            "CloseReasonId":null,
+            "PostId":"115027",
+            "PostHistoryTypeId":"1",
+            "Id":"377509",
+            "Text":"Will i lose my facebook acount if I force- stop it?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-11T16:49:03.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ca1b23d-fc17-4c90-a090-5922c2474a2e",
+            "UserId":"116423",
+            "CloseReasonId":null,
+            "PostId":"115027",
+            "PostHistoryTypeId":"3",
+            "Id":"377510",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-15T13:39:56.373",
+            "UserDisplayName":null,
+            "RevisionGUID":"cff50855-9d46-4513-9323-dae35d1c9d72",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"115027",
+            "PostHistoryTypeId":"10",
+            "Id":"378781",
+            "Text":"{\"OriginalQuestionIds\":[33801],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"This happens with me so many times. I want my answer please tell me. IOt will be a great help for me. I believe in stack exchange !!",
+    "ViewCount":"42",
+    "LastActivityDate":"2015-08-18T18:25:17.790",
+    "ClosedDate":"2015-08-19T21:57:31.950",
+    "Title":"what can be the problem behind if my android phone charges just 2-3% in 1 hour?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"119666",
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"120027",
+    "CreationDate":"2015-08-18T17:05:20.980",
+    "FavoriteCount":"1",
+    "Id":"119659",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T17:05:20.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"990844d9-2c74-4365-a9b1-6019f582fcbe",
+            "UserId":"120027",
+            "CloseReasonId":null,
+            "PostId":"119659",
+            "PostHistoryTypeId":"2",
+            "Id":"392007",
+            "Text":"This happens with me so many times. I want my answer please tell me. IOt will be a great help for me. I believe in stack exchange !!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T17:05:20.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"990844d9-2c74-4365-a9b1-6019f582fcbe",
+            "UserId":"120027",
+            "CloseReasonId":null,
+            "PostId":"119659",
+            "PostHistoryTypeId":"1",
+            "Id":"392008",
+            "Text":"what can be the problem behind if my android phone charges just 2-3% in 1 hour?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-18T17:05:20.980",
+            "UserDisplayName":null,
+            "RevisionGUID":"990844d9-2c74-4365-a9b1-6019f582fcbe",
+            "UserId":"120027",
+            "CloseReasonId":null,
+            "PostId":"119659",
+            "PostHistoryTypeId":"3",
+            "Id":"392009",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-08-19T21:57:31.950",
+            "UserDisplayName":null,
+            "RevisionGUID":"31ac1c10-6d96-4521-9085-a79fdf070197",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"119659",
+            "PostHistoryTypeId":"10",
+            "Id":"392408",
+            "Text":"{\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

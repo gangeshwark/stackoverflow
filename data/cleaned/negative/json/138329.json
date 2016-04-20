@@ -1,0 +1,71 @@
+{
+    "Body":"How can I resolve the problem system UI has stopped",
+    "ViewCount":"21",
+    "LastActivityDate":"2016-02-28T03:45:50.663",
+    "ClosedDate":"2016-02-28T18:39:28.260",
+    "Title":"How to resolve problem system UI has stopped",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153668",
+    "CreationDate":"2016-02-28T03:45:50.663",
+    "FavoriteCount":null,
+    "Id":"138329",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T03:45:50.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4005a76-412a-455a-8196-183ac4a15d9a",
+            "UserId":"153668",
+            "CloseReasonId":null,
+            "PostId":"138329",
+            "PostHistoryTypeId":"2",
+            "Id":"462244",
+            "Text":"How can I resolve the problem system UI has stopped"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T03:45:50.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4005a76-412a-455a-8196-183ac4a15d9a",
+            "UserId":"153668",
+            "CloseReasonId":null,
+            "PostId":"138329",
+            "PostHistoryTypeId":"1",
+            "Id":"462245",
+            "Text":"How to resolve problem system UI has stopped"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-28T03:45:50.663",
+            "UserDisplayName":null,
+            "RevisionGUID":"d4005a76-412a-455a-8196-183ac4a15d9a",
+            "UserId":"153668",
+            "CloseReasonId":null,
+            "PostId":"138329",
+            "PostHistoryTypeId":"3",
+            "Id":"462246",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-28T18:39:28.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"7ea51046-0554-4444-80a8-a9ba84f929b6",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138329",
+            "PostHistoryTypeId":"10",
+            "Id":"462376",
+            "Text":"{\"Voters\":[{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

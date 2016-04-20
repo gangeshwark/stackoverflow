@@ -1,0 +1,83 @@
+{
+    "Body":"My phone keeps doing this, and I already moved all my apps to my SIM card, and it says there is a lot of stuff on my internal storage, when there's not.",
+    "ViewCount":"16",
+    "LastActivityDate":"2015-02-24T14:54:03.693",
+    "ClosedDate":"2015-02-24T14:55:04.063",
+    "Title":"How come when I download new apps it goes on my internal storage and says there's not enough efficient space on my device?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-02-24T14:54:03.693",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"95362",
+    "CreationDate":"2015-02-21T22:47:33.237",
+    "FavoriteCount":null,
+    "Id":"100512",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-21T22:47:33.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"5db458c6-a576-4da2-a549-aecfa39464a9",
+            "UserId":"95362",
+            "CloseReasonId":null,
+            "PostId":"100512",
+            "PostHistoryTypeId":"2",
+            "Id":"326484",
+            "Text":"My phone keeps doing this, and I already moved all my apps to my SIM card, and it says there is a lot of stuff on my internal storage, when there's not."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-21T22:47:33.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"5db458c6-a576-4da2-a549-aecfa39464a9",
+            "UserId":"95362",
+            "CloseReasonId":null,
+            "PostId":"100512",
+            "PostHistoryTypeId":"1",
+            "Id":"326485",
+            "Text":"How come when I download new apps it goes on my internal storage and says there's not enough efficient space on my device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-21T22:47:33.237",
+            "UserDisplayName":null,
+            "RevisionGUID":"5db458c6-a576-4da2-a549-aecfa39464a9",
+            "UserId":"95362",
+            "CloseReasonId":null,
+            "PostId":"100512",
+            "PostHistoryTypeId":"3",
+            "Id":"326486",
+            "Text":"<4.4-kitkat>"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-02-24T14:54:03.693",
+            "UserDisplayName":null,
+            "RevisionGUID":"7128ba33-d70b-4527-bf25-43ba981e22ca",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"100512",
+            "PostHistoryTypeId":"6",
+            "Id":"327373",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-02-24T14:55:04.063",
+            "UserDisplayName":null,
+            "RevisionGUID":"b537c7db-fce4-49c4-8ec0-79b6fef297a4",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"100512",
+            "PostHistoryTypeId":"10",
+            "Id":"327374",
+            "Text":"{\"OriginalQuestionIds\":[43036],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

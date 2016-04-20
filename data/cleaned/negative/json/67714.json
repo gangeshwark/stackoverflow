@@ -1,0 +1,83 @@
+{
+    "Body":"I found a lot of info about how to make my smartphone faster but I couldn't find the reason for smartphones lowliness.I found that you should move apps to SD Card (if you have one)Don't use a lot of widgets, try not to use too much home screens.Remove apps that you don't use. Turn off animation.And more stuff like this.But what makes the phone become slow with time?",
+    "ViewCount":"404",
+    "LastActivityDate":"2014-04-17T17:36:17.050",
+    "ClosedDate":"2014-04-19T13:37:44.313",
+    "Title":"why smartphones become laggey and slow with time?",
+    "LastEditorUserId":"5804",
+    "Tags":"",
+    "LastEditDate":"2014-04-17T17:12:01.467",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"5804",
+    "CreationDate":"2014-04-17T17:06:59.177",
+    "FavoriteCount":null,
+    "Id":"67714",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-17T17:06:59.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"8423ff8d-d145-48c8-9df2-cfcfb42c6037",
+            "UserId":"5804",
+            "CloseReasonId":null,
+            "PostId":"67714",
+            "PostHistoryTypeId":"2",
+            "Id":"230816",
+            "Text":"I found a lot of info about how to make my smartphone faster but I couldn't find the reason for smartphones lowliness.I found that you should move apps to SD Card (if you have one)Don't use a lot of widgets, try not to use too much home screens.Remove apps that you don't use. Turn off animation.And more stuff like this.But what makes the phone become slow with time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-17T17:06:59.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"8423ff8d-d145-48c8-9df2-cfcfb42c6037",
+            "UserId":"5804",
+            "CloseReasonId":null,
+            "PostId":"67714",
+            "PostHistoryTypeId":"1",
+            "Id":"230817",
+            "Text":"why smartphones become laggey and slow with time?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-04-17T17:06:59.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"8423ff8d-d145-48c8-9df2-cfcfb42c6037",
+            "UserId":"5804",
+            "CloseReasonId":null,
+            "PostId":"67714",
+            "PostHistoryTypeId":"3",
+            "Id":"230818",
+            "Text":""
+        },
+        {
+            "Comment":"added 11 characters in body",
+            "CreationDate":"2014-04-17T17:12:01.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"ffc74739-dd7f-4f72-ae46-e1d4ba49577c",
+            "UserId":"5804",
+            "CloseReasonId":null,
+            "PostId":"67714",
+            "PostHistoryTypeId":"5",
+            "Id":"230820",
+            "Text":"I found a lot of info about how to make my smartphone faster but I couldn't find the reason for smartphones lowliness. - I found that you should move apps to SD Card (if you have one) - Don't use a lot of widgets, try not to use too much home screens. - Remove apps that you don't use. Turn off animation.And more stuff like this.But what makes the phone become slow with time?"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-04-19T13:37:44.313",
+            "UserDisplayName":null,
+            "RevisionGUID":"9d633f51-1824-4924-9340-2e6df33b4216",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"67714",
+            "PostHistoryTypeId":"10",
+            "Id":"231256",
+            "Text":"{\"OriginalQuestionIds\":[53757],\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

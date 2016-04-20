@@ -1,0 +1,71 @@
+{
+    "Body":"I've just updated Dolphin HD - I'm not sure from which version, but to version 8.5.1. In the previous version I had, swiping left opened a narrow bar with two buttons: one toggled fullscreen mode, and the other opened a tab manager. Now swiping left opens an add-ons pane which has a button to toggle fullscreen mode, a bunch of stuff I don't want, and no button for the tab manager.Is the tab manager still available somewhere? If so, how do I open it?And as a bonus, is there any way to remove the add-ons stuff from the menu that opens when I swipe?",
+    "ViewCount":"108",
+    "LastActivityDate":"2012-07-14T09:21:18.333",
+    "ClosedDate":"2012-12-19T14:59:48.027",
+    "Title":"Where's the tab manager in the latest Dolphin HD?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"16974",
+    "CreationDate":"2012-07-14T09:21:18.333",
+    "FavoriteCount":null,
+    "Id":"25821",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T09:21:18.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b81706d-da2f-4ac4-9974-80fc9bb8fee4",
+            "UserId":"16974",
+            "CloseReasonId":null,
+            "PostId":"25821",
+            "PostHistoryTypeId":"2",
+            "Id":"74659",
+            "Text":"I've just updated Dolphin HD - I'm not sure from which version, but to version 8.5.1. In the previous version I had, swiping left opened a narrow bar with two buttons: one toggled fullscreen mode, and the other opened a tab manager. Now swiping left opens an add-ons pane which has a button to toggle fullscreen mode, a bunch of stuff I don't want, and no button for the tab manager.Is the tab manager still available somewhere? If so, how do I open it?And as a bonus, is there any way to remove the add-ons stuff from the menu that opens when I swipe?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T09:21:18.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b81706d-da2f-4ac4-9974-80fc9bb8fee4",
+            "UserId":"16974",
+            "CloseReasonId":null,
+            "PostId":"25821",
+            "PostHistoryTypeId":"1",
+            "Id":"74660",
+            "Text":"Where's the tab manager in the latest Dolphin HD?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-14T09:21:18.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b81706d-da2f-4ac4-9974-80fc9bb8fee4",
+            "UserId":"16974",
+            "CloseReasonId":null,
+            "PostId":"25821",
+            "PostHistoryTypeId":"3",
+            "Id":"74661",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-19T14:59:48.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"20aa9c66-9c36-42a0-ab2e-8f8be6f01060",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"25821",
+            "PostHistoryTypeId":"10",
+            "Id":"107451",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":482,\"DisplayName\":\"Lie Ryan\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

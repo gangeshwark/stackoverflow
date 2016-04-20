@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Is there an offline maps application for Android?  I've been using google offline maps, however there is an issue that we cannot search. Is there any application for Android that gives you full support for offline map, support like searching, GPS or more. I currently have a google nexus 7.",
+    "ViewCount":"344",
+    "LastActivityDate":"2012-10-14T17:55:23.623",
+    "ClosedDate":"2012-10-14T22:28:20.733",
+    "Title":"Android full support offline map",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15244",
+    "CreationDate":"2012-10-14T17:20:04.597",
+    "FavoriteCount":null,
+    "Id":"31811",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-14T17:20:04.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc5e5491-87db-4770-9f53-1765cecaa329",
+            "UserId":"15244",
+            "CloseReasonId":null,
+            "PostId":"31811",
+            "PostHistoryTypeId":"2",
+            "Id":"93806",
+            "Text":"I've been using google offline maps, however there is an issue that we cannot search. Is there any application for Android that gives you full support for offline map, support like searching, GPS or more. I currently have a google nexus 7."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-14T17:20:04.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc5e5491-87db-4770-9f53-1765cecaa329",
+            "UserId":"15244",
+            "CloseReasonId":null,
+            "PostId":"31811",
+            "PostHistoryTypeId":"1",
+            "Id":"93807",
+            "Text":"Android full support offline map"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-14T17:20:04.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"dc5e5491-87db-4770-9f53-1765cecaa329",
+            "UserId":"15244",
+            "CloseReasonId":null,
+            "PostId":"31811",
+            "PostHistoryTypeId":"3",
+            "Id":"93808",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-10-14T22:28:20.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"91b415cd-985d-452b-8193-bf6296c90dcd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"31811",
+            "PostHistoryTypeId":"5",
+            "Id":"93848",
+            "Text":"> **Possible Duplicate:**  > [Is there an offline maps application for Android?](http:\/\/android.stackexchange.com\/questions\/1624\/is-there-an-offline-maps-application-for-android)  I've been using google offline maps, however there is an issue that we cannot search. Is there any application for Android that gives you full support for offline map, support like searching, GPS or more. I currently have a google nexus 7."
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-10-14T22:28:20.733",
+            "UserDisplayName":null,
+            "RevisionGUID":"8c463875-bfb9-42ee-a48f-00f26fdd38ac",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"31811",
+            "PostHistoryTypeId":"10",
+            "Id":"93849",
+            "Text":"{\"OriginalQuestionIds\":[1624],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

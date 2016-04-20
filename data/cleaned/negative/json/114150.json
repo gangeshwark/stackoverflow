@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a way to stop a particular app from establishing ANY sort of outgoing connections to the internet but I still want the app to be able to use the internet when I want to but still be able to block \"unverified  connections at the same time. Such a thing exists?",
+    "ViewCount":"104",
+    "LastActivityDate":"2015-07-03T09:26:38.397",
+    "ClosedDate":"2015-10-04T16:41:06.350",
+    "Title":"Is it possible to restrict a single app on the S6 from connecting to the internet?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"32491",
+    "CreationDate":"2015-07-03T09:26:38.397",
+    "FavoriteCount":null,
+    "Id":"114150",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-03T09:26:38.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"d59c2cf3-b5de-4d52-8ca4-208fbe250820",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"114150",
+            "PostHistoryTypeId":"2",
+            "Id":"374220",
+            "Text":"Is there a way to stop a particular app from establishing ANY sort of outgoing connections to the internet but I still want the app to be able to use the internet when I want to but still be able to block \"unverified  connections at the same time. Such a thing exists?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-03T09:26:38.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"d59c2cf3-b5de-4d52-8ca4-208fbe250820",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"114150",
+            "PostHistoryTypeId":"1",
+            "Id":"374221",
+            "Text":"Is it possible to restrict a single app on the S6 from connecting to the internet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-03T09:26:38.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"d59c2cf3-b5de-4d52-8ca4-208fbe250820",
+            "UserId":"32491",
+            "CloseReasonId":null,
+            "PostId":"114150",
+            "PostHistoryTypeId":"3",
+            "Id":"374222",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-04T16:41:06.350",
+            "UserDisplayName":null,
+            "RevisionGUID":"52521611-d49a-4cf0-b8c5-89d376efa828",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"114150",
+            "PostHistoryTypeId":"10",
+            "Id":"409171",
+            "Text":"{\"OriginalQuestionIds\":[40924],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

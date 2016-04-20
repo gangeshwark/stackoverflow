@@ -1,0 +1,83 @@
+{
+    "Body":"My device is Micromax a110q. I rooted it and changed my rom to sony pure xperia z2. After changing my rom the data is much more consuming by android os. So help me how to reduce data..",
+    "ViewCount":"54",
+    "LastActivityDate":"2015-03-22T11:59:27.750",
+    "ClosedDate":"2015-03-21T15:27:43.547",
+    "Title":"Consuming lot of data by android os",
+    "LastEditorUserId":"99005",
+    "Tags":"",
+    "LastEditDate":"2015-03-22T11:59:27.750",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99005",
+    "CreationDate":"2015-03-21T04:51:39.257",
+    "FavoriteCount":null,
+    "Id":"103101",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T04:51:39.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b11def-316a-44a2-9f58-dd3e79010d08",
+            "UserId":"99005",
+            "CloseReasonId":null,
+            "PostId":"103101",
+            "PostHistoryTypeId":"2",
+            "Id":"336131",
+            "Text":"My device is Sony xperia z2. The andriod os is draining a lot of data. The consumption of data is too more. so, can u "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T04:51:39.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b11def-316a-44a2-9f58-dd3e79010d08",
+            "UserId":"99005",
+            "CloseReasonId":null,
+            "PostId":"103101",
+            "PostHistoryTypeId":"1",
+            "Id":"336132",
+            "Text":"Consuming lot of data by android os"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-21T04:51:39.257",
+            "UserDisplayName":null,
+            "RevisionGUID":"34b11def-316a-44a2-9f58-dd3e79010d08",
+            "UserId":"99005",
+            "CloseReasonId":null,
+            "PostId":"103101",
+            "PostHistoryTypeId":"3",
+            "Id":"336133",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-21T15:27:43.547",
+            "UserDisplayName":null,
+            "RevisionGUID":"95b2674b-7065-43b8-a22a-960f8ffe44ce",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103101",
+            "PostHistoryTypeId":"10",
+            "Id":"336273",
+            "Text":"{\"OriginalQuestionIds\":[12347],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        },
+        {
+            "Comment":"added 66 characters in body",
+            "CreationDate":"2015-03-22T11:59:27.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"bbc6f980-3676-4587-8fcd-e864e7d359f2",
+            "UserId":"99005",
+            "CloseReasonId":null,
+            "PostId":"103101",
+            "PostHistoryTypeId":"5",
+            "Id":"336493",
+            "Text":"My device is Micromax a110q. I rooted it and changed my rom to sony pure xperia z2. After changing my rom the data is much more consuming by android os. So help me how to reduce data.."
+        }
+    ]
+}

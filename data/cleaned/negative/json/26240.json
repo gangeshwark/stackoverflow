@@ -1,0 +1,71 @@
+{
+    "Body":"I think that auto-correct\/auto-complete will be more useful if the user gets a non-modal indication that something changed.If no app does this, what intent or event would I listen for?(I thought I had posted this, but nothing appears under my name. My apologies if this is a duplicate)",
+    "ViewCount":"22",
+    "LastActivityDate":"2012-07-21T20:50:29.383",
+    "ClosedDate":"2012-12-23T06:41:41.963",
+    "Title":"find or write audio or vibration notification of text auto-correct\/auto-complete",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"188",
+    "CreationDate":"2012-07-21T20:50:29.383",
+    "FavoriteCount":null,
+    "Id":"26240",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-21T20:50:29.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"55ce570c-27c4-456a-b6f2-6830c92284b8",
+            "UserId":"188",
+            "CloseReasonId":null,
+            "PostId":"26240",
+            "PostHistoryTypeId":"2",
+            "Id":"75953",
+            "Text":"I think that auto-correct\/auto-complete will be more useful if the user gets a non-modal indication that something changed.If no app does this, what intent or event would I listen for?(I thought I had posted this, but nothing appears under my name. My apologies if this is a duplicate)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-21T20:50:29.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"55ce570c-27c4-456a-b6f2-6830c92284b8",
+            "UserId":"188",
+            "CloseReasonId":null,
+            "PostId":"26240",
+            "PostHistoryTypeId":"1",
+            "Id":"75954",
+            "Text":"find or write audio or vibration notification of text auto-correct\/auto-complete"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-21T20:50:29.383",
+            "UserDisplayName":null,
+            "RevisionGUID":"55ce570c-27c4-456a-b6f2-6830c92284b8",
+            "UserId":"188",
+            "CloseReasonId":null,
+            "PostId":"26240",
+            "PostHistoryTypeId":"3",
+            "Id":"75955",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-23T06:41:41.963",
+            "UserDisplayName":null,
+            "RevisionGUID":"1be6a715-2deb-4463-ab64-236abad38821",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"26240",
+            "PostHistoryTypeId":"10",
+            "Id":"108409",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"}]}"
+        }
+    ]
+}

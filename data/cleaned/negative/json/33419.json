@@ -1,0 +1,71 @@
+{
+    "Body":"I looked around and even photoshop only change image tint and add kisses stamps...Today I was in need of something that would simple pick a UPS label image and resize the canvas to be a full Letter paper in 300dpi. ..because my printing app insists in always stretching the image to the whole size. resulting in a UPS label larger than the box.I found nothing. Is this so? I don't want to start to write code and then learn I'm the only one not using some cool app.",
+    "ViewCount":"47",
+    "LastActivityDate":"2012-11-15T02:03:35.960",
+    "ClosedDate":"2012-11-15T13:28:12.983",
+    "Title":"app to actually edit an image?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13576",
+    "CreationDate":"2012-11-15T02:03:35.960",
+    "FavoriteCount":"1",
+    "Id":"33419",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-15T02:03:35.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"5df5e975-4c90-4e47-9a7f-a57e33e61edf",
+            "UserId":"13576",
+            "CloseReasonId":null,
+            "PostId":"33419",
+            "PostHistoryTypeId":"2",
+            "Id":"99077",
+            "Text":"I looked around and even photoshop only change image tint and add kisses stamps...Today I was in need of something that would simple pick a UPS label image and resize the canvas to be a full Letter paper in 300dpi. ..because my printing app insists in always stretching the image to the whole size. resulting in a UPS label larger than the box.I found nothing. Is this so? I don't want to start to write code and then learn I'm the only one not using some cool app."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-15T02:03:35.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"5df5e975-4c90-4e47-9a7f-a57e33e61edf",
+            "UserId":"13576",
+            "CloseReasonId":null,
+            "PostId":"33419",
+            "PostHistoryTypeId":"1",
+            "Id":"99078",
+            "Text":"app to actually edit an image?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-15T02:03:35.960",
+            "UserDisplayName":null,
+            "RevisionGUID":"5df5e975-4c90-4e47-9a7f-a57e33e61edf",
+            "UserId":"13576",
+            "CloseReasonId":null,
+            "PostId":"33419",
+            "PostHistoryTypeId":"3",
+            "Id":"99079",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-11-15T13:28:12.983",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f732295-6afd-419c-a023-92ef6ff5cf27",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"33419",
+            "PostHistoryTypeId":"10",
+            "Id":"99156",
+            "Text":"{\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

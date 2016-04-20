@@ -1,0 +1,83 @@
+{
+    "Body":"Numeric entries work, but upon any alpha key press it is not inputted. Can confirm that the keyboard works fine outside VMware. ",
+    "ViewCount":"3",
+    "LastActivityDate":"2016-03-06T01:51:57.103",
+    "ClosedDate":"2016-03-06T02:41:39.683",
+    "Title":"Using chrome rdp on Nexus 6p to access a Windows 10 machine running VMware with Ubuntu 14. Why doesn't the Ubuntu login screen recognize alpha input?",
+    "LastEditorUserId":"154773",
+    "Tags":"",
+    "LastEditDate":"2016-03-06T01:51:57.103",
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154773",
+    "CreationDate":"2016-03-06T01:35:37.013",
+    "FavoriteCount":null,
+    "Id":"138917",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T01:35:37.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"993cf581-966f-45eb-907c-c1455db30072",
+            "UserId":"154773",
+            "CloseReasonId":null,
+            "PostId":"138917",
+            "PostHistoryTypeId":"2",
+            "Id":"464575",
+            "Text":"Numeric entries work, but upon any alpha key press it is not inputted. Can confirm that the keyboard works fine outside VMware. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T01:35:37.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"993cf581-966f-45eb-907c-c1455db30072",
+            "UserId":"154773",
+            "CloseReasonId":null,
+            "PostId":"138917",
+            "PostHistoryTypeId":"1",
+            "Id":"464576",
+            "Text":"Using chrome rdp to access a Windows 10 machine running VMware with Ubuntu 14. Why doesn't the Ubuntu login screen recognize alpha input?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-06T01:35:37.013",
+            "UserDisplayName":null,
+            "RevisionGUID":"993cf581-966f-45eb-907c-c1455db30072",
+            "UserId":"154773",
+            "CloseReasonId":null,
+            "PostId":"138917",
+            "PostHistoryTypeId":"3",
+            "Id":"464577",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2016-03-06T01:51:57.103",
+            "UserDisplayName":null,
+            "RevisionGUID":"f53d9b57-8d21-467e-81a3-79440f530602",
+            "UserId":"154773",
+            "CloseReasonId":null,
+            "PostId":"138917",
+            "PostHistoryTypeId":"4",
+            "Id":"464578",
+            "Text":"Using chrome rdp on Nexus 6p to access a Windows 10 machine running VMware with Ubuntu 14. Why doesn't the Ubuntu login screen recognize alpha input?"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-06T02:41:39.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"47370d24-666b-417f-a1a4-894f96ea0a0f",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138917",
+            "PostHistoryTypeId":"10",
+            "Id":"464584",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

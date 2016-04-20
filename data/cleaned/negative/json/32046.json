@@ -1,0 +1,71 @@
+{
+    "Body":"Is there a way to get a list with all the apps in google play?And if so is there a way to find the SDK from any app created there?",
+    "ViewCount":"206",
+    "LastActivityDate":"2012-10-19T14:26:41.867",
+    "ClosedDate":"2012-10-22T17:34:40.040",
+    "Title":"How to get full list of apps in play-store",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"22617",
+    "CreationDate":"2012-10-19T12:51:00.973",
+    "FavoriteCount":null,
+    "Id":"32046",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-19T12:51:00.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fe398ad-d713-4f77-b65f-6632237fc27d",
+            "UserId":"22617",
+            "CloseReasonId":null,
+            "PostId":"32046",
+            "PostHistoryTypeId":"2",
+            "Id":"94664",
+            "Text":"Is there a way to get a list with all the apps in google play?And if so is there a way to find the SDK from any app created there?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-19T12:51:00.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fe398ad-d713-4f77-b65f-6632237fc27d",
+            "UserId":"22617",
+            "CloseReasonId":null,
+            "PostId":"32046",
+            "PostHistoryTypeId":"1",
+            "Id":"94665",
+            "Text":"How to get full list of apps in play-store"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-10-19T12:51:00.973",
+            "UserDisplayName":null,
+            "RevisionGUID":"7fe398ad-d713-4f77-b65f-6632237fc27d",
+            "UserId":"22617",
+            "CloseReasonId":null,
+            "PostId":"32046",
+            "PostHistoryTypeId":"3",
+            "Id":"94666",
+            "Text":""
+        },
+        {
+            "Comment":"4",
+            "CreationDate":"2012-10-22T17:34:40.040",
+            "UserDisplayName":null,
+            "RevisionGUID":"24ae863f-2334-45cd-bf2d-324ccfc62880",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"32046",
+            "PostHistoryTypeId":"10",
+            "Id":"95242",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

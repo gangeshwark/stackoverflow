@@ -1,0 +1,71 @@
+{
+    "Body":"Can I uninstall a preloaded app I want to remove flip board but it pops up with a warning that it may cause problems with other apps?",
+    "ViewCount":"25",
+    "LastActivityDate":"2015-08-28T17:06:22.627",
+    "ClosedDate":"2015-08-29T05:07:35.300",
+    "Title":"Samsung galaxy s3 app removal",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"120583",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"124108",
+    "CreationDate":"2015-08-28T14:45:31.210",
+    "FavoriteCount":null,
+    "Id":"120568",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-28T14:45:31.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0783c45-4840-47dd-9f83-7798bb114984",
+            "UserId":"124108",
+            "CloseReasonId":null,
+            "PostId":"120568",
+            "PostHistoryTypeId":"2",
+            "Id":"395314",
+            "Text":"Can I uninstall a preloaded app I want to remove flip board but it pops up with a warning that it may cause problems with other apps?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-28T14:45:31.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0783c45-4840-47dd-9f83-7798bb114984",
+            "UserId":"124108",
+            "CloseReasonId":null,
+            "PostId":"120568",
+            "PostHistoryTypeId":"1",
+            "Id":"395315",
+            "Text":"Samsung galaxy s3 app removal"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-28T14:45:31.210",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0783c45-4840-47dd-9f83-7798bb114984",
+            "UserId":"124108",
+            "CloseReasonId":null,
+            "PostId":"120568",
+            "PostHistoryTypeId":"3",
+            "Id":"395316",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-29T05:07:35.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"79aa2cc1-2528-4b3b-8e53-d6d9e241a4cb",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"120568",
+            "PostHistoryTypeId":"10",
+            "Id":"395545",
+            "Text":"{\"OriginalQuestionIds\":[29495],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Easiest way for testing the internal GPS  My new Samsung Galaxy i5500 (or Galaxy 5 or whatever other name they confuse us with) (android 2.1) has a build-in GPS. However, I somehow think it is not working correctly or at all. Whenever I use Google Maps (in open air) and select 'My Location' the GPS icon appears in the top bar but keeps blinking (I waited several minutes), and it seems my location is only determined using wifi or mobile network wizardry.Can I somehow easily check if the build-in GPS is working correctly? Is there some page that shows the longitude\/latitude location it has received from the GPS?(BTW: turning on the GPS in the power bar, or in the settings page, does work, but still leaves me puzzled if the GPS actually works)",
+    "ViewCount":"1695",
+    "LastActivityDate":"2011-04-14T16:27:03.673",
+    "ClosedDate":"2011-04-14T16:14:27.917",
+    "Title":"How to check if GPS is working (Android 2.1, Samsung Galaxy-5)?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"8302",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"4336",
+    "CreationDate":"2011-04-14T16:02:40.467",
+    "FavoriteCount":"1",
+    "Id":"8299",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-14T16:02:40.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0168866-0cef-4567-bc1c-86f5338390b1",
+            "UserId":"4336",
+            "CloseReasonId":null,
+            "PostId":"8299",
+            "PostHistoryTypeId":"2",
+            "Id":"20019",
+            "Text":"My new Samsung Galaxy i5500 (or Galaxy 5 or [whatever other name they confuse us with][1]) (android 2.1) has a build-in GPS. However, I somehow think it is not working correctly or at all. Whenever I use Google Maps (in open air) and select 'My Location' the GPS icon appears in the top bar but keeps blinking (I waited several minutes), and it seems my location is only determined using wifi or mobile network wizardry.Can I somehow easily check if the build-in GPS is working correctly? Is there some page that shows the longitude\/latitude location it has received from the GPS?(BTW: turning on the GPS in the power bar, or in the settings page, does work, but still leaves me puzzled if the GPS actually works)  [1]: http:\/\/en.wikipedia.org\/wiki\/Samsung_i5500"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-14T16:02:40.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0168866-0cef-4567-bc1c-86f5338390b1",
+            "UserId":"4336",
+            "CloseReasonId":null,
+            "PostId":"8299",
+            "PostHistoryTypeId":"1",
+            "Id":"20020",
+            "Text":"How to check if GPS is working (Android 2.1, Samsung Galaxy-5) ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-14T16:02:40.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"c0168866-0cef-4567-bc1c-86f5338390b1",
+            "UserId":"4336",
+            "CloseReasonId":null,
+            "PostId":"8299",
+            "PostHistoryTypeId":"3",
+            "Id":"20021",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-04-14T16:14:28.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"03aef835-69c6-434b-b518-b7b5137017ae",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"8299",
+            "PostHistoryTypeId":"5",
+            "Id":"20027",
+            "Text":"> **Possible Duplicate:**  > [Easiest way for testing the internal GPS](http:\/\/android.stackexchange.com\/questions\/4996\/easiest-way-for-testing-the-internal-gps)  My new Samsung Galaxy i5500 (or Galaxy 5 or [whatever other name they confuse us with][1]) (android 2.1) has a build-in GPS. However, I somehow think it is not working correctly or at all. Whenever I use Google Maps (in open air) and select 'My Location' the GPS icon appears in the top bar but keeps blinking (I waited several minutes), and it seems my location is only determined using wifi or mobile network wizardry.Can I somehow easily check if the build-in GPS is working correctly? Is there some page that shows the longitude\/latitude location it has received from the GPS?(BTW: turning on the GPS in the power bar, or in the settings page, does work, but still leaves me puzzled if the GPS actually works)  [1]: http:\/\/en.wikipedia.org\/wiki\/Samsung_i5500"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-04-14T16:14:27.917",
+            "UserDisplayName":null,
+            "RevisionGUID":"752be46e-2946-4b49-a0be-0e79ca537f4b",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"8299",
+            "PostHistoryTypeId":"10",
+            "Id":"20028",
+            "Text":"{\"OriginalQuestionIds\":[4996],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"}]}"
+        }
+    ]
+}

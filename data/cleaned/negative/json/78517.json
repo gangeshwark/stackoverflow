@@ -1,0 +1,71 @@
+{
+    "Body":"I got a smartphone on android, and when it is attached trough USB to my computer (windows or linux), I'd like to have it ring or do notifications in the headphones of the computer.Is there a way to do it ?",
+    "ViewCount":"55",
+    "LastActivityDate":"2014-08-01T12:01:00.647",
+    "ClosedDate":"2014-08-04T10:37:52.363",
+    "Title":"Smartphone on usb rings on computer",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"68649",
+    "CreationDate":"2014-08-01T07:26:58.207",
+    "FavoriteCount":null,
+    "Id":"78517",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T07:26:58.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"078c8133-8739-4573-aa01-fc43dcdcb2ac",
+            "UserId":"68649",
+            "CloseReasonId":null,
+            "PostId":"78517",
+            "PostHistoryTypeId":"2",
+            "Id":"258976",
+            "Text":"I got a smartphone on android, and when it is attached trough USB to my computer (windows or linux), I'd like to have it ring or do notifications in the headphones of the computer.Is there a way to do it ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T07:26:58.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"078c8133-8739-4573-aa01-fc43dcdcb2ac",
+            "UserId":"68649",
+            "CloseReasonId":null,
+            "PostId":"78517",
+            "PostHistoryTypeId":"1",
+            "Id":"258977",
+            "Text":"Smartphone on usb rings on computer"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-08-01T07:26:58.207",
+            "UserDisplayName":null,
+            "RevisionGUID":"078c8133-8739-4573-aa01-fc43dcdcb2ac",
+            "UserId":"68649",
+            "CloseReasonId":null,
+            "PostId":"78517",
+            "PostHistoryTypeId":"3",
+            "Id":"258978",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-08-04T10:37:52.363",
+            "UserDisplayName":null,
+            "RevisionGUID":"17009c6f-4773-400a-905c-3d1aed02159b",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"78517",
+            "PostHistoryTypeId":"10",
+            "Id":"259677",
+            "Text":"{\"OriginalQuestionIds\":[54337],\"Voters\":[{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

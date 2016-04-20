@@ -1,0 +1,71 @@
+{
+    "Body":"I have read through other places with similar questions and still cannot find a clue. My phone is still working (e.g. power button and able to turn on and off) but my touch screen isn't due to a crash. I haven't sync all of my things in micloud and I want to get it back. The main problem is I haven't enabled the USB debugging before I got my phone crashed. Therefore I cannot use the ADB to take control of my phone so as to access my files. All my things are stored in the internal storage of my phone as the phone doesn't require any sd card. Can someone please help ? ",
+    "ViewCount":"1990",
+    "LastActivityDate":"2014-07-11T09:33:50.953",
+    "ClosedDate":"2014-07-11T14:58:26.883",
+    "Title":"How to get back my files from my Xiaomi mi 3 with broken touch screen?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67041",
+    "CreationDate":"2014-07-11T09:33:50.953",
+    "FavoriteCount":null,
+    "Id":"77015",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-11T09:33:50.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"e816ca2a-acb9-429e-a56b-30ce509b3da1",
+            "UserId":"67041",
+            "CloseReasonId":null,
+            "PostId":"77015",
+            "PostHistoryTypeId":"2",
+            "Id":"253821",
+            "Text":"I have read through other places with similar questions and still cannot find a clue. My phone is still working (e.g. power button and able to turn on and off) but my touch screen isn't due to a crash. I haven't sync all of my things in micloud and I want to get it back. The main problem is I haven't enabled the USB debugging before I got my phone crashed. Therefore I cannot use the ADB to take control of my phone so as to access my files. All my things are stored in the internal storage of my phone as the phone doesn't require any sd card. Can someone please help ? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-11T09:33:50.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"e816ca2a-acb9-429e-a56b-30ce509b3da1",
+            "UserId":"67041",
+            "CloseReasonId":null,
+            "PostId":"77015",
+            "PostHistoryTypeId":"1",
+            "Id":"253822",
+            "Text":"How to get back my files from my Xiaomi mi 3 with broken touch screen?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-11T09:33:50.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"e816ca2a-acb9-429e-a56b-30ce509b3da1",
+            "UserId":"67041",
+            "CloseReasonId":null,
+            "PostId":"77015",
+            "PostHistoryTypeId":"3",
+            "Id":"253823",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-11T14:58:26.883",
+            "UserDisplayName":null,
+            "RevisionGUID":"7dcea422-5f4c-4ddf-8c74-39d2044b97e8",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77015",
+            "PostHistoryTypeId":"10",
+            "Id":"253885",
+            "Text":"{\"OriginalQuestionIds\":[12834,25646],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

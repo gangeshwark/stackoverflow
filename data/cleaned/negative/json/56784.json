@@ -1,0 +1,71 @@
+{
+    "Body":"I has happened 4 times now, I change some setting, delete the sheet open in the app from the PC, create a wrong function, and from then on, the Google Drive app crashes on start. I can not close the faulty document, so it keeps happening until I remove the application. You would think a restart of the phone should help, but it does not.Is there a setting somewhere that lets me open the list instead of the most recent document?",
+    "ViewCount":"652",
+    "LastActivityDate":"2013-11-26T12:20:50.580",
+    "ClosedDate":"2013-11-28T09:13:43.597",
+    "Title":"Google Drive crashes on start",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"28716",
+    "CreationDate":"2013-11-11T14:09:38.230",
+    "FavoriteCount":null,
+    "Id":"56784",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-11T14:09:38.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"a868606f-c15e-422a-a761-e5044c20e782",
+            "UserId":"28716",
+            "CloseReasonId":null,
+            "PostId":"56784",
+            "PostHistoryTypeId":"2",
+            "Id":"190262",
+            "Text":"I has happened 4 times now, I change some setting, delete the sheet open in the app from the PC, create a wrong function, and from then on, the Google Drive app crashes on start. I can not close the faulty document, so it keeps happening until I remove the application. You would think a restart of the phone should help, but it does not.Is there a setting somewhere that lets me open the list instead of the most recent document?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-11T14:09:38.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"a868606f-c15e-422a-a761-e5044c20e782",
+            "UserId":"28716",
+            "CloseReasonId":null,
+            "PostId":"56784",
+            "PostHistoryTypeId":"1",
+            "Id":"190263",
+            "Text":"Google Drive crashes on start"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-11T14:09:38.230",
+            "UserDisplayName":null,
+            "RevisionGUID":"a868606f-c15e-422a-a761-e5044c20e782",
+            "UserId":"28716",
+            "CloseReasonId":null,
+            "PostId":"56784",
+            "PostHistoryTypeId":"3",
+            "Id":"190264",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-28T09:13:43.597",
+            "UserDisplayName":null,
+            "RevisionGUID":"fbb5fc23-bf3e-4bab-be5e-8df685c5e744",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"56784",
+            "PostHistoryTypeId":"10",
+            "Id":"194451",
+            "Text":"{\"OriginalQuestionIds\":[13347],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

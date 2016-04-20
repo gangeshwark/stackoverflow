@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Can I install Android on my non-Android device?  Is it possible to install ICS in Blackberry playbook ?If so is it possible to revert back to Stock ROM ?",
+    "ViewCount":"12",
+    "LastActivityDate":"2012-05-27T10:31:19.323",
+    "ClosedDate":"2012-05-27T14:26:20.053",
+    "Title":"Is it possible to install ICS in BlackBerry Playbook",
+    "LastEditorUserId":null,
+    "Tags":"<4.0-ice-cream-sandwich>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"14860",
+    "CreationDate":"2012-05-27T10:31:19.323",
+    "FavoriteCount":null,
+    "Id":"23515",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-27T10:31:19.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c93144d-315d-411c-9929-34731e67ae9e",
+            "UserId":"14860",
+            "CloseReasonId":null,
+            "PostId":"23515",
+            "PostHistoryTypeId":"2",
+            "Id":"66955",
+            "Text":"Is it possible to install ICS in Blackberry playbook ?If so is it possible to revert back to Stock ROM ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-27T10:31:19.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c93144d-315d-411c-9929-34731e67ae9e",
+            "UserId":"14860",
+            "CloseReasonId":null,
+            "PostId":"23515",
+            "PostHistoryTypeId":"1",
+            "Id":"66956",
+            "Text":"Is it possible to install ICS in BlackBerry Playbook"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-05-27T10:31:19.323",
+            "UserDisplayName":null,
+            "RevisionGUID":"0c93144d-315d-411c-9929-34731e67ae9e",
+            "UserId":"14860",
+            "CloseReasonId":null,
+            "PostId":"23515",
+            "PostHistoryTypeId":"3",
+            "Id":"66957",
+            "Text":"<4.0-ice-cream-sandwich>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-05-27T14:26:23.190",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ae56b6f-9b0d-4230-beb5-b67680ac8c29",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"23515",
+            "PostHistoryTypeId":"5",
+            "Id":"66974",
+            "Text":"> **Possible Duplicate:**  > [Can I install Android on my non-Android device?](http:\/\/android.stackexchange.com\/questions\/6849\/can-i-install-android-on-my-non-android-device)  Is it possible to install ICS in Blackberry playbook ?If so is it possible to revert back to Stock ROM ?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-05-27T14:26:20.053",
+            "UserDisplayName":null,
+            "RevisionGUID":"49cbcbf3-1066-42da-822a-66b0281ff057",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"23515",
+            "PostHistoryTypeId":"10",
+            "Id":"66975",
+            "Text":"{\"OriginalQuestionIds\":[6849],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"So I have an android phone, and I wanted to download some files on it that are not currently accessible from my PC (corporate firewall).  The thinking is that once the files are on the phone, I can easily connect the PC to the phone to access the files.  The problem I have is that the phone refuses to download the files, claiming that \"Cannot Download.  The content is not supported on this phone.\"So how can I get the content onto the phone?  I know the phone will be unable to run these files meaningfully;  I just want them downloaded and stored for later access.",
+    "ViewCount":"1412",
+    "LastActivityDate":"2012-07-12T16:35:32.543",
+    "ClosedDate":"2013-02-19T22:20:41.587",
+    "Title":"How can I download arbitrary files to the SD card on my phone?",
+    "LastEditorUserId":"981",
+    "Tags":"",
+    "LastEditDate":"2012-07-12T16:35:32.543",
+    "CommentCount":"0",
+    "AnswerCount":"3",
+    "AcceptedAnswerId":"2249",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"706",
+    "CreationDate":"2010-10-18T14:04:58.340",
+    "FavoriteCount":"1",
+    "Id":"2245",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-10-18T14:04:58.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"e93dd017-9421-4f82-9897-ee5f5de2bd7c",
+            "UserId":"706",
+            "CloseReasonId":null,
+            "PostId":"2245",
+            "PostHistoryTypeId":"2",
+            "Id":"4458",
+            "Text":"So I have an android phone, and I wanted to download some files on it that are not currently accessible from my PC (corporate firewall).  The thinking is that once the files are on the phone, I can easily connect the PC to the phone to access the files.  The problem I have is that the phone refuses to download the files, claiming that     \"Cannot Download.  The content is not supported on this phone.\"So how can I get the content onto the phone?  I know the phone will be unable to run these files meaningfully;  I just want them downloaded and stored for later access."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-10-18T14:04:58.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"e93dd017-9421-4f82-9897-ee5f5de2bd7c",
+            "UserId":"706",
+            "CloseReasonId":null,
+            "PostId":"2245",
+            "PostHistoryTypeId":"1",
+            "Id":"4459",
+            "Text":"How can I download arbitrary files to the SD card on my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-10-18T14:04:58.340",
+            "UserDisplayName":null,
+            "RevisionGUID":"e93dd017-9421-4f82-9897-ee5f5de2bd7c",
+            "UserId":"706",
+            "CloseReasonId":null,
+            "PostId":"2245",
+            "PostHistoryTypeId":"3",
+            "Id":"4460",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2012-07-12T16:35:32.543",
+            "UserDisplayName":null,
+            "RevisionGUID":"a31ac8f3-8dca-4986-b8be-1e9719cada31",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"2245",
+            "PostHistoryTypeId":"6",
+            "Id":"74360",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-19T22:20:41.587",
+            "UserDisplayName":null,
+            "RevisionGUID":"965c5476-ad59-4d1a-8628-eb7254b76121",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"2245",
+            "PostHistoryTypeId":"10",
+            "Id":"124070",
+            "Text":"{\"OriginalQuestionIds\":[9361],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

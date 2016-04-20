@@ -1,0 +1,71 @@
+{
+    "Body":"Not sure how to phrase this, but the Play Store's online interface reports whether or not an application is compatible with the devices you own, marked by a checkmark or a cross next to each individual device whenever you try to install it. Would it be possible to force an entry into the account's device list, or use an external tool to see what devices a specific application is compatible with?For example, make the Play Store think that my account has a Nexus 4 or a Galaxy S2, in order to check whether an application I'm trying to install would be compatible with the Nexus 4 or the Galaxy S2. To have some context, I'm planning on buying a new device and I want to check whether or not the applications not compatible with my current one could be installed from the market.It's also fine if I could make my current, registered device be recognized as a different one (not sure if editing the build.prop list on my phone would actually work for this).",
+    "ViewCount":"52",
+    "LastActivityDate":"2013-11-15T18:47:22.350",
+    "ClosedDate":"2013-11-16T01:08:24.487",
+    "Title":"Is there a way to see what what devices an application is compatible with in the Play Store?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"46288",
+    "CreationDate":"2013-11-15T18:06:08.120",
+    "FavoriteCount":null,
+    "Id":"57091",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-15T18:06:08.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"2369726e-353b-453b-a828-b9b5fc7f300b",
+            "UserId":"46288",
+            "CloseReasonId":null,
+            "PostId":"57091",
+            "PostHistoryTypeId":"2",
+            "Id":"191402",
+            "Text":"Not sure how to phrase this, but the Play Store's online interface reports whether or not an application is compatible with the devices you own, marked by a checkmark or a cross next to each individual device whenever you try to install it. Would it be possible to force an entry into the account's device list, or use an external tool to see what devices a specific application is compatible with?For example, make the Play Store think that my account has a Nexus 4 or a Galaxy S2, in order to check whether an application I'm trying to install would be compatible with the Nexus 4 or the Galaxy S2. To have some context, I'm planning on buying a new device and I want to check whether or not the applications not compatible with my current one could be installed from the market.It's also fine if I could make my current, registered device be recognized as a different one (not sure if editing the build.prop list on my phone would actually work for this)."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-15T18:06:08.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"2369726e-353b-453b-a828-b9b5fc7f300b",
+            "UserId":"46288",
+            "CloseReasonId":null,
+            "PostId":"57091",
+            "PostHistoryTypeId":"1",
+            "Id":"191403",
+            "Text":"Is there a way to see what what devices an application is compatible with in the Play Store?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-15T18:06:08.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"2369726e-353b-453b-a828-b9b5fc7f300b",
+            "UserId":"46288",
+            "CloseReasonId":null,
+            "PostId":"57091",
+            "PostHistoryTypeId":"3",
+            "Id":"191404",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-16T01:08:24.487",
+            "UserDisplayName":null,
+            "RevisionGUID":"7261a819-f803-4ccf-932d-9e60947bed7b",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"57091",
+            "PostHistoryTypeId":"10",
+            "Id":"191459",
+            "Text":"{\"OriginalQuestionIds\":[55733],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I can only find a USB travel charger for my S5 G900V and it's for a i9600. Is it compatible without harming my battery? ",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-05-26T19:16:48.287",
+    "ClosedDate":"2015-05-27T14:27:45.120",
+    "Title":"I have a S5 G900V. what's the difference from a i9600? Are the chargers compatible without harming my battery?",
+    "LastEditorUserId":null,
+    "Tags":"<5.0-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"110210",
+    "CreationDate":"2015-05-26T19:16:48.287",
+    "FavoriteCount":null,
+    "Id":"110417",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-26T19:16:48.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"595aad0c-e4dd-4b17-9940-40509776e0b9",
+            "UserId":"110210",
+            "CloseReasonId":null,
+            "PostId":"110417",
+            "PostHistoryTypeId":"2",
+            "Id":"360755",
+            "Text":"I can only find a USB travel charger for my S5 G900V and it's for a i9600. Is it compatible without harming my battery? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-26T19:16:48.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"595aad0c-e4dd-4b17-9940-40509776e0b9",
+            "UserId":"110210",
+            "CloseReasonId":null,
+            "PostId":"110417",
+            "PostHistoryTypeId":"1",
+            "Id":"360756",
+            "Text":"I have a S5 G900V. what's the difference from a i9600? Are the chargers compatible without harming my battery?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-26T19:16:48.287",
+            "UserDisplayName":null,
+            "RevisionGUID":"595aad0c-e4dd-4b17-9940-40509776e0b9",
+            "UserId":"110210",
+            "CloseReasonId":null,
+            "PostId":"110417",
+            "PostHistoryTypeId":"3",
+            "Id":"360757",
+            "Text":"<5.0-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-27T14:27:45.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"e19bcf72-8652-4eba-a42e-dbcffe821fae",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"110417",
+            "PostHistoryTypeId":"10",
+            "Id":"361055",
+            "Text":"{\"OriginalQuestionIds\":[13448],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

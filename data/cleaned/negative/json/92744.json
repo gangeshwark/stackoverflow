@@ -1,0 +1,83 @@
+{
+    "Body":"I am following the steps given on the following cynogenmod official page.Step as given here.And  i am stuck on the get prebuilts apps as there is no such a script as get-prebuilts in the \/android\/system\/vendor\/cm directory.I tried to proceed further and executed the following queries> $ source build\/envsetup.sh > $ breakfast nickiProblem is at the next step in which the script extract-files.sh does not execute properly giving following output,root@rnt-U410:~\/android\/system\/device\/sony\/nicki# .\/extract-files.sh .\/extract-files.sh: line 11: ..\/common\/extract-files.sh: No such file or directory.\/extract-files.sh: line 13: ..\/common\/setup-makefiles.sh: No such file or directory.\/setup-makefiles.sh: line 37: ..\/..\/..\/vendor\/sony\/nicki\/Android.mk: No such file or directoryroot@rnt-U410:~\/android\/system\/device\/sony\/nicki# I did not proceed further. Please put some light on this. I am totally new to building roms and nightlies.Thank you in advance.",
+    "ViewCount":"300",
+    "LastActivityDate":"2014-12-25T18:32:21.710",
+    "ClosedDate":"2014-12-28T23:56:12.723",
+    "Title":"Build CyanogenMod ROM for Sony Xperia M or any other android phone",
+    "LastEditorUserId":"86391",
+    "Tags":"",
+    "LastEditDate":"2014-12-25T18:32:21.710",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86391",
+    "CreationDate":"2014-12-25T16:56:41.803",
+    "FavoriteCount":null,
+    "Id":"92744",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-25T16:56:41.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5897cb9-4a41-4d99-92b0-b79154c5fdef",
+            "UserId":"86391",
+            "CloseReasonId":null,
+            "PostId":"92744",
+            "PostHistoryTypeId":"2",
+            "Id":"304022",
+            "Text":"I am following the steps given on the following cynogenmod official page.[Step as given here.][1]And  i am stuck on the get prebuilts apps as there is no such a script as get-prebuilts in the \/android\/system\/vendor\/cm directory.I tried to proceed further and executed the following queries    > $ source build\/envsetup.sh     > $ breakfast nickiProblem is at the next step in which the script extract-files.sh does not execute properly giving following output,    root@rnt-U410:~\/android\/system\/device\/sony\/nicki# .\/extract-files.sh     .\/extract-files.sh: line 11: ..\/common\/extract-files.sh: No such file or directory    .\/extract-files.sh: line 13: ..\/common\/setup-makefiles.sh: No such file or directory    .\/setup-makefiles.sh: line 37: ..\/..\/..\/vendor\/sony\/nicki\/Android.mk: No such file or directory    root@rnt-U410:~\/android\/system\/device\/sony\/nicki# I did not proceed further. Please put some light on this. I am totally new to building roms and nightlies.Thank you in advance.  [1]: http:\/\/wiki.cyanogenmod.org\/w\/Build_for_nicki"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-25T16:56:41.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5897cb9-4a41-4d99-92b0-b79154c5fdef",
+            "UserId":"86391",
+            "CloseReasonId":null,
+            "PostId":"92744",
+            "PostHistoryTypeId":"1",
+            "Id":"304023",
+            "Text":"Build CyanogenMod Android for Sony Xperia M or any other android phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-25T16:56:41.803",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5897cb9-4a41-4d99-92b0-b79154c5fdef",
+            "UserId":"86391",
+            "CloseReasonId":null,
+            "PostId":"92744",
+            "PostHistoryTypeId":"3",
+            "Id":"304024",
+            "Text":""
+        },
+        {
+            "Comment":"edited title",
+            "CreationDate":"2014-12-25T18:32:21.710",
+            "UserDisplayName":null,
+            "RevisionGUID":"9754707e-d28c-4f33-aba4-32f653d4f904",
+            "UserId":"86391",
+            "CloseReasonId":null,
+            "PostId":"92744",
+            "PostHistoryTypeId":"4",
+            "Id":"304059",
+            "Text":"Build CyanogenMod ROM for Sony Xperia M or any other android phone"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-28T23:56:12.723",
+            "UserDisplayName":null,
+            "RevisionGUID":"5784d05d-b5c5-490f-8d47-9537292b0910",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"92744",
+            "PostHistoryTypeId":"10",
+            "Id":"305175",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

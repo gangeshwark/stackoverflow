@@ -1,0 +1,71 @@
+{
+    "Body":"I guess this has to do with our habit on desktop computers where weopen an applicationuse itclose the applicationAFAIK there's no direct way from within the application to close it. And by pressing the Home button app just gets into the background. Still running.I got a habit of pressing Home, then Recent apps and flicking all open apps out.Is this a bad habit? Should I leave applications like GMail, FB, Currents, GNow, etc. running or is it better to close them and have as less apps as possible running?",
+    "ViewCount":"2044",
+    "LastActivityDate":"2012-09-07T11:37:39.970",
+    "ClosedDate":"2013-11-29T13:55:29.713",
+    "Title":"Closing applications",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"4",
+    "AnswerCount":"4",
+    "AcceptedAnswerId":"28900",
+    "Score":"5",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18690",
+    "CreationDate":"2012-09-06T23:13:50.610",
+    "FavoriteCount":null,
+    "Id":"28891",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T23:13:50.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"e47c7072-c85a-4a2b-a027-9c7a8bbfe8ca",
+            "UserId":"18690",
+            "CloseReasonId":null,
+            "PostId":"28891",
+            "PostHistoryTypeId":"2",
+            "Id":"84662",
+            "Text":"I guess this has to do with our habit on desktop computers where we1. open an application2. use it3. close the applicationAFAIK there's no direct way from within the application to close it. And by pressing the Home button app just gets into the background. Still running.I got a habit of pressing Home, then Recent apps and flicking all open apps out.Is this a bad habit? Should I leave applications like GMail, FB, Currents, GNow, etc. running or is it better to close them and have as less apps as possible running?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T23:13:50.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"e47c7072-c85a-4a2b-a027-9c7a8bbfe8ca",
+            "UserId":"18690",
+            "CloseReasonId":null,
+            "PostId":"28891",
+            "PostHistoryTypeId":"1",
+            "Id":"84663",
+            "Text":"Closing applications"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T23:13:50.610",
+            "UserDisplayName":null,
+            "RevisionGUID":"e47c7072-c85a-4a2b-a027-9c7a8bbfe8ca",
+            "UserId":"18690",
+            "CloseReasonId":null,
+            "PostId":"28891",
+            "PostHistoryTypeId":"3",
+            "Id":"84664",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-11-29T13:55:29.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"daf5b247-57e4-41ba-ad2f-4e5298c3270c",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"28891",
+            "PostHistoryTypeId":"10",
+            "Id":"194736",
+            "Text":"{\"OriginalQuestionIds\":[927],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

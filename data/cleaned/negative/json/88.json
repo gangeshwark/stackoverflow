@@ -1,0 +1,83 @@
+{
+    "Body":"I know about Astro Player. Any other apps that feature podcast managment and variable speed playback?",
+    "ViewCount":"4958",
+    "LastActivityDate":"2013-10-18T00:20:32.673",
+    "ClosedDate":"2014-12-18T17:38:39.110",
+    "Title":"What podcast apps include variable speed playback?",
+    "LastEditorUserId":"36",
+    "Tags":"",
+    "LastEditDate":"2010-09-14T16:27:09.660",
+    "CommentCount":"2",
+    "AnswerCount":"9",
+    "AcceptedAnswerId":null,
+    "Score":"19",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"78",
+    "CreationDate":"2010-09-13T19:48:57.183",
+    "FavoriteCount":"7",
+    "Id":"88",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T19:48:57.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0c8ce5a-b9da-4153-9689-6c4e8fd6905e",
+            "UserId":"78",
+            "CloseReasonId":null,
+            "PostId":"88",
+            "PostHistoryTypeId":"2",
+            "Id":"184",
+            "Text":"I know about [Astro Player][1]. Any other apps that feature podcast managment and variable speed playback?  [1]: http:\/\/www.astroplayer.com\/"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T19:48:57.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0c8ce5a-b9da-4153-9689-6c4e8fd6905e",
+            "UserId":"78",
+            "CloseReasonId":null,
+            "PostId":"88",
+            "PostHistoryTypeId":"1",
+            "Id":"185",
+            "Text":"What podcast apps include variable speed playback?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2010-09-13T19:48:57.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"b0c8ce5a-b9da-4153-9689-6c4e8fd6905e",
+            "UserId":"78",
+            "CloseReasonId":null,
+            "PostId":"88",
+            "PostHistoryTypeId":"3",
+            "Id":"186",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2010-09-14T16:27:09.660",
+            "UserDisplayName":null,
+            "RevisionGUID":"14f28f24-525b-429a-9d66-9fc92a451d0a",
+            "UserId":"36",
+            "CloseReasonId":null,
+            "PostId":"88",
+            "PostHistoryTypeId":"6",
+            "Id":"646",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-12-18T17:38:39.110",
+            "UserDisplayName":null,
+            "RevisionGUID":"7c5f4231-7262-4137-8110-04ae6d9f77e4",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"88",
+            "PostHistoryTypeId":"10",
+            "Id":"301687",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

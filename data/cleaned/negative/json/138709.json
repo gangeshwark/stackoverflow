@@ -1,0 +1,71 @@
+{
+    "Body":"I have made changes to existing project in UI and some other classes. Now can I make this project as library and include it in old project? Will it reflect changes?",
+    "ViewCount":"22",
+    "LastActivityDate":"2016-03-03T10:34:48.750",
+    "ClosedDate":"2016-03-03T14:53:01.260",
+    "Title":"convert android project into library?",
+    "LastEditorUserId":null,
+    "Tags":"<5.0-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154355",
+    "CreationDate":"2016-03-03T10:34:48.750",
+    "FavoriteCount":null,
+    "Id":"138709",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T10:34:48.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"aeb4c767-2360-42bc-8ed4-aa613d17871f",
+            "UserId":"154355",
+            "CloseReasonId":null,
+            "PostId":"138709",
+            "PostHistoryTypeId":"2",
+            "Id":"463631",
+            "Text":"I have made changes to existing project in UI and some other classes. Now can I make this project as library and include it in old project? Will it reflect changes?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T10:34:48.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"aeb4c767-2360-42bc-8ed4-aa613d17871f",
+            "UserId":"154355",
+            "CloseReasonId":null,
+            "PostId":"138709",
+            "PostHistoryTypeId":"1",
+            "Id":"463632",
+            "Text":"convert android project into library?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-03T10:34:48.750",
+            "UserDisplayName":null,
+            "RevisionGUID":"aeb4c767-2360-42bc-8ed4-aa613d17871f",
+            "UserId":"154355",
+            "CloseReasonId":null,
+            "PostId":"138709",
+            "PostHistoryTypeId":"3",
+            "Id":"463633",
+            "Text":"<5.0-lollipop>"
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-03T14:53:01.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"f9a098e1-3634-4572-9fba-21dbcf1cc6ca",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"138709",
+            "PostHistoryTypeId":"10",
+            "Id":"463693",
+            "Text":"{\"Voters\":[{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"}]}"
+        }
+    ]
+}

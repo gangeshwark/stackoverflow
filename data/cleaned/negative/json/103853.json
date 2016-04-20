@@ -1,0 +1,71 @@
+{
+    "Body":"My phone, a ZTE Concord II, only has 1.5 GB of internal storage, so I went and bought a $20 16gb SD card. I installed it and restarted my phone. It moved three apps and all my pics and music to the card but I cannot download new games or any other apps. Please help.",
+    "ViewCount":"8",
+    "LastActivityDate":"2015-03-28T18:25:20.713",
+    "ClosedDate":"2015-03-28T18:36:25.107",
+    "Title":"How do I make my SD card my Default Storage?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"100029",
+    "CreationDate":"2015-03-28T18:25:20.713",
+    "FavoriteCount":null,
+    "Id":"103853",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T18:25:20.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"99a5c1ba-6a0f-4712-b0db-c660c71c3514",
+            "UserId":"100029",
+            "CloseReasonId":null,
+            "PostId":"103853",
+            "PostHistoryTypeId":"2",
+            "Id":"338859",
+            "Text":"My phone, a ZTE Concord II, only has 1.5 GB of internal storage, so I went and bought a $20 16gb SD card. I installed it and restarted my phone. It moved three apps and all my pics and music to the card but I cannot download new games or any other apps. Please help."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T18:25:20.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"99a5c1ba-6a0f-4712-b0db-c660c71c3514",
+            "UserId":"100029",
+            "CloseReasonId":null,
+            "PostId":"103853",
+            "PostHistoryTypeId":"1",
+            "Id":"338860",
+            "Text":"How do I make my SD card my Default Storage?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T18:25:20.713",
+            "UserDisplayName":null,
+            "RevisionGUID":"99a5c1ba-6a0f-4712-b0db-c660c71c3514",
+            "UserId":"100029",
+            "CloseReasonId":null,
+            "PostId":"103853",
+            "PostHistoryTypeId":"3",
+            "Id":"338861",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-03-28T18:36:25.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"9ba3e7da-04d5-4583-82d1-93181a6a0c1b",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103853",
+            "PostHistoryTypeId":"10",
+            "Id":"338872",
+            "Text":"{\"OriginalQuestionIds\":[43517],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

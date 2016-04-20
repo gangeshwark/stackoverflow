@@ -1,0 +1,83 @@
+{
+    "Body":"Very simple question. I want to know the non-diagonal physical dimensions of the screen itself of a Nexus 7 (eg: 4\" by 5\" or whatever).Every site I look it up on seems to just happily repeat that it's a 7\" tablet with 1280x800px and so on.",
+    "ViewCount":"50",
+    "LastActivityDate":"2013-07-22T18:32:56.590",
+    "ClosedDate":"2013-07-23T06:20:01.637",
+    "Title":"What are the non-diagonal screen dimensions of the Nexus 7?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"49691",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"26630",
+    "CreationDate":"2013-07-22T18:15:27.353",
+    "FavoriteCount":null,
+    "Id":"49689",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-22T18:15:27.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d9d0d5c-dd16-479e-96f4-0734a93f9dc7",
+            "UserId":"26630",
+            "CloseReasonId":null,
+            "PostId":"49689",
+            "PostHistoryTypeId":"2",
+            "Id":"162201",
+            "Text":"Very simple question. I want to know the non-diagonal physical dimensions of the screen itself of a Nexus 7 (eg: 4\" by 5\" or whatever).Every site I look it up on seems to just happily repeat that it's a 7\" tablet with 1280x800px and so on."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-22T18:15:27.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d9d0d5c-dd16-479e-96f4-0734a93f9dc7",
+            "UserId":"26630",
+            "CloseReasonId":null,
+            "PostId":"49689",
+            "PostHistoryTypeId":"1",
+            "Id":"162202",
+            "Text":"What are the non-diagonal screen dimensions of the Nexus 7?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-07-22T18:15:27.353",
+            "UserDisplayName":null,
+            "RevisionGUID":"4d9d0d5c-dd16-479e-96f4-0734a93f9dc7",
+            "UserId":"26630",
+            "CloseReasonId":null,
+            "PostId":"49689",
+            "PostHistoryTypeId":"3",
+            "Id":"162203",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/359411341976539136",
+            "CreationDate":"2013-07-22T20:35:16.243",
+            "UserDisplayName":null,
+            "RevisionGUID":"caf52b97-dbe6-4e82-8b22-cac50cdf2bc5",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"49689",
+            "PostHistoryTypeId":"25",
+            "Id":"162224",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-23T06:20:01.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"8969d50c-a096-4420-9e3c-90e95d578521",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"49689",
+            "PostHistoryTypeId":"10",
+            "Id":"162336",
+            "Text":"{\"OriginalQuestionIds\":[33994],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"}]}"
+        }
+    ]
+}

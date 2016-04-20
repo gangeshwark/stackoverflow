@@ -1,0 +1,83 @@
+{
+    "Body":"I'm looking for statistics for android distributions for individual countries but the main source of information, Google themselves, only have information for the entire world. There was also this stack exchange question but it hadn't really received a satisfying answer (it points to a blogpost with statistics for specific apps which is not terribly useful).If I'm making an app for a single country I need information about what distributions are being used in that country. Google doesn't seem to be releasing such information, even if we were willing to pay for it (which we might if pricing was reasonable). ",
+    "ViewCount":"45",
+    "LastActivityDate":"2016-02-27T05:59:15.273",
+    "ClosedDate":"2016-02-04T18:16:44.470",
+    "Title":"Is there any Android distribution statistic for single countries?",
+    "LastEditorUserId":"1465",
+    "Tags":"",
+    "LastEditDate":"2016-02-27T05:59:15.273",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"129961",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"138577",
+    "CreationDate":"2015-11-26T08:43:06.260",
+    "FavoriteCount":"1",
+    "Id":"129952",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-26T08:43:06.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee9f49f5-3cec-400e-9847-997f64c199c8",
+            "UserId":"138577",
+            "CloseReasonId":null,
+            "PostId":"129952",
+            "PostHistoryTypeId":"2",
+            "Id":"428445",
+            "Text":"I'm looking for statistics for android distributions for individual countries but the main source of information, [Google themselves][1], only have information for the entire world. There was also [this stack exchange question][2] but it hadn't really received a satisfying answer (it points to a blogpost with statistics for specific apps which is not terribly useful).If I'm making an app for a single country I need information about what distributions are being used in that country. Google doesn't seem to be releasing such information, even if we were willing to pay for it (which we might if pricing was reasonable).   [1]: http:\/\/developer.android.com\/about\/dashboards\/index.html  [2]: http:\/\/android.stackexchange.com\/questions\/58828\/are-there-any-stats-of-android-version-distribution-by-region"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-26T08:43:06.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee9f49f5-3cec-400e-9847-997f64c199c8",
+            "UserId":"138577",
+            "CloseReasonId":null,
+            "PostId":"129952",
+            "PostHistoryTypeId":"1",
+            "Id":"428446",
+            "Text":"Is there any Android distribution statistic for single countries?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-11-26T08:43:06.260",
+            "UserDisplayName":null,
+            "RevisionGUID":"ee9f49f5-3cec-400e-9847-997f64c199c8",
+            "UserId":"138577",
+            "CloseReasonId":null,
+            "PostId":"129952",
+            "PostHistoryTypeId":"3",
+            "Id":"428447",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-02-04T18:16:44.470",
+            "UserDisplayName":null,
+            "RevisionGUID":"166ad281-7155-4c72-aff6-c29cb0b2c733",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"129952",
+            "PostHistoryTypeId":"10",
+            "Id":"453407",
+            "Text":"{\"OriginalQuestionIds\":[58828],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":44325,\"DisplayName\":\"Andrew T.\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2016-02-27T05:59:15.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"f5b5d562-3668-4cf0-89ca-d8bf1ff4b464",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"129952",
+            "PostHistoryTypeId":"6",
+            "Id":"461807",
+            "Text":""
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I was recently unlocked the boot loader of my moto g (original) and rooted it. After that I tried to install CM 11 and my phone rebooted 5 times in a row and then just switched of and did not switch on again. How do I unbrick it?Other InfoI am on android 4.4.4",
+    "ViewCount":"178",
+    "LastActivityDate":"2015-01-09T02:17:28.443",
+    "ClosedDate":"2015-01-11T16:23:32.027",
+    "Title":"How to unbrick a Moto G?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"86746",
+    "CreationDate":"2014-12-30T08:51:14.680",
+    "FavoriteCount":"0",
+    "Id":"93232",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T08:51:14.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"8113ef57-7dbb-47d4-824c-397e1d5c8de5",
+            "UserId":"86746",
+            "CloseReasonId":null,
+            "PostId":"93232",
+            "PostHistoryTypeId":"2",
+            "Id":"305696",
+            "Text":"I was recently unlocked the boot loader of my moto g (original) and rooted it. After that I tried to install CM 11 and my phone rebooted 5 times in a row and then just switched of and did not switch on again. How do I unbrick it?-----------------------------------------------------------------------------------Other Info - I am on android 4.4.4"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T08:51:14.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"8113ef57-7dbb-47d4-824c-397e1d5c8de5",
+            "UserId":"86746",
+            "CloseReasonId":null,
+            "PostId":"93232",
+            "PostHistoryTypeId":"1",
+            "Id":"305697",
+            "Text":"How to unbrick a Moto G?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-30T08:51:14.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"8113ef57-7dbb-47d4-824c-397e1d5c8de5",
+            "UserId":"86746",
+            "CloseReasonId":null,
+            "PostId":"93232",
+            "PostHistoryTypeId":"3",
+            "Id":"305698",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-01-11T16:23:32.027",
+            "UserDisplayName":null,
+            "RevisionGUID":"309579bc-c46b-4fbb-826f-cd2600425dcd",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"93232",
+            "PostHistoryTypeId":"10",
+            "Id":"311116",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

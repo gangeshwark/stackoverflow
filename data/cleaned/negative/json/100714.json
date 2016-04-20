@@ -1,0 +1,83 @@
+{
+    "Body":"I've heard that Android 5.0 (Lollipop) provides a way that users can view which apps have recently accessed location data.  I'd like to list all apps that have collected my location information recently, so I can keep an eye on them.  How do you do that?  Where in the user interface is this available?  What screen is this information on?  Is this available on any version before Lollipop?(Alas, I don't have a phone with Lollipop handy to test it myself, or I'd look for it myself.)",
+    "ViewCount":"64",
+    "LastActivityDate":"2015-02-23T22:59:07.073",
+    "ClosedDate":"2015-09-09T15:43:55.280",
+    "Title":"View which apps have accessed location data recently",
+    "LastEditorUserId":"7401",
+    "Tags":"",
+    "LastEditDate":"2015-02-23T22:59:07.073",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7401",
+    "CreationDate":"2015-02-23T22:50:25.400",
+    "FavoriteCount":null,
+    "Id":"100714",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-23T22:50:25.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"7718aa5a-e63a-453f-80e8-d96624b5b44a",
+            "UserId":"7401",
+            "CloseReasonId":null,
+            "PostId":"100714",
+            "PostHistoryTypeId":"2",
+            "Id":"327157",
+            "Text":"I've heard that Android 5.0 (Lollipop) provides a way that users can view which apps have recently accessed location data.  I'd like to list all apps that have collected my location information recently, so I can keep an eye on them.  How do you do that?  Where in the user interface is this available?  What screen is this information on?  Is this available on any version before Lollipop?(Alas, I don't have a phone with Lollipop handy to test it myself, or I'd look for it myself.)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-23T22:50:25.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"7718aa5a-e63a-453f-80e8-d96624b5b44a",
+            "UserId":"7401",
+            "CloseReasonId":null,
+            "PostId":"100714",
+            "PostHistoryTypeId":"1",
+            "Id":"327158",
+            "Text":"View which apps have accessed location data recently"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-02-23T22:50:25.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"7718aa5a-e63a-453f-80e8-d96624b5b44a",
+            "UserId":"7401",
+            "CloseReasonId":null,
+            "PostId":"100714",
+            "PostHistoryTypeId":"3",
+            "Id":"327159",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-02-23T22:59:07.073",
+            "UserDisplayName":null,
+            "RevisionGUID":"9850c9da-455b-457f-8779-2eb0f5c717ea",
+            "UserId":"7401",
+            "CloseReasonId":null,
+            "PostId":"100714",
+            "PostHistoryTypeId":"6",
+            "Id":"327161",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-09-09T15:43:55.280",
+            "UserDisplayName":null,
+            "RevisionGUID":"1e47cbca-0dc1-490b-8e52-8670a7e69c1c",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"100714",
+            "PostHistoryTypeId":"10",
+            "Id":"400290",
+            "Text":"{\"OriginalQuestionIds\":[23396],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

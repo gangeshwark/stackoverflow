@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I update the OS in my device?  I purchased MicroMax A60 mobile phone which was not provided with any PC suite. This phone in-built comes with Android V2.1 Eclair OS. I searched manufacturer's website and found that they are not providing any user tool to re-install\/upgrade android OS. Is there any free third party tool to re-install\/upgrade my android OS?",
+    "ViewCount":"30",
+    "LastActivityDate":"2012-03-22T16:03:14.740",
+    "ClosedDate":"2012-03-22T16:17:27.753",
+    "Title":"How to reinstall\/upgrade android OS in my phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13625",
+    "CreationDate":"2012-03-22T16:03:14.740",
+    "FavoriteCount":null,
+    "Id":"20906",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-22T16:03:14.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4487a63-83ed-485f-9201-56c720aa1b67",
+            "UserId":"13625",
+            "CloseReasonId":null,
+            "PostId":"20906",
+            "PostHistoryTypeId":"2",
+            "Id":"58392",
+            "Text":"I purchased MicroMax A60 mobile phone which was not provided with any PC suite. This phone in-built comes with Android V2.1 Eclair OS. I searched manufacturer's website and found that they are not providing any user tool to re-install\/upgrade android OS. Is there any free third party tool to re-install\/upgrade my android OS?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-22T16:03:14.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4487a63-83ed-485f-9201-56c720aa1b67",
+            "UserId":"13625",
+            "CloseReasonId":null,
+            "PostId":"20906",
+            "PostHistoryTypeId":"1",
+            "Id":"58393",
+            "Text":"How to reinstall\/upgrade android OS in my phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-22T16:03:14.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"b4487a63-83ed-485f-9201-56c720aa1b67",
+            "UserId":"13625",
+            "CloseReasonId":null,
+            "PostId":"20906",
+            "PostHistoryTypeId":"3",
+            "Id":"58394",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-03-22T16:17:28.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"8497aa5f-bec4-4329-b7ae-e12c7453674d",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"20906",
+            "PostHistoryTypeId":"5",
+            "Id":"58399",
+            "Text":"> **Possible Duplicate:**  > [How do I update the OS in my device?](http:\/\/android.stackexchange.com\/questions\/13510\/how-do-i-update-the-os-in-my-device)  I purchased MicroMax A60 mobile phone which was not provided with any PC suite. This phone in-built comes with Android V2.1 Eclair OS. I searched manufacturer's website and found that they are not providing any user tool to re-install\/upgrade android OS. Is there any free third party tool to re-install\/upgrade my android OS?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-03-22T16:17:27.753",
+            "UserDisplayName":null,
+            "RevisionGUID":"ed5993ea-e470-474a-86fb-0a26f90fbb4e",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20906",
+            "PostHistoryTypeId":"10",
+            "Id":"58400",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

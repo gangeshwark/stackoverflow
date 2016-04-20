@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Will constantly having Bluetooth on drain my battery too fast?  When Bluetooth is turned on, but not in use, is it still draining power? If so, how much relative to it being in use?",
+    "ViewCount":"3922",
+    "LastActivityDate":"2012-08-16T20:17:49.310",
+    "ClosedDate":"2012-08-17T09:06:05.433",
+    "Title":"Does Bluetooth drain power when it's not in use?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"27744",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"10124",
+    "CreationDate":"2012-08-16T15:56:08.557",
+    "FavoriteCount":null,
+    "Id":"27725",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-16T15:56:08.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1ef8fc1-8055-4ccb-b1e9-6362406cbd06",
+            "UserId":"10124",
+            "CloseReasonId":null,
+            "PostId":"27725",
+            "PostHistoryTypeId":"2",
+            "Id":"80723",
+            "Text":"When Bluetooth is turned on, but not in use, is it still draining power? If so, how much relative to it being in use?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-16T15:56:08.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1ef8fc1-8055-4ccb-b1e9-6362406cbd06",
+            "UserId":"10124",
+            "CloseReasonId":null,
+            "PostId":"27725",
+            "PostHistoryTypeId":"1",
+            "Id":"80724",
+            "Text":"Does Bluetooth drain power when it's not in use?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-08-16T15:56:08.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"c1ef8fc1-8055-4ccb-b1e9-6362406cbd06",
+            "UserId":"10124",
+            "CloseReasonId":null,
+            "PostId":"27725",
+            "PostHistoryTypeId":"3",
+            "Id":"80725",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-08-17T09:06:05.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"69360423-6add-4920-b3d0-23aa2f47a6da",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27725",
+            "PostHistoryTypeId":"5",
+            "Id":"80879",
+            "Text":"> **Possible Duplicate:**  > [Will constantly having Bluetooth on drain my battery too fast?](http:\/\/android.stackexchange.com\/questions\/2535\/will-constantly-having-bluetooth-on-drain-my-battery-too-fast)  When Bluetooth is turned on, but not in use, is it still draining power? If so, how much relative to it being in use?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-08-17T09:06:05.433",
+            "UserDisplayName":null,
+            "RevisionGUID":"d9cf2533-0812-4813-88f9-fa92c8be41fd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"27725",
+            "PostHistoryTypeId":"10",
+            "Id":"80880",
+            "Text":"{\"OriginalQuestionIds\":[2535],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

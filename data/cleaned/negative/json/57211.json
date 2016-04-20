@@ -1,0 +1,83 @@
+{
+    "Body":"Can an Android phone make phone calls in order to send fax? I mean, is it technically possible  with Android? Without using 3rd party servers.",
+    "ViewCount":"19",
+    "LastActivityDate":"2013-11-17T23:34:28.613",
+    "ClosedDate":"2014-03-21T19:50:48.977",
+    "Title":"Is it possible to send and receive faxes over an Android phone?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"1268",
+    "CreationDate":"2013-11-17T23:34:28.613",
+    "FavoriteCount":null,
+    "Id":"57211",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-17T23:34:28.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddb7dfcb-eb5f-45ab-a2ec-d19090885c5f",
+            "UserId":"1268",
+            "CloseReasonId":null,
+            "PostId":"57211",
+            "PostHistoryTypeId":"2",
+            "Id":"191869",
+            "Text":"Can an Android phone make phone calls in order to send fax? I mean, is it technically possible  with Android? Without using 3rd party servers."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-17T23:34:28.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddb7dfcb-eb5f-45ab-a2ec-d19090885c5f",
+            "UserId":"1268",
+            "CloseReasonId":null,
+            "PostId":"57211",
+            "PostHistoryTypeId":"1",
+            "Id":"191870",
+            "Text":"Is it possible to send and receive faxes over an Android phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-11-17T23:34:28.613",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddb7dfcb-eb5f-45ab-a2ec-d19090885c5f",
+            "UserId":"1268",
+            "CloseReasonId":null,
+            "PostId":"57211",
+            "PostHistoryTypeId":"3",
+            "Id":"191871",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/402421357390356480",
+            "CreationDate":"2013-11-18T13:01:43.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"52e59318-3569-4496-82b4-183de274eba8",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"57211",
+            "PostHistoryTypeId":"25",
+            "Id":"191989",
+            "Text":null
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-03-21T19:50:48.977",
+            "UserDisplayName":null,
+            "RevisionGUID":"75f9c4d3-009e-4c63-b510-b6459194638e",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"57211",
+            "PostHistoryTypeId":"10",
+            "Id":"224607",
+            "Text":"{\"OriginalQuestionIds\":[2078],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

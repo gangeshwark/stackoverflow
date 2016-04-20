@@ -1,0 +1,71 @@
+{
+    "Body":"I wish to uninstall (or at least disable) some of the applications that the manufacturer installed on my Samsung Galaxy Tab computer. I tried Settings \u2192 Application\u00a0manager \u2192 ALL, but is seems that none of the manufacturer-installed apps can be uninstalled (or disabled). How do I do this, please?",
+    "ViewCount":"24",
+    "LastActivityDate":"2013-05-01T21:10:49.557",
+    "ClosedDate":"2013-05-01T21:12:22.357",
+    "Title":"How to uninstall default apps",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"33246",
+    "CreationDate":"2013-05-01T21:10:49.557",
+    "FavoriteCount":null,
+    "Id":"44752",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-01T21:10:49.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb988bb4-e3e1-4e0e-b76e-85408f6638eb",
+            "UserId":"33246",
+            "CloseReasonId":null,
+            "PostId":"44752",
+            "PostHistoryTypeId":"2",
+            "Id":"143775",
+            "Text":"I wish to uninstall (or at least disable) some of the applications that the manufacturer installed on my Samsung Galaxy Tab computer. I tried Settings \u2192 Application\u00a0manager \u2192 ALL, but is seems that none of the manufacturer-installed apps can be uninstalled (or disabled). How do I do this, please?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-01T21:10:49.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb988bb4-e3e1-4e0e-b76e-85408f6638eb",
+            "UserId":"33246",
+            "CloseReasonId":null,
+            "PostId":"44752",
+            "PostHistoryTypeId":"1",
+            "Id":"143776",
+            "Text":"How to uninstall default apps"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-05-01T21:10:49.557",
+            "UserDisplayName":null,
+            "RevisionGUID":"cb988bb4-e3e1-4e0e-b76e-85408f6638eb",
+            "UserId":"33246",
+            "CloseReasonId":null,
+            "PostId":"44752",
+            "PostHistoryTypeId":"3",
+            "Id":"143777",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-05-01T21:12:22.357",
+            "UserDisplayName":null,
+            "RevisionGUID":"482115ec-8c30-49f6-aee2-a731ea6fad61",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"44752",
+            "PostHistoryTypeId":"10",
+            "Id":"143779",
+            "Text":"{\"OriginalQuestionIds\":[6851],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

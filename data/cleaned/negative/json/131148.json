@@ -1,0 +1,71 @@
+{
+    "Body":"What does the cell phone icon mean at the top of the phone? It's a Note 4. ",
+    "ViewCount":"153",
+    "LastActivityDate":"2015-12-10T09:07:28.703",
+    "ClosedDate":"2016-02-27T04:01:27.183",
+    "Title":"What does the cell phone icon mean? It's a Note 4.",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"140737",
+    "CreationDate":"2015-12-10T06:19:44.107",
+    "FavoriteCount":null,
+    "Id":"131148",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-10T06:19:44.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5c820f1-e1ae-413e-a721-368a36c3b048",
+            "UserId":"140737",
+            "CloseReasonId":null,
+            "PostId":"131148",
+            "PostHistoryTypeId":"2",
+            "Id":"433067",
+            "Text":"What does the cell phone icon mean at the top of the phone? It's a Note 4. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-10T06:19:44.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5c820f1-e1ae-413e-a721-368a36c3b048",
+            "UserId":"140737",
+            "CloseReasonId":null,
+            "PostId":"131148",
+            "PostHistoryTypeId":"1",
+            "Id":"433068",
+            "Text":"What does the cell phone icon mean? It's a Note 4."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-10T06:19:44.107",
+            "UserDisplayName":null,
+            "RevisionGUID":"d5c820f1-e1ae-413e-a721-368a36c3b048",
+            "UserId":"140737",
+            "CloseReasonId":null,
+            "PostId":"131148",
+            "PostHistoryTypeId":"3",
+            "Id":"433069",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2016-02-27T04:01:27.183",
+            "UserDisplayName":null,
+            "RevisionGUID":"6bcbe753-f63e-4f99-96e2-7950c318f2f5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"131148",
+            "PostHistoryTypeId":"10",
+            "Id":"461657",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

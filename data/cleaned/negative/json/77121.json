@@ -1,0 +1,83 @@
+{
+    "Body":"I have a genymotion virtual device which has an app which runs at startup which make the device crash giving me no access to the device.How do I disable the app from my computer. (I am using virtual device)?",
+    "ViewCount":"1352",
+    "LastActivityDate":"2014-07-13T04:19:37.647",
+    "ClosedDate":"2014-07-15T01:04:20.517",
+    "Title":"How do I disable an app from running at startup",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2014-07-13T04:19:37.647",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"67164",
+    "CreationDate":"2014-07-13T01:35:11.680",
+    "FavoriteCount":null,
+    "Id":"77121",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T01:35:11.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd01c8e5-e7c5-42ac-aa7b-153317478119",
+            "UserId":"67164",
+            "CloseReasonId":null,
+            "PostId":"77121",
+            "PostHistoryTypeId":"2",
+            "Id":"254202",
+            "Text":"I have a genymotion virtual device which has an app which runs at startup which make the device crash giving me no access to the device.How do I disable the app from my computer. (I am using virtual device)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T01:35:11.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd01c8e5-e7c5-42ac-aa7b-153317478119",
+            "UserId":"67164",
+            "CloseReasonId":null,
+            "PostId":"77121",
+            "PostHistoryTypeId":"1",
+            "Id":"254203",
+            "Text":"How do I disable an app from running at startup"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-07-13T01:35:11.680",
+            "UserDisplayName":null,
+            "RevisionGUID":"fd01c8e5-e7c5-42ac-aa7b-153317478119",
+            "UserId":"67164",
+            "CloseReasonId":null,
+            "PostId":"77121",
+            "PostHistoryTypeId":"3",
+            "Id":"254204",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-07-13T04:19:37.647",
+            "UserDisplayName":null,
+            "RevisionGUID":"a0bbc2c6-2e7c-4bc0-8f1b-35b2dbb7f291",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"77121",
+            "PostHistoryTypeId":"6",
+            "Id":"254220",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-07-15T01:04:20.517",
+            "UserDisplayName":null,
+            "RevisionGUID":"4cd17571-1bde-4fca-87ee-a730c5ee8ecd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"77121",
+            "PostHistoryTypeId":"10",
+            "Id":"254691",
+            "Text":"{\"OriginalQuestionIds\":[30332],\"Voters\":[{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

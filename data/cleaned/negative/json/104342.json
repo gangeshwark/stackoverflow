@@ -1,0 +1,83 @@
+{
+    "Body":"I had lost my all data in phone resting.Phone model is samsung galaxy core 2.Is there any availability of data backup?",
+    "ViewCount":"36",
+    "LastActivityDate":"2015-04-10T16:42:14.143",
+    "ClosedDate":"2015-05-21T13:52:23.677",
+    "Title":"backup my data which was lost during reset",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-04-10T16:42:14.143",
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"100747",
+    "CreationDate":"2015-04-02T23:15:21.790",
+    "FavoriteCount":null,
+    "Id":"104342",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T23:15:21.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ff36429-95ac-4a32-9440-61d2231fb249",
+            "UserId":"100747",
+            "CloseReasonId":null,
+            "PostId":"104342",
+            "PostHistoryTypeId":"2",
+            "Id":"340533",
+            "Text":"I had lost my all data in phone resting.Phone model is samsung galaxy core 2.Is there any availability of data backup?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T23:15:21.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ff36429-95ac-4a32-9440-61d2231fb249",
+            "UserId":"100747",
+            "CloseReasonId":null,
+            "PostId":"104342",
+            "PostHistoryTypeId":"1",
+            "Id":"340534",
+            "Text":"backup my data which was lost during reset"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-02T23:15:21.790",
+            "UserDisplayName":null,
+            "RevisionGUID":"1ff36429-95ac-4a32-9440-61d2231fb249",
+            "UserId":"100747",
+            "CloseReasonId":null,
+            "PostId":"104342",
+            "PostHistoryTypeId":"3",
+            "Id":"340535",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-04-10T16:42:14.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"9a482d77-e400-4a55-a589-8bcb26a927d4",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"104342",
+            "PostHistoryTypeId":"6",
+            "Id":"343365",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-21T13:52:23.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"0f944082-f275-4afb-95a1-76ad290f6a51",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"104342",
+            "PostHistoryTypeId":"10",
+            "Id":"359073",
+            "Text":"{\"OriginalQuestionIds\":[89777],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

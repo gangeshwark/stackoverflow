@@ -1,0 +1,71 @@
+{
+    "Body":"Cannot scan  Whats app code for whatsApp web as my Camera on the phone deos not work.",
+    "ViewCount":"12",
+    "LastActivityDate":"2015-05-07T13:29:24.913",
+    "ClosedDate":"2015-05-07T15:58:45.573",
+    "Title":"Scanning problem Whats app code for whatsApp web",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"107762",
+    "CreationDate":"2015-05-07T13:29:24.913",
+    "FavoriteCount":null,
+    "Id":"108712",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T13:29:24.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c1130c6-18e4-42b3-90ac-303a20416be8",
+            "UserId":"107762",
+            "CloseReasonId":null,
+            "PostId":"108712",
+            "PostHistoryTypeId":"2",
+            "Id":"354187",
+            "Text":"Cannot scan  Whats app code for whatsApp web as my Camera on the phone deos not work."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T13:29:24.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c1130c6-18e4-42b3-90ac-303a20416be8",
+            "UserId":"107762",
+            "CloseReasonId":null,
+            "PostId":"108712",
+            "PostHistoryTypeId":"1",
+            "Id":"354188",
+            "Text":"Scanning problem Whats app code for whatsApp web"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-05-07T13:29:24.913",
+            "UserDisplayName":null,
+            "RevisionGUID":"1c1130c6-18e4-42b3-90ac-303a20416be8",
+            "UserId":"107762",
+            "CloseReasonId":null,
+            "PostId":"108712",
+            "PostHistoryTypeId":"3",
+            "Id":"354189",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-05-07T15:58:45.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"b00de522-0e17-43bb-b71f-764668e5723c",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"108712",
+            "PostHistoryTypeId":"10",
+            "Id":"354245",
+            "Text":"{\"OriginalQuestionIds\":[96546],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

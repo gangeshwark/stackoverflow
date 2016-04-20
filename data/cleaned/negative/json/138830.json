@@ -1,0 +1,71 @@
+{
+    "Body":"...like the one that can be found in lots of Material Design apps and particularly in Google applications?On Gmail:On Play Market:I see a lot of applications that use this pattern, but I can't find an obvious way to implement it. Will be grateful if someone provides a snippet or a short guide on how to achieve the same result. Thank you in advance. ",
+    "ViewCount":"14",
+    "LastActivityDate":"2016-03-04T22:01:33.730",
+    "ClosedDate":"2016-03-04T22:13:13.070",
+    "Title":"How do I implement Material-style account switcher?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154592",
+    "CreationDate":"2016-03-04T22:01:33.730",
+    "FavoriteCount":null,
+    "Id":"138830",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T22:01:33.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb592530-e561-48e3-8562-b5ffd6f21b62",
+            "UserId":"154592",
+            "CloseReasonId":null,
+            "PostId":"138830",
+            "PostHistoryTypeId":"2",
+            "Id":"464079",
+            "Text":"...like the one that can be found in lots of Material Design apps and particularly in Google applications?On Gmail:[![Gmail][1]][1]On Play Market:[![PlayMarket][2]][2]I see a lot of applications that use this pattern, but I can't find an obvious way to implement it. Will be grateful if someone provides a snippet or a short guide on how to achieve the same result. Thank you in advance.   [1]: http:\/\/i.stack.imgur.com\/kvOci.png  [2]: http:\/\/i.stack.imgur.com\/Gfcn1.png"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T22:01:33.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb592530-e561-48e3-8562-b5ffd6f21b62",
+            "UserId":"154592",
+            "CloseReasonId":null,
+            "PostId":"138830",
+            "PostHistoryTypeId":"1",
+            "Id":"464080",
+            "Text":"How do I implement Material-style account switcher?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T22:01:33.730",
+            "UserDisplayName":null,
+            "RevisionGUID":"bb592530-e561-48e3-8562-b5ffd6f21b62",
+            "UserId":"154592",
+            "CloseReasonId":null,
+            "PostId":"138830",
+            "PostHistoryTypeId":"3",
+            "Id":"464081",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2016-03-04T22:13:13.070",
+            "UserDisplayName":null,
+            "RevisionGUID":"7960f2c4-23b2-4ec5-bf4c-d9976d695856",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138830",
+            "PostHistoryTypeId":"10",
+            "Id":"464085",
+            "Text":"{\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

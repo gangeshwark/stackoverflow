@@ -1,0 +1,83 @@
+{
+    "Body":"I have a very simple question. If I root my phone, will it be easier for malware to run on my device and cause more damage (due to the nature of the extended set of operations that applications with root access can perform, and the downside of being logged in and running applications as root on Linux systems).Thanks.EDIT:Even when an application is rooted, it can still be configured to disallow installation of APK files from unknown locations (locations other than the Google Play Store). This increases security since it makes it impossible that a web browser download install a malicious app even though the device is rooted.",
+    "ViewCount":"145",
+    "LastActivityDate":"2014-12-14T18:38:24.310",
+    "ClosedDate":"2014-12-07T03:09:12.937",
+    "Title":"Does rooting a phone expose the phone to security risks?",
+    "LastEditorUserId":"41884",
+    "Tags":"",
+    "LastEditDate":"2014-12-14T18:38:24.310",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"89991",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"41884",
+    "CreationDate":"2014-12-07T00:30:59.860",
+    "FavoriteCount":null,
+    "Id":"89981",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-07T00:30:59.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"8692dcf0-dd2e-405a-bf44-1b75f5f3a4d0",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"89981",
+            "PostHistoryTypeId":"2",
+            "Id":"296614",
+            "Text":"I have a very simple question. If I root my phone, will it be easier for malware to run on my device and cause more damage (due to the nature of the extended set of operations that applications with root access can perform, and the downside of being logged in and running applications as root on Linux systems).Thanks."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-07T00:30:59.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"8692dcf0-dd2e-405a-bf44-1b75f5f3a4d0",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"89981",
+            "PostHistoryTypeId":"1",
+            "Id":"296615",
+            "Text":"Does rooting a phone expose the phone to security risks?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-12-07T00:30:59.860",
+            "UserDisplayName":null,
+            "RevisionGUID":"8692dcf0-dd2e-405a-bf44-1b75f5f3a4d0",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"89981",
+            "PostHistoryTypeId":"3",
+            "Id":"296616",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-07T03:09:12.937",
+            "UserDisplayName":null,
+            "RevisionGUID":"1f86041d-58de-4965-ad70-5d6f24e05a1d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"89981",
+            "PostHistoryTypeId":"10",
+            "Id":"296653",
+            "Text":"{\"OriginalQuestionIds\":[9545],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"added 328 characters in body",
+            "CreationDate":"2014-12-14T18:38:24.310",
+            "UserDisplayName":null,
+            "RevisionGUID":"e30cecf7-d2bb-4409-b97f-9cbdb8bd59e8",
+            "UserId":"41884",
+            "CloseReasonId":null,
+            "PostId":"89981",
+            "PostHistoryTypeId":"5",
+            "Id":"300203",
+            "Text":"I have a very simple question. If I root my phone, will it be easier for malware to run on my device and cause more damage (due to the nature of the extended set of operations that applications with root access can perform, and the downside of being logged in and running applications as root on Linux systems).Thanks.---EDIT:Even when an application is rooted, it can still be configured to disallow installation of APK files from unknown locations (locations other than the Google Play Store). This increases security since it makes it impossible that a web browser download install a malicious app even though the device is rooted."
+        }
+    ]
+}

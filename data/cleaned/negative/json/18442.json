@@ -1,0 +1,71 @@
+{
+    "Body":"I have an MID with Android version 1.5. Today, when I turned it on, it just showed Tux the penguin for a very long time. It did not start up.The power was fairly well charged.I pressed the power and menu buttons several times, but no change.I tried pressing the power and menu buttons for long durations, but it still just showed the penguin.I tried plugging in the USB power cable, but no change.Finally, I just powered it off with the power switch and it went off, then I switched it back on and it started fine. Now, it seems to be working okay.Is it likely there is something wrong with my device?",
+    "ViewCount":"143",
+    "LastActivityDate":"2012-01-17T13:23:42.153",
+    "ClosedDate":"2012-10-02T15:20:30.850",
+    "Title":"Why does my device not start up?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"11219",
+    "CreationDate":"2012-01-17T13:23:42.153",
+    "FavoriteCount":null,
+    "Id":"18442",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-17T13:23:42.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"54fb2975-c353-401f-b0b8-cf9a4a8acb90",
+            "UserId":"11219",
+            "CloseReasonId":null,
+            "PostId":"18442",
+            "PostHistoryTypeId":"2",
+            "Id":"50649",
+            "Text":"I have an MID with Android version 1.5. Today, when I turned it on, it just showed Tux the penguin for a very long time. It did not start up.- The power was fairly well charged.- I pressed the power and menu buttons several times, but no change.- I tried pressing the power and menu buttons for long durations, but it still just showed the penguin.- I tried plugging in the USB power cable, but no change.- Finally, I just powered it off with the power switch and it went off, then I switched it back on and it started fine. Now, it seems to be working okay.Is it likely there is something wrong with my device?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-17T13:23:42.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"54fb2975-c353-401f-b0b8-cf9a4a8acb90",
+            "UserId":"11219",
+            "CloseReasonId":null,
+            "PostId":"18442",
+            "PostHistoryTypeId":"1",
+            "Id":"50650",
+            "Text":"Why does my device not start up?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-01-17T13:23:42.153",
+            "UserDisplayName":null,
+            "RevisionGUID":"54fb2975-c353-401f-b0b8-cf9a4a8acb90",
+            "UserId":"11219",
+            "CloseReasonId":null,
+            "PostId":"18442",
+            "PostHistoryTypeId":"3",
+            "Id":"50651",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-10-02T15:20:30.850",
+            "UserDisplayName":null,
+            "RevisionGUID":"d7be644c-946b-475f-b5e3-4f97fb714fdd",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"18442",
+            "PostHistoryTypeId":"10",
+            "Id":"90793",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I've got a unique issue\/need and I've been unable to find a solution. I work for a construction company and we've rolled out android tablets with cellular internet connections (Verizon) to our mobile workforce. We need to be able to print from remote job sites, but the problem is as soon as the tablet is connected via WIFI directly (ad hoc) to the printer on the job site, the cellular data connection is turned off. We need to find a way to connect the tablet to the printer with WIFI, while maintaining the cellular internet connection. These job sites do not have a network\/LAN\/Internet connection, and the built in cellular connection is the only option for an internet connection on these tablets. I realize the tablet could be manually connected to the printer when needed and then manually reconnected to the cellular network when finished printing, but that is a major pain for my workforce and since we use Office 365, a lot of what needs to be printed is being pulled from the internet, which makes it impossible to print from the web when you're forced to only have one connection or the other.Has anyone found a work around for this issue? We can't be the only ones that work in remote locations, where we rely on a direct cellular internet connection while also needing to print documents. Any suggestions would be greatly appreciated!-Mike",
+    "ViewCount":"180",
+    "LastActivityDate":"2015-03-28T05:04:18.467",
+    "ClosedDate":"2015-04-09T14:33:38.120",
+    "Title":"Connect Directly to WIFI Printer while using Cellular Internet?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"99949",
+    "CreationDate":"2015-03-28T05:04:18.467",
+    "FavoriteCount":null,
+    "Id":"103804",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T05:04:18.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"b63bfa8e-130d-4b88-a035-1c5e43b1185c",
+            "UserId":"99949",
+            "CloseReasonId":null,
+            "PostId":"103804",
+            "PostHistoryTypeId":"2",
+            "Id":"338657",
+            "Text":"I've got a unique issue\/need and I've been unable to find a solution. I work for a construction company and we've rolled out android tablets with cellular internet connections (Verizon) to our mobile workforce. We need to be able to print from remote job sites, but the problem is as soon as the tablet is connected via WIFI directly (ad hoc) to the printer on the job site, the cellular data connection is turned off. We need to find a way to connect the tablet to the printer with WIFI, while maintaining the cellular internet connection. These job sites do not have a network\/LAN\/Internet connection, and the built in cellular connection is the only option for an internet connection on these tablets. I realize the tablet could be manually connected to the printer when needed and then manually reconnected to the cellular network when finished printing, but that is a major pain for my workforce and since we use Office 365, a lot of what needs to be printed is being pulled from the internet, which makes it impossible to print from the web when you're forced to only have one connection or the other.Has anyone found a work around for this issue? We can't be the only ones that work in remote locations, where we rely on a direct cellular internet connection while also needing to print documents. Any suggestions would be greatly appreciated!-Mike"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T05:04:18.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"b63bfa8e-130d-4b88-a035-1c5e43b1185c",
+            "UserId":"99949",
+            "CloseReasonId":null,
+            "PostId":"103804",
+            "PostHistoryTypeId":"1",
+            "Id":"338658",
+            "Text":"Connect Directly to WIFI Printer while using Cellular Internet?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-03-28T05:04:18.467",
+            "UserDisplayName":null,
+            "RevisionGUID":"b63bfa8e-130d-4b88-a035-1c5e43b1185c",
+            "UserId":"99949",
+            "CloseReasonId":null,
+            "PostId":"103804",
+            "PostHistoryTypeId":"3",
+            "Id":"338659",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-09T14:33:38.120",
+            "UserDisplayName":null,
+            "RevisionGUID":"225e32ad-e194-41e0-a218-af886ae6f958",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"103804",
+            "PostHistoryTypeId":"10",
+            "Id":"342894",
+            "Text":"{\"OriginalQuestionIds\":[29769,98050],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Body":"Is there an Xposed module for configuring the home key behavior (and maybe other hw keys) while the phone is locked or in sleep state, and will it also affect the home button default unlocked behaviors? e.g. torch on long press home key while locked\/sleep. ",
+    "ViewCount":"2895",
+    "LastActivityDate":"2014-01-31T14:20:29.097",
+    "ClosedDate":"2015-06-07T15:57:05.387",
+    "Title":"Xposed module for home key configuration while phone is locked",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"62438",
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"47967",
+    "CreationDate":"2014-01-31T13:36:41.807",
+    "FavoriteCount":null,
+    "Id":"62437",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-31T13:36:41.807",
+            "UserDisplayName":null,
+            "RevisionGUID":"64c36d8c-386c-4735-b81d-53edb1c04b04",
+            "UserId":"47967",
+            "CloseReasonId":null,
+            "PostId":"62437",
+            "PostHistoryTypeId":"2",
+            "Id":"211786",
+            "Text":"Is there an Xposed module for configuring the home key behavior (and maybe other hw keys) while the phone is locked or in sleep state, and will it also affect the home button default unlocked behaviors? e.g. torch on long press home key while locked\/sleep. "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-31T13:36:41.807",
+            "UserDisplayName":null,
+            "RevisionGUID":"64c36d8c-386c-4735-b81d-53edb1c04b04",
+            "UserId":"47967",
+            "CloseReasonId":null,
+            "PostId":"62437",
+            "PostHistoryTypeId":"1",
+            "Id":"211787",
+            "Text":"Xposed module for home key configuration while phone is locked"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-01-31T13:36:41.807",
+            "UserDisplayName":null,
+            "RevisionGUID":"64c36d8c-386c-4735-b81d-53edb1c04b04",
+            "UserId":"47967",
+            "CloseReasonId":null,
+            "PostId":"62437",
+            "PostHistoryTypeId":"3",
+            "Id":"211788",
+            "Text":""
+        },
+        {
+            "Comment":"http:\/\/twitter.com\/#!\/StackAndroid\/status\/430106630303547392",
+            "CreationDate":"2014-02-02T22:33:06.057",
+            "UserDisplayName":null,
+            "RevisionGUID":"e3fb2eeb-62d5-41a8-9d3d-a0603dab094f",
+            "UserId":null,
+            "CloseReasonId":null,
+            "PostId":"62437",
+            "PostHistoryTypeId":"25",
+            "Id":"212405",
+            "Text":null
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2015-06-07T15:57:05.387",
+            "UserDisplayName":null,
+            "RevisionGUID":"5cf25974-3183-4aa7-b3d8-364864742d39",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"62437",
+            "PostHistoryTypeId":"10",
+            "Id":"365472",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

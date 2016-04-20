@@ -1,0 +1,71 @@
+{
+    "Body":"What is the best way (if there is any) to connect a Bluetooth keyboard to a Google Nexus S with Android 4.0 (Ice Cream Sandwich) installed?There seems to be some applications that allow you to connect a keyboard. But reading about them is a bit confusing, often earlier versions of the Android OS are mentioned, it only works with a few keyboards, users giving negative reviews that it didn't work for them etc.I'm looking for something that does work, and has as few drawbacks as possible.If someone knows why Google doesn't support it \"out of the box\" that would be interesting too.",
+    "ViewCount":"364",
+    "LastActivityDate":"2012-03-01T23:03:03.513",
+    "ClosedDate":"2012-03-01T23:25:15.263",
+    "Title":"Connecting a Bluetooth keyboard with Google Nexus S Android 4.0 (Ice Cream Sandwich)",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13041",
+    "CreationDate":"2012-03-01T23:03:03.513",
+    "FavoriteCount":null,
+    "Id":"20120",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-01T23:03:03.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c50a73b-e84a-41c7-9711-64520ab409fe",
+            "UserId":"13041",
+            "CloseReasonId":null,
+            "PostId":"20120",
+            "PostHistoryTypeId":"2",
+            "Id":"55847",
+            "Text":"What is the best way (if there is any) to connect a Bluetooth keyboard to a Google Nexus S with Android 4.0 (Ice Cream Sandwich) installed?There seems to be some applications that allow you to connect a keyboard. But reading about them is a bit confusing, often earlier versions of the Android OS are mentioned, it only works with a few keyboards, users giving negative reviews that it didn't work for them etc.I'm looking for something that does work, and has as few drawbacks as possible.If someone knows why Google doesn't support it \"out of the box\" that would be interesting too."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-01T23:03:03.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c50a73b-e84a-41c7-9711-64520ab409fe",
+            "UserId":"13041",
+            "CloseReasonId":null,
+            "PostId":"20120",
+            "PostHistoryTypeId":"1",
+            "Id":"55848",
+            "Text":"Connecting a Bluetooth keyboard with Google Nexus S Android 4.0 (Ice Cream Sandwich)"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-01T23:03:03.513",
+            "UserDisplayName":null,
+            "RevisionGUID":"2c50a73b-e84a-41c7-9711-64520ab409fe",
+            "UserId":"13041",
+            "CloseReasonId":null,
+            "PostId":"20120",
+            "PostHistoryTypeId":"3",
+            "Id":"55849",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-03-01T23:25:15.263",
+            "UserDisplayName":null,
+            "RevisionGUID":"e757f780-4106-4072-a68c-bc126adedbfd",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"20120",
+            "PostHistoryTypeId":"10",
+            "Id":"55854",
+            "Text":"{\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

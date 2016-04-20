@@ -1,0 +1,71 @@
+{
+    "Body":"So I've been operating my unlocked Samsung Galaxy Nexus (carrier is T-Mobile) with the 4.3 operating system. Obviously, this is incredibly out of date but I haven't had any problems with it until recently. I've realized that my apps have been updating but I never updated to Lollipop, let alone Marshmallow. Now apps are crashing (not compatible?) and phone is incredibly slow. I thought Google phones unlocked like mine automatically updated the OS. Why wouldn't my phone automatically update to Lollipop? Can I still update? Can this phone update to Marshmallow? ",
+    "ViewCount":"59",
+    "LastActivityDate":"2016-02-24T18:58:03.137",
+    "ClosedDate":"2016-03-04T19:05:51.430",
+    "Title":"updating android Galaxy Nexus with Android Version 4.3",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"153089",
+    "CreationDate":"2016-02-24T18:58:03.137",
+    "FavoriteCount":null,
+    "Id":"138018",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T18:58:03.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"07383f63-55c8-4713-bee4-62cb76aaf6fa",
+            "UserId":"153089",
+            "CloseReasonId":null,
+            "PostId":"138018",
+            "PostHistoryTypeId":"2",
+            "Id":"460610",
+            "Text":"So I've been operating my **unlocked** Samsung Galaxy Nexus (carrier is T-Mobile) with the 4.3 operating system. Obviously, this is incredibly out of date but I haven't had any problems with it until recently. I've realized that my apps have been updating but I never updated to Lollipop, let alone Marshmallow. Now apps are crashing (not compatible?) and phone is incredibly slow. I thought Google phones unlocked like mine automatically updated the OS. Why wouldn't my phone automatically update to Lollipop? Can I still update? Can this phone update to Marshmallow? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T18:58:03.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"07383f63-55c8-4713-bee4-62cb76aaf6fa",
+            "UserId":"153089",
+            "CloseReasonId":null,
+            "PostId":"138018",
+            "PostHistoryTypeId":"1",
+            "Id":"460611",
+            "Text":"updating android Galaxy Nexus with Android Version 4.3"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-02-24T18:58:03.137",
+            "UserDisplayName":null,
+            "RevisionGUID":"07383f63-55c8-4713-bee4-62cb76aaf6fa",
+            "UserId":"153089",
+            "CloseReasonId":null,
+            "PostId":"138018",
+            "PostHistoryTypeId":"3",
+            "Id":"460612",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-04T19:05:51.430",
+            "UserDisplayName":null,
+            "RevisionGUID":"7660ba72-b15d-4a01-9907-7b4e7c4e7d0d",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"138018",
+            "PostHistoryTypeId":"10",
+            "Id":"464044",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":131553,\"DisplayName\":\"beeshyams\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

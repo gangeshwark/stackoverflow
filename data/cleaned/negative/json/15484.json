@@ -1,0 +1,83 @@
+{
+    "Body":"I'm looking for a ERD (entity relationship diagram) editor for tablets and also a flowchart diagram... Haven't found any till now...Does anybody knows some good app for that? ",
+    "ViewCount":"1287",
+    "LastActivityDate":"2014-01-14T16:29:50.317",
+    "ClosedDate":"2014-01-14T23:14:53.283",
+    "Title":"ERD and flowchart editors",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-01-14T16:29:50.317",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"7477",
+    "CreationDate":"2011-11-10T16:42:40.953",
+    "FavoriteCount":null,
+    "Id":"15484",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-10T16:42:40.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"303e5a3f-9a3e-49fa-ad9a-24e18211ac43",
+            "UserId":"7477",
+            "CloseReasonId":null,
+            "PostId":"15484",
+            "PostHistoryTypeId":"2",
+            "Id":"41501",
+            "Text":"I'm looking for a ERD (entity relationship diagram) editor for tablets and also a flowchart diagram... Haven't found any till now...Does anybody knows some good app for that? "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-10T16:42:40.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"303e5a3f-9a3e-49fa-ad9a-24e18211ac43",
+            "UserId":"7477",
+            "CloseReasonId":null,
+            "PostId":"15484",
+            "PostHistoryTypeId":"1",
+            "Id":"41502",
+            "Text":"ERD and flowchart editors"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-10T16:42:40.953",
+            "UserDisplayName":null,
+            "RevisionGUID":"303e5a3f-9a3e-49fa-ad9a-24e18211ac43",
+            "UserId":"7477",
+            "CloseReasonId":null,
+            "PostId":"15484",
+            "PostHistoryTypeId":"3",
+            "Id":"41503",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-14T16:29:50.317",
+            "UserDisplayName":null,
+            "RevisionGUID":"99405a94-007a-4261-bd98-22df28fe0007",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"15484",
+            "PostHistoryTypeId":"6",
+            "Id":"206886",
+            "Text":""
+        },
+        {
+            "Comment":"102",
+            "CreationDate":"2014-01-14T23:14:53.283",
+            "UserDisplayName":null,
+            "RevisionGUID":"b123c18a-1ec6-43b3-95bb-3416d763e623",
+            "UserId":"440",
+            "CloseReasonId":null,
+            "PostId":"15484",
+            "PostHistoryTypeId":"10",
+            "Id":"206980",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

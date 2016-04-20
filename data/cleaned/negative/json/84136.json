@@ -1,0 +1,71 @@
+{
+    "Body":"I have a 4.2.1 android version phone. In internal storage there is 114 MB free space but I cannot download or update any app because I get an error saying \"insufficient memory in internal storage\". I tried all the first aid listed in this site but no gain :( . ",
+    "ViewCount":"83",
+    "LastActivityDate":"2014-10-05T13:52:08.823",
+    "ClosedDate":"2014-12-03T15:27:09.087",
+    "Title":"Insufficient memory",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"75290",
+    "CreationDate":"2014-10-05T12:59:02.423",
+    "FavoriteCount":null,
+    "Id":"84136",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-05T12:59:02.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"117e7564-168b-4648-9bcf-608efe26f370",
+            "UserId":"75290",
+            "CloseReasonId":null,
+            "PostId":"84136",
+            "PostHistoryTypeId":"2",
+            "Id":"276102",
+            "Text":"I have a 4.2.1 android version phone. In internal storage there is 114 MB free space but I cannot download or update any app because I get an error saying \"insufficient memory in internal storage\". I tried all the first aid listed in this site but no gain :( . "
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-05T12:59:02.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"117e7564-168b-4648-9bcf-608efe26f370",
+            "UserId":"75290",
+            "CloseReasonId":null,
+            "PostId":"84136",
+            "PostHistoryTypeId":"1",
+            "Id":"276103",
+            "Text":"Insufficient memory"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-05T12:59:02.423",
+            "UserDisplayName":null,
+            "RevisionGUID":"117e7564-168b-4648-9bcf-608efe26f370",
+            "UserId":"75290",
+            "CloseReasonId":null,
+            "PostId":"84136",
+            "PostHistoryTypeId":"3",
+            "Id":"276104",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-12-03T15:27:09.087",
+            "UserDisplayName":null,
+            "RevisionGUID":"43ec62b5-8f63-4cf6-bb8e-80be49af1579",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"84136",
+            "PostHistoryTypeId":"10",
+            "Id":"295474",
+            "Text":"{\"OriginalQuestionIds\":[29416],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

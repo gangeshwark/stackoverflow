@@ -1,0 +1,71 @@
+{
+    "Body":"A friend of mine updated a certain app and I don't like the choices the devs made. I'd rather stay on the current version. I know that I can set Google Play to not update apps automatically.Thing is, I love being able to press UPDATE ALL to update all my apps with one press. Except for this app...How can I make sure that this app does not appear in the Google Play updates section anymore?",
+    "ViewCount":"60",
+    "LastActivityDate":"2015-12-31T03:46:14.917",
+    "ClosedDate":"2015-12-31T07:02:45.440",
+    "Title":"Is it possible to stop certain apps from updating via Google Play?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"71310",
+    "CreationDate":"2015-12-30T18:32:11.493",
+    "FavoriteCount":null,
+    "Id":"132996",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-30T18:32:11.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd745c57-b699-4f72-b299-47fc858f7e01",
+            "UserId":"71310",
+            "CloseReasonId":null,
+            "PostId":"132996",
+            "PostHistoryTypeId":"2",
+            "Id":"440464",
+            "Text":"A friend of mine updated a certain app and I don't like the choices the devs made. I'd rather stay on the current version. I know that I can set Google Play to not update apps automatically.Thing is, I love being able to press UPDATE ALL to update all my apps with one press. Except for this app...How can I make sure that this app does not appear in the Google Play updates section anymore?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-30T18:32:11.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd745c57-b699-4f72-b299-47fc858f7e01",
+            "UserId":"71310",
+            "CloseReasonId":null,
+            "PostId":"132996",
+            "PostHistoryTypeId":"1",
+            "Id":"440465",
+            "Text":"Is it possible to stop certain apps from updating via Google Play?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-12-30T18:32:11.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd745c57-b699-4f72-b299-47fc858f7e01",
+            "UserId":"71310",
+            "CloseReasonId":null,
+            "PostId":"132996",
+            "PostHistoryTypeId":"3",
+            "Id":"440466",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-12-31T07:02:45.440",
+            "UserDisplayName":null,
+            "RevisionGUID":"3f395eff-f144-4fa3-adc3-54e7e7d16799",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"132996",
+            "PostHistoryTypeId":"10",
+            "Id":"440608",
+            "Text":"{\"OriginalQuestionIds\":[58021],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

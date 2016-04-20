@@ -1,0 +1,83 @@
+{
+    "Body":"my issue is when i try use Google services that Allow remote lock and factory reset. if the mobile stolen, then i want to try it and i locked my personal phone successfully it locked by password when i open my device password entry screen appear and when i write the password that i requested from web the device open but i want to remove this lock and i cannot do it, i locked the phone by using Android Device Manager through this Google linkThanks in advance for help.",
+    "ViewCount":"1557",
+    "LastActivityDate":"2014-10-29T13:18:26.450",
+    "ClosedDate":"2014-11-02T19:31:44.967",
+    "Title":"Cannot remove the lock from android",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-10-29T12:04:25.590",
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"78138",
+    "CreationDate":"2014-10-29T11:17:02.160",
+    "FavoriteCount":null,
+    "Id":"86168",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-29T11:17:02.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"4423c401-b7d4-447e-b331-dcfde864b486",
+            "UserId":"78138",
+            "CloseReasonId":null,
+            "PostId":"86168",
+            "PostHistoryTypeId":"2",
+            "Id":"283233",
+            "Text":"my issue is when i try use Google services that Allow remote lock and factory reset. if the mobile stolen, then i want to try it and i locked my personal phone successfully it locked by password when i open my device password entry screen appear and when i write the password that i requested from web the device open but i want to remove this lock and i cannot do it, i locked the phone by using Android Device Manager through this [Google link][1]Thanks in advance for help.  [1]: https:\/\/support.google.com\/accounts\/answer\/3265955?hl=en"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-29T11:17:02.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"4423c401-b7d4-447e-b331-dcfde864b486",
+            "UserId":"78138",
+            "CloseReasonId":null,
+            "PostId":"86168",
+            "PostHistoryTypeId":"1",
+            "Id":"283234",
+            "Text":"Cannot remove the lock from android"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-10-29T11:17:02.160",
+            "UserDisplayName":null,
+            "RevisionGUID":"4423c401-b7d4-447e-b331-dcfde864b486",
+            "UserId":"78138",
+            "CloseReasonId":null,
+            "PostId":"86168",
+            "PostHistoryTypeId":"3",
+            "Id":"283235",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-10-29T12:04:25.590",
+            "UserDisplayName":null,
+            "RevisionGUID":"0cf16f54-2ee0-47bb-bfeb-7c654c6ddba9",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"86168",
+            "PostHistoryTypeId":"6",
+            "Id":"283247",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2014-11-02T19:31:44.967",
+            "UserDisplayName":null,
+            "RevisionGUID":"36e1d31e-47b9-4838-8e06-8a2c9a522965",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"86168",
+            "PostHistoryTypeId":"10",
+            "Id":"284617",
+            "Text":"{\"OriginalQuestionIds\":[79342],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":12442,\"DisplayName\":\"Dan Hulme\"},{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

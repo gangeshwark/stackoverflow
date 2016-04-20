@@ -1,0 +1,83 @@
+{
+    "Body":"I now and then use an app that is written to autostart on every boot of the device. This is pretty annoying since I don't use it that much. How can I stop it ?I know there is an \"Autorun Manager\" app, but it requires a rooted phone. Is there a way to do this on a non-rooted device ?",
+    "ViewCount":"14004",
+    "LastActivityDate":"2013-02-15T16:00:06.567",
+    "ClosedDate":"2013-02-15T16:01:34.740",
+    "Title":"Howto avoid autostart of an app (non-rooted)?",
+    "LastEditorUserId":"267",
+    "Tags":"",
+    "LastEditDate":"2013-02-15T15:04:02.253",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15697",
+    "CreationDate":"2013-02-15T13:50:05.970",
+    "FavoriteCount":"0",
+    "Id":"39693",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-15T13:50:05.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"6fa32d35-92e5-4d5f-aaec-2da1ccb33c1d",
+            "UserId":"15697",
+            "CloseReasonId":null,
+            "PostId":"39693",
+            "PostHistoryTypeId":"2",
+            "Id":"122783",
+            "Text":"I now and then use an app that is written to autostart on every boot of the device. This is pretty annoying since I don't use it that much. How can I stop it ?I know there is an \"Autorun Manager\" app, but it requires a rooted phone. Is there a way to do this on a non-rooted device ?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-15T13:50:05.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"6fa32d35-92e5-4d5f-aaec-2da1ccb33c1d",
+            "UserId":"15697",
+            "CloseReasonId":null,
+            "PostId":"39693",
+            "PostHistoryTypeId":"1",
+            "Id":"122784",
+            "Text":"Howto avoid autostart of an app (non-rooted)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-15T13:50:05.970",
+            "UserDisplayName":null,
+            "RevisionGUID":"6fa32d35-92e5-4d5f-aaec-2da1ccb33c1d",
+            "UserId":"15697",
+            "CloseReasonId":null,
+            "PostId":"39693",
+            "PostHistoryTypeId":"3",
+            "Id":"122785",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2013-02-15T15:04:02.253",
+            "UserDisplayName":null,
+            "RevisionGUID":"efc866ac-29e4-4f04-8fa4-e550b33f2e90",
+            "UserId":"267",
+            "CloseReasonId":null,
+            "PostId":"39693",
+            "PostHistoryTypeId":"6",
+            "Id":"122801",
+            "Text":""
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2013-02-15T16:01:34.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"2602ee16-f6bb-4e1b-8528-b090143a2d6f",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"39693",
+            "PostHistoryTypeId":"10",
+            "Id":"122831",
+            "Text":"{\"OriginalQuestionIds\":[158,30332],\"Voters\":[{\"Id\":267,\"DisplayName\":\"user267\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"I'm rather new to Android development. Where I work there are pretty tight security measures (firewall etc) preventing me to download API 15 from within Eclipse. We configured Eclipse's proxy settings to match IE's, but this didn't fix the issue. Finally, I took my laptop home to circumvent the issue. Everything works great now, except for the fact that my colleague has a company desktop and needs to work with android as well. Does anyone have any suggestions on how to perform an update on his pc? \/ Does anyone know in what system folder the Android SDK stores the API15 installation files?Thanks alot!",
+    "ViewCount":"969",
+    "LastActivityDate":"2012-03-08T20:59:30.297",
+    "ClosedDate":"2012-08-14T08:29:34.657",
+    "Title":"Where can I find local installation files?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"13247",
+    "CreationDate":"2012-03-08T15:48:21.217",
+    "FavoriteCount":null,
+    "Id":"20417",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-08T15:48:21.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"949f9b79-97fb-4a83-9ccf-7e6cbafe36bc",
+            "UserId":"13247",
+            "CloseReasonId":null,
+            "PostId":"20417",
+            "PostHistoryTypeId":"2",
+            "Id":"56833",
+            "Text":"I'm rather new to Android development. Where I work there are pretty tight security measures (firewall etc) preventing me to download API 15 from within Eclipse. We configured Eclipse's proxy settings to match IE's, but this didn't fix the issue. Finally, I took my laptop home to circumvent the issue. Everything works great now, except for the fact that my colleague has a company desktop and needs to work with android as well. Does anyone have any suggestions on how to perform an update on his pc? \/ Does anyone know in what system folder the Android SDK stores the API15 installation files?Thanks alot!"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-08T15:48:21.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"949f9b79-97fb-4a83-9ccf-7e6cbafe36bc",
+            "UserId":"13247",
+            "CloseReasonId":null,
+            "PostId":"20417",
+            "PostHistoryTypeId":"1",
+            "Id":"56834",
+            "Text":"Where can I find local installation files?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-03-08T15:48:21.217",
+            "UserDisplayName":null,
+            "RevisionGUID":"949f9b79-97fb-4a83-9ccf-7e6cbafe36bc",
+            "UserId":"13247",
+            "CloseReasonId":null,
+            "PostId":"20417",
+            "PostHistoryTypeId":"3",
+            "Id":"56835",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2012-08-14T08:29:34.657",
+            "UserDisplayName":null,
+            "RevisionGUID":"dee31aec-6a57-42eb-823a-4794efd55ad0",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"20417",
+            "PostHistoryTypeId":"10",
+            "Id":"80060",
+            "Text":"{\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"},{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":440,\"DisplayName\":\"Flow\"},{\"Id\":13391,\"DisplayName\":\"Richard Borcsik\"}]}"
+        }
+    ]
+}

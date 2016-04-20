@@ -1,0 +1,71 @@
+{
+    "Body":"Please help me, my thL T6 pro device has enough memory available but I can't download. It's so annoying. Please help me.Available storage 3.5g but it says insufficient storage.",
+    "ViewCount":"65",
+    "LastActivityDate":"2015-10-06T12:09:52.137",
+    "ClosedDate":"2015-10-19T23:07:22.427",
+    "Title":"Insufficient storage error on android phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"130689",
+    "CreationDate":"2015-10-06T07:55:42.683",
+    "FavoriteCount":null,
+    "Id":"125097",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-06T07:55:42.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dcbc3d8-b922-4e6f-a47f-8a06fb2ffe38",
+            "UserId":"130689",
+            "CloseReasonId":null,
+            "PostId":"125097",
+            "PostHistoryTypeId":"2",
+            "Id":"409755",
+            "Text":"Please help me, my thL T6 pro device has enough memory available but I can't download. It's so annoying. Please help me.Available storage 3.5g but it says insufficient storage."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-06T07:55:42.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dcbc3d8-b922-4e6f-a47f-8a06fb2ffe38",
+            "UserId":"130689",
+            "CloseReasonId":null,
+            "PostId":"125097",
+            "PostHistoryTypeId":"1",
+            "Id":"409756",
+            "Text":"Insufficient storage error on android phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-10-06T07:55:42.683",
+            "UserDisplayName":null,
+            "RevisionGUID":"3dcbc3d8-b922-4e6f-a47f-8a06fb2ffe38",
+            "UserId":"130689",
+            "CloseReasonId":null,
+            "PostId":"125097",
+            "PostHistoryTypeId":"3",
+            "Id":"409757",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-10-19T23:07:22.427",
+            "UserDisplayName":null,
+            "RevisionGUID":"027a6e74-2981-419d-8902-ca1443de2c3b",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"125097",
+            "PostHistoryTypeId":"10",
+            "Id":"415019",
+            "Text":"{\"OriginalQuestionIds\":[25200],\"Voters\":[{\"Id\":96277,\"DisplayName\":\"Firelord\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

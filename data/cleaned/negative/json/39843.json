@@ -1,0 +1,83 @@
+{
+    "Body":"Is the backup\/restore process of Titanium Backup just as good and functional as Google's native processes? In other words, will an app backed up and restored by Titanium Backup run and be just as functional, efficient, and \"good\" as an app restored through Google (e.g., Play Store)? I'm in the process of Titanium Backup'ing my old Nexus 7 16GB and prepping to restore it on a new Nexus 7 32GB. I'm worried, however, that between the Nexii, they're running vastly different operating systems and even Android versions. I cringe, thinking of the audacity of trying something like that on a PC -- merely copying a complex program's directory from \"Program Files\" on a Windows 2000 machine and then pasting it into a Windows 8 machine, expecting it to start raining down peaches of error-free bliss.I'm trying to come up with a \"regimen\" for myself between ROMs and devices -- a plan of repeatable steps to make the transplanting of apps and data across devices seamless and quick. But currently, my OCD softly whispers in my ear \"Those backed up apps aren't good enough. They will always be less than what they were. Only an official reinstall through the Google Play Store will be sufficient. You're worthless.\" Etc.(NOTE: Additional questions below come from my brainstorming process in determining the best way to phrase this issue succinctly. These questions are closely tied to this question's subject, and knowing them may prove useful in helping one to understand the core of my ill-knowledge, and perhaps tailor an appropriate or more effective \"vector\" of information to the answer. However, these questions are supplementary and entirely optional information, merely supporting the core issue of misunderstanding, and do not require answering to officially answer this topic's question.)Is there any harm in backing up and restoring apps (app and data) across devices, operating systems, and versions, and doing so with a 3rd party app like Titanium Backup? And would this depend on the \"gap\" of difference between the two devices\/OS's\/Android versions? How \"personalized\" are Android apps to the devices they're installed on, and are their \"inferior\" ways for an app to be restored (leading to subsequent inferior operation, post-restore)? Is there a \"limit\" to the difference of device\/model\/OS\/Android that can be tolerated in backing up and restoring an app from one device to another?",
+    "ViewCount":"693",
+    "LastActivityDate":"2014-01-13T16:25:39.813",
+    "ClosedDate":"2013-02-18T18:49:44.747",
+    "Title":"Are apps backed up\/restored with Titanium Backup just as \"good\" as through Google?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2014-01-13T16:25:39.813",
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"24054",
+    "CreationDate":"2013-02-18T12:15:28.437",
+    "FavoriteCount":null,
+    "Id":"39843",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-18T12:15:28.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"87ebbcf8-95cd-44b7-8b6a-62c638d839be",
+            "UserId":"24054",
+            "CloseReasonId":null,
+            "PostId":"39843",
+            "PostHistoryTypeId":"2",
+            "Id":"123435",
+            "Text":"Is the backup\/restore process of Titanium Backup just as good and functional as Google's native processes? In other words, will an app backed up and restored by Titanium Backup run and be just as functional, efficient, and \"good\" as an app restored through Google (e.g., Play Store)? I'm in the process of Titanium Backup'ing my old Nexus 7 16GB and prepping to restore it on a new Nexus 7 32GB. I'm worried, however, that between the Nexii, they're running vastly different operating systems and even Android versions. I cringe, thinking of the audacity of trying something like that on a PC -- merely copying a complex program's directory from \"Program Files\" on a Windows 2000 machine and then pasting it into a Windows 8 machine, expecting it to start raining down peaches of error-free bliss.I'm trying to come up with a \"regimen\" for myself between ROMs and devices -- a plan of repeatable steps to make the transplanting of apps and data across devices seamless and quick. But currently, my OCD softly whispers in my ear \"Those backed up apps aren't good enough. They will always be less than what they were. Only an official reinstall through the Google Play Store will be sufficient. You're worthless.\" Etc.(NOTE: Additional questions below come from my brainstorming process in determining the best way to phrase this issue succinctly. These questions are closely tied to this question's subject, and knowing them may prove useful in helping one to understand the core of my ill-knowledge, and perhaps tailor an appropriate or more effective \"vector\" of information to the answer. However, these questions are supplementary and entirely optional information, merely supporting the core issue of misunderstanding, and do not require answering to officially answer this topic's question.)Is there any harm in backing up and restoring apps (app and data) across devices, operating systems, and versions, and doing so with a 3rd party app like Titanium Backup? And would this depend on the \"gap\" of difference between the two devices\/OS's\/Android versions? How \"personalized\" are Android apps to the devices they're installed on, and are their \"inferior\" ways for an app to be restored (leading to subsequent inferior operation, post-restore)? Is there a \"limit\" to the difference of device\/model\/OS\/Android that can be tolerated in backing up and restoring an app from one device to another?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-18T12:15:28.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"87ebbcf8-95cd-44b7-8b6a-62c638d839be",
+            "UserId":"24054",
+            "CloseReasonId":null,
+            "PostId":"39843",
+            "PostHistoryTypeId":"1",
+            "Id":"123436",
+            "Text":"Are apps backed up\/restored with Titanium Backup just as \"good\" as through Google?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-02-18T12:15:28.437",
+            "UserDisplayName":null,
+            "RevisionGUID":"87ebbcf8-95cd-44b7-8b6a-62c638d839be",
+            "UserId":"24054",
+            "CloseReasonId":null,
+            "PostId":"39843",
+            "PostHistoryTypeId":"3",
+            "Id":"123437",
+            "Text":""
+        },
+        {
+            "Comment":"3",
+            "CreationDate":"2013-02-18T18:49:44.747",
+            "UserDisplayName":null,
+            "RevisionGUID":"859d24d7-4a94-4311-abfb-b566f43ef1df",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"39843",
+            "PostHistoryTypeId":"10",
+            "Id":"123531",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2014-01-13T16:25:39.813",
+            "UserDisplayName":null,
+            "RevisionGUID":"8b4e3b9b-0876-42a4-b197-8b1c71043f9a",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"39843",
+            "PostHistoryTypeId":"6",
+            "Id":"206521",
+            "Text":""
+        }
+    ]
+}

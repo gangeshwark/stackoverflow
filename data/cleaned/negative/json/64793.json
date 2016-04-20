@@ -1,0 +1,83 @@
+{
+    "Body":"What is the chance Android 4+ phone or tablet with physical HDMI-out connector will be able to output FullHD resolution if the device itself does not have FullHD screen? Are there any rules for this? What if the device's screen resolution is even smaller than 720p (like 800x480)?",
+    "ViewCount":"285",
+    "LastActivityDate":"2014-07-15T09:43:05.450",
+    "ClosedDate":"2014-08-04T10:56:27.497",
+    "Title":"Can non-HD Android devices output full HD over HDMI?",
+    "LastEditorUserId":"12442",
+    "Tags":"",
+    "LastEditDate":"2014-07-15T09:38:43.050",
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"30555",
+    "CreationDate":"2014-03-04T15:34:09.407",
+    "FavoriteCount":null,
+    "Id":"64793",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-04T15:34:09.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad70def1-d612-4937-8ad1-0c069a2f85a7",
+            "UserId":"30555",
+            "CloseReasonId":null,
+            "PostId":"64793",
+            "PostHistoryTypeId":"2",
+            "Id":"220482",
+            "Text":"What is the chance Android 4+ phone or tablet with physical HDMI-out connector will be able to output FullHD resolution if the device itself does not have FullHD screen? Are there any rules for this? What if the device's screen resolution is even smaller than 720p (like 800x480)?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-04T15:34:09.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad70def1-d612-4937-8ad1-0c069a2f85a7",
+            "UserId":"30555",
+            "CloseReasonId":null,
+            "PostId":"64793",
+            "PostHistoryTypeId":"1",
+            "Id":"220483",
+            "Text":"HDMI output resolution"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2014-03-04T15:34:09.407",
+            "UserDisplayName":null,
+            "RevisionGUID":"ad70def1-d612-4937-8ad1-0c069a2f85a7",
+            "UserId":"30555",
+            "CloseReasonId":null,
+            "PostId":"64793",
+            "PostHistoryTypeId":"3",
+            "Id":"220484",
+            "Text":""
+        },
+        {
+            "Comment":"The title should express what the question is, to make it easier for other visitors to find.",
+            "CreationDate":"2014-07-15T09:38:43.050",
+            "UserDisplayName":null,
+            "RevisionGUID":"7c123b05-d861-41ea-9fe1-384f19813e56",
+            "UserId":"12442",
+            "CloseReasonId":null,
+            "PostId":"64793",
+            "PostHistoryTypeId":"4",
+            "Id":"254794",
+            "Text":"Can non-HD Android devices output full HD over HDMI?"
+        },
+        {
+            "Comment":"104",
+            "CreationDate":"2014-08-04T10:56:27.497",
+            "UserDisplayName":null,
+            "RevisionGUID":"a5dde598-1e63-4222-bc09-4f4798555009",
+            "UserId":"475",
+            "CloseReasonId":null,
+            "PostId":"64793",
+            "PostHistoryTypeId":"10",
+            "Id":"259706",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al E.\"},{\"Id\":475,\"DisplayName\":\"onik\"}]}"
+        }
+    ]
+}

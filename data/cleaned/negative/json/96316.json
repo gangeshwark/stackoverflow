@@ -1,0 +1,71 @@
+{
+    "Body":"Does it read the partition and copy it bit by bit to some file?",
+    "ViewCount":"49",
+    "LastActivityDate":"2015-01-19T19:05:10.957",
+    "ClosedDate":"2015-02-11T01:15:45.300",
+    "Title":"How does 4ext recovery backup works",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"96327",
+    "Score":"-3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"55171",
+    "CreationDate":"2015-01-19T17:57:40.727",
+    "FavoriteCount":null,
+    "Id":"96316",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-19T17:57:40.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"870b8e31-086e-4a14-900c-39448eb90887",
+            "UserId":"55171",
+            "CloseReasonId":null,
+            "PostId":"96316",
+            "PostHistoryTypeId":"2",
+            "Id":"313744",
+            "Text":"Does it read the partition and copy it bit by bit to some file?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-19T17:57:40.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"870b8e31-086e-4a14-900c-39448eb90887",
+            "UserId":"55171",
+            "CloseReasonId":null,
+            "PostId":"96316",
+            "PostHistoryTypeId":"1",
+            "Id":"313745",
+            "Text":"How does 4ext recovery backup works"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-01-19T17:57:40.727",
+            "UserDisplayName":null,
+            "RevisionGUID":"870b8e31-086e-4a14-900c-39448eb90887",
+            "UserId":"55171",
+            "CloseReasonId":null,
+            "PostId":"96316",
+            "PostHistoryTypeId":"3",
+            "Id":"313746",
+            "Text":""
+        },
+        {
+            "Comment":"103",
+            "CreationDate":"2015-02-11T01:15:45.300",
+            "UserDisplayName":null,
+            "RevisionGUID":"e362f88f-4abc-49cc-9076-d96d02a4bc2c",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"96316",
+            "PostHistoryTypeId":"10",
+            "Id":"321491",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":40036,\"DisplayName\":\"RossC\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

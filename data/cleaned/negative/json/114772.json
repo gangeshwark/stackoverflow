@@ -1,0 +1,83 @@
+{
+    "Body":"I accidentally deleted Google Play services, Play store and various other apps through Titanium. I tried reinstalling play store through apk (5.7.6) but each time it either gives me many 'Unfortunately Play store has stopped' messages or it works but shows me an error when I try to download an application. I have lost many other google apps such as Maps, Music etc and I need all of these. Tried a factory reset as suggested on some forums but in vain. I'm running CM12: Lollipop 5.0.2 And I'm rooted. Any solutions please?Thanks in advance.",
+    "ViewCount":"5989",
+    "LastActivityDate":"2015-07-09T23:59:57.983",
+    "ClosedDate":"2015-07-11T08:50:13.477",
+    "Title":"Problem with Google Play services",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2015-07-09T11:19:09.400",
+    "CommentCount":"4",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"114853",
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116078",
+    "CreationDate":"2015-07-09T08:43:41.887",
+    "FavoriteCount":"2",
+    "Id":"114772",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T08:43:41.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e58182c-6b39-4d23-beb4-c6b3c23689ae",
+            "UserId":"116078",
+            "CloseReasonId":null,
+            "PostId":"114772",
+            "PostHistoryTypeId":"2",
+            "Id":"376576",
+            "Text":"I accidentally deleted Google Play services, Play store and various other apps through Titanium. I tried reinstalling play store through apk (5.7.6) but each time it either gives me many 'Unfortunately Play store has stopped' messages or it works but shows me an error when I try to download an application. I have lost many other google apps such as Maps, Music etc and I need all of these. Tried a factory reset as suggested on some forums but in vain. I'm running CM12: Lollipop 5.0.2 And I'm rooted. Any solutions please?Thanks in advance."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T08:43:41.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e58182c-6b39-4d23-beb4-c6b3c23689ae",
+            "UserId":"116078",
+            "CloseReasonId":null,
+            "PostId":"114772",
+            "PostHistoryTypeId":"1",
+            "Id":"376577",
+            "Text":"Problem with Google Play services"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-07-09T08:43:41.887",
+            "UserDisplayName":null,
+            "RevisionGUID":"4e58182c-6b39-4d23-beb4-c6b3c23689ae",
+            "UserId":"116078",
+            "CloseReasonId":null,
+            "PostId":"114772",
+            "PostHistoryTypeId":"3",
+            "Id":"376578",
+            "Text":""
+        },
+        {
+            "Comment":"edited tags",
+            "CreationDate":"2015-07-09T11:19:09.400",
+            "UserDisplayName":null,
+            "RevisionGUID":"a8575da9-ead1-4965-b84a-e5d55b25ac85",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"114772",
+            "PostHistoryTypeId":"6",
+            "Id":"376622",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-07-11T08:50:13.477",
+            "UserDisplayName":null,
+            "RevisionGUID":"d14aef10-1ae9-448d-b5b8-cf6428eb4f24",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"114772",
+            "PostHistoryTypeId":"10",
+            "Id":"377357",
+            "Text":"{\"OriginalQuestionIds\":[27808],\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

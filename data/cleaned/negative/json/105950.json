@@ -1,0 +1,71 @@
+{
+    "Body":"I have updated the samsung galaxy s4 OS from Kitkat to Lollipop using system update. Now I want to hard reset. Does anyone know that after the hard reset Lollipop OS remains or it reverts to Kitkat?",
+    "ViewCount":"973",
+    "LastActivityDate":"2015-04-19T19:06:43.527",
+    "ClosedDate":"2015-04-19T23:51:24.223",
+    "Title":"Will hard resetting my device remove the Android upgrade?",
+    "LastEditorUserId":null,
+    "Tags":"<5.0-lollipop>",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"103192",
+    "CreationDate":"2015-04-19T18:24:16.577",
+    "FavoriteCount":null,
+    "Id":"105950",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-19T18:24:16.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"3313c41c-c910-42e7-aa34-c09f5592ef21",
+            "UserId":"103192",
+            "CloseReasonId":null,
+            "PostId":"105950",
+            "PostHistoryTypeId":"2",
+            "Id":"346457",
+            "Text":"I have updated the samsung galaxy s4 OS from Kitkat to Lollipop using system update. Now I want to hard reset. Does anyone know that after the hard reset Lollipop OS remains or it reverts to Kitkat?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-19T18:24:16.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"3313c41c-c910-42e7-aa34-c09f5592ef21",
+            "UserId":"103192",
+            "CloseReasonId":null,
+            "PostId":"105950",
+            "PostHistoryTypeId":"1",
+            "Id":"346458",
+            "Text":"Will hard resetting my device remove the Android upgrade?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-04-19T18:24:16.577",
+            "UserDisplayName":null,
+            "RevisionGUID":"3313c41c-c910-42e7-aa34-c09f5592ef21",
+            "UserId":"103192",
+            "CloseReasonId":null,
+            "PostId":"105950",
+            "PostHistoryTypeId":"3",
+            "Id":"346459",
+            "Text":"<5.0-lollipop>"
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-04-19T23:51:24.223",
+            "UserDisplayName":null,
+            "RevisionGUID":"5d5d4ad9-c1bf-4488-b593-a8f1c0a14d41",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"105950",
+            "PostHistoryTypeId":"10",
+            "Id":"346530",
+            "Text":"{\"OriginalQuestionIds\":[12626],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

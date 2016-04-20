@@ -1,0 +1,71 @@
+{
+    "Body":"I've got a Samsung Galaxy S (I9000) which I purchased from the Spanish operator Movistar around two years ago. I have spent most of the day trying to flash it with cyanogenmod 7.TL;DR: Installing cyanogenmod 7 was incredibly difficultIt has been ... quite and adventure. First I tried heimdall from Ubuntu (didn't even connect to the phone) then I tried from Windows, using its graphical interface. It had the \"repartition\" flag activated by default, when it shouldn't, so I bricked my phone. After lots of trial an error, I managed to install a ROM in my phone, using Odin as root, the stock cable, and a different usb port than the one I was using (go figure...). And from there I was able to install cyanogenmod as it says on the instructions. Then I had to reinstall them, because they were bootlooping.END TL;DRSo, now I've got a Samsung Galaxy S with Cyanogenmod 7. But it complaints that it doesn't detect any SIM card. When it boots up, it says \"No SIM card. Emergency calls only\". Notice that it doesn't say \"incompatible SIM\", Nor it asks me for a password of any kind. It just doesn't seem to detect the card at all.What steps can I follow to solve this issue, or at least get more information about it?",
+    "ViewCount":"10882",
+    "LastActivityDate":"2012-07-16T20:57:23.977",
+    "ClosedDate":"2012-07-16T22:14:52.393",
+    "Title":"My SIM is not recognized after installing Cyanogenmod; what should I do?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"17058",
+    "CreationDate":"2012-07-16T20:49:32.143",
+    "FavoriteCount":null,
+    "Id":"25955",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-16T20:49:32.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"2769de21-e811-4047-bdae-563f279819b1",
+            "UserId":"17058",
+            "CloseReasonId":null,
+            "PostId":"25955",
+            "PostHistoryTypeId":"2",
+            "Id":"75088",
+            "Text":"I've got a Samsung Galaxy S (I9000) which I purchased from the Spanish operator Movistar around two years ago. I have spent most of the day trying to flash it with cyanogenmod 7.TL;DR: Installing cyanogenmod 7 was incredibly difficultIt has been ... quite and adventure. First I tried heimdall from Ubuntu (didn't even connect to the phone) then I tried from Windows, using its graphical interface. It had the \"repartition\" flag activated by default, when it shouldn't, so I bricked my phone. After lots of trial an error, I managed to install a ROM in my phone, using Odin as root, the stock cable, and a different usb port than the one I was using (go figure...). And from there I was able to install cyanogenmod as it says [on the instructions][1]. Then I had to reinstall them, because they were bootlooping.END TL;DRSo, now I've got a Samsung Galaxy S with Cyanogenmod 7. But it complaints that it doesn't detect any SIM card. When it boots up, it says \"No SIM card. Emergency calls only\". Notice that it doesn't say \"incompatible SIM\", Nor it asks me for a password of any kind. It just doesn't seem to detect the card at all.What steps can I follow to solve this issue, or at least get more information about it?  [1]: http:\/\/wiki.cyanogenmod.com\/wiki\/Samsung_Galaxy_S"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-16T20:49:32.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"2769de21-e811-4047-bdae-563f279819b1",
+            "UserId":"17058",
+            "CloseReasonId":null,
+            "PostId":"25955",
+            "PostHistoryTypeId":"1",
+            "Id":"75089",
+            "Text":"My SIM is not recognized after installing Cyanogenmod; what should I do?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-07-16T20:49:32.143",
+            "UserDisplayName":null,
+            "RevisionGUID":"2769de21-e811-4047-bdae-563f279819b1",
+            "UserId":"17058",
+            "CloseReasonId":null,
+            "PostId":"25955",
+            "PostHistoryTypeId":"3",
+            "Id":"75090",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-07-16T22:14:52.393",
+            "UserDisplayName":null,
+            "RevisionGUID":"cd4f6260-15be-4b10-8cd6-cdb60bd299b5",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"25955",
+            "PostHistoryTypeId":"10",
+            "Id":"75096",
+            "Text":"{\"Voters\":[{\"Id\":1951,\"DisplayName\":\"Ryan Conrad\"},{\"Id\":3303,\"DisplayName\":\"Sachin Shekhar\"},{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

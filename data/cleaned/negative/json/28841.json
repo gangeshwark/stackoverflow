@@ -1,0 +1,71 @@
+{
+    "Body":"My Samsung Galaxy Note (GT-N7000) currently has 4.0.3 installed. It has let me know it has the upgrade for 4.0.4 but every time I run it, it fails. After failure it will boot back up fine and has a message it has failed and I should try update with Kies (which doesn't work either).I can't find anyone else with the same problem. Any suggestions?",
+    "ViewCount":"211",
+    "LastActivityDate":"2012-12-05T07:04:44.367",
+    "ClosedDate":"2012-12-06T00:21:32.637",
+    "Title":"Galaxy Note 4.0.4 upgrade failure",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"3",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":"34765",
+    "Score":"2",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"18917",
+    "CreationDate":"2012-09-06T02:59:24.987",
+    "FavoriteCount":null,
+    "Id":"28841",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T02:59:24.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d7673f6-be86-4cc6-837a-004e4e0690c2",
+            "UserId":"18917",
+            "CloseReasonId":null,
+            "PostId":"28841",
+            "PostHistoryTypeId":"2",
+            "Id":"84491",
+            "Text":"My Samsung Galaxy Note (GT-N7000) currently has 4.0.3 installed. It has let me know it has the upgrade for 4.0.4 but every time I run it, it fails. After failure it will boot back up fine and has a message it has failed and I should try update with Kies (which doesn't work either).I can't find anyone else with the same problem. Any suggestions?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T02:59:24.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d7673f6-be86-4cc6-837a-004e4e0690c2",
+            "UserId":"18917",
+            "CloseReasonId":null,
+            "PostId":"28841",
+            "PostHistoryTypeId":"1",
+            "Id":"84492",
+            "Text":"Galaxy Note 4.0.4 upgrade failure"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-09-06T02:59:24.987",
+            "UserDisplayName":null,
+            "RevisionGUID":"0d7673f6-be86-4cc6-837a-004e4e0690c2",
+            "UserId":"18917",
+            "CloseReasonId":null,
+            "PostId":"28841",
+            "PostHistoryTypeId":"3",
+            "Id":"84493",
+            "Text":""
+        },
+        {
+            "Comment":"7",
+            "CreationDate":"2012-12-06T00:21:32.637",
+            "UserDisplayName":null,
+            "RevisionGUID":"823678c3-5e46-4be3-8cfd-11e79135c2d9",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"28841",
+            "PostHistoryTypeId":"10",
+            "Id":"103863",
+            "Text":"{\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":3646,\"DisplayName\":\"Chahk\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":16265,\"DisplayName\":\"Zuul\"}]}"
+        }
+    ]
+}

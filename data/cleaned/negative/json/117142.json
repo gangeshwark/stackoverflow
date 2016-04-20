@@ -1,0 +1,71 @@
+{
+    "Body":"Is there, how can I setup, a form of wireless adb? I would like it control and logcat my device whilst it is borrowed by others.",
+    "ViewCount":"14",
+    "LastActivityDate":"2015-08-03T14:33:20.177",
+    "ClosedDate":"2015-08-03T18:51:45.687",
+    "Title":"Is Wireless ADB possible?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"116168",
+    "CreationDate":"2015-08-03T14:33:20.177",
+    "FavoriteCount":null,
+    "Id":"117142",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-03T14:33:20.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"273ef13d-aaed-4829-9a7c-c803a0b5c9a7",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"117142",
+            "PostHistoryTypeId":"2",
+            "Id":"385606",
+            "Text":"Is there, how can I setup, a form of wireless adb? I would like it control and logcat my device whilst it is borrowed by others."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-03T14:33:20.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"273ef13d-aaed-4829-9a7c-c803a0b5c9a7",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"117142",
+            "PostHistoryTypeId":"1",
+            "Id":"385607",
+            "Text":"Is Wireless ADB possible?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2015-08-03T14:33:20.177",
+            "UserDisplayName":null,
+            "RevisionGUID":"273ef13d-aaed-4829-9a7c-c803a0b5c9a7",
+            "UserId":"116168",
+            "CloseReasonId":null,
+            "PostId":"117142",
+            "PostHistoryTypeId":"3",
+            "Id":"385608",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2015-08-03T18:51:45.687",
+            "UserDisplayName":null,
+            "RevisionGUID":"a1289fbc-b989-432f-9574-46659e62cf4b",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"117142",
+            "PostHistoryTypeId":"10",
+            "Id":"385720",
+            "Text":"{\"OriginalQuestionIds\":[6949],\"Voters\":[{\"Id\":30530,\"DisplayName\":\"bmdixon\"},{\"Id\":-1,\"DisplayName\":\"Community\",\"BindingReason\":{\"DuplicateApprovedByAsker\":\"\"}}]}"
+        }
+    ]
+}

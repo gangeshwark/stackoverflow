@@ -1,0 +1,71 @@
+{
+    "Body":"Recently I bought a Chinese made android phone. Specifications of the phone is given here. The phone has mediatek mtk6577 processor. I been thinking to install different ROM in my device. But, I can not find source to download this ROM. Is it possible to install google stock rom in this phone and where can I find this rom? How do I know which rom is compatible with my device?Any kind of help is appreciated. Thanks.",
+    "ViewCount":"17680",
+    "LastActivityDate":"2013-07-22T15:11:52.777",
+    "ClosedDate":"2013-07-23T05:41:04.297",
+    "Title":"Install different rom on Chinese made android phone",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"1",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"29784",
+    "CreationDate":"2013-03-08T05:58:29.303",
+    "FavoriteCount":null,
+    "Id":"41046",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-08T05:58:29.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"10a28beb-d2eb-494b-9892-0f4ea89455a0",
+            "UserId":"29784",
+            "CloseReasonId":null,
+            "PostId":"41046",
+            "PostHistoryTypeId":"2",
+            "Id":"128147",
+            "Text":"Recently I bought a Chinese made android phone. Specifications of the phone is given [here][1]. The phone has mediatek mtk6577 processor. I been thinking to install different ROM in my device. But, I can not find source to download this ROM. Is it possible to install google stock rom in this phone and where can I find this rom? How do I know which rom is compatible with my device?Any kind of help is appreciated. Thanks.  [1]: http:\/\/symphony-mobile.com\/index.php?route=product\/product&path=63&product_id=143"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-08T05:58:29.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"10a28beb-d2eb-494b-9892-0f4ea89455a0",
+            "UserId":"29784",
+            "CloseReasonId":null,
+            "PostId":"41046",
+            "PostHistoryTypeId":"1",
+            "Id":"128148",
+            "Text":"Install different rom on Chinese made android phone"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-03-08T05:58:29.303",
+            "UserDisplayName":null,
+            "RevisionGUID":"10a28beb-d2eb-494b-9892-0f4ea89455a0",
+            "UserId":"29784",
+            "CloseReasonId":null,
+            "PostId":"41046",
+            "PostHistoryTypeId":"3",
+            "Id":"128149",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-07-23T05:41:04.297",
+            "UserDisplayName":null,
+            "RevisionGUID":"f191e37e-6ff0-4935-84b8-f4e11f355883",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"41046",
+            "PostHistoryTypeId":"10",
+            "Id":"162321",
+            "Text":"{\"OriginalQuestionIds\":[17152],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":5342,\"DisplayName\":\"geffchang\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":15713,\"DisplayName\":\"ce4\"}]}"
+        }
+    ]
+}

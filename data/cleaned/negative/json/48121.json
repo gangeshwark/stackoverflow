@@ -1,0 +1,71 @@
+{
+    "Body":"I have a new annoying icon on my Razr notification bar.  It is a tiny blinking symbol that sort of looks like a tiny house with a cloud over it.  It is blinking above the network strength bars where the \"x\" would be if there was no service.Anyone know what that is?",
+    "ViewCount":"659",
+    "LastActivityDate":"2013-06-27T18:46:47.330",
+    "ClosedDate":"2013-06-27T19:14:32.333",
+    "Title":"Blinking icon in notification bar",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"2",
+    "AcceptedAnswerId":"48125",
+    "Score":"3",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"36664",
+    "CreationDate":"2013-06-27T18:15:28.843",
+    "FavoriteCount":null,
+    "Id":"48121",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-27T18:15:28.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fae609b-706f-453e-8984-e0262a081112",
+            "UserId":"36664",
+            "CloseReasonId":null,
+            "PostId":"48121",
+            "PostHistoryTypeId":"2",
+            "Id":"156072",
+            "Text":"I have a new annoying icon on my Razr notification bar.  It is a tiny blinking symbol that sort of looks like a tiny house with a cloud over it.  It is blinking above the network strength bars where the \"x\" would be if there was no service.Anyone know what that is?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-27T18:15:28.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fae609b-706f-453e-8984-e0262a081112",
+            "UserId":"36664",
+            "CloseReasonId":null,
+            "PostId":"48121",
+            "PostHistoryTypeId":"1",
+            "Id":"156073",
+            "Text":"Blinking icon in notification bar"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-06-27T18:15:28.843",
+            "UserDisplayName":null,
+            "RevisionGUID":"1fae609b-706f-453e-8984-e0262a081112",
+            "UserId":"36664",
+            "CloseReasonId":null,
+            "PostId":"48121",
+            "PostHistoryTypeId":"3",
+            "Id":"156074",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-06-27T19:14:32.333",
+            "UserDisplayName":null,
+            "RevisionGUID":"cfd1243a-309d-4d78-a73a-474244d45bcd",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"48121",
+            "PostHistoryTypeId":"10",
+            "Id":"156089",
+            "Text":"{\"OriginalQuestionIds\":[34948],\"Voters\":[{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Body":"Currently I'm using Aldiko, but every time I flip the page it's resized to fit the screen which is too small to read. Other programs don't support DRM again. So is there something to allow fixed (or configurable) width for reading DRM protected PDFs?",
+    "ViewCount":"1333",
+    "LastActivityDate":"2012-05-17T16:17:23.677",
+    "ClosedDate":"2013-03-24T19:38:07.757",
+    "Title":"Is there a PDF reader with DRM support and width locking?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"6",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"2664",
+    "CreationDate":"2011-04-25T18:12:27.413",
+    "FavoriteCount":"1",
+    "Id":"8624",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-25T18:12:27.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7589f11-18d4-4714-87e1-2e82cd762dd5",
+            "UserId":"2664",
+            "CloseReasonId":null,
+            "PostId":"8624",
+            "PostHistoryTypeId":"2",
+            "Id":"20973",
+            "Text":"Currently I'm using Aldiko, but every time I flip the page it's resized to fit the screen which is too small to read. Other programs don't support DRM again. So is there something to allow fixed (or configurable) width for reading DRM protected PDFs?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-25T18:12:27.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7589f11-18d4-4714-87e1-2e82cd762dd5",
+            "UserId":"2664",
+            "CloseReasonId":null,
+            "PostId":"8624",
+            "PostHistoryTypeId":"1",
+            "Id":"20974",
+            "Text":"Is there a PDF reader with DRM support and width locking?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-04-25T18:12:27.413",
+            "UserDisplayName":null,
+            "RevisionGUID":"e7589f11-18d4-4714-87e1-2e82cd762dd5",
+            "UserId":"2664",
+            "CloseReasonId":null,
+            "PostId":"8624",
+            "PostHistoryTypeId":"3",
+            "Id":"20975",
+            "Text":""
+        },
+        {
+            "Comment":"2",
+            "CreationDate":"2013-03-24T19:38:07.757",
+            "UserDisplayName":null,
+            "RevisionGUID":"4cfaabef-1a90-42a9-8b22-01eac0c9d0b7",
+            "UserId":"10",
+            "CloseReasonId":null,
+            "PostId":"8624",
+            "PostHistoryTypeId":"10",
+            "Id":"132997",
+            "Text":"{\"Voters\":[{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":11209,\"DisplayName\":\"Liam W\"},{\"Id\":4003,\"DisplayName\":\"t0mm13b\"},{\"Id\":8197,\"DisplayName\":\"roxan\"},{\"Id\":10,\"DisplayName\":\"Bryan Denny\"}]}"
+        }
+    ]
+}

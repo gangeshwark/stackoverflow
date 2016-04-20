@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  How do I update the OS on my device?  When will my device get the Android 4.1 update (Jelly Bean)?  I have Sony Tipo (Android OS 4.0 ice cream sandwich) . I need to upgrade  Jelly Bean . How can I do this. Can I get update version automatically or manually will update??",
+    "ViewCount":"709",
+    "LastActivityDate":"2012-11-26T04:27:41.380",
+    "ClosedDate":"2012-11-26T18:27:02.677",
+    "Title":"Upgrade to Jelly Bean in Sony Tipo",
+    "LastEditorUserId":null,
+    "Tags":"<4.0-ice-cream-sandwich><4.1-jelly-bean>",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"21104",
+    "CreationDate":"2012-11-26T04:27:41.380",
+    "FavoriteCount":"0",
+    "Id":"34078",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-26T04:27:41.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddcd3d3f-036e-4a47-8134-e8a2df694fd8",
+            "UserId":"21104",
+            "CloseReasonId":null,
+            "PostId":"34078",
+            "PostHistoryTypeId":"2",
+            "Id":"101126",
+            "Text":"I have Sony Tipo (Android OS 4.0 ice cream sandwich) . I need to upgrade  Jelly Bean . How can I do this. Can I get update version automatically or manually will update??"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-26T04:27:41.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddcd3d3f-036e-4a47-8134-e8a2df694fd8",
+            "UserId":"21104",
+            "CloseReasonId":null,
+            "PostId":"34078",
+            "PostHistoryTypeId":"1",
+            "Id":"101127",
+            "Text":"Upgrade to Jelly Bean in Sony Tipo"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2012-11-26T04:27:41.380",
+            "UserDisplayName":null,
+            "RevisionGUID":"ddcd3d3f-036e-4a47-8134-e8a2df694fd8",
+            "UserId":"21104",
+            "CloseReasonId":null,
+            "PostId":"34078",
+            "PostHistoryTypeId":"3",
+            "Id":"101128",
+            "Text":"<4.0-ice-cream-sandwich><4.1-jelly-bean>"
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2012-11-26T18:27:02.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"82a64d2f-d3c3-499f-9b69-c29dffca2c68",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"34078",
+            "PostHistoryTypeId":"5",
+            "Id":"101343",
+            "Text":"> **Possible Duplicate:**  > [How do I update the OS on my device?](http:\/\/android.stackexchange.com\/questions\/13510\/how-do-i-update-the-os-on-my-device)  > [When will my device get the Android 4.1 update (Jelly Bean)?](http:\/\/android.stackexchange.com\/questions\/24575\/when-will-my-device-get-the-android-4-1-update-jelly-bean)  I have Sony Tipo (Android OS 4.0 ice cream sandwich) . I need to upgrade  Jelly Bean . How can I do this. Can I get update version automatically or manually will update??"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2012-11-26T18:27:02.677",
+            "UserDisplayName":null,
+            "RevisionGUID":"85501ab6-156a-4c66-b79e-ad20867f0c7a",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"34078",
+            "PostHistoryTypeId":"10",
+            "Id":"101344",
+            "Text":"{\"OriginalQuestionIds\":[13510,24575],\"Voters\":[{\"Id\":475,\"DisplayName\":\"onik\"},{\"Id\":16575,\"DisplayName\":\"Izzy\"},{\"Id\":15713,\"DisplayName\":\"ce4\"},{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":440,\"DisplayName\":\"Flow\"}]}"
+        }
+    ]
+}

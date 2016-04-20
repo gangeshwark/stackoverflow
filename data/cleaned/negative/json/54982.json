@@ -1,0 +1,83 @@
+{
+    "Body":"What does it mean when Wi-Fi icon is gray?Internet is working at the moment.Screenshot (click image for larger variant)",
+    "ViewCount":"329",
+    "LastActivityDate":"2013-10-13T11:53:39.493",
+    "ClosedDate":"2013-10-13T03:15:35.700",
+    "Title":"What does it mean when Wi-Fi icon is gray?",
+    "LastEditorUserId":"16575",
+    "Tags":"",
+    "LastEditDate":"2013-10-13T11:53:39.493",
+    "CommentCount":"1",
+    "AnswerCount":"1",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"15099",
+    "CreationDate":"2013-10-12T22:53:26.573",
+    "FavoriteCount":null,
+    "Id":"54982",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-12T22:53:26.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b3cb36d-9d17-4907-ad70-2ba91db59fd7",
+            "UserId":"15099",
+            "CloseReasonId":null,
+            "PostId":"54982",
+            "PostHistoryTypeId":"2",
+            "Id":"182578",
+            "Text":"What does it mean when Wi-Fi icon is gray?Internet is working at the moment.![enter image description here][1]  [1]: http:\/\/i.stack.imgur.com\/okXKv.jpg"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-12T22:53:26.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b3cb36d-9d17-4907-ad70-2ba91db59fd7",
+            "UserId":"15099",
+            "CloseReasonId":null,
+            "PostId":"54982",
+            "PostHistoryTypeId":"1",
+            "Id":"182579",
+            "Text":"What does it mean when Wi-Fi icon is gray?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2013-10-12T22:53:26.573",
+            "UserDisplayName":null,
+            "RevisionGUID":"2b3cb36d-9d17-4907-ad70-2ba91db59fd7",
+            "UserId":"15099",
+            "CloseReasonId":null,
+            "PostId":"54982",
+            "PostHistoryTypeId":"3",
+            "Id":"182580",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2013-10-13T03:15:35.700",
+            "UserDisplayName":null,
+            "RevisionGUID":"a54e1131-1518-45e2-bad1-47d943dc9e56",
+            "UserId":"981",
+            "CloseReasonId":null,
+            "PostId":"54982",
+            "PostHistoryTypeId":"10",
+            "Id":"182597",
+            "Text":"{\"OriginalQuestionIds\":[9642],\"Voters\":[{\"Id\":267,\"DisplayName\":\"Al Everett\"},{\"Id\":23379,\"DisplayName\":\"Sid\"},{\"Id\":981,\"DisplayName\":\"eldarerathis\"}]}"
+        },
+        {
+            "Comment":"resized image and linked it to the large variant",
+            "CreationDate":"2013-10-13T11:53:39.493",
+            "UserDisplayName":null,
+            "RevisionGUID":"5acb0150-5296-4ed9-b718-8db9f7839654",
+            "UserId":"16575",
+            "CloseReasonId":null,
+            "PostId":"54982",
+            "PostHistoryTypeId":"5",
+            "Id":"182652",
+            "Text":"What does it mean when Wi-Fi icon is gray?Internet is working at the moment.[![Screenshot][1]][2]  Screenshot (click image for larger variant)  [1]: http:\/\/i.stack.imgur.com\/lzuXn.jpg  [2]: http:\/\/i.stack.imgur.com\/okXKv.jpg"
+        }
+    ]
+}

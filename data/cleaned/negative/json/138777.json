@@ -1,0 +1,71 @@
+{
+    "Body":"Urgent answer is needed please. I've already download Kingo Root and successfully rooted the phone but it seems not to be working or that I don't know how to use it efficiently.",
+    "ViewCount":"6",
+    "LastActivityDate":"2016-03-04T08:29:11.740",
+    "ClosedDate":"2016-03-04T08:46:24.397",
+    "Title":"How can i upgrade my Opsson IVO 6622 which is running android 4.2.2 to android 5.1?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"0",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"-1",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"154493",
+    "CreationDate":"2016-03-04T08:29:11.740",
+    "FavoriteCount":null,
+    "Id":"138777",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T08:29:11.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdf78513-7751-4342-bc70-c82ba48ad8db",
+            "UserId":"154493",
+            "CloseReasonId":null,
+            "PostId":"138777",
+            "PostHistoryTypeId":"2",
+            "Id":"463889",
+            "Text":"Urgent answer is needed please. I've already download Kingo Root and successfully rooted the phone but it seems not to be working or that I don't know how to use it efficiently."
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T08:29:11.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdf78513-7751-4342-bc70-c82ba48ad8db",
+            "UserId":"154493",
+            "CloseReasonId":null,
+            "PostId":"138777",
+            "PostHistoryTypeId":"1",
+            "Id":"463890",
+            "Text":"How can i upgrade my Opsson IVO 6622 which is running android 4.2.2 to android 5.1?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2016-03-04T08:29:11.740",
+            "UserDisplayName":null,
+            "RevisionGUID":"cdf78513-7751-4342-bc70-c82ba48ad8db",
+            "UserId":"154493",
+            "CloseReasonId":null,
+            "PostId":"138777",
+            "PostHistoryTypeId":"3",
+            "Id":"463891",
+            "Text":""
+        },
+        {
+            "Comment":"101",
+            "CreationDate":"2016-03-04T08:46:24.397",
+            "UserDisplayName":null,
+            "RevisionGUID":"1b2824ba-5eac-4489-9887-8e1e23982546",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"138777",
+            "PostHistoryTypeId":"10",
+            "Id":"463900",
+            "Text":"{\"OriginalQuestionIds\":[13510],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}

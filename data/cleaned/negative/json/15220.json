@@ -1,0 +1,83 @@
+{
+    "Body":"  Possible Duplicate:  Why does the 3G connection drop issue happen on all Verizon 4G LTE handsets?  Periodically (a few times a week), my Droid Bionic (stock Gingerbread 2.3.4) will lose access to all data services (Wifi, 3G\/4G) for no apparent reason.  The only sure way out seems to be powering the phone off and restarting it, although the last time I tried using Sleep instead of power off it did reset.   When it goes out, the only icon in the notification area is the signal strength \"bars\" area, which goes white.    No 3G\/4GLTE, or Wifi icon is present.How do I determine if this is a Gingerbread issue or a hardware issue with my phone?",
+    "ViewCount":"1784",
+    "LastActivityDate":"2011-11-03T02:49:17.273",
+    "ClosedDate":"2011-11-03T15:42:31.367",
+    "Title":"Droid Bionic loses all data connectivity (Wifi & 3G\/4G) intermittently. Software or hardware issue?",
+    "LastEditorUserId":null,
+    "Tags":"",
+    "LastEditDate":null,
+    "CommentCount":"2",
+    "AnswerCount":"0",
+    "AcceptedAnswerId":null,
+    "Score":"0",
+    "CommunityOwnedDate":null,
+    "LastEditorDisplayName":null,
+    "PostTypeId":"1",
+    "OwnerUserId":"155",
+    "CreationDate":"2011-11-03T02:49:17.273",
+    "FavoriteCount":null,
+    "Id":"15220",
+    "history":[
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-03T02:49:17.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"186d5e0b-73a0-41da-aa06-3d76b9211148",
+            "UserId":"155",
+            "CloseReasonId":null,
+            "PostId":"15220",
+            "PostHistoryTypeId":"2",
+            "Id":"40740",
+            "Text":"Periodically (a few times a week), my Droid Bionic (stock Gingerbread 2.3.4) will lose access to all data services (Wifi, 3G\/4G) for no apparent reason.  The only sure way out seems to be powering the phone off and restarting it, although the last time I tried using Sleep instead of power off it did reset.   When it goes out, the only icon in the notification area is the signal strength \"bars\" area, which goes white.    No 3G\/4GLTE, or Wifi icon is present.How do I determine if this is a Gingerbread issue or a hardware issue with my phone?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-03T02:49:17.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"186d5e0b-73a0-41da-aa06-3d76b9211148",
+            "UserId":"155",
+            "CloseReasonId":null,
+            "PostId":"15220",
+            "PostHistoryTypeId":"1",
+            "Id":"40741",
+            "Text":"Droid Bionic loses all data connectivity (Wifi & 3G\/4G) intermittently. Software or hardware issue?"
+        },
+        {
+            "Comment":null,
+            "CreationDate":"2011-11-03T02:49:17.273",
+            "UserDisplayName":null,
+            "RevisionGUID":"186d5e0b-73a0-41da-aa06-3d76b9211148",
+            "UserId":"155",
+            "CloseReasonId":null,
+            "PostId":"15220",
+            "PostHistoryTypeId":"3",
+            "Id":"40742",
+            "Text":""
+        },
+        {
+            "Comment":"insert duplicate link",
+            "CreationDate":"2011-11-03T15:42:32.473",
+            "UserDisplayName":null,
+            "RevisionGUID":"70be04ef-5a3d-4706-9dd0-3289f956e571",
+            "UserId":"-1",
+            "CloseReasonId":null,
+            "PostId":"15220",
+            "PostHistoryTypeId":"5",
+            "Id":"40799",
+            "Text":"> **Possible Duplicate:**  > [Why does the 3G connection drop issue happen on all Verizon 4G LTE handsets?](http:\/\/android.stackexchange.com\/questions\/13683\/why-does-the-3g-connection-drop-issue-happen-on-all-verizon-4g-lte-handsets)  Periodically (a few times a week), my Droid Bionic (stock Gingerbread 2.3.4) will lose access to all data services (Wifi, 3G\/4G) for no apparent reason.  The only sure way out seems to be powering the phone off and restarting it, although the last time I tried using Sleep instead of power off it did reset.   When it goes out, the only icon in the notification area is the signal strength \"bars\" area, which goes white.    No 3G\/4GLTE, or Wifi icon is present.How do I determine if this is a Gingerbread issue or a hardware issue with my phone?"
+        },
+        {
+            "Comment":"1",
+            "CreationDate":"2011-11-03T15:42:31.367",
+            "UserDisplayName":null,
+            "RevisionGUID":"a649a4ff-4e7e-4296-a689-8e7157110a74",
+            "UserId":"1465",
+            "CloseReasonId":null,
+            "PostId":"15220",
+            "PostHistoryTypeId":"10",
+            "Id":"40800",
+            "Text":"{\"OriginalQuestionIds\":[13683],\"Voters\":[{\"Id\":1465,\"DisplayName\":\"Matthew Read\"}]}"
+        }
+    ]
+}
