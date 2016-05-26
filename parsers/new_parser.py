@@ -167,7 +167,7 @@ def isEnglish(s):
         return True
 
 
-def create_data(path):
+def create_data(path, global_path):
     new_path = os.path.join(path, 'cleaned')
     posi_hist_df = pd.read_csv(os.path.join(new_path, POSITIVE_HIS), encoding='utf-8')
     # neg_hist_df = pd.read_csv(os.path.join(new_path, NEGATIVE_HIS), encoding='utf-8')
@@ -232,7 +232,10 @@ def create_data(path):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("folder", help="Relative/Absolute path to the folder")
+    parser.add_argument("global_folder", help="Relative/Absolute path to the global output folder")
+
     args = parser.parse_args()
     print args.folder
+    print args.global_folder
     # parse(path=args.folder)
-    create_data(path=args.folder)
+    create_data(path=args.folder, global_path=args.global_folder)
