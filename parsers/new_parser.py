@@ -113,18 +113,23 @@ def remove_duplicate_tag(str):
     return str
 
 
-def remove_noise(str):
-    str = remove_duplicate_tag(str)
-    str = remove_brackets(str)
-    str = remove_url(str)  # remove all URLs from the screen
-    str = str.strip()  # remove \n from start and end of the screen
-    str = str.replace('\n', ' ').replace('\r', '')
-    str = re.sub(' *, *', ', ', str)  # replace "     ,     " with ", "
-    str = re.sub(' *\. *', '. ', str)  # replace "     .     " with ". "
-    str = re.sub('\( *\)', ' ', str)
-    str = re.sub('\[ *\]', ' ', str)
-    str = re.sub(' +', ' ', str)
+def check_language(str):
     return str
+
+
+def remove_noise(str):
+    if check_language(str):
+        str = remove_duplicate_tag(str)
+        str = remove_brackets(str)
+        str = remove_url(str)  # remove all URLs from the screen
+        str = str.strip()  # remove \n from start and end of the screen
+        str = str.replace('\n', ' ').replace('\r', '')
+        str = re.sub(' *, *', ', ', str)  # replace "     ,     " with ", "
+        str = re.sub(' *\. *', '. ', str)  # replace "     .     " with ". "
+        str = re.sub('\( *\)', ' ', str)
+        str = re.sub('\[ *\]', ' ', str)
+        str = re.sub(' +', ' ', str)
+        return str
 
 
 def test_similarity(str1, str2):
@@ -148,7 +153,20 @@ def similar(a, b):
 folder = ''
 input_file_name = 'all_posts.input'
 output_file_name = 'all_posts.output'
-global_path = 'data/'
+global_path = '/disk1/data/in_out/'
+
+ne = 0
+
+
+def isEnglish(s):
+    global ne
+    try:
+        s.decode('ascii')
+    except UnicodeDecodeError:
+        ne = ne + 1
+        return False
+    else:
+        return True
 
 
 def create_data(path):
@@ -174,6 +192,7 @@ def create_data(path):
         l = len(d.index)
         d.index = range(l)
         original_title = remove_noise(d.ix[0])
+
         print original_title
 
         print "*" * 10 + "edited title" + "*" * 10
@@ -182,10 +201,12 @@ def create_data(path):
         d.index = range(l)
         for x in xrange(l):
             edited_title = remove_noise(d.ix[x])
+            if not (isEnglish(edited_title) & isEnglish(original_title)):
+                continue
             print similar(original_title, edited_title)
             if not similar(original_title, edited_title):
-                input_file.write((original_title + "\n").encode('utf8'))
-                output_file.write((edited_title + "\n").encode('utf8'))
+                input_file.write((original_title + "\n"))  # .encode('utf8')
+                output_file.write((edited_title + "\n"))
                 print edited_title
         print "*" * 10 + "original body" + "*" * 10
         d = post_df.loc[post_df.PostHistoryTypeId == 2]['Text']
@@ -200,16 +221,19 @@ def create_data(path):
         d.index = range(l)
         for x in xrange(l):
             edited_body = remove_noise(d.ix[x])
-
+            if not (isEnglish(original_body) & isEnglish(edited_body)):
+                continue
             print similar(original_body, edited_body)
             if not similar(original_body, edited_body):
-                input_file.write((original_body + "\n").encode('utf8'))
-                output_file.write((edited_body + "\n").encode('utf8'))
+                input_file.write((original_body + "\n"))
+                output_file.write((edited_body + "\n"))
                 print edited_body
         print "+0" * 20
 
     input_file.close()
     output_file.close()
+    global ne
+    print ne
 
 
 if __name__ == '__main__':
