@@ -161,6 +161,8 @@ def isEnglish(s):
         s.decode('ascii')
     except UnicodeDecodeError:
         return False
+    except UnicodeEncodeError:
+        return False
     else:
         return True
 
