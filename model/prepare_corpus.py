@@ -15,7 +15,8 @@ from nltk import word_tokenize
 from model import CACHE_DIR
 from model.translate.data_utils import create_vocabulary, data_to_token_ids
 from model.get_data import MODERN_FILENAME, ORIGINAL_FILENAME, TRAIN_SUFFIX, DEV_SUFFIX
-from model.get_data import MODERN_PATH, ORIGINAL_PATH, MODERN_TRAIN_PATH, MODERN_DEV_PATH, ORIGINAL_TRAIN_PATH, ORIGINAL_DEV_PATH
+from model.get_data import MODERN_PATH, ORIGINAL_PATH, MODERN_TRAIN_PATH, MODERN_DEV_PATH, ORIGINAL_TRAIN_PATH, \
+    ORIGINAL_DEV_PATH
 
 # TODO: integrate all this in translate.py
 MODERN_VOCAB_FILENAME = "all_modern.vocab"
@@ -45,7 +46,7 @@ def _tokenizer(sentence):
     return [w for w in words if w]
 
 
-def tokenizer(sentence): # TODO: not working for apostrophes
+def tokenizer(sentence):  # TODO: not working for apostrophes
     sentence = sentence.strip().lower()
     if type(sentence) != unicode:
         sentence = unicode(sentence, encoding='utf-8', errors='replace')
@@ -58,8 +59,8 @@ def build_vocab():
     create_vocabulary(MODERN_VOCAB_PATH, MODERN_PATH, MODERN_VOCAB_MAX, tokenizer=tokenizer)
     create_vocabulary(ORIGINAL_VOCAB_PATH, ORIGINAL_PATH, ORIGINAL_VOCAB_MAX, tokenizer=tokenizer)
 
-    print( subprocess.check_output(['wc', '-l', MODERN_VOCAB_PATH]) )
-    print( subprocess.check_output(['wc', '-l', ORIGINAL_VOCAB_PATH]) )
+    print(subprocess.check_output(['wc', '-l', MODERN_VOCAB_PATH]))
+    print(subprocess.check_output(['wc', '-l', ORIGINAL_VOCAB_PATH]))
 
 
 def build_ids():
@@ -68,10 +69,10 @@ def build_ids():
     data_to_token_ids(ORIGINAL_TRAIN_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
     data_to_token_ids(ORIGINAL_DEV_PATH, ORIGINAL_DEV_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
 
-    print( subprocess.check_output(['wc', '-l', MODERN_TRAIN_IDS_PATH]) )
-    print( subprocess.check_output(['wc', '-l', MODERN_DEV_IDS_PATH]) )
-    print( subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_IDS_PATH]) )
-    print( subprocess.check_output(['wc', '-l', ORIGINAL_DEV_IDS_PATH]) )
+    print(subprocess.check_output(['wc', '-l', MODERN_TRAIN_IDS_PATH]))
+    print(subprocess.check_output(['wc', '-l', MODERN_DEV_IDS_PATH]))
+    print(subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_IDS_PATH]))
+    print(subprocess.check_output(['wc', '-l', ORIGINAL_DEV_IDS_PATH]))
 
 
 if __name__ == '__main__':

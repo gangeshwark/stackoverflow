@@ -1,7 +1,13 @@
-import os
+import HTMLParser
 import argparse
-import pandas as pd
+import os
 import xml.etree.ElementTree as ET
+
+import pandas as pd
+import re
+
+from difflib import SequenceMatcher
+from constants import ALL_POSTS, POSITIVE_HIS, NEGATIVE_HIS
 
 
 def iter_posts(post):
@@ -13,12 +19,15 @@ def iter_posts(post):
         yield row_dict
 
 
+def remove_tags(text):
+    passtext = HTMLParser.HTMLParser().unescape(text)
+    shortenedText = [e.lower() and e.translate(passtext.maketrans("", ""), passtext.punctuation) for e in text.split()
+                     if len(e) >= 3 and not e.startswith('http')]
+    print shortenedText
+
+
 # on AWS download the dataset to root or home folder and
 # use absolute path /data/<folder_name>
-POSITIVE_HIS = 'positive_history_data.csv'
-NEGATIVE_HIS = 'negative_history_data.csv'
-ALL_POSTS = 'all_posts_data.csv'
-
 
 def parse(path):
     new_path = os.path.join(path, 'cleaned')
@@ -81,12 +90,126 @@ def parse(path):
     print post_history_df.columns
     posi_hist_df = pd.DataFrame(pos_post_history_list, index=[x for x in xrange(i)], columns=post_history_df.columns)
     neg_hist_df = pd.DataFrame(neg_post_history_list, index=[x for x in xrange(j)], columns=post_history_df.columns)
-    print "-" * 5 + "POSITIVE" + "-" * 5
-    print posi_hist_df[:5]
-    print "-" * 5 + "NEGATIVE" + "-" * 5
-    print neg_hist_df[:5]
+    # print "-" * 5 + "POSITIVE" + "-" * 5
+    # print posi_hist_df[:5]
+    # print "-" * 5 + "NEGATIVE" + "-" * 5
+    # print neg_hist_df[:5]
     posi_hist_df.to_csv(os.path.join(new_path, POSITIVE_HIS), encoding='utf-8')
     neg_hist_df.to_csv(os.path.join(new_path, NEGATIVE_HIS), encoding='utf-8')
+
+
+def remove_url(str):
+    str = re.sub(r'https?:\S+', '', str, flags=re.MULTILINE)
+    return str
+
+
+def remove_brackets(str):
+    str = re.sub(r'\([^)]*\)', ' ', str)
+    return str
+
+
+def remove_duplicate_tag(str):
+    str = re.sub('> \*\*Possible Duplicate:\*\*.*?\-\->', '\n', str, flags=re.DOTALL)
+    return str
+
+
+def remove_noise(str):
+    str = remove_duplicate_tag(str)
+    str = remove_brackets(str)
+    str = remove_url(str)  # remove all URLs from the screen
+    str = str.strip()  # remove \n from start and end of the screen
+    str = str.replace('\n', ' ').replace('\r', '')
+    str = re.sub(' *, *', ', ', str)  # replace "     ,     " with ", "
+    str = re.sub(' *\. *', '. ', str)  # replace "     .     " with ". "
+    str = re.sub('\( *\)', ' ', str)
+    str = re.sub('\[ *\]', ' ', str)
+    str = re.sub(' +', ' ', str)
+    return str
+
+
+def test_similarity(str1, str2):
+    if str1 == str2:
+        return True
+    else:
+        return False
+
+
+# check if the 2 strings are at least 98% similar
+def similar(a, b):
+    val = SequenceMatcher(None, a, b).ratio()
+    val = round(val, 2)
+    if val <= 0.98:
+        return False
+    else:
+        return True
+
+
+# Creating dataset
+folder = ''
+input_file_name = 'all_posts.input'
+output_file_name = 'all_posts.output'
+global_path = 'data/'
+
+
+def create_data(path):
+    new_path = os.path.join(path, 'cleaned')
+    posi_hist_df = pd.read_csv(os.path.join(new_path, POSITIVE_HIS), encoding='utf-8')
+    # neg_hist_df = pd.read_csv(os.path.join(new_path, NEGATIVE_HIS), encoding='utf-8')
+
+    input_g_path = os.path.join(global_path, 'input')
+    output_g_path = os.path.join(global_path, 'output')
+    if not os.path.exists(input_g_path):
+        os.makedirs(input_g_path)
+    if not os.path.exists(output_g_path):
+        os.makedirs(output_g_path)
+    input_file = open(os.path.join(input_g_path, input_file_name), 'a+')
+    output_file = open(os.path.join(output_g_path, output_file_name), 'a+')
+
+    postids = posi_hist_df['PostId'].unique().tolist()
+    for postid in postids:
+        post_df = posi_hist_df.loc[posi_hist_df.PostId == postid]
+
+        print "*" * 10 + "original title" + "*" * 10
+        d = post_df.loc[post_df.PostHistoryTypeId == 1]['Text']
+        l = len(d.index)
+        d.index = range(l)
+        original_title = remove_noise(d.ix[0])
+        print original_title
+
+        print "*" * 10 + "edited title" + "*" * 10
+        d = post_df.loc[post_df.PostHistoryTypeId == 4]['Text']
+        l = len(d.index)
+        d.index = range(l)
+        for x in xrange(l):
+            edited_title = remove_noise(d.ix[x])
+            print similar(original_title, edited_title)
+            if not similar(original_title, edited_title):
+                input_file.write((original_title + "\n").encode('utf8'))
+                output_file.write((edited_title + "\n").encode('utf8'))
+                print edited_title
+        print "*" * 10 + "original body" + "*" * 10
+        d = post_df.loc[post_df.PostHistoryTypeId == 2]['Text']
+        l = len(d.index)
+        d.index = range(l)
+        original_body = remove_noise(d.ix[0])
+        print original_body
+
+        print "*" * 10 + "edited body" + "*" * 10
+        d = post_df.loc[post_df.PostHistoryTypeId == 5]['Text']
+        l = len(d.index)
+        d.index = range(l)
+        for x in xrange(l):
+            edited_body = remove_noise(d.ix[x])
+
+            print similar(original_body, edited_body)
+            if not similar(original_body, edited_body):
+                input_file.write((original_body + "\n").encode('utf8'))
+                output_file.write((edited_body + "\n").encode('utf8'))
+                print edited_body
+        print "+0" * 20
+
+    input_file.close()
+    output_file.close()
 
 
 if __name__ == '__main__':
@@ -94,4 +217,5 @@ if __name__ == '__main__':
     parser.add_argument("folder", help="Relative/Absolute path to the folder")
     args = parser.parse_args()
     print args.folder
-    parse(path=args.folder)
+    # parse(path=args.folder)
+    create_data(path=args.folder)
