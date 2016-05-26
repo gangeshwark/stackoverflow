@@ -153,17 +153,13 @@ def similar(a, b):
 folder = ''
 input_file_name = 'all_posts.input'
 output_file_name = 'all_posts.output'
-global_path = '/disk1/data/in_out/'
-
-ne = 0
+global_path = 'data/in_out/'
 
 
 def isEnglish(s):
-    global ne
     try:
         s.decode('ascii')
     except UnicodeDecodeError:
-        ne = ne + 1
         return False
     else:
         return True
@@ -173,7 +169,6 @@ def create_data(path):
     new_path = os.path.join(path, 'cleaned')
     posi_hist_df = pd.read_csv(os.path.join(new_path, POSITIVE_HIS), encoding='utf-8')
     # neg_hist_df = pd.read_csv(os.path.join(new_path, NEGATIVE_HIS), encoding='utf-8')
-
     input_g_path = os.path.join(global_path, 'input')
     output_g_path = os.path.join(global_path, 'output')
     if not os.path.exists(input_g_path):
@@ -201,13 +196,12 @@ def create_data(path):
         d.index = range(l)
         for x in xrange(l):
             edited_title = remove_noise(d.ix[x])
-            if not (isEnglish(edited_title) & isEnglish(original_title)):
-                continue
-            print similar(original_title, edited_title)
-            if not similar(original_title, edited_title):
-                input_file.write((original_title + "\n"))  # .encode('utf8')
-                output_file.write((edited_title + "\n"))
-                print edited_title
+            if (isEnglish(edited_title) & isEnglish(original_title)):
+                print similar(original_title, edited_title)
+                if not similar(original_title, edited_title):
+                    input_file.write((original_title + "\n"))  # .encode('utf8')
+                    output_file.write((edited_title + "\n"))
+                    print edited_title
         print "*" * 10 + "original body" + "*" * 10
         d = post_df.loc[post_df.PostHistoryTypeId == 2]['Text']
         l = len(d.index)
@@ -221,19 +215,16 @@ def create_data(path):
         d.index = range(l)
         for x in xrange(l):
             edited_body = remove_noise(d.ix[x])
-            if not (isEnglish(original_body) & isEnglish(edited_body)):
-                continue
-            print similar(original_body, edited_body)
-            if not similar(original_body, edited_body):
-                input_file.write((original_body + "\n"))
-                output_file.write((edited_body + "\n"))
-                print edited_body
+            if (isEnglish(original_body) & isEnglish(edited_body)):
+                print similar(original_body, edited_body)
+                if not similar(original_body, edited_body):
+                    input_file.write((original_body + "\n"))
+                    output_file.write((edited_body + "\n"))
+                    print edited_body
         print "+0" * 20
 
     input_file.close()
     output_file.close()
-    global ne
-    print ne
 
 
 if __name__ == '__main__':
