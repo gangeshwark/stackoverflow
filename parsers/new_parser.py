@@ -153,7 +153,6 @@ def similar(a, b):
 folder = ''
 input_file_name = 'all_posts.input'
 output_file_name = 'all_posts.output'
-global_path = 'data/in_out/'
 
 
 def isEnglish(s):
@@ -237,5 +236,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
     print args.folder
     print args.global_folder
-    # parse(path=args.folder)
+    parse(path=args.folder)
     create_data(path=args.folder, global_path=args.global_folder)

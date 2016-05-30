@@ -5,4 +5,7 @@ data : contains the dataset.
     
 
 After downloading the data, use the command
-`$ python parse.py`
+`$ cd parsers`
+`$ python new_parse.py <path_to_input_folder> <path_to_output_folder`
+
+input_folder should contain both Posts.xml and PostHistory.xml
