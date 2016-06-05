@@ -183,15 +183,11 @@ def create_data(path, global_path):
     for postid in postids:
         post_df = posi_hist_df.loc[posi_hist_df.PostId == postid]
 
-        print "*" * 10 + "original title" + "*" * 10
         d = post_df.loc[post_df.PostHistoryTypeId == 1]['Text']
         l = len(d.index)
         d.index = range(l)
         original_title = remove_noise(d.ix[0])
 
-        print original_title
-
-        print "*" * 10 + "edited title" + "*" * 10
         d = post_df.loc[post_df.PostHistoryTypeId == 4]['Text']
         l = len(d.index)
         d.index = range(l)
@@ -202,15 +198,17 @@ def create_data(path, global_path):
                 if not similar(original_title, edited_title):
                     input_file.write((original_title + "\n"))  # .encode('utf8')
                     output_file.write((edited_title + "\n"))
+                    print "*" * 10 + "original title" + "*" * 10
+                    print original_title
+
+                    print "*" * 10 + "edited title" + "*" * 10
                     print edited_title
-        print "*" * 10 + "original body" + "*" * 10
+
         d = post_df.loc[post_df.PostHistoryTypeId == 2]['Text']
         l = len(d.index)
         d.index = range(l)
         original_body = remove_noise(d.ix[0])
-        print original_body
 
-        print "*" * 10 + "edited body" + "*" * 10
         d = post_df.loc[post_df.PostHistoryTypeId == 5]['Text']
         l = len(d.index)
         d.index = range(l)
@@ -221,6 +219,10 @@ def create_data(path, global_path):
                 if not similar(original_body, edited_body):
                     input_file.write((original_body + "\n"))
                     output_file.write((edited_body + "\n"))
+                    print "*" * 10 + "original body" + "*" * 10
+                    print original_body
+
+                    print "*" * 10 + "edited body" + "*" * 10
                     print edited_body
         print "+0" * 20
 
