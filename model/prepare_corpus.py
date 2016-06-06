@@ -85,7 +85,8 @@ if __name__ == '__main__':
     # global INPUT_DIR, OUTPUT_DIR
     INPUT_DIR = args.in_folder
     OUTPUT_DIR = args.out_folder
-    # os.makedirs(OUTPUT_DIR)
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
     ORIGINAL_VOCAB_PATH = os.path.join(OUTPUT_DIR, ORIGINAL_VOCAB_FILENAME)
     EDITED_VOCAB_PATH = os.path.join(OUTPUT_DIR, EDITED_VOCAB_FILENAME)
 
