@@ -59,20 +59,33 @@ def build_vocab():
 
 
 def build_ids():
-    data_to_token_ids(ORIGINAL_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
-    # data_to_token_ids(ORIGINAL_DEV_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
-    data_to_token_ids(EDITED_PATH, EDITED_TRAIN_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
-    # data_to_token_ids(EDITED_DEV_PATH, EDITED_DEV_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
+    data_to_token_ids(ORIGINAL_TRAIN_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
+    data_to_token_ids(ORIGINAL_DEV_PATH, ORIGINAL_DEV_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
+    data_to_token_ids(EDITED_TRAIN_PATH, EDITED_TRAIN_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
+    data_to_token_ids(EDITED_DEV_PATH, EDITED_DEV_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
 
     print(subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_IDS_PATH]))
-    # print(subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_IDS_PATH]))
+    print(subprocess.check_output(['wc', '-l', ORIGINAL_DEV_IDS_PATH]))
     print(subprocess.check_output(['wc', '-l', EDITED_TRAIN_IDS_PATH]))
-    # print(subprocess.check_output(['wc', '-l', EDITED_TRAIN_IDS_PATH]))
+    print(subprocess.check_output(['wc', '-l', EDITED_DEV_IDS_PATH]))
 
 
 # for dividing data into training and testing dataset
-def divide_data():
-    pass
+def divide_data(split_size=1500):
+    # split the dataset into train and dev sets (i'm using shell scripts)
+
+    subprocess.call(['split', '-l', str(split_size), ORIGINAL_PATH])
+    subprocess.call(['mv', 'xaa', ORIGINAL_TRAIN_PATH])
+    subprocess.call(['mv', 'xab', ORIGINAL_DEV_PATH])
+
+    subprocess.call(['split', '-l', str(split_size), EDITED_PATH])
+    subprocess.call(['mv', 'xaa', EDITED_TRAIN_PATH])
+    subprocess.call(['mv', 'xab', EDITED_DEV_PATH])
+
+    print(subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_PATH]))
+    print(subprocess.check_output(['wc', '-l', ORIGINAL_DEV_PATH]))
+    print(subprocess.check_output(['wc', '-l', EDITED_TRAIN_PATH]))
+    print(subprocess.check_output(['wc', '-l', EDITED_DEV_PATH]))
 
 
 if __name__ == '__main__':
@@ -100,13 +113,13 @@ if __name__ == '__main__':
 
     ORIGINAL_PATH = os.path.join(INPUT_DIR, 'input', input_file_name)
     EDITED_PATH = os.path.join(INPUT_DIR, 'output', output_file_name)
-    """
+
     ORIGINAL_TRAIN_PATH = ORIGINAL_PATH + TRAIN_SUFFIX
     ORIGINAL_DEV_PATH = ORIGINAL_PATH + DEV_SUFFIX
 
     EDITED_TRAIN_PATH = EDITED_PATH + TRAIN_SUFFIX
     EDITED_DEV_PATH = EDITED_PATH + DEV_SUFFIX
-    """
+
     divide_data()
     build_vocab()
     build_ids()

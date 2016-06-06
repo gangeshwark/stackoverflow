@@ -31,60 +31,30 @@ import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 
+from model.get_data import DEV_SUFFIX, TRAIN_SUFFIX
 from model.translate import data_utils
 from model.translate import seq2seq_model
-from model.prepare_corpus import tokenizer
+from model.prepare_corpus import tokenizer, IDS_SUFFIX
 
 from tensorflow.python.platform import gfile
 
-tf.app.flags.DEFINE_float("learning_rate", 0.5, "Learning rate.")
-tf.app.flags.DEFINE_float("learning_rate_decay_factor", 0.99,
-                          "Learning rate decays by this much.")
-tf.app.flags.DEFINE_float("max_gradient_norm", 5.0,
-                          "Clip gradients to this norm.")
-tf.app.flags.DEFINE_integer("batch_size", 64,
-                            "Batch size to use during training.")
-tf.app.flags.DEFINE_integer("size", 1024, "Size of each model layer.")
-tf.app.flags.DEFINE_integer("num_layers", 3, "Number of layers in the model.")
-tf.app.flags.DEFINE_string("data_dir", "/tmp", "Data directory")
-tf.app.flags.DEFINE_string("train_dir", "/tmp", "Training directory.")
-tf.app.flags.DEFINE_integer("max_train_data_size", 0,
-                            "Limit on the size of training data (0: no limit).")
-tf.app.flags.DEFINE_integer("steps_per_checkpoint", 200,
-                            "How many training steps to do per checkpoint.")
-tf.app.flags.DEFINE_boolean("decode", False,
-                            "Set to True for interactive decoding.")
-tf.app.flags.DEFINE_boolean("self_test", False,
-                            "Run a self-test if this is set to True.")
+from parsers.new_parser import input_file_name, output_file_name
 
 """
-MODERN ~ Modern English
-ORIGINAL ~ Shakespeare
+ORIGINAL ~ Original Question Text
+EDITED ~ Edited Question Text that was reopened
 
 TensorFlow examples goes from EN -> FR.
-This script goes from MODERN -> ORIGINAL.
+This script goes from ORIGINAL -> EDITED.
 """
 
-from model.prepare_corpus import MODERN_TRAIN_IDS_PATH, MODERN_DEV_IDS_PATH, ORIGINAL_TRAIN_IDS_PATH, \
-    ORIGINAL_DEV_IDS_PATH
-from model.prepare_corpus import MODERN_VOCAB_PATH, ORIGINAL_VOCAB_PATH
-from model.prepare_corpus import MODERN_VOCAB_MAX, ORIGINAL_VOCAB_MAX
-
-tf.app.flags.DEFINE_string("en_train", MODERN_TRAIN_IDS_PATH, "modern train ids path")
-tf.app.flags.DEFINE_string("fr_train", ORIGINAL_TRAIN_IDS_PATH, "original train ids path")
-tf.app.flags.DEFINE_string("en_dev", MODERN_DEV_IDS_PATH, "modern dev ids path")
-tf.app.flags.DEFINE_string("fr_dev", ORIGINAL_DEV_IDS_PATH, "original dev ids path")
-tf.app.flags.DEFINE_string("en_vocab", MODERN_VOCAB_PATH, "modern vocab path")
-tf.app.flags.DEFINE_string("fr_vocab", ORIGINAL_VOCAB_PATH, "original vocab path")
-
-tf.app.flags.DEFINE_integer("en_vocab_size", MODERN_VOCAB_MAX, "modern vocabulary size")
-tf.app.flags.DEFINE_integer("fr_vocab_size", ORIGINAL_VOCAB_MAX, "original vocabulary size")
-
-FLAGS = tf.app.flags.FLAGS
+# from model.prepare_corpus import MODERN_TRAIN_IDS_PATH, MODERN_DEV_IDS_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_DEV_IDS_PATH
+# from model.prepare_corpus import MODERN_VOCAB_PATH, ORIGINAL_VOCAB_PATH
+# from model.prepare_corpus import MODERN_VOCAB_MAX, ORIGINAL_VOCAB_MAX
 
 # We use a number of buckets and pad to the closest one for efficiency.
 # See seq2seq_model.Seq2SeqModel for details of how they work.
-_buckets = [(5, 10), (10, 15), (20, 25), (50, 50)]  # , (70, 80), (180, 198)] # TODO: maybe filter out long sentences?
+_buckets = [(5, 10), (10, 15), (20, 25), (50, 50), (70, 80), (180, 198)]  # TODO: maybe filter out long sentences?
 
 
 def read_data(source_path, target_path, max_size=None):
@@ -315,4 +285,60 @@ def main(_):
 
 
 if __name__ == "__main__":
+    tf.app.flags.DEFINE_float("learning_rate", 0.5, "Learning rate.")
+    tf.app.flags.DEFINE_float("learning_rate_decay_factor", 0.99,
+                              "Learning rate decays by this much.")
+    tf.app.flags.DEFINE_float("max_gradient_norm", 5.0,
+                              "Clip gradients to this norm.")
+    tf.app.flags.DEFINE_integer("batch_size", 64,
+                                "Batch size to use during training.")
+    tf.app.flags.DEFINE_integer("size", 1024, "Size of each model layer.")
+    tf.app.flags.DEFINE_integer("num_layers", 3, "Number of layers in the model.")
+    tf.app.flags.DEFINE_string("data_dir", "/tmp", "Data directory")
+    tf.app.flags.DEFINE_string("train_dir", "/tmp", "Training directory.")
+    tf.app.flags.DEFINE_integer("max_train_data_size", 0,
+                                "Limit on the size of training data (0: no limit).")
+    tf.app.flags.DEFINE_integer("steps_per_checkpoint", 200,
+                                "How many training steps to do per checkpoint.")
+    tf.app.flags.DEFINE_boolean("decode", False,
+                                "Set to True for interactive decoding.")
+    tf.app.flags.DEFINE_boolean("self_test", False,
+                                "Run a self-test if this is set to True.")
+
+    FLAGS = tf.app.flags.FLAGS
+
+    ORIGINAL_VOCAB_FILENAME = "original.vocab"
+    EDITED_VOCAB_FILENAME = "edited.vocab"
+
+    MODERN_VOCAB_MAX = 10000
+    ORIGINAL_VOCAB_MAX = 10000
+
+    IDS_SUFFIX = ".ids"
+
+    OUTPUT_DIR = FLAGS.data_dir
+    INPUT_DIR = FLAGS.data_dir
+    ORIGINAL_VOCAB_PATH = os.path.join(OUTPUT_DIR, ORIGINAL_VOCAB_FILENAME)
+    EDITED_VOCAB_PATH = os.path.join(OUTPUT_DIR, EDITED_VOCAB_FILENAME)
+
+    ORIGINAL_TRAIN_IDS_PATH = os.path.join(OUTPUT_DIR, "original" + TRAIN_SUFFIX + IDS_SUFFIX)
+    ORIGINAL_DEV_IDS_PATH = os.path.join(OUTPUT_DIR, "original" + DEV_SUFFIX + IDS_SUFFIX)
+
+    EDITED_TRAIN_IDS_PATH = os.path.join(OUTPUT_DIR, "edited" + TRAIN_SUFFIX + IDS_SUFFIX)
+    EDITED_DEV_IDS_PATH = os.path.join(OUTPUT_DIR, "edited" + DEV_SUFFIX + IDS_SUFFIX)
+
+    ORIGINAL_PATH = os.path.join(INPUT_DIR, 'input', input_file_name)
+    EDITED_PATH = os.path.join(INPUT_DIR, 'output', output_file_name)
+
+    tf.app.flags.DEFINE_string("en_train", ORIGINAL_TRAIN_IDS_PATH, "modern train ids path")
+    tf.app.flags.DEFINE_string("fr_train", EDITED_TRAIN_IDS_PATH, "original train ids path")
+    tf.app.flags.DEFINE_string("en_dev", ORIGINAL_DEV_IDS_PATH, "modern dev ids path")
+    tf.app.flags.DEFINE_string("fr_dev", EDITED_DEV_IDS_PATH, "original dev ids path")
+    tf.app.flags.DEFINE_string("en_vocab", ORIGINAL_VOCAB_PATH, "modern vocab path")
+    tf.app.flags.DEFINE_string("fr_vocab", EDITED_VOCAB_PATH, "original vocab path")
+
+    tf.app.flags.DEFINE_integer("en_vocab_size", MODERN_VOCAB_MAX, "modern vocabulary size")
+    tf.app.flags.DEFINE_integer("fr_vocab_size", ORIGINAL_VOCAB_MAX, "original vocabulary size")
+
+    FLAGS = tf.app.flags.FLAGS
+
     tf.app.run()
