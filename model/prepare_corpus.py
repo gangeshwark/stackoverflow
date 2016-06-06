@@ -12,9 +12,9 @@ import re
 from unidecode import unidecode
 from nltk import word_tokenize
 
-from model import CACHE_DIR
+# from model import CACHE_DIR
 from model.translate.data_utils import create_vocabulary, data_to_token_ids
-from model.get_data import MODERN_FILENAME, ORIGINAL_FILENAME, TRAIN_SUFFIX, DEV_SUFFIX
+from model.get_data import TRAIN_SUFFIX, DEV_SUFFIX
 
 # from model.get_data import MODERN_PATH, ORIGINAL_PATH, MODERN_TRAIN_PATH, MODERN_DEV_PATH, ORIGINAL_TRAIN_PATH, \
 # ORIGINAL_DEV_PATH
@@ -22,6 +22,8 @@ from model.get_data import MODERN_FILENAME, ORIGINAL_FILENAME, TRAIN_SUFFIX, DEV
 # TODO: integrate all this in translate.py
 # MODERN_VOCAB_FILENAME = "all_modern.vocab"
 # ORIGINAL_VOCAB_FILENAME = "all_original.vocab"
+from parsers.new_parser import input_file_name, output_file_name
+
 ORIGINAL_VOCAB_FILENAME = "original.vocab"
 EDITED_VOCAB_FILENAME = "edited.vocab"
 
@@ -29,24 +31,6 @@ MODERN_VOCAB_MAX = 10000
 ORIGINAL_VOCAB_MAX = 10000
 
 IDS_SUFFIX = ".ids"
-
-ORIGINAL_VOCAB_PATH = os.path.join(CACHE_DIR, ORIGINAL_VOCAB_FILENAME)
-EDITED_VOCAB_PATH = os.path.join(CACHE_DIR, EDITED_VOCAB_FILENAME)
-
-ORIGINAL_TRAIN_IDS_PATH = os.path.join(CACHE_DIR, "original" + TRAIN_SUFFIX + IDS_SUFFIX)
-ORIGINAL_DEV_IDS_PATH = os.path.join(CACHE_DIR, "original" + DEV_SUFFIX + IDS_SUFFIX)
-
-EDITED_TRAIN_IDS_PATH = os.path.join(CACHE_DIR, "edited" + TRAIN_SUFFIX + IDS_SUFFIX)
-EDITED_DEV_IDS_PATH = os.path.join(CACHE_DIR, "edited" + DEV_SUFFIX + IDS_SUFFIX)
-
-_WORD_SPLIT = re.compile("([.,!?\"':;)(])")
-PATH = ''
-ORIGINAL_PATH = None
-EDITED_PATH = None
-ORIGINAL_TRAIN_PATH = None
-ORIGINAL_DEV_PATH = None
-EDITED_TRAIN_PATH = None
-EDITED_DEV_PATH = None
 
 
 def _tokenizer(sentence):
@@ -75,29 +59,53 @@ def build_vocab():
 
 
 def build_ids():
-    data_to_token_ids(ORIGINAL_TRAIN_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
-    data_to_token_ids(ORIGINAL_DEV_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
-    data_to_token_ids(EDITED_TRAIN_PATH, EDITED_TRAIN_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
-    data_to_token_ids(EDITED_DEV_PATH, EDITED_DEV_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
+    data_to_token_ids(ORIGINAL_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
+    # data_to_token_ids(ORIGINAL_DEV_PATH, ORIGINAL_TRAIN_IDS_PATH, ORIGINAL_VOCAB_PATH, tokenizer=tokenizer)
+    data_to_token_ids(EDITED_PATH, EDITED_TRAIN_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
+    # data_to_token_ids(EDITED_DEV_PATH, EDITED_DEV_IDS_PATH, EDITED_VOCAB_PATH, tokenizer=tokenizer)
 
     print(subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_IDS_PATH]))
-    print(subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_IDS_PATH]))
+    # print(subprocess.check_output(['wc', '-l', ORIGINAL_TRAIN_IDS_PATH]))
     print(subprocess.check_output(['wc', '-l', EDITED_TRAIN_IDS_PATH]))
-    print(subprocess.check_output(['wc', '-l', EDITED_DEV_IDS_PATH]))
+    # print(subprocess.check_output(['wc', '-l', EDITED_TRAIN_IDS_PATH]))
 
 
+# for dividing data into training and testing dataset
 def divide_data():
-
     pass
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("folder", help="Relative/Absolute path to the data folder")
+    parser.add_argument("in_folder", help="Relative/Absolute path to the data folder")
+    parser.add_argument("out_folder", help="Relative/Absolute path to the data folder")
     args = parser.parse_args()
-    print args.folder
-    global PATH
-    PATH = args.folder
+    print args.in_folder
+    print args.out_folder
+    # global INPUT_DIR, OUTPUT_DIR
+    INPUT_DIR = args.in_folder
+    OUTPUT_DIR = args.out_folder
+    # os.makedirs(OUTPUT_DIR)
+    ORIGINAL_VOCAB_PATH = os.path.join(OUTPUT_DIR, ORIGINAL_VOCAB_FILENAME)
+    EDITED_VOCAB_PATH = os.path.join(OUTPUT_DIR, EDITED_VOCAB_FILENAME)
+
+    ORIGINAL_TRAIN_IDS_PATH = os.path.join(OUTPUT_DIR, "original" + TRAIN_SUFFIX + IDS_SUFFIX)
+    ORIGINAL_DEV_IDS_PATH = os.path.join(OUTPUT_DIR, "original" + DEV_SUFFIX + IDS_SUFFIX)
+
+    EDITED_TRAIN_IDS_PATH = os.path.join(OUTPUT_DIR, "edited" + TRAIN_SUFFIX + IDS_SUFFIX)
+    EDITED_DEV_IDS_PATH = os.path.join(OUTPUT_DIR, "edited" + DEV_SUFFIX + IDS_SUFFIX)
+
+    _WORD_SPLIT = re.compile("([.,!?\"':;)(])")
+
+    ORIGINAL_PATH = os.path.join(INPUT_DIR, 'input', input_file_name)
+    EDITED_PATH = os.path.join(INPUT_DIR, 'output', output_file_name)
+    """
+    ORIGINAL_TRAIN_PATH = ORIGINAL_PATH + TRAIN_SUFFIX
+    ORIGINAL_DEV_PATH = ORIGINAL_PATH + DEV_SUFFIX
+
+    EDITED_TRAIN_PATH = EDITED_PATH + TRAIN_SUFFIX
+    EDITED_DEV_PATH = EDITED_PATH + DEV_SUFFIX
+    """
     divide_data()
     build_vocab()
     build_ids()
